@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego e Loony Johnson.",
-  "num_followers": 44572,
+  "num_followers": 44621,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDc4NTg1MTEyMWQyYWQ3Nzg4ZjdhZGVhNDk0NTY3NGU3ZGUzOTQ5",
+  "snapshot_id": "MCw3MWVmN2JmNTg0YTBhODcxYTE4YTUxMDk1NDE1YzI2NDMxYzhhYmMx",
   "tracks": [
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Heran\u00e7a",
-        "url": "https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n"
-      },
-      "artists": [
-        {
-          "name": "Silly",
-          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Heran\u00e7a",
-      "url": "https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Me perdoa",
         "url": "https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 177391,
       "name": "Me perdoa",
       "url": "https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n"
+      },
+      "artists": [
+        {
+          "name": "Silly",
+          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Heran\u00e7a",
+      "url": "https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Party All Night",
-        "url": "https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS"
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV"
       },
       "artists": [
         {
-          "name": "Vinagre",
-          "url": "https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5"
+          "name": "Nadav",
+          "url": "https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0"
+      "duration_ms": 172800,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1ZyWOoBhKX46OToNwBWJUt"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV"
+        "name": "Party All Night",
+        "url": "https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS"
       },
       "artists": [
         {
-          "name": "Nadav",
-          "url": "https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9"
+          "name": "Vinagre",
+          "url": "https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1ZyWOoBhKX46OToNwBWJUt"
+      "duration_ms": 192000,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0"
     },
     {
       "added_at": "2024-03-29 00:00:00",

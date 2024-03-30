@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: Zouhair Bahaoui
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,213 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,241 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 37 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 |
 | 38 | [Massari](https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Massari](https://open.spotify.com/album/1h30k7HoeTkiFmlnBub3xg) | 3:26 |
 | 39 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 |
-| 40 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 |
+| 40 | [حبيبي](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [حبيبي](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 |
 | 41 | [Andak \- عنداك](https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Andak \(عنداك\)](https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM) | 2:46 |
 | 42 | [Symphonia](https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Symphonia](https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3) | 3:24 |
 | 43 | [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 59 | [3lah 3lah](https://open.spotify.com/track/6mjWcrUhGtvPwAaRMN00e5) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [3lah 3lah](https://open.spotify.com/album/3lznrciIl9B3q553B3CiVw) | 3:02 |
 | 60 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 |
 
-Snapshot ID: `MCxlZjA3YWRmMGNiMWY5YTU2YTQ1Njc3YmExOGJlMGQ3NmQzOGQ5YjEx`
+Snapshot ID: `MCwxNGFhYWFhYjA5MjllYzdlMGNmMTRiY2Y5NTY5OTJmMzFkNzAyODI4`

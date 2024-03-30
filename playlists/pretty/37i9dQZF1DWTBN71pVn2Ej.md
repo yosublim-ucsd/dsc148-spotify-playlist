@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,809 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,833 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,18 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 44 | [Karma](https://open.spotify.com/track/3bVpADrmV8LWwreYBRkfJl) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Karma](https://open.spotify.com/album/3fleYtZ7Ittr0UD0o5yEnQ) | 3:28 |
 | 45 | [Under Sound](https://open.spotify.com/track/30Rr0DHxZSrwds8QmxGopf) | [Prize Horse](https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD) | [Under Sound](https://open.spotify.com/album/0TP4Dcx8E8VLkNTkZe90pU) | 4:28 |
 | 46 | [Crumbling](https://open.spotify.com/track/0LrNlyjutQwOTcxjNThoYW) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Madison & Floral](https://open.spotify.com/album/5VKs9SQxgi4fxI0tpulrAp) | 3:13 |
-| 47 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
-| 48 | [Rug](https://open.spotify.com/track/5diR0rIuLlwQPwhHr4c7oq) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Overthinking Everything](https://open.spotify.com/album/4tgOzgaMwxPVQXpG9BIzP2) | 1:54 |
-| 49 | [hi mute](https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [hi mute](https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD) | 2:44 |
-| 50 | [Cellophane](https://open.spotify.com/track/1hKN1kdhCZ80PeTdSbiIKt) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/3KwC7ZqUBPkS02VmmV6Xlw) | 4:04 |
-| 51 | [Holding The Knife](https://open.spotify.com/track/6UdwDiKUZj1ebfY3dGwH3R) | [Cloned Apparition](https://open.spotify.com/artist/5z85YDvDTI4PpjZ8t2sBuN) | [World Powered](https://open.spotify.com/album/4R9fGfhDIdbXnDCGUrYuVH) | 3:20 |
-| 52 | [Daretomove](https://open.spotify.com/track/2K1cFNyLVoKWw4RdHWRmDe) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Daretomove](https://open.spotify.com/album/7vLjgVRDEP2irwKaT4P1hX) | 3:12 |
-| 53 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 |
-| 54 | [Fear](https://open.spotify.com/track/1Zo3Qf54R4NWY7otptNRAc) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Free Fall](https://open.spotify.com/album/0BZHTVivmA1yqKFYXYAYJd) | 3:28 |
-| 55 | [Kids](https://open.spotify.com/track/6yFPiMOCa00P1y0QupLQtL) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Violent Picture / Violent Sound](https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT) | 4:00 |
-| 56 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 |
-| 57 | [Blue Sky](https://open.spotify.com/track/1aQgDoin5W59DV8XayTlbK) | [Big World](https://open.spotify.com/artist/1iXlRbJ302iGzpBlPs773g) | [Blue Sky](https://open.spotify.com/album/4REq7tbkedlik4lirEXitL) | 2:26 |
-| 58 | [I Want To Be Invisible](https://open.spotify.com/track/2rGVvk7cUGv4uJxXk0xIaX) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Rationale](https://open.spotify.com/album/653MF1FIBn8pYkgqsg4bxV) | 2:16 |
-| 59 | [Clementine](https://open.spotify.com/track/7AxasOJ0ksH6jDzWXLnTqM) | [Gravedweller](https://open.spotify.com/artist/3TB2BAG8xnarUNFNGLG4RX) | [Clementine/Geeked](https://open.spotify.com/album/486qhyhOlmxt6q3xAABtTp) | 2:36 |
+| 47 | [Tragedy](https://open.spotify.com/track/5Q0WzHDGAzdxkKIO4xP2To) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf) | [Tragedy](https://open.spotify.com/album/2rnjPeQAtqf4PpTHg3fZen) | 4:26 |
+| 48 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
+| 49 | [Rug](https://open.spotify.com/track/5diR0rIuLlwQPwhHr4c7oq) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Overthinking Everything](https://open.spotify.com/album/4tgOzgaMwxPVQXpG9BIzP2) | 1:54 |
+| 50 | [hi mute](https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [hi mute](https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD) | 2:44 |
+| 51 | [Cellophane](https://open.spotify.com/track/1hKN1kdhCZ80PeTdSbiIKt) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/3KwC7ZqUBPkS02VmmV6Xlw) | 4:04 |
+| 52 | [Holding The Knife](https://open.spotify.com/track/6UdwDiKUZj1ebfY3dGwH3R) | [Cloned Apparition](https://open.spotify.com/artist/5z85YDvDTI4PpjZ8t2sBuN) | [World Powered](https://open.spotify.com/album/4R9fGfhDIdbXnDCGUrYuVH) | 3:20 |
+| 53 | [Daretomove](https://open.spotify.com/track/2K1cFNyLVoKWw4RdHWRmDe) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Daretomove](https://open.spotify.com/album/7vLjgVRDEP2irwKaT4P1hX) | 3:12 |
+| 54 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 |
+| 55 | [Fear](https://open.spotify.com/track/1Zo3Qf54R4NWY7otptNRAc) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Free Fall](https://open.spotify.com/album/0BZHTVivmA1yqKFYXYAYJd) | 3:28 |
+| 56 | [Kids](https://open.spotify.com/track/6yFPiMOCa00P1y0QupLQtL) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Violent Picture / Violent Sound](https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT) | 4:00 |
+| 57 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 |
+| 58 | [Blue Sky](https://open.spotify.com/track/1aQgDoin5W59DV8XayTlbK) | [Big World](https://open.spotify.com/artist/1iXlRbJ302iGzpBlPs773g) | [Blue Sky](https://open.spotify.com/album/4REq7tbkedlik4lirEXitL) | 2:26 |
+| 59 | [I Want To Be Invisible](https://open.spotify.com/track/2rGVvk7cUGv4uJxXk0xIaX) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Rationale](https://open.spotify.com/album/653MF1FIBn8pYkgqsg4bxV) | 2:16 |
+| 60 | [Clementine](https://open.spotify.com/track/7AxasOJ0ksH6jDzWXLnTqM) | [Gravedweller](https://open.spotify.com/artist/3TB2BAG8xnarUNFNGLG4RX) | [Clementine/Geeked](https://open.spotify.com/album/486qhyhOlmxt6q3xAABtTp) | 2:36 |
 
-Snapshot ID: `MCxmNDc5Y2VkYmMxOGE4NWM2YmU4YmVlYWU4Y2M0YTQyYjQ1ZWEwMDY2`
+Snapshot ID: `MCxlM2E1M2U1YTNjN2VhOWExNmI3YjEzZDc4NTFkNjVlNzZmYmIyM2Yy`

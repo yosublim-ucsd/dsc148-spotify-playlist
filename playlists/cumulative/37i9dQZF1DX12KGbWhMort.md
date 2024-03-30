@@ -4,19 +4,20 @@
 
 > Dale play, y que el amor no pare.
 
-135 songs - 9 hr 10 min
+136 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2021-10-22 |  |
 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 | 2021-10-22 |  |
+| [Amarte Así \- En Vivo](https://open.spotify.com/track/1n7gk83L4L4P58Zynk08a8) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Amarte Así \(En vivo\)](https://open.spotify.com/album/06POrhViIkhGFmQeX5b2nD) | 3:22 | 2024-03-29 |  |
 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 | 2021-10-22 |  |
 | [Amor Prohibido](https://open.spotify.com/track/6VyDfAb4iAIDpdUU4aWhTG) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Amor Prohibido](https://open.spotify.com/album/24RUqD73FTX21yyLa3lk8x) | 3:56 | 2021-10-22 | 2023-10-18 |
 | [Amor Prohibido](https://open.spotify.com/track/0TWV9Q3Okgi1VrTPT3Arh5) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/29IjcCBllsltvShSWJ40Ol) | 3:57 | 2021-10-22 | 2022-07-29 |
 | [Amor Prohibido](https://open.spotify.com/track/3Y5RCFsFclkDXILBA9M2ko) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Hitazos de mañana](https://open.spotify.com/album/0AXb7RRTfYjujGce5WzUpG) | 3:58 | 2021-10-22 | 2022-11-13 |
 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 | 2021-10-22 |  |
 | [Aunque Ahora Estés Con El](https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 3:34 | 2021-10-22 |  |
-| [Aunque no te pueda ver](https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad \(american edition\)](https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1) | 4:25 | 2021-10-22 |  |
+| [Aunque no te pueda ver](https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad \(american edition\)](https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1) | 4:25 | 2021-10-22 | 2024-03-30 |
 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 | 2021-10-22 |  |
 | [Bailar Pegados](https://open.spotify.com/track/0hQB1GfW6jHJDXKDj7SOC9) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Música Familiar](https://open.spotify.com/album/5yVQP0400yAbthiQ3LDptH) | 4:32 | 2021-10-22 | 2022-11-13 |
 | [Bailar Pegados](https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sintiendonos La Piel](https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX) | 4:36 | 2021-10-22 | 2022-07-29 |

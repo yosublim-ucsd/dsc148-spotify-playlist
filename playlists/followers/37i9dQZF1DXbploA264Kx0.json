@@ -1,9 +1,31 @@
 {
-  "2024-03-29": 24740,
+  "2024-03-30": 24751,
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Super Napkin",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Howard Lee (\u674e\u6d69\u744b)",
   "name": "The Sound of Formosa",
   "tracks": [
+    {
+      "album": {
+        "name": "1000 YEARS (\u5343\u5e74)",
+        "url": "https://open.spotify.com/album/5RfLV2zLH56AcJN1QKn0hF"
+      },
+      "artists": [
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "J.Sheon",
+          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212561,
+      "name": "1000 YEARS (feat. J.Sheon)",
+      "url": "https://open.spotify.com/track/67TuQdtODeww6KloczBVtv"
+    },
     {
       "album": {
         "name": "2024 Team Taiwan",
@@ -302,6 +324,46 @@
     },
     {
       "album": {
+        "name": "Can You Fix It",
+        "url": "https://open.spotify.com/album/6tbjnicCHxbuAtSQuq3xS7"
+      },
+      "artists": [
+        {
+          "name": "Yokkorio",
+          "url": "https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174863,
+      "name": "Can You Fix It",
+      "url": "https://open.spotify.com/track/6C7tnzMVfOPgxPhjigd3kf"
+    },
+    {
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/1nbOlxFDqQJYI1FcXJn4JX"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Red Hood Squad",
+          "url": "https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/6a1KogheIeQ34Y1ZwN2q34"
+    },
+    {
+      "album": {
         "name": "CLOUD 9",
         "url": "https://open.spotify.com/album/7iDLISX1nf2helOPlrwouj"
       },
@@ -465,7 +527,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 210213,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/43l6cr0F3VdjBLDOWq081Q"
@@ -523,7 +585,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 173538,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX"
@@ -686,6 +748,28 @@
     },
     {
       "album": {
+        "name": "HUNG UP",
+        "url": "https://open.spotify.com/album/7A5qcUPr93rD3kqu3s3X04"
+      },
+      "artists": [
+        {
+          "name": "Nini Music",
+          "url": "https://open.spotify.com/artist/4iggZUAEXfBeJH9DjKwccm"
+        },
+        {
+          "name": "NiNi",
+          "url": "https://open.spotify.com/artist/1yRlzSYXePSpSnffspTXYQ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195187,
+      "name": "HUNG UP",
+      "url": "https://open.spotify.com/track/1R2Sq0FGXh7J27Pe4u0Viv"
+    },
+    {
+      "album": {
         "name": "I Could",
         "url": "https://open.spotify.com/album/4i4FIbpSC1ms15o6HtDf8C"
       },
@@ -834,6 +918,32 @@
     },
     {
       "album": {
+        "name": "\u8d8a\u6d0b\u96fb\u8a71, Vol. 1",
+        "url": "https://open.spotify.com/album/4PsbzDRyyoTbZ9TfN68l97"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        },
+        {
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
+        },
+        {
+          "name": "OOG",
+          "url": "https://open.spotify.com/artist/5UG5vVkxLw3HdVJrrxgFqD"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235747,
+      "name": "Looonely",
+      "url": "https://open.spotify.com/track/1lBxGvrnW7wUVfPNurc9Wj"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/5NJGsSkcBtzm8qRG4DB7nP"
       },
@@ -845,7 +955,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 180000,
       "name": "Lover",
       "url": "https://open.spotify.com/track/5RjRlnM5doKCqBv0ureyJe"
@@ -1035,7 +1145,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 169433,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/213vfj5F7G3K9boSZwFwPf"
@@ -1240,6 +1350,28 @@
     },
     {
       "album": {
+        "name": "Pretense",
+        "url": "https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267986,
+      "name": "Pretense",
+      "url": "https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj"
+    },
+    {
+      "album": {
         "name": "Race of Faith (ft. YELLOW\u9ec3\u5ba3)",
         "url": "https://open.spotify.com/album/3iddxJeDMT2wCg08x8kRpZ"
       },
@@ -1317,7 +1449,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 192923,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/2FUz2OaOgJKODHxHwo5ZLW"
@@ -1339,6 +1471,28 @@
       "duration_ms": 241893,
       "name": "Sent",
       "url": "https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM"
+    },
+    {
+      "album": {
+        "name": "SEX TAPE",
+        "url": "https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255287,
+      "name": "SEX TAPE",
+      "url": "https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr"
     },
     {
       "album": {
@@ -1383,7 +1537,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 117996,
       "name": "Side2Side (feat. Kris Kiss)",
       "url": "https://open.spotify.com/track/4fW6SaZcLGqorpZ8iORrNt"
@@ -1437,7 +1591,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 238513,
       "name": "Split Personality",
       "url": "https://open.spotify.com/track/4pPN21vwQWAvKPdV8Ek08s"
@@ -1643,7 +1797,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 229000,
       "name": "The Way We Were - Remix",
       "url": "https://open.spotify.com/track/4mBjUaCp1tituvl2n9azzE"
@@ -1785,7 +1939,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 202000,
       "name": "UMAMI",
       "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
@@ -1847,6 +2001,28 @@
       "duration_ms": 188564,
       "name": "What Can I Do (feat. J.Sheon)",
       "url": "https://open.spotify.com/track/7E3E4nQdBTv2rm3uMtGFgA"
+    },
+    {
+      "album": {
+        "name": "WHY AM I HERE",
+        "url": "https://open.spotify.com/album/1RVNd9HerLJAD5CUsTFCU1"
+      },
+      "artists": [
+        {
+          "name": "Miao Miao Flow",
+          "url": "https://open.spotify.com/artist/2r0ajtCNBtW94trsCQxyZr"
+        },
+        {
+          "name": "\u859b\u8a52\u4e39",
+          "url": "https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "WHY AM I HERE",
+      "url": "https://open.spotify.com/track/4pFD8YFEzOXslurT0tXLer"
     },
     {
       "album": {
@@ -1941,6 +2117,28 @@
       "duration_ms": 205493,
       "name": "\u5144\u5f1f",
       "url": "https://open.spotify.com/track/09d6pxcb14XzvyqYf8OaHd"
+    },
+    {
+      "album": {
+        "name": "\u526f\u90fd\u5fc3",
+        "url": "https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv"
+      },
+      "artists": [
+        {
+          "name": "Gestalt Girl",
+          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
+        },
+        {
+          "name": "\u8352\u4e95\u5cb3\u53f2",
+          "url": "https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212078,
+      "name": "\u526f\u90fd\u5fc3",
+      "url": "https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n"
     },
     {
       "album": {

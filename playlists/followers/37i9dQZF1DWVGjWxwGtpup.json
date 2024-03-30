@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 89438,
+  "2024-03-30": 89592,
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Becky G",
+  "description": "Tous les hits latino du moment sont ici. Photo : KAROL G",
   "name": "Caliente",
   "tracks": [
     {
@@ -470,6 +470,28 @@
     },
     {
       "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "album": {
         "name": "Copa Vac\u00eda",
         "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
       },
@@ -595,7 +617,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 170453,
       "name": "Deep in the Water",
       "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
@@ -981,7 +1003,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 176606,
       "name": "Fr\u00eda",
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
@@ -1007,6 +1029,28 @@
       "duration_ms": 186346,
       "name": "Gafas Negras",
       "url": "https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe"
+    },
+    {
+      "album": {
+        "name": "GALA Y DAL\u00cd",
+        "url": "https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "GALA Y DAL\u00cd",
+      "url": "https://open.spotify.com/track/2PLAm4ZgIoHJeLTrWHmO7q"
     },
     {
       "album": {
@@ -1222,6 +1266,28 @@
     },
     {
       "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186366,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -1399,7 +1465,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 230867,
       "name": "Lo Que Queda de M\u00ed",
       "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"

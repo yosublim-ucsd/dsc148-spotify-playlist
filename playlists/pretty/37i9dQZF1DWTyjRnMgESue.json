@@ -1,12 +1,12 @@
 {
-  "description": "The best new songs from modern singer-songwriters. Cover: Adrianne Lenker",
-  "num_followers": 74309,
+  "description": "The best new songs from modern singer-songwriters. Cover: Mustafa",
+  "num_followers": 74333,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjRmOGFjMzk5N2NkMmQ0NDM2NGZhZTY4Yjc2YTBmNTg4YzMzOTY0",
+  "snapshot_id": "MCxlOWU1YWZjMTg5ZGYxN2ZiODI4ODQ1ZjUwMjEwMWM1NmQ1OTU4OWRh",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -77,40 +77,40 @@
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Homesick (with Sam Fender)",
-        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
+        "name": "Name of God",
+        "url": "https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
         }
       ],
-      "duration_ms": 194416,
-      "name": "Homesick (with Sam Fender)",
-      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
+      "duration_ms": 208837,
+      "name": "Name of God",
+      "url": "https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
       "artists": [
         {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/1q1WpDkeFN3y9FlwZ1f440"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -147,18 +147,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Sleep Deprivation",
-        "url": "https://open.spotify.com/album/59ISpDbHu7goYQimMo9oZp"
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
       "artists": [
         {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 155660,
-      "name": "Sleep Deprivation",
-      "url": "https://open.spotify.com/track/2A1FGotEDhN5UjBiLsUwnk"
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -197,6 +201,22 @@
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Evolution (Deluxe)",
+        "url": "https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 262008,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Deeper Well",
@@ -211,6 +231,54 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Sleep Deprivation",
+        "url": "https://open.spotify.com/album/59ISpDbHu7goYQimMo9oZp"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 155660,
+      "name": "Sleep Deprivation",
+      "url": "https://open.spotify.com/track/2A1FGotEDhN5UjBiLsUwnk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -231,22 +299,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -263,18 +315,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -347,26 +399,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Call Your Mom (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "closer to closure",
         "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
       },
@@ -411,6 +443,26 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Call Your Mom (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -647,22 +699,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Andrew",
         "url": "https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv"
       },
@@ -675,6 +711,22 @@
       "duration_ms": 240107,
       "name": "Andrew",
       "url": "https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -695,6 +747,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 224371,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
       },
@@ -707,6 +775,22 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Living My Best Life",
+      "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -727,38 +811,6 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 224371,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "Living My Best Life",
-      "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -827,22 +879,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
       },
@@ -855,6 +891,22 @@
       "duration_ms": 214361,
       "name": "The Way Back Home",
       "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1019,6 +1071,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Cate\u2019s Brother",
+        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 180589,
+      "name": "Cate\u2019s Brother",
+      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -1039,22 +1107,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Cate\u2019s Brother",
-        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 180589,
-      "name": "Cate\u2019s Brother",
-      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1159,22 +1211,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "365",
-      "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
@@ -1203,6 +1239,22 @@
       "duration_ms": 285902,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "365",
+      "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1587,22 +1639,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Last Man On Earth",
-        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
-      },
-      "artists": [
-        {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Last Man On Earth",
-      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
       },
@@ -1631,38 +1667,6 @@
       "duration_ms": 197416,
       "name": "When I Was Younger",
       "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "handgun",
-        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
-      },
-      "artists": [
-        {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "handgun",
-      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "No Complaints",
-        "url": "https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 187089,
-      "name": "No Complaints",
-      "url": "https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

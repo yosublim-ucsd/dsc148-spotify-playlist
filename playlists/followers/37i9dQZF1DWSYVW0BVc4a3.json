@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 130402,
+  "2024-03-30": 130663,
   "date_first_scraped": "2022-08-19",
   "description": "The stomping ground. ",
   "name": "Open Air",
@@ -5231,6 +5231,28 @@
       "duration_ms": 174404,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "album": {
+        "name": "Frikitona (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191718,
+      "name": "Frikitona - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY"
     },
     {
       "album": {
@@ -12722,6 +12744,36 @@
     },
     {
       "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Save Me - K\u00f6lsch Remix",
+      "url": "https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF"
+    },
+    {
+      "album": {
         "name": "Save Me (Tal Fussman Remix)",
         "url": "https://open.spotify.com/album/25RsSA7nAlUb8LGoXB4erC"
       },
@@ -16947,6 +16999,24 @@
       "duration_ms": 353509,
       "name": "Vigil - Human Movement Remix",
       "url": "https://open.spotify.com/track/15W80LbunyilvdhJYWgdke"
+    },
+    {
+      "album": {
+        "name": "Virtue",
+        "url": "https://open.spotify.com/album/6NYotRJBKScBPwQ3UAbgvi"
+      },
+      "artists": [
+        {
+          "name": "OLING",
+          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224644,
+      "name": "Virtue",
+      "url": "https://open.spotify.com/track/377ohyE31sMHivjmz71oBY"
     },
     {
       "album": {

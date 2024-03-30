@@ -2078,7 +2078,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 90866,
       "name": "AUTO",
       "url": "https://open.spotify.com/track/3yXD8ipJojeDu89YDG2DPP"
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -10188,7 +10188,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 223703,
       "name": "FOS",
       "url": "https://open.spotify.com/track/6w8BLA33XKIznhoZdk1Q1K"
@@ -22136,7 +22136,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -29418,7 +29418,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 121573,
       "name": "S\u00cdMINN DAU\u00d0UR",
       "url": "https://open.spotify.com/track/4LGJCDzFqkPFwVfeJgzhlc"
@@ -29928,6 +29928,24 @@
     {
       "album": {
         "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+    },
+    {
+      "album": {
+        "name": "TEXAS HOLD 'EM",
         "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
       },
       "artists": [
@@ -29942,24 +29960,6 @@
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235636,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
     },
     {
       "album": {
@@ -34208,7 +34208,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 205346,
       "name": "Young Metro",
       "url": "https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH"

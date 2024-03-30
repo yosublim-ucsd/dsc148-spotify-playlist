@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,740 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,852 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 22 | [No Brakes](https://open.spotify.com/track/6kJiR8bUk9jEzfDU7f8s6v) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:04 |
 | 23 | [Million Miles Away](https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:39 |
 | 24 | [Nitro \(Youth Energy\)](https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 2:26 |
-| 25 | [Spare Me The Details](https://open.spotify.com/track/2mZ2h6VPJK2Xf2Nkik5r65) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:24 |
-| 26 | [Trust In You](https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:09 |
+| 25 | [Trust In You](https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:09 |
+| 26 | [Spare Me The Details](https://open.spotify.com/track/2mZ2h6VPJK2Xf2Nkik5r65) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:24 |
 | 27 | [One Fine Day](https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 2:45 |
 | 28 | [What Happened to You?](https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 2:12 |
 | 29 | [The Future Is Now](https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [Jennifer Lost The War](https://open.spotify.com/track/1AeosetkVBmPqON7FkWSLu) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Offspring](https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7) | 2:35 |
 | 50 | [We Never Have Sex Anymore](https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:30 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBlYjc5YzFmZjQyMTFiMWYxODRhYmI0NTk3NWI5OTQxOQ==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDAxNmI1YzkyMDlmOTZhYTU5NzRlMzM0MDRlMzY5YmVlZg==`

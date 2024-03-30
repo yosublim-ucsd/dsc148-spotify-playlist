@@ -166,7 +166,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
@@ -1949,6 +1949,28 @@
     },
     {
       "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144648,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+    },
+    {
+      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
@@ -3401,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+    },
+    {
+      "album": {
         "name": "Jacar\u00e9",
         "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
       },
@@ -3954,7 +3994,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
@@ -4372,7 +4412,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 223173,
       "name": "Nazareno",
       "url": "https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr"
@@ -5195,6 +5235,36 @@
     },
     {
       "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Endless Summer",
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
+        },
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205810,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
+    },
+    {
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
@@ -5628,6 +5698,24 @@
       "duration_ms": 238357,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY"
+    },
+    {
+      "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "album": {
@@ -6118,7 +6206,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201700,
       "name": "Sun Will Shine",
       "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"

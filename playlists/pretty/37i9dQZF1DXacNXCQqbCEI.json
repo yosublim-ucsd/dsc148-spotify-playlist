@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 354827,
+  "num_followers": 354853,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2RmZjMwNWMyZTE1NjMxM2RlZjRmZWJhN2ZhNjE3ODUwYWFiN2Uy",
+  "snapshot_id": "MCxlZWI1ZmUxMmM0ZDZjODA4ZWM3NThhMDQ0MTY2ODJmYzVlNjUxM2M3",
   "tracks": [
     {
       "added_at": "2024-03-22 07:04:46",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
+        "name": "Serpiente Dorada",
+        "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 189569,
+      "name": "Serpiente Dorada",
+      "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
         "name": "Tranquillitas",
         "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 373333,
       "name": "Mojanda (feat. Wabi Sabi)",
       "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
-        "name": "Serpiente Dorada",
-        "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 189569,
-      "name": "Serpiente Dorada",
-      "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Alientos",
-        "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Ghetto Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Alientos",
-      "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -995,6 +975,26 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
+        "name": "Alientos",
+        "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Ghetto Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Alientos",
+      "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
       },
@@ -1007,26 +1007,6 @@
       "duration_ms": 213146,
       "name": "Tamarugal (Para de Mirarme)",
       "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Como Lo Ped\u00ed",
-      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -1047,6 +1027,26 @@
       "duration_ms": 196998,
       "name": "El Quemado",
       "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Como Lo Ped\u00ed",
+      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
     },
     {
       "added_at": "2024-03-22 07:04:46",

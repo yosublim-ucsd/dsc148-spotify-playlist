@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Royal & the Serpent + GAYLE
 
-726 songs - 1 day 13 hr 34 min
+727 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Goth Boy Summer](https://open.spotify.com/track/39Z4pAweK3DKABt5Yx9QTO) | [JEREMINE](https://open.spotify.com/artist/5iIFilGPIyYZxvw4kL1LR5) | [Goth Boy Summer](https://open.spotify.com/album/2fuKksiy9pBEFo7NGlFkzK) | 2:28 | 2022-03-24 | 2022-04-14 |
 | [Grape Swisher](https://open.spotify.com/track/6mX89BYM6O0IkHF9FiKzVh) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Grape Swisher](https://open.spotify.com/album/10zmjGyfnY6ypkc9fUzpRc) | 2:25 | 2022-03-24 | 2022-07-23 |
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 | 2022-03-24 | 2022-07-01 |
+| [Habitual](https://open.spotify.com/track/5OwE5TOcqqCK62FfKmNCu9) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh) | 2:45 | 2024-03-08 |  |
 | [Habitual](https://open.spotify.com/track/5q8dOqEprhcGuQorkRIWXZ) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:45 | 2023-07-28 | 2024-03-22 |
 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 | 2023-05-05 |  |
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2022-03-24 | 2022-04-07 |
@@ -595,7 +596,7 @@
 | [Sometimes](https://open.spotify.com/track/0uDsj6KuyEjlFoqQvBcpD4) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Sometimes](https://open.spotify.com/album/0pBAd71oIWyzc7hNeUxbXG) | 3:48 | 2022-03-24 | 2022-04-19 |
 | [Sonder](https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:20 | 2023-11-17 |  |
 | [Sorry](https://open.spotify.com/track/7CURMjvpE285aV8VGBhznH) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Sorry](https://open.spotify.com/album/0lptWsj6UNwuRbcMg3WOfe) | 3:00 | 2022-03-24 | 2022-04-20 |
-| [Sorry Brody](https://open.spotify.com/track/7I38u9kvZwZdFseFdFqzcO) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Sorry Brody](https://open.spotify.com/album/0gSPIJGyXhraeebrMXYnXr) | 2:35 | 2024-02-20 |  |
+| [Sorry Brody](https://open.spotify.com/track/7I38u9kvZwZdFseFdFqzcO) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Sorry Brody](https://open.spotify.com/album/0gSPIJGyXhraeebrMXYnXr) | 2:35 | 2024-02-20 | 2024-03-30 |
 | [SOS](https://open.spotify.com/track/3SSC5g9auGK1JfNdnA5hzQ) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [SOS](https://open.spotify.com/album/36OibxF0mtieO9z1yxmMZJ) | 3:37 | 2022-03-24 | 2022-04-20 |
 | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2) | 2:49 | 2022-03-17 | 2022-07-21 |
 | [sound off](https://open.spotify.com/track/5nCWUq99mmY6yMzcxSBU1o) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [sound off](https://open.spotify.com/album/78fvUggdmI7wpbma4KhqVo) | 1:39 | 2022-03-24 | 2022-04-08 |

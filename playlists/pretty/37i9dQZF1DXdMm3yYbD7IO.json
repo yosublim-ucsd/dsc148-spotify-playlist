@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 326614,
+  "num_followers": 327082,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGU3OTc0Y2FmMDIxMjNlMWU0NDRiMjY0YjkxYTRkYzM4MzgwY2Jm",
+  "snapshot_id": "MCw2YTRiNTU4MjllZWIwODdhYTUyOTE2OGI3ZTBmMzYwYTFhNmZlZjJh",
   "tracks": [
     {
       "added_at": "2024-03-22 15:16:56",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "The Madman's Return",
-        "url": "https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY"
-      },
-      "artists": [
-        {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
-        }
-      ],
-      "duration_ms": 332229,
-      "name": "Rhythm Is a Dancer",
-      "url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Unleash The Dragon",
         "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 253733,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "The Madman's Return",
+        "url": "https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "duration_ms": 332229,
+      "name": "Rhythm Is a Dancer",
+      "url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Totally Krossed Out",
         "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 195106,
       "name": "Jump",
       "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -491,6 +491,26 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
         "name": "Move It!",
         "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
+        "name": "Naughty By Nature",
+        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "O.P.P",
+      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 269306,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Naughty By Nature",
-        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 271066,
-      "name": "O.P.P",
-      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
+        "name": "The Greatest Hits: Why Try Harder",
+        "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Praise You - Radio Edit",
+      "url": "https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "The Greatest Hits: Why Try Harder",
-        "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Blue Boy",
+          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Praise You - Radio Edit",
-      "url": "https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ"
+      "duration_ms": 423028,
+      "name": "Remember Me - Original Mix",
+      "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -1259,22 +1275,6 @@
       "duration_ms": 280466,
       "name": "100% Pure Love",
       "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
-      },
-      "artists": [
-        {
-          "name": "Blue Boy",
-          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
-        }
-      ],
-      "duration_ms": 423028,
-      "name": "Remember Me - Original Mix",
-      "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
     }
   ],
   "unique_name": "90's Workout",

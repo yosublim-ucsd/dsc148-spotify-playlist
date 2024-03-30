@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 31239,
+  "2024-03-30": 31241,
   "date_first_scraped": "2021-12-21",
   "description": "",
   "name": "Svensk Punk",
@@ -187,7 +187,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 71094,
       "name": "Allt brinner",
       "url": "https://open.spotify.com/track/7dORssXsZyQAKwXxzMwljM"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 206707,
       "name": "Allting",
       "url": "https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj"
@@ -392,6 +392,24 @@
     },
     {
       "album": {
+        "name": "S\u00e5 l\u00e4nge vi \u00e4r nyktra",
+        "url": "https://open.spotify.com/album/6tA2dpsV3ueggxm1CX9NKa"
+      },
+      "artists": [
+        {
+          "name": "Multi Culti Trash",
+          "url": "https://open.spotify.com/artist/63UQJtoOKhZlfRkJPBv1G2"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199810,
+      "name": "Arbetsl\u00f6s igen",
+      "url": "https://open.spotify.com/track/6ujpZLSPh6A79Iegw14T7I"
+    },
+    {
+      "album": {
         "name": "Visar v\u00e4gen",
         "url": "https://open.spotify.com/album/3uf8YWyGgdJRJXh5olLWO1"
       },
@@ -529,7 +547,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 175306,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/3fUUGJIm8JqnFX6elcbTHV"
@@ -587,6 +605,28 @@
       "duration_ms": 185454,
       "name": "Bipol\u00e4r & K\u00e4r",
       "url": "https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO"
+    },
+    {
+      "album": {
+        "name": "Kardinalens femte",
+        "url": "https://open.spotify.com/album/6yaIFYUFz7UsNBM1kXqeMD"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+        },
+        {
+          "name": "Ammy Olofsson",
+          "url": "https://open.spotify.com/artist/6fzvWpP8Rjfu7O76BHLwJy"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Bomb utan krut",
+      "url": "https://open.spotify.com/track/180ouOZ0Ak5WYx94BVZHVH"
     },
     {
       "album": {
@@ -655,7 +695,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 162880,
       "name": "B\u00f6rja om",
       "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
@@ -695,6 +735,24 @@
       "duration_ms": 176286,
       "name": "Daniel Blake",
       "url": "https://open.spotify.com/track/2qZAPSJaH1VpuWYYLexssR"
+    },
+    {
+      "album": {
+        "name": "Shake it baby!",
+        "url": "https://open.spotify.com/album/3i6ubfsYG7esZzrv0c1Up8"
+      },
+      "artists": [
+        {
+          "name": "23Till",
+          "url": "https://open.spotify.com/artist/5tvMlDFl5M1AnDDHhMFdfp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176286,
+      "name": "Daniel Blake",
+      "url": "https://open.spotify.com/track/7xAjyXIyAUypU0Qci8Gw4H"
     },
     {
       "album": {
@@ -1168,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "Andrahandssorteringen",
+        "url": "https://open.spotify.com/album/5SSM1EI43SMP6Y6yCTzcxQ"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194661,
+      "name": "D\u00e4r vi bor",
+      "url": "https://open.spotify.com/track/7Daq0uPYehQHetj1iFpltH"
+    },
+    {
+      "album": {
         "name": "Sveriges Humanit\u00e4ra Ruiner",
         "url": "https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo"
       },
@@ -1179,7 +1255,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289074,
       "name": "D\u00f6dens maskineri",
       "url": "https://open.spotify.com/track/5N7tpMlUfS3voV20AMVHDn"
@@ -1510,6 +1586,24 @@
     },
     {
       "album": {
+        "name": "F\u00e4rgblind",
+        "url": "https://open.spotify.com/album/44xX7pJ4mlnZ3V87CULPtO"
+      },
+      "artists": [
+        {
+          "name": "MENUD\u00c5",
+          "url": "https://open.spotify.com/artist/5D7o4OprxujXxLMdw5vYv8"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "F\u00e4rgblind",
+      "url": "https://open.spotify.com/track/2P5RmWQ1D4U05M0GsAlBVA"
+    },
+    {
+      "album": {
         "name": "S/T",
         "url": "https://open.spotify.com/album/1EGIb8eUisTz0LJB7R6B5m"
       },
@@ -1565,6 +1659,24 @@
     {
       "album": {
         "name": "Utan Titel",
+        "url": "https://open.spotify.com/album/1zmw12ziUTvLvZ4mlmMeF4"
+      },
+      "artists": [
+        {
+          "name": "R\u00e5ttorna",
+          "url": "https://open.spotify.com/artist/2zpHM549kWRtsmmssXfhdV"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110284,
+      "name": "Gehenna",
+      "url": "https://open.spotify.com/track/3Am12OspqE3E2jvhtWYWLT"
+    },
+    {
+      "album": {
+        "name": "Utan Titel",
         "url": "https://open.spotify.com/album/03sEIVrDvh6QIwgvRk3lJe"
       },
       "artists": [
@@ -1597,7 +1709,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 214592,
       "name": "Grabbarna p\u00e5 stan",
       "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
@@ -1727,7 +1839,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 186396,
       "name": "Hj\u00e4rtat",
       "url": "https://open.spotify.com/track/2TRQQ03nz28tjQcq4bHbBO"
@@ -1806,6 +1918,24 @@
     },
     {
       "album": {
+        "name": "H\u00e5ll er borta",
+        "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
+      },
+      "artists": [
+        {
+          "name": "Strikt",
+          "url": "https://open.spotify.com/artist/038TPyCS10QOwQQWOaAOF7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "H\u00e5ll er borta",
+      "url": "https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3"
+    },
+    {
+      "album": {
         "name": "Som en d\u00e5lig film",
         "url": "https://open.spotify.com/album/3EHdMsEKuqUtvAhProY9Hc"
       },
@@ -1871,7 +2001,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 77760,
       "name": "Ingen \u00e4ger mig",
       "url": "https://open.spotify.com/track/5dmO8OXn6YkF5r1bCZDPIT"
@@ -2366,6 +2496,24 @@
     },
     {
       "album": {
+        "name": "Harkla upp dammet",
+        "url": "https://open.spotify.com/album/12l96z4rz8pJOvuw3BjEQU"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4ppr\u00e4tt",
+          "url": "https://open.spotify.com/artist/30nt70xwpNZREBK0D8cPoU"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156663,
+      "name": "Lev fort d\u00f6 ung",
+      "url": "https://open.spotify.com/track/3ld0rzv1QG67577lZg81AH"
+    },
+    {
+      "album": {
         "name": "Pengarna eller livet",
         "url": "https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD"
       },
@@ -2547,6 +2695,24 @@
     {
       "album": {
         "name": "090",
+        "url": "https://open.spotify.com/album/2ZM4ZlHN15TplmQ58pudV9"
+      },
+      "artists": [
+        {
+          "name": "Slutstation Tjernobyl",
+          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Lort Och Lackande Moral",
+      "url": "https://open.spotify.com/track/4sJ85CUQRGF5n41Bf4F9k9"
+    },
+    {
+      "album": {
+        "name": "090",
         "url": "https://open.spotify.com/album/57gX4LNxdA1Nx10T7anYY5"
       },
       "artists": [
@@ -2690,6 +2856,24 @@
     },
     {
       "album": {
+        "name": "Ett sm\u00e5skaligt krig",
+        "url": "https://open.spotify.com/album/730Lj8aZVdswCX0sLaqNNb"
+      },
+      "artists": [
+        {
+          "name": "Slaveriet",
+          "url": "https://open.spotify.com/artist/3yCXFddAsqxzxRlSbkm43L"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138040,
+      "name": "L\u00e5t dom brinna",
+      "url": "https://open.spotify.com/track/4FzIbuIVlRWjcb27PUtjqm"
+    },
+    {
+      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -2773,7 +2957,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 171332,
       "name": "Med munnen full av hat",
       "url": "https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h"
@@ -2935,10 +3119,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 102866,
       "name": "Morgonrock",
       "url": "https://open.spotify.com/track/1oCOrqMo9jQykW9kXeeUdg"
+    },
+    {
+      "album": {
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179522,
+      "name": "Motstr\u00f6m",
+      "url": "https://open.spotify.com/track/421giHrAvLkIzBeBO5Cs6k"
     },
     {
       "album": {
@@ -3011,6 +3213,24 @@
       "duration_ms": 179547,
       "name": "Nittontusendar",
       "url": "https://open.spotify.com/track/6MQmYny1PX9IBdSfJa1eTk"
+    },
+    {
+      "album": {
+        "name": "N\u00e4r broar br\u00e4nns",
+        "url": "https://open.spotify.com/album/1QmuGtosgz3jMsbw4Zhxxh"
+      },
+      "artists": [
+        {
+          "name": "Hata Som Lejon",
+          "url": "https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151545,
+      "name": "N\u00e4r broar br\u00e4nns",
+      "url": "https://open.spotify.com/track/3AUZ76y1Sg7dsuyVvkgXO5"
     },
     {
       "album": {
@@ -3101,6 +3321,24 @@
       "duration_ms": 196840,
       "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
       "url": "https://open.spotify.com/track/1vB6h5iJTsJg0Z7DySHpJN"
+    },
+    {
+      "album": {
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83483,
+      "name": "OS-Guld i h\u00f6jdhopp",
+      "url": "https://open.spotify.com/track/5uKKw1OOOmBMzhygein2qB"
     },
     {
       "album": {
@@ -3367,7 +3605,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 142184,
       "name": "Punkfestival",
       "url": "https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9"
@@ -3464,6 +3702,24 @@
     },
     {
       "album": {
+        "name": "Risk p\u00e5 fyllan",
+        "url": "https://open.spotify.com/album/5VgurtulNGTe625aNhBIsi"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rnarna",
+          "url": "https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Risk p\u00e5 fyllan",
+      "url": "https://open.spotify.com/track/2B2KDdeGBBxSTHuRrftDwN"
+    },
+    {
+      "album": {
         "name": "Rosita",
         "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
       },
@@ -3475,7 +3731,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 190976,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
@@ -3497,6 +3753,24 @@
       "duration_ms": 172171,
       "name": "R\u00e4knar till hundra",
       "url": "https://open.spotify.com/track/1bLFrKOklGDLtysIG1werv"
+    },
+    {
+      "album": {
+        "name": "Allting kommer tillbaka",
+        "url": "https://open.spotify.com/album/0svEX5EaZQaIQjpn49fIfv"
+      },
+      "artists": [
+        {
+          "name": "Moment 23",
+          "url": "https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "R\u00e4tt eller fel",
+      "url": "https://open.spotify.com/track/2KrH3jNfV4tjm6opj8UoH2"
     },
     {
       "album": {
@@ -3583,7 +3857,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 92360,
       "name": "SD till Sk\u00e5ne",
       "url": "https://open.spotify.com/track/3ylfjH5EdN4KmYQd5DMxeV"
@@ -3619,7 +3893,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 209308,
       "name": "Sex Noll Tv\u00e5",
       "url": "https://open.spotify.com/track/2cDhN8iMlxEQPpjkcqCgQP"
@@ -3835,7 +4109,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 160459,
       "name": "Solidaritet",
       "url": "https://open.spotify.com/track/3YHnUzkxw8T74vSGWz9AO5"
@@ -3943,7 +4217,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 218269,
       "name": "Stockholms b\u00e4sta band",
       "url": "https://open.spotify.com/track/1fecBg16RMBCaBDOM2mKJc"
@@ -4199,6 +4473,24 @@
       "duration_ms": 202640,
       "name": "Till Krig",
       "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
+    },
+    {
+      "album": {
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94976,
+      "name": "Tillsammans",
+      "url": "https://open.spotify.com/track/4MQxRcHz72eEko43H0OWwx"
     },
     {
       "album": {
@@ -4465,7 +4757,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 141622,
       "name": "Upp till dans",
       "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
@@ -4487,6 +4779,24 @@
       "duration_ms": 118770,
       "name": "Utsugare",
       "url": "https://open.spotify.com/track/5HNtfpuToKHzDKOPwORi6j"
+    },
+    {
+      "album": {
+        "name": "Vad har du gjort?",
+        "url": "https://open.spotify.com/album/3YNPcVN6MKVPzeyPOqFXei"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5rdgnissel",
+          "url": "https://open.spotify.com/artist/6go8Hycq8HF9V1g2kgPyyj"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100786,
+      "name": "Vad har du gjort?",
+      "url": "https://open.spotify.com/track/1OqwmRlRAkSdUvv1fp6mgp"
     },
     {
       "album": {
@@ -4523,6 +4833,24 @@
       "duration_ms": 195933,
       "name": "Vandrar v\u00e4gen",
       "url": "https://open.spotify.com/track/2nVc9atl0DHGOIokK2aS2B"
+    },
+    {
+      "album": {
+        "name": "Andrahandssorteringen",
+        "url": "https://open.spotify.com/album/5SSM1EI43SMP6Y6yCTzcxQ"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173127,
+      "name": "Var en man",
+      "url": "https://open.spotify.com/track/3ZwnJvrwjnNNt7kbag2RcT"
     },
     {
       "album": {
@@ -4631,6 +4959,24 @@
       "duration_ms": 190026,
       "name": "Vem s\u00e4tter m\u00e4rket",
       "url": "https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7"
+    },
+    {
+      "album": {
+        "name": "Demons From the Past",
+        "url": "https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183493,
+      "name": "Vem V\u00e5gar Tro",
+      "url": "https://open.spotify.com/track/2i0rygqMD1AKTGuVc5oHq9"
     },
     {
       "album": {
@@ -4771,10 +5117,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 121520,
       "name": "V\u00e4gra lyda toppen",
       "url": "https://open.spotify.com/track/7z1SFZczzZVt14w1AknDlu"
+    },
+    {
+      "album": {
+        "name": "V\u00e4lja v\u00e4g/Dubbelt s\u00e5 mycket h\u00e4lften s\u00e5 bra",
+        "url": "https://open.spotify.com/album/6eJyOfEpdLsiJqBmgN26nH"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "V\u00e4lja v\u00e4g",
+      "url": "https://open.spotify.com/track/1goDUIiHZzz05oJl7XFMHO"
     },
     {
       "album": {
@@ -4789,7 +5153,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 135493,
       "name": "V\u00e5ga!",
       "url": "https://open.spotify.com/track/5UVYZ4sGc0myt98mSs9xy7"
@@ -4905,6 +5269,24 @@
     {
       "album": {
         "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+      },
+      "artists": [
+        {
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "\u00c4r Det Bra?",
+      "url": "https://open.spotify.com/track/1GiQ8Fo9WxhCZQTtA9GoM4"
+    },
+    {
+      "album": {
+        "name": "V\u00e4rdel\u00f6s",
         "url": "https://open.spotify.com/album/3hyMLQZD8Obgjo5KTalhyb"
       },
       "artists": [
@@ -4933,7 +5315,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 72880,
       "name": "\u00c5t helvete med kungafamiljen",
       "url": "https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI"
@@ -4955,6 +5337,24 @@
       "duration_ms": 170760,
       "name": "\u00d6rnar \u00d6ver Amerika",
       "url": "https://open.spotify.com/track/4zosRoaCz85ScOVAWkjzVM"
+    },
+    {
+      "album": {
+        "name": "Duo Limbo/'Mellan himmel \u00e5 helvete'",
+        "url": "https://open.spotify.com/album/1hAcpAYCJ47snsUF0fQjWh"
+      },
+      "artists": [
+        {
+          "name": "ShitKid",
+          "url": "https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "\u00d6rnar \u00d6ver Amerika",
+      "url": "https://open.spotify.com/track/5ZTn9AaRym2ZqCJ7chgEci"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4IkJGKNp9lO"

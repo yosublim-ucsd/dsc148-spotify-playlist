@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mustafa
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Hovvdy
 
-122 songs - 7 hr 29 min
+125 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Another good year for the roses](https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Another good year for the roses](https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0) | 5:34 | 2023-11-03 |  |
 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2023-12-22 | 2024-01-13 |
 | [Anything You Want](https://open.spotify.com/track/09A1guWAPWXG2vxYjywNpl) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Anything You Want](https://open.spotify.com/album/1Bq3spRdvVh5SQCMOfRqNS) | 3:33 | 2023-11-03 |  |
-| [Awful Lightning](https://open.spotify.com/track/0IEFpjJF5MuURYFL4CAJd0) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Aging](https://open.spotify.com/album/21ytlmXJV1mWsF0dRiV7Ar) | 5:42 | 2023-11-03 |  |
+| [Awful Lightning](https://open.spotify.com/track/0IEFpjJF5MuURYFL4CAJd0) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Aging](https://open.spotify.com/album/21ytlmXJV1mWsF0dRiV7Ar) | 5:42 | 2023-11-03 | 2024-03-30 |
 | [Baby Teeth](https://open.spotify.com/track/5DZQx7Dty5uqJQV9L05rOg) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Baby Teeth](https://open.spotify.com/album/79qhXBZUFvDZ90kj5svopV) | 3:34 | 2023-11-03 | 2024-02-24 |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-11-03 |  |
 | [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 | 2023-11-03 | 2023-11-18 |
@@ -42,7 +42,7 @@
 | [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-11-03 | 2024-01-27 |
 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 | 2023-11-03 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2023-11-03 |  |
-| [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-16 |  |
+| [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-16 | 2024-03-30 |
 | [Bubba](https://open.spotify.com/track/6mR8WKU0eHUrhn8SvJAsqa) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Bubba](https://open.spotify.com/album/3jTD1rSEBGiYzLNvOKYkua) | 3:09 | 2023-12-08 | 2024-02-24 |
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2023-11-03 |  |
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-11-03 | 2023-12-09 |
@@ -55,11 +55,13 @@
 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 |  |
 | [Cutting Thru The Country](https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Cutting Thru The Country](https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf) | 3:24 | 2024-02-23 | 2024-03-16 |
 | [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 | 2023-11-03 | 2024-02-17 |
+| [Disappearing \(feat\. Magdalena Bay\)](https://open.spotify.com/track/0nxPeolI7FlljJ3SnNYDmj) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 3:20 | 2024-03-29 |  |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-02-16 |  |
 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4rTnonrrlWZsrDUUTgzHSt) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving](https://open.spotify.com/album/6YJkCoqnyVmdtPNQ9T4BP8) | 3:35 | 2023-11-03 | 2024-01-27 |
 | [Don't Fade Away](https://open.spotify.com/track/55YY7cmB3jkIJq54cC7G4W) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Bunny](https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V) | 3:22 | 2023-11-03 |  |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 |  |
 | [Edith](https://open.spotify.com/track/0RLOqj3jq878w5UMg7tjp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 3:24 | 2023-11-10 |  |
+| [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 | 2024-03-29 |  |
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-12-01 | 2024-02-10 |
 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-02-02 | 2024-03-02 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-09 |  |
@@ -79,13 +81,14 @@
 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 | 2023-12-08 | 2024-02-24 |
 | [Into The Unknown](https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK) | 2:48 | 2023-11-03 |  |
 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2023-11-03 |  |
-| [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 | 2023-11-10 |  |
+| [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 | 2023-11-10 | 2024-03-30 |
 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 | 2024-03-15 |  |
 | [Laundry Pile](https://open.spotify.com/track/1GBJZjpI8V0EBBcmWKsy1y) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/0M3Ne9BhtOKhQsB6RB43Vv) | 3:21 | 2023-11-03 |  |
 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 | 2023-11-03 | 2023-12-09 |
 | [Life Of The Party](https://open.spotify.com/track/1FEZnCbas8ET6pfyB3u6Rb) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Life Of The Party](https://open.spotify.com/album/61asLyV0SRvt9XrcqpHeZt) | 2:10 | 2023-11-03 | 2023-11-18 |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-11-03 |  |
 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-11-03 |  |
+| [Make Ya Proud](https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Make Ya Proud](https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE) | 3:30 | 2024-03-29 |  |
 | [Meant](https://open.spotify.com/track/0PbXhejxq3Ih2ObOGfundH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Meant](https://open.spotify.com/album/6AwFbp01un82gwxyAvipCi) | 3:27 | 2024-03-01 |  |
 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 | 2024-03-15 |  |
 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 | 2023-12-08 | 2024-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,396 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,446 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 49 | [And a Bang on the Ear](https://open.spotify.com/track/4tzpjYQOwqSrfiIVcyEwzm) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Best of The Waterboys \(1981\-1990\)](https://open.spotify.com/album/1VW4gj6w544njTLCYHN7cu) | 7:25 |
 | 50 | [Don't Believe A Word](https://open.spotify.com/track/4OSDItus4110bQdykTdpy7) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3) | 2:18 |
 
-Snapshot ID: `MCxjODQzYWI1NDVlY2M0YTM1OTE0OGNlYzY0NGEwMmY3OTNhYzQyYjFk`
+Snapshot ID: `MCw3NTE3ZWYwZjkwMDRhOWY3MTM4YjA5MmMzOGI5NDc1YjcxMmJhMDM3`

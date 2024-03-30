@@ -4,13 +4,13 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-80 songs - 4 hr 48 min
+81 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Lua e Eu](https://open.spotify.com/track/0hJuldyE2xuTjm24zApF3C) | [Michael Sullivan](https://open.spotify.com/artist/3lF1WfwVjShSiYwJqhuZBb), [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [A Lua e Eu](https://open.spotify.com/album/7F27VBEpt1J7RrdK4L1kOK) | 3:45 | 2023-12-08 |  |
 | [A Vida Em Seus Metodos Diz Calma](https://open.spotify.com/track/6niY7onsGQgK2sgF9XrYir) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 3:42 | 2023-12-08 |  |
-| [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 | 2023-12-08 |  |
+| [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 | 2023-12-08 | 2024-03-30 |
 | [Alibaba](https://open.spotify.com/track/72xneD3pAJmEPJ6Jhbnsoh) | [Melanina Carioca](https://open.spotify.com/artist/1RVHk1teWy5ftUa7J4RiMj) | [Alibaba](https://open.spotify.com/album/1eu7tu748UiYLHVcM9SQoe) | 3:04 | 2023-12-08 |  |
 | [Amor Distante \- Rap Mix](https://open.spotify.com/track/6EVjdyR5MzER5Tbvo59AXy) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 4:01 | 2023-12-08 |  |
 | [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 | 2023-12-08 |  |
@@ -65,6 +65,7 @@
 | [Nós dois um só \- Just You And Me](https://open.spotify.com/track/4ze1NjtQxLnbOwRSHVUeWy) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nós dois um só \(Just You And Me\)](https://open.spotify.com/album/46AmONQlUeyTzkERmWwG21) | 2:27 | 2023-12-08 |  |
 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares](https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId) | 4:25 | 2023-12-08 |  |
 | [O Quanto Eu Gosto Dela](https://open.spotify.com/track/5TvtSNY4UPIBRddYa1Nmgs) | [Diogo Brown](https://open.spotify.com/artist/6q3C6cAweuplRwXGjz1buS) | [O Quanto Eu Gosto Dela](https://open.spotify.com/album/6vTo538LiSPQDHhPTThJ2q) | 3:31 | 2023-12-08 |  |
+| [O Que Te Faz Ir pra Outro Planeta? \- Ao Vivo](https://open.spotify.com/track/6DVjpAQ0htvqIOPgmvIFyV) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [O Amor, o Perdão e a Tecnologia Irão nos Levar para Outro Planeta \(Ao Vivo em Belém\)](https://open.spotify.com/album/12uGpxOjTXJDRluW1VHDgQ) | 3:54 | 2024-03-29 |  |
 | [Olhos Coloridos](https://open.spotify.com/track/3N6Cxtb9IBkw9pvBUJHLql) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Entre Nós](https://open.spotify.com/album/3bDvwyyRc6jNvnmeaViTgm) | 6:46 | 2023-12-08 |  |
 | [Onda Poderosa / Citação: Abalou](https://open.spotify.com/track/0ufa6F0EztswDDsWRbcMok) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Onda Poderosa / Citação: Abalou](https://open.spotify.com/album/031Zl5kgrUiOm6l5RE2i6u) | 4:14 | 2023-12-08 | 2024-01-20 |
 | [Plano Astral](https://open.spotify.com/track/61DHpS5NML76zOqum12Sk1) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [02 de Fevereiro](https://open.spotify.com/album/2FpyYjNz2THd0HVHgHMFLJ) | 4:23 | 2023-12-08 |  |

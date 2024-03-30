@@ -1,13 +1,29 @@
 {
-  "description": "Rap from hell. Cover: 1nonly",
-  "num_followers": 573765,
+  "description": "Rap from hell. Cover: $uicideboy$",
+  "num_followers": 573854,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTc5ZDY3NDU0OWFkY2FjMGI5NmFmYjU5MjJiYzI3MzgwY2M3ZjAx",
+  "snapshot_id": "MCwxN2RhN2YyMDYzZjAzYTI0ZTIwMDVlMDIxNmU2ODgzMjUzNjRhZTI3",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Us Vs. Them",
+        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "Us Vs. Them",
+      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
+    },
     {
       "added_at": "2024-03-22 15:15:26",
       "album": {
@@ -23,26 +39,6 @@
       "duration_ms": 143750,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2"
-    },
-    {
-      "added_at": "2024-03-22 15:15:26",
-      "album": {
-        "name": "HELLO",
-        "url": "https://open.spotify.com/album/6Cukm7w6ziSd1gZ0RGl8rM"
-      },
-      "artists": [
-        {
-          "name": "Slevpy808",
-          "url": "https://open.spotify.com/artist/0NRPZs1M9XVUcy11A9mkXf"
-        },
-        {
-          "name": "$at.urn",
-          "url": "https://open.spotify.com/artist/5hrM1jc5L5aTr0qoWzEqBk"
-        }
-      ],
-      "duration_ms": 100003,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/2XwqfFbo7YQzhFwqwqOaIX"
     },
     {
       "added_at": "2024-03-15 21:42:43",
@@ -63,6 +59,42 @@
       "duration_ms": 213159,
       "name": "PULLING UP (feat. $uicideboy$)",
       "url": "https://open.spotify.com/track/30UdcE73xUzIaOPd8EsxrR"
+    },
+    {
+      "added_at": "2023-12-27 19:57:37",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "added_at": "2024-03-22 15:15:26",
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/6Cukm7w6ziSd1gZ0RGl8rM"
+      },
+      "artists": [
+        {
+          "name": "Slevpy808",
+          "url": "https://open.spotify.com/artist/0NRPZs1M9XVUcy11A9mkXf"
+        },
+        {
+          "name": "$at.urn",
+          "url": "https://open.spotify.com/artist/5hrM1jc5L5aTr0qoWzEqBk"
+        }
+      ],
+      "duration_ms": 100003,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/2XwqfFbo7YQzhFwqwqOaIX"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -109,6 +141,30 @@
       "url": "https://open.spotify.com/track/1LkVouG5VCmvA6Nf4klKMt"
     },
     {
+      "added_at": "2023-11-13 15:13:31",
+      "album": {
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
+    },
+    {
       "added_at": "2024-03-22 15:15:26",
       "album": {
         "name": "Son Gohan",
@@ -123,6 +179,26 @@
       "duration_ms": 100971,
       "name": "Son Gohan",
       "url": "https://open.spotify.com/track/13RtnlcO9A13AX6oaoRZLk"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "MARMADUKE",
+        "url": "https://open.spotify.com/album/0dhNOPuRXG34XjGKpJrlce"
+      },
+      "artists": [
+        {
+          "name": "99zed",
+          "url": "https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9"
+        },
+        {
+          "name": "Saliva Grey",
+          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "MARMADUKE",
+      "url": "https://open.spotify.com/track/5d9imY4am4ijdLDFnh82xK"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -209,6 +285,22 @@
       "url": "https://open.spotify.com/track/4RpNI3r35XYuuerXm0pDXu"
     },
     {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Spoiled Dogs, Sleeping Belly Up",
+        "url": "https://open.spotify.com/album/7nIcjGtTgPKGjN8FBcQS2l"
+      },
+      "artists": [
+        {
+          "name": "Warlord Colossus",
+          "url": "https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn"
+        }
+      ],
+      "duration_ms": 143973,
+      "name": "Spoiled Dogs, Sleeping Belly Up",
+      "url": "https://open.spotify.com/track/6KqheHUHGIRKze9HBBAj3u"
+    },
+    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "in my restless dreams, i see you",
@@ -249,6 +341,22 @@
       "url": "https://open.spotify.com/track/6ZHrDsAJ2EW57xMVlNDhK7"
     },
     {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": ".ZIP",
+        "url": "https://open.spotify.com/album/5jwI06RORdt3bZ6AgOftHP"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 108384,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/34LzJ0pKASl3mmMprZPZuS"
+    },
+    {
       "added_at": "2024-03-22 15:15:26",
       "album": {
         "name": "Step Back!",
@@ -285,22 +393,6 @@
       "url": "https://open.spotify.com/track/1QQO4A3145m77ClwQBcM6S"
     },
     {
-      "added_at": "2023-12-27 19:57:37",
-      "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
       "added_at": "2024-03-22 15:15:26",
       "album": {
         "name": "snakes",
@@ -319,6 +411,26 @@
       "duration_ms": 156734,
       "name": "snakes",
       "url": "https://open.spotify.com/track/2d7R3uf4J0RlM2iHI5RttN"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "0% (feat. ZillaKami)",
+        "url": "https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        }
+      ],
+      "duration_ms": 132604,
+      "name": "0% (feat. ZillaKami)",
+      "url": "https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -401,20 +513,20 @@
       "url": "https://open.spotify.com/track/6zx36E2ZnK55gofGptVgIH"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": ".ZIP",
-        "url": "https://open.spotify.com/album/5jwI06RORdt3bZ6AgOftHP"
+        "name": "Frank Miller (Kill Again) / I'm So Glad",
+        "url": "https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 108384,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/34LzJ0pKASl3mmMprZPZuS"
+      "duration_ms": 131544,
+      "name": "Frank Miller (Kill Again)",
+      "url": "https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -473,30 +585,6 @@
       "url": "https://open.spotify.com/track/6pIoCKMe157Scoi5dd02CB"
     },
     {
-      "added_at": "2023-11-13 15:13:31",
-      "album": {
-        "name": "Memphis Cult Vol. 6",
-        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
-      },
-      "artists": [
-        {
-          "name": "Memphis Cult",
-          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
-        },
-        {
-          "name": "Groove Dealers",
-          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
-        },
-        {
-          "name": "SPLYXER",
-          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
-        }
-      ],
-      "duration_ms": 86709,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
-    },
-    {
       "added_at": "2024-03-07 18:17:19",
       "album": {
         "name": "KILL ALL",
@@ -515,22 +603,6 @@
       "duration_ms": 108000,
       "name": "KILL ALL",
       "url": "https://open.spotify.com/track/7LsRygBuKonjbIuATZVEgf"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Frank Miller (Kill Again) / I'm So Glad",
-        "url": "https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 131544,
-      "name": "Frank Miller (Kill Again)",
-      "url": "https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -587,6 +659,22 @@
       "duration_ms": 98681,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/004IrlitNhNZzxYQc9al70"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Walking Doom",
+        "url": "https://open.spotify.com/album/0A6id7JRdKflvTW5tkysaY"
+      },
+      "artists": [
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "duration_ms": 122038,
+      "name": "Walking Doom",
+      "url": "https://open.spotify.com/track/1VEWJggd5tmEBeenxVGE58"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -709,22 +797,6 @@
       "url": "https://open.spotify.com/track/13xFz6KanQ08XiE6348CWu"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Walking Doom",
-        "url": "https://open.spotify.com/album/0A6id7JRdKflvTW5tkysaY"
-      },
-      "artists": [
-        {
-          "name": "do not resurrect",
-          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
-        }
-      ],
-      "duration_ms": 122038,
-      "name": "Walking Doom",
-      "url": "https://open.spotify.com/track/1VEWJggd5tmEBeenxVGE58"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "CHROME CASKETZ 2: ARMAGEDDON",
@@ -763,26 +835,6 @@
       "duration_ms": 121666,
       "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
       "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "0% (feat. ZillaKami)",
-        "url": "https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        },
-        {
-          "name": "ZillaKami",
-          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
-        }
-      ],
-      "duration_ms": 132604,
-      "name": "0% (feat. ZillaKami)",
-      "url": "https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1157,26 +1209,6 @@
       "url": "https://open.spotify.com/track/6i3NunmMCcqnYVWCna0k44"
     },
     {
-      "added_at": "2023-05-15 13:20:26",
-      "album": {
-        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
-        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 277338,
-      "name": "Bloody 98 (Feat. Ghostemane)",
-      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
-    },
-    {
       "added_at": "2023-12-05 18:11:47",
       "album": {
         "name": "RIGHT BETWEEN THE EYES",
@@ -1243,46 +1275,6 @@
       "duration_ms": 130500,
       "name": "A Perfect & Immortal Machine",
       "url": "https://open.spotify.com/track/51gdQs4BEup4BpCW4pV5yS"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "COWBELL WARRIORS!",
-        "url": "https://open.spotify.com/album/46FHwDwhiaKjZQnquBcMff"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIORS!",
-      "url": "https://open.spotify.com/track/21N4kygnrmdLUmQ27DE9Lu"
-    },
-    {
-      "added_at": "2023-05-19 12:29:16",
-      "album": {
-        "name": "YIN YANG TAPES: Fall Season (1989-1990)",
-        "url": "https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 236032,
-      "name": "Provolone & Heroin (Feat. Freddie Dredd)",
-      "url": "https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH"
     },
     {
       "added_at": "2024-02-16 17:56:24",

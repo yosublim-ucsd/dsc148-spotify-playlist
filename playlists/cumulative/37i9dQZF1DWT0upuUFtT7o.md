@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Annie\-Dog
 
-2,308 songs - 5 day 6 hr 40 min
+2,309 songs - 5 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Brightstar](https://open.spotify.com/track/38oUPxfB4KktTFvWL0rDeq) | [Often](https://open.spotify.com/artist/7BFGaVvOZLQtSLfWCvJeKW) | [Brightstar](https://open.spotify.com/album/5s3ASmll8AyJL1EMm3FF9T) | 2:28 | 2023-06-21 | 2023-06-28 |
 | [Bring the Light](https://open.spotify.com/track/0ZAmLzoSyLHgzvN1FAQLbv) | [Goodgirl](https://open.spotify.com/artist/0vOBJ2X5VlZ8EYZy8l3S9O) | [Bring the Light](https://open.spotify.com/album/44dIbeen6OXXA0MWE4OIaY) | 4:27 | 2023-01-11 | 2023-02-02 |
 | [Brittle](https://open.spotify.com/track/0ccmnaYeN5GZ8HBtPFCaIC) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Brittle](https://open.spotify.com/album/09R4r31bLR80znhTB72VKO) | 3:20 | 2022-09-06 | 2022-10-06 |
+| [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 | 2024-03-29 |  |
 | [Broken](https://open.spotify.com/track/2bddJBCw0Fo6HIGO2vhuDV) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Broken](https://open.spotify.com/album/7JB3vES78G6hfEdCzPIC0Q) | 3:07 | 2024-02-07 | 2024-03-14 |
 | [Broken](https://open.spotify.com/track/6p3xOyNftx7p3bOkI5LZOI) | [George Walter](https://open.spotify.com/artist/74j8oazVmb4zM1gmwvrc55) | [Broken](https://open.spotify.com/album/4IcboBgnJzyXkCiIlnbbey) | 3:44 | 2023-07-26 | 2023-08-24 |
 | [Brokenhearted](https://open.spotify.com/track/1ax4WSKmv5tWpvxqu56nDH) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Brokenhearted](https://open.spotify.com/album/2KEZ7JrEb8FlAa3s71SQUN) | 3:37 | 2022-01-12 | 2022-02-10 |

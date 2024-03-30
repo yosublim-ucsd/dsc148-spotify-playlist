@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Bien Gede Sin Vos",
+        "url": "https://open.spotify.com/album/4wM4qLQPEIrOPwNOpOh4k4"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Bien Gede Sin Vos",
+      "url": "https://open.spotify.com/track/5uwDGeCpRryKJVhwrdSZ5Y"
+    },
+    {
+      "album": {
         "name": "BM | DJ TAO Turreo Sessions #17",
         "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
@@ -656,10 +674,36 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 215640,
       "name": "Carta A Un Amigo",
       "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
+    },
+    {
+      "album": {
+        "name": "Carta Para un Amigo",
+        "url": "https://open.spotify.com/album/1mu1cA4fFZaCF3xAC14JQm"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133003,
+      "name": "Carta Para Un Amigo",
+      "url": "https://open.spotify.com/track/4JG5M3Q1JLlQ37FM7yGDiG"
     },
     {
       "album": {
@@ -2590,7 +2634,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 134240,
       "name": "Lo' Borrachos",
       "url": "https://open.spotify.com/track/6tmAF5lerIPsnbseSvG44j"

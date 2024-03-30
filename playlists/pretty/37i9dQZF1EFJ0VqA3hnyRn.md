@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285 likes - 250 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 284 likes - 250 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 54 | [Love Incredible \(feat\. Camila Cabello\)](https://open.spotify.com/track/6tLJ4T7PJPekOrQuSWuL0L) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 2:59 |
 | 55 | [Kisses Down Low](https://open.spotify.com/track/4KhanrenBxgyXYkFCArMyd) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:14 |
 | 56 | [I'm Out \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2QLHuAwRJzgDAoGVM8V4U7) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 4:01 |
-| 57 | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/track/3clw56k8jqFaXnwdejV4Yo) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/album/4Y6jkhla5dLnq9vfPI7gmX) | 3:37 |
-| 58 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
-| 59 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
+| 57 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
+| 58 | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/track/3clw56k8jqFaXnwdejV4Yo) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/album/4Y6jkhla5dLnq9vfPI7gmX) | 3:37 |
+| 59 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
 | 60 | [Dance Like We're Making Love](https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:16 |
 | 61 | [For Everybody \(feat\. Wiz Khalifa & R\. City\)](https://open.spotify.com/track/1qJjofprTOxvqkIAdDixaP) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [For Everybody \(feat\. Wiz Khalifa & R\. City\)](https://open.spotify.com/album/2FOoa928JSQv3n6vQ5CKDY) | 4:28 |
 | 62 | [My Main](https://open.spotify.com/track/5embh0i7ZHHn3BXhjoeihX) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Main](https://open.spotify.com/album/3QBZR7Km3B91LtvGQ6amck) | 3:32 |
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 218 | [Grown Man Cry](https://open.spotify.com/track/4nuq3ahtDol0fj6oBOpc2b) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 3:38 |
 | 219 | [Winning](https://open.spotify.com/track/3EdrRiufsqlZbQZTj6F82F) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:30 |
 | 220 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
-| 221 | [Passenger](https://open.spotify.com/track/5zgyW1wthiNQfrfLeEoxko) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 4:36 |
-| 222 | [BIRTHDAY DANCE](https://open.spotify.com/track/6ZEfk4fuYEBBDuplPsH5Gn) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [BIRTHDAY DANCE](https://open.spotify.com/album/5xiibvMpHtyR7YjZbl0arD) | 2:40 |
+| 221 | [BIRTHDAY DANCE](https://open.spotify.com/track/6ZEfk4fuYEBBDuplPsH5Gn) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [BIRTHDAY DANCE](https://open.spotify.com/album/5xiibvMpHtyR7YjZbl0arD) | 2:40 |
+| 222 | [Passenger](https://open.spotify.com/track/5zgyW1wthiNQfrfLeEoxko) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 4:36 |
 | 223 | [My Bih](https://open.spotify.com/track/0qGMWc9QuQ3KTfzqtbvvfW) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Back Flossin](https://open.spotify.com/album/3vmo3yZ1f2Rj6lK6lHTECy) | 3:11 |
 | 224 | [Help Me](https://open.spotify.com/track/0Bbqzj2W6ZUa5jsDj8E9Vv) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [The Sellout](https://open.spotify.com/album/6IIf2u92YUo0n67nh8zdU8) | 4:37 |
 | 225 | [Love Shop](https://open.spotify.com/track/4LVtZf0n6YPL62AbeBFvaH) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:22 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 249 | [Badonthebeat](https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:24 |
 | 250 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg1Mjc5ODAsMDAwMDAwMDBiMjdhNDU0MTQxMzg3MWYyYjM5N2NkYjUzMDljNWRmNg==`
+Snapshot ID: `Mjg1Mjk0MjAsMDAwMDAwMDBhZGNlZWNlMGY2OWJjYjRmNjZhN2YyNGZiOTU3MTU5Mw==`

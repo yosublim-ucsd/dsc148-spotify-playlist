@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras. Cover: Natanael Cano & Oscar Maydon",
+  "description": "The playlist sin fronteras. Cover: Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 175102,
       "name": "141",
       "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+    },
+    {
+      "album": {
+        "name": "2 Pa 2",
+        "url": "https://open.spotify.com/album/0LKAvwu5l8qjdnpOYJis1s"
+      },
+      "artists": [
+        {
+          "name": "GHT Official",
+          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "2 Pa 2",
+      "url": "https://open.spotify.com/track/6fpbFcJ92PmGPwPL3SgIDs"
     },
     {
       "album": {
@@ -801,6 +823,28 @@
     },
     {
       "album": {
+        "name": "Los de Encargo",
+        "url": "https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169125,
+      "name": "Anormal",
+      "url": "https://open.spotify.com/track/6vsIJbmwdb8GwJzNQOBOUd"
+    },
+    {
+      "album": {
         "name": "Ant\u00eddoto",
         "url": "https://open.spotify.com/album/6mSBEqGKBR1xw8OHVnrhvB"
       },
@@ -990,7 +1034,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 122240,
       "name": "Babys Y Pacas",
       "url": "https://open.spotify.com/track/5DkyS799Bc4b725pVwHZGn"
@@ -1118,7 +1162,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 166127,
       "name": "Bien Tony Montana",
       "url": "https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM"
@@ -2898,7 +2942,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
@@ -3008,6 +3052,28 @@
       "duration_ms": 214397,
       "name": "El Belicon",
       "url": "https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa"
+    },
+    {
+      "album": {
+        "name": "El Boss",
+        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225212,
+      "name": "El Boss",
+      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
     },
     {
       "album": {
@@ -5361,6 +5427,28 @@
     },
     {
       "album": {
+        "name": "La Historia De Mis Manos (En Vivo)",
+        "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232597,
+      "name": "La Historia De Mis Manos (En Vivo)",
+      "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
+    },
+    {
+      "album": {
         "name": "La Intenci\u00f3n",
         "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
       },
@@ -5716,7 +5804,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
@@ -5804,7 +5892,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
@@ -6300,7 +6388,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 242074,
       "name": "MALDITO ALCOHOL",
       "url": "https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY"
@@ -8315,6 +8403,32 @@
     },
     {
       "album": {
+        "name": "PPP",
+        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Skrapy",
+          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188225,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -9089,6 +9203,24 @@
     },
     {
       "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
+    },
+    {
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -9380,6 +9512,28 @@
       "duration_ms": 174432,
       "name": "Si Me Ven",
       "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+    },
+    {
+      "album": {
+        "name": "Si No Quieres No",
+        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147011,
+      "name": "Si No Quieres No",
+      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
     },
     {
       "album": {
@@ -10406,7 +10560,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 147235,
       "name": "Troca",
       "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"

@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-517 songs - 1 day 5 hr 4 min
+519 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Be Like You \(feat\. Broods\)](https://open.spotify.com/track/4onD2lx2ohTTT48FRDCH7h) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Be Like You \(feat\. Broods\)](https://open.spotify.com/album/31A3rlfHKwxvjK4h6V7EpE) | 2:41 | 2019-05-26\* | 2021-05-28 |
 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 | 2022-03-25 |  |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-22 |  |
-| [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 | 2024-01-26 |  |
+| [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 | 2024-01-26 | 2024-03-30 |
 | [Beginning of the End](https://open.spotify.com/track/04OQkYRHxHu4yrpjS1yl9V) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:57 | 2024-03-01 | 2024-03-23 |
 | [Believe](https://open.spotify.com/track/6MiNZJ178L6ypTnBt2G4BJ) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe \(Remixes\)](https://open.spotify.com/album/3oQ0sE7sd5xDkZlNDnZBEB) | 3:59 | 2019-07-27 | 2019-08-10 |
 | [bellyache](https://open.spotify.com/track/51NFxnQvaosfDDutk0tams) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bellyache](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl) | 2:59 | 2019-05-26\* |  |
@@ -209,7 +209,7 @@
 | [I feel 2 much](https://open.spotify.com/track/6p19vVjC4Lge9VANZlG8gi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 4:00 | 2022-07-28 | 2022-09-06 |
 | [I Hate This Part](https://open.spotify.com/track/4mYd9FQyU5eekDJyVeIRgS) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination](https://open.spotify.com/album/74b3KUT96bmPSN0nlX6YnV) | 3:38 | 2019-06-23 | 2019-08-10 |
 | [I Love You's](https://open.spotify.com/track/28Tv8zltFDr5wBCG3Pfky4) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [I Love You’s](https://open.spotify.com/album/7poPqCs2rGkF1hzZHuzzCv) | 3:36 | 2020-03-29 | 2022-07-28 |
-| [I Love You's](https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 3:36 | 2022-07-28 |  |
+| [I Love You's](https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 3:36 | 2022-07-28 | 2024-03-30 |
 | [i loved you first](https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [i loved you first](https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg) | 3:47 | 2019-05-26\* | 2021-10-02 |
 | [i miss u \(with Au/Ra\)](https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [i miss u \(with Au/Ra\)](https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5) | 2:52 | 2021-01-08 | 2021-10-13 |
 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 | 2019-05-26\* | 2021-06-22 |
@@ -290,6 +290,7 @@
 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 | 2019-05-26\* | 2022-04-20 |
 | [Lovesick Lullaby](https://open.spotify.com/track/6KPLhHAdbheko4jRpYTqqx) | [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Lovesick Lullaby](https://open.spotify.com/album/3uEtm8owlMBIDVAU80dOTb) | 3:17 | 2021-10-23 | 2022-07-28 |
 | [Man On The Moon](https://open.spotify.com/track/1Jp3egueDGwbrgylNPws6F) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe Version\)](https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK) | 3:46 | 2019-06-21 | 2019-08-10 |
+| [maybe she was the one](https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [SUPERNOVA](https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d) | 2:45 | 2024-03-29 |  |
 | [me & ur ghost](https://open.spotify.com/track/4yJiXq86uM56uIfIZgE440) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [me & ur ghost](https://open.spotify.com/album/1s9YbfFRnIB0jXONMz0gO2) | 3:20 | 2020-01-19 | 2022-06-03 |
 | [me & ur ghost](https://open.spotify.com/track/5tiZBnx5IvETA0Pj3gELjn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:21 | 2022-07-28 | 2023-01-29 |
 | [Mid Years](https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Mid Years](https://open.spotify.com/album/6goF0ZEnG6xaySuYrYAeEH) | 2:58 | 2021-10-16 | 2022-07-07 |
@@ -397,6 +398,7 @@
 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 | 2021-10-23 | 2022-07-26 |
 | [Secret](https://open.spotify.com/track/77Gfhrr1Uh9Pv57MUUmVuY) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 3:12 | 2021-12-08 | 2021-12-11 |
 | [She Gets the Flowers](https://open.spotify.com/track/19AiJfAtRiccvSU1EWcttT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [She Gets the Flowers](https://open.spotify.com/album/6TbdDx8Y1shssfaSAtEt1o) | 3:39 | 2021-04-06 | 2021-10-02 |
+| [Shimmering Light](https://open.spotify.com/track/5yQWWCxnqpcUbo8ZWs6zBG) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Shimmering Light](https://open.spotify.com/album/3ConlAUtJ0XsJs44WxqkxY) | 2:35 | 2024-03-29 |  |
 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 | 2021-10-30 | 2023-10-07 |
 | [Single In September](https://open.spotify.com/track/3yqVm7Je8UssmEJzWtzyYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single In September](https://open.spotify.com/album/716vn5JpywHU9efMfTXEck) | 3:15 | 2022-03-01 | 2022-07-29 |
 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 | 2021-10-16 | 2022-07-28 |

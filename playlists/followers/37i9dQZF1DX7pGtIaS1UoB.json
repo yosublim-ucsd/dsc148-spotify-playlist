@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 94962,
+  "2024-03-30": 94971,
   "date_first_scraped": "2022-06-09",
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
   "name": "\u6696\u5fc3\u60c5\u6b4c",
@@ -1195,7 +1195,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
@@ -6159,7 +6159,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 194705,
       "name": "\u8bf4\u7231\u4f60 - \u7537\u751f\u7248",
       "url": "https://open.spotify.com/track/5gP0jJMhvAtHXIn4bekkob"

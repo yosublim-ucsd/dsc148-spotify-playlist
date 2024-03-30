@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 1773933,
+  "2024-03-30": 1773969,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -93,6 +93,24 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3vz3SKnCyJCzPuXWLoGfdG"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1bIYccSTQbGFcCrqkuoRz1"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/51IJ7laS1nxqDfjTz8xDfH"
     },
     {
       "album": {
@@ -8049,6 +8067,24 @@
       "duration_ms": 197079,
       "name": "Casper",
       "url": "https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
     },
     {
       "album": {
@@ -19138,24 +19174,6 @@
     },
     {
       "album": {
-        "name": "I Like You The Most",
-        "url": "https://open.spotify.com/album/1bIYccSTQbGFcCrqkuoRz1"
-      },
-      "artists": [
-        {
-          "name": "SHAD",
-          "url": "https://open.spotify.com/artist/5MxQZFj0dZlvwo2bIFfE3p"
-        }
-      ],
-      "date_added": "2024-03-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164792,
-      "name": "I Like You The Most",
-      "url": "https://open.spotify.com/track/51IJ7laS1nxqDfjTz8xDfH"
-    },
-    {
-      "album": {
         "name": "I Look Good",
         "url": "https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo"
       },
@@ -23777,6 +23795,24 @@
     {
       "album": {
         "name": "Leaving the Lot",
+        "url": "https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189381,
+      "name": "Leaving the Lot",
+      "url": "https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD"
+    },
+    {
+      "album": {
+        "name": "Leaving the Lot",
         "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
       },
       "artists": [
@@ -23787,7 +23823,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
@@ -35441,7 +35477,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 153429,
       "name": "Qual \u00e9 seu desejo?",
       "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"

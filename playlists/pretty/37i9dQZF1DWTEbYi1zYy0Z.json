@@ -1,13 +1,33 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 60918,
+  "num_followers": 60951,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2Q4NTdkY2FmNDRmMGZiMTM3NDQzN2MwYzFiOTdhNGE2MDgyYTFh",
+  "snapshot_id": "MCxlMTBlNzk3NGRkYWQyZTA1MzE4MTFhNTU4YzNlNjllMDFlZmRjYjQy",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Limitless (feat. Althea Rene)",
+        "url": "https://open.spotify.com/album/24ECA9LpmOuurQIioCabKC"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        },
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 260515,
+      "name": "Limitless (feat. Althea Rene)",
+      "url": "https://open.spotify.com/track/4zqOfFCfXkADvDjDPrAiCE"
+    },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
@@ -43,6 +63,26 @@
       "duration_ms": 249466,
       "name": "Like Butter - radio single",
       "url": "https://open.spotify.com/track/0An6pi6xlDUYBeEoy1ln7k"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Just Coolin' (feat. Ryan La Valette)",
+        "url": "https://open.spotify.com/album/5eI4zyIaA9RVfusOeTdLrH"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Ryan La Valette",
+          "url": "https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Just Coolin\u2019 (feat. Ryan La Valette)",
+      "url": "https://open.spotify.com/track/0Q0gGYn7U7NT9FEbB8kmVU"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -921,22 +961,6 @@
       "url": "https://open.spotify.com/track/6PPngXfYjNrITbLSllbBhD"
     },
     {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Love Nwantiti",
-        "url": "https://open.spotify.com/album/1hAt5XyintKlTCsHBz6HHY"
-      },
-      "artists": [
-        {
-          "name": "J. White",
-          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
-        }
-      ],
-      "duration_ms": 151305,
-      "name": "Love Nwantiti",
-      "url": "https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ"
-    },
-    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "This Time Around (Radio Version)",
@@ -1691,26 +1715,6 @@
       "duration_ms": 215027,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/0Q00M9Rn0Nz519t2FLUJUW"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "100% Cotton",
-        "url": "https://open.spotify.com/album/70jtGdNIVF4nk48YWC2XTF"
-      },
-      "artists": [
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        },
-        {
-          "name": "Marcus Anderson",
-          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
-        }
-      ],
-      "duration_ms": 275760,
-      "name": "100% Cotton (feat. Marcus Anderson)",
-      "url": "https://open.spotify.com/track/0CQUa0G8svZU88rMUM8GYv"
     },
     {
       "added_at": "2023-05-05 04:01:00",

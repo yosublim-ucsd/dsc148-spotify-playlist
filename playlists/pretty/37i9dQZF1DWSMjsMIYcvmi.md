@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 
 > Hey \(office\) DJ, turn the music up! 👩‍💻
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,422 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,426 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 69 | [SMA](https://open.spotify.com/track/4fkCcUS3Gl5cRi9zNt7oMa) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Strings And Bling](https://open.spotify.com/album/6JyxiTsgY9NgCgBxwtrhgo) | 5:14 |
 | 70 | [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 3:17 |
 
-Snapshot ID: `MCw2MDM2OTNjMDgwYTkxY2FjZjM5OWNmMDRlODI5ODdiMTUwMDFkNjVm`
+Snapshot ID: `MCxiNGI2Mzk2NmY3YzhkZGEyMWQ0YWQ2ZmY1OGUwZmZmM2ViMTIyOThh`

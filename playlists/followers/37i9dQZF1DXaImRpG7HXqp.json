@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 836152,
+  "2024-03-30": 836250,
   "date_first_scraped": "2021-12-21",
   "description": "Keep calm with instrumental acoustic tracks.",
   "name": "Calming Acoustic",
@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Am Fuschlsee",
+        "url": "https://open.spotify.com/album/1hrGVeNjcMuU0vne38brsd"
+      },
+      "artists": [
+        {
+          "name": "Duo MR",
+          "url": "https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230812,
+      "name": "Am Fuschlsee",
+      "url": "https://open.spotify.com/track/3IQxXk7kjHO2YTaf0kDD7K"
+    },
+    {
+      "album": {
         "name": "no man's land",
         "url": "https://open.spotify.com/album/3yUOrhecG3B9bbRWcb2ghB"
       },
@@ -889,6 +907,24 @@
       "duration_ms": 221775,
       "name": "Athena",
       "url": "https://open.spotify.com/track/7lD3GgCXvZvCskNmmdF9yo"
+    },
+    {
+      "album": {
+        "name": "Aurora Prelude",
+        "url": "https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi"
+      },
+      "artists": [
+        {
+          "name": "Serena Perez",
+          "url": "https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "Aurora Prelude",
+      "url": "https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2"
     },
     {
       "album": {
@@ -1851,6 +1887,24 @@
       "duration_ms": 115937,
       "name": "Calida Brisa",
       "url": "https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj"
+    },
+    {
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5US6Ejo1xkfRpR3YSnKEQr"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/4qWbRktWWHXHGJb1uhWq8m"
     },
     {
       "album": {
@@ -5488,6 +5542,24 @@
     },
     {
       "album": {
+        "name": "Into Motion",
+        "url": "https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157659,
+      "name": "Into Motion",
+      "url": "https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p"
+    },
+    {
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G"
       },
@@ -6165,7 +6237,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 173545,
       "name": "Leme",
       "url": "https://open.spotify.com/track/1B5el46SxWXSGfI7Lsn5g4"
@@ -8124,6 +8196,24 @@
     },
     {
       "album": {
+        "name": "Only Briefly",
+        "url": "https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127210,
+      "name": "Only Briefly",
+      "url": "https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb"
+    },
+    {
+      "album": {
         "name": "Onschuldig",
         "url": "https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue"
       },
@@ -9453,6 +9543,24 @@
       "duration_ms": 120155,
       "name": "Sense of narrative",
       "url": "https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD"
+    },
+    {
+      "album": {
+        "name": "Serenade of Contradictions",
+        "url": "https://open.spotify.com/album/0KRE9vwGuJCXt0MgidAN55"
+      },
+      "artists": [
+        {
+          "name": "Remy Simon",
+          "url": "https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145624,
+      "name": "Serenade of Contradictions",
+      "url": "https://open.spotify.com/track/5egmzMRyYpM8cVCLVx1FnH"
     },
     {
       "album": {
@@ -10842,6 +10950,24 @@
     },
     {
       "album": {
+        "name": "Tears but Not of Pain",
+        "url": "https://open.spotify.com/album/49im8S6HBvYk0BHPHWDYh6"
+      },
+      "artists": [
+        {
+          "name": "R.B James",
+          "url": "https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201429,
+      "name": "Tears but Not of Pain",
+      "url": "https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT"
+    },
+    {
+      "album": {
         "name": "Ten Eyck",
         "url": "https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J"
       },
@@ -11775,6 +11901,24 @@
       "duration_ms": 163726,
       "name": "Vieques",
       "url": "https://open.spotify.com/track/6CGR3tEuN7SpgKphMgX29Y"
+    },
+    {
+      "album": {
+        "name": "View From an Ocean Window",
+        "url": "https://open.spotify.com/album/1WfvFKykwlwVx8VeuMdcVE"
+      },
+      "artists": [
+        {
+          "name": "Staffan Carl\u00e9n",
+          "url": "https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "View From an Ocean Window",
+      "url": "https://open.spotify.com/track/5wDqNmiNn05olf0aavPjfy"
     },
     {
       "album": {

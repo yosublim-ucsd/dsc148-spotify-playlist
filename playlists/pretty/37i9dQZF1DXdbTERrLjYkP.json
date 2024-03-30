@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Sabrina Sterling",
-  "num_followers": 94852,
+  "num_followers": 94892,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzZlZTY2YWRkNWZlY2I3ZTViNjVkMDMxMmUxMDBhNjgwYzQ4NTRl",
+  "snapshot_id": "MCxlZTEyOGI0MDYxNDY3YzYwZWUyYmFlZGUyNjk2MDcyNWQ5YTU5YjZh",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 178640,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/2tmzXjrJMBrbDfZJ8g9mcF"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Aisle 6",
+        "url": "https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 185390,
+      "name": "Aisle 6",
+      "url": "https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO"
+      },
+      "artists": [
+        {
+          "name": "Hana Effron",
+          "url": "https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Losing By A Landslide",
@@ -71,6 +103,22 @@
       "duration_ms": 194741,
       "name": "Losing By A Landslide",
       "url": "https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "One Man Show",
+        "url": "https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "duration_ms": 178068,
+      "name": "One Man Show",
+      "url": "https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -107,18 +155,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "One Man Show",
-        "url": "https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy"
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
       "artists": [
         {
-          "name": "Andi",
-          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
         }
       ],
-      "duration_ms": 178068,
-      "name": "One Man Show",
-      "url": "https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV"
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
       "added_at": "2024-03-22 21:14:25",
@@ -815,22 +863,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Simple Like 17",
-        "url": "https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 162556,
-      "name": "Good to Know",
-      "url": "https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Isn't It Obvious",
         "url": "https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v"
       },
@@ -991,22 +1023,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "ALICE",
-        "url": "https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        }
-      ],
-      "duration_ms": 153620,
-      "name": "ALICE",
-      "url": "https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 123931,
       "name": "oh my god i\u2019m happy what the fuck",
       "url": "https://open.spotify.com/track/0nELcTlKKUPt2TvC6xpjQc"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
       "added_at": "2024-03-22 04:00:00",

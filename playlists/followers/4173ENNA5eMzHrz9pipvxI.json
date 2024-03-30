@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 120870,
+  "2024-03-30": 120873,
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Nitefreak x Laureano x Bambo Cissokho",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Ti\u00ebsto x MOGUAI",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -2871,7 +2871,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 165942,
       "name": "Boombox (feat. Madam Parker)",
       "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
@@ -6077,7 +6077,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 144030,
       "name": "Do It For Myself",
       "url": "https://open.spotify.com/track/4SXZdkt0vQl9Rxsj7yfICY"
@@ -7430,6 +7430,28 @@
     },
     {
       "album": {
+        "name": "Explode",
+        "url": "https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Explode",
+      "url": "https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu"
+    },
+    {
+      "album": {
         "name": "Face Melt (feat. Maikki)",
         "url": "https://open.spotify.com/album/40rIhG3KBCMX0c6NWlK7z6"
       },
@@ -7475,7 +7497,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 162985,
       "name": "Face Your Future",
       "url": "https://open.spotify.com/track/2YwIcOiRFP7vdcQy4fX9R7"
@@ -9064,6 +9086,28 @@
     },
     {
       "album": {
+        "name": "GANGSTERS",
+        "url": "https://open.spotify.com/album/3pVx5PG5rYsF3svebTGsHk"
+      },
+      "artists": [
+        {
+          "name": "Emmett Zetto",
+          "url": "https://open.spotify.com/artist/78r2aT2PaclPLTyNb3rel7"
+        },
+        {
+          "name": "Talentless",
+          "url": "https://open.spotify.com/artist/5vjPH4JK9haGzLIa4C7snZ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187643,
+      "name": "GANGSTERS",
+      "url": "https://open.spotify.com/track/7vlqXYFJ3RVRNQazTfdrb9"
+    },
+    {
+      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -9111,7 +9155,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 124500,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/1Nn3HZUQsvfMyjecb6aNwT"
@@ -10663,7 +10707,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 188764,
       "name": "I Belong (feat. Franky)",
       "url": "https://open.spotify.com/track/2oCHwhWjCzwZqN45hhFQno"
@@ -11413,6 +11457,28 @@
       "duration_ms": 167000,
       "name": "I'm Still In Love",
       "url": "https://open.spotify.com/track/6xyXbK6K4RkOrsUUVEZ7cs"
+    },
+    {
+      "album": {
+        "name": "I'm Too Sexy",
+        "url": "https://open.spotify.com/album/34UN41ik2dlgCGnWKhR8Wx"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "I'm Too Sexy",
+      "url": "https://open.spotify.com/track/789dkXoLqoCZ7YeveB5qw8"
     },
     {
       "album": {
@@ -12802,6 +12868,24 @@
     },
     {
       "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/1vgL9oPn4HIi62mPSntLBP"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG"
+    },
+    {
+      "album": {
         "name": "Kill Me",
         "url": "https://open.spotify.com/album/6llX0jALPogs989Pcyt7RP"
       },
@@ -13597,6 +13681,24 @@
     {
       "album": {
         "name": "Levitate",
+        "url": "https://open.spotify.com/album/6eU8XaVNflnPUckx3v3HIu"
+      },
+      "artists": [
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158882,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/0DRfZdDafppIQVInkcF6pe"
+    },
+    {
+      "album": {
+        "name": "Levitate",
         "url": "https://open.spotify.com/album/59E5auyalnMpowD5pbf7IU"
       },
       "artists": [
@@ -13673,7 +13775,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 140571,
       "name": "Lie 2 You (Would I)",
       "url": "https://open.spotify.com/track/1fIHp98xrfi7sib5mfc6oF"
@@ -13987,7 +14089,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 162250,
       "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9)",
       "url": "https://open.spotify.com/track/2UXmF5eo4HeqMTERZyceQN"
@@ -14017,7 +14119,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 206111,
       "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9) [Murder He Wrote Remix]",
       "url": "https://open.spotify.com/track/5ljicPY5xrI5f80r9MEWXM"
@@ -18136,6 +18238,28 @@
     },
     {
       "album": {
+        "name": "Numbin' My Feelings",
+        "url": "https://open.spotify.com/album/5HPBGMfxTV1PbNyrxi4ZaT"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Lee McKing",
+          "url": "https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186971,
+      "name": "Numbin' My Feelings",
+      "url": "https://open.spotify.com/track/3VCYw8SMFvbE644z69raqW"
+    },
+    {
+      "album": {
         "name": "NYC Baby",
         "url": "https://open.spotify.com/album/6Ym9zpIrOmmfZmVI1ArSjE"
       },
@@ -18229,7 +18353,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 175973,
       "name": "O Vento (feat. Jessica Cipriano & LETUS et)",
       "url": "https://open.spotify.com/track/0ayyMoWhVtsY2FuoyWBNWE"
@@ -18484,6 +18608,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/1hzZNvIglZdzKuelS9jkD7"
+      },
+      "artists": [
+        {
+          "name": "Jay Hardway",
+          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/6EeSthQrh1PNlvfKa96CFn"
+    },
+    {
+      "album": {
         "name": "Bass Funk EP",
         "url": "https://open.spotify.com/album/4y5DTKTSyNysc4QuthoC2c"
       },
@@ -18719,7 +18861,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 172500,
       "name": "Ori Tali Ma (BLR remix)",
       "url": "https://open.spotify.com/track/0mN3xC0ve5pt9Sss53COSV"
@@ -23209,10 +23351,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 200124,
       "name": "Stumblin' In (Arno Cost & Norman Doray Remix)",
       "url": "https://open.spotify.com/track/0vMPd6BvjGcQ9sqwmeOYtA"
+    },
+    {
+      "album": {
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "album": {
@@ -24541,7 +24705,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 178560,
       "name": "The Future Is Now",
       "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
@@ -25253,6 +25417,24 @@
       "duration_ms": 198805,
       "name": "Through The Dark",
       "url": "https://open.spotify.com/track/69FyW4BY48nB0jkAA7BAL6"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/0i4vUlWLNDW0UeDaGDZG2z"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157322,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2FsD1dqjv9BStN5TuXZey9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 239553,
+  "num_followers": 239609,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjNlMDIzYTI2ZjM3ODhlNTNiOWEwYzI0YjNiMzAzNmVkNGMyNjE3",
+  "snapshot_id": "MCwwOTk3YjczNDAxNjI2NzU0MGFiNjA1YTAyODcwOTIwODQ1ZWMzY2I1",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Where The Winter Was",
-        "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
-      },
-      "artists": [
-        {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Not So Sure",
-      "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "imagination",
         "url": "https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl"
       },
@@ -407,18 +391,34 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+        "name": "Where The Winter Was",
+        "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
         }
       ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
+      "duration_ms": 210586,
+      "name": "Not So Sure",
+      "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "1,000 Names",
+        "url": "https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 324949,
+      "name": "1,000 Names",
+      "url": "https://open.spotify.com/track/0LxqmMhefR4Wd2DtYZj509"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "1,000 Names",
-        "url": "https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL"
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
       "artists": [
         {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 324949,
-      "name": "1,000 Names",
-      "url": "https://open.spotify.com/track/0LxqmMhefR4Wd2DtYZj509"
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Nothing To Buy",
+        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Nothing To Buy",
+      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 100240,
       "name": "Pilot",
       "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 325893,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/3eOxPVgmYGVYPMnPK44Rm1"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 262254,
       "name": "Run - Twenty Version",
       "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 325893,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/3eOxPVgmYGVYPMnPK44Rm1"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Way, Truth, Life",
         "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "BURNING IN THE RAIN",
         "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Start Again",
         "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 230284,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Miracle of the Mind",
+        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 269202,
+      "name": "Miracle of the Mind",
+      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Mountains",
         "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 199005,
       "name": "Give My All",
       "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Miracle of the Mind",
-        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 269202,
-      "name": "Miracle of the Mind",
-      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "War Going On",
-        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
-      },
-      "artists": [
-        {
-          "name": "Port Duo",
-          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "War Going On",
-      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 269353,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "War Going On",
+        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
+      },
+      "artists": [
+        {
+          "name": "Port Duo",
+          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "War Going On",
+      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Father",
-        "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
-      },
-      "artists": [
-        {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
-        },
-        {
-          "name": "Wild Sons",
-          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Wild Sons",
+          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
     },
     {
       "added_at": "2022-12-16 05:02:00",

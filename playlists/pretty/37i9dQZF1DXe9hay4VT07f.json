@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 433324,
+  "num_followers": 433422,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzhiZjQ3Nzk4MzA4NGQ0YjFkNjEzMWNkMzZmZWEwYjM4YzkwYTJh",
+  "snapshot_id": "MCw0ZGYzNTQ2NDMyOTcwYmRhZjE0OTRkM2ZkYjdmNmYzOTdjMTJmOWI3",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Wild Out",
-        "url": "https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D"
+        "name": "Pull up to Mi Bumper",
+        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
       },
       "artists": [
         {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Wild Out",
-      "url": "https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5"
+      "duration_ms": 150279,
+      "name": "Pull up to Mi Bumper",
+      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -859,22 +863,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Pull up to Mi Bumper",
-        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
+        "name": "Wild Out",
+        "url": "https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "J Capri",
-          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
         }
       ],
-      "duration_ms": 150279,
-      "name": "Pull up to Mi Bumper",
-      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
+      "duration_ms": 153000,
+      "name": "Wild Out",
+      "url": "https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Love Yuh Everything",
-        "url": "https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Love Yuh Everything",
-      "url": "https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Tun Di Ada Way",
         "url": "https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 155221,
       "name": "Tun Di Ada Way",
       "url": "https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Love Yuh Everything",
+        "url": "https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Love Yuh Everything",
+      "url": "https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Collie Buddz",
-        "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Come Around",
-      "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 217106,
       "name": "King Of The Dancehall",
       "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Collie Buddz",
+        "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Verified Choppa 2",
-        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
-      },
-      "artists": [
-        {
-          "name": "Marksman",
-          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Verified Choppa 2",
-      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 203076,
       "name": "Owner",
       "url": "https://open.spotify.com/track/0bkZbg5Z3z40tGMOqemCAX"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Verified Choppa 2",
+        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
+      },
+      "artists": [
+        {
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Verified Choppa 2",
+      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     },
     {
       "added_at": "2023-11-17 12:46:59",

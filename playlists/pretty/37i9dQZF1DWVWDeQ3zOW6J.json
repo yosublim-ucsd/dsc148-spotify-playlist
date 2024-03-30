@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 42610,
+  "num_followers": 42638,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDgyNjU5MTA3NGI4NmU1ODYxZWU3OGE3Y2I4MTliNGFhMGEyZmQx",
+  "snapshot_id": "MCw3OTA1ZmUzZWFlMDNkZTg1YmI2OTViOTgwNmUzZjNiYTZkYzIwZDEx",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Yerbero Moderno",
+      "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Az\u00facar pa' Ti",
         "url": "https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT"
       },
@@ -1071,22 +1091,6 @@
       "duration_ms": 569240,
       "name": "Az\u00facar",
       "url": "https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2023-02-13 22:55:50",

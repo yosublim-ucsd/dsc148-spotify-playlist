@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,778 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,774 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Então Vai \(Get By\) \(feat\. Diplo\)](https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:48 |
 | 50 | [Lento \(feat\. Pabllo Vittar\) \[Brabo Remix\]](https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo](https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT) | [Lento \(feat\. Pabllo Vittar\) \[Brabo Remix\]](https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK) | 2:54 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBjNWM4NDRhNDQ2YTA4MGUzOWE5ZGM2ZDA4ZDI1MDY3ZQ==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDAyNzhiYzkxMTY3YzI3ZDViNmQxYzVkMDg5YWI0NTFlNw==`

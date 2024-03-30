@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 102365,
+  "2024-03-30": 102452,
   "date_first_scraped": "2021-12-28",
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
   "name": "Rep\u00fablica Dembow",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 128250,
       "name": "3 Tre",
       "url": "https://open.spotify.com/track/4jG3l6FeI3kA71a7x9kpLL"
@@ -693,6 +693,28 @@
       "duration_ms": 183194,
       "name": "Bonsinabom remix",
       "url": "https://open.spotify.com/track/7p37ALotrxj5SDLXXeblEy"
+    },
+    {
+      "album": {
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
     },
     {
       "album": {
@@ -2406,6 +2428,32 @@
     },
     {
       "album": {
+        "name": "Don Dimadon",
+        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184987,
+      "name": "Don Dimadon",
+      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "album": {
         "name": "Edici\u00f3n de Lujo",
         "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
       },
@@ -2950,6 +2998,32 @@
     },
     {
       "album": {
+        "name": "El Singon",
+        "url": "https://open.spotify.com/album/1hYyoFGrFYevEtcGbeCreM"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "El Singon",
+      "url": "https://open.spotify.com/track/3QtkrsXH8G5CO2m4CZp3lu"
+    },
+    {
+      "album": {
         "name": "To' el Mundo Sabe Quien Eh el Loco Ya",
         "url": "https://open.spotify.com/album/6hU1yaGT7y5ZkyHAQw5aQS"
       },
@@ -3301,7 +3375,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 175016,
       "name": "En La Casa De Sin",
       "url": "https://open.spotify.com/track/0qqRqd4xae348nMFehJXPq"
@@ -3665,6 +3739,32 @@
       "duration_ms": 194320,
       "name": "Fuin Fuan",
       "url": "https://open.spotify.com/track/56EaO15oQUW0LrdcPIqOsT"
+    },
+    {
+      "album": {
+        "name": "Fulete",
+        "url": "https://open.spotify.com/album/17AXAN9SJJEA0zsF2GPU1S"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147866,
+      "name": "Fulete",
+      "url": "https://open.spotify.com/track/4L6EwdEcRJxqjWOhgtyopO"
     },
     {
       "album": {
@@ -5787,7 +5887,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 206951,
       "name": "Malo de Verdad - Remix",
       "url": "https://open.spotify.com/track/38pdoR7NoHEugpvIxEKhdU"
@@ -6872,6 +6972,24 @@
     },
     {
       "album": {
+        "name": "NO ME LA SUBE",
+        "url": "https://open.spotify.com/album/6JBXkVWmvPggBcK01GaCwK"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99310,
+      "name": "NO ME LA SUBE",
+      "url": "https://open.spotify.com/track/7gFiIf65iKVWUTpzhgK8w2"
+    },
+    {
+      "album": {
         "name": "No Smoking",
         "url": "https://open.spotify.com/album/3j77cWmV5HsKzHuCXaSkoW"
       },
@@ -7809,6 +7927,28 @@
       "duration_ms": 160705,
       "name": "Pikilao",
       "url": "https://open.spotify.com/track/1USrz45gdBbu2OzpkFZPSI"
+    },
+    {
+      "album": {
+        "name": "Pila De Bobo",
+        "url": "https://open.spotify.com/album/1On0JZyLXH2zNLQfpA5RMf"
+      },
+      "artists": [
+        {
+          "name": "Menor Queen",
+          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
+        },
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161694,
+      "name": "Pila De Bobo",
+      "url": "https://open.spotify.com/track/0KZQRoxKu06bzjvO9Mjy8V"
     },
     {
       "album": {
@@ -10210,6 +10350,28 @@
     },
     {
       "album": {
+        "name": "Te Lo Coji",
+        "url": "https://open.spotify.com/album/0z3qtcGWqV6muPrTZdmDZV"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119531,
+      "name": "Te Lo Coji",
+      "url": "https://open.spotify.com/track/0LWSYzhOlajXSaAhNXmwtg"
+    },
+    {
+      "album": {
         "name": "Te Lo Vamo a Da",
         "url": "https://open.spotify.com/album/6AWNqra7swVsTsUZUkwdKI"
       },
@@ -11237,6 +11399,32 @@
       "duration_ms": 135230,
       "name": "Tuwi Tuwi",
       "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Ver\u00e1",
+        "url": "https://open.spotify.com/album/6ZpYRdSifYq7O5SUixyo3t"
+      },
+      "artists": [
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111496,
+      "name": "T\u00fa Ver\u00e1",
+      "url": "https://open.spotify.com/track/3x7RoFpq8ro2i0sy98QeUg"
     },
     {
       "album": {

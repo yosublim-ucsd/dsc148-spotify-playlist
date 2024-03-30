@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 23 | [In a Way](https://open.spotify.com/track/2716XnQDivAHzu3nAae4zz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 2:36 |
 | 24 | [For Sport](https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4) | 2:26 |
 | 25 | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/track/6T0weoG6mJIshaxnnUgXIO) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Elevator Jay](https://open.spotify.com/artist/2JmhnB4HLAf3PjqmikkJrC) | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/album/5MLZPzbEBVAUnPkamfuPvZ) | 3:16 |
-| 26 | [Special One](https://open.spotify.com/track/3KwNz4zdzLdj6GUMWt0UqV) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Project Purple](https://open.spotify.com/album/4PLUrpYS9dQzPReNc5zkpg) | 3:37 |
-| 27 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 |
+| 26 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 |
+| 27 | [Special One](https://open.spotify.com/track/3KwNz4zdzLdj6GUMWt0UqV) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Project Purple](https://open.spotify.com/album/4PLUrpYS9dQzPReNc5zkpg) | 3:37 |
 | 28 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 |
 | 29 | [Dark Eyes](https://open.spotify.com/track/48nmwkCtOpkwx46cIoiZKW) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 2:52 |
 | 30 | [Walking Away](https://open.spotify.com/track/0ATBZJ1E0lkMC9oweBVLqa) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:32 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 45 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 |
 | 46 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `Mjg1Mjc5ODAsMDAwMDAwMDA2ODQ5ZmQ1NzE4YjhmOGM3ZGQ4ZWQ1MzE5MTQ4YWI4Yw==`
+Snapshot ID: `Mjg1Mjk0MjAsMDAwMDAwMDA3NzIyZTUyYzNiN2UyMmQ5NTBlMWU3YjNlYjg4NTIyNA==`

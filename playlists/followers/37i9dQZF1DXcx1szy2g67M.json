@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 559284,
+  "2024-03-30": 559321,
   "date_first_scraped": "2023-02-25",
   "description": "Maak je klaar voor de zomer van 2024!",
   "name": "Summer '24",
@@ -2741,7 +2741,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 163510,
       "name": "God Is In The Soundwaves",
       "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
@@ -3111,7 +3111,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 214348,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ"
@@ -5622,6 +5622,28 @@
     },
     {
       "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Punter\u00eda",
+      "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
+    },
+    {
+      "album": {
         "name": "Ray Of Solar",
         "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
       },
@@ -7142,6 +7164,24 @@
     },
     {
       "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -7972,6 +8012,24 @@
     },
     {
       "album": {
+        "name": "WOW!",
+        "url": "https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172817,
+      "name": "WOW!",
+      "url": "https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0"
+    },
+    {
+      "album": {
         "name": "Wrong (Re-imagined)",
         "url": "https://open.spotify.com/album/2D4Ztn0PENuKx1NyYWK4TD"
       },
@@ -7983,7 +8041,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 210931,
       "name": "Wrong - Re-imagined",
       "url": "https://open.spotify.com/track/10pLmMEidgvRhd6MEqxb2r"

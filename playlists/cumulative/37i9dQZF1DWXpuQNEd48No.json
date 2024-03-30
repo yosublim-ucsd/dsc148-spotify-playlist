@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/4SpOQqLYAKJg1woQLczbjm"
+      },
+      "artists": [
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        },
+        {
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208043,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/0WSsU9xfo2zGol8MYqO9q4"
+    },
+    {
+      "album": {
         "name": "Bawli",
         "url": "https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ"
       },
@@ -736,7 +758,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 153571,
       "name": "Bliss - From \"Jimmy\"",
       "url": "https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB"

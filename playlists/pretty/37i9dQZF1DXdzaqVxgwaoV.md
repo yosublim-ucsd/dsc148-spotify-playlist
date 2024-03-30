@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,278 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,270 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 79 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 2:37 |
 | 80 | [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 |
 
-Snapshot ID: `MCxjNzMwMDIzNDllNDNiMTM1N2U3MjY2Yzg2ZDJlZGZjMjhjNWQ0N2Q0`
+Snapshot ID: `MCxiN2Q3ZGMyYjg1YjUwZGY3NDIxZGI3NjYyYWQxMDhkZTRjZDcyMTU1`

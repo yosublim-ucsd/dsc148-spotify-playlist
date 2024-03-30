@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 5270913,
+  "2024-03-30": 5271407,
   "date_first_scraped": "2019-05-26",
   "description": "chill beats, lofi vibes, new tracks every week... ",
   "name": "lofi beats",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 176843,
       "name": "(Not Much Going On Here)",
       "url": "https://open.spotify.com/track/7F4EmomSLlwLPCnfGgmrnj"
@@ -3393,7 +3393,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 166624,
       "name": "afternoon walk",
       "url": "https://open.spotify.com/track/1dnSIg4ulPAEIWDmuWA5Cf"
@@ -26978,6 +26978,24 @@
     },
     {
       "album": {
+        "name": "dahlia",
+        "url": "https://open.spotify.com/album/7dlLBUUWCiRTxeCAq9iDDL"
+      },
+      "artists": [
+        {
+          "name": "nikk.",
+          "url": "https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "dahlia",
+      "url": "https://open.spotify.com/track/6f6iBsC3AFRjRh7EYtAsTc"
+    },
+    {
+      "album": {
         "name": "Dahlias",
         "url": "https://open.spotify.com/album/4Qk761JyjotKlEvCqKUP0l"
       },
@@ -34637,7 +34655,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 163468,
       "name": "Envision",
       "url": "https://open.spotify.com/track/1uXF503ovswvRMxJ3sMdBJ"
@@ -38595,7 +38613,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 132000,
       "name": "first kiss",
       "url": "https://open.spotify.com/track/2a36O9PJKGq3K1y8XSfelx"
@@ -38787,6 +38805,24 @@
       "duration_ms": 84460,
       "name": "fixed width",
       "url": "https://open.spotify.com/track/4cp6VuQ8JM3jHn6lyN28gz"
+    },
+    {
+      "album": {
+        "name": "Fizzy Kombucha",
+        "url": "https://open.spotify.com/album/09rlTnLULOelxZ3kV38uKo"
+      },
+      "artists": [
+        {
+          "name": "Knob Reflection",
+          "url": "https://open.spotify.com/artist/64jX3OfGvQkiyRkxvuCWnv"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Fizzy Kombucha",
+      "url": "https://open.spotify.com/track/2DvaGmLzj1q4YMLfKsqTm6"
     },
     {
       "album": {
@@ -44750,6 +44786,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2eRnea4a0V7mE2ppPPQ4a2"
+      },
+      "artists": [
+        {
+          "name": "Rooftop Shenanigans",
+          "url": "https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141923,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3rw9DAleOS6ZBoRQuLvFPt"
+    },
+    {
+      "album": {
         "name": "Gold Sun",
         "url": "https://open.spotify.com/album/62zzfWGzevQBfH34emogVH"
       },
@@ -49075,6 +49129,10 @@
         {
           "name": "Youthology",
           "url": "https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM"
+        },
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
         }
       ],
       "date_added": "2024-03-22",
@@ -51928,6 +51986,24 @@
     },
     {
       "album": {
+        "name": "i saw it clearly",
+        "url": "https://open.spotify.com/album/70DIsIRELtR5vEmR86dxfT"
+      },
+      "artists": [
+        {
+          "name": "herbstreit",
+          "url": "https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "i saw it clearly",
+      "url": "https://open.spotify.com/track/0yAp4yvq94VNRpK9V4tlZ4"
+    },
+    {
+      "album": {
         "name": "I Think About You",
         "url": "https://open.spotify.com/album/7MMBMnqgaaXaiviPkZKtK8"
       },
@@ -53674,6 +53750,24 @@
     },
     {
       "album": {
+        "name": "in the backseat of my parents car",
+        "url": "https://open.spotify.com/album/1xikxyfpM5FiEzxUpM8EJl"
+      },
+      "artists": [
+        {
+          "name": "nearly monday",
+          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106750,
+      "name": "in the backseat of my parents car",
+      "url": "https://open.spotify.com/track/22PA2i88dqsPJy2xVxlrms"
+    },
+    {
+      "album": {
         "name": "In The Beginning",
         "url": "https://open.spotify.com/album/7cUj4OaHtQ5dhFd2x0VfLf"
       },
@@ -54249,7 +54343,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 154304,
       "name": "Infinity and Beyond",
       "url": "https://open.spotify.com/track/2JTaHCAsGNgt82fIIuoCOC"
@@ -62937,7 +63031,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 170999,
       "name": "Life of an NPC",
       "url": "https://open.spotify.com/track/5fwCrVlpXABeuPopviPeGG"
@@ -65927,6 +66021,24 @@
       "duration_ms": 93624,
       "name": "Loto",
       "url": "https://open.spotify.com/track/2i52hcNgy0k0pPNyEWw7ub"
+    },
+    {
+      "album": {
+        "name": "Lottalofi",
+        "url": "https://open.spotify.com/album/0gOCJZ9376hpcPcuwdzTpU"
+      },
+      "artists": [
+        {
+          "name": "Corse Cane",
+          "url": "https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Lottalofi",
+      "url": "https://open.spotify.com/track/3EdIb3dhDV0i7pKnflosVK"
     },
     {
       "album": {
@@ -86056,6 +86168,24 @@
     },
     {
       "album": {
+        "name": "periphery",
+        "url": "https://open.spotify.com/album/5P2z2j1i2IkTmBLRdBHaJ2"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "periphery",
+      "url": "https://open.spotify.com/track/60gdMWnMjGZMSyyEpQnfTP"
+    },
+    {
+      "album": {
         "name": "Permafrost",
         "url": "https://open.spotify.com/album/6Jhg1mLFGFtvhDUcsZV2ID"
       },
@@ -86893,7 +87023,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 186760,
       "name": "pink dawn",
       "url": "https://open.spotify.com/track/3a5drO67gyZUWtswFKvcMT"
@@ -90571,6 +90701,24 @@
       "duration_ms": 98801,
       "name": "Rainbow Mountain",
       "url": "https://open.spotify.com/track/43kJ5pr7YJJkr985hAQzwX"
+    },
+    {
+      "album": {
+        "name": "Rainbower",
+        "url": "https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC"
+      },
+      "artists": [
+        {
+          "name": "Aurora 10",
+          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Rainbower",
+      "url": "https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp"
     },
     {
       "album": {
@@ -106803,7 +106951,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 124235,
       "name": "Stressless",
       "url": "https://open.spotify.com/track/4qLSz7Riunmm15aO7mh7io"
@@ -108397,6 +108545,24 @@
       "duration_ms": 120000,
       "name": "Sunbath",
       "url": "https://open.spotify.com/track/03c8CXUMTqMlEjaFkMmqMK"
+    },
+    {
+      "album": {
+        "name": "sunbathe",
+        "url": "https://open.spotify.com/album/41wl0Tn1GZ7DZyqMnxfux3"
+      },
+      "artists": [
+        {
+          "name": "Collinsworthy",
+          "url": "https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160250,
+      "name": "sunbathe",
+      "url": "https://open.spotify.com/track/2Zhs6w5CFILgFqlvfw66OS"
     },
     {
       "album": {
@@ -120345,7 +120511,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 143095,
       "name": "Up In The Air",
       "url": "https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf"

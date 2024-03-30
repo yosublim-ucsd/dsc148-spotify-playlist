@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-249 songs - 12 hr 45 min
+250 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 | 2021-11-26 | 2023-04-07 |
 | [Caro](https://open.spotify.com/track/0LkuHRZJxg8lDqOqeMgi7i) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX), [Eney](https://open.spotify.com/artist/0k5fct6YYlVUwSHkuxKvre) | [Caro](https://open.spotify.com/album/2terVtDIynq8ZwCpSZqWVa) | 2:45 | 2021-11-26 | 2022-02-19 |
 | [Carpe Diem](https://open.spotify.com/track/2aG5jnSGJVLrutTzGfk0US) | [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Carpe Diem](https://open.spotify.com/album/2vRXlheB4qcUxzN93zTu8C) | 1:22 | 2023-05-26 | 2023-11-25 |
+| [Cheka](https://open.spotify.com/track/23QAYBNp1GBI3EupR4m9yT) | [Mike Southside](https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Cheka](https://open.spotify.com/album/0PpIm4D9jjGtN9tRPYsPYz) | 3:14 | 2024-03-29 |  |
 | [Clandestino](https://open.spotify.com/track/0fMcU9JmcBeWVMzqbE7PU8) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L) | [Clandestino](https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx) | 2:46 | 2024-03-01 |  |
 | [Con Billetes](https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 4:21 | 2023-01-27 | 2023-07-22 |
 | [Conscientes](https://open.spotify.com/track/00A1QlPq8KGQbbs1KAP8tu) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Conscientes](https://open.spotify.com/album/39u6g3PwSWHbmkMK0qpW16) | 3:01 | 2023-04-07 |  |
@@ -250,7 +251,7 @@
 | [Velorio](https://open.spotify.com/track/626DP2Pk2gFMQBUlWqulvZ) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Chili Parker](https://open.spotify.com/artist/0N0TOGZTDvGvMfpjhnrECs) | [Velorio](https://open.spotify.com/album/0UwrKsl4nvixGG6RBKE0Df) | 4:10 | 2024-02-14 |  |
 | [Ventrílocuo](https://open.spotify.com/track/32ZzE1I9dEjcZM6q4DPKAK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Ventrílocuo](https://open.spotify.com/album/0JunW3Lcvu4oGpsm5Vop9R) | 2:26 | 2022-02-25 | 2022-04-12 |
 | [VIAIPI](https://open.spotify.com/track/0CYagVsyiywAsIncn4J32M) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/6rTohz8oiz7KMskyYQiv68) | 2:26 | 2022-06-10 |  |
-| [Viernes 16 B](https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Galaxy Supreme](https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB) | [Viernes 16 B](https://open.spotify.com/album/1ceQaYjCv4NlKs4fqpiapt) | 2:25 | 2024-02-16 |  |
+| [Viernes 16 B](https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Galaxy Supreme](https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB) | [Viernes 16 B](https://open.spotify.com/album/1ceQaYjCv4NlKs4fqpiapt) | 2:25 | 2024-02-16 | 2024-03-30 |
 | [Vueltas en el barrio](https://open.spotify.com/track/1mVSPOifn1tlbmRpjcTpzs) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Vueltas en el barrio](https://open.spotify.com/album/1BrVfD9HJ9HFyHCccK4BmP) | 2:34 | 2022-02-18 | 2023-03-03 |
 | [Wapo Traketero](https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Wapo Traketero](https://open.spotify.com/album/0HvHR0nVBzvwkzsIMHDRoZ) | 3:01 | 2021-11-26 |  |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-04-07 |  |

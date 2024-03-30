@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-253 songs - 17 hr 9 min
+254 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Dunston \(Bellaire Remix\)](https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Dunston \(Bellaire Remix\)](https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI) | 3:33 | 2023-08-04 |  |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2023-05-19 |  |
 | [Electric Drama](https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Electric Drama](https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU) | 6:18 | 2021-07-24 | 2023-06-10 |
-| [Emotion](https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 3:04 | 2021-07-24 |  |
+| [Emotion](https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 3:04 | 2021-07-24 | 2024-03-30 |
 | [Every Night](https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:05 | 2023-08-11 |  |
 | [Everyday People](https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Everyday People](https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP) | 2:45 | 2023-09-29 |  |
 | [Fanfa](https://open.spotify.com/track/0CdXVtDuGEHSqwkeeNRvlg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Fanfa](https://open.spotify.com/album/13eR8aMR7Fy9Ob3MDp3zR1) | 4:50 | 2021-07-24 | 2022-07-29 |
@@ -93,6 +93,7 @@
 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2023-05-19 |  |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2023-10-28 |
 | [Hard To Find \- Girls of the Internet Remix \- Short Edit](https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw) | [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Hard To Find \(Girls of the Internet Remix\)](https://open.spotify.com/album/0fL5W0T0KqPiSZVyVcAghr) | 4:03 | 2021-07-24 | 2023-06-11 |
+| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 | 2024-03-29 |  |
 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 | 2022-06-20 | 2023-05-20 |
 | [Ho Chi Min](https://open.spotify.com/track/5kKGJym6i9cQJhUiELMfqI) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/5ojN0F4GIGGJY75oWQd3xW) | 7:20 | 2021-07-24 | 2022-07-29 |
 | [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 | 2022-06-20 | 2023-05-20 |

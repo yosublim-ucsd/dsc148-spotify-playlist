@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 30482,
+  "2024-03-30": 30498,
   "date_first_scraped": "2023-05-19",
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Pina Colada Blues",
   "name": "Malayalam Indie",
@@ -3297,6 +3297,24 @@
       "duration_ms": 204000,
       "name": "Uyaru",
       "url": "https://open.spotify.com/track/3rFUkoIS2Hb8ZUvNtpXoRc"
+    },
+    {
+      "album": {
+        "name": "Vaanil Nila",
+        "url": "https://open.spotify.com/album/1dnXlWoQzKtze8d9Uj6zcJ"
+      },
+      "artists": [
+        {
+          "name": "Anusree Deepak",
+          "url": "https://open.spotify.com/artist/25iCaIN4jpNT7K37yeSTPa"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Vaanil Nila",
+      "url": "https://open.spotify.com/track/2RaJo1HIKjyMjxZYJ2HdME"
     },
     {
       "album": {

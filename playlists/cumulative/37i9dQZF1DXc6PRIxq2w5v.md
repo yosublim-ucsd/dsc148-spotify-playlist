@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Nesk Only
 
-351 songs - 18 hr 18 min
+352 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Coração Cansado](https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Coração Cansado](https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW) | 2:40 | 2023-09-01 |  |
 | [Coração Puro](https://open.spotify.com/track/0G8J4Vy3nug36yoiH1H5zG) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Coração Puro](https://open.spotify.com/album/5hYHkGkRwQCoXjVefM00pt) | 2:20 | 2022-08-19 | 2022-09-03 |
 | [Coração Quebrado](https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SCampos](https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ) | [Coração Quebrado](https://open.spotify.com/album/349KT4LJKGKSgtajbT031W) | 2:02 | 2023-07-14 | 2023-10-23 |
+| [Cordeiro](https://open.spotify.com/track/3Rvmkv36zo0y3yqLyCvVB5) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Cordeiro](https://open.spotify.com/album/5pySYiNZgW3G9hsbzHZM4i) | 2:48 | 2024-03-29 |  |
 | [Cores Novas](https://open.spotify.com/track/5mumRcr5TySm83gAq490ZK) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Cores Novas](https://open.spotify.com/album/1yhKSiRIQgRJ4CV0v00Vr7) | 2:18 | 2022-04-29 | 2022-08-20 |
 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 | 2022-03-22 | 2023-12-09 |
 | [Crises](https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Todah Urban](https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu) | [Crises](https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe) | 2:24 | 2023-10-20 |  |
@@ -290,7 +291,7 @@
 | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO) | 2:10 | 2023-09-15 |  |
 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 | 2022-04-26 |  |
 | [Segunda\-Feira](https://open.spotify.com/track/2VqbnHIpPwPeHIBe8WgUdM) | [The Free Church](https://open.spotify.com/artist/3uIzl2Zys6TrtG8umGBAdM), [AATALAIAA](https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo), [Caiio Augusto](https://open.spotify.com/artist/1suU2iwDDNHU2zj6aB4vfo) | [Segunda\-Feira](https://open.spotify.com/album/1LOCOxismL9MpnGNHMigrS) | 3:49 | 2023-06-02 | 2023-06-17 |
-| [Sem Cruz, Sem Glória](https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Sem Cruz, Sem Glória](https://open.spotify.com/album/7JZZHrzvFgYFDc58mntY55) | 3:56 | 2024-03-01 |  |
+| [Sem Cruz, Sem Glória](https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Sem Cruz, Sem Glória](https://open.spotify.com/album/7JZZHrzvFgYFDc58mntY55) | 3:56 | 2024-03-01 | 2024-03-30 |
 | [SEM MENTIRAS](https://open.spotify.com/track/1bsCdxcSHy1hqThOUJoEwr) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [SEM MENTIRAS](https://open.spotify.com/album/3FpPTJhEECVWMupYLvNALK) | 2:24 | 2022-03-22 | 2022-08-20 |
 | [Sem Rumo](https://open.spotify.com/track/4ST6J0h5CNwHNHWQbq6VyT) | [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Sem Rumo](https://open.spotify.com/album/57HV1hl7My39XTcElfDxGH) | 3:15 | 2023-11-24 | 2023-12-23 |
 | [Semeadores](https://open.spotify.com/track/01j3BWe6rxzqIAMrfWdRuS) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Cela Éfeso](https://open.spotify.com/artist/7ueKl9kOlGIYEi6uVdlYVB), [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [Rap Menorah](https://open.spotify.com/artist/0o2LKT3AcCDjM47LyERec2), [Welby See](https://open.spotify.com/artist/6W2muqMzUdzcqdZGN2TTtD) | [Semeadores](https://open.spotify.com/album/3E57sTfK3lSVfKFGh7Kueu) | 5:20 | 2022-06-10 | 2022-08-20 |

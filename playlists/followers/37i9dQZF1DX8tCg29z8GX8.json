@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 13850,
+  "2024-03-30": 13858,
   "date_first_scraped": "2022-08-06",
   "description": "mate- Bus stop!",
   "name": "Troski Rhythms",
@@ -3605,7 +3605,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 157541,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo"
@@ -4585,7 +4585,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
@@ -5907,7 +5907,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
@@ -7456,6 +7456,28 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0gmJlZaO0ZJcCF7O3krzXl"
+      },
+      "artists": [
+        {
+          "name": "Gasmilla",
+          "url": "https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3"
+        },
+        {
+          "name": "Gizmo Original",
+          "url": "https://open.spotify.com/artist/6rrtn6So9bRb6mZLTMjGMX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/0OK6S8OsDnbBm5zbcTsb0C"
+    },
+    {
+      "album": {
         "name": "Take Care of Yourself Blacko",
         "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
       },
@@ -7489,6 +7511,24 @@
       "duration_ms": 167767,
       "name": "Single",
       "url": "https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe"
+    },
+    {
+      "album": {
+        "name": "Slay Queen",
+        "url": "https://open.spotify.com/album/5K2X26PtyTCUZmmfzIaZI2"
+      },
+      "artists": [
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214453,
+      "name": "Slay Queen",
+      "url": "https://open.spotify.com/track/58hvxoqFo5vDqR5NmvORsh"
     },
     {
       "album": {
@@ -7591,6 +7631,28 @@
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
+    },
+    {
+      "album": {
+        "name": "Sober (Soo Bad)",
+        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Sober (Soo Bad)",
+      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
     },
     {
       "album": {

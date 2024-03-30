@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,059 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,071 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 29 | [Algún Contexto](https://open.spotify.com/track/3CYJKHDRMB1gk3AZPluwe6) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/1YNwE2V9vCmI66drR0swHr) | 2:54 |
 | 30 | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm) | 3:25 |
 | 31 | [Todo Va a Arder](https://open.spotify.com/track/1sJSicDEBfPEo4nAW60WxJ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [B \(Deluxe Edition\)](https://open.spotify.com/album/5bRJW0QvMRMdNNEh5tSwnx) | 3:21 |
-| 32 | [Emociones](https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 3:47 |
-| 33 | [El Mar](https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Recaer](https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z) | 3:01 |
+| 32 | [El Mar](https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Recaer](https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z) | 3:01 |
+| 33 | [Emociones](https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 3:47 |
 | 34 | [Perdedor](https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl) | [Consulado Popular](https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR) | [Perdedor](https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB) | 3:11 |
 | 35 | [Somos Coyotes](https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq) | 3:42 |
 | 36 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 44 | [Vuelve](https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL) | [Seis Peatones](https://open.spotify.com/artist/3ttS9nRJO3PdwxRlMKmFGh) | [Polvo](https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL) | 4:30 |
 | 45 | [Quédate Cerca](https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd) | 3:35 |
 | 46 | [Antiamor](https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu) | 3:43 |
-| 47 | [Búhoz](https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 4:09 |
-| 48 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 |
+| 47 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 |
+| 48 | [Búhoz](https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 4:09 |
 | 49 | [Salir Ileso](https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:23 |
 | 50 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
 | 51 | [Perro Come Perro](https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Perro Come Perro](https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 |
 | 60 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |
 
-Snapshot ID: `MCxjNjM2OTI5MGIxYWIwNGFjMmUxZGQxOWVjYWQyMzBhODNkYjZiZWVm`
+Snapshot ID: `MCw2NmE3MWViYmMxZTBhNTc0YTIyYjA5MzhkYjQxYWY3NTE5MTg4MTlh`

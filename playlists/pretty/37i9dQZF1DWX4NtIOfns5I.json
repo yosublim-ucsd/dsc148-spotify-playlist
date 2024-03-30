@@ -1,12 +1,12 @@
 {
   "description": "bright future by adrianne lenker has arrived \u2600\ufe0f",
-  "num_followers": 98577,
+  "num_followers": 98600,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODk5MjdiY2U1OWM5MTRlNjcwYmY1OGQxNDdmMGQyOTNmYzM1YjNl",
+  "snapshot_id": "MCw4YmRkZTEwNDlkMDkxZjM1Yzk4NTlmZDdmYWY4MGU1NGM5MjIyYmRi",
   "tracks": [
     {
       "added_at": "2024-03-18 17:51:53",
@@ -23,6 +23,22 @@
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "added_at": "2024-03-29 16:37:44",
+      "album": {
+        "name": "Flicker + I Don\u2019t Have The Heart",
+        "url": "https://open.spotify.com/album/1hbCatj4IFzZjqTzXFiLR0"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "I Don't Have The Heart",
+      "url": "https://open.spotify.com/track/4fNiJw07JzssQ1ApsNNeer"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -89,20 +105,36 @@
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-29 16:37:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 153850,
-      "name": "Buffalo Replaced - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -153,6 +185,22 @@
       "url": "https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr"
     },
     {
+      "added_at": "2024-03-29 16:37:44",
+      "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Your Eyes Tell Stories",
@@ -167,6 +215,22 @@
       "duration_ms": 320200,
       "name": "Your Eyes Tell Stories",
       "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -185,20 +249,36 @@
       "url": "https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf"
     },
     {
-      "added_at": "2024-03-12 21:17:43",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "someday i'll get it",
-        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
       "artists": [
         {
-          "name": "Alek Olsen",
-          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 94750,
-      "name": "someday i'll get it",
-      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
+      "duration_ms": 153850,
+      "name": "Buffalo Replaced - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Made your bed",
+        "url": "https://open.spotify.com/album/7wdelmJ9L3KHechBmBl0ey"
+      },
+      "artists": [
+        {
+          "name": "Celia",
+          "url": "https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl"
+        }
+      ],
+      "duration_ms": 174264,
+      "name": "Made your bed",
+      "url": "https://open.spotify.com/track/3caqqv8ODxoJXlkTHOttqu"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -217,20 +297,20 @@
       "url": "https://open.spotify.com/track/22D1DwiWzLVfIodVEG5XtA"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-03-12 21:17:43",
       "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
         }
       ],
-      "duration_ms": 243800,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -263,6 +343,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Dark Sun",
+        "url": "https://open.spotify.com/album/5LoqJrgLyJYbsk5IavjkkJ"
+      },
+      "artists": [
+        {
+          "name": "h. pruz",
+          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Dark Sun",
+      "url": "https://open.spotify.com/track/6Zn6u1wC7JcLZ4EsUTcNET"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -361,22 +457,6 @@
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -391,6 +471,22 @@
       "duration_ms": 182282,
       "name": "Coyote, My Little Brother - Spotify Singles",
       "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -455,22 +551,6 @@
       "duration_ms": 168352,
       "name": "Dirty Fire",
       "url": "https://open.spotify.com/track/7Ktux01az60Et2QeCYu357"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Cottontail",
-        "url": "https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 161162,
-      "name": "Cottontail",
-      "url": "https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -623,18 +703,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "tiny things",
-        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
+        "name": "Cottontail",
+        "url": "https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
         }
       ],
-      "duration_ms": 150926,
-      "name": "tiny things",
-      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
+      "duration_ms": 161162,
+      "name": "Cottontail",
+      "url": "https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1831,38 +1911,6 @@
       "duration_ms": 224744,
       "name": "You'd Like Me More",
       "url": "https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Soup Song",
-        "url": "https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 150142,
-      "name": "Soup Song",
-      "url": "https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "earlier from '20",
-        "url": "https://open.spotify.com/album/2AekUERWbAA27Eyux7Gj9Z"
-      },
-      "artists": [
-        {
-          "name": "runo plum",
-          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
-        }
-      ],
-      "duration_ms": 216791,
-      "name": "very overdue goodbye",
-      "url": "https://open.spotify.com/track/6onEf8upjTGmqve2G6dm3h"
     },
     {
       "added_at": "2024-02-16 05:00:00",

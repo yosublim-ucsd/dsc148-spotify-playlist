@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,962 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,972 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 28 | [Playa Azul](https://open.spotify.com/track/6tNsBS0eXVSJwflDnJBOo1) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The Venezuelan Zinga Son Vol\. 1](https://open.spotify.com/album/7qpTrRk5qObiLMkFCSUATK) | 4:39 |
 | 29 | [Bandolero](https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ) | 4:21 |
 | 30 | [Pulque para dos](https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo) | [Los Xochimilcas](https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd) | [Antología...Los Xochimilcas](https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ) | 3:12 |
-| 31 | [Cempasúchil](https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música \(Edición Especial\)](https://open.spotify.com/album/75lParfrGxiexJOFlDh94X) | 4:14 |
-| 32 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 |
+| 31 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 |
+| 32 | [Cempasúchil](https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música \(Edición Especial\)](https://open.spotify.com/album/75lParfrGxiexJOFlDh94X) | 4:14 |
 | 33 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 |
 | 34 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
 | 35 | [Aguacate](https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 3:08 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 70 | [Frida Kahlo aka Mamasita](https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x) | [Latin Soul Syndicate](https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps) | [Latin Soul Syndicate](https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO) | 3:59 |
 | 71 | [Coconut Water](https://open.spotify.com/track/6GsvDc8XtZpPk7jRgqSNF8) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 3:28 |
 | 72 | [Moliendo Café \- Ritmo Orquidea](https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP) | [Hernán Gamboa](https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL) | [La Fiesta](https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM) | 3:07 |
-| 73 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78's, Vol\. 4 \(1949 \- 1955\)](https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL) | 2:33 |
-| 74 | [Maria Cristina](https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [Presentando a Ñico Saquito](https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S) | 2:38 |
-| 75 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 |
+| 73 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 |
+| 74 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78's, Vol\. 4 \(1949 \- 1955\)](https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL) | 2:33 |
+| 75 | [Maria Cristina](https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [Presentando a Ñico Saquito](https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S) | 2:38 |
 | 76 | [Cajita De Barro](https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:39 |
 | 77 | [Pulque](https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:43 |
 | 78 | [Vereda Tropical](https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 2:45 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 88 | [A Love Supreme](https://open.spotify.com/track/5c5bnwxYMXddDPUVDyF3Sr) | [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz) | [Echu Mingua](https://open.spotify.com/album/6xFDjJlhINnlYcaRV4y6ag) | 5:49 |
 | 89 | [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 |
 | 90 | [La Xochipitzahuatl](https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu) | [Lone Piñon](https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR) | [Trio Nuevomexicano](https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b) | 3:59 |
-| 91 | [Limon En La Cabeza](https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [Guapapasea!](https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP) | 5:31 |
-| 92 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
+| 91 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
+| 92 | [Limon En La Cabeza](https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [Guapapasea!](https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP) | 5:31 |
 | 93 | [Mambo Los Quantic](https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Quantic and His Combo Barbaro](https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN) | [The Power of the Latin Music](https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE) | 4:43 |
 | 94 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Luaka Bop Remix](https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O) | 2:46 |
 | 95 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 99 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
 | 100 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 |
 
-Snapshot ID: `MCwzYmI5MzVlODU2Njg0ZDQ1ZGVkNGVhNWYyYjUxN2EwOGI3YmU2ZmY5`
+Snapshot ID: `MCw4ZTA2MDc4ZTliZmU2YTE2NjNmMWJhNTJlYjhiZmMxMDMxZjQyOTE2`

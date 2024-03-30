@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY"
+      },
+      "artists": [
+        {
+          "name": "Marco Apicella",
+          "url": "https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU"
+    },
+    {
+      "album": {
         "name": "Erz\u00e4hlung",
         "url": "https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 161469,
       "name": "Night Solace",
       "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"

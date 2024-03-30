@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,091 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,198 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 16 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 |
 | 17 | [Voodoo Ray](https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Hot Lemonade](https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl) | 4:27 |
 | 18 | [The Bouncer \- Housequake Mix](https://open.spotify.com/track/75dtfCfD4RxwscyDhJLmlJ) | [Kicks Like A Mule](https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH) | [XL Recordings: The First Chapters](https://open.spotify.com/album/6YHL7dlASZAWH2PTueKfZE) | 6:04 |
-| 19 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
-| 20 | [Sonic Empire \- Short Mix](https://open.spotify.com/track/7zgoOh1KhDnlFvFKpv8wlx) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m) | [The Complete Anthem Collection 1992 \- 2007](https://open.spotify.com/album/3D5SdLPuPcniSDGnUiYrO5) | 3:59 |
+| 19 | [Sonic Empire \- Short Mix](https://open.spotify.com/track/7zgoOh1KhDnlFvFKpv8wlx) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m) | [The Complete Anthem Collection 1992 \- 2007](https://open.spotify.com/album/3D5SdLPuPcniSDGnUiYrO5) | 3:59 |
+| 20 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
 | 21 | [Valley of the Shadows](https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 4:40 |
-| 22 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
-| 23 | [Something Good](https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO) | [Utah Saints](https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH) | [Utah Saints](https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz) | 5:55 |
+| 22 | [Something Good](https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO) | [Utah Saints](https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH) | [Utah Saints](https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz) | 5:55 |
+| 23 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 24 | [Let Me Be Your Fantasy](https://open.spotify.com/track/1rQMmMklXi7k1HreHdD9Tj) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/4IWn4hJRmgNCv1wY8JGBrS) | 7:50 |
 | 25 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 |
 | 26 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK) | 5:19 |
 | 50 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
 
-Snapshot ID: `MCwyNDU2MDIxOTQ0YmE3ZDA3OTI1ZDE0MDQ2OGEyMThlOWQ4ODE2NGQ4`
+Snapshot ID: `MCwwMGMwMzQ3ZjQ5OGFiNzY5MTM4ZGU1N2RkYTcyNjk4YzkwMThlZGM3`

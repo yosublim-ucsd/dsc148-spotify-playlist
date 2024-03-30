@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 420859,
+  "2024-03-30": 421129,
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: MELE",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Levin Liam",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -819,6 +819,24 @@
       "duration_ms": 209239,
       "name": "Art und Weise",
       "url": "https://open.spotify.com/track/1yh0I7f6gMQLZF5wr7RHLx"
+    },
+    {
+      "album": {
+        "name": "atlantik",
+        "url": "https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f"
+      },
+      "artists": [
+        {
+          "name": "Elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "atlantik",
+      "url": "https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C"
     },
     {
       "album": {
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 138924,
       "name": "Diese Eine",
       "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 142100,
       "name": "eBay",
       "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
@@ -3105,7 +3123,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 147847,
       "name": "ficken3000",
       "url": "https://open.spotify.com/track/0Lux2h5FHNlWnvpLmh4NCA"
@@ -3503,7 +3521,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 159278,
       "name": "F\u00fcr Noel",
       "url": "https://open.spotify.com/track/6Tgq6QgQBNPScKb0R0B3xA"
@@ -3995,6 +4013,24 @@
       "duration_ms": 205605,
       "name": "Gute Wut",
       "url": "https://open.spotify.com/track/3wytFAqSZ2VzzyEYT1rsVW"
+    },
+    {
+      "album": {
+        "name": "halb 4",
+        "url": "https://open.spotify.com/album/4MoIBEE5Es7PYZLf3Fj536"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173943,
+      "name": "halb 4",
+      "url": "https://open.spotify.com/track/1u3bSLbmo4cnqyGZp2jP31"
     },
     {
       "album": {
@@ -4829,7 +4865,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 224146,
       "name": "James Blake",
       "url": "https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN"
@@ -5378,6 +5414,24 @@
     },
     {
       "album": {
+        "name": "Kreise Durch Die Stadt",
+        "url": "https://open.spotify.com/album/6hb8PvKx43L693b9qtWkDt"
+      },
+      "artists": [
+        {
+          "name": "WOHINN",
+          "url": "https://open.spotify.com/artist/7BW1zR1tn0viUXcb8hsQk6"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214087,
+      "name": "Kreise Durch Die Stadt",
+      "url": "https://open.spotify.com/track/2Q8YCUUqYP0K01bcs6RBVB"
+    },
+    {
+      "album": {
         "name": "Kugeln im Lauf",
         "url": "https://open.spotify.com/album/0orZYm4hvcSOG5fZ807xGA"
       },
@@ -5581,7 +5635,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 152160,
       "name": "laster",
       "url": "https://open.spotify.com/track/3r1QMbUzff4aVrUIbYjUDf"
@@ -5813,7 +5867,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 123402,
       "name": "Lippen wie Rotwein",
       "url": "https://open.spotify.com/track/4YlK3BE0CjQMTmjGK4Tl4r"
@@ -6882,6 +6936,24 @@
     },
     {
       "album": {
+        "name": "N\u00fcchtern",
+        "url": "https://open.spotify.com/album/4dtdOI3bLWV2DX4dfJrUmS"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169843,
+      "name": "N\u00fcchtern",
+      "url": "https://open.spotify.com/track/4Ih8l5VnYovzqBhdjPSdPH"
+    },
+    {
+      "album": {
         "name": "O STRASSE",
         "url": "https://open.spotify.com/album/3SQcKefvJEd3R7kvYgqqXK"
       },
@@ -7349,6 +7421,24 @@
       "duration_ms": 227061,
       "name": "Pornos im Bett",
       "url": "https://open.spotify.com/track/178BthjruJHLNQ5CxIrThx"
+    },
+    {
+      "album": {
+        "name": "Positive Vibes",
+        "url": "https://open.spotify.com/album/01gVO3S6Sker3QBtUvwQMs"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Positive Vibes",
+      "url": "https://open.spotify.com/track/2RNaKhaYCeYJSqtLpxndeg"
     },
     {
       "album": {
@@ -8829,7 +8919,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 176013,
       "name": "Sterne Sehen",
       "url": "https://open.spotify.com/track/4vNMyM0fSjooHCBFOH0q8d"
@@ -8895,6 +8985,24 @@
       "duration_ms": 152000,
       "name": "streetsmart",
       "url": "https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24"
+    },
+    {
+      "album": {
+        "name": "such mit mir",
+        "url": "https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134570,
+      "name": "such mit mir",
+      "url": "https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE"
     },
     {
       "album": {
@@ -10012,6 +10120,24 @@
     },
     {
       "album": {
+        "name": "Wei\u00dft du",
+        "url": "https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124086,
+      "name": "Wei\u00dft du",
+      "url": "https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu"
+    },
+    {
+      "album": {
         "name": "Wellenl\u00e4ngen",
         "url": "https://open.spotify.com/album/7trTZd6bZGQZjD3SQuMhSH"
       },
@@ -10527,6 +10653,28 @@
       "duration_ms": 135233,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE"
+    },
+    {
+      "album": {
+        "name": "Zeit x RIN",
+        "url": "https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        },
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135233,
+      "name": "Zeit x RIN",
+      "url": "https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS"
     },
     {
       "album": {

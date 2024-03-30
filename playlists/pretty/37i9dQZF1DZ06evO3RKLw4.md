@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,722 likes - 51 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,733 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 2 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
 | 3 | [Fall Back Down](https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:43 |
 | 4 | [Got Each Other](https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
-| 5 | [Salvation](https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:53 |
+| 5 | [Radio](https://open.spotify.com/track/6tlRgNME7ULlY5OcvRdgYn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:51 |
 | 6 | [Ruby Soho](https://open.spotify.com/track/0vfhk1lH3zYesFN1x7vV46) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:37 |
 | 7 | [Red Hot Moon](https://open.spotify.com/track/3a0PmAzfzQfCZFGWkqQ2vi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:36 |
 | 8 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
-| 9 | [Radio](https://open.spotify.com/track/6tlRgNME7ULlY5OcvRdgYn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:51 |
+| 9 | [Salvation](https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:53 |
 | 10 | [Maxwell Murder](https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 1:25 |
 | 11 | [Indestructible](https://open.spotify.com/track/6akNPd4acqhnBn86tEsfAb) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 1:36 |
 | 12 | [Tomorrow Never Comes](https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:25 |
@@ -37,27 +37,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 27 | [Don't Make Me Do It](https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 0:58 |
 | 28 | [Evil's My Friend](https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:09 |
 | 29 | [St\. Mary](https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:09 |
-| 30 | [Hooligans](https://open.spotify.com/track/5uNrA98u8ZSoAaHaDSSmU4) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:32 |
+| 30 | [Poison](https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:18 |
 | 31 | [New American](https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:37 |
-| 32 | [Poison](https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:18 |
+| 32 | [Hooligans](https://open.spotify.com/track/5uNrA98u8ZSoAaHaDSSmU4) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:32 |
 | 33 | [Last One To Die](https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:23 |
-| 34 | [Black Lung](https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 1:53 |
-| 35 | [Honor Is All We Know](https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:11 |
-| 36 | [Mud, Blood, & Gold](https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:12 |
-| 37 | [It's Quite Alright](https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:29 |
+| 34 | [Honor Is All We Know](https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:11 |
+| 35 | [It's Quite Alright](https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:29 |
+| 36 | [Black Lung](https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 1:53 |
+| 37 | [Mud, Blood, & Gold](https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:12 |
 | 38 | [Up To No Good](https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:40 |
 | 39 | [Hyena](https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:54 |
 | 40 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
 | 41 | [Tropical London](https://open.spotify.com/track/02wrYv8k1VgsZI0WD1xh7r) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:03 |
-| 42 | [You Want It, You Got It](https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 1:36 |
-| 43 | [Back Where I Belong](https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:12 |
-| 44 | [Ghost of a Chance](https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 1:36 |
+| 42 | [Stranded](https://open.spotify.com/track/6lreQj4PTDoDvWTREDd4ie) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 2:24 |
+| 43 | [You Want It, You Got It](https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 1:36 |
+| 44 | [Back Where I Belong](https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:12 |
 | 45 | [Arrested in Shanghai](https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 4:11 |
-| 46 | [Disconnected](https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:00 |
-| 47 | [Let Me Go](https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 3:13 |
-| 48 | [Track Fast](https://open.spotify.com/track/7yFYeo1l8wU6LEolRPS6wg) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 0:58 |
-| 49 | [Adina](https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 1:39 |
+| 46 | [Stop](https://open.spotify.com/track/3JK7WvNg0cO9FDV8E5UcLK) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 1:41 |
+| 47 | [Ghost of a Chance](https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 1:36 |
+| 48 | [Disconnected](https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:00 |
+| 49 | [Let Me Go](https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 3:13 |
 | 50 | [Dead And Gone](https://open.spotify.com/track/0jW7y01GcHbkJ8Rrrl5tzP) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 2:06 |
-| 51 | [Who Would've Thought](https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:56 |
+| 51 | [Track Fast](https://open.spotify.com/track/7yFYeo1l8wU6LEolRPS6wg) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 0:58 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDAxNzU3ODRkNmMyNzhkNDMxMzAzMTc4MWE1MjA2NDIzYg==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDAzNzdlZGM2YjlhYWI4NWVmNjE1NDgzZmFlODE0OTJkOQ==`

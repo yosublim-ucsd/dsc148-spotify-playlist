@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 189041,
+  "2024-03-30": 189078,
   "date_first_scraped": "2022-09-17",
   "description": "get into the groove",
   "name": "Deep House Grooves",
@@ -3221,6 +3221,24 @@
       "duration_ms": 455370,
       "name": "Mr Umbawa",
       "url": "https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz"
+    },
+    {
+      "album": {
+        "name": "My Belief",
+        "url": "https://open.spotify.com/album/2eSX3o5fMuX39z8cBj9C8L"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349846,
+      "name": "My Belief",
+      "url": "https://open.spotify.com/track/0YrnSUEqpXmm2pMQYKHGUg"
     },
     {
       "album": {

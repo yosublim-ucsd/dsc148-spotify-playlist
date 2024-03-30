@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,520 likes - 43 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,523 likes - 43 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 30 | [Like Giants in The Sky \- Le Tour Du Monde \- Austin](https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd) | [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw), [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Le Tour Du Monde](https://open.spotify.com/artist/1OYogyFdWXR48xDjmgt0hQ), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Joe Harvey\-Whyte](https://open.spotify.com/artist/63ud5HSE9cDZlEwQzw0C2j) | [Like Giants in The Sky \(Le Tour Du Monde \- Austin\)](https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX) | 3:02 |
 | 31 | [caballos](https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:30 |
 | 32 | [Al Fondo de Mí](https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 3:53 |
-| 33 | [Para Siempre](https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:08 |
-| 34 | [Nada Se Perdió \- Live Acoustic](https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Live At Claustro de Sor Juana — Mexico City \(Live Acoustic\)](https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN) | 3:59 |
+| 33 | [Nada Se Perdió \- Live Acoustic](https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Live At Claustro de Sor Juana — Mexico City \(Live Acoustic\)](https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN) | 3:59 |
+| 34 | [Para Siempre](https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:08 |
 | 35 | [Venus \(Remix\)](https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Venus \(Remix\)](https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN) | 3:52 |
 | 36 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 |
 | 37 | [presente](https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 42 | [Correr](https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:38 |
 | 43 | [Control](https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:00 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBmZWNjNzU2YWM0MmFjMzZhOTcxN2NjY2UzNDk5ZjNhZg==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDBhZDZmZmMyMmU4ODBlNTUwYzNiMDdmOGJkMDM2MzY1Yg==`

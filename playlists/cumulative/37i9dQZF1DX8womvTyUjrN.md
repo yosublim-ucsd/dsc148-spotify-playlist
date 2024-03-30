@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: ELENA ROSE
+> Fresh Latin pop on the rise\. Cover: Beéle & Kany García
 
-606 songs - 1 day 6 hr 27 min
+608 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Acto Final](https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:36 | 2024-02-02 | 2024-02-17 |
 | [After](https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4) | [After](https://open.spotify.com/album/7sHETRN0d1Drl92z6jawH2) | 2:59 | 2022-04-15 | 2022-05-19 |
 | [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 | 2022-07-28 | 2022-10-29 |
-| [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 | 2024-03-15 |  |
+| [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 | 2024-03-15 | 2024-03-30 |
 | [agüita con sal](https://open.spotify.com/track/3ECMn8Zl2A1o1lQBxg9xvb) | [ISADORA](https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C) | [agüita con sal](https://open.spotify.com/album/3zGOqF828QOc0A5KcRpJJo) | 2:36 | 2024-02-02 | 2024-03-02 |
 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 | 2023-10-20 | 2024-02-06 |
 | [Ahora Que No Te Tengo](https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Ahora Que No Te Tengo](https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl) | 2:35 | 2024-01-12 |  |
@@ -198,7 +198,7 @@
 | [en el pasado](https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [en el pasado](https://open.spotify.com/album/78EFQKhgET0w845QMun4na) | 3:43 | 2023-09-08 |  |
 | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ) | 2:19 | 2023-11-17 | 2024-01-27 |
 | [Enchule](https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Enchule](https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd) | 2:29 | 2022-12-30 | 2023-02-17 |
-| [Enemigos](https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Enemigos](https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv) | 2:37 | 2023-12-01 |  |
+| [Enemigos](https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Enemigos](https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv) | 2:37 | 2023-12-01 | 2024-03-30 |
 | [Energia](https://open.spotify.com/track/3oot6YbOkial5BIJAvEra8) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Energia](https://open.spotify.com/album/5OBkkS1adIEouu18tESdW3) | 2:35 | 2022-03-21 | 2022-05-21 |
 | [ENERO](https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [ENERO](https://open.spotify.com/album/65VDilXxBlKu1DZE94rYsx) | 3:09 | 2023-01-20 | 2023-02-18 |
 | [Enredado](https://open.spotify.com/track/0OB8T9rkWtd8AkUKOwNiuJ) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Enredado](https://open.spotify.com/album/5PNzzawGM6qicExQSakMxb) | 2:56 | 2022-03-21 | 2022-07-09 |
@@ -324,6 +324,7 @@
 | [Mancora](https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Mancora](https://open.spotify.com/album/13MCrijZ1paCPm9wrFPvil) | 2:06 | 2024-01-12 | 2024-01-20 |
 | [Marpesia](https://open.spotify.com/track/5M4MFwCKS2UFQICLrsxXki) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Marpesia](https://open.spotify.com/album/3auDoC18VaVtqTii6YHcN1) | 2:54 | 2022-03-21 | 2022-06-13 |
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-10-07 | 2023-02-04 |
+| [Me Arriesgo Contigo](https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Me Arriesgo Contigo](https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET) | 2:45 | 2024-03-29 |  |
 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 | 2023-07-21 | 2023-07-30 |
 | [Me Conoces](https://open.spotify.com/track/3VZTeLP44cx4TIsMxVpi6W) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM) | [Me Conoces](https://open.spotify.com/album/5EjIchI75FHmoarIwPiaGM) | 2:51 | 2022-03-21 | 2022-07-09 |
 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 | 2022-10-28 | 2023-02-25 |
@@ -604,6 +605,7 @@
 | [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 | 2023-01-20 | 2023-04-29 |
 | [Yo\-yo](https://open.spotify.com/track/4p9q8knpkk8vx7RTilNiyr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Yo\-yo](https://open.spotify.com/album/5Bydy5fT7Q1mNDzgb6aDzs) | 3:17 | 2022-10-07 | 2023-01-14 |
 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 | 2023-09-02 |
+| [ZENDAYA](https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [ZENDAYA](https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy) | 3:03 | 2024-03-29 |  |
 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4xzoXEyNlodC0yT0i62got) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Es Que Tú?](https://open.spotify.com/album/6AXc9vXxu4vgTrMaeb3jo5) | 2:40 | 2022-12-23 | 2023-01-23 |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-02-16 |  |
 | [¿CÓMO TE LO EXPLICO?](https://open.spotify.com/track/67wSCJJ91eyI1aS4AjLYkW) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:01 | 2023-08-18 | 2023-12-02 |

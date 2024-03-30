@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,255 likes - 57 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,328 likes - 57 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 53 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 |
 | 54 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
 | 55 | [O Feijão de Dona Neném](https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Um dos Poetas do Samba](https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No) | 3:21 |
-| 56 | [O Show Tem Que Continuar \- Ao Vivo](https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Ao Vivo No Parque Madureira \(Deluxe\)](https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O) | 3:36 |
-| 57 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
+| 56 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
+| 57 | [O Show Tem Que Continuar \- Ao Vivo](https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Ao Vivo No Parque Madureira \(Deluxe\)](https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O) | 3:36 |
 
-Snapshot ID: `MCw0MWVlN2EwMTVkODE3NjFlMWJhOGU3MzQ4OTQ4ZjQ2ZmE5MzA1OWU1`
+Snapshot ID: `MCwxOWVkYzQwYzk0MmVjM2Y3ODU1N2FjNjZhZmIwNWMzNjA5ZmJkZTk0`

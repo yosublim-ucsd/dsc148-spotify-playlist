@@ -1,13 +1,29 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 75696,
+  "num_followers": 75792,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTU1OWQzNDAwYzc4ZjVmYTFkODQyN2UzZjk0YzYwMmVlMGIzMWVl",
+  "snapshot_id": "MCxjMDE2ZjQ3ZGRhN2JlMjY4Y2NmM2FjMzkxZDhjMmI2ZmFkOWM5Zjhm",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:50:46",
+      "album": {
+        "name": "STREETS SAY YOU STILL MISS ME",
+        "url": "https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 163503,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u"
+    },
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
@@ -77,26 +93,6 @@
       "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Drake Shit",
-        "url": "https://open.spotify.com/album/1nlFRkbl4YO8IjjJTwZJ8G"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 185208,
-      "name": "Drake Shit",
-      "url": "https://open.spotify.com/track/5oxOG73S76T48t7qI08aGG"
-    },
-    {
       "added_at": "2024-02-02 11:56:17",
       "album": {
         "name": "ttuctmd",
@@ -111,6 +107,22 @@
       "duration_ms": 120461,
       "name": "ttuctmd",
       "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
+    },
+    {
+      "added_at": "2024-03-29 04:50:46",
+      "album": {
+        "name": "That's Tough",
+        "url": "https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "That's Tough",
+      "url": "https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard"
     },
     {
       "added_at": "2024-02-09 05:58:52",
@@ -145,20 +157,24 @@
       "url": "https://open.spotify.com/track/0LU2BLCYWYZX0Syij9SM15"
     },
     {
-      "added_at": "2024-03-01 05:42:42",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "friends?",
-        "url": "https://open.spotify.com/album/0KVZzlpo3RKmFGdedVJfbs"
+        "name": "Drake Shit",
+        "url": "https://open.spotify.com/album/1nlFRkbl4YO8IjjJTwZJ8G"
       },
       "artists": [
         {
-          "name": "Tyde",
-          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 119161,
-      "name": "friends?",
-      "url": "https://open.spotify.com/track/6Khr46hLHRgAWvnShNLhu7"
+      "duration_ms": 185208,
+      "name": "Drake Shit",
+      "url": "https://open.spotify.com/track/5oxOG73S76T48t7qI08aGG"
     },
     {
       "added_at": "2024-02-02 11:56:17",
@@ -179,6 +195,38 @@
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
+    },
+    {
+      "added_at": "2024-03-29 04:50:46",
+      "album": {
+        "name": "STREETS SAY YOU MISS ME",
+        "url": "https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 150375,
+      "name": "MORE THAN SORRY",
+      "url": "https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p"
+    },
+    {
+      "added_at": "2024-03-01 05:42:42",
+      "album": {
+        "name": "friends?",
+        "url": "https://open.spotify.com/album/0KVZzlpo3RKmFGdedVJfbs"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "duration_ms": 119161,
+      "name": "friends?",
+      "url": "https://open.spotify.com/track/6Khr46hLHRgAWvnShNLhu7"
     },
     {
       "added_at": "2024-02-16 05:43:47",
@@ -339,6 +387,22 @@
       "duration_ms": 190584,
       "name": "Unsure",
       "url": "https://open.spotify.com/track/3PBomL6F0O1xqR6zyFlKcH"
+    },
+    {
+      "added_at": "2024-03-29 15:30:46",
+      "album": {
+        "name": "Leave You Have My Blessing",
+        "url": "https://open.spotify.com/album/68rBZiD0gpBzLIE7P8Zgv7"
+      },
+      "artists": [
+        {
+          "name": "Qiuntellii",
+          "url": "https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/7LzSqk3OR3tsphAFlQOdXE"
     },
     {
       "added_at": "2024-03-01 05:42:42",
@@ -611,22 +675,6 @@
       "duration_ms": 98023,
       "name": "Belong to the City",
       "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
-    },
-    {
-      "added_at": "2024-02-02 11:56:17",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 247079,
-      "name": "DEAD MAN WALKING",
-      "url": "https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1043,26 +1091,6 @@
       "duration_ms": 238242,
       "name": "What You Heard",
       "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
-    },
-    {
-      "added_at": "2024-02-02 11:56:17",
-      "album": {
-        "name": "Chilombo",
-        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "None Of Your Concern (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut"
     },
     {
       "added_at": "2024-02-02 11:56:17",

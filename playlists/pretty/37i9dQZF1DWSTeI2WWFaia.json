@@ -1,15 +1,15 @@
 {
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1602516,
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
+  "num_followers": 1602510,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2ZlZTQ4NTEwNzQwNzFkNWNlY2FjZTllYjQxOTliNjI3NTBlODVl",
+  "snapshot_id": "MCw1ZGVlYzY3OWFkMDkyYmVlODIzYzA5MDg3YzkyMjQxMjkxMzFiNzIz",
   "tracks": [
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
@@ -38,18 +38,14 @@
         {
           "name": "ScHoolboy Q",
           "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 291038,
-      "name": "oHio (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
+      "duration_ms": 235317,
+      "name": "Blueslides",
+      "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Realest (with Eminem)",
         "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
@@ -69,7 +65,7 @@
       "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
@@ -89,7 +85,7 @@
       "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/7mT3zLzfLOF6iIibM3a0xF"
@@ -109,9 +105,25 @@
       "url": "https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "DENiM",
+        "name": "Marciology",
+        "url": "https://open.spotify.com/album/6820jxuExN2TtOOa0Bj7kU"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 212741,
+      "name": "Goyard God",
+      "url": "https://open.spotify.com/track/28oStvbdfSCqQRMIkvyXCN"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
       "artists": [
@@ -125,27 +137,11 @@
         }
       ],
       "duration_ms": 177043,
-      "name": "DENiM",
+      "name": "DENiM (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "PNW",
-        "url": "https://open.spotify.com/album/4YdEQj0jlsKJTLH5R99igR"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 267096,
-      "name": "PNW",
-      "url": "https://open.spotify.com/track/1OdakIOGXoXMISY5TFYvMa"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
@@ -161,7 +157,7 @@
       "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Live from the Roxy (feat. Boldy James)",
         "url": "https://open.spotify.com/album/2cl2DGCPjyxVlfliCZwyXL"
@@ -185,7 +181,27 @@
       "url": "https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Marciology",
+        "url": "https://open.spotify.com/album/6820jxuExN2TtOOa0Bj7kU"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 196208,
+      "name": "Bad JuJu",
+      "url": "https://open.spotify.com/track/1f8AftHmQC9TaHa8fg7RFI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
@@ -194,38 +210,34 @@
         {
           "name": "ScHoolboy Q",
           "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 235317,
-      "name": "Blueslides",
-      "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/75EvjgIfC7TvkGI9FVpkEV"
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
       },
       "artists": [
         {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "DJ RELLYRELL",
-          "url": "https://open.spotify.com/artist/2ZhgI73DhMmguqiE6Uc2J3"
-        },
-        {
-          "name": "The Smokers Club",
-          "url": "https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr"
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
         }
       ],
-      "duration_ms": 214935,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/5lwrwzSvekTG9ArVdvVCqQ"
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -241,47 +253,7 @@
       "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Carbone",
-        "url": "https://open.spotify.com/album/2AaRurOyfUYFZWZFvDGNWd"
-      },
-      "artists": [
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        },
-        {
-          "name": "Stoupe",
-          "url": "https://open.spotify.com/artist/04UrujFn9VOscInw9kwHH8"
-        }
-      ],
-      "duration_ms": 124719,
-      "name": "Carbone",
-      "url": "https://open.spotify.com/track/3PCHM2bYzRGzbNz1rxi6JQ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Scared Money",
-        "url": "https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD"
-      },
-      "artists": [
-        {
-          "name": "Stalley",
-          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
-        },
-        {
-          "name": "Kevin Durant",
-          "url": "https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey"
-        }
-      ],
-      "duration_ms": 173161,
-      "name": "Scared Money (feat. Kevin Durant)",
-      "url": "https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
@@ -301,7 +273,7 @@
       "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Not Now I'm Busy",
         "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
@@ -325,7 +297,47 @@
       "url": "https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Vertino",
+        "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 333671,
+      "name": "Vertino",
+      "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Scared Money",
+        "url": "https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Kevin Durant",
+          "url": "https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey"
+        }
+      ],
+      "duration_ms": 173161,
+      "name": "Scared Money (feat. Kevin Durant)",
+      "url": "https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Bobby Boucher",
         "url": "https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY"
@@ -349,23 +361,7 @@
       "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Love Life",
-      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "And Then You Pray For Me",
         "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
@@ -393,7 +389,7 @@
       "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Lyrics to GO Vol. 5",
         "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
@@ -413,23 +409,23 @@
       "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Not Now I'm Busy",
-        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 191146,
-      "name": "Three Little Pigs",
-      "url": "https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa"
+      "duration_ms": 236960,
+      "name": "Love Life",
+      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "A Forsaken Lover's Plea",
         "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
@@ -449,27 +445,7 @@
       "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Vertino",
-        "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 333671,
-      "name": "Vertino",
-      "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
@@ -493,7 +469,7 @@
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Muggsy Bogues",
         "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
@@ -513,7 +489,39 @@
       "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Three Little Pigs",
+      "url": "https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "PNW",
+        "url": "https://open.spotify.com/album/4YdEQj0jlsKJTLH5R99igR"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 267096,
+      "name": "PNW",
+      "url": "https://open.spotify.com/track/1OdakIOGXoXMISY5TFYvMa"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
         "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
@@ -541,7 +549,7 @@
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Balut",
         "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
@@ -557,7 +565,7 @@
       "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
@@ -581,7 +589,7 @@
       "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Magic 3",
         "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
@@ -601,7 +609,7 @@
       "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Everybody Can't Go",
         "url": "https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq"
@@ -629,7 +637,7 @@
       "url": "https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
@@ -645,7 +653,7 @@
       "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Blowfly (with Ab-Soul)",
         "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
@@ -665,7 +673,7 @@
       "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Stand Tall",
         "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
@@ -681,7 +689,7 @@
       "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Instincts",
         "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
@@ -701,7 +709,7 @@
       "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Burning Desire",
         "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
@@ -721,7 +729,7 @@
       "url": "https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Magic 3",
         "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
@@ -737,7 +745,7 @@
       "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "THEODORE & ANDRE",
         "url": "https://open.spotify.com/album/1JBRIRH3jc4VUHI9UjfQPj"
@@ -757,7 +765,7 @@
       "url": "https://open.spotify.com/track/0E0cP3se7canDtzIm8Sy1V"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "RIP Human Art",
         "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
@@ -777,7 +785,7 @@
       "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Lyrics to GO Vol. 5",
         "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
@@ -793,7 +801,7 @@
       "url": "https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
@@ -817,7 +825,7 @@
       "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
@@ -837,7 +845,7 @@
       "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
@@ -853,7 +861,7 @@
       "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
@@ -873,7 +881,7 @@
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Burning Desire",
         "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
@@ -889,7 +897,7 @@
       "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "And Then You Pray For Me",
         "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
@@ -909,7 +917,7 @@
       "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Penalty of Leadership",
         "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
@@ -929,23 +937,7 @@
       "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Elephant Man's Bones",
         "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
@@ -969,7 +961,23 @@
       "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"

@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163598,
+      "name": "i wonder... (with Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX"
+    },
+    {
+      "album": {
         "name": "This Is Jung Kook audio liners",
         "url": "https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W"
       },

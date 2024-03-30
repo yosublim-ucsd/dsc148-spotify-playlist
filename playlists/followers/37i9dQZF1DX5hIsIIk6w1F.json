@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 384701,
+  "2024-03-30": 384930,
   "date_first_scraped": "2022-05-26",
   "description": "Este Flow tiene otro Flow. Foto: FloyyMenor & Lucky Brown.",
   "name": "Reggaet\u00f3n Chileno",
@@ -6095,6 +6095,28 @@
     {
       "album": {
         "name": "VERSUS",
+        "url": "https://open.spotify.com/album/2EbnpPFchunb1mki1tjR66"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "LA NAVE",
+      "url": "https://open.spotify.com/track/0NHvhQWproo8QkB1vut31X"
+    },
+    {
+      "album": {
+        "name": "VERSUS",
         "url": "https://open.spotify.com/album/7tDXZiBhQVGi5CzYLuJ0t5"
       },
       "artists": [
@@ -6109,7 +6131,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 180000,
       "name": "LA NAVE",
       "url": "https://open.spotify.com/track/1DQ9VeD0yaxTe2Qfxsr2F3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 
 > This is Tate McRae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,378 likes - 44 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,526 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 14 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 |
 | 15 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
 | 16 | [rubberband](https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:27 |
-| 17 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
+| 17 | [what would you do?](https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:46 |
 | 18 | [guilty conscience](https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:32 |
 | 19 | [stupid](https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:53 |
 | 20 | [lie to me](https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [lie to me](https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO) | 2:57 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 26 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 |
 | 27 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
 | 28 | [r u ok](https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:07 |
-| 29 | [go away](https://open.spotify.com/track/40yVW4Ywyxz8xkNcuLbP1N) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:33 |
-| 30 | [10:35 \(feat\. Tate McRae\) \- Joel Corry Remix](https://open.spotify.com/track/5b9DCQzPV6KEg9b6WB8v4e) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35 \(feat\. Tate McRae\) \[Joel Corry Remix\]](https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im) | 3:01 |
-| 31 | [tear myself apart](https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:45 |
+| 29 | [10:35 \(feat\. Tate McRae\) \- Joel Corry Remix](https://open.spotify.com/track/5b9DCQzPV6KEg9b6WB8v4e) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35 \(feat\. Tate McRae\) \[Joel Corry Remix\]](https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im) | 3:01 |
+| 30 | [tear myself apart](https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:45 |
+| 31 | [i'm so gone](https://open.spotify.com/track/6uNv4npQ8FZLsH7naE9GK4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:26 |
 | 32 | [wish i loved you in the 90s](https://open.spotify.com/track/2wkIdVB8HsWyMur3Q4shlZ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:56 |
 | 33 | [Slip](https://open.spotify.com/track/1RI4G0KZES2ZQgKCF3mgOQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Slip](https://open.spotify.com/album/5iyYTjDj9kt0rz8kjrnayq) | 2:51 |
-| 34 | [vicious](https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [vicious](https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti) | 3:02 |
-| 35 | [all my friends are fake](https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 3:06 |
+| 34 | [all my friends are fake](https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 3:06 |
+| 35 | [vicious](https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [vicious](https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti) | 3:02 |
 | 36 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 |
 | 37 | [u love u \(with Tate McRae\)](https://open.spotify.com/track/4RCpHnkhMmm67EKbI4aEO7) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [u love u \(with Tate McRae\)](https://open.spotify.com/album/08nlCo5zY9nE3isQgZm4yf) | 3:09 |
 | 38 | [Hung up on You](https://open.spotify.com/track/3r2FIyRibvMaevfGdOGLQ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Hung up on You](https://open.spotify.com/album/1frUP08YTarlaENaJb9bpC) | 3:21 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 43 | [Boys Ain't Shit \(feat\. Tate McRae & Audrey Mika\)](https://open.spotify.com/track/7tMEUrMaMzE0YptCGfsXzt) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Boys Ain't Shit \(feat\. Tate McRae & Audrey Mika\)](https://open.spotify.com/album/3TFb8Wpl3qV4Gh9H94XiRZ) | 3:06 |
 | 44 | [Distant](https://open.spotify.com/track/2fHttjIlcNo8rGCUZVMY1B) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Sean Lew](https://open.spotify.com/artist/4lK930E2d4x8tjAgFhjJBP) | [Distant](https://open.spotify.com/album/5rmvHHk9FIMWIrGcOBHXHA) | 3:19 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDAxZWU4MzUwNDQzOWEyY2I3MzAyOTBkNmQ4NGVlYjEwZA==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDAyNmI3ZTRjNjhiYmRiMGNmMTg3ZjYxMjNiMThjNzllZA==`

@@ -2553,6 +2553,32 @@
     },
     {
       "album": {
+        "name": "Mais Uma Vadia",
+        "url": "https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41"
+      },
+      "artists": [
+        {
+          "name": "Baby Kysha",
+          "url": "https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK"
+        },
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172799,
+      "name": "Mais Uma Vadia",
+      "url": "https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW"
+    },
+    {
+      "album": {
         "name": "Malandrona",
         "url": "https://open.spotify.com/album/2zMrmtd5uzAjLO83Fr2pVc"
       },
@@ -2773,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "mlk me esquece",
+        "url": "https://open.spotify.com/album/5IFvarnHQmfiqGQxhVhxnb"
+      },
+      "artists": [
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113846,
+      "name": "mlk me esquece",
+      "url": "https://open.spotify.com/track/5KpOnRvxuYU18AQ0HVoQg8"
+    },
+    {
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h"
       },
@@ -2982,7 +3026,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 154206,
       "name": "Negra Tipo A",
       "url": "https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU"
@@ -3368,7 +3412,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 154245,
       "name": "Ostentando",
       "url": "https://open.spotify.com/track/4CKyjcTtRl3wQBBBHnV5VQ"

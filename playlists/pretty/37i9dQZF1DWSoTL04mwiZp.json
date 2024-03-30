@@ -1,13 +1,33 @@
 {
   "description": "Special songs for mothers of all kinds.",
-  "num_followers": 29783,
+  "num_followers": 29784,
   "original_name": "Mother's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTFhYjAyODcyNzBkNWQxODczZTEwMmEzNWQ5NTZjYTU5NzZhYWQy",
+  "snapshot_id": "MCw0YzNmZjU5ODE4ZDEzMDdiMjdhMDU5NGZkMGNjMjM1ZDAxZDk5MWNj",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Rumi Carter",
+          "url": "https://open.spotify.com/artist/3wagsd3wjqjNVlMLPudipm"
+        }
+      ],
+      "duration_ms": 184399,
+      "name": "PROTECTOR",
+      "url": "https://open.spotify.com/track/4dsdSwSdBWjlsVzU6iJs3b"
+    },
     {
       "added_at": "2022-05-03 14:41:25",
       "album": {
@@ -283,22 +303,6 @@
       "duration_ms": 303373,
       "name": "A Song For Mama",
       "url": "https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X"
-    },
-    {
-      "added_at": "2022-05-03 14:41:25",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2023-05-02 19:46:12",

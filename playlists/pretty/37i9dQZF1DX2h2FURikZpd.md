@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,989 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 2 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
 | 3 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 |
 | 4 | [EXCESO](https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [EXCESO](https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb) | 2:22 |
-| 5 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
-| 6 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 |
+| 5 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 |
+| 6 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 7 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 8 | [Quédate Bebé](https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Quédate Bebé](https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG) | 3:13 |
 | 9 | [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 |
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 13 | [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 |
 | 14 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
 | 15 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
-| 16 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
-| 17 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
-| 18 | [lady madrizZz](https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [lady madrizZz](https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI) | 2:11 |
-| 19 | [KTM](https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [KTM](https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF) | 6:06 |
+| 16 | [KTM](https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [KTM](https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF) | 6:06 |
+| 17 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
+| 18 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
+| 19 | [lady madrizZz](https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [lady madrizZz](https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI) | 2:11 |
 | 20 | [LUCES DE COLORES](https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LUCES DE COLORES](https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7) | 3:36 |
 | 21 | [Señorita \- Remix](https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Señorita \(Remix\)](https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT) | 3:01 |
 | 22 | [KATY PERRY](https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [KATY PERRY](https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t) | 2:35 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 |
 | 30 | [CIUDAD DEL SOL](https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CIUDAD DEL SOL](https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5) | 3:44 |
 
-Snapshot ID: `MCxmMDY0MDQ3ZWUyZDBhN2I4YzdkZDRhOGM3M2VmOWU4MzhiODg4ZTEx`
+Snapshot ID: `MCwxYzg5MTMwYTNiNjU2MjAzYTgxNzY3NWI3ZDNiY2YyMWQ5ZGVkZmE3`

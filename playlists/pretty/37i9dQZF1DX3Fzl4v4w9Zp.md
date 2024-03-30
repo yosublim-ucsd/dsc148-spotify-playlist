@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: The Dead South
+> Keep your finger on the pulse of Americana\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,763 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,822 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 |
 | 2 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 |
 | 3 | [Hello Stranger \(feat\. S.G\. Goodman\)](https://open.spotify.com/track/1gWd9YGWMxVoEH9pSVCBon) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Hello Stranger \(feat\. S.G\. Goodman\)](https://open.spotify.com/album/5jzDJVklyWHXCAkSYWuMsc) | 3:46 |
-| 4 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
+| 4 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
 | 5 | [Hawkmoon](https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 3:42 |
 | 6 | [Gettin' Rich, Goin' Broke](https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:04 |
 | 7 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 23 | [Cast Iron Skillet](https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:24 |
 | 24 | [While I'm Down](https://open.spotify.com/track/6gG2hbaK3iYg7DWOtheGLF) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Pagan Church](https://open.spotify.com/album/0oTreVJnC1akvkKpYxj9Ak) | 3:35 |
 | 25 | [Back To Then](https://open.spotify.com/track/14z9BKQQJnnn9WdcfR6RrF) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Back To Then](https://open.spotify.com/album/5UqXEunlJ8tRCBYG1t8TS7) | 3:45 |
-| 26 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
+| 26 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
 | 27 | [Bitter Winds](https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Bitter Winds](https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg) | 4:21 |
 | 28 | [The Ballad of Sally Anne](https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Ballad of Sally Anne](https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh) | 3:58 |
 | 29 | [Karma](https://open.spotify.com/track/7nZljN38fxwFPhgQk8mLoO) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Country Curious](https://open.spotify.com/album/5U47NIIeJLYign4v4Jltxr) | 3:46 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 79 | [The Crowd Goes Wild](https://open.spotify.com/track/6kAl28NPp8AFgGZM8ycyx4) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH) | 3:34 |
 | 80 | [World Worth Keeping](https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB) | 3:42 |
 | 81 | [Homesick \[Feat\. Jonathan Wilson\]](https://open.spotify.com/track/3hUgiY4yuQhiLbVytTCmS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 4:28 |
-| 82 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 |
+| 82 | [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 |
 | 83 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 |
 | 84 | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj), [Andrea Kukuly Uriarte](https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS) | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 |
 | 85 | [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 104 | [All My Exes Live in L.A.](https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [All My Exes Live in L.A.](https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw) | 3:18 |
 | 105 | [A Murder](https://open.spotify.com/track/5eH7Ok6bN3QuFIBk2SLRSQ) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9) | [Old Kanawha](https://open.spotify.com/album/1gBFPuS81bvzUOWEToSdNB) | 3:10 |
 | 106 | [Letting People Down](https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:56 |
-| 107 | [It Takes Me Back](https://open.spotify.com/track/473SyXmf9C9w4CbIak2nM6) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD) | 3:41 |
+| 107 | [It Takes Me Back](https://open.spotify.com/track/2Ww0ujVhOMsHFCwDfXZWAr) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/3nhcBw2SxTvniBtW5xk9rp) | 3:41 |
 | 108 | [When Country Came Back to Town](https://open.spotify.com/track/6ajGzRERrNWMa4zpB6ID8W) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When Country Came Back to Town](https://open.spotify.com/album/7HBlZRPrkD77WNrWjEgXId) | 5:08 |
 | 109 | [Summertime](https://open.spotify.com/track/5Pk3W4zR90oKigFXvDpVaa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Summertime](https://open.spotify.com/album/6FL4FWzNcXbYCEKCZmBcmW) | 4:05 |
 | 110 | [River Of Love](https://open.spotify.com/track/4YSeMlKdj2eqsDBjTdzfx1) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [River Of Love](https://open.spotify.com/album/5dXJTxgyxpx45nLvPw9L9G) | 4:22 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Burlesque Desert Window](https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [A Lifetime to Find](https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1) | 2:59 |
 | 150 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 |
 
-Snapshot ID: `MCw5MDczYTAxNjcxYjM4YzAxNDI4Y2RkOWFjZWY5M2E0ZDJhNjE2ZjI0`
+Snapshot ID: `MCw0YTU4ZjJlZmQyM2UxMmEzZjcxZDgzZjk4Y2JhYTQ3NjQyMmI3MzU4`

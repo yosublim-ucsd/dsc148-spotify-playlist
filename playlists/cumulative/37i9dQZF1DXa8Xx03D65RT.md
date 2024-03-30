@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-784 songs - 1 day 8 hr 59 min
+785 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,7 +499,7 @@
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-16 |  |
 | [Ophelia](https://open.spotify.com/track/4HrhGQ4kNxcvLahuCsf3na) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Ophelia](https://open.spotify.com/album/3ubhoB5TUsA9hae6cvn9y4) | 2:03 | 2022-05-27 | 2022-09-24 |
 | [Ophélia](https://open.spotify.com/track/6TgKautKqkRvvbaJcGCRxr) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Ophélia](https://open.spotify.com/album/5CJOzMHgVwXe1sjd0bQABe) | 2:13 | 2022-05-27 | 2023-03-28 |
-| [Ora Domani](https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm) | [Dawn Weil](https://open.spotify.com/artist/0bsuksrO1OTfsSeIzNppax) | [Forests Overgrown](https://open.spotify.com/album/0X7B435jcoAU3g4SPnf4dD) | 2:23 | 2022-05-27 |  |
+| [Ora Domani](https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm) | [Dawn Weil](https://open.spotify.com/artist/0bsuksrO1OTfsSeIzNppax) | [Forests Overgrown](https://open.spotify.com/album/0X7B435jcoAU3g4SPnf4dD) | 2:23 | 2022-05-27 | 2024-03-30 |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-05-27 | 2023-11-27 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-05-27 |  |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 |  |
@@ -766,6 +766,7 @@
 | [Waves](https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:04 | 2022-05-27 | 2022-09-24 |
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-05-27 |  |
 | [What if we never met](https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [What if we never met](https://open.spotify.com/album/21L56u6AKNUpJYbbW99B7F) | 2:07 | 2022-05-27 | 2022-07-21 |
+| [What We Were](https://open.spotify.com/track/2UoHf8TmIoTM5VX7fWI3Ti) | [Derek Mount](https://open.spotify.com/artist/7pY0nn3EwHgt545AgHqwwf), [Shawn Williams](https://open.spotify.com/artist/0JhmNymqmGOpg2NWfrB0Ge), [Jeremy Bruce Mayfield](https://open.spotify.com/artist/6ZEcKgnK06ngHe03Jpa1cM), [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [What We Were](https://open.spotify.com/album/1hsVKcq4USb0S5xgqscn1u) | 2:55 | 2024-03-25 |  |
 | [Whatever Begins, Also Ends](https://open.spotify.com/track/2rPnJ16EtULbPM6c3MeNhP) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Revive](https://open.spotify.com/album/1siXATJWy2U7z27d92lVzW) | 2:43 | 2022-05-27 | 2022-09-24 |
 | [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 | 2024-01-29 |  |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-05-27 | 2023-05-17 |

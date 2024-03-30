@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,945 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,999 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 31 | [Zeiten ändern dich](https://open.spotify.com/track/4YZxwEHbmwwgdvhAUDwFXz) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Zeiten ändern dich](https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF) | 3:34 |
 | 32 | [Kompass ohne Norden](https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY) | 4:12 |
 | 33 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
-| 34 | [Prison Break Anthem \(Ich glaub an Dich\) \- Single Version](https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Prison Break Anthem \(Ich glaub an Dich\)](https://open.spotify.com/album/1xeVXMLFtHrldJwO4nbNdK) | 4:02 |
-| 35 | [Bon voyage \(feat\. Nina\)](https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte Ziehen Sie Durch](https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn) | 3:27 |
+| 34 | [Bon voyage \(feat\. Nina\)](https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte Ziehen Sie Durch](https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn) | 3:27 |
+| 35 | [Prison Break Anthem \(Ich glaub an Dich\) \- Single Version](https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Prison Break Anthem \(Ich glaub an Dich\)](https://open.spotify.com/album/1xeVXMLFtHrldJwO4nbNdK) | 4:02 |
 | 36 | [Neuruppin](https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Kuba](https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK), [Cannibal Rob](https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:23 |
 | 37 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
 | 38 | [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 41 | [Hinterland](https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 3:55 |
 | 42 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 |
 | 43 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
-| 44 | [Nur noch Gucci](https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 3:32 |
-| 45 | [Panamera Flow \(feat\. Bushido\)](https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34), [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [NWA](https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS) | 4:17 |
+| 44 | [Panamera Flow \(feat\. Bushido\)](https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34), [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [NWA](https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS) | 4:17 |
+| 45 | [Nur noch Gucci](https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 3:32 |
 | 46 | [Verstrahlt](https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Zum Glück in die Zukunft](https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg) | 3:54 |
 | 47 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
 | 48 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
 | 49 | [Bossaura](https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossaura](https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM) | 6:04 |
 | 50 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 
-Snapshot ID: `MCw5ZDczOWM4YjhiNTczYTA4MzU2YWExZTllNjVkMGY5NzAyZTYyYjll`
+Snapshot ID: `MCxkODM5M2ZjNzIxYmEzODNlNWVhNzQxYzgzYmYyMDEyMzRlMWYzODA3`

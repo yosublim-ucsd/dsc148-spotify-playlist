@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-445 songs - 21 hr 49 min
+446 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Mr\. Brightside](https://open.spotify.com/track/1KOAr3G8LaibCpHeaWtL2u) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Mr\. Brightside](https://open.spotify.com/album/5RyXZZrzXpINCtbaJGfsF0) | 3:46 | 2021-10-29 | 2022-05-29 |
 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 | 2024-03-01 |  |
 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 | 2022-10-14 |  |
-| [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 | 2022-09-09 |  |
+| [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 | 2022-09-09 | 2024-03-30 |
 | [My Thing](https://open.spotify.com/track/7w4AVHX30XFZpAqfbTYwcf) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [My Thing](https://open.spotify.com/album/4tbbX4leGDkZXfDEcIwwvM) | 2:24 | 2022-04-01 | 2022-07-11 |
 | [Nasty](https://open.spotify.com/track/1zpyPYZmz9iLrLVOGZUhc7) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ) | [Nasty](https://open.spotify.com/album/1kOCGGRmgqx8wSLlBshsCA) | 2:32 | 2024-03-01 |  |
 | [Naughty](https://open.spotify.com/track/78mKxouHttqRkAl7IeyRiU) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Naughty](https://open.spotify.com/album/3mf7MC0yHgoEM4f4dfHZuL) | 2:36 | 2024-03-01 |  |
@@ -427,6 +427,7 @@
 | [Trigger](https://open.spotify.com/track/76IBjqYohp5r2ff5hvbXqg) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Trigger](https://open.spotify.com/album/37zquxYvzsXCvhO8whITBM) | 2:46 | 2022-05-27 | 2022-07-29 |
 | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7) | 2:56 | 2023-06-16 | 2024-01-19 |
 | [Turn Off The Lights \- Cloonee Remix](https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn Off The Lights \(Cloonee Remix\)](https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc) | 3:18 | 2022-02-11 | 2023-09-23 |
+| [Turn On The Lights](https://open.spotify.com/track/6SlQUgtyfJeTxkqA8Qrx7D) | [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Turn On The Lights](https://open.spotify.com/album/1WUgSshj5xxozOYU2CF1xE) | 2:21 | 2024-03-29 |  |
 | [Underneath My Skin \(feat\. Mila Falls\)](https://open.spotify.com/track/000kCVEn5BSsgbQmoLrvLI) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Underneath My Skin \(feat\. Mila Falls\)](https://open.spotify.com/album/2WykRDWAkMTdxscXmPgNnV) | 2:37 | 2022-01-21 | 2022-01-29 |
 | [Vibe](https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Vibe](https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz) | 2:42 | 2024-01-05 |  |
 | [Vibration](https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Vibration](https://open.spotify.com/album/3s3X1n94zpVxVRuUygWOYZ) | 3:50 | 2024-03-22 |  |

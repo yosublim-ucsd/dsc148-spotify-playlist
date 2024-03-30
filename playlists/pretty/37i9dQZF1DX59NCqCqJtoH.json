@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1188512,
+  "num_followers": 1188582,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWQ2MTUzZWZhYzY2NjU1YWFlM2NkNGJlNDVlMTQ3YzM0Y2Q4OTdj",
+  "snapshot_id": "MCxiZDhlMWVmOGU0OWRiMzdlZWZlMzYwODhkN2JlNjZmNTQzODc4Yjlk",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
+      "duration_ms": 161422,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV"
     },
     {
       "added_at": "2023-10-07 03:49:56",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ"
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
       },
       "artists": [
         {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 161422,
-      "name": "i was all over her",
-      "url": "https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV"
+      "duration_ms": 197733,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
     },
     {
       "added_at": "2023-10-09 15:43:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 249705,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 303066,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 249705,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 107369,
-      "name": "i'll never fall in love with myself - demo",
-      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 136250,
       "name": "Eulogy For Nobody",
       "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 107369,
+      "name": "i'll never fall in love with myself - demo",
+      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/5jI88gmbKnva1Pak0ZZo1M"
     },
     {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "another life",
@@ -1163,22 +1179,6 @@
       "duration_ms": 131182,
       "name": "another life",
       "url": "https://open.spotify.com/track/1LRDoxji2NI4tkjkbYGCAC"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 158714,
       "name": "Smile in the Face of the Devil",
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/01r2Cl5Q9n8JJb5SyI9OSm"
     },
     {
-      "added_at": "2024-03-07 21:03:22",
-      "album": {
-        "name": "safe space",
-        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
-      },
-      "artists": [
-        {
-          "name": "Sughn",
-          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "safe space",
-      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "When the City Sleeps",
@@ -1495,6 +1479,22 @@
       "duration_ms": 216514,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
+    },
+    {
+      "added_at": "2024-03-07 21:03:22",
+      "album": {
+        "name": "safe space",
+        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
+      },
+      "artists": [
+        {
+          "name": "Sughn",
+          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "safe space",
+      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Second Place",
         "url": "https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK"
       },
@@ -1565,20 +1581,20 @@
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2024-03-07 21:03:22",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 162013,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1595,22 +1611,6 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
-    },
-    {
-      "added_at": "2024-03-07 21:03:22",
-      "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
     },
     {
       "added_at": "2023-09-29 20:20:52",

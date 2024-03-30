@@ -4,7 +4,7 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playlist..\. DODODOK!
 
-44 songs - 2 hr 4 min
+45 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Good Bones](https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:40 | 2024-02-20 |  |
 | [Good Parts \(when the quality is bad but I am\)](https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:36 | 2023-05-01 |  |
 | [Guardian](https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BASTIONS OST Part.4](https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k) | 2:38 | 2023-06-13 |  |
+| [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 | 2024-03-29 |  |
 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2023-05-01 |  |
 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 | 2023-05-01 |  |
 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 | 2023-05-01 |  |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Camila Cabello
 
-278 songs - 16 hr 34 min
+279 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [My Prayer Right Now](https://open.spotify.com/track/3Q2fouN8bJVcYPmqzShf61) | [Reva Nabila](https://open.spotify.com/artist/4E5tSTOU45aRl6dWnnPJnP), [remi](https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm), [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2), [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp), [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [My Prayer Right Now](https://open.spotify.com/album/1rWnGcc3jx8l1pe6K9LcJN) | 4:32 | 2024-03-28 |  |
 | [Nectar](https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.3 Love Letter](https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F) | 3:04 | 2024-03-21 |  |
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2024-01-18 | 2024-01-26 |
+| [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 | 2024-03-28 |  |
 | [Ngeluwihi](https://open.spotify.com/track/1BhClhu3KbdPLTPJFbBMwV) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Ngeluwihi](https://open.spotify.com/album/09OTA5eXLEKQAMnrvOJgq3) | 3:26 | 2024-01-18 | 2024-02-24 |
 | [Nightwalker](https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [TEN \- The 1st Mini Album](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) | 3:24 | 2024-02-16 | 2024-03-01 |
 | [Nikmati Perjalanannya](https://open.spotify.com/track/7GEct8saqLf7ldt1g2HRTA) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Nikmati Perjalanannya](https://open.spotify.com/album/5oAaVT1eCNMDDDECL2dxHd) | 3:21 | 2024-03-21 |  |

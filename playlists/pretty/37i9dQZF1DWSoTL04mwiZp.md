@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 
 > Special songs for mothers of all kinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,783 likes - 65 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,784 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mom \(feat\. Kelli Trainor\)](https://open.spotify.com/track/3PYZWh5KZ6VlXHDlwDVJUt) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kelli Trainor](https://open.spotify.com/artist/1pW0NUJuJSLcLNW1JTlqiP) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:14 |
-| 2 | [Superwoman](https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:34 |
-| 3 | [Oh, Mother Of Mine \- Single Version/Mono](https://open.spotify.com/track/15c7V7Oev2rjLUFJCnM8Fs) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:20 |
-| 4 | [More Than A Woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
-| 5 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
-| 6 | [Where You Lead I Will Follow](https://open.spotify.com/track/5htNlXFlMI6RMBHhJuGJJm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Love Makes the World](https://open.spotify.com/album/1F2U0WSicgaB8PwxBk3Tzo) | 3:27 |
-| 7 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
-| 8 | [Never Grow Up](https://open.spotify.com/track/74WBGgUnpKrJXt6TETfR6Z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 4:50 |
-| 9 | [Her](https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Her](https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx) | 2:57 |
-| 10 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 11 | [Mother](https://open.spotify.com/track/2w4HfONROYg7ShL8yOsQII) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Bigger](https://open.spotify.com/album/56XXDc04Gugu3CknMcsWLY) | 3:48 |
-| 12 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
-| 13 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 |
-| 14 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
-| 15 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 |
-| 16 | [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 |
-| 17 | [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 |
-| 18 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
+| 1 | [PROTECTOR](https://open.spotify.com/track/4dsdSwSdBWjlsVzU6iJs3b) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Rumi Carter](https://open.spotify.com/artist/3wagsd3wjqjNVlMLPudipm) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:04 |
+| 2 | [Mom \(feat\. Kelli Trainor\)](https://open.spotify.com/track/3PYZWh5KZ6VlXHDlwDVJUt) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kelli Trainor](https://open.spotify.com/artist/1pW0NUJuJSLcLNW1JTlqiP) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:14 |
+| 3 | [Superwoman](https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:34 |
+| 4 | [Oh, Mother Of Mine \- Single Version/Mono](https://open.spotify.com/track/15c7V7Oev2rjLUFJCnM8Fs) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:20 |
+| 5 | [More Than A Woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
+| 6 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 7 | [Where You Lead I Will Follow](https://open.spotify.com/track/5htNlXFlMI6RMBHhJuGJJm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Love Makes the World](https://open.spotify.com/album/1F2U0WSicgaB8PwxBk3Tzo) | 3:27 |
+| 8 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
+| 9 | [Never Grow Up](https://open.spotify.com/track/74WBGgUnpKrJXt6TETfR6Z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 4:50 |
+| 10 | [Her](https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Her](https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx) | 2:57 |
+| 11 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
+| 12 | [Mother](https://open.spotify.com/track/2w4HfONROYg7ShL8yOsQII) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Bigger](https://open.spotify.com/album/56XXDc04Gugu3CknMcsWLY) | 3:48 |
+| 13 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
+| 14 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 |
+| 15 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
+| 16 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 |
+| 17 | [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 |
+| 18 | [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 |
 | 19 | [Mother Like Mine](https://open.spotify.com/track/5CUuirqpnC9lOtudlcfh5Q) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:51 |
 | 20 | [Mother](https://open.spotify.com/track/4FjkZp6GD6baaxqUYTqIJo) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 1:18 |
 | 21 | [I'll Always Love My Mama](https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 6:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 64 | [Secret](https://open.spotify.com/track/4Py8X1NUwQjpwpOzsOqBAW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [6: Commitment](https://open.spotify.com/album/6oO1IOd0bM6Bzk0Kzpi2v6) | 3:21 |
 | 65 | [Baby I'm Yours](https://open.spotify.com/track/5iUU0Jkby6iXV8I2xC5OcS) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Am / Fm: The B\-Sides](https://open.spotify.com/album/4IJ12MKAjRgXcAqUv7k3mO) | 2:52 |
 
-Snapshot ID: `MCxmOTFhYjAyODcyNzBkNWQxODczZTEwMmEzNWQ5NTZjYTU5NzZhYWQy`
+Snapshot ID: `MCw0YzNmZjU5ODE4ZDEzMDdiMjdhMDU5NGZkMGNjMjM1ZDAxZDk5MWNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,510 likes - 51 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,540 likes - 51 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 43 | [Beauty](https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 5:18 |
 | 44 | [We Dance \- Live](https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 4:41 |
 | 45 | [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 |
-| 46 | [Touch of Heaven / Alabaster Heart \- Live](https://open.spotify.com/track/5oiNJJdKqJ5Vfwion1dR1n) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/album/3lhcektGJ2MtzmmIdlwFXX) | 10:30 |
-| 47 | [Stand In Awe \(Spontaneous\) \[Live\]](https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 10:00 |
+| 46 | [Stand In Awe \(Spontaneous\) \[Live\]](https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 10:00 |
+| 47 | [Touch of Heaven / Alabaster Heart \- Live](https://open.spotify.com/track/5oiNJJdKqJ5Vfwion1dR1n) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/album/3lhcektGJ2MtzmmIdlwFXX) | 10:30 |
 | 48 | [I Belong To Jesus \- Live](https://open.spotify.com/track/0mhKPUIHNEz4tuWNxNEqCS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 8:39 |
 | 49 | [Luminosity](https://open.spotify.com/track/6ZLsrfSUuGQak9ZaWkoLCI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 4:08 |
-| 50 | [Gravity \- Instrumental](https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:14 |
-| 51 | [When You Walk Into The Room \(Spontaneous\) \[Live\]](https://open.spotify.com/track/0ICuhxx8bdbS1cYRdk5T7t) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 7:22 |
+| 50 | [When You Walk Into The Room \(Spontaneous\) \[Live\]](https://open.spotify.com/track/0ICuhxx8bdbS1cYRdk5T7t) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 7:22 |
+| 51 | [Gravity \- Instrumental](https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:14 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA2OTE3ZjIyNTU0ODc0MjZiMDI4OTI3NGYzMWY1NDU3NQ==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDBhYjVkZTZjNTNiMWFiODFmMmZjMDZlNzc4NTA1NDhmNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 
 > for wandering through nature's playground 🏔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,088 likes - 152 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,080 likes - 152 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 | 90 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 |
 | 91 | [Wildflowers and Wild Horses](https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 4:10 |
 | 92 | [Misty](https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Misty](https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz) | 3:44 |
-| 93 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
+| 93 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 |
 | 94 | [Mountain Queen](https://open.spotify.com/track/7B3vlydTgi16aYoGokv0qX) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 2:57 |
 | 95 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
 | 96 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17TxDoLeXxl.md) - [plain]
 | 151 | [Rest of Our Lives](https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0) | [The Light The Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm) | 2:54 |
 | 152 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
 
-Snapshot ID: `MCxjMzRmODA0OWVhMDNhNDRiNThmNTY3MjBiNWNjOGE3M2JhNTE5Yzlk`
+Snapshot ID: `MCw0YjQwMGEwOTVkMTkzMWZhMTU3NTk4MjRkMDVmNzYzOWJhNDk5YjUy`

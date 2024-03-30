@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 49306,
+  "num_followers": 49408,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzI3MzliMzc1ZjRmNDJjMmNmMTFjMDExMTNiODZjYjg2NjQ3MWIz",
+  "snapshot_id": "MCxhYjIwOTZhMGJkMjE1MWM4YzFjZmNmNGJiNTdiY2M3YzBlYWFmZTRl",
   "tracks": [
     {
       "added_at": "2024-03-15 05:25:16",
@@ -151,26 +151,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Queen (Dan Kye Remix)",
-        "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
-      },
-      "artists": [
-        {
-          "name": "Muzi",
-          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
-        },
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 327894,
-      "name": "Queen - Dan Kye Remix",
-      "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "The Gospel According To Artwork Sounds Chapter II",
         "url": "https://open.spotify.com/album/1HWMPbbketx6SyJJ81dZV0"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 438000,
       "name": "Awesome God (feat. Kabza De Small)",
       "url": "https://open.spotify.com/track/6Sl97d6xi1FgBarJViL72d"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Queen (Dan Kye Remix)",
+        "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        },
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 327894,
+      "name": "Queen - Dan Kye Remix",
+      "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
-        {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
-        }
-      ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
         "url": "https://open.spotify.com/album/0N93xeV4Ed2JTYy83gySqr"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 361078,
       "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
       "url": "https://open.spotify.com/track/1DW5ZAmJrdvOIrIGTvBwhz"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -459,6 +459,26 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
+      },
+      "artists": [
+        {
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "duration_ms": 395709,
+      "name": "Love I Know",
+      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Necessary",
-        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
-      },
-      "artists": [
-        {
-          "name": "Dearson",
-          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
-        },
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        }
-      ],
-      "duration_ms": 395709,
-      "name": "Love I Know",
-      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Deep Within",
+        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
+      },
+      "artists": [
+        {
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+        }
+      ],
+      "duration_ms": 436981,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "See the Light",
         "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Deep Within",
-        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
-      },
-      "artists": [
-        {
-          "name": "Tebza De SouL",
-          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
-        }
-      ],
-      "duration_ms": 436981,
-      "name": "Deep Within",
-      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Time to Dance",
         "url": "https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV"
       },
@@ -775,22 +775,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "This Is The Way (We Dance)",
-        "url": "https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK"
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
       },
       "artists": [
         {
-          "name": "D-tip",
-          "url": "https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF"
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
         },
         {
-          "name": "Sir Vee The Great",
-          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
         }
       ],
-      "duration_ms": 337370,
-      "name": "This Is The Way (We Dance)",
-      "url": "https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq"
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -811,22 +811,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+        "name": "This Is The Way (We Dance)",
+        "url": "https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK"
       },
       "artists": [
         {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+          "name": "D-tip",
+          "url": "https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF"
         },
         {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+          "name": "Sir Vee The Great",
+          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
         }
       ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
+      "duration_ms": 337370,
+      "name": "This Is The Way (We Dance)",
+      "url": "https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Amplified Zone",
+        "url": "https://open.spotify.com/album/6BunQuy6Xhv9XDGJChRyzE"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 468979,
+      "name": "Amplified Zone",
+      "url": "https://open.spotify.com/track/5B9oWE2Yp4jigMRPqg6IYs"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "Little Me",
         "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 437415,
       "name": "Little Me - Extended Mix",
       "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Amplified Zone",
-        "url": "https://open.spotify.com/album/6BunQuy6Xhv9XDGJChRyzE"
-      },
-      "artists": [
-        {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
-        }
-      ],
-      "duration_ms": 468979,
-      "name": "Amplified Zone",
-      "url": "https://open.spotify.com/track/5B9oWE2Yp4jigMRPqg6IYs"
     },
     {
       "added_at": "2024-03-15 05:25:16",

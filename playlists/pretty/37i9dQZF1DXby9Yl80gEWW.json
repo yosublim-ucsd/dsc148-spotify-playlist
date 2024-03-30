@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 48099,
+  "num_followers": 48131,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDcyNDhiMjMxZTdiODI3MWMyZTUxMjc0YTg4YmNhMTk1YjczZTYz",
+  "snapshot_id": "MCw5YzM2MTdlNTdhOGRiN2Q3ZGYxMTZlNGE3N2EyZTU5MDhhZGJhNzUy",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -807,22 +807,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
         }
       ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+      "duration_ms": 287934,
+      "name": "Carl\u2019s Breakdown",
+      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -843,6 +839,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+        }
+      ],
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "The Good, the Bad and the Ugly",
         "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 287934,
-      "name": "Carl\u2019s Breakdown",
-      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Celebrants",
         "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 184493,
       "name": "Going Out\u2026",
       "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "Peace Behind the Bridge",
-      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 205266,
       "name": "Big Sciota",
       "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "Peace Behind the Bridge",
+      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "30 Turkeys",
-        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
-      },
-      "artists": [
-        {
-          "name": "Kid Reverie",
-          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
-        }
-      ],
-      "duration_ms": 140970,
-      "name": "30 Turkeys",
-      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Church Street Blues",
         "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 207440,
       "name": "Jerusalem Ridge",
       "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "30 Turkeys",
+        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
+      },
+      "artists": [
+        {
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "30 Turkeys",
+      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 292614,
       "name": "Creatures of Havoc",
       "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Fiddler's Dream",
-        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Fiddler's Dream",
-      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Banjo Haiku",
         "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 110693,
       "name": "Julie Ann Johnson",
       "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Riveter",
+        "url": "https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD"
+      },
+      "artists": [
+        {
+          "name": "Sami Braman",
+          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
+        },
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        }
+      ],
+      "duration_ms": 221061,
+      "name": "Weevils in the Grits",
+      "url": "https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Riveter",
-        "url": "https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD"
-      },
-      "artists": [
-        {
-          "name": "Sami Braman",
-          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
-        },
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
-        }
-      ],
-      "duration_ms": 221061,
-      "name": "Weevils in the Grits",
-      "url": "https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Live from Bristol",
-        "url": "https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        },
-        {
-          "name": "Sarah Kate Morgan",
-          "url": "https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa"
-        }
-      ],
-      "duration_ms": 174143,
-      "name": "Waynesboro - Live",
-      "url": "https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -1615,6 +1595,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Live from Bristol",
+        "url": "https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        },
+        {
+          "name": "Sarah Kate Morgan",
+          "url": "https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa"
+        }
+      ],
+      "duration_ms": 174143,
+      "name": "Waynesboro - Live",
+      "url": "https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Fork In The Road",
         "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 288480,
       "name": "No Resolution",
       "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Cellopickin'",
-        "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
-      },
-      "artists": [
-        {
-          "name": "William Jack",
-          "url": "https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Cellopickin'",
-      "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1663,6 +1647,22 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Cellopickin'",
+        "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
+      },
+      "artists": [
+        {
+          "name": "William Jack",
+          "url": "https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Cellopickin'",
+      "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1787,6 +1787,54 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+      },
+      "artists": [
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -1815,54 +1863,6 @@
       "duration_ms": 205586,
       "name": "Taxland (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
-      },
-      "artists": [
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

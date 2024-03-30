@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,540 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,597 likes - 50 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
 | 50 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
 
-Snapshot ID: `MCw0YWRkNzM0MjEwMDQ3OTI5Nzk3ZmYyYjVkMzc0ZGRiMWZiYWRmOWU2`
+Snapshot ID: `MCxjMzc5NjMzMDQ5NGUyMjA3NjkwYzY5MDBhOTEwMDgwNjM3YmYzYjQ4`

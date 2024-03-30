@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 503678,
+  "2024-03-30": 503727,
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Logic1000",
+  "description": "The home for alternative electronic music. Cover: Interplanetary Criminal",
   "name": "Altar",
   "tracks": [
     {
@@ -4983,7 +4983,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 336541,
       "name": "EST",
       "url": "https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh"
@@ -7979,6 +7979,28 @@
       "duration_ms": 254091,
       "name": "If It's True",
       "url": "https://open.spotify.com/track/116liDXqS5DIzlnkBz1sWp"
+    },
+    {
+      "album": {
+        "name": "ILIKEU",
+        "url": "https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "ILIKEU",
+      "url": "https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7"
     },
     {
       "album": {

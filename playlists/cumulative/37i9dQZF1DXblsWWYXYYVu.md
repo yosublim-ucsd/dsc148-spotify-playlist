@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-189 songs - 10 hr 33 min
+190 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 | 2022-03-04 |  |
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 | 2022-03-04 | 2022-12-11 |
 | [Arms of a Lion](https://open.spotify.com/track/0zvAcSS9nyruBqRHZsbUfJ) | [Heather Morgan](https://open.spotify.com/artist/2oASyTmErmgYx5ueawNzRX), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Borrowed Heart](https://open.spotify.com/album/3lpNC3vjXCes2WvGEmfoD3) | 4:00 | 2021-04-19 | 2022-04-29 |
+| [Be Free \(Pachamama\)](https://open.spotify.com/track/1Hzt9NmZQ1eHYCUWrnC88F) | [RIVVRS](https://open.spotify.com/artist/5T3N5ks9c3L7D4aXw54DVs) | [Be Free \(Pachamama\)](https://open.spotify.com/album/22AxdDMZ2HmUCamX3TTKFE) | 2:43 | 2024-03-29 |  |
 | [Bella Dawn](https://open.spotify.com/track/7IQvBiko7E0Z6ryACl7y3A) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:49 | 2023-04-14 |  |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-21 | 2023-08-04 |
 | [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 | 2023-04-21 |  |
@@ -132,7 +133,7 @@
 | [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 | 2021-04-19 | 2023-02-04 |
 | [Safe](https://open.spotify.com/track/4pXP1x8noxi1sNU6s70QCJ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Cartwheels](https://open.spotify.com/album/13Qj9WO3Udtb1cHO0C55gE) | 4:04 | 2021-04-19 | 2023-06-03 |
 | [Salvation Bound](https://open.spotify.com/track/2oiOrBjI5jCAHzxsk94Tne) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | ['87](https://open.spotify.com/album/55gCIl2LqtXopTZHUtMqp3) | 4:18 | 2021-04-19 | 2022-04-29 |
-| [Secrets](https://open.spotify.com/track/09JkoxugEb7f647ZOYJWKr) | [Holly Auna](https://open.spotify.com/artist/2aefoxhYo07rsDSSWgPUO1) | [Love Shouldn't Be so Hard](https://open.spotify.com/album/5LT7V0tguPUv9AWIjXZ8E1) | 3:45 | 2021-04-19 |  |
+| [Secrets](https://open.spotify.com/track/09JkoxugEb7f647ZOYJWKr) | [Holly Auna](https://open.spotify.com/artist/2aefoxhYo07rsDSSWgPUO1) | [Love Shouldn't Be so Hard](https://open.spotify.com/album/5LT7V0tguPUv9AWIjXZ8E1) | 3:45 | 2021-04-19 | 2024-03-30 |
 | [Shadows](https://open.spotify.com/track/1YQqDS69c6OhMMeEZ2PbQY) | [Johnson Crook](https://open.spotify.com/artist/56oIzWywvNu41cJQVc6ico) | [The Album](https://open.spotify.com/album/0L4UdA9Ik2aGpDIHJEwCU3) | 4:59 | 2021-04-19 | 2023-04-29 |
 | [Sing Along](https://open.spotify.com/track/1zb4ZZelw0x6HSlAElN2VR) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [Sing Along](https://open.spotify.com/album/1SVQFBoPhymTt2uTkEUY9H) | 3:06 | 2021-04-19 | 2022-06-04 |
 | [Sit Here And Love Me](https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 3:25 | 2021-04-19 |  |

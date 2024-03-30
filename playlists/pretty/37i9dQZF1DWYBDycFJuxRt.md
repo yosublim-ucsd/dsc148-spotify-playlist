@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/327444?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,247 likes - 72 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,289 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 33 | [BUCHINUKERU](https://open.spotify.com/track/0wwNHoW0cocUiNw8ULMgpr) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [BUCHINUKERU](https://open.spotify.com/album/3dNldcT6rr3YF24ULEsIru) | 3:02 |
 | 34 | [5G \(feat\. MARONI\)](https://open.spotify.com/track/0nsvNmJuNuAc4ypsix8CYY) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MARONI](https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM) | [5G \(feat\. MARONI\)](https://open.spotify.com/album/3Dj6BQqyIX6ElTPyp2QIZp) | 2:48 |
 | 35 | [CHAOS](https://open.spotify.com/track/0zeE7GWhYlWink9gQgAsQ6) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [CHAOS](https://open.spotify.com/album/7jo87kWPoxGUeoBCYxTztz) | 3:39 |
-| 36 | [Boarding Time](https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Boarding Time](https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS) | 2:56 |
+| 36 | [Boarding Time](https://open.spotify.com/track/42lsXb14Nxik4hfeqksL8K) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [PURE 40](https://open.spotify.com/album/3ebUA1TA2F3IMkyFNjJN8E) | 2:56 |
 | 37 | [失恋ソング](https://open.spotify.com/track/0g0qhS0z5cL4tym1b2VrCt) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suplex](https://open.spotify.com/album/31Nbiax5bV9lVnYubVVRaB) | 3:49 |
 | 38 | [AM2:00](https://open.spotify.com/track/2NWckpgKS4ntbnUgPmZmnm) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [映画](https://open.spotify.com/album/3nKQTGFwJHHACw7hBo0yNx) | 2:58 |
 | 39 | [Bubble gum](https://open.spotify.com/track/2P0JpOknppbgVsthBLIYmD) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Bubble gum](https://open.spotify.com/album/7gySRZ7u3rzhD4zoZK0XJY) | 3:06 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [花絨毯](https://open.spotify.com/track/7rwNT8cfHhVJ8I9M9nFy14) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [花絨毯](https://open.spotify.com/album/7yRMzg6GoHaB9EGHVGpo17) | 1:52 |
 | 72 | [Rest in Peace](https://open.spotify.com/track/6rTKps8lhair8dtsjuZprw) | [後藤正文](https://open.spotify.com/artist/7z6bGLRzEf48d1km5BU4sn) | [Recent Report I](https://open.spotify.com/album/14ce4M35YFCSo52cQARpqD) | 12:31 |
 
-Snapshot ID: `MCwwMDM5YzI3YzgyZDQzMmVhMjk4YzEwZjQxZTkxMmVkNjU1MWY2ZGI3`
+Snapshot ID: `MCwyYTgxOGU3ODA2MTQ3YzA3NDI3ZTRjODdhNTRjNjVhZmQ1MDc2OTdi`

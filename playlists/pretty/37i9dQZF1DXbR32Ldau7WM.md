@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now!  Cover: Porno Graffitti \(ポルノグラフィティ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,701 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,739 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 32 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 33 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
 | 34 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
-| 35 | [幸せのために生きているだけさ](https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [幸せのために生きているだけさ](https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd) | 4:07 |
+| 35 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
 | 36 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
-| 37 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
+| 37 | [幸せのために生きているだけさ](https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [幸せのために生きているだけさ](https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd) | 4:07 |
 | 38 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
 | 39 | [やってみよう](https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 2:49 |
 | 40 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 90 | [鉄風 鋭くなって](https://open.spotify.com/track/1wVMKOP4Gv0hqUE3HgP2ZG) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [OMOIDE IN MY HEAD 1 \~BEST & B\-SIDES\~](https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5) | 2:56 |
 | 91 | [面影](https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [面影](https://open.spotify.com/album/0MpOLoFHkRqxTtPyjfCtmn) | 4:16 |
 | 92 | [ゲット・アップ・ルーシー](https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [Chicken Zombies](https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN) | 4:36 |
-| 93 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 |
+| 93 | [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 |
 | 94 | [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 |
-| 95 | [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 |
+| 95 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 |
 | 96 | [KANASHIBARI](https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH) | 4:57 |
 | 97 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 |
 | 98 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
 | 99 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 |
-| 100 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 |
+| 100 | [Dear Future](https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Dear Future](https://open.spotify.com/album/0916gU5FyF01sKbtH32r7a) | 3:48 |
 
-Snapshot ID: `MCw3NWFlNTQyZTYyMzcwOWZjNDJkMTU5MjZlMzI2N2YxZTRhMmJjNzBl`
+Snapshot ID: `MCw4ZGIxNDE3ZTcxYzJlYmNlNWE4NTUyNGNlZjM4NTJkMDk2YTAyMWEz`

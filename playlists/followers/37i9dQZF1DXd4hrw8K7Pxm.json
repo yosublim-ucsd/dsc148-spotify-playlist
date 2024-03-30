@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 64284,
+  "2024-03-30": 64295,
   "date_first_scraped": "2021-12-21",
   "description": "Let it go and belt it out to these classic ballads \u2013 covered. Cover: <a href=\"spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ\">Rose Cousins</a>",
   "name": "Ballads Forever",
@@ -868,7 +868,7 @@
         },
         {
           "name": "Chris Collins",
-          "url": "https://open.spotify.com/artist/4s93zlqCp8gzg7znyuB933"
+          "url": "https://open.spotify.com/artist/3sRps0HNtgZXuD7mSU5PuA"
         },
         {
           "name": "Madilyn Bailey",
@@ -877,7 +877,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 176826,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/3QRoTJ1vIlh3e5Ze8kph1b"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 176826,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/4ioYjahy2a3ZJSclomwyz9"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 274931,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/1YVoMqzFOpoDIOKDobMnbf"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 274931,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl"

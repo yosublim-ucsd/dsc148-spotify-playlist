@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,714 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,782 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 37 | [Privilegio](https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Doble Filo](https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA) | 5:14 |
 | 38 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
 | 39 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 |
-| 40 | [Solo Cenizas Quedaron](https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ) | [Daniel Aranda](https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ) | [Boleros & Baladas: Peruvians Sing For The Brokenhearted](https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk) | 3:15 |
-| 41 | [Mi Viejo / Recordando a Mi Padre](https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals, Vol\. 2](https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4) | 5:07 |
+| 40 | [Mi Viejo / Recordando a Mi Padre](https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals, Vol\. 2](https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4) | 5:07 |
+| 41 | [Solo Cenizas Quedaron](https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ) | [Daniel Aranda](https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ) | [Boleros & Baladas: Peruvians Sing For The Brokenhearted](https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk) | 3:15 |
 | 42 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 |
 | 43 | [Señor Abogado](https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:43 |
 | 44 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
-| 45 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 |
-| 46 | [Corazoncito](https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [El Rey de las Cantinas](https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP) | 3:12 |
+| 45 | [Corazoncito](https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [El Rey de las Cantinas](https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP) | 3:12 |
+| 46 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 |
 | 47 | [Señor Abogado](https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Una Rockola en el Cielo, Vol\. 1](https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU) | 1:53 |
 | 48 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
-| 49 | [Ese Hombre](https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 4:26 |
-| 50 | [Que Te Vayas Bien](https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Los Triunfadores de la Rockola](https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw) | 3:00 |
+| 49 | [Que Te Vayas Bien](https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Los Triunfadores de la Rockola](https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw) | 3:00 |
+| 50 | [Ese Hombre](https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 4:26 |
 | 51 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
 | 52 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
 | 53 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 55 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
 | 56 | [Qué Quieres Tú de Mi / De Qué Estoy Hecha](https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals](https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo) | 6:24 |
 | 57 | [Diablo](https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd) | [Tito Cortes](https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa) | [Romántica](https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp) | 2:48 |
-| 58 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
-| 59 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
+| 58 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
+| 59 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
 | 60 | [Sentencia](https://open.spotify.com/track/3ZQPOcKaqGgvihIx5pKlOV) | [Arturo "Zambo" Cavero](https://open.spotify.com/artist/57r5TRhcLSOAxl2zntsPMM) | [Boleros! \(Hoy Se Casa Mi Amor / Sentencia\) \- Single](https://open.spotify.com/album/7oThxFQGK7fr0cmnpnv6WU) | 3:13 |
 
-Snapshot ID: `MCw5ZGJlZjllMzc5NjkyYTM3YjVkZmU0YzNmYjliYmFiOGIzNGU3MTQ2`
+Snapshot ID: `MCxhYjEwZTkyOWRmMDVjNTZjNDg1MGQ2N2NhZGRhNGFiMjZjOTI0OWU4`

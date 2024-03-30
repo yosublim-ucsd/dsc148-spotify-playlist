@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,391 likes - 210 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,463 likes - 210 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 209 | [sierra star](https://open.spotify.com/track/2dGmw1z9W32GGeofbAdNY1) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [sierra star](https://open.spotify.com/album/1YZIh0zHuUjAAZChz65fW4) | 3:21 |
 | 210 | [Idyllica](https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Idyllica](https://open.spotify.com/album/4YWyvu33UuHfzQFcfixhYW) | 2:13 |
 
-Snapshot ID: `MCw2NzA0NTdiNzk1YWE5YzNmNDRiNmI1ZTk1MzhiM2NiNTAxZmRlMzc1`
+Snapshot ID: `MCxhZDY0YTk0NDA1MzNhMGIyMTYwYjMyYTM3NDU4NWMzNDJmYTcyYTBl`

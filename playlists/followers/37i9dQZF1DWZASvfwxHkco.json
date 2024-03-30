@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 69254,
+  "2024-03-30": 69257,
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: PNAU",
+  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Jonas Blue",
   "name": "mint Japan",
   "tracks": [
     {
@@ -173,6 +173,32 @@
       "duration_ms": 136642,
       "name": "24k Heart Of Gold",
       "url": "https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH"
+    },
+    {
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
     },
     {
       "album": {
@@ -905,7 +931,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 142727,
       "name": "Begin It Again",
       "url": "https://open.spotify.com/track/2x9JWsVEq4oAGNBLR0l3L3"
@@ -1907,7 +1933,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
@@ -1959,6 +1985,24 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245035,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
     },
     {
       "album": {
@@ -5220,6 +5264,24 @@
     },
     {
       "album": {
+        "name": "Outside Of Love",
+        "url": "https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175628,
+      "name": "Outside Of Love",
+      "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/1RWMX0mSEwZ7Q2RuQDwZir"
       },
@@ -6743,7 +6805,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 232239,
       "name": "system",
       "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
@@ -7203,7 +7265,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 181417,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
@@ -8079,6 +8141,28 @@
       "duration_ms": 151698,
       "name": "You Don't Even Know Me",
       "url": "https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200694,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
     },
     {
       "album": {

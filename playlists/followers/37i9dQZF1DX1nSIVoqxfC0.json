@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 436450,
+  "2024-03-30": 436599,
   "date_first_scraped": "2020-10-20",
   "description": "<a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>'s best songs, remixes and compilations.",
   "name": "This Is Ti\u00ebsto",
@@ -2641,6 +2641,28 @@
       "duration_ms": 421026,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2VDUicTMbyYiFm5HXSFzXK"
+    },
+    {
+      "album": {
+        "name": "Explode",
+        "url": "https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Explode",
+      "url": "https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu"
     },
     {
       "album": {

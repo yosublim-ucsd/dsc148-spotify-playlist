@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 229360,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
@@ -9041,6 +9041,28 @@
     },
     {
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187087,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
+    },
+    {
+      "album": {
         "name": "Tesoros",
         "url": "https://open.spotify.com/album/3cqWxJrSCEz1iFFLr2vUm6"
       },
@@ -12784,7 +12806,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
@@ -15718,6 +15740,24 @@
       "duration_ms": 179172,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
+    },
+    {
+      "album": {
+        "name": "Dolido Pero No Arrepentido",
+        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152078,
+      "name": "T\u00da NAME",
+      "url": "https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR"
     },
     {
       "album": {

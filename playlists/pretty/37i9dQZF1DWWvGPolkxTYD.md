@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,466 likes - 40 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,474 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 14 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
 | 15 | [Biçare](https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2), [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Ismail Tuncbilek](https://open.spotify.com/artist/4RnKYAfktqnvcbjkbQC7Fm) | [Taksim Trio](https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P) | 7:40 |
 | 16 | [Vague / E la nave va](https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 6:19 |
-| 17 | [Imminent Journey](https://open.spotify.com/track/6fgXqK3T2JWc4K9K43zOe4) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Yara](https://open.spotify.com/album/23j6IQwXCryKrnxwnctIr1) | 1:21 |
+| 17 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
 | 18 | [Hasret](https://open.spotify.com/track/7Hw2XpM0HJsVhNo5btPUzH) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Mystical Garden](https://open.spotify.com/album/73CSRi65ZZf33cxA1Krs6B) | 8:55 |
-| 19 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
+| 19 | [Imminent Journey](https://open.spotify.com/track/6fgXqK3T2JWc4K9K43zOe4) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Yara](https://open.spotify.com/album/23j6IQwXCryKrnxwnctIr1) | 1:21 |
 | 20 | [Roubbama](https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 6:08 |
 | 21 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
 | 22 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 39 | [Al\-Andalus Abre Sus Puertas\. Al\-Andalus Opens Its Gates](https://open.spotify.com/track/4iQvCKLlT8DlRm7hqBPS3n) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ), [Shabbaz Hussain](https://open.spotify.com/artist/1entpGIZiFUjcFLOMzbXUL), [Ashraf Sharif Khan](https://open.spotify.com/artist/75hY1HGxwO5zlBmXzj1UQs) | [Viaje De Las Almas\. Travelling Souls](https://open.spotify.com/album/1nEZo4Uk9UfaAnt0AvqDAb) | 6:35 |
 | 40 | [Meçhul](https://open.spotify.com/track/4btMC5zessMUb1G9JUTT6q) | [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Dünya, Vol\. 1 \(Gün Doğumu\)](https://open.spotify.com/album/2Qocr6xEdeOsTOFGzTdTw9) | 7:39 |
 
-Snapshot ID: `MCwxOTVjMzI2ZjI5NTA0NjgxNzJkZGYzZDRlZmVkNjJjMjE4NGNlMTU0`
+Snapshot ID: `MCw1ZGM3YjZkYmU0N2IyMjhiMzlkYmZlYjkwOThiNWUyOGY0NTVlMjIy`

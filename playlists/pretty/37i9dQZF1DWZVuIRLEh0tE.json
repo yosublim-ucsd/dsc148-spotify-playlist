@@ -1,13 +1,33 @@
 {
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Yomel El Meloso",
-  "num_followers": 230100,
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Tokischa",
+  "num_followers": 230175,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTY4NGE0M2NkY2NmNjFjNGI3NmM0ZGRkNGEyYTk4ZjUxMjA0ZjI1",
+  "snapshot_id": "MCxkNjRjNDRkNGQ1MGY2YzJlYjYzZGNmMzU1OGVlOGYyZTVhNTk0ZTkw",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Jalo!",
+        "url": "https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Jalo!",
+      "url": "https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ"
+    },
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
@@ -23,6 +43,42 @@
       "duration_ms": 163514,
       "name": "Divino",
       "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
+    },
+    {
+      "added_at": "2024-01-12 21:24:53",
+      "album": {
+        "name": "Voy Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1gzRiTyJJG9l8RDPc2YTr4"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 202814,
+      "name": "Voy Despu\u00e9s",
+      "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "BIRKIN",
+        "url": "https://open.spotify.com/album/0F7NLSZt37QoNmShEaK2xJ"
+      },
+      "artists": [
+        {
+          "name": "YOUNG D",
+          "url": "https://open.spotify.com/artist/6PTSLeCguaSy6HHtjxhP9R"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "duration_ms": 124639,
+      "name": "BIRKIN",
+      "url": "https://open.spotify.com/track/3NcsUIhHXtB6iOxyMuSWkt"
     },
     {
       "added_at": "2024-02-15 16:52:33",
@@ -65,6 +121,38 @@
       "url": "https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Tranza (Pt. 1)",
+        "url": "https://open.spotify.com/album/7anBbRn50ldYnUhUJtQ5gB"
+      },
+      "artists": [
+        {
+          "name": "Big Chriss & Draco Deville",
+          "url": "https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "duration_ms": 160298,
+      "name": "Tranza - Pt. 1",
+      "url": "https://open.spotify.com/track/61f31nUeArUN0YUXjPbTT8"
+    },
+    {
       "added_at": "2024-01-12 21:24:53",
       "album": {
         "name": "Bad Bxtch",
@@ -81,6 +169,22 @@
       "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "El Reloj",
+        "url": "https://open.spotify.com/album/2Z61qqD9aW7LNDKKIcnhU3"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/31xzUK9jMLTNB0TXBdiWfQ"
+    },
+    {
       "added_at": "2024-03-27 20:37:44",
       "album": {
         "name": "Ante",
@@ -95,6 +199,26 @@
       "duration_ms": 125087,
       "name": "Ante",
       "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "TIKTO",
+        "url": "https://open.spotify.com/album/2rRWLTfr67PVlco63lvVg7"
+      },
+      "artists": [
+        {
+          "name": "ADAN",
+          "url": "https://open.spotify.com/artist/1w8UqsR3DG3us9VBFc93ul"
+        },
+        {
+          "name": "Rhyno OTT",
+          "url": "https://open.spotify.com/artist/1fK8RLuqnCqdlbXuk4J7ga"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "TIKTO",
+      "url": "https://open.spotify.com/track/4qrz8KfniDerseSlOOURI9"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -137,6 +261,22 @@
       "url": "https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Detiene",
+        "url": "https://open.spotify.com/album/1GVX9hE5N8ir2jehp08SF0"
+      },
+      "artists": [
+        {
+          "name": "GioBulla",
+          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Detiene",
+      "url": "https://open.spotify.com/track/2seCIG2j3lILUc7bLevkoa"
+    },
+    {
       "added_at": "2024-03-22 04:01:00",
       "album": {
         "name": "Que Loquera",
@@ -175,6 +315,22 @@
       "duration_ms": 148453,
       "name": "Bebi Demasiado",
       "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Vibes Chevere",
+        "url": "https://open.spotify.com/album/3WnrhpjxUuFVtzrDSLpUwX"
+      },
+      "artists": [
+        {
+          "name": "Karetta el Gucci",
+          "url": "https://open.spotify.com/artist/4ygcJmgRCkZ0AoKkMt1xiZ"
+        }
+      ],
+      "duration_ms": 174736,
+      "name": "Vibes Chevere",
+      "url": "https://open.spotify.com/track/1CBmMXEkET9cqpjjAKhfn0"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -229,6 +385,22 @@
       "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "El Alb\u00fam Que Se Me Hab\u00eda Perdido",
+        "url": "https://open.spotify.com/album/7fin0vvQrbqkK8mQFAJQU7"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/13YPD0B0jCyREM5k1UNdMD"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "HMC",
@@ -265,20 +437,20 @@
       "url": "https://open.spotify.com/track/6T1335enI8UZIz9N0VABb5"
     },
     {
-      "added_at": "2024-01-12 21:24:53",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Voy Despu\u00e9s",
-        "url": "https://open.spotify.com/album/1gzRiTyJJG9l8RDPc2YTr4"
+        "name": "Hasta Cuando (By BERSHKA Music)",
+        "url": "https://open.spotify.com/album/4RhMsx87eiuLjj3iLIH9kR"
       },
       "artists": [
         {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
         }
       ],
-      "duration_ms": 202814,
-      "name": "Voy Despu\u00e9s",
-      "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
+      "duration_ms": 237100,
+      "name": "Hasta Cuando - By BERSHKA Music",
+      "url": "https://open.spotify.com/track/3mqEEb0fDraJ8on2Ve4DjA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -303,6 +475,30 @@
       "duration_ms": 133894,
       "name": "Tamo Bien",
       "url": "https://open.spotify.com/track/1j2BZHUubKyu398MZLSE8p"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Bobito",
+        "url": "https://open.spotify.com/album/3zOtDrI4GkYNMTUEWsdXAu"
+      },
+      "artists": [
+        {
+          "name": "Enyer Brooklyn",
+          "url": "https://open.spotify.com/artist/3qF2IpDVupTMz2Ya9tzFV3"
+        },
+        {
+          "name": "Director Moises",
+          "url": "https://open.spotify.com/artist/3Av5x6GUSoWcGFjrVHo6Go"
+        },
+        {
+          "name": "El Que La Vende",
+          "url": "https://open.spotify.com/artist/3PYDqeEToYiyX6ttjjOWpc"
+        }
+      ],
+      "duration_ms": 166582,
+      "name": "Bobito",
+      "url": "https://open.spotify.com/track/6FUma3pWxqyoQJ8MduNNt8"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -563,6 +759,26 @@
       "duration_ms": 149328,
       "name": "Calorazo",
       "url": "https://open.spotify.com/track/5jrG8BSLIqMvacwkiWmxc7"
+    },
+    {
+      "added_at": "2023-07-18 04:00:00",
+      "album": {
+        "name": "Vivo Por Palomo",
+        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        }
+      ],
+      "duration_ms": 206842,
+      "name": "Vivo Por Palomo",
+      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -879,26 +1095,6 @@
       "duration_ms": 173389,
       "name": "Gogo Dance",
       "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "Vivo Por Palomo",
-        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        }
-      ],
-      "duration_ms": 206842,
-      "name": "Vivo Por Palomo",
-      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
     },
     {
       "added_at": "2023-07-18 04:00:00",

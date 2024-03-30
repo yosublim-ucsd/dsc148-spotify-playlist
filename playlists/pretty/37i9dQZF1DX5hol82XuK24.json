@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 428742,
+  "num_followers": 428806,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDA5YzE3MjNjNTdkNTUxODRjNmVlNWIyY2YwMGRiN2JlOTBhM2Uz",
+  "snapshot_id": "MCxkZDY5MDRiNzVhNDhlYmViNDU2ZTUyNDMxYjc2ZWQ5NDY3MGVhM2Ez",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "duration_ms": 161422,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "NEGATIVE",
         "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 234000,
       "name": "What Would I Do?",
       "url": "https://open.spotify.com/track/5EJA7Rwkeuvm98CZg0XXNO"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ"
-      },
-      "artists": [
-        {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        }
-      ],
-      "duration_ms": 161422,
-      "name": "i was all over her",
-      "url": "https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 215729,
-      "name": "Deep Green",
-      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Show Me Your Mind",
         "url": "https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 213236,
       "name": "Show Me Your Mind",
       "url": "https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Deaf Heat EP",
+        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 215729,
+      "name": "Deep Green",
+      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Serfs Up!",
         "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 342538,
       "name": "Tastes Good With The Money",
       "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "You are the Problem Here",
         "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 218373,
       "name": "You are the Problem Here",
       "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Within a Dream",
+        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "duration_ms": 233556,
+      "name": "Blue May",
+      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Flying Wig",
         "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 216584,
       "name": "Miracle of Life",
       "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Within a Dream",
-        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
-      },
-      "artists": [
-        {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
-        }
-      ],
-      "duration_ms": 233556,
-      "name": "Blue May",
-      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
     },
     {
       "added_at": "2023-11-03 23:08:22",

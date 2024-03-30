@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb39rhYOQBVZ.md) - [plain]
 
 > Legendary <a href="https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva?si=96ddec9640844dda">Latin</a> songs that have reached \(or are close to\) the 1 billion streams milestone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,959 likes - 41 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,043 likes - 41 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb39rhYOQBVZ.md) - [plain]
 | 40 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 |
 | 41 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 |
 
-Snapshot ID: `MCxiY2YxNzkxM2IxZDk2NzA4OWI4OGRlM2NhOTIwZWZiYzhlMTI4OGM4`
+Snapshot ID: `MCxiZWE0YWZhMmZiMTc4ZTQ1NmQzMDFiMjY0OWFjZTM0Nzg2NjQ0MmYz`

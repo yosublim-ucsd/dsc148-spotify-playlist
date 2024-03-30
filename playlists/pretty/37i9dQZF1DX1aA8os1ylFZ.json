@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241950,
+  "num_followers": 241958,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmQwZDVlM2ZhNzQzMTdjNmQxNWIwNmViY2JkMDRjZWI1NDEyYzU0",
+  "snapshot_id": "MCxkNzBlZjQ5NjU4N2I4NzI0ZDAxZmFmYjk5MzFkYTcwYTIyZTdkOGJl",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Wanna Come Thru",
         "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 131900,
       "name": "Wanna Come Thru",
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Spinn On You",
         "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 140663,
       "name": "Spinn On You",
       "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 151899,
-      "name": "Life Is Better Now",
-      "url": "https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 210100,
       "name": "All That It Takes",
       "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 151899,
+      "name": "Life Is Better Now",
+      "url": "https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 147790,
       "name": "Today",
       "url": "https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "The Right One",
-        "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
-      },
-      "artists": [
-        {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "The Right One",
-      "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1"
       },
@@ -1447,22 +1431,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "majestic exclusives",
-        "url": "https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn"
+        "name": "The Right One",
+        "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
       },
       "artists": [
         {
-          "name": "1STVIRGINIA",
-          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
         }
       ],
-      "duration_ms": 152347,
-      "name": "Feelin'",
-      "url": "https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K"
+      "duration_ms": 176756,
+      "name": "The Right One",
+      "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1483,6 +1463,26 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "majestic exclusives",
+        "url": "https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn"
+      },
+      "artists": [
+        {
+          "name": "1STVIRGINIA",
+          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
+        }
+      ],
+      "duration_ms": 152347,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Find Me Again",
-        "url": "https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI"
-      },
-      "artists": [
-        {
-          "name": "1STVIRGINIA",
-          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
-        }
-      ],
-      "duration_ms": 167145,
-      "name": "Find Me Again",
-      "url": "https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Private",
         "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Find Me Again",
+        "url": "https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI"
+      },
+      "artists": [
+        {
+          "name": "1STVIRGINIA",
+          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
+        }
+      ],
+      "duration_ms": 167145,
+      "name": "Find Me Again",
+      "url": "https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB"
     },
     {
       "added_at": "2024-03-21 23:00:00",

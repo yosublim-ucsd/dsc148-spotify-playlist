@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 178120,
+  "num_followers": 178424,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmFlYjA2OGRmOTA2MTNmMDVmN2FmYTY5NDhkMjdmYjk1NzM0YTJl",
+  "snapshot_id": "MCwzNzg2YmZlNTUxNTg0NmUwZDhhMDc0YWJjZTliNmEzYzE0ZGM5OGRm",
   "tracks": [
     {
       "added_at": "2024-03-20 11:30:32",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Exagerado Amor",
-      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "El Mismo Cielo",
         "url": "https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 230893,
       "name": "Como R\u00edo En Primavera",
       "url": "https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 279457,
+      "name": "Exagerado Amor",
+      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -731,22 +731,18 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "M\u00fasica en el Desierto",
-        "url": "https://open.spotify.com/album/0XJjgo6rIW6kp9O8qLnord"
+        "name": "Colecci\u00f3n de Danilo Montero",
+        "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 271419,
-      "name": "Eterna luz",
-      "url": "https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH"
+      "duration_ms": 360071,
+      "name": "Cantar\u00e9 de Tu Amor",
+      "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -783,18 +779,22 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Colecci\u00f3n de Danilo Montero",
-        "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
+        "name": "M\u00fasica en el Desierto",
+        "url": "https://open.spotify.com/album/0XJjgo6rIW6kp9O8qLnord"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Cantar\u00e9 de Tu Amor",
-      "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
+      "duration_ms": 271419,
+      "name": "Eterna luz",
+      "url": "https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Gloria al Rey",
-        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
-      },
-      "artists": [
-        {
-          "name": "Jaci Velasquez",
-          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
-        }
-      ],
-      "duration_ms": 264626,
-      "name": "Gloria al Rey",
-      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Unidos Permanecemos (Live)",
         "url": "https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 329000,
       "name": "Solo Cristo (None But Jesus) - Live",
       "url": "https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Gloria al Rey",
+        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
+      },
+      "artists": [
+        {
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Gloria al Rey",
+      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "No Temas",
-        "url": "https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM"
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
       },
       "artists": [
         {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Marcos Yaroide",
-          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+          "name": "Alex Rodriguez",
+          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
         }
       ],
-      "duration_ms": 243250,
-      "name": "No Temas",
-      "url": "https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC"
+      "duration_ms": 327400,
+      "name": "Merecedor de Alabanza",
+      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1479,18 +1475,42 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
+        "name": "People En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/3TJCEB18pWSsmbsHTIIEzi"
       },
       "artists": [
         {
-          "name": "Alex Rodriguez",
-          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Merecedor de Alabanza",
-      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
+      "duration_ms": 360186,
+      "name": "Por Su Gracia",
+      "url": "https://open.spotify.com/track/3lTfA15qXGXNKadA1XVXMs"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "No Temas",
+        "url": "https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM"
+      },
+      "artists": [
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+        }
+      ],
+      "duration_ms": 243250,
+      "name": "No Temas",
+      "url": "https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1511,22 +1531,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Jes\u00fas Salva",
         "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
@@ -1543,22 +1547,18 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "People En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/3TJCEB18pWSsmbsHTIIEzi"
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 360186,
-      "name": "Por Su Gracia",
-      "url": "https://open.spotify.com/track/3lTfA15qXGXNKadA1XVXMs"
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Encontr\u00e9 Mi Lugar",
-        "url": "https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf"
-      },
-      "artists": [
-        {
-          "name": "Kairy Marquez",
-          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
-        }
-      ],
-      "duration_ms": 296316,
-      "name": "Encontr\u00e9 Mi Lugar",
-      "url": "https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Nunca para de Llover",
         "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 222613,
       "name": "Hasta el Final",
       "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Encontr\u00e9 Mi Lugar",
+        "url": "https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf"
+      },
+      "artists": [
+        {
+          "name": "Kairy Marquez",
+          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
+        }
+      ],
+      "duration_ms": 296316,
+      "name": "Encontr\u00e9 Mi Lugar",
+      "url": "https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu"
     },
     {
       "added_at": "2024-03-20 11:30:32",

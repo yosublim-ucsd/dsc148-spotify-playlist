@@ -1,12 +1,12 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>",
-  "num_followers": 1028163,
+  "num_followers": 1029421,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDRhOWYwNTZiODQ4OWRhNDJkNzRmZjgyNjA2N2FkOGJkMDJhODQ0",
+  "snapshot_id": "MCxlNDJjYWY3ZWMyMmNlNmQ1NGQzMzI1MzlhZDM3ZDBjMWFlM2M3Y2M3",
   "tracks": [
     {
       "added_at": "2024-02-22 21:41:29",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "GTG",
-        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 93893,
-      "name": "GTG",
-      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "PUNK TACTICS",
         "url": "https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 143609,
       "name": "PUNK TACTICS",
       "url": "https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "GTG",
+        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 93893,
+      "name": "GTG",
+      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "The Law of Recognition",
         "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
       },
@@ -559,18 +543,34 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
       },
       "artists": [
         {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
         }
       ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Righteous",
+        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "duration_ms": 163910,
+      "name": "Righteous",
+      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Righteous",
-        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
       },
       "artists": [
         {
-          "name": "Mo Beats",
-          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
         }
       ],
-      "duration_ms": 163910,
-      "name": "Righteous",
-      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -645,20 +645,24 @@
       "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
     },
     {
-      "added_at": "2024-01-12 18:00:00",
+      "added_at": "2024-02-27 22:22:24",
       "album": {
-        "name": "Corrupted",
-        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
+        "name": ">one (greater than one)",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
       },
       "artists": [
         {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 134451,
-      "name": "LED",
-      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
+      "duration_ms": 130666,
+      "name": ">one - greater than one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -685,60 +689,20 @@
       "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
     },
     {
-      "added_at": "2024-02-27 22:22:24",
-      "album": {
-        "name": ">one (greater than one)",
-        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": ">one - greater than one",
-      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
-    },
-    {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "die",
-        "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
+        "name": "Corrupted",
+        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
       },
       "artists": [
         {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Key Kelly",
-          "url": "https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss"
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
         }
       ],
-      "duration_ms": 99560,
-      "name": "die",
-      "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 99807,
-      "name": "WTH",
-      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+      "duration_ms": 134451,
+      "name": "LED",
+      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
     },
     {
       "added_at": "2024-02-09 15:55:25",
@@ -759,6 +723,42 @@
       "duration_ms": 183529,
       "name": "fury",
       "url": "https://open.spotify.com/track/6TQxIK8op30n291y53sTZH"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 99807,
+      "name": "WTH",
+      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "die",
+        "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Key Kelly",
+          "url": "https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss"
+        }
+      ],
+      "duration_ms": 99560,
+      "name": "die",
+      "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "7AM",
-        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
-      },
-      "artists": [
-        {
-          "name": "Adrian",
-          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Kujo Freestyle",
         "url": "https://open.spotify.com/album/1K5NQ3uYpYENDGyt84BhYV"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 115151,
       "name": "Kujo Freestyle",
       "url": "https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
+      },
+      "artists": [
+        {
+          "name": "Adrian",
+          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
     },
     {
-      "added_at": "2024-02-01 20:59:02",
-      "album": {
-        "name": "Good Morning Vietnam",
-        "url": "https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Good Morning Vietnam",
-      "url": "https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8"
-    },
-    {
       "added_at": "2024-01-12 18:00:00",
       "album": {
         "name": "MK Plus Ultra",
@@ -1295,6 +1279,22 @@
       "duration_ms": 130914,
       "name": "MK Plus Ultra",
       "url": "https://open.spotify.com/track/00cEH1g73uoXOeZk04HX7r"
+    },
+    {
+      "added_at": "2024-02-01 20:59:02",
+      "album": {
+        "name": "Good Morning Vietnam",
+        "url": "https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Good Morning Vietnam",
+      "url": "https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8"
     },
     {
       "added_at": "2024-01-12 18:00:00",

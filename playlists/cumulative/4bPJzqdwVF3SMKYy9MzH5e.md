@@ -4,7 +4,7 @@
 
 > 
 
-1,879 songs - 4 day 5 hr 24 min
+1,880 songs - 4 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1746,6 +1746,7 @@
 | [Until It Doesn’t Hurt](https://open.spotify.com/track/7grksluOJE8yFzxmrh7u2U) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:55 | 2023-06-07 |  |
 | [Until It's Gone](https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:53 | 2021-08-05 |  |
 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 | 2021-08-05 |  |
+| [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-03-29 |  |
 | [Ushi\_Ga\_Suki\_Desu\_214f187f](https://open.spotify.com/track/21kHqGeNy9zZZ182SsMRuQ) | [Lil Kevo 303](https://open.spotify.com/artist/2hhB8Hr4xrLZFvTTxZjGJA) | [The Taste of Food Is My Reason for Living](https://open.spotify.com/album/1BWm6e51ExFvJMeTJ3fENH) | 2:05 | 2023-02-05 |  |
 | [Vacation Bible School](https://open.spotify.com/track/6KbkGUqEJBwghxPLUQpOXQ) | [Ayesha Erotica](https://open.spotify.com/artist/7gQJXKyZX1Wwqpd82lB9Xy) | [Vacation Bible School](https://open.spotify.com/album/306zEIOo0kFIfAFaCFAmlE) | 4:51 | 2021-11-14 |  |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-07-10 |  |

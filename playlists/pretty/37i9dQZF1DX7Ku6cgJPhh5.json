@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with rock hits, new and old. Cover: Green Day",
-  "num_followers": 486044,
+  "num_followers": 486114,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGExMDMzNWI5OTY3ZjQwYzM2OWFjNWFhOGQ2MjMyNDg2Y2VkYmY4",
+  "snapshot_id": "MCxjMWFjNjJhYWMyNzY3NTU4ZWU0OTEzZGYyMzdmYTljYmE0NTFhMWU2",
   "tracks": [
     {
       "added_at": "2024-03-16 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-16 04:00:00",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g"
-    },
-    {
-      "added_at": "2024-03-16 04:00:00",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2024-03-16 04:00:00",
       "album": {
-        "name": "Stadium Arcadium",
-        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 282160,
-      "name": "Dani California",
-      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
+      "duration_ms": 178013,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g"
     },
     {
       "added_at": "2024-03-16 04:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2024-03-16 04:00:00",
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "Dani California",
+      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
     },
     {
       "added_at": "2024-03-16 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-16 04:00:00",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2024-03-16 04:00:00",
-      "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 285200,
       "name": "Man in the Box",
       "url": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
+    },
+    {
+      "added_at": "2024-03-16 04:00:00",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2024-03-16 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-16 04:00:00",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
-    },
-    {
-      "added_at": "2024-03-16 04:00:00",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2024-03-16 04:00:00",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2024-03-16 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-16 04:00:00",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2024-03-16 04:00:00",
-      "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 216933,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
+    },
+    {
+      "added_at": "2024-03-16 04:00:00",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2024-03-16 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-16 04:00:00",
       "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
-      },
-      "artists": [
-        {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Lump",
-      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
-    },
-    {
-      "added_at": "2024-03-16 04:00:00",
-      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+    },
+    {
+      "added_at": "2024-03-16 04:00:00",
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     },
     {
       "added_at": "2024-03-16 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-03-16 04:00:00",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Now And Then",
-      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
-    },
-    {
-      "added_at": "2024-03-16 04:00:00",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 212733,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
+    },
+    {
+      "added_at": "2024-03-16 04:00:00",
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
     },
     {
       "added_at": "2024-03-16 04:00:00",

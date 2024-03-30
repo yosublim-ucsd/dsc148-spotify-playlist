@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Winners — past and present — from the 96th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,221 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,208 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 14 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
 | 15 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 |
 | 16 | [Ripples in the Sand](https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 5:14 |
-| 17 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 3:32 |
-| 18 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 |
+| 17 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 |
+| 18 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 3:32 |
 | 19 | [If I Didn't Have You](https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:37 |
 | 20 | [I'm Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 |
 | 21 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 50 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 | 51 | [Jai Ho](https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Slumdog Millionaire \- Music From The Motion Picture](https://open.spotify.com/album/2oJI1pZ52LD11fgIaxEdRx) | 5:19 |
 
-Snapshot ID: `MCw3ZmI3ZDUzOWFkZWM4YzQ1MDIzZDdhM2Q0ZjI5MTQ3YmZjY2Y2MmJj`
+Snapshot ID: `MCxmNTZlOWQyZGY4NGJkNjZhZjk3Zjc4YThkMDQxOWM0MTY5NWZlODgx`

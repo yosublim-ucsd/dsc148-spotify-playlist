@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Thalles Roberto
 
-135 songs - 10 hr 27 min
+137 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [ATEU](https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [ATEU](https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb) | 4:05 | 2022-12-09 |  |
 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 | 2023-04-28 |  |
 | [Até Que Nada Mais Importe](https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk), [Michel Oliveira](https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH) | [Até Que Nada Mais Importe](https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f) | 2:56 | 2023-04-28 | 2023-08-19 |
-| [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE) | [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63) | 9:25 | 2022-09-02 |  |
+| [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE) | [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63) | 9:25 | 2022-09-02 | 2024-03-30 |
 | [Baile das Máscaras](https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Baile das Máscaras](https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t) | 3:35 | 2022-09-02 | 2023-11-04 |
 | [Bartimeu](https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k), [Marcos Miranda](https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F) | [Bartimeu](https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam) | 3:51 | 2023-05-19 | 2023-11-04 |
 | [Bitcoins](https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Bitcoins](https://open.spotify.com/album/02wxaUhRj9xk2Hstji66q0) | 3:42 | 2023-10-06 | 2023-11-25 |
@@ -122,11 +122,13 @@
 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 | 2022-09-02 |  |
 | [Retrato](https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Retrato](https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8) | 5:33 | 2022-09-02 |  |
 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 | 2022-09-02 |  |
+| [Salmo 13](https://open.spotify.com/track/1KGq39KlJKihbiRxcMebeT) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Live Sessions](https://open.spotify.com/album/32wLGts5FSsd3ll1Kupg6F) | 5:01 | 2024-03-29 |  |
 | [Santo \- Ao Vivo](https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP) | 8:56 | 2022-09-02 |  |
 | [Sempre Foi Deus](https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Sempre Foi Deus](https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX) | 3:25 | 2022-09-02 | 2023-01-14 |
 | [Simplesmente](https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc) | 5:23 | 2022-09-02 | 2023-11-04 |
 | [Simplesmente](https://open.spotify.com/track/3Jtq6KBwX0TL2GypkiwZl6) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/0QeJIqPsEV96bdsjMFprON) | 5:23 | 2023-11-03 |  |
-| [Sobre as Águas](https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio](https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed) | 4:39 | 2022-09-02 |  |
+| [Sobre as Águas](https://open.spotify.com/track/7AxEkvEXLyNPdFdAWDF1rX) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio: Lado A](https://open.spotify.com/album/4WWiamd2onNCdpfJCfrJBs) | 4:39 | 2024-03-29 |  |
+| [Sobre as Águas](https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio](https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed) | 4:39 | 2022-09-02 | 2024-03-30 |
 | [Socorre\-Me](https://open.spotify.com/track/2cHtur9bWnYwsq6pbuJT1i) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Quarantine Session](https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw) | 3:01 | 2023-01-13 | 2023-09-05 |
 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 | 2022-09-02 |  |
 | [Sua Glória](https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Sua Glória](https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU) | 7:53 | 2022-09-02 | 2023-07-15 |

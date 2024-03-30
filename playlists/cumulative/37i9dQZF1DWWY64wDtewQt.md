@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-706 songs - 1 day 2 hr 32 min
+707 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Freaks!](https://open.spotify.com/track/229ECn6HmJvHcB3PYnDd4j) | [DEDLINE](https://open.spotify.com/artist/75nE6Q3wOe3nB5aUrrzwvw) | [Freaks!](https://open.spotify.com/album/6f50uY0tcZLAMurIAD0zfR) | 2:41 | 2022-09-09 | 2022-10-29 |
 | [FREETATO](https://open.spotify.com/track/3nTrjR697Wt8FVLEIZqwiO) | [apillsinjuice](https://open.spotify.com/artist/2rhyPC4RI2bJ3XDFvdBVeo) | [FREETATO](https://open.spotify.com/album/1Q27gGAujyIvzDLxpuecsV) | 1:49 | 2024-01-12 | 2024-02-03 |
 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 | 2023-06-09 |  |
-| [Frikitona \- Slowboy Remix](https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Frikitona \(Slowboy Remix\)](https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA) | 2:18 | 2024-03-22 |  |
+| [Frikitona \- Slowboy Remix](https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Frikitona \(Slowboy Remix\)](https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA) | 2:18 | 2024-03-22 | 2024-03-30 |
 | [FTP](https://open.spotify.com/track/6hT9GcKOTN8P0gcmuNtVyU) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [FTP](https://open.spotify.com/album/41WOnjsI2bXuQsrgC8VXHD) | 2:05 | 2022-01-14 | 2022-07-02 |
 | [Fuck Your Mind](https://open.spotify.com/track/2fxTylxOAfxV0R2YVNWWy7) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [Homicide](https://open.spotify.com/album/2bq7fho2th0ny1eGeo2fDN) | 2:18 | 2021-06-24 | 2022-05-14 |
 | [FULL SEND](https://open.spotify.com/track/7LZ5kABpaC3XiXQEOlJ6LA) | [BLXCKBUSTA](https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs) | [FULL SEND](https://open.spotify.com/album/1eOwNN7Bltds0VRlwrzeOl) | 1:54 | 2021-09-01 | 2022-07-30 |
@@ -584,6 +584,7 @@
 | [Slapper](https://open.spotify.com/track/7mtsigBhtzIJ8e4XsfpMkI) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY) | 1:07 | 2022-12-16 | 2023-02-04 |
 | [Slapper \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/4Zf7vu8xsZeqOvel5fqyEK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Slapper \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/3c42aX4JhfAZHEj0VNNupM) | 1:07 | 2022-12-16 | 2023-12-02 |
 | [SLAUGHTER HOUSE](https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [SLAUGHTER HOUSE](https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L) | 2:31 | 2022-09-02 | 2023-09-09 |
+| [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-03-29 |  |
 | [SLAYER](https://open.spotify.com/track/6GubPXHfFG5cYUFZNl4vsZ) | [Ya$h](https://open.spotify.com/artist/6dvtf0mSE1nAC2vbStrrVG), [only1korob](https://open.spotify.com/artist/5G8Q8ZPaEwSl3oO0DpnUYB), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [SLAYER](https://open.spotify.com/album/6jeoIb83bE8HaEr1HvHTZj) | 2:53 | 2022-07-29 | 2022-09-24 |
 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 | 2023-08-18 |  |
 | [SMOKE IT OFF!](https://open.spotify.com/track/0mRaXMf9wwtkcW62t7zPm7) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/6LG5dTlYLzmgC6RRiGvsl1) | 1:57 | 2023-02-04 | 2023-08-02 |

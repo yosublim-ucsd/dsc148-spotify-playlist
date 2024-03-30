@@ -1,12 +1,12 @@
 {
   "description": "Siento que arranco la carretera...",
-  "num_followers": 206949,
+  "num_followers": 207018,
   "original_name": "Viaje en Carretera: Arremangado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjJiZjU5NjYxMDUzYzkwYmYzNGM5YWU1NmZmY2RiODI1MjhiYTcx",
+  "snapshot_id": "MCwwYTM2MWI0NmNiNGRmM2YxNzdkZmQzN2JlMGI1OGU2NTY0NTk0MDhh",
   "tracks": [
     {
       "added_at": "2024-01-15 19:02:59",
@@ -223,18 +223,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
         }
       ],
-      "duration_ms": 191994,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -255,22 +259,18 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Hublot",
-        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 225250,
-      "name": "Hublot",
-      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+      "duration_ms": 191994,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Las Retro Chingonas",
-        "url": "https://open.spotify.com/album/0fMAtWzhCFU9f50MQPaAqB"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 106413,
-      "name": "El 24 - Corrido",
-      "url": "https://open.spotify.com/track/0drX7yWD6MSa2G82wqmVJk"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Los Buitres Con Tololoche",
         "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 149360,
       "name": "El Tamarindo",
       "url": "https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Las Retro Chingonas",
+        "url": "https://open.spotify.com/album/0fMAtWzhCFU9f50MQPaAqB"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 106413,
+      "name": "El 24 - Corrido",
+      "url": "https://open.spotify.com/track/0drX7yWD6MSa2G82wqmVJk"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Corridos Perrones 1",
-        "url": "https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Las Monjitas",
-      "url": "https://open.spotify.com/track/2KJkMXZKvvV4jDdu8UM44e"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Pienso en Ti",
         "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 179346,
       "name": "El Cadete",
       "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Corridos Perrones 1",
+        "url": "https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Las Monjitas",
+      "url": "https://open.spotify.com/track/2KJkMXZKvvV4jDdu8UM44e"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Tragos Amargos",
-        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 161253,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Larryvoluci\u00f3n",
         "url": "https://open.spotify.com/album/0728CjXjQWqe0hcRS9WfPl"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 174586,
       "name": "Gente VIP",
       "url": "https://open.spotify.com/track/3g1GoAq0u4uDzrXFgvMII2"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Tragos Amargos",
+        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
+        "name": "16 Narco Corridos",
+        "url": "https://open.spotify.com/album/1I1rJdESjMaJgB2T1WD9a2"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "duration_ms": 247151,
+      "name": "El Baleado",
+      "url": "https://open.spotify.com/track/1OgvkOPty7une97pgsH1Dh"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 148186,
       "name": "Gente Batallosa",
       "url": "https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "16 Narco Corridos",
-        "url": "https://open.spotify.com/album/1I1rJdESjMaJgB2T1WD9a2"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 247151,
-      "name": "El Baleado",
-      "url": "https://open.spotify.com/track/1OgvkOPty7une97pgsH1Dh"
     },
     {
       "added_at": "2024-01-15 19:02:59",

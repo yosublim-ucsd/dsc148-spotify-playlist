@@ -1,12 +1,12 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 24948,
+  "num_followers": 24977,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjRmZGVkN2E4ZTE0YTdjODY5ZDE0M2UxMDg2NTE3ZWI4MDc1YzUx",
+  "snapshot_id": "MCwzNjk1YTdiZjA4MWQzYmMyNzhiZTJiMWY4MjFmODk3Yzc0ZjA5YWY3",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo"
     },
     {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Y.A.T.O.",
+        "url": "https://open.spotify.com/album/4uLjZRhLYU7yQHleJAvyzI"
+      },
+      "artists": [
+        {
+          "name": "David Blazer",
+          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
+        }
+      ],
+      "duration_ms": 220979,
+      "name": "Y.A.T.O.",
+      "url": "https://open.spotify.com/track/18hqHOOqRJc27Eg6xLQt8l"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "All Night",
@@ -79,6 +95,26 @@
       "duration_ms": 244309,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/2K5cF4TM3vH1eaX0eqXfzZ"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "JUST IN TIME (XL Middleton Remix)",
+        "url": "https://open.spotify.com/album/5Wiw1s5Wci0KyrrxqTKKFL"
+      },
+      "artists": [
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "JUST IN TIME - XL Middleton Remix",
+      "url": "https://open.spotify.com/track/7mEInMyJTFKpfZpgZ2Rqq4"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -1363,22 +1399,6 @@
     {
       "added_at": "2021-07-26 17:42:45",
       "album": {
-        "name": "Tuxedo III",
-        "url": "https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 192747,
-      "name": "The Tuxedo Way",
-      "url": "https://open.spotify.com/track/6oodcUa5wcH7TAMVUW196Y"
-    },
-    {
-      "added_at": "2021-07-26 17:42:45",
-      "album": {
         "name": "The High - EP",
         "url": "https://open.spotify.com/album/6Ba2ugeP6fBSEazCTIx2Ff"
       },
@@ -1723,22 +1743,6 @@
       "duration_ms": 246375,
       "name": "U Got Me Good",
       "url": "https://open.spotify.com/track/41FpAljevedgZgroxHNGXi"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Holding Time",
-        "url": "https://open.spotify.com/album/23hOpd3AvUxjfHw6kj1ZMA"
-      },
-      "artists": [
-        {
-          "name": "David Blazer",
-          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
-        }
-      ],
-      "duration_ms": 209831,
-      "name": "Holding Time",
-      "url": "https://open.spotify.com/track/6kuVbHd5I1Wdvn3Er735AD"
     },
     {
       "added_at": "2022-09-02 04:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 481 songs - 1 day 7 hr 40 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 482 songs - 1 day 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -489,5 +489,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 479 | [Runner](https://open.spotify.com/track/1OwPxTeIwz4wxdvDSnysgm) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 4:18 |
 | 480 | [Strawberry \(Probably\)](https://open.spotify.com/track/0QZ10VC3xe0IsUcWBejgtF) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Disposable Everything](https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc) | 3:57 |
 | 481 | [Stanley Kubrick](https://open.spotify.com/track/7rzhQEtfMy3Xinzs0aLnaQ) | [Angry Blackmen](https://open.spotify.com/artist/5wgdXBYakv0C8v0b6hxnpC) | [The Legend of ABM](https://open.spotify.com/album/5KwBvabWfSo1rHbFldITCS) | 2:32 |
+| 482 | [Rodeo World Champion](https://open.spotify.com/track/38qRLcv80LRCvuYNaNUeJX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 0:57 |
 
-Snapshot ID: `MTQ3NixlNjk4ZTE0ZGNkOGZjYzlmY2I5ZjkxODAyYjQ0NWEzNjZjN2M1M2Iw`
+Snapshot ID: `MTQ3Nyw2Y2NjNDE3NzU3ZWRkNjQxZTYxNGUzZGZiOTNlMmNkNmMwNTIyNTA3`

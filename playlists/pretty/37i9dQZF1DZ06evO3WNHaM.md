@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,437 likes - 52 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,595 likes - 52 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 33 | [Lhabia](https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:11 |
 | 34 | [Ohms](https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:10 |
 | 35 | [Phantom Bride](https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 4:53 |
-| 36 | [Mein](https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:58 |
+| 36 | [Feiticeira](https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:09 |
 | 37 | [Lotion](https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:57 |
-| 38 | [Feiticeira](https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:09 |
+| 38 | [Mein](https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:58 |
 | 39 | [Root](https://open.spotify.com/track/2jkZB94i573H134wKmsw2y) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:40 |
 | 40 | [Leathers](https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 4:08 |
 | 41 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 51 | [Radiant City](https://open.spotify.com/track/33Mdiqg5G8TNeaKQHntgyU) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:35 |
 | 52 | [Deathblow](https://open.spotify.com/track/09QuitJuAP87RoBSpiCXPs) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 5:28 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBkNWYxZDdiYTFhMzBiNjY4MDE3NDQzYTY2ZjkxZWIyZg==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDAyZGU0MGI4MDUxMmU4OTcxZDhmNzVkMjFhMWVkODUxZA==`

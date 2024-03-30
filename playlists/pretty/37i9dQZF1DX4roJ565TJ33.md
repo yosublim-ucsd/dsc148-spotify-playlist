@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,086 likes - 156 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,088 likes - 156 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 14 | [Måste inte](https://open.spotify.com/track/534jGZVFl1BZ3fSL2Vvs4O) | [Liselotte Boustedt](https://open.spotify.com/artist/2j85nUcVoaN1OBEGpRtyZt) | [GRÖN TRÅD](https://open.spotify.com/album/5CD60z4soxLQmorJPeXFHQ) | 2:50 |
 | 15 | [Protos Syrtos](https://open.spotify.com/track/200su0pAvjRTin1tkNRxla) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Jonas Ostholm](https://open.spotify.com/artist/4KVXqnzyphnoI3Ds5zS6AO), [Martin Höper](https://open.spotify.com/artist/1in1rh9jX09HI8VSThaIeg), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Protos Syrtos](https://open.spotify.com/album/59MSi5TrTULGiaYFX5R08e) | 7:31 |
 | 16 | [Julians vals](https://open.spotify.com/track/6rbdsIILzJpsPv8cZDbpkg) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Julians vals / Signes psalm](https://open.spotify.com/album/0xcdkqLctNQ9JL4bIHlqx8) | 3:39 |
-| 17 | [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 |
+| 17 | [Hands Off](https://open.spotify.com/track/0g1JDkIaDX3xGAEdZ63XTe) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stealing Moments](https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt) | 4:23 |
 | 18 | [Västertorps Hjärta](https://open.spotify.com/track/3ROvgS56VoCFcafLOFO6GZ) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Light Wood, Dark Strings](https://open.spotify.com/album/2JSTNVXcog7ywG3iG3xIiG) | 5:58 |
 | 19 | [Someday My Prince Will Come](https://open.spotify.com/track/7aca2yqdCObxfeIo9mZowU) | [Sara Aldén](https://open.spotify.com/artist/0o6Us7eXQeb43ShOAYLRpN), [Daniel Andersson](https://open.spotify.com/artist/2OnJYr3MfWsrF963xvPhyF), [August Björn](https://open.spotify.com/artist/6sUCF9k9erkUjpUaLbJtw8) | [Someday My Prince Will Come](https://open.spotify.com/album/2Zh3u7Mh7NqlgSCr0qioT7) | 4:31 |
 | 20 | [Ledsen](https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ) | [John Nilsson](https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr) | [Ledsen](https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ) | 5:30 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 155 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 156 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MCwyZTExYTQwZTJjODUwZGVjMGQ3ZmI1MWI5ZGZjMjJjYzUyNGYzZTMw`
+Snapshot ID: `MCwxOGJkMGNlYWE0ZjhlZDcxMDIyNWZmYWQxNzIzYTVlZDYzMzcwZjI4`

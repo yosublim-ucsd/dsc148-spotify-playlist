@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,213 likes - 156 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,368 likes - 156 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 155 | [528 Hz \- Ethereal Sleep](https://open.spotify.com/track/3vtYExoYCVfURG0v770Lwc) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep \- Solfeggio](https://open.spotify.com/album/2lvIKEO0zvEuaV0tA9hcCj) | 2:02 |
 | 156 | [528 Hz Clarity Vibrations](https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Clarity Vibrations](https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC) | 2:12 |
 
-Snapshot ID: `MCxmNDBhYmNjMGVmZTI1NDVjNDIxN2UzYWE0OGRkMTc2OTJmOGM0MzU3`
+Snapshot ID: `MCwxZDc4MWFmODFmMzc5NjEzYWRhZGMxZDJjNWI0MzA4NzMzZDRlMWU1`

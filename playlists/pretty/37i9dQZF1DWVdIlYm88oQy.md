@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,838 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,873 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 18 | [Samba Pa Ti](https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:44 |
 | 19 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
 | 20 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
-| 21 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
+| 21 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
 | 22 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
-| 23 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
+| 23 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 24 | [Y Te Vas](https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Para vosotros canto](https://open.spotify.com/album/76BfWcR9EHcvRJaxKA4V4t) | 4:39 |
 | 25 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 |
 | 26 | [Plástico](https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 6:41 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 69 | [Busamba](https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:54 |
 | 70 | [Voy a Perder la Cabeza por Tu Amor](https://open.spotify.com/track/6aOHV5MoVmS5UeHEhXIXtT) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Serie de Autores \- Vol\. II, Manuel Alejandro](https://open.spotify.com/album/4pRW2FxKY2Ir5sNqSPwh5g) | 5:19 |
 | 71 | [La de la Mochila Azul \- Tema Remasterizado](https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [La Gran Coleccion Del 60 Aniversario CBS \- Pedro Fernandez](https://open.spotify.com/album/352knvMHml1CF221Etuqnw) | 2:47 |
-| 72 | [Stay Out Of My Life](https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:56 |
+| 72 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/4lNIfnscCanglCCUuVVUan) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [La Discoteca del Siglo \- Historia de la Cumbia en el Siglo Xx, Vol\. 3](https://open.spotify.com/album/0QIW02TgQwYnJtQ4JW0J6Z) | 2:37 |
 | 73 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 3:26 |
-| 74 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/4lNIfnscCanglCCUuVVUan) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [La Discoteca del Siglo \- Historia de la Cumbia en el Siglo Xx, Vol\. 3](https://open.spotify.com/album/0QIW02TgQwYnJtQ4JW0J6Z) | 2:37 |
+| 74 | [Stay Out Of My Life](https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:56 |
 | 75 | [Libre](https://open.spotify.com/track/2zC0ObgALavrI8pg23ggPR) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Lo Mejor De...](https://open.spotify.com/album/3UJiui06mKfzd3ERnIrcCA) | 4:11 |
 | 76 | [La Murga](https://open.spotify.com/track/0ERampYomIgYBMJlX3rKXY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 5:34 |
 | 77 | [No Mercedes](https://open.spotify.com/track/6c8xw7vfxc0gDz3OFU2qxC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:18 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Iremos de la Mano](https://open.spotify.com/track/11eMjGWRKv0ZuUTCk42sEU) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 3:25 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:03 |
 
-Snapshot ID: `MCw5NWE1OWJmNDA0OTcyNmViMWI1MDM1MWI1ZWU2OGVmZTU3ZjgyMGQ5`
+Snapshot ID: `MCw3ZjFkZWJhMDM5YWIyZWM3MmI2OTNlOWViMTE2MjhkYzM4NmRhYzkz`

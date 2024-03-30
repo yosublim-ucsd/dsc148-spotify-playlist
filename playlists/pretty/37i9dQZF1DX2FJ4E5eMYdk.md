@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,789 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,824 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 29 | [Tell Me](https://open.spotify.com/track/581KISzBIATjlONj5MbPQe) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf) | 3:51 |
 | 30 | [The Last Dance](https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb) | 3:24 |
 | 31 | [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 |
-| 32 | [Infinite Surprise](https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 5:43 |
-| 33 | [Motions \- Far Out Version](https://open.spotify.com/track/3An6qpudDbeAHGDyFUVrUB) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Liz Cooper & the Stampede \| Audiotree Far Out](https://open.spotify.com/album/1EjCdmwjYApHKhSRmaXSpR) | 5:31 |
+| 32 | [Motions \- Far Out Version](https://open.spotify.com/track/3An6qpudDbeAHGDyFUVrUB) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Liz Cooper & the Stampede \| Audiotree Far Out](https://open.spotify.com/album/1EjCdmwjYApHKhSRmaXSpR) | 5:31 |
+| 33 | [Infinite Surprise](https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 5:43 |
 | 34 | [Listening In](https://open.spotify.com/track/46D2L5WkfinP6scJ7sLX3Z) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 4:55 |
 | 35 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
 | 36 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 47 | [Island Time](https://open.spotify.com/track/64ITiMSrRWmyU5WDQCG6Rm) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Jamtown](https://open.spotify.com/album/4AT0jvWKpqejzojMxPHZvL) | 3:55 |
 | 48 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
 | 49 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
-| 50 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
-| 51 | [Nighthawks](https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 3:23 |
+| 50 | [Nighthawks](https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 3:23 |
+| 51 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
 | 52 | [Sing a Glad Song](https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Oh My God](https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU) | 4:22 |
 | 53 | [Kingfisher](https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Ruins](https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu) | 6:58 |
 | 54 | [Cecil Taylor](https://open.spotify.com/track/1GCDmw5OI2g1k6CrcVn8wl) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Fanfare](https://open.spotify.com/album/5yZL2ILFTbQFb64nD7zXO1) | 6:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Far out Feeling](https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:38 |
 | 60 | [That's Why](https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [Banshee](https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt) | 4:13 |
 
-Snapshot ID: `MCw4NTgzOWRkNzdlM2MwNTUwNzYxOTQ2ZjEyZTc1OTQxNDMzMTdiNjg2`
+Snapshot ID: `MCxjNTMzYzgzOTg4NjIwNjk1OTI2NGFkMGZlZDQ1YjIyZjNlYjExMjRk`

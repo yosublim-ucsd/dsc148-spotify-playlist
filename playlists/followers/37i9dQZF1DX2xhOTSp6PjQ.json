@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 76287,
+  "2024-03-30": 76695,
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3?si=Phty0laJRtuz8V8VCRbxvg\">Mzukulu</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=q6P6fyMqR3mluO5n9Q8CVg\">Big Zulu</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -157,7 +157,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 282380,
       "name": "Ama-push ups",
       "url": "https://open.spotify.com/track/4UU4qUfkfRd4IXszXX2Z1K"
@@ -973,6 +973,28 @@
       "duration_ms": 312685,
       "name": "Ijuba",
       "url": "https://open.spotify.com/track/5jsO87ShnH2lEXhIfjMAUj"
+    },
+    {
+      "album": {
+        "name": "Ngises'Congweni",
+        "url": "https://open.spotify.com/album/4gS9ymNhuDkgtY5yofRJ7V"
+      },
+      "artists": [
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "Ugatsheni",
+          "url": "https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266519,
+      "name": "iKhaya Lakithi",
+      "url": "https://open.spotify.com/track/3LN2byEuqn8MnltdLeIQcA"
     },
     {
       "album": {
@@ -2043,7 +2065,7 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 360853,
       "name": "Ngafa",
       "url": "https://open.spotify.com/track/4OntDavbpxbLk80nXlw7WR"
@@ -2969,7 +2991,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 201743,
       "name": "Ujola Wedwa",
       "url": "https://open.spotify.com/track/4ap6aES5uDnSV0LZUHHKUC"
@@ -3107,7 +3129,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 230000,
       "name": "Umbayimbayi",
       "url": "https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO"

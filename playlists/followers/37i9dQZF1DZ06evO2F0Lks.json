@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 141505,
+  "2024-03-30": 141541,
   "date_first_scraped": "2022-09-09",
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
   "name": "This Is Carrie Underwood",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 201800,
       "name": "Give Her That",
       "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 66093,
       "name": "Jesus Loves Me - instrumental",
       "url": "https://open.spotify.com/track/2HFuzPcb8cCYE2qEuT2dHu"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 241053,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 210040,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/436rdO5fgKVH3HhjA0VyFQ"

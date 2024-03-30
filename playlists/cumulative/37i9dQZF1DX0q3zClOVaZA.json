@@ -1259,6 +1259,28 @@
     },
     {
       "album": {
+        "name": "Sweet Venom (Seeb Remix)",
+        "url": "https://open.spotify.com/album/1VpLHUZOodpgXh69HNu4nC"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171829,
+      "name": "Sweet Venom (Seeb Remix)",
+      "url": "https://open.spotify.com/track/1wfNuhQNBGkisaCknJPbfr"
+    },
+    {
+      "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },

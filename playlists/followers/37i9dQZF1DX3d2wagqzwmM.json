@@ -1,9 +1,35 @@
 {
-  "2024-03-29": 499550,
+  "2024-03-30": 499916,
   "date_first_scraped": "2022-04-20",
   "description": "Big rooms and big sounds. Cover: Maddix",
   "name": "Big Room Dance",
   "tracks": [
+    {
+      "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/6gmvmAQvthM3tyXqOaOyFX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221754,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1DaiV2h1XWvqpyxJ25Q6Cs"
+    },
     {
       "album": {
         "name": "Forget",
@@ -2721,7 +2747,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 223548,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6gk0Zohmm4H6wjpzNZNk4X"
@@ -3847,6 +3873,24 @@
       "duration_ms": 268800,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+    },
+    {
+      "album": {
+        "name": "Jump Up",
+        "url": "https://open.spotify.com/album/7MYJPKIMcn331wbHRjUYhl"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155238,
+      "name": "Jump Up",
+      "url": "https://open.spotify.com/track/573dAl0k0byOJYXrqGbESd"
     },
     {
       "album": {
@@ -5862,6 +5906,28 @@
     },
     {
       "album": {
+        "name": "Pull Me In",
+        "url": "https://open.spotify.com/album/0HpxpO57kgacGm4dSkBdjP"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147397,
+      "name": "Pull Me In",
+      "url": "https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX"
+    },
+    {
+      "album": {
         "name": "Pump It Up",
         "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
       },
@@ -7229,7 +7295,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 164062,
       "name": "Sound Of The Underground",
       "url": "https://open.spotify.com/track/5ydM92jw4MF8qt5Hzwi4wX"
@@ -7829,7 +7895,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 166191,
       "name": "The Beach - AFROJACK Edit",
       "url": "https://open.spotify.com/track/73DHxu38MmCnyelusfdugf"

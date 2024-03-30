@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,423 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,433 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [All Glory Be to Christ](https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Joy Has Dawned](https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8) | 4:06 |
 | 100 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
 
-Snapshot ID: `MCw3M2JmMjQxZWM3NmU5ZDQwODEwYWUxNzg5YTQ4YjZmODU0OGY4MWI1`
+Snapshot ID: `MCxjZDNiZDlhYjc4NzZjMjBkZDk2MjVmYTZjZGEzYzVlYzcyMDNhODVh`

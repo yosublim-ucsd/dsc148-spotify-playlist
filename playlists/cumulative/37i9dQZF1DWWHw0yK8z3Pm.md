@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Kacey Musgraves
 
-421 songs - 1 day 1 hr 49 min
+423 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All the Good](https://open.spotify.com/track/6XvDPlg2hT9Hg3Z0UUDjr9) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [All the Good](https://open.spotify.com/album/4liE72IwgpudcDG1ob7Adq) | 3:39 | 2022-06-10 | 2023-04-22 |
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-05-13 | 2022-07-23 |
 | [Always Saw Coming](https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Always Saw Coming](https://open.spotify.com/album/6Wu31vZfPvx9L4hBwtJm3b) | 3:03 | 2022-05-20 | 2022-07-30 |
+| [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 | 2024-03-29 |  |
 | [American Me](https://open.spotify.com/track/3fpiUjp4x55znD0i8Nfxv8) | [Joey Stylez](https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE) | [American Me](https://open.spotify.com/album/575myLnpElthZpP8fsRTCF) | 3:14 | 2022-05-13 | 2023-04-22 |
 | [Another Day Down](https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Another Day Down](https://open.spotify.com/album/253qdf33LlE8VpEnmg0KO8) | 3:37 | 2022-05-13 | 2022-10-01 |
 | [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2024-02-09 |  |
@@ -99,7 +100,8 @@
 | [Constellations](https://open.spotify.com/track/0hhRZjuboEqeXWX4f6Wg4c) | [Meredith Moon](https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f) | [Constellations](https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY) | 4:17 | 2023-01-20 | 2023-05-02 |
 | [Contentement](https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Contentement](https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M) | 3:25 | 2022-09-09 | 2023-04-22 |
 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 | 2023-06-02 | 2023-11-18 |
-| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2022-11-11 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 | 2024-03-29 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2022-11-11 | 2024-03-30 |
 | [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 | 2022-09-23 | 2022-10-26 |
 | [Cowboy Gangster Politician](https://open.spotify.com/track/7lX3csi0tMtyj1n3gtx9x7) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 3:52 | 2022-10-21 | 2022-11-18 |
 | [Coyote](https://open.spotify.com/track/4XvkVnSQOyLFgE4iu9w62g) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/3rZWy0ccyoMV2uUyNnXW9k) | 4:16 | 2024-01-26 | 2024-02-24 |
@@ -189,7 +191,7 @@
 | [How Do You Love with a Broken Heart?](https://open.spotify.com/track/5VFIPHbkvSyVp2kANgpSVg) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Dystopian Weekends](https://open.spotify.com/album/6nA8bcaAUOF4iTEtIPWjk2) | 3:48 | 2022-05-13 | 2022-08-27 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 |  |
 | [I Want My Soul Back](https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Midnight Blues](https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK) | 3:35 | 2022-09-30 | 2023-08-05 |
-| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-07-22 |  |
+| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-07-22 | 2024-03-30 |
 | [I Would Be Me](https://open.spotify.com/track/1DiFDYIFjcdZozxQZVC6wS) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light of Day](https://open.spotify.com/album/4lH9QMOxTQq32l8L3sd1VC) | 3:27 | 2023-01-27 | 2023-03-11 |
 | [I Would Be Me](https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light Of Day](https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU) | 3:27 | 2022-05-13 | 2023-02-01 |
 | [I'm Just a Clown](https://open.spotify.com/track/6jmnCjWfoX3n6lcLOI7L6Z) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 4:13 | 2023-04-21 |  |

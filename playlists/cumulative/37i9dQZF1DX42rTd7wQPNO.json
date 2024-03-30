@@ -2493,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "Where Have All the Cowboys Gone?",
+        "url": "https://open.spotify.com/album/3Z66m2hG4g3xC8P7P4X8lm"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212928,
+      "name": "Where Have All the Cowboys Gone?",
+      "url": "https://open.spotify.com/track/6grQdeuCRXcxVGRvQ0oYhE"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },

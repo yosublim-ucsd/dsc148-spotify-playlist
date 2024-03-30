@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-492 songs - 1 day 1 hr 52 min
+493 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Catharsis](https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL) | [Approaching Nirvana](https://open.spotify.com/artist/3sS2Q1UZuUXL7TZSbQumDI) | [Catharsis](https://open.spotify.com/album/0ymUAvf82F01N86FAksVzT) | 4:25 | 2022-05-06 | 2022-07-28 |
 | [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 | 2023-06-09 | 2023-07-19 |
 | [Changes](https://open.spotify.com/track/0uv3BtICvv2Y4CWS3vIV28) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Changes](https://open.spotify.com/album/55WbJrK5dCg3wRGo21JxRE) | 4:22 | 2023-08-01 | 2023-08-21 |
+| [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 | 2024-03-29 |  |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/1O8aHcA2gPhwDIJovDetN8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Chills \(LA Hills\)](https://open.spotify.com/album/0redIUGhpUdCdlx3q7OLQK) | 3:03 | 2023-05-05 | 2023-07-19 |
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-06-22 | 2022-07-27 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-05-06 |  |
@@ -364,7 +365,7 @@
 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 | 2022-05-06 | 2023-03-25 |
 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 | 2023-07-18 |  |
 | [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 | 2023-07-18 |  |
-| [Seaside \- RED VERSION](https://open.spotify.com/track/4ZPHBFQAvJX6IKsknurJDW) | [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV), [CHOMPO](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT) | [Seaside](https://open.spotify.com/album/4snpvUaV7H6wESb4Wcp7qc) | 3:19 | 2024-01-30 |  |
+| [Seaside \- RED VERSION](https://open.spotify.com/track/4ZPHBFQAvJX6IKsknurJDW) | [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV), [CHOMPO](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT) | [Seaside](https://open.spotify.com/album/4snpvUaV7H6wESb4Wcp7qc) | 3:19 | 2024-01-30 | 2024-03-30 |
 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 | 2022-05-06 | 2022-07-29 |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-07-18 | 2024-03-15 |
 | [Sequência da Dz7](https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ) | 1:59 | 2024-02-21 |  |

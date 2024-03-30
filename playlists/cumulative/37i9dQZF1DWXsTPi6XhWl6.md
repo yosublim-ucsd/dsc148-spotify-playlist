@@ -4,7 +4,7 @@
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-148 songs - 10 hr 3 min
+149 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Gone for Good \- 2023 Remaster](https://open.spotify.com/track/1tJEdsmqcWGSRDM9uU4a67) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow \(20th Anniversary Remaster\)](https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB) | 3:12 | 2022-06-17 |  |
 | [Guttersnipe](https://open.spotify.com/track/0zhd73eS96OGIXtNkq9Xml) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Bhiman](https://open.spotify.com/album/4Eb2sj86qV0brdzmqkD56s) | 6:52 | 2022-06-17 |  |
 | [Guttersnipe](https://open.spotify.com/track/6GALUsGgE0iQH6pI3TwfTJ) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Bhiman](https://open.spotify.com/album/6w7jdudQFBX1OD732FaD85) | 6:52 | 2022-03-08 | 2022-07-27 |
-| [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 | 2022-06-17 |  |
+| [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 | 2022-06-17 | 2024-03-30 |
+| [Hey Julia](https://open.spotify.com/track/7DCYDSGbWgYEMNtXYAAroM) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/4pLagd0VHyYyVc1daB8ELM) | 1:59 | 2024-03-28 |  |
 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2022-06-17 | 2022-12-12 |
 | [Hold On](https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj) | 3:46 | 2020-01-14 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 | 2022-06-17 |  |

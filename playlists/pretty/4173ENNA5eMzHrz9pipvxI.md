@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Tiësto x MOGUAI
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,870 likes - 11 songs - 31 min 34 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,873 likes - 11 songs - 30 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 7 | [Thunder](https://open.spotify.com/track/2FsD1dqjv9BStN5TuXZey9) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Thunder](https://open.spotify.com/album/0i4vUlWLNDW0UeDaGDZG2z) | 2:37 |
 | 8 | [Stumblin' In \(LUNAX Remix\)](https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Stumblin' In \(LUNAX Remix\)](https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6) | 3:00 |
 | 9 | [On My Way](https://open.spotify.com/track/6EeSthQrh1PNlvfKa96CFn) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [On My Way](https://open.spotify.com/album/1hzZNvIglZdzKuelS9jkD7) | 2:18 |
-| 10 | [GANGSTERS](https://open.spotify.com/track/7vlqXYFJ3RVRNQazTfdrb9) | [Emmett Zetto](https://open.spotify.com/artist/78r2aT2PaclPLTyNb3rel7), [Talentless](https://open.spotify.com/artist/5vjPH4JK9haGzLIa4C7snZ) | [GANGSTERS](https://open.spotify.com/album/3pVx5PG5rYsF3svebTGsHk) | 3:07 |
+| 10 | [GANGSTERS](https://open.spotify.com/track/76sB1t6rkdYj1pSWHqQz8a) | [Emmett Zetto](https://open.spotify.com/artist/78r2aT2PaclPLTyNb3rel7), [Talentless](https://open.spotify.com/artist/5vjPH4JK9haGzLIa4C7snZ), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [GANGSTERS](https://open.spotify.com/album/1Y4XQ4bzDt9PSOx6RRR2p0) | 2:31 |
 | 11 | [Levitate](https://open.spotify.com/track/0DRfZdDafppIQVInkcF6pe) | [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Levitate](https://open.spotify.com/album/6eU8XaVNflnPUckx3v3HIu) | 2:38 |
 
-Snapshot ID: `NzQ3MyxlZGJlNDUwYTdjOTY5MTA4MmRjNTkzMDdiYWUzYmFmOGI0YmQzYWU5`
+Snapshot ID: `NzQ3NSxiZTBiYjkwNWI1YWFlMzFmZWI4ZGU2OGMwNGQxYzJhZjczMDQxNTFi`

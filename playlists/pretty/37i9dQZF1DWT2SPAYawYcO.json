@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Beyonce",
-  "num_followers": 372322,
+  "num_followers": 372424,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGNlZWQ5NjMwNDM4MjdmNjI4MGQ1NmUzYTYxZTFlYTE0YjAzN2I3",
+  "snapshot_id": "MCxiZDY0MWI2MDZiOGM3MDIzNGNhYmEwZWYzMDExYTEyMjQ5YWJmZGFm",
   "tracks": [
     {
       "added_at": "2024-03-28 13:00:00",
@@ -227,6 +227,26 @@
       "duration_ms": 116427,
       "name": "Hussle",
       "url": "https://open.spotify.com/track/7ymS4PqJjHvVSKYvqcNNz6"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -505,7 +525,7 @@
         }
       ],
       "duration_ms": 248975,
-      "name": "Make Friends - Edit",
+      "name": "Make Friends - Pocket Size Radio Edit",
       "url": "https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic"
     },
     {
@@ -720,7 +740,7 @@
       "added_at": "2024-03-28 13:00:00",
       "album": {
         "name": "Follow the Sound of My Voice",
-        "url": "https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM"
+        "url": "https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu"
       },
       "artists": [
         {
@@ -730,12 +750,12 @@
       ],
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
-      "url": "https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa"
+      "url": "https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv"
     },
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Where You At These Days",
+        "name": "Where You At These Days?",
         "url": "https://open.spotify.com/album/0k4HBFskBFl4l2OZMNmXGv"
       },
       "artists": [
@@ -749,7 +769,7 @@
         }
       ],
       "duration_ms": 220799,
-      "name": "Where You At These Days",
+      "name": "Where You At These Days?",
       "url": "https://open.spotify.com/track/3blt8WKj0x4dJ5sgc7y1nK"
     },
     {
@@ -823,7 +843,7 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "DENiM",
+        "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
       "artists": [
@@ -837,7 +857,7 @@
         }
       ],
       "duration_ms": 177043,
-      "name": "DENiM",
+      "name": "DENiM (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     },
     {
@@ -1056,7 +1076,7 @@
       "added_at": "2024-03-28 13:00:00",
       "album": {
         "name": "Higher Ground (feat. Roosevelt)",
-        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+        "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
       },
       "artists": [
         {
@@ -1068,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 273293,
+      "duration_ms": 273275,
       "name": "Higher Ground (feat. Roosevelt)",
-      "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"
+      "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
     },
     {
       "added_at": "2024-03-28 13:00:00",

@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-502 songs - 1 day 6 hr 5 min
+503 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 | 2021-10-20 | 2022-04-21 |
 | [Espinas](https://open.spotify.com/track/5UbXtPeRaCWGhA3KiZ3OMC) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Espinas](https://open.spotify.com/album/2DbUtUuR9pAuyARLiBBKTG) | 3:14 | 2021-10-20 | 2022-07-22 |
 | [Espiritual](https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Espiritual](https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP) | 3:51 | 2021-10-20 | 2024-03-19 |
-| [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-09-26 |  |
+| [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-09-26 | 2024-03-30 |
 | [Estamos Bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estamos Bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 | 2022-11-25 | 2023-01-29 |
 | [Esto Es Real \(8100mg\)](https://open.spotify.com/track/7vCYM3eDr2ZDpYOie5oVDI) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Esto Es Real \(8100mg\)](https://open.spotify.com/album/15dVE1XgRGM4XRy2F3KPJK) | 4:58 | 2021-10-20 | 2022-04-15 |
 | [Estos Días](https://open.spotify.com/track/1sU1f9ivTcNvxSDyygim3G) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Estos Días](https://open.spotify.com/album/56HAfUfBAVGaPSwfaH0QJX) | 3:31 | 2021-10-22 | 2022-07-22 |
@@ -236,6 +236,7 @@
 | [Hoy Es Mañana](https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 3:32 | 2021-10-20 | 2022-10-01 |
 | [Humedad](https://open.spotify.com/track/4FG5aqW3ii8uwi6ghYkhUQ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:17 | 2022-04-05 | 2022-07-03 |
 | [Háblame de ti](https://open.spotify.com/track/7jMJtjXQgeC81Z2hZe267P) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Háblame de ti](https://open.spotify.com/album/1Q8yrmkBNEMLQ7d8OgHOp2) | 2:37 | 2021-10-20 | 2022-07-28 |
+| [I'll Play the Fool](https://open.spotify.com/track/44jrccmdmEEaAMgvWMiNN5) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 2:48 | 2021-10-20 |  |
 | [I'll Play The Fool](https://open.spotify.com/track/4KgCkReDfRd1WAFTqFgL98) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [I'll Play The Fool](https://open.spotify.com/album/6zIEyjtc15ivJQWZ0gTCVd) | 2:48 | 2021-10-20 | 2022-04-19 |
 | [Identidad \(feat\. Ibeyi\)](https://open.spotify.com/track/5uDvSztILYXh5GF7Ku5gag) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 4:27 | 2021-10-20 | 2022-05-07 |
 | [Isla del Ritmo](https://open.spotify.com/track/5YAQFjWdqU0Rjm0SbnY8wf) | [Ritmo Machine](https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw) | [Isla del Ritmo](https://open.spotify.com/album/00hZw0zggoguww2I6rb1FH) | 3:16 | 2023-03-23 | 2023-05-18 |

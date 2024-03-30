@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 10 | [The Band And I](https://open.spotify.com/track/4gEYooYobqQWokcdP4aKPr) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:55 |
 | 11 | [Therapy](https://open.spotify.com/track/7s9gcI3vON7hpTzQO2PEun) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:57 |
 | 12 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
-| 13 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
-| 14 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 |
+| 13 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 |
+| 14 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
 | 15 | [Both Of Us](https://open.spotify.com/track/2Mtj4On4ARe1gnJER2g57a) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:46 |
 | 16 | [Stormy Skies \(Diamonds\)](https://open.spotify.com/track/2PqUSyjbjVugUa9Duifn69) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Stormy Skies \(Diamonds\)](https://open.spotify.com/album/54Tp5WzymT6Nwh6Qd7gmZ2) | 3:33 |
 | 17 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 23 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
 | 24 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
 
-Snapshot ID: `Mjg1Mjc5NjAsMDAwMDAwMDAyZTk2YzMxZTVhYjVkMWNjNThiY2FlYTQ1YWQxOGMzOA==`
+Snapshot ID: `Mjg1Mjk0MDAsMDAwMDAwMDAyMTZiMTk3YTllZWM1ODQ4NTIzNmRjMDhiNzc2NGI3Ng==`

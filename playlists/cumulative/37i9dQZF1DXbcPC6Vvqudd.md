@@ -4,7 +4,7 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-455 songs - 20 hr 20 min
+456 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [rumbling rainfall](https://open.spotify.com/track/7kGo20hUUfzQMoStsAMGkk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [rumbling rainfall](https://open.spotify.com/album/1HuVYjvk3XcTIUsG5h0ufs) | 2:34 | 2022-07-19 | 2022-11-13 |
 | [Rumbling Sky](https://open.spotify.com/track/3WvMRwe0VySgRljtVvBtWY) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Rumbling Sky](https://open.spotify.com/album/1OHgb6ZIhjzLTO9j6FvBux) | 2:27 | 2021-11-08 |  |
 | [Rural Rain](https://open.spotify.com/track/5rqQCxXIbe5YwIdbV0rSUJ) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 1:58 | 2021-11-08 | 2023-06-16 |
+| [Rustling Rain](https://open.spotify.com/track/2Z0HeCU5MfKFgxqXmC4RkR) | [R 4 Rain](https://open.spotify.com/artist/78RCzQmpEq3y4F1bfZvtHr) | [Rainy Day Melodies](https://open.spotify.com/album/26tgedzPxkJyCdylqG0PZy) | 2:32 | 2024-03-21 |  |
 | [Sad Rain](https://open.spotify.com/track/0ENU1F5dgszVfAYobh464Y) | [Rain On Earth](https://open.spotify.com/artist/5OFrjMU1tJ0XGwLrR92giV) | [City Rain](https://open.spotify.com/album/7dwuG2r6iqsllTza6El9Hj) | 2:12 | 2024-03-21 |  |
 | [Safe Rain](https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt) | [AEON](https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk) | [Empty Rain](https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y) | 2:04 | 2021-11-08 |  |
 | [Santa Rosa](https://open.spotify.com/track/4WUknVj32CkjuRtNelRm8l) | [Brisa Matinal](https://open.spotify.com/artist/1DXZ1YHbVYMnaiBKoqiBqd) | [Santa Rosa](https://open.spotify.com/album/6JFU8X93Atd9FCMO2Sy0yW) | 2:47 | 2023-02-13 |  |
@@ -344,7 +345,7 @@
 | [Seaside Harbor \- Rain](https://open.spotify.com/track/40Sbi8GwdiszUczHmym3fG) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Drizzling Days](https://open.spotify.com/album/5d0ac3jdhP8PGJehBqpHbQ) | 2:40 | 2022-02-18 |  |
 | [Shelter From Rain And Thunder](https://open.spotify.com/track/6hjH2icOU51DUn09Luv3u5) | [The Relaxation Hub](https://open.spotify.com/artist/6J2XOkGyDdC603Fmf44J5e) | [The Relaxation Hub](https://open.spotify.com/album/4yf6oR4OwkGuk0rlOGIwco) | 3:50 | 2021-11-08 | 2023-02-14 |
 | [Shibuya Intense Rain](https://open.spotify.com/track/67nOtJ94CRz6CpUxRPYEFH) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [Shinjuku Night Showers](https://open.spotify.com/album/506N61I0wuYHbHUiAJ3lCu) | 2:54 | 2024-03-21 |  |
-| [Sizzling Light Rain](https://open.spotify.com/track/1mRx1szA3v8VA8JOfQrCyZ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [Sizzling Light Rain](https://open.spotify.com/album/7h38GTSwmMahkfpUXiw3IH) | 3:14 | 2024-03-21 |  |
+| [Sizzling Light Rain](https://open.spotify.com/track/1mRx1szA3v8VA8JOfQrCyZ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [Sizzling Light Rain](https://open.spotify.com/album/7h38GTSwmMahkfpUXiw3IH) | 3:14 | 2024-03-21 | 2024-03-30 |
 | [Sky Is Rumbling](https://open.spotify.com/track/3rxnLHNAstvd01Yw7rTdkX) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Sky Is Rumbling](https://open.spotify.com/album/5FEIvtKpEOGZIFFbfbiitA) | 3:36 | 2021-11-08 |  |
 | [Skyfall And Thunder](https://open.spotify.com/track/78Oreervde9fgGSIbr6ZOq) | [Clam Pass](https://open.spotify.com/artist/5tiC8V84vAB6FIDwSkGCF6) | [Thunderstorms](https://open.spotify.com/album/5eGD83pjy0yp4ekJ6q5UNw) | 2:18 | 2021-11-08 | 2024-03-22 |
 | [Sleep in the rain](https://open.spotify.com/track/1bsxsOKLVuh2jCUdrm6X3r) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Rain Dance](https://open.spotify.com/album/6C14sZG9ez20gtlv3hc5P3) | 3:32 | 2021-11-08 |  |

@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Chita.
 
-687 songs - 1 day 13 hr 14 min
+688 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-20 | 2023-07-22 |
 | [Mercy](https://open.spotify.com/track/0PPPGxrAwxqiwPVV01TquS) | [June Jissle](https://open.spotify.com/artist/6mM6fIONY6SX76YutA1ue7), [Heyssis](https://open.spotify.com/artist/7olZ1BADnsM8bWzMEL1uQ1) | [888](https://open.spotify.com/album/0hCvcso6vh9KuWSRivWxyf) | 2:00 | 2021-12-02 | 2022-01-25 |
 | [Merengue Pa' Cintura](https://open.spotify.com/track/2uKEXlmNA5udK76QrH5tSe) | [Joel Martínez](https://open.spotify.com/artist/2uBYMzBnnY93Re3yRpJKdq) | [Mirando De Lejos](https://open.spotify.com/album/6KrJSUAjmGrrW4IFW1WOfz) | 5:54 | 2023-09-29 | 2023-10-14 |
-| [Metamorphosis \(with Ambar Lucid\)](https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Observation I: Metamorphosis](https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr) | 3:08 | 2024-02-23 |  |
+| [Metamorphosis \(with Ambar Lucid\)](https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Observation I: Metamorphosis](https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr) | 3:08 | 2024-02-23 | 2024-03-30 |
 | [Meu Amore](https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Meu Amore](https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ) | 3:09 | 2023-11-17 |  |
 | [MI AMOR](https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9) | [Call Me Ace](https://open.spotify.com/artist/4FKGHM8GGbuP6XIAUoNShM), [CHANNA](https://open.spotify.com/artist/0eWYvUXSchDSbrUvvNcPvp), [J\-Dot Music](https://open.spotify.com/artist/5zNLBBmJp8f1OWisLEIqXw) | [RETURN TO OFFICE](https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO) | 3:31 | 2023-02-17 | 2023-03-29 |
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-08-25 | 2024-01-27 |
@@ -689,6 +689,7 @@
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-12-02 | 2022-10-28 |
 | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/track/4ExKTOgyWHR60KXwYprRf0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54) | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/album/6QhFGkdPQHDgUmD5g7dMxJ) | 3:53 | 2023-06-30 | 2023-08-26 |
 | [Zendaya](https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Zendaya](https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x) | 2:18 | 2023-05-05 | 2023-07-22 |
+| [ZENDAYA](https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [ZENDAYA](https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy) | 3:03 | 2024-03-29 |  |
 | [Zuggy](https://open.spotify.com/track/1U5kOeFX28ZtSzKH2xypvP) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:24 | 2022-05-25 | 2022-07-21 |
 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 | 2023-02-17 | 2023-08-26 |
 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 | 2024-02-09 |  |

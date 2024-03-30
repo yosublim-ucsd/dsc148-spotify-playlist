@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Jagwar Twin
+> Feeling dramatic? All eyes on you\. Cover: Issac Dunbar
 
-345 songs - 18 hr 33 min
+347 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-16 | 2023-08-19 |
 | [All of Human Knowledge Made Us Dumb](https://open.spotify.com/track/6XRxmPhfjoa3YEtpq8CWJo) | [Sofia Isella](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [All of Human Knowledge Made Us Dumb](https://open.spotify.com/album/6OQQQqvJwL9IV5EVnKNW4J) | 3:49 | 2023-01-18 | 2023-01-21 |
 | [All The Pretty Girls](https://open.spotify.com/track/2cHGWytemKJuckq2oLnAbZ) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:22 | 2022-05-17 | 2022-08-06 |
+| [American High](https://open.spotify.com/track/0dfBhD0Cp8PvrScwz7DqNa) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [American High](https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV) | 2:58 | 2024-03-29 |  |
 | [Amnesia Was Her Name](https://open.spotify.com/track/0ww8jZZtGU70QvYUFmDbqZ) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 4:03 | 2022-05-17 | 2022-08-06 |
 | [anarchy](https://open.spotify.com/track/7cxcMgTHKSZ25C0q1i50Dk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [anarchy](https://open.spotify.com/album/1DCgCD9gO2Z2t2gDS3Inxi) | 2:47 | 2023-05-26 | 2024-01-27 |
 | [anymore](https://open.spotify.com/track/3jf8u2tg0RXdBfgVwA4zoB) | [Abby Izzy](https://open.spotify.com/artist/5VIF6Dh11VwoMYHmR7KA38) | [anymore](https://open.spotify.com/album/3nRGHSO0Oq5cdrzlzPGQD9) | 2:32 | 2023-01-06 | 2023-01-21 |
@@ -149,7 +150,7 @@
 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 | 2024-02-16 |  |
 | [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-15 | 2023-06-21 |
 | [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 | 2023-06-15 | 2023-09-23 |
-| [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-02-02 |  |
+| [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-02-02 | 2024-03-30 |
 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 | 2023-01-06 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-17 | 2024-01-27 |
 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 | 2022-05-17 |  |
@@ -213,7 +214,7 @@
 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 | 2022-05-17 | 2024-03-27 |
 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 | 2024-01-04 |  |
 | [MESS](https://open.spotify.com/track/21yX9e6vaRE8dfsptqFqKf) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [MESS](https://open.spotify.com/album/3onqYrRIrhwsE9reWrFtlH) | 2:25 | 2023-09-22 | 2023-10-28 |
-| [Michael in the Bathroom](https://open.spotify.com/track/1L3wn1FJHmnv9OpjVbkMzY) | [George Salazar](https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB) | [Be More Chill \(Original Cast Recording\)](https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM) | 4:57 | 2023-05-26 |  |
+| [Michael in the Bathroom](https://open.spotify.com/track/1L3wn1FJHmnv9OpjVbkMzY) | [George Salazar](https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB) | [Be More Chill \(Original Cast Recording\)](https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM) | 4:57 | 2023-05-26 | 2024-03-30 |
 | [Misery Meat](https://open.spotify.com/track/56sNhxLlrFYCbR0JFaK6w0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/1GuNa6xVjgJIPS0VNll8TR) | 1:04 | 2022-05-17 | 2023-09-07 |
 | [Misery Meat](https://open.spotify.com/track/7EZWdBiXeyqE0digwKa3k0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/7MVwT9ho5LaOBu5X4lk4De) | 1:04 | 2023-04-17 |  |
 | [Misery Meat](https://open.spotify.com/track/0ptFSebvif1uowp65XH2RF) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/2Dh32dc0XZcYkprHqY5JGY) | 1:04 | 2023-10-27 | 2024-01-15 |
@@ -259,6 +260,7 @@
 | [reaching](https://open.spotify.com/track/3dQzkQ4fsMV0iCHLB3hfDk) | [Jonny West](https://open.spotify.com/artist/3WZbnaao6ao4diqMVvDJXk) | [reaching](https://open.spotify.com/album/2RZGsosH7OptbzEzYFzmsU) | 2:16 | 2022-07-22 | 2022-12-10 |
 | [RECOVER](https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER](https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1) | 2:41 | 2023-10-20 | 2023-11-16 |
 | [recruitment season](https://open.spotify.com/track/618GzvMV0w1jBFF5A1g4pW) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [recruitment season](https://open.spotify.com/album/4ghTndeiaG0GgSHGP3aabY) | 3:38 | 2023-01-13 | 2023-02-17 |
+| [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-03-29 |  |
 | [Remember You Omnichord](https://open.spotify.com/track/1Q2BQP5bR6G0ZydJItu8mq) | [Trillian](https://open.spotify.com/artist/3f1O89U9qMnCQbqcwmNXNV) | [Remember You Omnichord](https://open.spotify.com/album/53LntpJMcqlaYwyVDmV7xZ) | 2:40 | 2023-12-29 |  |
 | [Riot](https://open.spotify.com/track/2JVYdQafLX5jbr6IlQ1KIx) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Comedy](https://open.spotify.com/album/40B9hxxs81k4rykZo0eF77) | 3:27 | 2023-04-12 | 2024-01-05 |
 | [Roller Coasters Make Me Sad](https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Roller Coasters Make Me Sad](https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1) | 3:11 | 2023-02-24 | 2023-11-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 42 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
 | 43 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `Mjg1Mjc5NTAsMDAwMDAwMDA0NTZlMjEyY2RhMmNhM2YzMTQ0NTExNjM2YTRhNzQ4Yg==`
+Snapshot ID: `Mjg1MjkzOTAsMDAwMDAwMDBmZDI4YjIxZDNkZmVmNTA4NjI0MjJjNmU5ZDViN2I2Mg==`

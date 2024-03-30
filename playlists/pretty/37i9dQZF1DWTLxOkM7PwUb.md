@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,133 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,175 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 78 | [Si No Fue Asi](https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Si No Fue Asi](https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd) | 3:05 |
 | 79 | [Pa Mi](https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Pa Mi](https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K) | 3:48 |
 | 80 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 |
-| 81 | [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 |
-| 82 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
+| 81 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
+| 82 | [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 |
 | 83 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
 | 84 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
 | 85 | [Good Vibes](https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Good Vibes](https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Sola](https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [Chernobyl](https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn) | 2:23 |
 | 100 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
 
-Snapshot ID: `MCxjODkzMzdiMTIwZDUxMWI5NDRlMWMwMmUzNzM1MWM0NzE3ZjJiMTYx`
+Snapshot ID: `MCw1Y2JjMTQzOTdlZGJkZmI3Zjg2YmYwYjM3OTcyMmJlMDQ2MjFkZTMz`

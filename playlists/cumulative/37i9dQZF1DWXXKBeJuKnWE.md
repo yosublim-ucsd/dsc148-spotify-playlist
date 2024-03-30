@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Cassyette
 
-310 songs - 18 hr 43 min
+311 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 | 2023-06-01 |  |
 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 | 2022-11-10 | 2023-07-26 |
 | [Harvest](https://open.spotify.com/track/4mHO98MVqhw7DeZyoNmCYG) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Harvest](https://open.spotify.com/album/0kSnsRmaRxJigfDeO355Gq) | 2:50 | 2023-03-24 | 2023-09-16 |
-| [Hate Me \(feat\. Loveless\)](https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/album/77saHZy6WPP1JjEVPr4e74) | 3:41 | 2023-08-04 |  |
+| [Hate Me](https://open.spotify.com/track/4iAS1uaOYUqLimqOwKMELn) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hard Reset](https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm) | 3:41 | 2024-03-22 |  |
+| [Hate Me \(feat\. Loveless\)](https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/album/77saHZy6WPP1JjEVPr4e74) | 3:41 | 2023-08-04 | 2024-03-30 |
 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 | 2023-03-23 | 2023-04-22 |
 | [Her Wings](https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [The Noble Art Of Self Destruction](https://open.spotify.com/album/3aiw4bCQVAeJXZYJh74zAF) | 2:58 | 2023-08-24 |  |
 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/2mTi7e03FygOF0bds32848) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn) | 3:32 | 2023-02-15 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 366526,
+  "2024-03-30": 366539,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -5561,6 +5561,24 @@
       "duration_ms": 143111,
       "name": "BIG MAD",
       "url": "https://open.spotify.com/track/0bspC5fLlWgwCM6Rx1YUIh"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
     },
     {
       "album": {
@@ -24177,6 +24195,24 @@
     {
       "album": {
         "name": "Leaving the Lot",
+        "url": "https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189381,
+      "name": "Leaving the Lot",
+      "url": "https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD"
+    },
+    {
+      "album": {
+        "name": "Leaving the Lot",
         "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
       },
       "artists": [
@@ -24187,7 +24223,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
@@ -38845,7 +38881,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 93754,
       "name": "Snitch (feat. Big Scarrr)",
       "url": "https://open.spotify.com/track/4tSm7i5PDxyrgA6aa74196"

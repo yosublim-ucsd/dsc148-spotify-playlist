@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Sierra Ferrell
 
-548 songs - 1 day 9 hr 41 min
+550 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Country as Fuck](https://open.spotify.com/track/3rXcD1ODKBv1MJnb1PY2pL) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country as Fuck](https://open.spotify.com/album/384HiIj05NFE3AnWOEaNCu) | 3:09 | 2021-12-17 | 2022-02-26 |
 | [Country Boy](https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 5:44 | 2022-07-22 | 2022-10-15 |
 | [Country Boy](https://open.spotify.com/track/5YuC9ltT0DKP5IteGHSzbF) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Country Boy](https://open.spotify.com/album/5wL3srPM9VJ2lnUqwrws4b) | 5:44 | 2021-12-17 | 2022-07-29 |
-| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2023-08-25 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 | 2024-03-22 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2023-08-25 | 2024-03-30 |
 | [Cowboy Kind of Love](https://open.spotify.com/track/0ZWDipzWCRrSqaZZ9aUlEF) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [A Little Goes A Long Way](https://open.spotify.com/album/628Axc3eMMTJlaZ1r9L5ve) | 3:03 | 2024-02-09 |  |
 | [Cowgirl in the Sand \- Luck Mansion Sessions](https://open.spotify.com/track/5posXVKDheKdJiYBOsZW8J) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Cowgirl in the Sand \(Luck Mansion Sessions\)](https://open.spotify.com/album/0vcOQqq32M0boUIxgd7OXg) | 3:31 | 2022-04-15 | 2022-11-12 |
 | [Cowpoke](https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t) | 3:12 | 2023-12-15 |  |
@@ -252,7 +253,8 @@
 | [I Need Your Love](https://open.spotify.com/track/2xukUi9mX3gH3n6j0aPyD7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Music City USA](https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY) | 3:21 | 2022-07-22 | 2022-08-13 |
 | [I Need Your Love](https://open.spotify.com/track/7DrV8qvP5o1SWonZelyQuX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Music City USA](https://open.spotify.com/album/4vMGuocZFMQUaI9eiUjyiG) | 3:21 | 2021-12-17 | 2022-07-29 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 |  |
-| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 |  |
+| [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 | 2024-03-22 |  |
+| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 | 2024-03-30 |
 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Love You Till The Day I Die](https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl) | 4:11 | 2022-02-11 | 2022-04-29 |
 | [I'm Just a Clown](https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I'm Just a Clown](https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS) | 4:13 | 2022-07-15 | 2023-04-15 |
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2021-12-17 | 2022-02-19 |

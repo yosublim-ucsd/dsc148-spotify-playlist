@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,793 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,791 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 51 | [Bugle Call Blues](https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr) | [New Orleans Rhythm Kings](https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA) | [All Time Jazz: New Orleans Rhythm Kings](https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl) | 2:22 |
 | 52 | [Dixie](https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP) | [Billy Randolph](https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF), [The High Hatters](https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u) | [Roaring' 20's](https://open.spotify.com/album/6yGyFKhtYmeatToldl421e) | 3:02 |
 | 53 | [Carry Me Back to Old Virginia](https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [30 Classics: Dixieland Jazz for Mardi Gras](https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE) | 3:52 |
-| 54 | [Oh Dem Golden Slippers](https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2) | [Big Bill Bissonnette](https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3), [Fred Vigorito](https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ), [Ron Going](https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3), [Jerry Zigmont](https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI), [Bill Sinclair](https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei), [Emil Mark](https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3), [Arnie Hyman](https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa) | [Jam Session in Connecticut, Vol\. 1](https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd) | 5:16 |
-| 55 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
+| 54 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
+| 55 | [Oh Dem Golden Slippers](https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2) | [Big Bill Bissonnette](https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3), [Fred Vigorito](https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ), [Ron Going](https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3), [Jerry Zigmont](https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI), [Bill Sinclair](https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei), [Emil Mark](https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3), [Arnie Hyman](https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa) | [Jam Session in Connecticut, Vol\. 1](https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd) | 5:16 |
 
-Snapshot ID: `MCxjYjA4MWQ4ZjE5MjNiNTM0ODg5NTI5M2IwZDY0ZDkwMGU4NTVjZjY0`
+Snapshot ID: `MCw4NDhjMTNjYzE0YTQzYmU1NjdkMjVkNTdiMzI5YTk1NTExZDI2MTg2`

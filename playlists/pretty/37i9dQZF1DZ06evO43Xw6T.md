@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,862 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,128 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 31 | [Arriba Las Manos](https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Arriba Las Manos](https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8) | 2:15 |
 | 32 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1) | 3:12 |
 | 33 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 |
-| 34 | [Dante](https://open.spotify.com/track/51ekFzMssWoTd3esRVbg4M) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Dante](https://open.spotify.com/album/3RfvANcRyder97orXrfuBp) | 2:55 |
-| 35 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
-| 36 | [Un Idiota](https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Un Idiota](https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD) | 2:46 |
+| 34 | [Un Idiota](https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Un Idiota](https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD) | 2:46 |
+| 35 | [Dante](https://open.spotify.com/track/51ekFzMssWoTd3esRVbg4M) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Dante](https://open.spotify.com/album/3RfvANcRyder97orXrfuBp) | 2:55 |
+| 36 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
 | 37 | [Te He Prometido](https://open.spotify.com/track/6SEWhlV2578vu3ybWXIEwJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:13 |
 | 38 | [DIME QUE HAY QUE HACER \(with Gabito Ballesteros\)](https://open.spotify.com/track/1NI2e5ins81xjWlohNsqZm) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:58 |
 | 39 | [No Se Va Poder](https://open.spotify.com/track/1vt5uODSshLkJORqOluJ5m) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 49 | [Pensaron Que No Podia](https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 2:36 |
 | 50 | [El Sereno](https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Sereno](https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz) | 2:43 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA3NGExZTkyYjU0Y2Q4YTdkNzc0Y2M4YzNiNjk0MTMzZA==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDA1MjBjMWM3NTMzMTgxOWYzNzIyOGI2YzJiMDVjYTFhYw==`

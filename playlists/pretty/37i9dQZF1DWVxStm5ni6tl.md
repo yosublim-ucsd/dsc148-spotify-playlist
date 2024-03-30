@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Asal
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,069 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,114 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [From the Ashes](https://open.spotify.com/track/6vVuTRbjIorphC3EjjlL3c) | [Leonard Sumner](https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5) | [From the Ashes](https://open.spotify.com/album/60r7X6is47vzusLCF1y1mg) | 3:24 |
 | 80 | [Babe Ruth](https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK) | [Babe Ruth](https://open.spotify.com/album/0SDt2reTVDvRistsKnYFge) | 1:49 |
 
-Snapshot ID: `MCw2NDQ1OWY5ZDMyYTNhYTNhOThhODhmZjljN2ViM2FiNjRhYmIxNWUx`
+Snapshot ID: `MCwwNzk2MGNiNjE1YjNlNDRiMzZiYzI1NmQ4ZmI2OGQyZTlkNjBmNzRm`

@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 214691,
+  "2024-03-30": 214687,
   "date_first_scraped": "2022-02-09",
   "description": "Your daily update of the most viral tracks right now - Mexico.",
   "name": "Viral 50 - Mexico",
@@ -7749,7 +7749,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 145000,
       "name": "curita",
       "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
@@ -8115,10 +8115,28 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 139399,
       "name": "De Culiacan",
       "url": "https://open.spotify.com/track/2JdPdjX5DAKqqK4QLeyxq8"
+    },
+    {
+      "album": {
+        "name": "De Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/7lSW2yYxPGMXmB2LuHOa0u"
+      },
+      "artists": [
+        {
+          "name": "AK-47 BOYZ",
+          "url": "https://open.spotify.com/artist/6z9WvSMx3Bsayn0weiu9n4"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140016,
+      "name": "De Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/6Stxd1HbnpNt1eusB1Feme"
     },
     {
       "album": {
@@ -35109,7 +35127,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"

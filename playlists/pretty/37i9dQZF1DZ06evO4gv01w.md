@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,199 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,218 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 9 | [She's A Self Made Man](https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:01 |
 | 10 | [Southern Comfort](https://open.spotify.com/track/6SrhbwzEATeafnd0DmkiuA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:47 |
 | 11 | [Don't](https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:04 |
-| 12 | [Black Betty](https://open.spotify.com/track/4wju5onPL5k2pORII0t2W1) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz) | 2:44 |
+| 12 | [Black Betty](https://open.spotify.com/track/1hyEsWwmDnWnLaw0n0YkLS) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 2:44 |
 | 13 | [Strangler Fig](https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C) | [Blair Dunlop](https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Killing Time](https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R) | 1:51 |
 | 14 | [Bolt Cutters & The Family Name](https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 |
 | 15 | [Mississippi \(feat\. Tyler Bryant\)](https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 49 | [Back Down South / Blue Sky \- Live In Concert](https://open.spotify.com/track/7A3Is9WNbjQ0QneOwqNOJQ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg) | 4:58 |
 | 50 | [Take What You Want](https://open.spotify.com/track/5SIsbugJ2rnfrHQ0wU0o1Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 2:59 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA5NzRmMjFmOWE5NWE0NmUwMDkxYWY3ZWUzNWMzNGQxOA==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDBmZjliMWVlYzllYTg5ZTRjODg2NjQxZTJjYjhiYzY4OA==`

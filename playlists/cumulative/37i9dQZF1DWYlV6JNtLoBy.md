@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-147 songs - 11 hr 38 min
+148 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 | 2024-01-19 |  |
 | [I Believe \(Island Medley\) \[So Long Bye Bye\] \(Radio Edit\)](https://open.spotify.com/track/4AalHP2qaEp6QEjiOohKyb) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [I Believe \(Island Medley\) \- Single](https://open.spotify.com/album/7h2gnD1bFMGuz4nsBPopsT) | 4:00 | 2023-11-17 | 2024-01-19 |
 | [I Believe \(Island Medley\) \[So Long Bye Bye\] \(Radio Edit\)](https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [I Believe \(Island Medley\) \- Single](https://open.spotify.com/album/69PdhhgvSzawIe73yaItL8) | 4:00 | 2022-12-19 | 2023-12-24 |
+| [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 | 2024-01-19 |  |
 | [IMTHANDAZO YAMI](https://open.spotify.com/track/2PTqfW2JIhX1Rw4VykTbg4) | [Lungelo Hlongwane](https://open.spotify.com/artist/5tV1nKSYdBNGEBBAODXqrv) | [IMTHANDAZO YAMI](https://open.spotify.com/album/2UEZeMkxZuHTmsL2umqtQY) | 5:16 | 2023-11-24 | 2023-12-26 |
 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 | 2024-01-19 |  |
 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 | 2022-12-19 | 2024-01-19 |
@@ -109,7 +110,7 @@
 | [Running Home](https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:42 | 2024-01-19 |  |
 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 | 2024-01-19 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2022-12-19 | 2024-01-25 |
-| [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2024-01-19 |  |
+| [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2024-01-19 | 2024-03-30 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-11-03 | 2024-01-19 |
 | [Siteketei](https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siteketei](https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC) | 3:30 | 2022-12-19 | 2023-07-10 |
 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 | 2024-01-19 |  |

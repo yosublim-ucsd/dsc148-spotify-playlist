@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 139883,
       "name": "Alzypher Vol. 16",
       "url": "https://open.spotify.com/track/5u89qLN3SSj4jELsCLZ61K"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 118400,
       "name": "Flow925",
       "url": "https://open.spotify.com/track/4W0HvW4wkdm1twit5A0EkD"
@@ -3513,6 +3513,24 @@
     },
     {
       "album": {
+        "name": "NO TE AWITES",
+        "url": "https://open.spotify.com/album/0fVrr6TJW8IFTgo1msUjKp"
+      },
+      "artists": [
+        {
+          "name": "La Esmeralda",
+          "url": "https://open.spotify.com/artist/1ZuB07nwPGb3zq1K7sIbKf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "NO TE AWITES",
+      "url": "https://open.spotify.com/track/3z4SI8GJdaiYC2PgkVK5dv"
+    },
+    {
+      "album": {
         "name": "NO+SAD",
         "url": "https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam"
       },
@@ -4760,6 +4778,28 @@
       "duration_ms": 266448,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ"
+    },
+    {
+      "album": {
+        "name": "Tendos",
+        "url": "https://open.spotify.com/album/3DSW9xDDLVDQK8OCmHiJfR"
+      },
+      "artists": [
+        {
+          "name": "Elie Tigre",
+          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
+        },
+        {
+          "name": "El Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/6L7XIjE7cmWBJPfWpHtXrU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Tendos",
+      "url": "https://open.spotify.com/track/0l2OgTgQIjmkCk1sEjdxGY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Don Diablo & Major Lazer
 
-656 songs - 1 day 12 hr 2 min
+657 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,7 @@
 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 | 2022-11-11 | 2023-10-14 |
 | [Over U](https://open.spotify.com/track/1Dmgo0ir9jlNmLT4s7W7pW) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Over U](https://open.spotify.com/album/3mljoRDZxiyzR273cHeBWF) | 2:38 | 2022-08-12 | 2022-10-29 |
 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 | 2023-05-19 |  |
-| [Pa Lante](https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9) | [Pa Lante](https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC) | 2:10 | 2023-02-24 |  |
+| [Pa Lante](https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9) | [Pa Lante](https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC) | 2:10 | 2023-02-24 | 2024-03-30 |
 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 | 2022-02-11 | 2022-06-25 |
 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 | 2022-08-05 | 2022-10-08 |
 | [Paper Moon](https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa) | [HOLLOW WORLD](https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719) | 3:45 | 2023-09-01 | 2023-11-18 |
@@ -536,6 +536,7 @@
 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-05-19 |  |
 | [Sillo](https://open.spotify.com/track/41nCgrlaeqVkMCcAEPuu6O) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Sillo](https://open.spotify.com/album/5cMRL9Nv0wLvuArkp3qC9h) | 4:38 | 2022-02-04 | 2022-06-25 |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 | 2023-01-14 |
+| [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-03-29 |  |
 | [Slang Bang](https://open.spotify.com/track/2qYh4nKrsYsXb3T7U1VWxi) | [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH) | [Slang Bang](https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z) | 3:24 | 2023-02-24 | 2023-07-19 |
 | [Slow Motion](https://open.spotify.com/track/2z0FdOJ757ehCVORtbmMBk) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Slow Motion / Hit The Lights](https://open.spotify.com/album/1Y4MQpcyo8Ne9oqxoQQdjs) | 3:32 | 2022-08-12 | 2022-08-27 |
 | [Slumber With a Key](https://open.spotify.com/track/7hM8tfmh3rz02Le2bnbmko) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Slumber With a Key](https://open.spotify.com/album/0siKwju6hva10Nk8D1k2Kx) | 7:19 | 2022-02-25 | 2022-04-02 |

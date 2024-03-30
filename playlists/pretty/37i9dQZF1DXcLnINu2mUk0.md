@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Rony Fuego e Loony Johnson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,572 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,621 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 60 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 |
 | 61 | [Feitiço](https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Feitiço](https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf) | 2:41 |
 | 62 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
-| 63 | [Herança](https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Herança](https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n) | 3:00 |
-| 64 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
+| 63 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
+| 64 | [Herança](https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Herança](https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n) | 3:00 |
 | 65 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 |
 | 66 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
 | 67 | [Quero Encontrar](https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Quero Encontrar](https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh) | 3:00 |
 | 68 | [Tou Leve](https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s) | [Patrox](https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy) | [Tou Leve](https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od) | 3:02 |
 | 69 | [batom rosa](https://open.spotify.com/track/2i5tZzooStnLGv5lL3DLpy) | [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ) | [batom rosa](https://open.spotify.com/album/3jiCnCWy1K80ufnrRIyboo) | 2:24 |
-| 70 | [Party All Night](https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0) | [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [Party All Night](https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS) | 3:12 |
+| 70 | [Drive Slow](https://open.spotify.com/track/1ZyWOoBhKX46OToNwBWJUt) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Drive Slow](https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV) | 2:52 |
 | 71 | [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 |
-| 72 | [Drive Slow](https://open.spotify.com/track/1ZyWOoBhKX46OToNwBWJUt) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Drive Slow](https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV) | 2:52 |
+| 72 | [Party All Night](https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0) | [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [Party All Night](https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS) | 3:12 |
 | 73 | [A MINHA VIDA DEPOIS DE TI](https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc) | [AUSENTE DE LUZ](https://open.spotify.com/album/0HWWvwNtjJvlLziHiN6Jge) | 2:36 |
 | 74 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 |
 | 75 | [Chama](https://open.spotify.com/track/7I5LvUS8ETkDKZJLhst5rk) | [Nina R.A.E.](https://open.spotify.com/artist/0QnClU5NDTqMBuZdNTyvK0) | [Chama](https://open.spotify.com/album/6lDKhi2lp3EtRJGscCEQj5) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 79 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 80 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
 
-Snapshot ID: `MCxiNDc4NTg1MTEyMWQyYWQ3Nzg4ZjdhZGVhNDk0NTY3NGU3ZGUzOTQ5`
+Snapshot ID: `MCw3MWVmN2JmNTg0YTBhODcxYTE4YTUxMDk1NDE1YzI2NDMxYzhhYmMx`

@@ -2,9 +2,9 @@
 
 ### [Brillas](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
 
-> ✨❤️🌹
+> ✨❤️🌹Para Rocanlovers
 
-214 songs - 13 hr 9 min
+216 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 |  |
 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2023-03-03 |  |
 | [Encrucijada](https://open.spotify.com/track/3MXTKZwrprNX41kNc8WmRp) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [Encrucijada](https://open.spotify.com/album/6PGLD12DUPs8fRESapOVCX) | 3:39 | 2023-04-24 | 2023-07-01 |
-| [Era Primavera](https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Era Primavera](https://open.spotify.com/album/6neGV0F44OSV979QtmColK) | 4:11 | 2024-03-04 |  |
+| [Era Primavera](https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Era Primavera](https://open.spotify.com/album/6neGV0F44OSV979QtmColK) | 4:11 | 2024-03-04 | 2024-03-30 |
 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 | 2022-01-28 | 2023-07-01 |
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2022-01-28 |  |
 | [Es Clara](https://open.spotify.com/track/4qjbWPK08sOcDls6mURNSu) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Clara](https://open.spotify.com/album/01AWewQ88qLqXKxHinZf6y) | 3:47 | 2023-07-28 |  |
@@ -126,7 +126,7 @@
 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 | 2022-04-26 | 2023-02-18 |
 | [Lo Mejor, Lo Peor](https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [América Supersónica](https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0) | 3:43 | 2022-04-26 | 2023-07-01 |
 | [Lo que Quieras de Mí](https://open.spotify.com/track/2wLzfdCL6lVmUXySZlPVwa) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:59 | 2022-04-26 |  |
-| [Los Seres Queridos](https://open.spotify.com/track/6yrqeQ1YDhzhuJFOd1uphJ) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Los Seres Queridos](https://open.spotify.com/album/0sWMpkiKdKyCnl01yxWfh0) | 3:59 | 2024-02-02 |  |
+| [Los Seres Queridos](https://open.spotify.com/track/6yrqeQ1YDhzhuJFOd1uphJ) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Los Seres Queridos](https://open.spotify.com/album/0sWMpkiKdKyCnl01yxWfh0) | 3:59 | 2024-02-02 | 2024-03-30 |
 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 | 2023-09-01 |  |
 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 | 2022-01-28 |  |
 | [Luciana](https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Flotador](https://open.spotify.com/album/2YhGmP5XIC2uMBfmuFK2M6) | 3:17 | 2022-09-28 | 2023-02-18 |
@@ -173,7 +173,7 @@
 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 | 2022-01-28 |  |
 | [Plate of Pie](https://open.spotify.com/track/4xsHMYE4RkggbBGFDiSYNr) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Plate of Pie](https://open.spotify.com/album/41G02cfTAHtRlAUfxoclLb) | 4:33 | 2022-03-18 | 2023-07-01 |
 | [Poli](https://open.spotify.com/track/5WsHtvVnbfY17VNF93rQ7w) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:20 | 2022-01-28 |  |
-| [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 | 2024-03-04 |  |
+| [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 | 2024-03-04 | 2024-03-30 |
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2022-01-28 | 2023-07-01 |
 | [Quiero Ver](https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [SINO](https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB) | 3:25 | 2022-01-28 |  |
 | [Quién Fuera](https://open.spotify.com/track/3hkX3WJXFykBE9ZlaBTWkQ) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 3:37 | 2022-01-28 |  |
@@ -200,6 +200,7 @@
 | [Su Majestad La Eternidad](https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:50 | 2023-02-17 |  |
 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 | 2022-03-11 | 2023-02-18 |
 | [Tiemblo de Ti](https://open.spotify.com/track/6I4daOtdIrKyzuUEFK78c5) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:36 | 2022-04-26 | 2023-07-01 |
+| [Tiempo al Tiempo](https://open.spotify.com/track/3ktdoW2ABePbS3PQ4drxaD) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Tiempo al Tiempo](https://open.spotify.com/album/6aPh6HYOL8rpNQol6FETo9) | 4:47 | 2024-03-29 |  |
 | [Tiernos](https://open.spotify.com/track/6Turi443kRpSET2JwXXLW8) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Tiernos](https://open.spotify.com/album/5I47XfGh6TwfXjMFTlu10o) | 5:07 | 2022-01-28 |  |
 | [Todo Bien](https://open.spotify.com/track/1vNvcdPzFCxg9q0yv8a3Hy) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [Todo Bien](https://open.spotify.com/album/0PahmmCKsi3B2dcUuq3gmm) | 2:44 | 2023-06-16 |  |
 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 | 2023-09-29 |  |
@@ -211,6 +212,7 @@
 | [Vicio](https://open.spotify.com/track/6YyeAJrK1IECGERP6OMEvI) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 4:37 | 2022-01-28 |  |
 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2022-01-28 |  |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 |  |
+| [Volver A Ser](https://open.spotify.com/track/2TxFDH4yoIdUNg3DHAB3BF) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Jay de la Cueva](https://open.spotify.com/album/5dfTVYkcLYbCCHvU0qC88j) | 2:58 | 2024-03-29 |  |
 | [Volverás](https://open.spotify.com/track/65peiUbnSBGUxhxkRPJBSm) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Volverás](https://open.spotify.com/album/5wKABXihyPEA2YGNnfDttk) | 3:48 | 2023-10-23 | 2024-02-03 |
 | [Vorágine](https://open.spotify.com/track/2MWTbzD8Sy4sRgMjuAazkJ) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Orbitando](https://open.spotify.com/album/2WX8hAKuu55kXM3xxYAbPL) | 5:27 | 2022-11-25 | 2023-02-18 |
 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 | 2023-07-07 | 2023-09-30 |

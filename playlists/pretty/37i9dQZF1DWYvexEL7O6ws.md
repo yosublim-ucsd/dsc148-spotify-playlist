@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,442 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,513 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 54 | ['Flawless' Do It Well Pt\. 3 \(feat\. Summer Walker\)](https://open.spotify.com/track/2ChVOWEY5BMEN7tmJScQpc) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:51 |
 | 55 | [Dangerous City \(feat\. Buju Banton\)](https://open.spotify.com/track/4EklpCLalQcpMPgZsACUHG) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 4:06 |
 | 56 | [SAVAGE ANTHEM](https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 6:16 |
-| 57 | [LOYAL \(feat\. Drake and Bad Bunny\) \[Remix\]](https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 4:41 |
+| 57 | [LOYAL \(feat\. Drake and Bad Bunny\) \- Remix](https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 4:41 |
 | 58 | [THE NEWS](https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 4:27 |
 | 59 | [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 |
 | 60 | [Numbers Don't Lie](https://open.spotify.com/track/5YDW0Mm6OLzze4d97aoyuK) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vanquish](https://open.spotify.com/album/05h84nlrmNAjh083dnULzt) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 99 | [Fake Love](https://open.spotify.com/track/343YBumqHu19cGoGARUTsd) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:30 |
 | 100 | [Best I Ever Had](https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:17 |
 
-Snapshot ID: `MCw2ZmNiNWI4N2VkNmUyZDliNTk3MGY0MWRhOWM2YjE3NmVlMWZiYjc0`
+Snapshot ID: `MCw4YzJhMjM2ZjU4NmEyNDhlNTVlZmFiZjJkNzZiZDM3NzBhYmNlOWUx`

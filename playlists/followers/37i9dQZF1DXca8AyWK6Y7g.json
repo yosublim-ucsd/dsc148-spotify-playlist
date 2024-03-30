@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 1497162,
+  "2024-03-30": 1497743,
   "date_first_scraped": "2019-05-26",
   "description": "now you're talkin' 'bout me too \ud83d\udcf7: Zoe Ko",
   "name": "young & free",
@@ -20039,7 +20039,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 156090,
       "name": "Lost Cowboy",
       "url": "https://open.spotify.com/track/3tY2XzxCwgL1hBVuqlvGSw"
@@ -37049,6 +37049,24 @@
       "duration_ms": 182773,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC"
+    },
+    {
+      "album": {
+        "name": "Wtf u want.",
+        "url": "https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb"
+      },
+      "artists": [
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127600,
+      "name": "Wtf u want.",
+      "url": "https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a"
     },
     {
       "album": {

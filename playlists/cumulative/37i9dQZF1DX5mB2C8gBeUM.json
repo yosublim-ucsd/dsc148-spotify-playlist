@@ -4839,6 +4839,28 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257699,
+      "name": "LEVII'S JEANS",
+      "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
+    },
+    {
+      "album": {
         "name": "the highs.",
         "url": "https://open.spotify.com/album/2phcfZd44niczjY0xybcS6"
       },

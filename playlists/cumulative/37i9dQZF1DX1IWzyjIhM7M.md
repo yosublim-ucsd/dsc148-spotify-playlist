@@ -4,7 +4,7 @@
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-115 songs - 6 hr 11 min
+116 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Better Than Him](https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC) | 3:49 | 2024-01-10 |  |
 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 | 2024-01-10 | 2024-03-04 |
 | [Blak Britney](https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Blak Britney](https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc) | 2:33 | 2024-01-10 |  |
+| [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 | 2024-01-10 |  |
 | [Blue Voyage](https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [REIA](https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6) | [Blue Voyage](https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw) | 4:14 | 2024-01-10 |  |
 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 | 2024-01-10 |  |
 | [BREAK IT IN A BAR](https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAK IT IN A BAR](https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd) | 3:39 | 2024-01-10 |  |
@@ -86,7 +87,7 @@
 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 | 2024-01-10 |  |
 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 | 2024-01-10 |  |
 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2024-01-10 |  |
-| [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 | 2024-01-10 |  |
+| [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 | 2024-01-10 | 2024-03-30 |
 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 | 2024-01-10 |  |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn) | 4:27 | 2024-01-10 |  |
 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 | 2024-01-10 |  |

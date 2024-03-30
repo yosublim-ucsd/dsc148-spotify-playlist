@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,125 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,148 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 39 | [Love Will Tear Us Apart \- Tensnake Remix](https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Love Will Tear Us Apart \(Tensnake Remix\)](https://open.spotify.com/album/1rp9zBathyKcYfnh34hunq) | 3:40 |
 | 40 | [Dive](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Dive](https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU) | 3:17 |
 | 41 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
-| 42 | [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 |
-| 43 | [Shadows](https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:45 |
+| 42 | [Shadows](https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:45 |
+| 43 | [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 |
 | 44 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 |
 | 45 | [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 |
 | 46 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 49 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 |
 | 50 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
 
-Snapshot ID: `MCxkNWMwMDkxNzJjNDUwNWU0NmYzNjhiZTE3Y2Q3YTEyZWFhMzBiNTg5`
+Snapshot ID: `MCw2NmUzMmViMTBiNjQyZTM3Yzg4ZTMwODgyOTc2OTg2MGRkMjI4OThh`

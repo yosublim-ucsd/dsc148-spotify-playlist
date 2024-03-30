@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 88499,
+  "2024-03-30": 88535,
   "date_first_scraped": "2022-05-30",
   "description": "Check out the Latest Romance Tracks.\nCover : Captain Miller",
   "name": "Latest Love Tamil",
@@ -2201,10 +2201,40 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 236212,
       "name": "Maayoney (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/4lIOKV52mXIsm8P6jjo1Ja"
+    },
+    {
+      "album": {
+        "name": "Maayoney (From \"Inga Naan Thaan Kingu\")",
+        "url": "https://open.spotify.com/album/3SD1fuh9OdIuEfqr8t7SkJ"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236212,
+      "name": "Maayoney (From \"Inga Naan Thaan Kingu\")",
+      "url": "https://open.spotify.com/track/0oD9hUPvILOoLtq5Orii1z"
     },
     {
       "album": {

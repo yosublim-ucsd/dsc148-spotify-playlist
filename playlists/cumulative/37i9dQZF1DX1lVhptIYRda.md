@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Kenny Chesney
+> Today's top country hits\. Cover: Beyoncé
 
-743 songs - 1 day 16 hr 11 min
+744 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Between You & Me](https://open.spotify.com/track/4FEGLKYIfTEatQtfGLGxlu) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Between You & Me](https://open.spotify.com/album/6irV36nzdfWQSorcCFpYPl) | 2:49 | 2020-12-12 | 2021-04-30 |
 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 | 2021-04-30 | 2021-08-14 |
 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 | 2019-07-13 | 2020-12-12 |
+| [Bigger Houses](https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:17 | 2024-03-29 |  |
 | [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 | 2023-10-20 |  |
 | [Black and White](https://open.spotify.com/track/1gxml65g5zmtazTjuvWDqc) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Black and White](https://open.spotify.com/album/3AT1nne2mrjNoLgEMl7KyA) | 3:46 | 2019-06-05 | 2019-08-13 |
 | [Black And White](https://open.spotify.com/track/1xVxcSX142t8Q0akqcPgT6) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Okie](https://open.spotify.com/album/74K88Q3Yroy6hTgpj1tXsw) | 3:46 | 2019-08-27 | 2019-08-31 |
@@ -368,7 +369,7 @@
 | [Lady](https://open.spotify.com/track/3ySLzrN7950dpf1ncttONO) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Lady](https://open.spotify.com/album/6YjMnlV7GWmnUs4lN8bym9) | 3:13 | 2020-05-09 | 2021-04-17 |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-03 | 2023-11-04 |
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-03-04 | 2022-10-01 |
-| [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 | 2023-10-06 |  |
+| [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 | 2023-10-06 | 2024-03-30 |
 | [Last Time I Say Sorry](https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Last Time I Say Sorry](https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs) | 3:14 | 2020-03-28 | 2020-05-09 |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 | 2022-04-09 |
 | [Learn From It](https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Learn From It](https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0) | 2:59 | 2021-12-17 | 2022-05-14 |
@@ -614,7 +615,7 @@
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-16 | 2023-05-08 |
 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 | 2023-05-05 | 2023-08-26 |
 | [Tequila Little Time](https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:27 | 2021-10-16 | 2022-01-29 |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3) | 3:55 | 2024-02-12 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3) | 3:53 | 2024-02-12 |  |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-10 | 2023-03-25 |
 | [That Ain't Me No More](https://open.spotify.com/track/4wrKruoaRzt3TtdzJ9uR0F) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [That Ain't Me No More](https://open.spotify.com/album/6U2ProCSsR0GzNZLK9Jshc) | 3:11 | 2021-02-20 | 2021-07-04 |
 | [That Old Truck](https://open.spotify.com/track/76jICtPC51cXmetYVnOqHu) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [That Old Truck](https://open.spotify.com/album/2IhkYeQlcDrxdLzB2sUBDt) | 3:32 | 2019-05-26\* | 2019-06-15 |

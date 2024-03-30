@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,036 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,137 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 49 | [Cutie](https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:04 |
 | 50 | [All Ur Luv](https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [All Ur Luv](https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so) | 2:41 |
 
-Snapshot ID: `MCwzNTljZGNlODNhYjBjZDc0MmNlNDIyZTRlMjFlNzZjYzUwYTk0Nzc0`
+Snapshot ID: `MCwwMjQ1OTZiNzYxZDU1MDk1M2QxOTQwMjU5YTIyMTc3NjRlYTg3Mzcw`

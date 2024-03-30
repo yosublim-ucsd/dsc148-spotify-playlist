@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875 likes - 127 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,877 likes - 127 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 89 | [Love Myself \(The High Note\)](https://open.spotify.com/track/0BrSj3Jcx8hK6B4G1ZqMs8) | [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Love Myself \(The High Note\)](https://open.spotify.com/album/168h5YSeGvlsR45g4MpllW) | 3:27 |
 | 90 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
 | 91 | [Unforgettable \(Tommy's Song\)](https://open.spotify.com/track/5q9aNxf8BtiYQoz0wq0K81) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unforgettable \(Tommy’s Song\)](https://open.spotify.com/album/0Paier1KMpw7C5LI7R35Dj) | 3:53 |
-| 92 | [Picture Myself](https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT) | 3:31 |
-| 93 | [Intro](https://open.spotify.com/track/7i7zpyMc9rHYi7YaPkB0an) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 0:31 |
+| 92 | [Intro](https://open.spotify.com/track/7i7zpyMc9rHYi7YaPkB0an) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 0:31 |
+| 93 | [Picture Myself](https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT) | 3:31 |
 | 94 | [My Kind Of Woman](https://open.spotify.com/track/4QKEdRuZXSSOIFslnWs0Zt) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Playlist EP](https://open.spotify.com/album/6t9XXMUjsFc5yuzbA8JfyK) | 3:49 |
 | 95 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6jW0scPonEHW9zjPspVHrn) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:54 |
 | 96 | [Like I Do](https://open.spotify.com/track/1roF7kFDaf9dE1TWBpSzAD) | [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 2:54 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 126 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 127 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `Mjg1Mjc5NzAsMDAwMDAwMDA3YmM2NzM0YzRmYWM0NmQ4MzdiM2MzOTk0NzY5NTAzMg==`
+Snapshot ID: `Mjg1Mjk0MTAsMDAwMDAwMDAzMDI2MWNkMzU2OTg3ZDllOWM0YzI1NDJhMjAxN2UyOA==`

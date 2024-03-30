@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 265238,
+  "num_followers": 265329,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWQ0ZWZiYzhhMDA4MmEyZGI2ZjNhMmIyNDVhNWE4MjdkNWFjN2Ez",
+  "snapshot_id": "MCw5MDVlNzllNjcyNjJhMjZhZTAzZGQxMmU3MzEyNWRiNjc1ZTU0MGE1",
   "tracks": [
     {
       "added_at": "2021-10-01 13:30:07",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 182151,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Consentida Y Otros Exitos",
         "url": "https://open.spotify.com/album/6TaghakmbT1QLgzoatmg4Y"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 191320,
       "name": "Embrujo",
       "url": "https://open.spotify.com/track/32xpnvh67XUNcjh0iW0dj6"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 182151,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -747,8 +747,8 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
         }
       ],
-      "duration_ms": 183771,
-      "name": "Prisionero Del Mar",
-      "url": "https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk"
+      "duration_ms": 169280,
+      "name": "Besos de Plata",
+      "url": "https://open.spotify.com/track/5DWjEIZr5Rnw32lLRbC2AF"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Inspiraciones de Siempre",
-        "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
+        "name": "20 \u00c9xitos: \u00c9poca de Oro de los Tr\u00edos Vol. 1",
+        "url": "https://open.spotify.com/album/0Yzpkc8BNVgQuihyrJykZA"
       },
       "artists": [
         {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+          "name": "Cuarteto Almanaque",
+          "url": "https://open.spotify.com/artist/3mDraoH8A5o3wS7dfOtIqs"
         }
       ],
-      "duration_ms": 167493,
-      "name": "Cari\u00f1ito Azucarado",
-      "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
+      "duration_ms": 173213,
+      "name": "Poquita fe",
+      "url": "https://open.spotify.com/track/2R6AW2RKOFf4dqycfBAtIt"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -875,18 +875,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "20 \u00c9xitos: \u00c9poca de Oro de los Tr\u00edos Vol. 1",
-        "url": "https://open.spotify.com/album/0Yzpkc8BNVgQuihyrJykZA"
+        "name": "Inspiraciones de Siempre",
+        "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
       },
       "artists": [
         {
-          "name": "Cuarteto Almanaque",
-          "url": "https://open.spotify.com/artist/3mDraoH8A5o3wS7dfOtIqs"
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
         }
       ],
-      "duration_ms": 173213,
-      "name": "Poquita fe",
-      "url": "https://open.spotify.com/track/2R6AW2RKOFf4dqycfBAtIt"
+      "duration_ms": 167493,
+      "name": "Cari\u00f1ito Azucarado",
+      "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -907,8 +907,8 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
       },
       "artists": [
         {
@@ -916,25 +916,9 @@
           "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
         }
       ],
-      "duration_ms": 169280,
-      "name": "Besos de Plata",
-      "url": "https://open.spotify.com/track/5DWjEIZr5Rnw32lLRbC2AF"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Trio Delfines",
-        "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
-      },
-      "artists": [
-        {
-          "name": "Trio Delfines",
-          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Candilejas",
-      "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
+      "duration_ms": 183771,
+      "name": "Prisionero Del Mar",
+      "url": "https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -951,6 +935,22 @@
       "duration_ms": 180840,
       "name": "Cha Cha Linda",
       "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Trio Delfines",
+        "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
+      },
+      "artists": [
+        {
+          "name": "Trio Delfines",
+          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Candilejas",
+      "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Somos Novios",
+        "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
+      },
+      "artists": [
+        {
+          "name": "Las Verdes",
+          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Somos Novios",
-        "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
-      },
-      "artists": [
-        {
-          "name": "Las Verdes",
-          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Delirio",
-      "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Exitos de los Tres Reyes",
         "url": "https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 177626,
       "name": "Perfume de Gardenias",
       "url": "https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1692,9 +1692,9 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     }
   ],
   "unique_name": "Tr\u00edos y Boleros Rom\u00e1nticos",

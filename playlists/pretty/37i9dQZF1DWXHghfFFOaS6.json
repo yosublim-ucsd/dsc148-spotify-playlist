@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 329144,
+  "num_followers": 329263,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGVmOGEzYTRiMzViYWUyMmYxZDVmYjI0YWE3MTViNzMzNGU2OGFm",
+  "snapshot_id": "MCxjNjM3YWEzY2M0NTRjOGVmNTI4YWNhN2Y3NjkxMGZmYTc2OGE3OGRi",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "True Spirit",
         "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 247893,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Stoned Woman",
-        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Theme from Riot on 103rd Street",
-      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+        "name": "Stoned Woman",
+        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
       },
       "artists": [
         {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
         }
       ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
+      "duration_ms": 165560,
+      "name": "Theme from Riot on 103rd Street",
+      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+      },
+      "artists": [
+        {
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 228466,
       "name": "Block Episode",
       "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pushin' On",
         "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 199560,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1291,6 +1275,22 @@
       "duration_ms": 256133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-14 19:24:43",

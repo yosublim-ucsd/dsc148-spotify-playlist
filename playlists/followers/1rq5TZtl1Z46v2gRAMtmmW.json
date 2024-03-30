@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 29469,
+  "2024-03-30": 29475,
   "date_first_scraped": "2022-06-10",
   "description": "",
   "name": "Ninja Tune // New Releases",
@@ -2204,6 +2204,28 @@
     },
     {
       "album": {
+        "name": "ILIKEU",
+        "url": "https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "ILIKEU",
+      "url": "https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7"
+    },
+    {
+      "album": {
         "name": "In Contemplation of Clair\u2019s Scent",
         "url": "https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb"
       },
@@ -2617,6 +2639,24 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "album": {
+        "name": "Make Friends",
+        "url": "https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "Make Friends",
+      "url": "https://open.spotify.com/track/0gSffSWFQQfGRC1K7N1txe"
     },
     {
       "album": {
@@ -4099,7 +4139,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 218464,
       "name": "The Low",
       "url": "https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB"
@@ -4623,7 +4663,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 216757,
       "name": "Wait 4 U - DJ Phil Remix",
       "url": "https://open.spotify.com/track/0pPOYxRMPT2puunY57ZFnH"

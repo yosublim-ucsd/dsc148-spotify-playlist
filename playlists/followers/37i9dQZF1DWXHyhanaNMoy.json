@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 320802,
+  "2024-03-30": 320879,
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Frenna",
+  "description": "Motion & good vibes! Cover: Alessio",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1960,6 +1960,24 @@
     },
     {
       "album": {
+        "name": "Beetje Verliefd",
+        "url": "https://open.spotify.com/album/0OQRHgSyI54chxRlwZHyW1"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136804,
+      "name": "Beetje Verliefd",
+      "url": "https://open.spotify.com/track/1LOimwvdlTnvOqkFJOaD0g"
+    },
+    {
+      "album": {
         "name": "Bela",
         "url": "https://open.spotify.com/album/6BOm2PuwEBpXsYBB8CVT7A"
       },
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 218571,
       "name": "Bella - Remix",
       "url": "https://open.spotify.com/track/6V1556CVka8AyXN2huWmPe"
@@ -5968,6 +5986,28 @@
     },
     {
       "album": {
+        "name": "FEELIN U (feat. Jmani)",
+        "url": "https://open.spotify.com/album/5j53DCPuBA7pRGvnk3ZAym"
+      },
+      "artists": [
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "FEELIN U (feat. Jmani)",
+      "url": "https://open.spotify.com/track/7q6HU528yPaRuXEFsCuJ32"
+    },
+    {
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/1FTnNK1UFZzlwfjlYZEosy"
       },
@@ -8140,6 +8180,28 @@
     },
     {
       "album": {
+        "name": "Imaranma",
+        "url": "https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq"
+      },
+      "artists": [
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202232,
+      "name": "Imaranma",
+      "url": "https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC"
+    },
+    {
+      "album": {
         "name": "Imdat",
         "url": "https://open.spotify.com/album/4mstl6Swxl2UFS8BynQ9iO"
       },
@@ -9437,6 +9499,28 @@
       "duration_ms": 141500,
       "name": "Laat Dat",
       "url": "https://open.spotify.com/track/5TfEEbuUmYKpDWgb5he6RD"
+    },
+    {
+      "album": {
+        "name": "Laat Je Gaan",
+        "url": "https://open.spotify.com/album/3OeyiljRLTgJ2g0ngj4xIU"
+      },
+      "artists": [
+        {
+          "name": "Marra",
+          "url": "https://open.spotify.com/artist/5g5YpaZUfolRoFht3RfTqe"
+        },
+        {
+          "name": "Ricky Savado",
+          "url": "https://open.spotify.com/artist/6NiQgmtsVqh88FVjKXC3Qi"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Laat Je Gaan",
+      "url": "https://open.spotify.com/track/2Fqq2f7VOUSlL6r5oWN0np"
     },
     {
       "album": {
@@ -14333,7 +14417,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 146935,
       "name": "Porfotto",
       "url": "https://open.spotify.com/track/2IyhJLITOeAnoGfHOXwiaX"
@@ -16621,7 +16705,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 183357,
       "name": "Sweet Melanin (Valentine\u2019s Edition)",
       "url": "https://open.spotify.com/track/3yZzxgXgdUjJwhaeTZsXpP"
@@ -17317,7 +17401,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 149131,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/6zvim6lMcYjJRkJnUDPnh3"
@@ -17677,7 +17761,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 172394,
       "name": "Tour",
       "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
@@ -19945,6 +20029,24 @@
       "duration_ms": 185361,
       "name": "Zeg Het Je",
       "url": "https://open.spotify.com/track/66ycx9BWaH4C3Ra7v64BTV"
+    },
+    {
+      "album": {
+        "name": "Zeg Mij",
+        "url": "https://open.spotify.com/album/6udSfl2zGXVKIKH07YNjNW"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184288,
+      "name": "Zeg Mij",
+      "url": "https://open.spotify.com/track/7lstObFMPeRKB2qsNMXSUV"
     },
     {
       "album": {

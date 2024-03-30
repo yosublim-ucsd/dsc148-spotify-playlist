@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-357 songs - 22 hr 27 min
+358 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All on Me](https://open.spotify.com/track/01AQQxjgUOsRJGiif0rzNj) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [All on Me](https://open.spotify.com/album/2UzbI0MwhBpd9DyIC62qk2) | 3:49 | 2022-07-22 | 2022-08-31 |
 | [All Our Love](https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [All Our Love](https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR) | 4:29 | 2022-05-20 | 2022-06-11 |
 | [All The Way From America](https://open.spotify.com/track/6JWQ0fdstDeqtBzuUOrdFC) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Way From America](https://open.spotify.com/album/3tbtc5K4J1vsGnVGaLFg8I) | 4:19 | 2023-12-15 |  |
+| [ALLIIGATOR TEARS](https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:59 | 2024-03-29 |  |
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2021-12-17 | 2023-02-25 |
 | [American Cars](https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Thunder Above You](https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa) | 3:45 | 2023-10-06 |  |
 | [Angel](https://open.spotify.com/track/5OCOEBBK7N9l6qh7LYgcmf) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:22 | 2023-03-10 | 2023-03-25 |
@@ -250,7 +251,7 @@
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-05-27 | 2023-02-25 |
 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 | 2021-12-17 |  |
 | [Roll With Me](https://open.spotify.com/track/0GQS7JTrnUCstlUQNPJYzl) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Black Gospel, Vol\. 1](https://open.spotify.com/album/1uRbfjXXq4IPqMbvITn66V) | 4:20 | 2021-12-17 | 2022-06-12 |
-| [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 | 2022-01-28 |  |
+| [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 | 2022-01-28 | 2024-03-30 |
 | [Room for Us All](https://open.spotify.com/track/6uPg6d9m87xsik5hTUq986) | [Effie Zilch](https://open.spotify.com/artist/1NGw8cxn84OJjOEFLXlJJN), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Room for Us All](https://open.spotify.com/album/14bLaJ0fePGoHcwwwoxZ9g) | 3:27 | 2022-06-10 | 2022-06-18 |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-12-17 | 2022-06-12 |
 | [Rosie](https://open.spotify.com/track/5wBP2sIgbhdWdmr1u54Eoz) | [Calling Cadence](https://open.spotify.com/artist/4k9Si9nVLMfD6bEIMzXdXD) | [Calling Cadence](https://open.spotify.com/album/7fSLZKWKWueYzKOBH1RWkg) | 4:02 | 2022-05-06 | 2022-06-11 |
@@ -321,7 +322,7 @@
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-09-08 |  |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 | 2022-05-27 | 2024-01-13 |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2021-12-17 | 2022-11-28 |
-| [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2021-12-17 |  |
+| [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2021-12-17 | 2024-03-30 |
 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 | 2021-12-17 | 2023-12-09 |
 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 | 2022-11-11 | 2023-03-25 |
 | [Through The Darkest Night](https://open.spotify.com/track/0L5K4w34pUNo5azuKac5zd) | [Ollee Owens](https://open.spotify.com/artist/36BxlE2IWlXTNTAwyMx1DD) | [CANNOT BE UNHEARD](https://open.spotify.com/album/72GY9mSMI5tivnkggaudXS) | 5:14 | 2022-09-16 | 2023-03-11 |

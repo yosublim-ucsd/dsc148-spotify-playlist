@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 494783,
+  "num_followers": 494852,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmY4ODQzM2U0ZTEwY2FhM2MxOTE1Njg4YmU5ZDdiNzRmYWJiNTA1",
+  "snapshot_id": "MCxkM2NhODFmOWQ5YmFmMmFiMzQ0NDUzZjQ3MTVlZWZiOTgwOTk1NDZm",
   "tracks": [
     {
       "added_at": "2024-03-19 19:54:29",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 311703,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Million Mile Reflections",
         "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 215066,
       "name": "The Devil Went Down to Georgia",
       "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 311703,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -384,8 +384,8 @@
       },
       "artists": [
         {
-          "name": "Little",
-          "url": "https://open.spotify.com/artist/64UNNoGGn27WskwUHxQRgF"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
       "duration_ms": 174573,
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
+        "name": "Dixie Chicken",
+        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/1zoOScgO6LrG1YpsRHTPHX"
         }
       ],
-      "duration_ms": 221890,
-      "name": "Ain't Wastin' Time No More",
-      "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD"
+      "duration_ms": 239106,
+      "name": "Dixie Chicken",
+      "url": "https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 237426,
-      "name": "The South's Gonna Do It Again",
-      "url": "https://open.spotify.com/track/7HRqpMkcCVVhmKme8bScvl"
+      "duration_ms": 221890,
+      "name": "Ain't Wastin' Time No More",
+      "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Dixie Chicken",
-        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
-      },
-      "artists": [
-        {
-          "name": "Little",
-          "url": "https://open.spotify.com/artist/64UNNoGGn27WskwUHxQRgF"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "Dixie Chicken",
-      "url": "https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Strikes",
         "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 450333,
       "name": "Highway Song",
       "url": "https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "The South's Gonna Do It Again",
+      "url": "https://open.spotify.com/track/7HRqpMkcCVVhmKme8bScvl"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Let It Flow",
-        "url": "https://open.spotify.com/album/51KKT6XplZzoUF4h2uWV29"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 440173,
-      "name": "Travelin' Shoes",
-      "url": "https://open.spotify.com/track/4pxj2nEkmypTXihGBv6gB1"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Shake Hands With Shorty",
         "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 248960,
       "name": "Shake 'Em On Down",
       "url": "https://open.spotify.com/track/2rtQWHXfXwyxKYyoWo60zw"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/51KKT6XplZzoUF4h2uWV29"
+      },
+      "artists": [
+        {
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+        }
+      ],
+      "duration_ms": 440173,
+      "name": "Travelin' Shoes",
+      "url": "https://open.spotify.com/track/4pxj2nEkmypTXihGBv6gB1"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Shake Hands With Shorty",
-        "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 370426,
-      "name": "Goin' Down South",
-      "url": "https://open.spotify.com/track/2oROjYKgLpkH62lrVPGBZE"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Southern Delight/Barefoot Jerry",
         "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 279266,
       "name": "Castle Rock",
       "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Shake Hands With Shorty",
+        "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 370426,
+      "name": "Goin' Down South",
+      "url": "https://open.spotify.com/track/2oROjYKgLpkH62lrVPGBZE"
     },
     {
       "added_at": "2024-03-19 19:54:29",

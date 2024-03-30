@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-161 songs - 15 hr 30 min
+162 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Lockdown Boogie](https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq) | 5:18 | 2021-02-12 |  |
 | [Lockdown Boogie](https://open.spotify.com/track/44m5C5PwRPijazjXQJESGG) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Lockdown Boogie](https://open.spotify.com/album/2UQzqEK9yKcIZjY4taxUk9) | 5:18 | 2021-02-12 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:56 | 2022-09-23 |  |
+| [LUA](https://open.spotify.com/track/327ApgUIoKw0KAe9CSmJzY) | [Filipe Rosset](https://open.spotify.com/artist/35w950duS41GbEsWV2DQEq), [benjamin francis](https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB), [Noah Denton](https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd), [phonon](https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y), [David Binney](https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Dave Eggar](https://open.spotify.com/artist/76H3P1c4PIomESKq0JDiLn), [Michael Wang](https://open.spotify.com/artist/5WBi8jHnllY29gnOGltewV), [Ben Sutin](https://open.spotify.com/artist/5U6QYt1Lx7JNVbeg2zkgdz), [Dan Hitchcock](https://open.spotify.com/artist/2PsETi89TqApSKLwVY50mq) | [LUA](https://open.spotify.com/album/3BSlZ8TJHd7PjFhjBGdErn) | 5:51 | 2024-03-29 |  |
 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 | 2021-04-09 |  |
 | [Maiden Voyage](https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Maiden Voyage](https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M) | 6:41 | 2022-07-22 |  |
 | [Make Your Move](https://open.spotify.com/track/0soFv0nJyrRbZ1WBZtir0p) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Make Your Move](https://open.spotify.com/album/5EkzlyKKcUJualXXffkZxC) | 4:26 | 2021-08-27 |  |

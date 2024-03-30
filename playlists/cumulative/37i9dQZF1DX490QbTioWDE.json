@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 327488,
       "name": "Como Te Va Mi Amor - Hasta Hoy",
       "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
@@ -1414,6 +1414,28 @@
       "duration_ms": 177493,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/7IUFDlflcQjHNxg8H0us34"
+    },
+    {
+      "album": {
+        "name": "Cuando Me Enamoro (en vivo Luna Park)",
+        "url": "https://open.spotify.com/album/6DrGR2jy4H2XIdkAIeio69"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179945,
+      "name": "Cuando Me Enamoro (en vivo Luna Park)",
+      "url": "https://open.spotify.com/track/33Bw8vBRlaAgRS6lB8Conz"
     },
     {
       "album": {
@@ -3707,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185844,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ"
+    },
+    {
+      "album": {
         "name": "Luna En Capricornio",
         "url": "https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe"
       },
@@ -5120,7 +5160,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 277173,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/1l3xyA0rIKdin3AKyDyVDj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,351 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,413 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 38 | [Give Me Your Eyes](https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [What If We](https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk) | 3:52 |
 | 39 | [Hills and Valleys](https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:55 |
 | 40 | [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 |
-| 41 | [Fight On, Fighter](https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:38 |
-| 42 | [Born Again](https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 2:55 |
+| 41 | [Born Again](https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 2:55 |
+| 42 | [Fight On, Fighter](https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:38 |
 | 43 | [The Comeback](https://open.spotify.com/track/3QiF0PF9ciUoyHFrr6DBme) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:11 |
 | 44 | [I Need A Miracle](https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Miracle](https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3) | 3:42 |
 | 45 | [He Knows](https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:28 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
 | 65 | [Who You Say I Am \- Live](https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Who You Say I Am \(Live\)](https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc) | 5:29 |
 
-Snapshot ID: `MCxmODYzZTQzMjViMWZiMzcwMWZjMWVmNGVkZmFiNTlkMGI2NGM1ZjU4`
+Snapshot ID: `MCxjYjNlODE0ODgwODQxNTE3Mjk2MTg5MDZmYjZjZWJkN2MzNTM2ZjI5`

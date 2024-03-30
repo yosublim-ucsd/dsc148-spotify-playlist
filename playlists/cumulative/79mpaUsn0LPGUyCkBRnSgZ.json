@@ -8493,6 +8493,24 @@
     },
     {
       "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57439,
+      "name": "Rodeo World Champion",
+      "url": "https://open.spotify.com/track/38qRLcv80LRCvuYNaNUeJX"
+    },
+    {
+      "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },

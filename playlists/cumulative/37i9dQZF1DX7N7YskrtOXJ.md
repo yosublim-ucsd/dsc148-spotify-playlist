@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-177 songs - 10 hr 48 min
+178 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Pibe Cantina](https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 3:38 | 2024-02-27 |  |
 | [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 | 2023-08-25 |  |
 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 | 2023-08-25 |  |
-| [Porque Te Quiero](https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alegrìa](https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV) | [El Legado](https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH) | 1:17 | 2024-02-27 |  |
+| [Porque Te Quiero](https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alegrìa](https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV) | [El Legado](https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH) | 1:17 | 2024-02-27 | 2024-03-30 |
 | [Prisionera](https://open.spotify.com/track/1aQsmA0kB65bp19qG8WfxD) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk) | 3:13 | 2024-02-27 |  |
 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 | 2024-02-27 |  |
 | [Que Calor](https://open.spotify.com/track/5okavJ731DnmenoazNvinG) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 4:04 | 2023-08-25 | 2024-02-28 |
@@ -160,6 +160,7 @@
 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 | 2023-08-25 | 2024-02-28 |
 | [Tomando Alcohol](https://open.spotify.com/track/0Qs8MDrbTbf8nQERrBxl3U) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:19 | 2023-08-25 | 2024-03-16 |
 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 | 2024-02-27 |  |
+| [Torres Del Paine](https://open.spotify.com/track/6El1GAPRHcoP2rxERMz2Jj) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Torres Del Paine](https://open.spotify.com/album/3uFl4jYrz03lLruD5N1tkC) | 3:04 | 2024-03-29 |  |
 | [Tu Sangre En Mi cuerpo Feat\. Domi](https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Soy Cumbia](https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE) | 4:27 | 2023-08-25 | 2024-02-28 |
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-08-25 |  |
 | [Un Hombre No Llora](https://open.spotify.com/track/3i78S2Cm2V66QGkohxsqBD) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Un Hombre No Llora](https://open.spotify.com/album/5d0LrF2Sr4MTPomdDSglYI) | 5:00 | 2024-02-27 |  |

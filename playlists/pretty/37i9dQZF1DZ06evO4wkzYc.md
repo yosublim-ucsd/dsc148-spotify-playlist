@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,940 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,045 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 22 | [Que Lloro](https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Que Lloro](https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8) | 4:19 |
 | 23 | [Que Te Vaya Bien](https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1) | 3:58 |
 | 24 | [Amarte](https://open.spotify.com/track/5STnRqz3RMTnMXQVUunkHf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 2:40 |
-| 25 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
-| 26 | [Zutano](https://open.spotify.com/track/4g3Y1nH454CQO6DINjb7qm) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Zutano](https://open.spotify.com/album/6eBwuCa1Sn6Akd8B4K3MVk) | 3:01 |
+| 25 | [Zutano](https://open.spotify.com/track/4g3Y1nH454CQO6DINjb7qm) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Zutano](https://open.spotify.com/album/6eBwuCa1Sn6Akd8B4K3MVk) | 3:01 |
+| 26 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
 | 27 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 |
 | 28 | [La Pareja Ideal \- Live](https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR) | 4:09 |
 | 29 | [No Me Quiero Enamorar](https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Ya Regresamos Al Ruedo \(Fernando Meza\) \- En Vivo](https://open.spotify.com/track/2HqODdSbWmoaoNZRCUPpuE) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Pa Que Amarre \(En Vivo\)](https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066) | 3:18 |
 | 50 | [El Mandado](https://open.spotify.com/track/64kqJ2pSMRLGdBcnNbeNpw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 2:41 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBmY2JjODNhZGRlMTZlMzU4MTgxMjEzZTIzODhkMzIzYQ==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDAzYjk0MWZhYTYyNDliNDQyOTQwYTdhNjgxZTY0ZTY5Mg==`

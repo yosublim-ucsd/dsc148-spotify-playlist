@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,181 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,435 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Over You \(feat\. aespa & Chris Martin\)](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:53 |
 | 50 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 |
 
-Snapshot ID: `MCxjOGU0ZWZhMzJjYjYzZjdlZjljNzdkYjhhNzM5NjU0MWJmYTE3ZmU4`
+Snapshot ID: `MCxmZTc4MjdlNDlkMTMxNGE3YTVlYTNmZjExMzg4MmFkM2VmMWYzNTJj`

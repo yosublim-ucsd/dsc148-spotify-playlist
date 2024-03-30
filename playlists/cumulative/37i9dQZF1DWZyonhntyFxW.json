@@ -3863,6 +3863,32 @@
     },
     {
       "album": {
+        "name": "2000GEN",
+        "url": "https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk"
+      },
+      "artists": [
+        {
+          "name": "TURK",
+          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
+        },
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Dabl De",
+          "url": "https://open.spotify.com/artist/5aCqsScJyvSLpNLCl9ZikA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170460,
+      "name": "PARIS",
+      "url": "https://open.spotify.com/track/535QXmpOSHUMTw46lNJkj5"
+    },
+    {
+      "album": {
         "name": "MAQSOUM",
         "url": "https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC"
       },

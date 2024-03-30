@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 353877,
+  "num_followers": 353903,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ5MmQ1NDAxODBiYmE2ZWRhMGZmY2M4OTMyNTczMGE4NWQzMjdk",
+  "snapshot_id": "MCw1NzYzODI0Y2VjMjEyMGNhMzEwMjE3OGE0NDQ3OTA0ODE2NGIwZjZi",
   "tracks": [
     {
       "added_at": "2024-03-22 20:05:58",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Pass The Nirvana",
-      "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290"
     },
     {
       "added_at": "2024-03-22 20:05:58",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "Core (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 245266,
       "name": "Wicked Garden - 2017 Remaster",
       "url": "https://open.spotify.com/track/7FblcKgEyo6zZjSMAnYpOX"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2024-03-22 20:05:58",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "The Science of Things (Remastered)",
         "url": "https://open.spotify.com/album/3g8X1UPYeOQONtYJyy2F1h"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 217493,
       "name": "The Chemicals Between Us",
       "url": "https://open.spotify.com/track/2jOdqw7a9uV1s256FXXR4W"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
     },
     {
       "added_at": "2024-03-22 20:05:58",

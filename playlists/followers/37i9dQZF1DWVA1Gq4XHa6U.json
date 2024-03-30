@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 3692076,
+  "2024-03-30": 3692741,
   "date_first_scraped": "2021-12-21",
   "description": "Taking it way back! Cover: Eminem",
   "name": "Gold School",
@@ -3723,7 +3723,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 208840,
       "name": "Oh My God (feat. Busta Rhymes)",
       "url": "https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9"
@@ -4953,6 +4953,28 @@
       "duration_ms": 375050,
       "name": "Successful (feat. Trey Songz & Lil Wayne)",
       "url": "https://open.spotify.com/track/6NwhtCYkfwWlcR62Ac4E7y"
+    },
+    {
+      "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Matthew Santos",
+          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Superstar (feat. Matthew Santos)",
+      "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
     },
     {
       "album": {

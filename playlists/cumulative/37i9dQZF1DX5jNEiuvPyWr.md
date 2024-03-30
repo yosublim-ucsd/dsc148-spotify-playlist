@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : USKY
 
-363 songs - 17 hr 53 min
+364 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [BLEU](https://open.spotify.com/track/4nIpx5FodqLx2fDjHQEeLU) | [Lapostroz](https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj) | [BLEU](https://open.spotify.com/album/58DA8gJ84X9aNARatE28DM) | 2:26 | 2023-03-09 | 2023-04-28 |
 | [BLEU LAGON](https://open.spotify.com/track/1SNEAzB5bb3a78remdicrF) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [BLEU LAGON](https://open.spotify.com/album/3lO5XN3KuAydWx9zIgdCf3) | 2:21 | 2023-08-24 | 2023-09-22 |
 | [BLEU LAGON](https://open.spotify.com/track/5HNdXMCVcUNrzcZZS68Abv) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [BLEU LAGON](https://open.spotify.com/album/4Gl1DkdM3CtGGj9fMXpSMl) | 2:21 | 2023-06-29 | 2023-09-06 |
-| [Boboalam](https://open.spotify.com/track/03Dt6KdZz1QrL898QxEdmb) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [SOLSAD](https://open.spotify.com/album/0fZgRt7DLwwWSErSJjJAiP) | 2:49 | 2024-02-22 |  |
+| [Boboalam](https://open.spotify.com/track/03Dt6KdZz1QrL898QxEdmb) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [SOLSAD](https://open.spotify.com/album/0fZgRt7DLwwWSErSJjJAiP) | 2:49 | 2024-02-22 | 2024-03-30 |
+| [Boboalam](https://open.spotify.com/track/0CxkghH2XufHbbuNk5y7SX) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 2:49 | 2024-03-28 |  |
 | [Bonjour quand même](https://open.spotify.com/track/1ozKwcj59fq7PYjyi3NWbe) | [Tsune](https://open.spotify.com/artist/3xQSe5wUqOUFcF5GWlziQb) | [Bonjour quand même](https://open.spotify.com/album/1pLz5qmhYnHt4kUkAW0zfr) | 3:30 | 2023-08-10 | 2023-09-29 |
 | [BORDEL](https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [BORDEL](https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh) | 2:47 | 2023-04-27 | 2023-05-26 |
 | [BOTTEGA](https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB) | [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [23 \-](https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI) | 3:07 | 2023-11-30 |  |

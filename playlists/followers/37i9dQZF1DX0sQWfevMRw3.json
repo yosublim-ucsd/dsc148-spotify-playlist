@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 160863,
+  "2024-03-30": 161059,
   "date_first_scraped": "2021-12-21",
-  "description": "DUNKA PL\u00c5TEN OCH K\u00c4NNA VI \u00c4R FRIA!!",
+  "description": "VEM FAN E DU!?",
   "name": "30 km/h",
   "tracks": [
     {
@@ -815,7 +815,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 157417,
       "name": "ALLTID NAKEN",
       "url": "https://open.spotify.com/track/4iT72htUE9Gu9jfCDp1U4V"
@@ -1195,7 +1195,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 126909,
       "name": "BANGAR ALDRIG EN SHOT",
       "url": "https://open.spotify.com/track/7jd4zVij4ymYbFOknEf1mU"
@@ -2190,6 +2190,32 @@
     },
     {
       "album": {
+        "name": "B\u00c4ST P\u00c5 FEST",
+        "url": "https://open.spotify.com/album/3Tcs0b6zZsSZ5ixTRpCBj5"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "Alkis",
+          "url": "https://open.spotify.com/artist/4du4gxnCGpDsJHYfCL66WD"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "B\u00c4ST P\u00c5 FEST",
+      "url": "https://open.spotify.com/track/541o1MfybemgF5lMBCa0D6"
+    },
+    {
+      "album": {
         "name": "B\u00e4sta Jag Vet (Gathering Crew)",
         "url": "https://open.spotify.com/album/5OJABNN9AH8pbAHTRz8PHS"
       },
@@ -2511,7 +2537,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 129455,
       "name": "CHEVAN",
       "url": "https://open.spotify.com/track/36xJk4gT1rLIZfMVlVQ96f"
@@ -2959,7 +2985,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 125744,
       "name": "DANSAR DOM I HIMLEN",
       "url": "https://open.spotify.com/track/5xpyEuc8pfYzEUaKlmEorf"
@@ -3331,7 +3357,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 147106,
       "name": "DIMMAN",
       "url": "https://open.spotify.com/track/48pGUH0mflMnEoioy2d5fi"
@@ -6105,7 +6131,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 184941,
       "name": "FREDAG - MADNEZZ Remix",
       "url": "https://open.spotify.com/track/62Nuc5U7l3yrqwjWRVB3ib"
@@ -6123,7 +6149,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 159000,
       "name": "FREDAG L\u00d6RDAG",
       "url": "https://open.spotify.com/track/7C6uqQotCbCQkTES7uLXsG"
@@ -6969,7 +6995,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 133710,
       "name": "F\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/4iKByX2URGQHhWocaMdwVs"
@@ -8521,7 +8547,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 117151,
       "name": "HELAN G\u00c5R",
       "url": "https://open.spotify.com/track/6cvbfSWecTmdF7eRbOcPIg"
@@ -8697,6 +8723,24 @@
       "duration_ms": 167832,
       "name": "HET",
       "url": "https://open.spotify.com/track/5RaQUKpL2DtpEPFhnddC65"
+    },
+    {
+      "album": {
+        "name": "HEY BABY",
+        "url": "https://open.spotify.com/album/42Y3E4CrRFONZ6Ji6WhMgf"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132003,
+      "name": "HEY BABY",
+      "url": "https://open.spotify.com/track/56yXFAt1OptPnMTcaP4do2"
     },
     {
       "album": {
@@ -8951,7 +8995,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 153604,
       "name": "HON VILL \u00c5KA",
       "url": "https://open.spotify.com/track/4k8Ze6hPpAH7SFYRzBmbtY"
@@ -11317,6 +11361,28 @@
       "duration_ms": 136000,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/6teLgus7jAEM7iswdGTTXj"
+    },
+    {
+      "album": {
+        "name": "Lavish (Gingerjompa Remix)",
+        "url": "https://open.spotify.com/album/2deGyQQ7HynLazLfr0BMyB"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        },
+        {
+          "name": "GingerJompa",
+          "url": "https://open.spotify.com/artist/7aa3reqsfQ4FQq18stqY2z"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100909,
+      "name": "Lavish (Gingerjompa Remix)",
+      "url": "https://open.spotify.com/track/0q4iioGvWyt2rD7vJnMp6A"
     },
     {
       "album": {
@@ -13904,6 +13970,28 @@
     },
     {
       "album": {
+        "name": "PAPPA BETALAR",
+        "url": "https://open.spotify.com/album/3bM5BRHvQ4u1D328FAUwy3"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165584,
+      "name": "PAPPA BETALAR",
+      "url": "https://open.spotify.com/track/66AqzCKAM1yt8wC7TrrqsA"
+    },
+    {
+      "album": {
         "name": "Paradise (Topic Remix)",
         "url": "https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F"
       },
@@ -15471,6 +15559,28 @@
       "duration_ms": 140921,
       "name": "Rave In My Garage",
       "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"
+    },
+    {
+      "album": {
+        "name": "REBOUND",
+        "url": "https://open.spotify.com/album/2dfL5UmETTrShf8ECrM9Tw"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        },
+        {
+          "name": "SED",
+          "url": "https://open.spotify.com/artist/0miDgiQWeCMWEBdJD9uZCt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110470,
+      "name": "REBOUND",
+      "url": "https://open.spotify.com/track/1dJrKfAg3nFwNAE6I7I9hh"
     },
     {
       "album": {
@@ -17085,7 +17195,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 165077,
       "name": "Snabbk\u00f6pskass\u00f6rskan",
       "url": "https://open.spotify.com/track/6irCeKrLW3c8igGJmdhjXC"
@@ -18426,6 +18536,24 @@
     },
     {
       "album": {
+        "name": "SUPIT BORT DITT NAMN",
+        "url": "https://open.spotify.com/album/2ThiLpOFQKQOOtFKK5NpRS"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132467,
+      "name": "SUPIT BORT DITT NAMN",
+      "url": "https://open.spotify.com/track/2fk4VRwQkbasWYm2sqXDMH"
+    },
+    {
+      "album": {
         "name": "Survivors",
         "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
       },
@@ -18773,6 +18901,24 @@
       "duration_ms": 181555,
       "name": "S\u00c5 M\u00c5NGA MIL, S\u00c5 M\u00c5NGA \u00c5R...",
       "url": "https://open.spotify.com/track/3yE566OGWBAZ6Z6SuosfFQ"
+    },
+    {
+      "album": {
+        "name": "TA EN SHOT MED MIG",
+        "url": "https://open.spotify.com/album/0xOu8A9WuHt7bJPkvZtnv0"
+      },
+      "artists": [
+        {
+          "name": "RIK1",
+          "url": "https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145745,
+      "name": "TA EN SHOT MED MIG",
+      "url": "https://open.spotify.com/track/3owHmkXorSOsxWtwU7byqO"
     },
     {
       "album": {
@@ -20167,7 +20313,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 130451,
       "name": "UT P\u00c5 TUR",
       "url": "https://open.spotify.com/track/7EZPuUwZXxIItsRPjXGCSe"
@@ -20491,10 +20637,36 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 142857,
       "name": "Vart \u00e4r du nu?",
       "url": "https://open.spotify.com/track/7pkMqtGQx3XAQtDmPTwPQq"
+    },
+    {
+      "album": {
+        "name": "Vart \u00e4r min j\u00e4germeister",
+        "url": "https://open.spotify.com/album/1aE5GS4nPUvJRuYIZMtwuj"
+      },
+      "artists": [
+        {
+          "name": "Kalford",
+          "url": "https://open.spotify.com/artist/2tTAkJsbHUGxoXl2k9C9LP"
+        },
+        {
+          "name": "5050x2",
+          "url": "https://open.spotify.com/artist/7F2Vw62Bd8yC5gMNKQs5oX"
+        },
+        {
+          "name": "R8ttan",
+          "url": "https://open.spotify.com/artist/2yxGDwDSXkr1pN0u3jvfQI"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179366,
+      "name": "Vart \u00e4r min j\u00e4germeister",
+      "url": "https://open.spotify.com/track/5epGQUGon31ZG7UAhAgOIt"
     },
     {
       "album": {
@@ -20869,6 +21041,24 @@
       "duration_ms": 150687,
       "name": "VIP",
       "url": "https://open.spotify.com/track/58QoOmzoDZWkvFHaMyH0l7"
+    },
+    {
+      "album": {
+        "name": "VIVA LA GUNILLA",
+        "url": "https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8"
+      },
+      "artists": [
+        {
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131363,
+      "name": "VIVA LA GUNILLA",
+      "url": "https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0"
     },
     {
       "album": {

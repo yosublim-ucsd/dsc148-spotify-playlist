@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,949 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,333 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 44 | [Blast](https://open.spotify.com/track/6IueCsicxdsbMj1HTF8jxq) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [KSKV](https://open.spotify.com/artist/07BMRyGNDQEqrjtlqjfYuh) | [Blast](https://open.spotify.com/album/7De3XSkwYMfun0zzYzQRm4) | 2:36 |
 | 45 | [Look at Me](https://open.spotify.com/track/4lkBJU3iKwpO0dJiBZ5wAj) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/2QNjFtr2gEXQOmKIn5maJq) | 2:19 |
 | 46 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
-| 47 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 |
-| 48 | [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 |
+| 47 | [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 |
+| 48 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 |
 | 49 | [Candy Shop](https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z) | [BeeBars](https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Candy Shop](https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K) | 2:20 |
 | 50 | [Sweet Dreams](https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Sweet Dreams](https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ) | 2:32 |
 
-Snapshot ID: `MCw1OGVhMzZhODQ4NTFlMDEyMzM4OTJjNTQ1NDQ4ZGJhOTc2MGZjNTVi`
+Snapshot ID: `MCwzMzhlYzQ3OGI5NzhmMjBiY2I3YmE5NDgzZDA5MTNkOGRiM2E2NTVk`

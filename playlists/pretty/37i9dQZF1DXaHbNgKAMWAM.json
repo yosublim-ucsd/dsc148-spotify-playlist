@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 15233,
+  "num_followers": 15236,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjA5YmQyZWFiMTAyMjU3YmZhMjgzMTBkNjU2NDI4MjJiNDUyYzdi",
+  "snapshot_id": "MCxkMjE3ZmQwMzg1NjVjZDI4MzlkYTllMDU2NzVkNWNjMmRlMzYwMjZi",
   "tracks": [
     {
       "added_at": "2024-03-08 06:36:14",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Love in the Milky Way Cafe",
+      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
         "name": "The King : Eternal Monarch, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
-        "name": "1.0",
-        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Love in the Milky Way Cafe",
-      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Pit a Pat",
-      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
         "name": "Way U Are (feat. BIG Naughty)",
         "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
@@ -615,6 +631,22 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
+        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 190520,
+      "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
+      "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
       },
@@ -631,38 +663,6 @@
       "duration_ms": 217000,
       "name": "Evening (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
-        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
-      "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 227054,
+      "name": "Tale",
+      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
         "name": "LOVE.",
         "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
         }
       ],
-      "duration_ms": 227054,
-      "name": "Tale",
-      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -907,22 +923,6 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
-        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN"
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/1fd8EG7lwkqjs3bRMwyHrx"
       },
       "artists": [
         {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Be Your Love",
-      "url": "https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA"
+      "duration_ms": 261252,
+      "name": "Stand by you",
+      "url": "https://open.spotify.com/track/3D7PTQ1lXl2Ni7dophG4of"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",

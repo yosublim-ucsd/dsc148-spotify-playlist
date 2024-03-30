@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,549 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,544 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [Special](https://open.spotify.com/track/0mJXYwO3SY1botH8lBfjBQ) | [유빈](https://open.spotify.com/artist/54WmF0InV2ogQOVKnZJExd) | [Chocolate, Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/79wBNq5XUF8BkdmNjPoxrO) | 3:32 |
 | 50 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 |
 
-Snapshot ID: `MCwwNTU5YTU0M2I3YjBlNjY2ZDAwM2ZjMTY5NjdhMDFiOGU1YjMwZmJk`
+Snapshot ID: `MCw5NTNkMzdmMjA1YjM4MDBkMTY2NGFkOGRkMGIxNWY5ZTAyYzk0ZDhk`

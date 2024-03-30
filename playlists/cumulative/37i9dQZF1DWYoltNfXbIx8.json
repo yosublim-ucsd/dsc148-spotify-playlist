@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "A Onda Leva",
+        "url": "https://open.spotify.com/album/6UudV04sbXaZA2pvAW8Ply"
+      },
+      "artists": [
+        {
+          "name": "Atitude Consciente",
+          "url": "https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr"
+        },
+        {
+          "name": "Iel",
+          "url": "https://open.spotify.com/artist/7CeX8FscZ3ymBM7szYWEIp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185704,
+      "name": "A Onda Leva",
+      "url": "https://open.spotify.com/track/1IpHjWb6dLTxwQHoyGDFq1"
+    },
+    {
+      "album": {
         "name": "Doctor MC's",
         "url": "https://open.spotify.com/album/1tudH2y1sw3V1EaUpMMKYW"
       },
@@ -208,7 +230,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 453933,
       "name": "Bras\u00edlia Periferia, Pt. 2",
       "url": "https://open.spotify.com/track/6VO6LtVee73oVA0iIQnjt8"
@@ -762,7 +784,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 266193,
       "name": "Mandando Bronca",
       "url": "https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz"
@@ -1562,6 +1584,24 @@
       "duration_ms": 329920,
       "name": "Respeito \u00c9 pra Quem Tem",
       "url": "https://open.spotify.com/track/5yVK0yIimJJDiFkFSTgQSd"
+    },
+    {
+      "album": {
+        "name": "GOG Convida",
+        "url": "https://open.spotify.com/album/1U1JpbIobDec0TL1EhI0aB"
+      },
+      "artists": [
+        {
+          "name": "GOG",
+          "url": "https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428586,
+      "name": "Rezem por Aquele Homem (Ideologia e Tal)",
+      "url": "https://open.spotify.com/track/0IwVbxVBEaFKfm7dhDnCdv"
     },
     {
       "album": {

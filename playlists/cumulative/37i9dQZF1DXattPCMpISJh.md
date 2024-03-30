@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-253 songs - 15 hr 44 min
+254 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2022-05-20 |  |
 | [Alan Falke \- Radio Edit](https://open.spotify.com/track/4IdIIXJgYysUJjiDmmy9Bw) | [Disfunktion](https://open.spotify.com/artist/1sXOD5MDspxw6Me8zHyxYD) | [Alan Falke](https://open.spotify.com/album/4ienV82TE2GyrqyA8UZ3SX) | 3:20 | 2022-03-04 | 2023-02-11 |
 | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd) | [RELATIN](https://open.spotify.com/artist/0t3hsCFzCFOP4Zev9DOIw8), [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/album/2Txxw56PHJcWihrTHjFubI) | 3:48 | 2022-07-01 | 2023-05-20 |
-| [All Eyes On You \- Edit](https://open.spotify.com/track/0GY5zHmNNeJ78UWp8Q5MBC) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL) | [All Eyes On You \(Edit\)](https://open.spotify.com/album/1iFA2vTlQEj9yCmp0z035C) | 3:45 | 2022-02-25 |  |
+| [All Eyes On You \- Edit](https://open.spotify.com/track/0GY5zHmNNeJ78UWp8Q5MBC) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL) | [All Eyes On You \(Edit\)](https://open.spotify.com/album/1iFA2vTlQEj9yCmp0z035C) | 3:45 | 2022-02-25 | 2024-03-30 |
 | [All My Love \(feat\. Olivera\)](https://open.spotify.com/track/4axALpFKrIPxwQRnYJ1Zmc) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [NOVODOR](https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [All My Love \(feat\. Olivera\)](https://open.spotify.com/album/4p875FDTzVTHQ3PGmxURJU) | 2:53 | 2022-07-29 |  |
 | [Alright](https://open.spotify.com/track/7eesGl3Q4HJrPQ6j6DGob9) | [LUXXURY](https://open.spotify.com/artist/562q9ntuNSaVyt1bvPa77z) | [Alright](https://open.spotify.com/album/4orSRxzSk8phgNzUvXhR22) | 3:26 | 2022-07-08 | 2023-03-04 |
 | [Another Day Gone](https://open.spotify.com/track/1JZDE8ZhpxlWYy1r09vjDe) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq), [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [Another Day Gone](https://open.spotify.com/album/70aBKFu1NTqccXTHPVr682) | 3:37 | 2022-09-30 | 2024-03-23 |
@@ -221,6 +221,7 @@
 | [Take Me To Your Body](https://open.spotify.com/track/4Ct3Oh6BG30FJxerhB8vRT) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Take Me To Your Body](https://open.spotify.com/album/5zRr1T7JkfEJp6Kf1LmmPG) | 3:28 | 2022-11-18 |  |
 | [Take My Heart Away](https://open.spotify.com/track/2nSqBcTJ6ObEPHbphXGSCB) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Thieves](https://open.spotify.com/album/2SZMyF0H7a9p8VenQZ3c2S) | 4:04 | 2024-03-22 |  |
 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Take Your Time \(Do It Right\)](https://open.spotify.com/album/5flGddeRshLt7jHLHUfQ4Z) | 4:02 | 2023-04-14 |  |
+| [Talk To Me](https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Talk To Me](https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e) | 4:04 | 2024-03-29 |  |
 | [Telepathy](https://open.spotify.com/track/2xB5FQsZMhM9FHkvl8qh5C) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [Blake Anthony](https://open.spotify.com/artist/79GLPoynz70rIoWB4ErgBb) | [Telepathy](https://open.spotify.com/album/2jgvP8GP6bzoQBfU5CM706) | 3:28 | 2022-02-25 | 2023-02-11 |
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-20 |  |
 | [The Disco Song](https://open.spotify.com/track/1k5uC3EcnsIEbOMB680Afb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Disco Song](https://open.spotify.com/album/68Oj7EjlT1YShQUFOgBQMm) | 3:57 | 2021-09-17 | 2022-08-20 |

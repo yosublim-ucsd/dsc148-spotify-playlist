@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-335 songs - 17 hr 39 min
+335 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Lowkey](https://open.spotify.com/track/35rjIaj1FibJnFFz0YJWnQ) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Lowkey](https://open.spotify.com/album/15s7cPQMJh3OHcbjgxXhpp) | 3:16 | 2023-12-01 | 2023-12-08 |
 | [Magic \(with Slim Kofi\)](https://open.spotify.com/track/1uvVtqWFD5ur2A45zo9FRm) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6) | [Magic \(with Slim Kofi\)](https://open.spotify.com/album/3mHNVPpAT202YZuT0nxNaD) | 3:09 | 2023-04-14 | 2023-04-21 |
 | [Make a Way](https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Sounds from the Slums](https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu) | 2:52 | 2022-11-04 | 2023-02-10 |
-| [Makoma](https://open.spotify.com/track/2rnggPpQaIIfH2jlAjluqn) | [Becca](https://open.spotify.com/artist/6vMTJy1XlG5FzAuuSLLTAX) | [Makoma](https://open.spotify.com/album/27Nr3Bf2wlj1pyPLNodfA5) | 3:40 | 2024-03-22 |  |
+| [Makoma](https://open.spotify.com/track/2rnggPpQaIIfH2jlAjluqn) | [Becca](https://open.spotify.com/artist/6vMTJy1XlG5FzAuuSLLTAX) | [Makoma](https://open.spotify.com/album/27Nr3Bf2wlj1pyPLNodfA5) | 3:07 | 2024-03-22 |  |
 | [Man Down](https://open.spotify.com/track/5ueJRYPP0DVeTsBmUAlZlk) | [Ahkan](https://open.spotify.com/artist/5KMfDX3ykXbSVQoCRdcIuT) | [Man Down](https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32) | 3:16 | 2023-04-27 | 2023-05-05 |
 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 |  |
 | [Maradona](https://open.spotify.com/track/6J2Xc1SgiPbF3UgS4Qfguv) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Maradona](https://open.spotify.com/album/0DklTPJBpPqQaAUP6ZXmhR) | 3:14 | 2023-10-20 | 2023-11-10 |

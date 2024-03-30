@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Howard Lee \(李浩瑋\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,740 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,751 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 59 | [Sleepwalking](https://open.spotify.com/track/0JaEw62n5uyNZRT29SrkdW) | [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [Sleepwalking](https://open.spotify.com/album/4sLOmpKrjyvbPs3X1k961F) | 4:13 |
 | 60 | [Nothing Shaped Hearts](https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh) | [Super Napkin](https://open.spotify.com/artist/5zqQabBzjxOyA0VkIRjPZw) | [Nothing is Diamond, Diamond is Wrong](https://open.spotify.com/album/3ny1FFWk6PQF98kodYn9WQ) | 3:48 |
 
-Snapshot ID: `MCw2MDZiYzE1YjI1NzhlN2I4YjUxODYwY2M2NWY4NzJkN2YwMTA0MGJi`
+Snapshot ID: `MCxjMzFhNjQzYzkxZmUwNmM0Zjc1NjVhYWVhNDM0Zjk2YjU1MzNmMmI5`

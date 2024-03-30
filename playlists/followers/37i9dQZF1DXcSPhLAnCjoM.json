@@ -1,9 +1,31 @@
 {
-  "2024-03-29": 1011445,
+  "2024-03-30": 1011608,
   "date_first_scraped": "2023-09-29",
-  "description": "Pierre Garnier au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Louane au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
+    {
+      "album": {
+        "name": "Aim\u00e9e pour de vrai",
+        "url": "https://open.spotify.com/album/5A3ws0VOAm5S1bFZpJBotM"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        },
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Aim\u00e9e pour de vrai",
+      "url": "https://open.spotify.com/track/3MFphLI59LK2MqvVY9ZMTZ"
+    },
     {
       "album": {
         "name": "L'album de la promo 2023",
@@ -21,7 +43,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 188960,
       "name": "Aim\u00e9e pour de vrai",
       "url": "https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1"
@@ -592,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Dis-toi que c'est la vie",
+        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147405,
+      "name": "Dis-toi que c'est la vie",
+      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
+    },
+    {
+      "album": {
         "name": "Douce",
         "url": "https://open.spotify.com/album/48cdzmZdWpG9INtGhh9jvg"
       },
@@ -731,6 +771,24 @@
       "duration_ms": 318013,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/6vB93dZmNfYrNuk2vsmb7f"
+    },
+    {
+      "album": {
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
       "album": {
@@ -981,7 +1039,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 170026,
       "name": "Je cours (feat. Nuit Incolore)",
       "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
@@ -1943,7 +2001,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 188093,
       "name": "Promets-moi",
       "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Nonpalidece
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,049 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,150 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 50 | [Do It Right](https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2023](https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT) | 3:44 |
 | 51 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 |
 | 52 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
-| 53 | [Caminando](https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Reggae Mexicano](https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4) | 4:21 |
+| 53 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 |
 | 54 | [Véngase II](https://open.spotify.com/track/3pzM6wDql5VklfF8E0ZmdY) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:21 |
-| 55 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 |
+| 55 | [Caminando](https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Reggae Mexicano](https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4) | 4:21 |
 | 56 | [Mi Guitarra Enamorada](https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:53 |
 | 57 | [En el Aire](https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH) | 4:17 |
 | 58 | [Reggae Para Los Amigos](https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
 | 100 | [Destroy The Empire](https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:24 |
 
-Snapshot ID: `MCw4ZjZmZjU4ZTA1NGZhYzA5ZTQ2YzlhZjVkMWI4ODg1NDBkODc2N2Jj`
+Snapshot ID: `MCxlY2ZlYTM1NDYzMjkzNmM1ZDFjN2VhMDI3ODk1OWMyYmE1YTc2MTkw`

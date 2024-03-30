@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,509 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,591 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 22 | [Strangers In The Night](https://open.spotify.com/track/0bwGQuuUox874LzqHfs6yP) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX), [Charles Singleton](https://open.spotify.com/artist/73CBAbob2ngJHFfCUgsRjb), [Eddie Snyder](https://open.spotify.com/artist/3GJtenASPXw0kiHS1ylGZb), [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ) | 2:14 |
 | 23 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
 | 24 | [Fools Rush In \(Where Angels Fear to Tread\)](https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:08 |
-| 25 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
-| 26 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |
+| 25 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |
+| 26 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
 | 27 | [Georgy Girl](https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz) | [Ronnie Aldrich and his 2 pianos](https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT), [London Festival Orchestra](https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9) | [Two Pianos Today](https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY) | 3:08 |
 | 28 | [Autumn in New York](https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 3:36 |
 | 29 | [The Warmth Of The Sun](https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 69 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 70 | [Megeve](https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Charade](https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy) | 2:59 |
 
-Snapshot ID: `MCw2OTk0Nzk0ZWFjYWI4OGM5YWU5ZDdmZmY1M2E1M2IwNGVlM2EzMDNm`
+Snapshot ID: `MCxiMzczODBkYmQzODVmMDRkZDcxZDcxYzhkY2Y5NDcxMzkyZmJjZjE3`

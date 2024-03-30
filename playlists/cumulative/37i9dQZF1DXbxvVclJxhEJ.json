@@ -1304,6 +1304,24 @@
     {
       "album": {
         "name": "Love You!",
+        "url": "https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132106,
+      "name": "Rock The Bop",
+      "url": "https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin"
+    },
+    {
+      "album": {
+        "name": "Love You!",
         "url": "https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp"
       },
       "artists": [
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 133733,
       "name": "Rock The Bop",
       "url": "https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA"

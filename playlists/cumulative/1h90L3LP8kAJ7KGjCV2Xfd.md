@@ -4,7 +4,7 @@
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-296 songs - 16 hr 29 min
+298 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [JUMPIN](https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [JUMPIN](https://open.spotify.com/album/2Gf3rUMIPtYL29TQx4Xnob) | 2:24 | 2023-04-25 |  |
 | [King of Anything](https://open.spotify.com/track/3VA8T3rNy5V24AXxNK5u9E) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 3:27 | 2022-06-03 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-03 |  |
+| [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 | 2024-03-29 |  |
 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 | 2022-09-19 | 2023-01-07 |
 | [La Equivocada](https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Equivocada](https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l) | 3:18 | 2022-06-03 |  |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-07 |  |
@@ -302,6 +303,7 @@
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 3:10 | 2022-06-03 |  |
 | [Young and Stupid](https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:58 | 2022-06-03 | 2023-01-07 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-15 | 2023-03-21 |
+| [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 | 2024-03-29 |  |
 | [Zikidown](https://open.spotify.com/track/1HTKClBb9i0xX3Hdqxu8tR) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Zikidown](https://open.spotify.com/album/7fEfaYKEixA4gEKQW8kxSe) | 2:08 | 2023-02-21 | 2023-02-28 |
 | [Éxtasis](https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Éxtasis](https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451) | 3:11 | 2022-11-01 |  |
 

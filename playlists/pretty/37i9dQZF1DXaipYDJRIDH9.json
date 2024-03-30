@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 218051,
+  "num_followers": 218058,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWM1ODNkNjVhNWU2NDkxNjdmN2RlYzZkMmRkMmY5NmUyMDNkM2M3",
+  "snapshot_id": "MCwxMzUxNzU5OGNkYzgwYjZlNTllOWJiNzM4ODMyZjdmNjNjMmE5Mjg4",
   "tracks": [
     {
       "added_at": "2024-03-25 14:02:22",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "Daffodils",
+        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "Narrative",
         "url": "https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 177323,
       "name": "Irenic",
       "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
-        "name": "Daffodils",
-        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Daffodils",
-      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "The Old Chapel",
         "url": "https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL"
       },
@@ -395,6 +411,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "Chanson Pour Un Amour Perdu",
+        "url": "https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "duration_ms": 123628,
+      "name": "Chanson Pour Un Amour Perdu",
+      "url": "https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4"
       },
@@ -411,22 +443,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7"
-      },
-      "artists": [
-        {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "M\u00e9lange Weaved",
         "url": "https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 126778,
       "name": "M\u00e9lange Weaved",
       "url": "https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
-        "name": "Chanson Pour Un Amour Perdu",
-        "url": "https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn"
-      },
-      "artists": [
-        {
-          "name": "M\u00edrabilis",
-          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
-        }
-      ],
-      "duration_ms": 123628,
-      "name": "Chanson Pour Un Amour Perdu",
-      "url": "https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -487,6 +487,22 @@
       "duration_ms": 171063,
       "name": "The Lights Around the Shore",
       "url": "https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "Minor Fable",
+        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 121308,
+      "name": "Minor Fable",
+      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -539,22 +555,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "No Goodbye",
-        "url": "https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL"
-      },
-      "artists": [
-        {
-          "name": "Jules Dubois",
-          "url": "https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "No Goodbye",
-      "url": "https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Littoral",
         "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
       },
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Minor Fable",
-        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
+        "name": "No Goodbye",
+        "url": "https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL"
       },
       "artists": [
         {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+          "name": "Jules Dubois",
+          "url": "https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY"
         }
       ],
-      "duration_ms": 121308,
-      "name": "Minor Fable",
-      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
+      "duration_ms": 144624,
+      "name": "No Goodbye",
+      "url": "https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP"
-      },
-      "artists": [
-        {
-          "name": "Mima Renard",
-          "url": "https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4"
-        }
-      ],
-      "duration_ms": 126529,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Onirique",
         "url": "https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 155731,
       "name": "Onirique",
       "url": "https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP"
+      },
+      "artists": [
+        {
+          "name": "Mima Renard",
+          "url": "https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4"
+        }
+      ],
+      "duration_ms": 126529,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "The round",
+        "url": "https://open.spotify.com/album/58H4jQ4WViq58tku5lRwiK"
+      },
+      "artists": [
+        {
+          "name": "Redd Mae",
+          "url": "https://open.spotify.com/artist/06HnYHIlkitCKyiMel4rWp"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "The round",
+      "url": "https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/5WmgcLlvxLBGF0exbEyv5h"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 120080,
       "name": "A Day In June",
       "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
-        "name": "The round",
-        "url": "https://open.spotify.com/album/58H4jQ4WViq58tku5lRwiK"
-      },
-      "artists": [
-        {
-          "name": "Redd Mae",
-          "url": "https://open.spotify.com/artist/06HnYHIlkitCKyiMel4rWp"
-        }
-      ],
-      "duration_ms": 148941,
-      "name": "The round",
-      "url": "https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Ripples of Moonlight",
-        "url": "https://open.spotify.com/album/3Kwj5lCmfovJVt9qjVT6VY"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 131551,
-      "name": "Ripples of Moonlight",
-      "url": "https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
         "name": "Thirst",
         "url": "https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 157159,
       "name": "Thirst",
       "url": "https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
+        "name": "Ripples of Moonlight",
+        "url": "https://open.spotify.com/album/3Kwj5lCmfovJVt9qjVT6VY"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "duration_ms": 131551,
+      "name": "Ripples of Moonlight",
+      "url": "https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY"
+      },
+      "artists": [
+        {
+          "name": "Marco Apicella",
+          "url": "https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU"
+    },
+    {
+      "added_at": "2024-03-25 14:02:22",
+      "album": {
         "name": "Del Mar",
         "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 160064,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
-    },
-    {
-      "added_at": "2024-03-25 14:02:22",
-      "album": {
-        "name": "Fallen Leaves",
-        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
-      },
-      "artists": [
-        {
-          "name": "V\u00edgi Seaghdh",
-          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Fallen Leaves",
-      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
     },
     {
       "added_at": "2024-03-25 14:02:22",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-03-25 14:02:22",
       "album": {
-        "name": "Night Solace",
-        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
+        "name": "Fallen Leaves",
+        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
       },
       "artists": [
         {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+          "name": "V\u00edgi Seaghdh",
+          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
         }
       ],
-      "duration_ms": 161469,
-      "name": "Night Solace",
-      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
+      "duration_ms": 157626,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
     }
   ],
   "unique_name": "Foco no Estudo",

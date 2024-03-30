@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Tina Turner",
-  "num_followers": 278586,
+  "num_followers": 278694,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTliZGFmOTYxYjc1YTgwNWMxMDY1MDY4NGEwMGQwZjY1NDdkMzc0",
+  "snapshot_id": "MCxlMTNkMTI4OTE1MWIzYzUxMzI3YzcxYjBiNDExMmNjMjUxOGVhNmY3",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Air Supply",
-        "url": "https://open.spotify.com/album/5BzC8cPHDqQYgPmc1TAo2t"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Just as I Am",
-      "url": "https://open.spotify.com/track/20WC5ZN72x0552U3EwCalR"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 395400,
       "name": "New York Minute",
       "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Air Supply",
+        "url": "https://open.spotify.com/album/5BzC8cPHDqQYgPmc1TAo2t"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/20WC5ZN72x0552U3EwCalR"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The Very Best Of Dan Fogelberg",
-        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 362466,
       "name": "The Last Worthless Evening",
       "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The Very Best Of Dan Fogelberg",
+        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
     },
     {
       "added_at": "2023-03-30 14:38:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,740 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,885 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 49 | [on the rocks](https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [Attractive Museum](https://open.spotify.com/album/2P5aNv8rCe3ySUNqAP0cpm) | 4:25 |
 | 50 | [ココロ](https://open.spotify.com/track/6gsd0653qu7ePqE2gXA2ET) | [Toraboruta](https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4) | [トラボティック・チューン](https://open.spotify.com/album/7ARxgUQPhcLdsGau2yblFB) | 4:42 |
 | 51 | [SLoWMoTIoN](https://open.spotify.com/track/5moGDgg9undWOE9Uyz0kAO) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 5:13 |
-| 52 | [Blackjack](https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy) | [yuchaP](https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT) | [Trump](https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ) | 2:38 |
-| 53 | [Kunoichi Demo Koi ga Shitai](https://open.spotify.com/track/5lU6C6UZ0uJUTQtFNQKHJp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Boku wa Hatsue Miku to Kiss wo Shita](https://open.spotify.com/album/57Nadno9S8RWypTTdCs9eZ) | 4:15 |
+| 52 | [Kunoichi Demo Koi ga Shitai](https://open.spotify.com/track/5lU6C6UZ0uJUTQtFNQKHJp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Boku wa Hatsue Miku to Kiss wo Shita](https://open.spotify.com/album/57Nadno9S8RWypTTdCs9eZ) | 4:15 |
+| 53 | [Blackjack](https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy) | [yuchaP](https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT) | [Trump](https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ) | 2:38 |
 | 54 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
 | 55 | [アゲアゲアゲイン](https://open.spotify.com/track/27Jj60JmDXAqheRZ1XRBeG) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [グレイテスト・アイドル](https://open.spotify.com/album/0Pj2RT0PsvryvBrC8B0tS4) | 3:42 |
 | 56 | [39](https://open.spotify.com/track/3wmmuJJ1G9Ykkhp3NAqk8u) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39](https://open.spotify.com/album/5YX7NCGvKobJjYjmbs1maK) | 3:39 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 80 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 |
 | 81 | [erase or zero](https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2) | [HzEdge\(crystal P\)](https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T) | [crystaL](https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu) | 3:50 |
 | 82 | [Streaming Heart](https://open.spotify.com/track/28DyuhrsEP2mBlAVSTJPBg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/2oSy4DbxYUqDp4sie8LvFw) | 2:58 |
-| 83 | [shake it! \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:45 |
-| 84 | [Last Night, Good Night](https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 6:20 |
+| 83 | [Last Night, Good Night](https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 6:20 |
+| 84 | [shake it! \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:45 |
 | 85 | [紅一葉](https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [紅一葉](https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d) | 4:12 |
 | 86 | [ねこみみスイッチ](https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Neko seT](https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y) | 3:54 |
 | 87 | [E? Aa, Sou.](https://open.spotify.com/track/4laMKU1xcpbFdsX3LnA1Xb) | [Chouchou\-P](https://open.spotify.com/artist/13p1b6oCr8TusEButZxHZL) | [Exit Tunes Academy Best 3](https://open.spotify.com/album/67LlLI8CaW8avwTaoZDTHl) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 99 | [片想いサンバ](https://open.spotify.com/track/0Eg4oaHuQY9GGn7YMjIvpu) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス\\\(^o^\)/](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:58 |
 | 100 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliod\-P\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
 
-Snapshot ID: `MCw0NTI3Y2NlZjZlNzAxNjAwYWU5ODI0NDZjZDUzNmNmYzMxOTZjZDQ2`
+Snapshot ID: `MCxiNmQ2YTFkMjM4Njg0M2FiN2YwOTQ4MmQwNmM5ZjM2ZGRmOGE2MzE3`

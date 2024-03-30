@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,093 likes - 132 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,163 likes - 132 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 29 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 |
 | 30 | [Dark Murmur](https://open.spotify.com/track/6zOt0uyCSKyAfzt4vd2yMA) | [Shapeshifters](https://open.spotify.com/artist/1SuFELSa8GkDHVvdMU5mLE) | [Shapeshifters](https://open.spotify.com/album/3ibPxfErSDTyhJCVdjJYNv) | 5:53 |
 | 31 | [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 |
-| 32 | [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 |
+| 32 | [Hands Off](https://open.spotify.com/track/0g1JDkIaDX3xGAEdZ63XTe) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stealing Moments](https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt) | 4:23 |
 | 33 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 |
 | 34 | [Dirty No\-Gooder's Blues](https://open.spotify.com/track/7tO5SJLzk1p0KuPaoWI8cx) | [Amina Claudine Myers](https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3) | [Salutes Bessie Smith](https://open.spotify.com/album/6ohYYyh3R0uShJm8HE2peG) | 4:09 |
 | 35 | [Sadie Green](https://open.spotify.com/track/0jOjQMcpKluDnZ6dUfpDUR) | [Gloria Coleman Quartet](https://open.spotify.com/artist/7mPIwZ8S66iOzc95bRATeb), [Pola Roberts](https://open.spotify.com/artist/1Z82sSbwDDkZWEG5aOEC3C) | [Soul Sisters](https://open.spotify.com/album/4bjgPXmt8UCRDIstQXll5c) | 4:26 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 131 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 132 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MCxlMDZhNWQxOTI4OWE1OGE2Mjc0NGEwMDQ5MzkxNmRmMGZkMDQzZjQ0`
+Snapshot ID: `MCw3NDQyZDU1NmRiNzY1Y2FjNWU5Y2ZkYjkzZmQ0YWViNDYwZTg1NzVh`

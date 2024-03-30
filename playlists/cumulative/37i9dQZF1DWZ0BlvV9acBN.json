@@ -372,7 +372,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 565039,
       "name": "Aviva-Nos / A Terra Clama / Fogo e Gl\u00f3ria",
       "url": "https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE"
@@ -2221,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "Live Sessions",
+        "url": "https://open.spotify.com/album/32wLGts5FSsd3ll1Kupg6F"
+      },
+      "artists": [
+        {
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
+        },
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301181,
+      "name": "Salmo 13",
+      "url": "https://open.spotify.com/track/1KGq39KlJKihbiRxcMebeT"
+    },
+    {
+      "album": {
         "name": "Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
       },
@@ -2293,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Ex\u00edlio: Lado A",
+        "url": "https://open.spotify.com/album/4WWiamd2onNCdpfJCfrJBs"
+      },
+      "artists": [
+        {
+          "name": "Hugo Santos",
+          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279510,
+      "name": "Sobre as \u00c1guas",
+      "url": "https://open.spotify.com/track/7AxEkvEXLyNPdFdAWDF1rX"
+    },
+    {
+      "album": {
         "name": "Ex\u00edlio",
         "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
       },
@@ -2304,7 +2344,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 279510,
       "name": "Sobre as \u00c1guas",
       "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"

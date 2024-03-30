@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "4eVR",
+      "url": "https://open.spotify.com/track/3FQajYjHFNemPYasI7HbAI"
+    },
+    {
+      "album": {
         "name": "[Solo-Leveling]SymphonicSuite-Lv.1",
         "url": "https://open.spotify.com/album/5tA3jS8dhOAuviuLW4TyoJ"
       },
@@ -215,6 +233,24 @@
     },
     {
       "album": {
+        "name": "The Apothecary Diaries (Original Anime Soundtrack)",
+        "url": "https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164493,
+      "name": "Apothecary",
+      "url": "https://open.spotify.com/track/62kUz7a77fClCwKxoyFeP6"
+    },
+    {
+      "album": {
         "name": "As Long As I Got",
         "url": "https://open.spotify.com/album/4fQVUAJBglMr3usz0g4Sh8"
       },
@@ -262,7 +298,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 227213,
       "name": "BAKU",
       "url": "https://open.spotify.com/track/6IJ777JlDiPkA8SeIhBIqF"
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 173626,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3yBeQAxk5Jb6bzvUpqu5qX"
@@ -2128,6 +2164,24 @@
       "duration_ms": 252213,
       "name": "Rising Hope",
       "url": "https://open.spotify.com/track/6cjLwn9Y6xm2laGb9BV3um"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30c3\u30b7\u30e5\u30eb-MASHLE- Soundtrack Vol.2",
+        "url": "https://open.spotify.com/album/4wwUSUAchrcq0PiukiU1Cs"
+      },
+      "artists": [
+        {
+          "name": "Masaru Yokoyama",
+          "url": "https://open.spotify.com/artist/3RN3VTAcHI62WWV3PlwlLK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97213,
+      "name": "Rock-Solid Hero",
+      "url": "https://open.spotify.com/track/6YF7XbKCxeEoH8sETcJekg"
     },
     {
       "album": {
@@ -2853,6 +2907,32 @@
     },
     {
       "album": {
+        "name": "When Wishes Bloom (from \"The Apothecary Diaries\" Soundtrack)",
+        "url": "https://open.spotify.com/album/4kxAWubYxgVBB6149n7Pi9"
+      },
+      "artists": [
+        {
+          "name": "Aoiema",
+          "url": "https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D"
+        },
+        {
+          "name": "Mashiro Uchida",
+          "url": "https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo"
+        },
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278013,
+      "name": "When Wishes Bloom (from \"The Apothecary Diaries\" Soundtrack)",
+      "url": "https://open.spotify.com/track/2EMXqSv1xiGy0PfTIB0Uz3"
+    },
+    {
+      "album": {
         "name": "Who Do You Love (R3HAB Remix)",
         "url": "https://open.spotify.com/album/0ctKYh2R83FinJ8SzUFRd3"
       },
@@ -3300,7 +3380,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 190606,
       "name": "\u4e00\u9014",
       "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"

@@ -1577,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Ese Lugar de Ninguna Parte",
+        "url": "https://open.spotify.com/album/5dqPE0OJqJ37nEXMIj1eTI"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232522,
+      "name": "Ese Lugar de Ninguna Parte",
+      "url": "https://open.spotify.com/track/4Ll0B5IkgX3tmuAhNlZD3g"
+    },
+    {
+      "album": {
         "name": "Ese Tren (feat. Skay Beilinson)",
         "url": "https://open.spotify.com/album/4kUrH3Fb6Fx7Ps0AkgzQMS"
       },

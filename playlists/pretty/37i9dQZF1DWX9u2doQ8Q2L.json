@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 387640,
+  "num_followers": 387646,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjJmZTlhZDQ0ZWEwN2ZiYmNlYThlYmY0NjE4NWQ2N2U0NDk3MmIz",
+  "snapshot_id": "MCxhN2I0YjY3MDllYTY4NzFjY2E5Mjg2MzFmMjdjZGVjMGYxZTQzYjU4",
   "tracks": [
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
+        "name": "happy im",
+        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "happy im",
+      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
         "name": "Kids Return",
         "url": "https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 193279,
       "name": "Kids Return",
       "url": "https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "happy im",
-        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "happy im",
-      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "bugs",
-        "url": "https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7"
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
       "artists": [
         {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 239320,
-      "name": "bugs",
-      "url": "https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v"
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1187,18 +1187,70 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+        "name": "bugs",
+        "url": "https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 239320,
+      "name": "bugs",
+      "url": "https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
+        "name": "SAICO",
+        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 167429,
+      "name": "SAICO",
+      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
+        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
       },
       "artists": [
         {
           "name": "DURDN",
           "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+      "duration_ms": 272319,
+      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1223,34 +1275,18 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
-        "name": "SAICO",
-        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
       "artists": [
         {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 167429,
-      "name": "SAICO",
-      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "PRIVATE",
-        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1271,42 +1307,6 @@
       "duration_ms": 175151,
       "name": "iPhone feat. Skaai",
       "url": "https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
-        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 272319,
-      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
-      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
     },
     {
       "added_at": "2024-03-12 15:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-03-12 15:00:00",
       "album": {
+        "name": "39 Minutes",
+        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "39 Minutes",
+      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
+    },
+    {
+      "added_at": "2024-03-12 15:00:00",
+      "album": {
         "name": "Loa",
         "url": "https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 226476,
       "name": "Loa",
       "url": "https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt"
-    },
-    {
-      "added_at": "2024-03-12 15:00:00",
-      "album": {
-        "name": "39 Minutes",
-        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "39 Minutes",
-      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
     },
     {
       "added_at": "2024-03-12 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,300 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,326 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 11 | [Dim](https://open.spotify.com/track/0vAeNqXsZmFzMgRF486jcb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Dim](https://open.spotify.com/album/7iczpIXMnMAhDSt7kMKG1y) | 2:46 |
 | 12 | [Impatient \(feat\. Coi Leray\)](https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 4:05 |
 | 13 | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 |
-| 14 | [A.M\. Flights \(feat\. Toosii\)](https://open.spotify.com/track/37mxyK3wdiHlv6MDuQJnAp) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:03 |
-| 15 | [Easter In Miami](https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Easter In Miami](https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk) | 3:07 |
+| 14 | [Easter In Miami](https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Easter In Miami](https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk) | 3:07 |
+| 15 | [A.M\. Flights \(feat\. Toosii\)](https://open.spotify.com/track/37mxyK3wdiHlv6MDuQJnAp) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:03 |
 | 16 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 17 | [Nowhere 2 Run](https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb) | [Grind2hard Osh’a](https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET) | [Wolf Talk](https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW) | 2:53 |
 | 18 | [DO BETTER](https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:32 |
 | 19 | [Period](https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Period](https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS) | 3:20 |
 | 20 | [Blackberry Zap](https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:58 |
-| 21 | [Only You](https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l) | [1\-800\-HIT\-EAZY](https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi) | 2:29 |
-| 22 | [I'll Never Tell Em Shit](https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [I'll Never Tell Em Shit](https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1) | 2:57 |
-| 23 | [Boys To Men](https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:04 |
+| 21 | [Boys To Men](https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:04 |
+| 22 | [Only You](https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l) | [1\-800\-HIT\-EAZY](https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi) | 2:29 |
+| 23 | [I'll Never Tell Em Shit](https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [I'll Never Tell Em Shit](https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1) | 2:57 |
 | 24 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 25 | [LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 4:15 |
 | 26 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
 | 50 | [Sunset](https://open.spotify.com/track/7mdIUcGgAWjX8jTnrTVhJ1) | [18veno](https://open.spotify.com/artist/36uT4b5dk9vfJ7GBLjtqBh) | [Pablo](https://open.spotify.com/album/7FkML5E2VcIEiGIP3zqYqs) | 2:04 |
 
-Snapshot ID: `MCw0N2I0ODI5MGFiYzk5NmJjNWI4MTBhOTQzODgzZjM2NzAzNjRlMjcx`
+Snapshot ID: `MCxiNjkxOGY2YTdmNDRjMmM1ODY1MjgzZDA4NGQ0NzZmMDZhYzg3ZTVj`

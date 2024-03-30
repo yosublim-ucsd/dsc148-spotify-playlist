@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทย พร้อมหลากหลายเพลงที่เลือกโดย Violette Wautier
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,768 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,769 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 30 | [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 |
 | 31 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
 | 32 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 |
-| 33 | [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/track/0QNZ17Qvy5yvlWaiQRM1Vt) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/album/01k8QIEZ706cuK1kesJ5RZ) | 3:24 |
+| 33 | [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/track/3VWGP4ULubSKRmyX9zcYBL) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/album/4gNDnWN8YWMaOKha4nWOBZ) | 3:24 |
 | 34 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/3NfkO37X8i4nRwasEcJrGH) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/album/6TKRp0LCv6XEMvhgTdBmDc) | 2:48 |
 | 35 | [แค่พูดออกมา](https://open.spotify.com/track/2awSiNNJzrVd1IyxPgFvDH) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [แค่พูดออกมา](https://open.spotify.com/album/0OLI81ew7GcgZkO5bKOdK5) | 4:12 |
 | 36 | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/track/0EMa3PEf3tHITHyGYQmWV9) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/album/7uPVwd1sqU67W1sUf9oAQm) | 4:16 |
 | 37 | [ZiGZaG](https://open.spotify.com/track/2yE00Onz1GMJZ4h5lYs2u0) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [ZiGZaG](https://open.spotify.com/album/68EaJMPDCWqT0huDBBAT7k) | 2:34 |
 | 38 | [ALALA \(To The Top\)](https://open.spotify.com/track/77Sye1USZZ2xmy18ln7dWe) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ALALA \(To The Top\) \- Single](https://open.spotify.com/album/2sLjFbcHqYmFW0ue0Ivlwl) | 3:06 |
 | 39 | [แฟนแฟร์ \(Dreamy\)](https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [แฟนแฟร์ \(Dreamy\)](https://open.spotify.com/album/2cc5Ogu87ymW5Dny1kSnyr) | 3:28 |
-| 40 | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/track/3nVhhjxu73LQ5x93pP2dsx) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/album/16wk3gIYnZnC2U9rmMDr3g) | 3:43 |
+| 40 | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/track/32XElzFfT6dRkePDBPWrDb) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/album/4hlqWoXqXV5dJQGWJl4UVA) | 3:43 |
 | 41 | [รักฉันหรือการมีฉัน](https://open.spotify.com/track/6esAIT8q8wvqRfKG2NqcN3) | [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP) | [รักฉันหรือการมีฉัน \(Love Ends\)](https://open.spotify.com/album/78aRDDscBTHuzuSwfGkaio) | 3:59 |
 | 42 | [สดใส \(Keep it\)](https://open.spotify.com/track/2xO0vsM5wNXXa9LRtQzfXG) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [สดใส \(Keep it\)](https://open.spotify.com/album/5wra0606tchWv5Ez6h9yxj) | 2:54 |
 | 43 | [เป็นเธอได้ไหม](https://open.spotify.com/track/48nZFMguBy9JTnjysyZkdC) | [JKA](https://open.spotify.com/artist/1Z4l1XOh4iRFSP2KDf4TaT) | [เป็นเธอได้ไหม](https://open.spotify.com/album/5SyVPL7l5TfKjEwbiHvQwZ) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [Layers of me \(รักฉันทุกอย่างไหม\)](https://open.spotify.com/track/7Azw0wj9nVIaW2FheqCkai) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Layers of me \(รักฉันทุกอย่างไหม\)](https://open.spotify.com/album/6ODV7PepWzmfCd4uJZlwBy) | 2:48 |
 | 50 | [Sleepcall](https://open.spotify.com/track/2d6kduKRlPVuMtREGgLQWZ) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Sleepcall](https://open.spotify.com/album/6NIL96d170hKolQCi3H0tF) | 2:33 |
 
-Snapshot ID: `MCxhNWNkODY3YjUwMzdmMDRjYmM4NzA3MzgwZTZkMDc2Y2VjNDk1MzI0`
+Snapshot ID: `MCwzZjI2ZDkxMmI3ODJjZmRlNzEzYzFkOTVlNDJlZTI4YzM3NTI3NDcz`

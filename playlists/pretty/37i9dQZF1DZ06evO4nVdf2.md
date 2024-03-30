@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,825 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,827 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 20 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
 | 21 | [Feliz Breakup](https://open.spotify.com/track/4VzzMRP8dhR7I5wK79oAWC) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Feliz Breakup](https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0) | 3:27 |
 | 22 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
-| 23 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 |
-| 24 | [Pasito Tun Tun \(with Ximena Sariñana\) \- En Vivo](https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Homenaje a la Música Tropical \(En Vivo\)](https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx) | 3:51 |
-| 25 | [Si Esto Es](https://open.spotify.com/track/4GQsT5TzolkHmgXmMhNiTB) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Si Esto Es](https://open.spotify.com/album/0fw02MOlRu9FJaXmrv0dsM) | 2:43 |
-| 26 | [Domingo](https://open.spotify.com/track/2xH2NbJUNxdFwW3QE1NzIw) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Domingo](https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1) | 3:18 |
+| 23 | [Domingo](https://open.spotify.com/track/2xH2NbJUNxdFwW3QE1NzIw) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Domingo](https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1) | 3:18 |
+| 24 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 |
+| 25 | [Pasito Tun Tun \(with Ximena Sariñana\) \- En Vivo](https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Homenaje a la Música Tropical \(En Vivo\)](https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx) | 3:51 |
+| 26 | [Si Esto Es](https://open.spotify.com/track/4GQsT5TzolkHmgXmMhNiTB) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Si Esto Es](https://open.spotify.com/album/0fw02MOlRu9FJaXmrv0dsM) | 2:43 |
 | 27 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
 | 28 | [Mediocre](https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:16 |
 | 29 | [No Te Vayas](https://open.spotify.com/track/6wz2a7hZNgLoPzSJyx9Ms9) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Te Vayas](https://open.spotify.com/album/0k4dSQx0YRgv43KFpxNWTb) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
 | 50 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA4NGM4ZDdjM2MyNWE5ZmIwMzhiMjliZmFhNWVmMTAwNw==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDAwNzQ1OTExNGNjZmUyN2UxM2I1ZTNmMWI5MTNjM2QxYg==`

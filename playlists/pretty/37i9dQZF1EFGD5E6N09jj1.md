@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,205 likes - 156 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,208 likes - 156 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 112 | [If It's Over \(feat\. Charli XCX\)](https://open.spotify.com/track/3rGdqpn43JMpALFlC01OCE) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:39 |
 | 113 | [Float On \(feat\. Charli XCX\)](https://open.spotify.com/track/7sVWaKkGHotMdumFe6Ecph) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 |
 | 114 | [Selfish Girl](https://open.spotify.com/track/4qo8MT581bE5mDm7FGi5qB) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 3:14 |
-| 115 | [Blame It on U](https://open.spotify.com/track/053tQJvHupZLhjUWMmHlQ1) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:47 |
-| 116 | [Me encanta \- I Love It](https://open.spotify.com/track/1kgBwPl0UUHz97Krp65zF4) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Me encanta \(I love it\)](https://open.spotify.com/album/5GmIVyf9Oqhvi5tFptXpbw) | 2:38 |
+| 115 | [Me encanta \- I Love It](https://open.spotify.com/track/1kgBwPl0UUHz97Krp65zF4) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Me encanta \(I love it\)](https://open.spotify.com/album/5GmIVyf9Oqhvi5tFptXpbw) | 2:38 |
+| 116 | [Blame It on U](https://open.spotify.com/track/053tQJvHupZLhjUWMmHlQ1) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:47 |
 | 117 | [Sorry if I Hurt You](https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:41 |
 | 118 | [Need Ur Luv](https://open.spotify.com/track/70TwpWVlBU1Mv6FRbp5FZ2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:45 |
 | 119 | [How Can I Not Know What I Need Right Now](https://open.spotify.com/track/29KYqUjF9Oc9NCxvs7srlP) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:37 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 155 | [Lost in Space](https://open.spotify.com/track/6xEuFZLg0OK5b94n8ZJy25) | [Starkey](https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Space Traitor, Vol\. 2](https://open.spotify.com/album/03sCimdfQYiG02SZDyAyGQ) | 4:46 |
 | 156 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `Mjg1Mjc5ODAsMDAwMDAwMDBkMmNiYmU4NDEwN2VkMzFkYzRhMzJhMTQzNTUxOTE2Mg==`
+Snapshot ID: `Mjg1Mjk0MjAsMDAwMDAwMDBkOTlhZDY1YjM5ZjFjNmUzOTFlMjMzZmIwMWZiZmM3OQ==`

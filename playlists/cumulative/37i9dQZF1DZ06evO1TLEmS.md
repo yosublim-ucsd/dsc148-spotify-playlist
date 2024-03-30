@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 47 min
+74 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 | 2022-09-16 |  |
 | [Strong Enough](https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [...but i'd rather be with you, too](https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS) | 3:17 | 2022-11-17 |  |
 | [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 | 2023-11-10 |  |
-| [Summer Rain \(feat\. Madison Cunningham & Chris Thile\)](https://open.spotify.com/track/67aN7wt2CU8mwOwBc4LoiA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Summer Rain \(feat\. Madison Cunningham & Chris Thile\)](https://open.spotify.com/album/67LVW4yfjAooArLqd12n4Y) | 4:51 | 2024-03-02 |  |
+| [Summer Rain \(feat\. Madison Cunningham & Chris Thile\)](https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:51 | 2024-03-29 |  |
+| [Summer Rain \(feat\. Madison Cunningham & Chris Thile\)](https://open.spotify.com/track/67aN7wt2CU8mwOwBc4LoiA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Summer Rain \(feat\. Madison Cunningham & Chris Thile\)](https://open.spotify.com/album/67LVW4yfjAooArLqd12n4Y) | 4:51 | 2024-03-02 | 2024-03-30 |
 | [Sunshine Over The Counter](https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:22 | 2022-09-16 |  |
 | [The Age Of Worry](https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Age Of Worry](https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN) | 2:47 | 2022-09-16 |  |
 | [The Gotholympians Featuring Madison Cunningham](https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 3:23 | 2022-09-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,670 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,687 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 29 | [queens shit.](https://open.spotify.com/track/5toMvCZhvEO17MAejy7f4P) | [Remy Banks](https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ) | [champ hoody music\. ep.1](https://open.spotify.com/album/3i0mDUuHx0qHHF2PbwnOtL) | 1:22 |
 | 30 | [Otherside of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
 
-Snapshot ID: `MCwyZmU0NDlmMTBhNjZmM2MwM2JiMzBmMmI5YWU1MGRjZmZhNDdlYjJh`
+Snapshot ID: `MCxkZDg4MTdiMTkwMGNjODFjNWI3ODZjODQ0OTIyMGY0OTQ3ZWZmY2Jj`

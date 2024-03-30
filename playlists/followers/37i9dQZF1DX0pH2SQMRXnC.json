@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 1284471,
+  "2024-03-30": 1284690,
   "date_first_scraped": "2021-12-21",
   "description": "Only the biggest Hardstyle tracks!",
   "name": "Hardstyle Bangers",
@@ -123,7 +123,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 224516,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v"
@@ -4279,7 +4279,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/5GCL6u4hSfHrGUZPLyJBfZ"
@@ -5385,7 +5385,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 188991,
       "name": "HALO",
       "url": "https://open.spotify.com/track/4R7k9w4XBSYSUhlmXFr4xm"
@@ -6951,7 +6951,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 268800,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
@@ -8275,7 +8275,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 141375,
       "name": "MF KING",
       "url": "https://open.spotify.com/track/3UcOEZC3LorrVAq9OiTZHC"
@@ -10619,6 +10619,28 @@
       "duration_ms": 235348,
       "name": "Reflected Reality - Official Shockerz 2023 Anthem",
       "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
+    },
+    {
+      "album": {
+        "name": "Refuse To Speak",
+        "url": "https://open.spotify.com/album/2O7cKf95l1egp34bcl9d4L"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Bryant Powell",
+          "url": "https://open.spotify.com/artist/7a1kQopYaNCKayQsvMQiNs"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213713,
+      "name": "Refuse To Speak",
+      "url": "https://open.spotify.com/track/2mag3VWfGlpBA6YOdpTeV6"
     },
     {
       "album": {
@@ -13684,6 +13706,24 @@
     },
     {
       "album": {
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182168,
+      "name": "Trip To Mars (Astronauts)",
+      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
+    },
+    {
+      "album": {
         "name": "Trip to Valhalla",
         "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
       },
@@ -14643,7 +14683,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 183879,
       "name": "We Ignite",
       "url": "https://open.spotify.com/track/3PdQHt44xlYLjxKXDA759H"

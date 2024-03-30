@@ -4,11 +4,11 @@
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-84 songs - 3 hr 15 min
+86 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adina](https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 1:39 | 2022-09-16 |  |
+| [Adina](https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 1:39 | 2022-09-16 | 2024-03-30 |
 | [An Intimate Close Up Of A Street Punk Trouble Maker](https://open.spotify.com/track/7IejBxjTUvI6A1Kprlxqfz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:34 | 2022-09-16 | 2024-03-18 |
 | [Antennas](https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:10 | 2022-09-16 |  |
 | [Arrested in Shanghai](https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 4:11 | 2022-09-16 |  |
@@ -78,6 +78,8 @@
 | [Spirit of '87](https://open.spotify.com/track/11LLAA8ur0h06BjAJmG4zl) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:22 | 2022-09-16 | 2023-05-11 |
 | [St\. Mary](https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:09 | 2022-09-16 |  |
 | [Start Now](https://open.spotify.com/track/1Ts1FH12LbJC2vw6zBd5p4) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:05 | 2022-09-25 | 2022-09-29 |
+| [Stop](https://open.spotify.com/track/3JK7WvNg0cO9FDV8E5UcLK) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 1:41 | 2024-03-29 |  |
+| [Stranded](https://open.spotify.com/track/6lreQj4PTDoDvWTREDd4ie) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 2:24 | 2024-03-29 |  |
 | [Telegraph Avenue](https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 3:19 | 2022-09-16 | 2024-03-29 |
 | [The Bloody & Violent History](https://open.spotify.com/track/38SpJMkfu3f7YGA13tyuUm) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:14 | 2023-06-03 | 2023-06-09 |
 | [The Wolf](https://open.spotify.com/track/0rwQS0EU9Gg5EuA5d9Q5mm) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:38 | 2022-09-16 | 2023-06-12 |
@@ -89,7 +91,7 @@
 | [Tropical London](https://open.spotify.com/track/02wrYv8k1VgsZI0WD1xh7r) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:03 | 2023-05-10 |  |
 | [Up To No Good](https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:40 | 2022-09-16 |  |
 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 | 2022-09-16 |  |
-| [Who Would've Thought](https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:56 | 2022-09-16 |  |
+| [Who Would've Thought](https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:56 | 2022-09-16 | 2024-03-30 |
 | [You Want It, You Got It](https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 1:36 | 2023-10-10 |  |
 | [Young Al Capone](https://open.spotify.com/track/4oGvryWnZ0Q3ZG2Cb6cOfx) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:52 | 2022-09-16 | 2022-10-31 |
 

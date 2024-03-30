@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 482470,
+  "num_followers": 482721,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDJkZjkzZjA5NWUzMzY0YzhmZmMwMzUxNGNiODA0MGI5YTFiYzJk",
+  "snapshot_id": "MCxmZjkxYzliMmI3NzY5MGE2NTU4NWVlNDg5MzlkMjNmYzdjZjkwYzBi",
   "tracks": [
     {
       "added_at": "2024-03-20 07:29:25",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "American Classic",
         "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "Creole Love Call",
         "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
+        "name": "\"Moon River\"",
+        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "\"Moon River\"",
+      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "\"Moon River\"",
-        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
       },
       "artists": [
         {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
         }
       ],
-      "duration_ms": 172106,
-      "name": "\"Moon River\"",
-      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lovbrand",
-          "url": "https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "Try Your Wings",
         "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 174000,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lovbrand",
+          "url": "https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Eat It Too",
-        "url": "https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 226474,
-      "name": "Eat It Too",
-      "url": "https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -1451,22 +1435,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "My Wonderland",
-        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A Man and a Woman",
-      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1483,6 +1451,22 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "My Wonderland",
+        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A Man and a Woman",
+      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -1679,22 +1663,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "Next Time",
         "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
@@ -1707,6 +1675,22 @@
       "duration_ms": 318077,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -1747,22 +1731,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Baby Won't You Please Come Home",
-        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -1775,6 +1743,22 @@
       "duration_ms": 388114,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -1955,26 +1939,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "3 Generations",
-        "url": "https://open.spotify.com/album/79WHFUh6U4DMJ6M7feMJL4"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        },
-        {
-          "name": "Michael Wollny",
-          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Send in the Clowns",
-      "url": "https://open.spotify.com/track/2eQHi4A5ao9TjP7ZipsJpc"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -2027,6 +1991,26 @@
       "duration_ms": 217275,
       "name": "Love is Never Too Late",
       "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "3 Generations",
+        "url": "https://open.spotify.com/album/79WHFUh6U4DMJ6M7feMJL4"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "Send in the Clowns",
+      "url": "https://open.spotify.com/track/2eQHi4A5ao9TjP7ZipsJpc"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -2251,22 +2235,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "Mr Bojangles",
         "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
       },
@@ -2279,6 +2247,22 @@
       "duration_ms": 283413,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -2307,22 +2291,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Boy Boredom",
-        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
-      },
-      "artists": [
-        {
-          "name": "Cosma Joy",
-          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "The World in You",
         "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
       },
@@ -2339,18 +2307,18 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Hands Off",
-        "url": "https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy"
+        "name": "Boy Boredom",
+        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
       },
       "artists": [
         {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
         }
       ],
-      "duration_ms": 263600,
-      "name": "Hands Off",
-      "url": "https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna"
+      "duration_ms": 221241,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -2371,22 +2339,6 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "A Reckoning Bell",
-        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
-      },
-      "artists": [
-        {
-          "name": "The Magic Lantern",
-          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
-    },
-    {
-      "added_at": "2024-03-20 07:29:25",
-      "album": {
         "name": "The Sound of Music",
         "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
       },
@@ -2399,6 +2351,22 @@
       "duration_ms": 245148,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "A Reckoning Bell",
+        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
+      },
+      "artists": [
+        {
+          "name": "The Magic Lantern",
+          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
     },
     {
       "added_at": "2024-03-20 07:29:25",
@@ -2591,6 +2559,22 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+      },
+      "artists": [
+        {
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
         "name": "There Is No Future",
         "url": "https://open.spotify.com/album/29uDWhdwCQ3aC6NspRGkfV"
       },
@@ -2635,18 +2619,42 @@
     {
       "added_at": "2024-03-20 07:29:25",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
       "artists": [
         {
-          "name": "Sophia HP",
-          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+          "name": "Adonis Rose",
+          "url": "https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y"
+        },
+        {
+          "name": "Ryan Hanseler",
+          "url": "https://open.spotify.com/artist/524YAzKMvMUURzW34Gtetk"
+        },
+        {
+          "name": "Lex Warshawsky",
+          "url": "https://open.spotify.com/artist/4w8FWjfDaLaHz37ICgCcHV"
         }
       ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
+      "duration_ms": 444306,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
+    },
+    {
+      "added_at": "2024-03-20 07:29:25",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1"
     }
   ],
   "unique_name": "Easy Jazz",

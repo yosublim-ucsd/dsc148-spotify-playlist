@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 8048,
+  "num_followers": 8061,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDA2MTczN2VmYjQ1NjIxZmVkYTMyMjA5ZTExMTUyYTlhZTY1NzIx",
+  "snapshot_id": "MCwwMGFhNWYxMzMwZmIxZDFjODljMDkwNTc0YzBiMTkwZjEyNjdiMDRk",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "4 PREZ",
-        "url": "https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll"
-      },
-      "artists": [
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 149484,
-      "name": "4 PREZ",
-      "url": "https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "XV",
         "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 186399,
       "name": "Cagoule",
       "url": "https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "4 PREZ",
+        "url": "https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 149484,
+      "name": "4 PREZ",
+      "url": "https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        },
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 174623,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "KEEP WISHING (feat. 2Rare)",
         "url": "https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA"
       },
@@ -1239,22 +1259,18 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae"
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG"
       },
       "artists": [
         {
-          "name": "The Szns",
-          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
-        },
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
         }
       ],
-      "duration_ms": 174623,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L"
+      "duration_ms": 135831,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1271,22 +1287,6 @@
       "duration_ms": 134383,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/7hLrCKRFvxYCQXjrw99yhj"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 135831,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm"
     },
     {
       "added_at": "2023-12-01 14:44:59",

@@ -8187,6 +8187,28 @@
     },
     {
       "album": {
+        "name": "Drive (Johnson edit)",
+        "url": "https://open.spotify.com/album/1t2QdZyDDVf4IRR0h3ecV6"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        },
+        {
+          "name": "Johnson",
+          "url": "https://open.spotify.com/artist/0zpI7dHUzfKewZXuidIYHv"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196407,
+      "name": "Drive (Johnson edit)",
+      "url": "https://open.spotify.com/track/2tH6i2BLB6FL4M9mBw7lSs"
+    },
+    {
+      "album": {
         "name": "Drive Me Home (Official Animal Sound 2019 Anthem)",
         "url": "https://open.spotify.com/album/1E77Ci3lPi0fDKCcA5WnvZ"
       },
@@ -11872,7 +11894,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170510,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
@@ -18509,6 +18531,32 @@
     },
     {
       "album": {
+        "name": "Lucky Ones (Farzin Salehi Remix)",
+        "url": "https://open.spotify.com/album/5cP40uBsVxP4YNHlSFktiZ"
+      },
+      "artists": [
+        {
+          "name": "Bassanova",
+          "url": "https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "Farzin Salehi",
+          "url": "https://open.spotify.com/artist/2bOYi40lviElkE1aywiyw7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Lucky Ones - Farzin Salehi Remix",
+      "url": "https://open.spotify.com/track/7jw9iJIXkNYkDA0KW1LyT0"
+    },
+    {
+      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2oUvLqCDC6lk87gvVhaL36"
       },
@@ -19488,7 +19536,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 140698,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"

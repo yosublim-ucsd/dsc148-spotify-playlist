@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 397634,
+  "num_followers": 397695,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWM4ZTU5MTE2MjZhZWY4ZTJjMDFjNmJkOTA1Yjk3NWNiZjdlODVh",
+  "snapshot_id": "MCw4MTg1ZWM3MzkzYmVmZDcxNWNjZjgyNmE4MTlmNmNiNWEwOWNhMzEx",
   "tracks": [
     {
       "added_at": "2024-03-22 13:38:43",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Beast Epic",
-        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 231754,
-      "name": "Call It Dreaming",
-      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "Pon P\u00f3n",
         "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 231754,
+      "name": "Call It Dreaming",
+      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -639,6 +639,38 @@
       "duration_ms": 286386,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/0NOaEisILvRznCAco87cpI"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
+        "name": "OPPENHEIMER",
+        "url": "https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "OPPENHEIMER",
+      "url": "https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -663,22 +695,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "OPPENHEIMER",
-        "url": "https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "OPPENHEIMER",
-      "url": "https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ"
+        "name": "Shotput",
+        "url": "https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/0NOaEisILvRznCAco87cpI"
+      "duration_ms": 170698,
+      "name": "Shotput",
+      "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -739,22 +755,6 @@
       "duration_ms": 248160,
       "name": "Olalla",
       "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
-        "name": "Shotput",
-        "url": "https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 170698,
-      "name": "Shotput",
-      "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
         "name": "A Book Like This",
         "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 223746,
       "name": "Paper Aeroplane",
       "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Marvin The Album - 21st Anniversary Edition",
-        "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
+        "name": "Te Lo Voy a Decir",
+        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
       "artists": [
         {
-          "name": "Frente!",
-          "url": "https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 119813,
-      "name": "Bizarre Love Triangle - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+      "duration_ms": 246613,
+      "name": "Te Lo Voy a Decir",
+      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
-        "name": "Te Lo Voy a Decir",
-        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
+        "name": "Marvin The Album - 21st Anniversary Edition",
+        "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Frente!",
+          "url": "https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U"
         }
       ],
-      "duration_ms": 246613,
-      "name": "Te Lo Voy a Decir",
-      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+      "duration_ms": 119813,
+      "name": "Bizarre Love Triangle - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
     },
     {
       "added_at": "2024-03-22 13:38:43",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-03-22 13:38:43",
       "album": {
+        "name": "every day is a game",
+        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 249687,
+      "name": "every day is a game",
+      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
+    },
+    {
+      "added_at": "2024-03-22 13:38:43",
+      "album": {
         "name": "Paper Doors",
         "url": "https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 208853,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5"
-    },
-    {
-      "added_at": "2024-03-22 13:38:43",
-      "album": {
-        "name": "every day is a game",
-        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 249687,
-      "name": "every day is a game",
-      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
     }
   ],
   "unique_name": "Relax en casa",

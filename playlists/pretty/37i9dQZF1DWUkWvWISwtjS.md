@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,647 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,628 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 50 | [Sua Mãe Tá Nessa \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/23rECbM5gMk2GmWKulWHMP) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 51 | [Abre o Portão Que Eu Cheguei \- Ao Vivo](https://open.spotify.com/track/27gdqSnSgCfiro2gk3WZdp) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [50/50 \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4ibh4ZJMONa5aR7ZtKDJHu) | 4:40 |
 | 52 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
-| 53 | [Pegada Que Desgrama](https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Pegada Que Desgrama](https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An) | 3:02 |
+| 53 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 |
 | 54 | [Sofazinho \- Ao Vivo](https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:07 |
-| 55 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 |
+| 55 | [Pegada Que Desgrama](https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Pegada Que Desgrama](https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An) | 3:02 |
 | 56 | [Coração Calejado \- Ao Vivo](https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:46 |
-| 57 | [Milu](https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Milu](https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI) | 3:44 |
-| 58 | [Singular](https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Singular](https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo) | 3:50 |
+| 57 | [Singular](https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Singular](https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo) | 3:50 |
+| 58 | [Milu](https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Milu](https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI) | 3:44 |
 | 59 | [Cuidado Que Eu Te Supero](https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Cuidado Que Eu Te Supero](https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz) | 2:54 |
 | 60 | [Quem Me Dera](https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Made In Studio](https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV) | 2:27 |
 | 61 | [Namorada Reserva \- Ao Vivo](https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:56 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 95 | [Romance Com Safadeza](https://open.spotify.com/track/0q4oI0SqCL4PpIO4AB5wUu) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São João 2018](https://open.spotify.com/album/2vtTaoVQP4fGcblFZptHbH) | 2:52 |
 | 96 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 |
 | 97 | [Amoreco](https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Amoreco](https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG) | 2:31 |
-| 98 | [Nem Dormindo Consigo Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0vZ3wHAmzRceAHLYb6Lc66) | [Gian & Giovani](https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb) | [Uma História de Sucesso \(Ao Vivo\)](https://open.spotify.com/album/3uVTCtPfywIOAodrHWeRuV) | 5:24 |
-| 99 | [Frieza \- Ao Vivo](https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Frieza \(Ao Vivo\)](https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt) | 3:05 |
-| 100 | [Noites Frustradas \- Ao Vivo](https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Noites Frustradas \(Ao Vivo\)](https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv) | 3:16 |
+| 98 | [Noites Frustradas \- Ao Vivo](https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Noites Frustradas \(Ao Vivo\)](https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv) | 3:16 |
+| 99 | [Nem Dormindo Consigo Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0vZ3wHAmzRceAHLYb6Lc66) | [Gian & Giovani](https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb) | [Uma História de Sucesso \(Ao Vivo\)](https://open.spotify.com/album/3uVTCtPfywIOAodrHWeRuV) | 5:24 |
+| 100 | [Frieza \- Ao Vivo](https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Frieza \(Ao Vivo\)](https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt) | 3:05 |
 
-Snapshot ID: `MCw2ZWU1MTc2NmRkOWFjYjVmNThkMTI3MGY5YTU2MGIwMWY1NDJmMzU3`
+Snapshot ID: `MCw0MWQ3YWQ4ZTg3NTM5NTdlZDliNTA0ZjU2ZGI3OWE0NGNkYWU5Yjg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,045 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,135 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [No Pain No Gain](https://open.spotify.com/track/1sVtCOmdRKyXQZmoS5psN7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 3:54 |
 | 50 | [Can't Live Without You](https://open.spotify.com/track/0mOMvN8GNGAVW5e5934fUn) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:47 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBkOWJkZGY3Y2RkNjUyZWJhZjdiZmVjYjM2MDE5ZGJmYw==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDAwNmY2MTUwYTBkY2I3ZjYyYmNkNDM0MDQ4MDA1MmFiMQ==`

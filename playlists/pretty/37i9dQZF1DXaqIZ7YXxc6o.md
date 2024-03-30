@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,013 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,036 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 6 | [Distance](https://open.spotify.com/track/1x9e1A8PI3Sp0dX55edTCD) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Forward Step](https://open.spotify.com/album/1IIy8SMWVCxqvLTv5u2cFQ) | 5:16 |
 | 7 | [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 |
 | 8 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
-| 9 | [Where You At These Days](https://open.spotify.com/track/3blt8WKj0x4dJ5sgc7y1nK) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Where You At These Days](https://open.spotify.com/album/0k4HBFskBFl4l2OZMNmXGv) | 3:40 |
+| 9 | [Where You At These Days?](https://open.spotify.com/track/3blt8WKj0x4dJ5sgc7y1nK) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Where You At These Days?](https://open.spotify.com/album/0k4HBFskBFl4l2OZMNmXGv) | 3:40 |
 | 10 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 |
 | 11 | [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 |
 | 12 | [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 18 | [Jump](https://open.spotify.com/track/6a9aHCocZ8ehn89uW0FqUJ) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/7cihYq8t0Rg0W44L7uY1xR) | 2:33 |
 | 19 | [maybe im too late](https://open.spotify.com/track/0H3t7RgadNaUCTtFUr0CSa) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5), [Stellie](https://open.spotify.com/artist/0WGMPhb6ipresPQfFcIxwH) | [maybe im too late](https://open.spotify.com/album/1EjJuloimDncLsAbu1KiOC) | 2:23 |
 | 20 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 |
-| 21 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 |
+| 21 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 |
 | 22 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
 | 23 | [One More Time](https://open.spotify.com/track/0VPn0rLzjEXQFilpZuITL1) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [One More Time](https://open.spotify.com/album/6tQGtE0HMyZrHJe6FVTaLB) | 3:09 |
 | 24 | [2MUCH$](https://open.spotify.com/track/10jzrk4RI6TYIAcNoHjOgI) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [2MUCH$](https://open.spotify.com/album/7jeJlWk5DQcziq5Wc0X3ik) | 2:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Breakaway](https://open.spotify.com/track/3g0eHwVjGYZaHooqGtKefQ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Breakaway](https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx) | 2:45 |
 | 99 | [Vibrate](https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Vibrate / On The Ground](https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI) | 2:14 |
 
-Snapshot ID: `MCw2YzY5MDk1ZjFjZjgzMTQyMzNjYmFmZDcwMmZlYWE4MDllMzNiMmYy`
+Snapshot ID: `MCxkNTFhZThlYjY4ZjQzNTc1NGEwMTRjZDY2MDhmMTI2N2FlMTMxMmU0`

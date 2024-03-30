@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11274,
+  "num_followers": 11277,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTAzZGI3MzhiMTdlYjExYzZjZTZiNzZhYjc0ZmVhOGFkOGZhMTgw",
+  "snapshot_id": "MCxjZDc0MTVjMTU2NmJhZDNkNDQ5YWY3MDg4MzJkOGIyZThiZTcwYzIy",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 247594,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/37a26nmggsuaojxP7TauTH"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Pared\u00e3o",
         "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 258005,
       "name": "De AK em Cima da CB1000",
       "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 344741,
-      "name": "Charme",
-      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 344741,
+      "name": "Charme",
+      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 257600,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 247594,
-      "name": "Shibuya",
-      "url": "https://open.spotify.com/track/37a26nmggsuaojxP7TauTH"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -659,42 +659,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
-      },
-      "artists": [
-        {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Flame of the Pine Cone",
-        "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
-      },
-      "artists": [
-        {
-          "name": "ITAI",
-          "url": "https://open.spotify.com/artist/1J1zcThVxqIOB7XdjqKsmq"
-        },
-        {
-          "name": "Spaniol",
-          "url": "https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1"
-        }
-      ],
-      "duration_ms": 409258,
-      "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
-      "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
       },
@@ -711,18 +675,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "N\u00f3dulo",
-        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
       },
       "artists": [
         {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
         }
       ],
-      "duration_ms": 453333,
-      "name": "Sobre Tum Tum Ta",
-      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -747,6 +711,38 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "N\u00f3dulo",
+        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
+      },
+      "artists": [
+        {
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+        }
+      ],
+      "duration_ms": 453333,
+      "name": "Sobre Tum Tum Ta",
+      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        }
+      ],
+      "duration_ms": 351451,
+      "name": "Feel Me - Original mix",
+      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "V.Acina, Vol.1",
         "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
       },
@@ -767,18 +763,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
+        "name": "Flame of the Pine Cone",
+        "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
       "artists": [
         {
-          "name": "Aninha",
-          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+          "name": "ITAI",
+          "url": "https://open.spotify.com/artist/1J1zcThVxqIOB7XdjqKsmq"
+        },
+        {
+          "name": "Spaniol",
+          "url": "https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1"
         }
       ],
-      "duration_ms": 351451,
-      "name": "Feel Me - Original mix",
-      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
+      "duration_ms": 409258,
+      "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
+      "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
     },
     {
       "added_at": "2023-11-10 03:03:00",

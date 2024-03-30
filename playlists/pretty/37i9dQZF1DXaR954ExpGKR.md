@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,949 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,089 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 49 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 |
 | 50 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 |
 
-Snapshot ID: `MCw4MDUxNDFlZTNmZThlM2RhZTI3OGIyODBiZWZkZDdiOGI1Y2U2NGZl`
+Snapshot ID: `MCxkNTY0YmZkNjJjZTM5MWU0MDRmMmYyNjhlMTJhZmFkZjRlMTJjNjVi`

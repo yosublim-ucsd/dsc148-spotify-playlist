@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 211760,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7nhlZ6WtSGlgtSc3yX7Cgk"
@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00e9ntame (Versi\u00f3n Reggaet\u00f3n)",
+        "url": "https://open.spotify.com/album/36hDcCLfngt8Fcxfnytv6n"
+      },
+      "artists": [
+        {
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159939,
+      "name": "Cu\u00e9ntame - Versi\u00f3n Reggaet\u00f3n",
+      "url": "https://open.spotify.com/track/47rso7RhYpuvxvx35Y8Oo5"
+    },
+    {
+      "album": {
         "name": "Dame Break",
         "url": "https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF"
       },
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 151894,
       "name": "Desv\u00edstete Lento",
       "url": "https://open.spotify.com/track/6cJLmo2HIP4Z8ZbceoSBK6"
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 145200,
       "name": "ESPEJO",
       "url": "https://open.spotify.com/track/78ivlNgBz1rX1Cuyxe4nuB"
@@ -1911,6 +1929,48 @@
     },
     {
       "album": {
+        "name": "Gangster (Remix)",
+        "url": "https://open.spotify.com/album/2ARNpCMOeqwnTNdmZhJtNk"
+      },
+      "artists": [
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Danny Yash",
+          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Bin$ho",
+          "url": "https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ"
+        },
+        {
+          "name": "El Derk",
+          "url": "https://open.spotify.com/artist/701KIi8HRavu6p07PBZNxZ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "Gangster (Remix)",
+      "url": "https://open.spotify.com/track/2o6Q6luSjbe06abe3d5gSH"
+    },
+    {
+      "album": {
         "name": "Griselda",
         "url": "https://open.spotify.com/album/1lQxYyI8Ct0p5hQZOa4PT9"
       },
@@ -2010,6 +2070,32 @@
       "duration_ms": 223137,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/20XMeJgjo5Xrq8MP2kh0p4"
+    },
+    {
+      "album": {
+        "name": "Igual a Ti",
+        "url": "https://open.spotify.com/album/0oaHsQ8kj5zEjLe7N7nYRD"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "El Caly",
+          "url": "https://open.spotify.com/artist/6lOsaYnSovGhYlI695t82Y"
+        },
+        {
+          "name": "wvltz",
+          "url": "https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190857,
+      "name": "Igual a Ti",
+      "url": "https://open.spotify.com/track/1f7QUXbjzznxI8B1S91xcW"
     },
     {
       "album": {
@@ -4583,6 +4669,32 @@
     },
     {
       "album": {
+        "name": "SAT\u00c9LITE",
+        "url": "https://open.spotify.com/album/6yKhPCfkNb7khRQklEhQaZ"
+      },
+      "artists": [
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "Ladele OTM",
+          "url": "https://open.spotify.com/artist/0ryLYxj89KsjwIZEwS0k8J"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "SAT\u00c9LITE",
+      "url": "https://open.spotify.com/track/6kb23hMyGpTQRApxZDpykX"
+    },
+    {
+      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -5786,7 +5898,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 226000,
       "name": "WHY",
       "url": "https://open.spotify.com/track/6gSwhZ8iLayvvGW2zW28Nl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,589 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,319 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 15 | [Mtg Deixa Ela Passar Vs Ela É Top](https://open.spotify.com/track/2aXgnQz63y5Xgufvg84oag) | [Dj Aguilar](https://open.spotify.com/artist/1QywhHFJc6ix4XLDOUQVNE), [Mc Kelles](https://open.spotify.com/artist/3BMmIOQBgdS7X9ngOHc0lC), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc), [Dj Barreira](https://open.spotify.com/artist/1QMdm58RYRpTcJ2TfCTMkv) | [Mtg Deixa Ela Passar Vs Ela É Top](https://open.spotify.com/album/6k6x4Wtpyw5wyR6kLDKJ7N) | 1:58 |
 | 16 | [Mtg Erro Que da Certo](https://open.spotify.com/track/79uC02F4C3eiWuu50YrYMM) | [Dj Biel Sb](https://open.spotify.com/artist/4Kvt1rOUIVkaCmIf02K2lN), [Dj Mike Mix](https://open.spotify.com/artist/4QNTLdI9vFnXG9Sz8m9QcN), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [Mtg Erro Que da Certo](https://open.spotify.com/album/6OmofDihqFRfpQKoOz6fsq) | 1:50 |
 | 17 | [Vem de flecha](https://open.spotify.com/track/7rII7hWYrJwU4MoVHmRsdY) | [DJ DIDI](https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ), [Dj Rayan](https://open.spotify.com/artist/2SN0sv6jL9pWPYIgcWgb2a), [Mc Fopi](https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR) | [Vem de flecha](https://open.spotify.com/album/2NrcAgJjWRyBEN5oLbWrCQ) | 2:59 |
-| 18 | [Então Salva na Espanhola X Vou Te Passa a Balinha](https://open.spotify.com/track/1p9YWrXTCARokNBkiiCzYZ) | [DJ R9 DA ZO](https://open.spotify.com/artist/4q4b6xUp9UBAWVkuSASz3i), [Mc Negão VHF](https://open.spotify.com/artist/0nYYF6asC2cg6L2Vk9uAKa) | [Então Salva na Espanhola X Vou Te Passa a Balinha](https://open.spotify.com/album/2ibpAntM1JRwsMUxlqAwkG) | 1:15 |
+| 18 | [Então Salva na Espanhola X Vou Te Passa a Balinha](https://open.spotify.com/track/1p9YWrXTCARokNBkiiCzYZ) | [DJ R9 DA ZO](https://open.spotify.com/artist/4q4b6xUp9UBAWVkuSASz3i), [Mc Negão VHF](https://open.spotify.com/artist/0nYYF6asC2cg6L2Vk9uAKa), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP) | [Então Salva na Espanhola X Vou Te Passa a Balinha](https://open.spotify.com/album/2ibpAntM1JRwsMUxlqAwkG) | 1:15 |
 | 19 | [Vida Rasa 4\-4\-2](https://open.spotify.com/track/5F4VhP5xo43O9AmKd1Y260) | [DJ Bertolossi](https://open.spotify.com/artist/75MGRS4iY2kusB2g0i43Bq), [DG DO BROOKLYN](https://open.spotify.com/artist/53frDulStqIMhNWMvoswPQ), [DJ RD DO MARTINS](https://open.spotify.com/artist/2DlccegR9GHEOulkM0FCFv), [Mc Gordinho do Catarina](https://open.spotify.com/artist/1hwyfcwFZ3U6VqSTnBsTMA) | [Vida Rasa 4\-4\-2](https://open.spotify.com/album/3ZBXsUUyu1cgTXC5MYmykr) | 2:48 |
 | 20 | [Kamikaze Carreta Kamikaze](https://open.spotify.com/track/0yOveOaRYlCeSx6vC0XcUF) | [DJ RENAN SUCESSO](https://open.spotify.com/artist/5Y0flsWw56NSOxlKrsbGY4), [Mc Lysa](https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7) | [Kamikaze Carreta Kamikaze](https://open.spotify.com/album/5LPBolzKU3vinIfO9ZQWgm) | 2:05 |
 | 21 | [PRÊMIO DE COLECIONADOR](https://open.spotify.com/track/591SynfF383OcHiIycP0Ws) | [DJ NT DA SERRA](https://open.spotify.com/artist/74sdf41U8mX9nUnQ1iGP1f), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [PRÊMIO DE COLECIONADOR](https://open.spotify.com/album/32Sd6w0Rh4ea6GvSWoulF0) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCw3Yjg5ZWE0NGMxMjQ5MzdjZWEyNGI5YjE2YTA3ODVkOTE2Y2FmNmM1`
+Snapshot ID: `MCwzZmRlM2ZkMmYyNDZiMTZiMzJmYTkzNGNhMjNiZjdiZGUzMmJiMDI2`

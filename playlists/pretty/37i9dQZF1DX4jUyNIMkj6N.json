@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 200566,
+  "num_followers": 200596,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM1YTZkOTIwY2IzNGRmMmZlYmQwZGEyMDkyOTRlNjE5OWM4NTQ4",
+  "snapshot_id": "MCw2MjA0ZjVjYzg1ZDEzNjMzNjMxZjcwOTVjOTFhNzRjMWMxYzMzZjU5",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Skisser",
-        "url": "https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "The State of the World",
         "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 258880,
       "name": "The State of the World",
       "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Skisser",
+        "url": "https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+      },
+      "artists": [
+        {
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+        }
+      ],
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Svarteboka",
         "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+        "name": "Magic Chairs",
+        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
       },
       "artists": [
         {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
         }
       ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+      "duration_ms": 293760,
+      "name": "Modern Drift",
+      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 366160,
       "name": "Meet Me In The Forest",
       "url": "https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Magic Chairs",
-        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
-      },
-      "artists": [
-        {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
-        }
-      ],
-      "duration_ms": 293760,
-      "name": "Modern Drift",
-      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+        "name": "Honey In The Waves",
+        "url": "https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA"
       },
       "artists": [
         {
-          "name": "Red Langur",
-          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
         }
       ],
-      "duration_ms": 172007,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+      "duration_ms": 256548,
+      "name": "Honey In The Waves",
+      "url": "https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df"
     }
   ],
   "unique_name": "Nordic Folk",

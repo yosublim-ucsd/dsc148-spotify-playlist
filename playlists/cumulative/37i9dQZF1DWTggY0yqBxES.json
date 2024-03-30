@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 147483,
       "name": "ACT",
       "url": "https://open.spotify.com/track/53digzlDS79znypcRuFXBo"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183410,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/1o9S5cM9CEWrh2ZVbvk5VS"
@@ -1632,6 +1632,28 @@
       "duration_ms": 124426,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/30cwmNAQximovZ8Uu1JI1j"
+    },
+    {
+      "album": {
+        "name": "genre : sadboy",
+        "url": "https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196629,
+      "name": "beauty",
+      "url": "https://open.spotify.com/track/4kXOuF3EGVS3YGrpbfdT3n"
     },
     {
       "album": {
@@ -2152,7 +2174,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 277338,
       "name": "Bloody 98 (Feat. Ghostemane)",
       "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
@@ -2766,6 +2788,24 @@
       "duration_ms": 216000,
       "name": "Can't Wake Up - Remix",
       "url": "https://open.spotify.com/track/6j1TrNeuKkqa3id2H2q00I"
+    },
+    {
+      "album": {
+        "name": "CANADIAN TUX",
+        "url": "https://open.spotify.com/album/6TmW1C4YNsMEIrwnZBJbjE"
+      },
+      "artists": [
+        {
+          "name": "Devin Malik",
+          "url": "https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138369,
+      "name": "CANADIAN TUX",
+      "url": "https://open.spotify.com/track/65LD6j5Wg5xYnebnrcwaUI"
     },
     {
       "album": {
@@ -3810,7 +3850,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 205920,
       "name": "DARKSIDE",
       "url": "https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw"
@@ -4413,6 +4453,32 @@
     },
     {
       "album": {
+        "name": "Don't Check 4 Me",
+        "url": "https://open.spotify.com/album/45YCAdhDcais6gYe6cDIks"
+      },
+      "artists": [
+        {
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Don't Check 4 Me",
+      "url": "https://open.spotify.com/track/3MJhp4duKazKhnp0Of1mom"
+    },
+    {
+      "album": {
         "name": "Don't F*ck Up My Day",
         "url": "https://open.spotify.com/album/5a0oMxlm6bxRdGzAJKCH0w"
       },
@@ -4958,7 +5024,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 132520,
       "name": "Fade the Sun",
       "url": "https://open.spotify.com/track/2fhUKlhKhedEdfGCss8J3C"
@@ -5281,6 +5347,28 @@
     },
     {
       "album": {
+        "name": "Fisherrr",
+        "url": "https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236004,
+      "name": "Fisherrr",
+      "url": "https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD"
+    },
+    {
+      "album": {
         "name": "Freddie's Inferno (Deluxe)",
         "url": "https://open.spotify.com/album/07YX7oCO5D6zr1NVDEeSAd"
       },
@@ -5532,7 +5620,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 193230,
       "name": "For Free?",
       "url": "https://open.spotify.com/track/0rg7DxTa08fGuIONC3mDU3"
@@ -7170,6 +7258,32 @@
     {
       "album": {
         "name": "I DON'T GO TO HIGHSCHOOL",
+        "url": "https://open.spotify.com/album/0q84UVjQXjHN0vUp7nlE3d"
+      },
+      "artists": [
+        {
+          "name": "All But 6",
+          "url": "https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Mikey The Magician",
+          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175594,
+      "name": "I DON'T GO TO HIGHSCHOOL",
+      "url": "https://open.spotify.com/track/02n4rymvy3pQJzTjLEFv6W"
+    },
+    {
+      "album": {
+        "name": "I DON'T GO TO HIGHSCHOOL",
         "url": "https://open.spotify.com/album/5DugO8A3mcSdepXCMoIZQq"
       },
       "artists": [
@@ -8524,7 +8638,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 151588,
       "name": "Let The Sample Work",
       "url": "https://open.spotify.com/track/4vyA2HBhmv5g0qCLaXWjOJ"
@@ -8594,7 +8708,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 151839,
       "name": "light! (with Lil Nas X & 9lives)",
       "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
@@ -9433,6 +9547,24 @@
     },
     {
       "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/702Y4Igv7kducBKrGlkhjx"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202951,
+      "name": "Mezzanine",
+      "url": "https://open.spotify.com/track/1niVzOUmUJsI1DYhOqFksf"
+    },
+    {
+      "album": {
         "name": "Middle School",
         "url": "https://open.spotify.com/album/1APaIiDsD9NbwjgJQW646O"
       },
@@ -10056,7 +10188,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 154666,
       "name": "My Body's My Coffin",
       "url": "https://open.spotify.com/track/6u1XMGGLkwPEJHjaKB5eND"
@@ -10232,7 +10364,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 208209,
       "name": "Natural Habitat (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/3s9PhZ3X5NH3Dgrtd4K8lM"
@@ -12445,6 +12577,28 @@
     },
     {
       "album": {
+        "name": "ORANGE",
+        "url": "https://open.spotify.com/album/71vEBHj4KMIuJT9osFh2Hk"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "UnoTheActivist",
+          "url": "https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163709,
+      "name": "REBUTTAL (feat. UnoTheActivist)",
+      "url": "https://open.spotify.com/track/10JO9inkd2wq3Od0BfbAXn"
+    },
+    {
+      "album": {
         "name": "Red Jacket 6",
         "url": "https://open.spotify.com/album/4QO9ouBUdYy3Xl8fuath6E"
       },
@@ -13106,7 +13260,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 174473,
       "name": "SHAKIN IT (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW"
@@ -13252,6 +13406,32 @@
       "duration_ms": 136216,
       "name": "SHOTS! (WITH DENZEL CURRY)",
       "url": "https://open.spotify.com/track/01Oeql41yunzKzHyIfBWmr"
+    },
+    {
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Cedxric",
+          "url": "https://open.spotify.com/artist/4BevWbXTBfZaF4T7yFDtOI"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "Should've Known (feat. Smino & Cedxric)",
+      "url": "https://open.spotify.com/track/6OQcMkQ8Kuc4wFlhaxvoTO"
     },
     {
       "album": {
@@ -13684,6 +13864,28 @@
       "duration_ms": 158453,
       "name": "SNAKE EYES",
       "url": "https://open.spotify.com/track/0mwGp38d0uilKSuH4PiGXz"
+    },
+    {
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211846,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
     },
     {
       "album": {
@@ -14657,6 +14859,32 @@
     },
     {
       "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Kent Jamz",
+          "url": "https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211456,
+      "name": "Talk About It (feat. Kent Jamz & BJ the Chicago Kid)",
+      "url": "https://open.spotify.com/track/3KRdr6AtApWPUtrR2YLIOf"
+    },
+    {
+      "album": {
         "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
         "url": "https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae"
       },
@@ -15266,7 +15494,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 106382,
       "name": "TIRED (STILL)",
       "url": "https://open.spotify.com/track/28tGrlEptFigFSVyy9llIm"
@@ -15462,6 +15690,28 @@
       "duration_ms": 176642,
       "name": "Top Bitch!",
       "url": "https://open.spotify.com/track/6sLbiIlmRhL3alS0P9vJuI"
+    },
+    {
+      "album": {
+        "name": "TOP FLO",
+        "url": "https://open.spotify.com/album/3ycDJGKr6tNGLSMMQYl49D"
+      },
+      "artists": [
+        {
+          "name": "Yakiyn",
+          "url": "https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E"
+        },
+        {
+          "name": "Kembe X",
+          "url": "https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131351,
+      "name": "TOP FLO",
+      "url": "https://open.spotify.com/track/3i0lNc8ezBNtxkOfyxdUMR"
     },
     {
       "album": {
@@ -15782,6 +16032,24 @@
       "duration_ms": 148773,
       "name": "US",
       "url": "https://open.spotify.com/track/6ETnEOSqpbICvS58X9f4CK"
+    },
+    {
+      "album": {
+        "name": "Us Vs. Them",
+        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184633,
+      "name": "Us Vs. Them",
+      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
     },
     {
       "album": {

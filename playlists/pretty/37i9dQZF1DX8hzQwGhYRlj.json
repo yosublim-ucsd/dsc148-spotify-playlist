@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 35486,
+  "num_followers": 35494,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWQ2MDM0MWU2NTNkNDhkYWMxODMwNTgxMDg4N2U2MDZjOTMxY2Zl",
+  "snapshot_id": "MCw4YzNkNDkzNjNiZjU3OTUzNDIyYWIzYjhmZGFlMDYxNDUxZWFjODkx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -843,8 +843,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Peer Gynt - Incidental Music & Norwegian Dances & Bridal Procession",
-        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
       },
       "artists": [
         {
@@ -852,13 +852,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Yuri Temirkanov",
-          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Bridal Procession, Op. 19 No. 2",
-      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
+      "duration_ms": 52560,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
+      "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -891,8 +891,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+        "name": "Grieg: Peer Gynt - Incidental Music & Norwegian Dances & Bridal Procession",
+        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
       },
       "artists": [
         {
@@ -900,13 +900,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+          "name": "Yuri Temirkanov",
+          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
         }
       ],
-      "duration_ms": 52560,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
-      "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
+      "duration_ms": 211400,
+      "name": "Bridal Procession, Op. 19 No. 2",
+      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
     },
     {
       "added_at": "2022-09-30 04:01:00",

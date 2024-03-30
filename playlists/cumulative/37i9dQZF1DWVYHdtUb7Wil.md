@@ -4,7 +4,7 @@
 
 > Kick back to these chilled out essentials.
 
-183 songs - 10 hr 21 min
+184 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-29 |  |
 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2023-06-15 | 2024-03-29 |
 | [Faults](https://open.spotify.com/track/432StTtnmOSsPsoD4asdVo) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Faults](https://open.spotify.com/album/5Sd5dlgkHYCTbZ0HTCe1do) | 2:42 | 2024-02-29 |  |
-| [Follow the Sound of My Voice](https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM) | 5:50 | 2024-03-28 |  |
+| [Follow the Sound of My Voice](https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu) | 5:50 | 2024-03-28 |  |
+| [Follow the Sound of My Voice](https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM) | 5:50 | 2024-03-28 | 2024-03-30 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-29 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 | 2024-02-29 |  |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2023-06-15 | 2023-07-08 |

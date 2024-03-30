@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-408 songs - 1 day 4 hr 56 min
+409 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [All Mosh / No Brain](https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [666\-Pack](https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8) | 1:32 | 2021-12-17 |  |
 | [An Act of Darkness](https://open.spotify.com/track/2r3yHZiY0x02rG8KiibNr3) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ) | [An Act of Darkness](https://open.spotify.com/album/1eVeZnhHKW1mpLuJtKSZiY) | 1:55 | 2021-12-17 | 2022-03-05 |
 | [Angel Of Death](https://open.spotify.com/track/4V2lkXCxNBIsrluA9MLqIM) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Soundtrack To The Apocalypse](https://open.spotify.com/album/4i1dW5u1egajFXlgpuVPVe) | 4:50 | 2022-09-09 | 2022-11-14 |
-| [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 | 2022-07-13 |  |
+| [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 | 2022-07-13 | 2024-03-30 |
 | [Angel Of Death](https://open.spotify.com/track/5AdoS3gS47x40nBNlNmPQ8) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/4EKODboelaOmS0gt7hbTHN) | 4:51 | 2022-07-13 | 2022-07-29 |
+| [Angel Of Death](https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:51 | 2024-03-08 |  |
 | [Annihilation of Civilization](https://open.spotify.com/track/4WpRhaIjVI7zQc7k23tfnX) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [Annihilation of Civilization](https://open.spotify.com/album/0p65AMSlyx1Lew0i5BGbRn) | 4:17 | 2022-07-13 | 2023-08-01 |
 | [Armed To The Teeth](https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Armed To The Teeth](https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn) | 4:26 | 2021-12-17 |  |
 | [As We Breach](https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [As We Breach](https://open.spotify.com/album/513Lp3HTQfozEabGEGaG9f) | 4:52 | 2021-12-17 | 2022-07-28 |
@@ -284,8 +285,8 @@
 | [Purified by Fire](https://open.spotify.com/track/6zhXx6Shn5BgKjPjcvSXDU) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Purified by Fire](https://open.spotify.com/album/3X36qaXZS5brpKUg1LPfBw) | 4:45 | 2024-01-12 | 2024-02-24 |
 | [Pyhä Vitutus](https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Pyhä Vitutus](https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT) | 3:21 | 2024-01-12 |  |
 | [Raining Blood](https://open.spotify.com/track/5eF4Kv3HcYJyAtgTmHVzH9) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Soundtrack To The Apocalypse](https://open.spotify.com/album/4i1dW5u1egajFXlgpuVPVe) | 4:12 | 2022-09-09 | 2022-11-13 |
-| [Raining Blood](https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:14 | 2022-07-13 |  |
-| [Raining Blood](https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:15 | 2022-07-13 | 2022-07-29 |
+| [Raining Blood](https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:14 | 2022-07-13 | 2024-03-30 |
+| [Raining Blood](https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:15 | 2022-07-13 |  |
 | [Ratamahatta](https://open.spotify.com/track/3Tg8JctqoeIwZ3Rue8BjaI) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 4:30 | 2022-12-15 |  |
 | [Reaggression](https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Blood in the Water](https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax) | 4:10 | 2021-12-17 | 2023-03-29 |
 | [Reanimator](https://open.spotify.com/track/5ihVldDm01ZzROCvW5rECC) | [Terrifier](https://open.spotify.com/artist/6CAS7EDKRPjByncY9Ca3qD) | [Weapons of Thrash Destruction](https://open.spotify.com/album/3tZJFYEx0PW4vFHDaBrGRg) | 5:24 | 2021-12-17 | 2022-07-28 |

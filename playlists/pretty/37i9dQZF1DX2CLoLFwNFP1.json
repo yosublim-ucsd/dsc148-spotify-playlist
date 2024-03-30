@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 35596,
+  "num_followers": 35619,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDZkNTRhMzIyMzQ1Zjg5NmYzOWIwZjNjNzQwMGVjMzQ0NzA4MTQz",
+  "snapshot_id": "MCwyY2YwZjkyNjllZWMzYjBlYmFjZDA2Mzc0ZDc4MjFmYTcyMjA2ZDYz",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 252367,
-      "name": "AQUAMAN",
-      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "K-TOWN",
         "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 123280,
       "name": "K-TOWN",
       "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 252367,
+      "name": "AQUAMAN",
+      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
     },
     {
       "added_at": "2023-11-27 14:05:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá que tá viral no seu feed sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,380 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,451 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 55 | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Thaysa Maravilha](https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc) | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw) | 2:56 |
 | 56 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCxhNWNhYzlmZDQxMTQ4ODIzMmRiNjMzZTE2Yjk1MzBiNjNmZGVjZmU5`
+Snapshot ID: `MCw3ZWVhZWJlMTZlOTM4M2VjYWIwMWM5OTAzMzcyNWQwMjRiNGEwYjE1`

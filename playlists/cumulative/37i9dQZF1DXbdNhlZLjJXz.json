@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo"
       },
@@ -521,6 +543,24 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240254,
+      "name": "BODYGUARD",
+      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
+    },
+    {
+      "album": {
         "name": "Booty (feat. Latto)",
         "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
       },
@@ -576,6 +616,24 @@
       "duration_ms": 217358,
       "name": "Boss Ass Bitch",
       "url": "https://open.spotify.com/track/2FfSmCkOikuxMaD1ubPOoI"
+    },
+    {
+      "album": {
+        "name": "BUCKLE BUNNY",
+        "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "Buckle Bunny",
+      "url": "https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA"
     },
     {
       "album": {
@@ -960,7 +1018,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
@@ -1098,7 +1156,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
@@ -3520,7 +3578,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 226160,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"

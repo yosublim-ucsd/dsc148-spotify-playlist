@@ -537,6 +537,32 @@
     },
     {
       "album": {
+        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
+      },
+      "artists": [
+        {
+          "name": "Los Lamas",
+          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362235,
+      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
+    },
+    {
+      "album": {
         "name": "El Ni\u00f1o (En Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/2ZlaAvyAp0jI5k8zHglaSO"
       },
@@ -1204,7 +1230,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 483693,
       "name": "La Ventanita / Beso a Beso",
       "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
@@ -1356,6 +1382,24 @@
       "duration_ms": 340000,
       "name": "Me Acostumbr\u00e9 a Ti / Chica Brasilera - Live Session",
       "url": "https://open.spotify.com/track/6Oi8YNK9aVuQxlrmtF0a3M"
+    },
+    {
+      "album": {
+        "name": "Festival (En Vivo)",
+        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628309,
+      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
+      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
     },
     {
       "album": {
@@ -2080,7 +2124,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 193000,
       "name": "Quiero Yo Saber (Donde Esta El Amor)",
       "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,712 likes - 51 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,719 likes - 51 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 50 | [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 |
 | 51 | [I LIKE](https://open.spotify.com/track/5rAV8NxCASv0isWVJVff6k) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:47 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDAwMzVlZmU3YTEyODZjZGU0MDljYzhjOTIzMDg4ZjI3Ng==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDBmZDQ0ZjZmMTE5NTFkMTg4ZTIyNTY4N2ZmMjBkNzUxZA==`

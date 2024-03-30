@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: B*Witched",
-  "num_followers": 818468,
+  "num_followers": 819503,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWE5YjBhYzRmMDUwMzM0ZDI2NmY1YzkxMTgzYTE1YzIwYTFkYWUw",
+  "snapshot_id": "MCw0ODMzM2NkNmFiMDg1OGRhOTIxMzJkNGMzZmQxNTY2NjM4MWQxMmU5",
   "tracks": [
     {
       "added_at": "2024-03-15 19:06:32",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 240866,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 278778,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Saturday Night Single",
-        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
-      },
-      "artists": [
-        {
-          "name": "Whigfield",
-          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
-        }
-      ],
-      "duration_ms": 247405,
-      "name": "Saturday Night - Radio Mix",
-      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 240933,
       "name": "Sing Hallelujah!",
       "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Saturday Night Single",
+        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+      },
+      "artists": [
+        {
+          "name": "Whigfield",
+          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+        }
+      ],
+      "duration_ms": 247405,
+      "name": "Saturday Night - Radio Mix",
+      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 336840,
+      "name": "Mr. Vain",
+      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "1992 - 2012",
         "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
       },
@@ -1139,18 +1155,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
       },
       "artists": [
         {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 336840,
-      "name": "Mr. Vain",
-      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1171,6 +1191,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -1187,18 +1223,18 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
+      "duration_ms": 331760,
+      "name": "Canned Heat",
+      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1223,22 +1259,6 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 331760,
-      "name": "Canned Heat",
-      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1275,22 +1295,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -1307,6 +1311,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Duophonic",
         "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 279600,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1616,7 +1616,7 @@
           "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
         }
       ],
-      "duration_ms": 226773,
+      "duration_ms": 226734,
       "name": "Get A Way",
       "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
     },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 204586,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "No Time To Chill",
+        "url": "https://open.spotify.com/album/0sFHr1bZ6mPOnICWWRJA01"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "How Much Is The Fish?",
+      "url": "https://open.spotify.com/track/73aOM4jyU3begiIYxYUd89"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "No Time To Chill",
-        "url": "https://open.spotify.com/album/0sFHr1bZ6mPOnICWWRJA01"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "How Much Is The Fish?",
-      "url": "https://open.spotify.com/track/73aOM4jyU3begiIYxYUd89"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
+      },
+      "artists": [
+        {
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Crying at the Discoteque - Radio Edit",
+      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Forever Faithless - The Greatest Hits",
         "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
       },
@@ -2243,22 +2259,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
-      },
-      "artists": [
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Crying at the Discoteque - Radio Edit",
-      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Tougher Than Love",
         "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
       },
@@ -2271,22 +2271,6 @@
       "duration_ms": 258560,
       "name": "Shy Guy",
       "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Motownphilly",
-      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2323,6 +2307,22 @@
       "duration_ms": 170466,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Motownphilly",
+      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Feel the heat of the night",
         "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 221840,
       "name": "Feel the heat of the night - Radio Edit",
       "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
     },
     {
       "added_at": "2024-03-15 19:06:32",

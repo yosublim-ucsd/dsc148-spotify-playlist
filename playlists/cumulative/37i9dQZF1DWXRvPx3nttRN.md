@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-411 songs - 23 hr 11 min
+412 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [Permission \- Acoustic](https://open.spotify.com/track/3kaFYSebFm6p3PflgCe8Ro) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Permission \(Acoustic\)](https://open.spotify.com/album/5MmxUo5rGnE7v2re6iOSGX) | 3:09 | 2022-04-22 |  |
 | [Permission \- Acoustic](https://open.spotify.com/track/4XoB4LN7cERTtSQ1BtCSkq) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Permission \(Acoustic\)](https://open.spotify.com/album/3KfCHYT7QLJmd63BrK9Y4z) | 3:09 | 2021-03-12 | 2022-07-29 |
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2021-03-12 |  |
-| [Poison \- Acoustic](https://open.spotify.com/track/3Lpcz58EmUfusfV16tPqPH) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison \(Acoustic\)](https://open.spotify.com/album/16KGNmwzTUr81fFTrFBqac) | 3:40 | 2021-03-12 |  |
+| [Poison \- Acoustic](https://open.spotify.com/track/0bkoPyMOUziVoo6nnxibnP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison \(Acoustic\)](https://open.spotify.com/album/14lbcCG6io559CzkZbGI1k) | 3:40 | 2024-02-16 |  |
+| [Poison \- Acoustic](https://open.spotify.com/track/3Lpcz58EmUfusfV16tPqPH) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison \(Acoustic\)](https://open.spotify.com/album/16KGNmwzTUr81fFTrFBqac) | 3:40 | 2021-03-12 | 2024-03-30 |
 | [Polaroid \- Acoustic](https://open.spotify.com/track/2f2gz6LZSz67HWq84Hqn2j) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Polaroid \(Acoustic\)](https://open.spotify.com/album/2DEvmVhv8FjwDXn888pSXW) | 3:37 | 2021-03-12 |  |
 | [Prayer In C](https://open.spotify.com/track/3xDwdnSZNnKg7zFagrZQGf) | [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP) | [Covers Vol.2](https://open.spotify.com/album/2sBeBIeMfkYnJ9hZnWxwnS) | 2:55 | 2021-03-12 |  |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/0CpgnSp5byPjRH0CzKTSWh) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Banho Acustico](https://open.spotify.com/album/4vvacVa2MbxLJ8uteNCFpV) | 3:18 | 2022-04-22 | 2022-11-13 |

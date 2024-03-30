@@ -1,29 +1,13 @@
 {
   "description": "Enjoy mysterious and dreamy music as if walking in a dream. (\uafc8 \uc18d\uc744 \uac70\ub2d0\ub4ef \uc2e0\ube44\ub86d\uace0 \ubabd\ud658\uc801\uc778 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 75923,
+  "num_followers": 75983,
   "original_name": "d r e a m l i k e \u3132 \u315c \u3141",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjI5NGNjODU2OGY4ZTNlN2ZhN2I1MTliNDc1NTBhY2U4MmJjZDg5",
+  "snapshot_id": "MCwyMzE3ZDZkYjg1N2NmNTdhNjIxYTYyODcyNGE4N2Y0MGJlOWVkMDFj",
   "tracks": [
-    {
-      "added_at": "2024-03-27 05:44:39",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 108986,
-      "name": "New Jeans",
-      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
-    },
     {
       "added_at": "2024-03-27 05:44:39",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-03-27 05:44:39",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "New Jeans",
+      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
     },
     {
       "added_at": "2024-03-27 05:44:39",
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2024-03-27 05:44:39",
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2024-03-27 05:44:39",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-03-27 05:44:39",
       "album": {
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Go Back \uc9d1\uc5d0",
+      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
+    },
+    {
+      "added_at": "2024-03-27 05:44:39",
+      "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 226841,
       "name": "CIRCLE",
       "url": "https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC"
-    },
-    {
-      "added_at": "2024-03-27 05:44:39",
-      "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Go Back \uc9d1\uc5d0",
-      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
     },
     {
       "added_at": "2024-03-27 05:44:39",

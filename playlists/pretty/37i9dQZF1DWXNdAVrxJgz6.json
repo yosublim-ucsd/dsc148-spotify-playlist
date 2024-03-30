@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 135528,
+  "num_followers": 136036,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTJhYzg1Yjg4MTZjYzQzYzIwYTM2NjIxYWNkMzQyNWQwNmM0OWZk",
+  "snapshot_id": "MCxkYjFiM2EzZGFjNGRlZjRjYWM5YjY1MzQ4M2U1ZTQ4OGY3NTcwY2M1",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Mi Raz\u00f3n De Ser",
-        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/2Y5pjQMzAQ5QpBazHrzhqP"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 234480,
       "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/2Y5pjQMzAQ5QpBazHrzhqP"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1rYEKI8cDhyGCzbVkoGGPL"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197865,
-      "name": "Ya No Te Cuadra",
-      "url": "https://open.spotify.com/track/30j7zzxPc55kozL1dCnp9I"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "M\u00e1s Adelante",
         "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 184066,
       "name": "Carita De Perd\u00f3n",
       "url": "https://open.spotify.com/track/6apOgi25sgEaVSJO7znHCg"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1rYEKI8cDhyGCzbVkoGGPL"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 197865,
+      "name": "Ya No Te Cuadra",
+      "url": "https://open.spotify.com/track/30j7zzxPc55kozL1dCnp9I"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Vive y D\u00e9jame Vivir",
+        "url": "https://open.spotify.com/album/6YiHMEAUyDwPZSQasQH17w"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Vive Y D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/77WQrnphsSnSxyQElfqvbg"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/2xz3Rtzw7yz9LYNy3YNWMR"
       },
@@ -707,6 +723,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Seremos",
+        "url": "https://open.spotify.com/album/6H4FKdBzb29bJ8xOJCRJPr"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/1ea25iz3zE8aLnbSZ5ZR92"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Nos Divertimos Logrando Lo Imposible",
         "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
       },
@@ -723,38 +755,6 @@
       "duration_ms": 247209,
       "name": "Cuando Me Ten\u00edas",
       "url": "https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Vive y D\u00e9jame Vivir",
-        "url": "https://open.spotify.com/album/6YiHMEAUyDwPZSQasQH17w"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Vive Y D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/77WQrnphsSnSxyQElfqvbg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Seremos",
-        "url": "https://open.spotify.com/album/6H4FKdBzb29bJ8xOJCRJPr"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/1ea25iz3zE8aLnbSZ5ZR92"
     },
     {
       "added_at": "2023-10-06 06:00:00",

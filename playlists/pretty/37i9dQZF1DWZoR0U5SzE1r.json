@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 304239,
+  "num_followers": 304416,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmE2OTVlNzY2YjM3NjczOTZmZDc0MzU5MmE5Njk3OTVlMmRhYWE1",
+  "snapshot_id": "MCxjYjEzMTczN2RiZGVlZDE1YjlkYWQyNTk0ZTNiODRkMzI3YTA3YmVm",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "All The Earth (Live)",
         "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
       },
@@ -175,30 +191,6 @@
       "duration_ms": 486944,
       "name": "Peace Be Still - Live",
       "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "The Blessing (Live)",
-        "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 514664,
-      "name": "The Blessing - Live",
-      "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -323,22 +315,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "spark. (Live)",
         "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
       },
@@ -367,6 +343,30 @@
       "duration_ms": 357373,
       "name": "Good and Gracious King",
       "url": "https://open.spotify.com/track/1gqhpCPMpTQu8G9mkpS1ib"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 514664,
+      "name": "The Blessing - Live",
+      "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/5ybtNC92wGRlHqlTskkWt0"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 217226,
       "name": "Every Beat (feat. Seth Condrey)",
       "url": "https://open.spotify.com/track/2np5AM9Unlb73qyCi1r82W"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Healer",
-      "url": "https://open.spotify.com/track/5ybtNC92wGRlHqlTskkWt0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Abundantly More",
-        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 241684,
-      "name": "Abundantly More (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Breakthrough (Live)",
         "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 271920,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Abundantly More",
+        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 241684,
+      "name": "Abundantly More (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
     },
     {
       "added_at": "2020-06-26 04:02:00",

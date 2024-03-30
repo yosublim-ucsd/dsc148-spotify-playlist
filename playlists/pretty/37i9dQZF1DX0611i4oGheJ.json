@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 443929,
+  "num_followers": 444014,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODEyMDk0NzhjYTEyMjA1YWUyMTJhZjdiZjBlYTIyMWE1ZTk3YTRj",
+  "snapshot_id": "MCw1MzQ5ZTVjNDcyMGI5M2IzZDhhNTExMWU4OWI2NTgzZDRiMWRiMmEx",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "In the Night",
-        "url": "https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 164538,
-      "name": "I Am Not Afraid",
-      "url": "https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 230518,
       "name": "Even the Darkness Has Arms",
       "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 164538,
+      "name": "I Am Not Afraid",
+      "url": "https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Southeastern",
-        "url": "https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Cover Me Up",
-      "url": "https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Colder Heavens - EP",
         "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Southeastern",
+        "url": "https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "You Never Know",
-        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 202677,
       "name": "I'll Be out Here",
       "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "You Never Know",
+        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 290584,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Darkest Darks, Lightest Lights",
         "url": "https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Any Light",
-        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
-      },
-      "artists": [
-        {
-          "name": "Loving",
-          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
-        }
-      ],
-      "duration_ms": 180841,
-      "name": "Any Light",
-      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Coming Down the Mountain",
         "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
       },
@@ -1579,34 +1563,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
+        "name": "Any Light",
+        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
       },
       "artists": [
         {
-          "name": "Sophia James",
-          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
         }
       ],
-      "duration_ms": 162600,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Dust to Dust",
-      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
+      "duration_ms": 180841,
+      "name": "Any Light",
+      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1627,6 +1595,38 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Dust to Dust",
+      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
+      },
+      "artists": [
+        {
+          "name": "Sophia James",
+          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Is There Still a Light On?",
-        "url": "https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 251322,
-      "name": "Is There Still a Light On?",
-      "url": "https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "The Wilds",
         "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Is There Still a Light On?",
+        "url": "https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 251322,
+      "name": "Is There Still a Light On?",
+      "url": "https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Shine On Rainy Day",
+        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Solving Problems",
+      "url": "https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Shine On Rainy Day",
-        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "Solving Problems",
-      "url": "https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84"
     },
     {
       "added_at": "2024-03-15 04:00:00",

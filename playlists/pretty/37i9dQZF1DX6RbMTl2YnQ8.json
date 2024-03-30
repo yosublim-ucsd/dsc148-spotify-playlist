@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 226593,
+  "num_followers": 226808,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2I2ZjA1MmI1NjJkYmNhNjE0YjFkM2MxNjkxNmZjYjdiNWEwNjI4",
+  "snapshot_id": "MCxmNWRkNWM1ZjcyOTkyODg3ZjZhYWJiZjdlZmNiZmExZjUxZDE2Mjc2",
   "tracks": [
     {
       "added_at": "2024-03-12 17:51:30",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-03-12 17:51:30",
       "album": {
-        "name": "Finisterra",
-        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
-      },
-      "artists": [
-        {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
-        }
-      ],
-      "duration_ms": 296751,
-      "name": "Fiesta Pagana",
-      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
-    },
-    {
-      "added_at": "2024-03-12 17:51:30",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 156197,
       "name": "Irresponsables",
       "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
+    },
+    {
+      "added_at": "2024-03-12 17:51:30",
+      "album": {
+        "name": "Finisterra",
+        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "duration_ms": 296751,
+      "name": "Fiesta Pagana",
+      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
     },
     {
       "added_at": "2024-03-12 17:51:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-12 17:51:30",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
-      "added_at": "2024-03-12 17:51:30",
-      "album": {
         "name": "Barrio Estaci\u00f3n",
         "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 286106,
       "name": "Nada Nuevo Bajo El Sol",
       "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
+    },
+    {
+      "added_at": "2024-03-12 17:51:30",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2024-03-12 17:51:30",

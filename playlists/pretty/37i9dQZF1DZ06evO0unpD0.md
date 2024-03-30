@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,262 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,266 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 40 | [Africa, One Of A Kind](https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:08 |
 | 41 | [Mandjou](https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 10:37 |
 | 42 | [Koukou](https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:02 |
-| 43 | [Yamore \- Radio Edit](https://open.spotify.com/track/4bRHRO9c8Irm4WVp7foB2k) | [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Cesaria Evora &...](https://open.spotify.com/album/465DTu20b6QFSOmMRDcyhP) | 3:43 |
-| 44 | [Ekolo D'Amour](https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 3:55 |
+| 43 | [Ekolo D'Amour](https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 3:55 |
+| 44 | [Yamore \- Radio Edit](https://open.spotify.com/track/4bRHRO9c8Irm4WVp7foB2k) | [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Cesaria Evora &...](https://open.spotify.com/album/465DTu20b6QFSOmMRDcyhP) | 3:43 |
 | 45 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 |
 | 46 | [Djembe](https://open.spotify.com/track/30102u9oWhTedLkAY26isZ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 5:02 |
-| 47 | [Des humains \(feat\. Salif Keita\)](https://open.spotify.com/track/1qam3RPfPkugXYYTT1h0nU) | [R.Wan](https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La gouache](https://open.spotify.com/album/6BdRY8R7yMvzWMSJ3qFHw0) | 4:02 |
-| 48 | [Samigna](https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:09 |
-| 49 | [Cono](https://open.spotify.com/track/3HMQXE2tma5gy9LOcgf0QR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/0f9D2ul5epWCta3847KfNR) | 6:01 |
+| 47 | [Samigna](https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:09 |
+| 48 | [Des humains \(feat\. Salif Keita\)](https://open.spotify.com/track/1qam3RPfPkugXYYTT1h0nU) | [R.Wan](https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La gouache](https://open.spotify.com/album/6BdRY8R7yMvzWMSJ3qFHw0) | 4:02 |
+| 49 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
 | 50 | [Ignadjidje](https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 6:04 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA5MjNiMmUzYzE0NzkzZWVjZjYzNjY5YzNhZmRjMTk3Zg==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDA0Y2RiMjNiNGZjMjU3ZDkwNWExODE4MmNhMjk1NTIzZA==`

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 112289,
+  "num_followers": 112357,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzNhM2I4MTIzYzQ2NDcyZDEwMDI5YzgzNjI1M2U4ZDE1NTdhNzc0",
+  "snapshot_id": "MCxjNTFiNmJmZDQ2YmRiMTdjZjAxODM3ODJmMWJjOWVhYWQ3ZmEwMTY1",
   "tracks": [
     {
       "added_at": "2022-10-14 00:00:00",
@@ -143,26 +143,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "THIS IS... ICONA POP",
         "url": "https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
     },
     {
       "added_at": "2022-10-14 00:00:00",

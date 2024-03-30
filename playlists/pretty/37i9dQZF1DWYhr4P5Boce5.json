@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 202502,
+  "num_followers": 202524,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWFjYzgxZDk2MzlkOTQ1Nzg4ZjJlZGIxZmViZDA1YTkyZmRhZDRm",
+  "snapshot_id": "MCxlMzc3NGVhMjExNGIxZDM5YjNlYzkzNzgxNjZlN2M4MWY2NjMwNjkz",
   "tracks": [
     {
       "added_at": "2024-02-05 17:58:02",
@@ -731,30 +731,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
-      },
-      "artists": [
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Lightmuzik",
-          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 118503,
-      "name": "When It Hurts",
-      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Without Love",
         "url": "https://open.spotify.com/album/0wD5bHfu88mLVIRBJRq7ly"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 210372,
       "name": "Dancing in the Minefields",
       "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Lightmuzik",
+          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 118503,
+      "name": "When It Hurts",
+      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
+        "name": "Baby Will You Love Me",
+        "url": "https://open.spotify.com/album/6pphhVn7pM8GDBSCozdAe2"
       },
       "artists": [
         {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
         }
       ],
-      "duration_ms": 226053,
-      "name": "I'll Wait For You",
-      "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
+      "duration_ms": 213338,
+      "name": "Baby Will You Love Me",
+      "url": "https://open.spotify.com/track/0lfzTHeMZJYG5icmPK7diT"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Baby Will You Love Me",
-        "url": "https://open.spotify.com/album/6pphhVn7pM8GDBSCozdAe2"
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
       },
       "artists": [
         {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
         }
       ],
-      "duration_ms": 213338,
-      "name": "Baby Will You Love Me",
-      "url": "https://open.spotify.com/track/0lfzTHeMZJYG5icmPK7diT"
+      "duration_ms": 226053,
+      "name": "I'll Wait For You",
+      "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Kundi",
-        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Kundi",
-      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Britt Nicole (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 251106,
       "name": "Fallin In Love",
       "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Kundi",
+        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Kundi",
+      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 132000,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "True Beauty",
-        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 246240,
       "name": "I'm in Love With You",
       "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "True Beauty",
+        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2451,6 +2451,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Lions and Liars",
         "url": "https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX"
       },
@@ -2467,22 +2483,6 @@
       "duration_ms": 192893,
       "name": "We Can Be More",
       "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "BEBECITA SHAWTY",
-        "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
-      },
-      "artists": [
-        {
-          "name": "Don Ryvcko",
-          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "BEBECITA SHAWTY",
-      "url": "https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Love You, Still",
         "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 307000,
       "name": "Love You, Still",
       "url": "https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "BEBECITA SHAWTY",
+        "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "BEBECITA SHAWTY",
+      "url": "https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY"
     },
     {
       "added_at": "2024-02-05 17:58:02",

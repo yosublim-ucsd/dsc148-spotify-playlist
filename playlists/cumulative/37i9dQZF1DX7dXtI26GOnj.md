@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Shakira
 
-406 songs - 21 hr 20 min
+407 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 | 2023-02-24 | 2023-03-25 |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2021-12-31 | 2022-02-26 |
 | [Borracho y Loco](https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Borracho y Loco](https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX) | 2:51 | 2023-09-22 |  |
-| [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 | 2024-01-12 |  |
+| [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 | 2024-01-12 | 2024-03-30 |
 | [Brazilera](https://open.spotify.com/track/1oo1rEQATDYqmWysK6IrqP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:04 | 2021-12-31 | 2022-05-07 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-04-29 | 2023-07-01 |
 | [Brujería](https://open.spotify.com/track/69BHn4uTkFhRRd41e11RwU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa) | 2:45 | 2022-09-30 | 2022-10-23 |
@@ -174,6 +174,7 @@
 | [Imposible Amor](https://open.spotify.com/track/5oMrqQUkuLMg4DvlCEZfXx) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Imposible Amor](https://open.spotify.com/album/3S0EYCnpwhjRW1eROxzis8) | 2:53 | 2021-12-31 | 2022-06-18 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-12-31 | 2022-01-22 |
 | [Isso É Brasil](https://open.spotify.com/track/1fW4LyOPp3p1J3yUxkyQ4i) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Isso É Brasil](https://open.spotify.com/album/0VTFUIJ84CoTaYDkgWtoO9) | 3:38 | 2022-04-08 | 2022-04-29 |
+| [Jalo!](https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Jalo!](https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h) | 2:31 | 2024-03-29 |  |
 | [JOGO PERIGOSO](https://open.spotify.com/track/6aJbnXKoGszrhFsQ75crxt) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:45 | 2022-02-11 | 2022-04-09 |
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2022-09-30 | 2023-07-01 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-21 |  |

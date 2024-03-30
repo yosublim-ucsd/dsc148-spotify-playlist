@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,941 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,961 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 47 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 |
 | 48 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 |
 | 49 | [Coming Home \(feat\. Akanksha Grover\)](https://open.spotify.com/track/04NnuTb5FhhGcbnFqsMMMf) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Akanksha Grover](https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj) | [In Other Words](https://open.spotify.com/album/0KruLNQDR6hriRFxMTFCwq) | 4:54 |
-| 50 | [Lat Ulajhi](https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S) | [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Classical Unwind](https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8) | 3:59 |
+| 50 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 |
 
-Snapshot ID: `MCxjM2NjMGFmYjZlYWNmZTc0MjgwNWQ4ZTNkMmUyZDQ0YzBkYTkwNzEz`
+Snapshot ID: `MCwxZjRiMTQ5ZWI0OTA3ZGQ1N2M2NDE4YTg1OWM1MmI0YzY1ZDExNDBj`

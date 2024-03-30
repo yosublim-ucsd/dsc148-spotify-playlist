@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,189 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,320 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 44 | [I'm Beginning To See The Light \- 2001 Digital Remaster](https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Oh! Look At Me Now](https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE) | 2:18 |
 | 45 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
 | 46 | [A Summer Place](https://open.spotify.com/track/71kwIDWJ0xClRjxvIey6D0) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:34 |
-| 47 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
+| 47 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |
 | 48 | [And I Love You So](https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 3:17 |
-| 49 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |
+| 49 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
 | 50 | [Someone To Watch Over Me](https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:16 |
 
-Snapshot ID: `MCxkZmNiOWZmZGYyYzgwODNiMjc2NDNmMDViYWY5NWViOWJhOGRmMmI4`
+Snapshot ID: `MCxjZGQ5NWEzOTQwYmU0NTJlMGJkODMzZmVlMDE2MmU5NDAxNWMyNTVk`

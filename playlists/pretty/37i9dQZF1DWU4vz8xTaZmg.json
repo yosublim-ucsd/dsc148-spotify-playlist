@@ -1,12 +1,12 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 70965,
+  "num_followers": 70981,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWMwNjhjZjgzMGVjYTlhYjE5ZDA0YmEzZTlkMGE0NWMzYjcwMmNm",
+  "snapshot_id": "MCwxYzM0ZDFkZGZlNGE0NmZjOTE5NzU2MTA2NzBiNzBiYjJiMzQ1Y2Zl",
   "tracks": [
     {
       "added_at": "2023-12-15 20:05:00",
@@ -935,18 +935,22 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "ARRANC\u00c1RMELO",
-        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Y2K",
+          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 183547,
-      "name": "ARRANC\u00c1RMELO",
-      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+      "duration_ms": 160626,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -967,22 +971,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Lalala",
-        "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
+        "name": "ARRANC\u00c1RMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
       "artists": [
         {
-          "name": "Y2K",
-          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 160626,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
+      "duration_ms": 183547,
+      "name": "ARRANC\u00c1RMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
         "name": "Mother's Milk",
         "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 202053,
       "name": "Higher Ground - Remastered 2003",
       "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Bad Bad Bad (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 128409,
       "name": "THRU THE NIGHT (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "LUST.",
+      "url": "https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 244760,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "LUST.",
-      "url": "https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Herstory in the Making",
-        "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
       },
       "artists": [
         {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 225919,
-      "name": "BIG",
-      "url": "https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl"
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
     }
   ],
   "unique_name": "Antidomingo",

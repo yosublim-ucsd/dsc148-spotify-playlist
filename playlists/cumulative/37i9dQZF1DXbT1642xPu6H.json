@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 213951,
       "name": "BELLAQUERIA",
       "url": "https://open.spotify.com/track/4idfodHR51jrjpuIww8HGw"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 158214,
       "name": "COCO (feat. Yailin la Mas Viral)",
       "url": "https://open.spotify.com/track/4ha1GYdpaquNwEe0WAj7eN"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180646,
       "name": "Conexi\u00f3n Ancestral",
       "url": "https://open.spotify.com/track/66NoT1tpX8AzNQai4iUlVt"
@@ -2131,6 +2131,28 @@
     },
     {
       "album": {
+        "name": "EMPELOTICA",
+        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190322,
+      "name": "EMPELOTICA",
+      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
+    },
+    {
+      "album": {
         "name": "Energ\u00eda Bacana",
         "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
       },
@@ -2204,7 +2226,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 175355,
       "name": "Existo",
       "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
@@ -2531,6 +2553,28 @@
     },
     {
       "album": {
+        "name": "GALA Y DAL\u00cd",
+        "url": "https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "GALA Y DAL\u00cd",
+      "url": "https://open.spotify.com/track/2PLAm4ZgIoHJeLTrWHmO7q"
+    },
+    {
+      "album": {
         "name": "Gatita",
         "url": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
       },
@@ -2774,7 +2818,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 211000,
       "name": "Human",
       "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
@@ -2898,7 +2942,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 142756,
       "name": "If Only I (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
@@ -3280,7 +3324,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 207387,
       "name": "La Esquina del Mall",
       "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
@@ -3472,6 +3516,24 @@
       "duration_ms": 194120,
       "name": "Lo Que un Hombre Deber\u00eda Saber",
       "url": "https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l"
+    },
+    {
+      "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i"
     },
     {
       "album": {
@@ -4470,7 +4532,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 186613,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
@@ -5305,6 +5367,28 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141031,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -5458,7 +5542,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170769,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ"
@@ -6604,7 +6688,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"

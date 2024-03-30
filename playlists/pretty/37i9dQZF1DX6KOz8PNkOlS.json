@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 447655,
+  "num_followers": 447816,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTI1YmYzYmQ5ZjNiNGUxZTdiZTczOWQ4YjIyYzU1YmEyMDVlNTU1",
+  "snapshot_id": "MCw0ZmQ1NTZiMDZjY2VlMTQ4MjJkNTQwY2U2YjkwOGYyZDNlYmM4OTEx",
   "tracks": [
     {
       "added_at": "2023-09-25 02:25:33",
@@ -777,54 +777,6 @@
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
     },
     {
-      "added_at": "2022-02-25 03:07:19",
-      "album": {
-        "name": "MAHAL",
-        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
-      "added_at": "2022-12-07 04:54:47",
-      "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
-    },
-    {
       "added_at": "2023-06-02 02:31:02",
       "album": {
         "name": "You Knew",
@@ -843,6 +795,54 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2022-02-25 03:07:19",
+      "album": {
+        "name": "MAHAL",
+        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5"
+    },
+    {
+      "added_at": "2022-12-07 04:54:47",
+      "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
     },
     {
-      "added_at": "2023-09-25 02:40:58",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "the masquerade",
@@ -1365,24 +1349,20 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-09-25 02:40:58",
       "album": {
-        "name": "Something Like A War",
-        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
       },
       "artists": [
         {
-          "name": "Kindness",
-          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 194946,
-      "name": "The Warning",
-      "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2023-01-04 01:09:50",
@@ -1407,6 +1387,26 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Something Like A War",
+        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
+      },
+      "artists": [
+        {
+          "name": "Kindness",
+          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "The Warning",
+      "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
     },
     {
       "added_at": "2022-04-18 03:39:12",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Modern World",
-        "url": "https://open.spotify.com/album/5lLgEhk1YTVF7mg3MyN28p"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 282453,
-      "name": "Sweet Lie",
-      "url": "https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Sounds Of Blue",
         "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 214897,
       "name": "Sounds Of Blue",
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Modern World",
+        "url": "https://open.spotify.com/album/5lLgEhk1YTVF7mg3MyN28p"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 282453,
+      "name": "Sweet Lie",
+      "url": "https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1665,38 +1665,6 @@
       "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
     },
     {
-      "added_at": "2023-12-20 03:28:07",
-      "album": {
-        "name": "If You Could See Me Now",
-        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
-      },
-      "artists": [
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        }
-      ],
-      "duration_ms": 161229,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
-    },
-    {
       "added_at": "2022-01-26 18:13:44",
       "album": {
         "name": "Saturday Yawning",
@@ -1715,18 +1683,50 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Apollonia",
-        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
+        "name": "Tru Love",
+        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
       },
       "artists": [
         {
-          "name": "Garden City Movement",
-          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 158314,
-      "name": "Foreign Affair",
-      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
+      "duration_ms": 198084,
+      "name": "Tru Love",
+      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+    },
+    {
+      "added_at": "2023-12-20 03:28:07",
+      "album": {
+        "name": "If You Could See Me Now",
+        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
+      },
+      "artists": [
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        }
+      ],
+      "duration_ms": 161229,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Virtual U",
+        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     }
   ],
   "unique_name": "Soft Office",

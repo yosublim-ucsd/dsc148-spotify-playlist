@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-302 songs - 1 day 0 hr 24 min
+303 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dividual Individual](https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 5:00 | 2023-06-05 | 2024-01-26 |
 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 | 2021-11-12 | 2022-07-29 |
 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX), [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 | 2021-11-12 |  |
+| [Drunken Leaves](https://open.spotify.com/track/3ryrAy7jDFnbxyyMFMp3KI) | [Assemble Head In Sunburst Sound](https://open.spotify.com/artist/1Nd9wmXkGfM0hTMPlJW2MB) | [When Sweet Sleep Returned](https://open.spotify.com/album/2kUBjypJgK25Dh1kFLHGJW) | 4:18 | 2023-11-24 |  |
 | [Drunken Leaves](https://open.spotify.com/track/6f5ZBQeO24U6U5iw3cFnj7) | [Assemble Head In Sunburst Sound](https://open.spotify.com/artist/1Nd9wmXkGfM0hTMPlJW2MB) | [When Sweet Sleep Returned](https://open.spotify.com/album/0sDiwLzVhGLE1PC2TIkr2W) | 4:18 | 2021-11-12 | 2022-09-29 |
 | [Döngüm](https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ) | [Journers](https://open.spotify.com/artist/1poI3l63ENJgUiWAKGv2Sp), [Burak Yeşildurak](https://open.spotify.com/artist/3qM6QIAv4X4nCNZd69VFgA), [Metin Akdülger](https://open.spotify.com/artist/0FEcDP4V2l2ktoG1DQL5Qr) | [Döngüm](https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7) | 4:30 | 2021-11-12 | 2023-05-23 |
 | [Eat Acid See God](https://open.spotify.com/track/73HwxOOJ6TGAWykzR1Yvav) | [The Gluts](https://open.spotify.com/artist/13WOru4Cg1ZdszgnB1AU17) | [Eat Acid See God](https://open.spotify.com/album/1daapU9if6oenkybF6fTn0) | 7:50 | 2021-11-12 | 2022-05-29 |
@@ -136,7 +137,7 @@
 | [In The Eve](https://open.spotify.com/track/4rVD839xJRAk4jRqB2UzND) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/7zxPsrcn1bbLrGgzUQo3qg) | 3:56 | 2021-11-12 | 2022-07-24 |
 | [In The Eve](https://open.spotify.com/track/5VQq8M6cGARgFSLnialsvJ) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/0Q8ULMJnNCjkLErAEgysO6) | 3:56 | 2021-11-12 | 2024-02-28 |
 | [Indian Zone Drum Killer Inc.](https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP) | [Tandy Love](https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P) | [Turk Jerk](https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4) | 3:25 | 2021-11-12 | 2023-07-14 |
-| [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 | 2023-08-15 |  |
+| [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 | 2023-08-15 | 2024-03-30 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-11-12 |  |
 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-11-12 | 2022-11-13 |
 | [It Might Be Time](https://open.spotify.com/track/2P0NiuAfypaw5UZJoo0n0o) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [It Might Be Time](https://open.spotify.com/album/0xUNJrjy4ORR3xQKH93n3a) | 4:33 | 2021-11-12 | 2022-07-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,888 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,884 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 34 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
 | 35 | [Blame](https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:41 |
 | 36 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
-| 37 | [Illusion](https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:18 |
-| 38 | [Excuses](https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Neo Seoul](https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ) | 3:15 |
+| 37 | [Excuses](https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Neo Seoul](https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ) | 3:15 |
+| 38 | [Illusion](https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:18 |
 | 39 | [Two Pills](https://open.spotify.com/track/6dLpWqTE8JM10tDOTB17Y3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [STILL YOUNG BOY L](https://open.spotify.com/album/0x9dXa3HhLBstlkyarka7Q) | 2:57 |
 | 40 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
 | 41 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 43 | [Wet The Bed](https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:00 |
 | 44 | [Justin Bieber \(feat\. Jay Park\)](https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EMO \#1](https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu) | 3:37 |
 | 45 | [More](https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:27 |
-| 46 | [I wonder \(Feat\. Jay Park\)](https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Not my fault](https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9) | 3:34 |
-| 47 | [Point \(feat\. Loopy\)](https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:13 |
-| 48 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
+| 46 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
+| 47 | [I wonder \(Feat\. Jay Park\)](https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Not my fault](https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9) | 3:34 |
+| 48 | [Point \(feat\. Loopy\)](https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:13 |
 | 49 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 |
 | 50 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 | 51 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 | 60 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 
-Snapshot ID: `MCxjYTU4OWY3YjVmMmE0OGI2NDk5OTdjN2I3ZmRlNjA3OGFlYjczNTA4`
+Snapshot ID: `MCxiYzQwZmQ3M2UzY2M0Mzk2NmE4NzNmMTQ3MDFhN2JjNzZlYjhiMzgy`

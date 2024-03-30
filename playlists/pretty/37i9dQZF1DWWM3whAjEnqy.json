@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43140,
+  "num_followers": 43153,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWYyZjcwNjIxZDRhMmQxYjgxYzJjMDUxYTgxNzU0ZWFmMjMwNjEx",
+  "snapshot_id": "MCw0Zjk3YjEyOGI1YzI1ZGQ2MjMyNzQwZDM4OWU1NTIzOTA1NGJlMjM2",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P"
+      },
+      "artists": [
+        {
+          "name": "Mako Road",
+          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
+        }
+      ],
+      "duration_ms": 254465,
+      "name": "The Sun Comes Up",
+      "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "The Sun Comes Up",
-        "url": "https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P"
-      },
-      "artists": [
-        {
-          "name": "Mako Road",
-          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
-        }
-      ],
-      "duration_ms": 254465,
-      "name": "The Sun Comes Up",
-      "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "The Green Superintendent",
-        "url": "https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7"
-      },
-      "artists": [
-        {
-          "name": "Mako Road",
-          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
-        }
-      ],
-      "duration_ms": 289515,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/40a71fyOae5rPfqo8JPoLL"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Believe (Triple J Like A Version)",
         "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 197594,
       "name": "Believe (Triple J Like A Version)",
       "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "The Green Superintendent",
+        "url": "https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7"
+      },
+      "artists": [
+        {
+          "name": "Mako Road",
+          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
+        }
+      ],
+      "duration_ms": 289515,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/40a71fyOae5rPfqo8JPoLL"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -983,22 +983,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Thick Skin",
-        "url": "https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO"
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
       "artists": [
         {
-          "name": "Tia Gostelow",
-          "url": "https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5"
-        },
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+          "name": "Holy Holy",
+          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo"
+      "duration_ms": 259964,
+      "name": "True Lovers",
+      "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
+        "name": "Thick Skin",
+        "url": "https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO"
       },
       "artists": [
         {
-          "name": "Holy Holy",
-          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
+          "name": "Tia Gostelow",
+          "url": "https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
         }
       ],
-      "duration_ms": 259964,
-      "name": "True Lovers",
-      "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
+      "duration_ms": 182000,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
       "artists": [
         {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+          "name": "The Waifs",
+          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
         }
       ],
-      "duration_ms": 199437,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
+      "duration_ms": 226733,
+      "name": "London Still",
+      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
       },
       "artists": [
         {
-          "name": "The Waifs",
-          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
         }
       ],
-      "duration_ms": 226733,
-      "name": "London Still",
-      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
+      "duration_ms": 199437,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
     },
     {
       "added_at": "2023-11-15 02:04:48",

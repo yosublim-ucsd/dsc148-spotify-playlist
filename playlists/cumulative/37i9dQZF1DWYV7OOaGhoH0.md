@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Aoife O'Donovan
+> The best in folk & acoustic today featuring music from Hozier
 
 529 songs - 1 day 8 hr 45 min
 
@@ -86,7 +86,7 @@
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2023-11-17 |  |
 | [Brady Street](https://open.spotify.com/track/2Kea9YLyZhsOSXvIybWDrF) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [Brady Street](https://open.spotify.com/album/6jiZCje7hfougIXBWnzwwH) | 3:08 | 2022-06-24 | 2023-02-25 |
 | [break the ground](https://open.spotify.com/track/2gXTKHCq2yBPouSxkUZuA7) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [break the ground](https://open.spotify.com/album/1tNEMEBBT5xddPjQI8RobJ) | 2:35 | 2022-04-22 | 2022-10-08 |
-| [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 | 2023-12-01 |  |
+| [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 | 2023-12-01 | 2024-03-30 |
 | [Bright Star](https://open.spotify.com/track/2GU7Yy8fZVbtmSafEOXcjQ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bright Star](https://open.spotify.com/album/2DqpMCRbrMb4VRb1GNtYXg) | 3:10 | 2021-12-10 | 2022-01-29 |
 | [Bright Star](https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:10 | 2022-01-28 | 2022-04-02 |
 | [BRIGHTSIDE](https://open.spotify.com/track/2mdkcujPED7xhV2MTtjYnD) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/1rN1O6lNjyw1P3SNs3KZzs) | 3:49 | 2021-12-10 | 2022-01-15 |
@@ -387,7 +387,7 @@
 | [See The Light](https://open.spotify.com/track/28DIGBWD9YtAIit4ASWY3C) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB) | 2:50 | 2022-02-11 | 2022-12-03 |
 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 | 2021-12-10 | 2022-02-05 |
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-24 | 2022-10-22 |
-| [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-07-21 |  |
+| [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-07-21 | 2024-03-30 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2023-11-11 |
 | [She'll Change](https://open.spotify.com/track/3d3mxvxLxdBtW5OYLV7faR) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [She'll Change](https://open.spotify.com/album/6wYpaSgmMDzyfQxNmcTIXf) | 2:41 | 2021-12-10 | 2022-01-29 |
 | [Shenandoah Shakedown](https://open.spotify.com/track/62PLVssh2kExRDg50VVXjE) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Depreciated](https://open.spotify.com/album/1YfYKrsK953RSyGiMUBixx) | 4:09 | 2021-12-10 | 2022-05-20 |

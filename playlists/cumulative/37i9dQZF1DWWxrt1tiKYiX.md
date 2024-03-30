@@ -2,9 +2,9 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Taylor Swift
+> Lovely, acoustic pop\. Cover: Kate Hudson
 
-244 songs - 13 hr 28 min
+246 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [bitter bitches](https://open.spotify.com/track/6Pv3ySXkwWN5C8yUUy2L9e) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [bitter bitches](https://open.spotify.com/album/3ROZH4gXF4nurpSAmJsU5b) | 1:29 | 2023-09-22 | 2023-10-14 |
 | [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 | 2022-01-28 | 2023-06-17 |
 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 | 2023-09-01 |  |
-| [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 |  |
+| [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 | 2024-03-30 |
 | [Body Better \- Acoustic](https://open.spotify.com/track/4e3QW9GKxYi3fx7RjjZh58) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better \(Acoustic\)](https://open.spotify.com/album/510JGc0LpOJbhiB0uOM9m9) | 3:15 | 2023-02-24 | 2023-06-10 |
 | [Brave \- Acoustic](https://open.spotify.com/track/2bNhvD9NrWBqtf79htNx2r) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave \(Acoustic\)](https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK) | 3:48 | 2022-01-28 | 2023-12-21 |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 | 2022-07-15 | 2023-06-10 |
@@ -138,6 +138,7 @@
 | [Kiss Me \- Guitar](https://open.spotify.com/track/0X2DSuFNxMdw6Gr4XZcTqJ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy) | 3:38 | 2022-11-13 |  |
 | [Kiss Me \- Guitar](https://open.spotify.com/track/3Sf2bgJlNZQwkv3VpoT3Zp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me \(Guitar\)](https://open.spotify.com/album/64YI1ILJJXcVpgJfJcLbPL) | 3:38 | 2022-10-08 | 2022-10-16 |
 | [Kiss Me \- Guitar](https://open.spotify.com/track/3bNHiYwoKVcflW2tnzQG45) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/1FM4P2J86LgXgLL7Amw6qQ) | 3:38 | 2022-10-14 | 2022-11-16 |
+| [LA](https://open.spotify.com/track/0NZ95zuvvves6AI83A9W0S) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [LA](https://open.spotify.com/album/2Lvt5Kiz9CPM0vcHDCvduH) | 3:20 | 2024-03-29 |  |
 | [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 | 2022-01-28 | 2023-04-01 |
 | [Latch \- Acoustic](https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:43 | 2023-09-29 |  |
 | [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2022-01-28 | 2023-10-04 |
@@ -149,6 +150,7 @@
 | [Light On \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 | 2022-01-28 | 2023-04-15 |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Acoustic\)](https://open.spotify.com/album/0H6pdORxZ735HztupqklPx) | 3:06 | 2022-02-18 | 2023-08-19 |
 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 | 2024-03-01 |  |
+| [Live Forever](https://open.spotify.com/track/0f8vJ5TNG54ymfv7b70NF7) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Live Forever](https://open.spotify.com/album/7JIW8bW2IvO0cSmrPMth3z) | 3:13 | 2024-03-29 |  |
 | [Lonely \(with benny blanco\) \- Acoustic](https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\) \[Main + Acoustic\]](https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH) | 2:35 | 2022-01-28 | 2023-06-17 |
 | [Looks Like Me \- Piano Acoustic](https://open.spotify.com/track/256ArsGaVttMIF56zoSzT9) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me \(Acoustic\)](https://open.spotify.com/album/47bsK3xszAvwlsfp0KubZS) | 3:05 | 2022-01-28 | 2023-05-20 |
 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 | 2022-01-28 |  |
@@ -218,7 +220,7 @@
 | [sunny day](https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:52 | 2023-05-19 |  |
 | [Sunshine \- Acoustic Version](https://open.spotify.com/track/5OAuga7P1grWVNYp9v2qGq) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine\. The EP](https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c) | 2:52 | 2022-01-28 |  |
 | [Sweet Talker \- Acoustic](https://open.spotify.com/track/16pWf68x1CzECOHELpeH0S) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sweet Talker \(Acoustic\)](https://open.spotify.com/album/40XJMYKd3XQ9h8kVJqZUs7) | 3:01 | 2022-01-28 | 2022-08-06 |
-| [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 | 2023-09-22 |  |
+| [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 | 2023-09-22 | 2024-03-30 |
 | [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 | 2023-06-16 | 2023-09-29 |
 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-06-09 | 2023-06-23 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |

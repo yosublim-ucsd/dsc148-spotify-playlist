@@ -4,7 +4,7 @@
 
 > chipi chipi chapa chapa dubidubi 🎶
 
-553 songs - 1 day 6 hr 27 min
+554 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-02-28 |  |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-04-19 | 2023-06-07 |
 | [Maneater \(Live\)](https://open.spotify.com/track/2h3ajXsZsJyYm0PVXeauJ7) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [No Hard Feelings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/50cNEYjextcTe2rb4zgkNr) | 3:18 | 2023-10-04 | 2023-11-02 |
-| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 |  |
+| [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-22 |  |
+| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 | 2024-03-30 |
 | [Marimar](https://open.spotify.com/track/7yNq24c0sSauWx8kRkdA6A) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Mis Mejores Momentos](https://open.spotify.com/album/5F7PR6nCIGqPCeptlF1LpU) | 3:22 | 2022-07-22 | 2022-08-02 |
 | [Marimar](https://open.spotify.com/track/4dWfdAcwdhUAWv0gryUaNF) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Imprescindibles](https://open.spotify.com/album/0WjpoO1Q2c9yAr5IqTB3kd) | 3:24 | 2022-07-22 | 2022-07-29 |
 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-07-25 | 2023-03-01 |

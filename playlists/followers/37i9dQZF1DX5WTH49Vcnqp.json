@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 565082,
+  "2024-03-30": 565176,
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: girl in red, Sabrina Carpenter",
+  "description": "Music that's hard to define but easy to love. Cover: Djo",
   "name": "Front Left",
   "tracks": [
     {
@@ -21,6 +21,24 @@
       "duration_ms": 203933,
       "name": "(David Bowie I Love You) Since I Was Six",
       "url": "https://open.spotify.com/track/5FQ1ZPkIyYss4XhhDBvnC5"
+    },
+    {
+      "album": {
+        "name": "(I\u2019m) Stung",
+        "url": "https://open.spotify.com/album/5Ef6CPuglBPWKolkQtLa3R"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "(I'm) Stung",
+      "url": "https://open.spotify.com/track/6oW5zKvWlGEZjW0EX2y9Bv"
     },
     {
       "album": {
@@ -3716,6 +3734,28 @@
     },
     {
       "album": {
+        "name": "Chance On You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Chance On You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6"
       },
@@ -5465,6 +5505,28 @@
       "duration_ms": 128853,
       "name": "Do you miss me?",
       "url": "https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL"
+    },
+    {
+      "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     },
     {
       "album": {
@@ -11431,7 +11493,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 156190,
       "name": "In Ya Nature",
       "url": "https://open.spotify.com/track/2b26ap5bsuyyUD9zu6Y6D1"
@@ -11659,7 +11721,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 180442,
       "name": "IT HURTS ME",
       "url": "https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H"
@@ -12507,7 +12569,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 164483,
       "name": "Leave Her",
       "url": "https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT"
@@ -13887,7 +13949,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 203519,
       "name": "Me Before You",
       "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
@@ -15909,7 +15971,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 194760,
       "name": "ohmygod",
       "url": "https://open.spotify.com/track/3EB4t4qPtUB46Dn9OaUvlk"
@@ -16463,7 +16525,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 190733,
       "name": "Overcompensate (edit)",
       "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
@@ -17213,7 +17275,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 256573,
       "name": "POP POP POP",
       "url": "https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a"
@@ -18997,6 +19059,24 @@
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "album": {
+        "name": "Shotput",
+        "url": "https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170698,
+      "name": "Shotput",
+      "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
     },
     {
       "album": {
@@ -21200,6 +21280,24 @@
     },
     {
       "album": {
+        "name": "Take Me to the River",
+        "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264066,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
+    },
+    {
+      "album": {
         "name": "Witchazel",
         "url": "https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO"
       },
@@ -22420,6 +22518,24 @@
     },
     {
       "album": {
+        "name": "Through The Trees",
+        "url": "https://open.spotify.com/album/2rP1TqqHpwQZE8WqFONuDF"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188492,
+      "name": "Through The Trees",
+      "url": "https://open.spotify.com/track/0bmuiRqdjPBtFmCIcb4uCR"
+    },
+    {
+      "album": {
         "name": "Sunshine Corner",
         "url": "https://open.spotify.com/album/3oqHKUUQalm8lqryVEt1ws"
       },
@@ -22623,7 +22739,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 135145,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/1MEnBRNqcVp38fmYnW9qE6"
@@ -23939,6 +24055,28 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/6Y0Nq4Gz0l9YkiI7RDvfQc"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        },
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/4OUASKtHBgvuEY1By2WO5v"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7060,
+  "num_followers": 7068,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTFjYzZhZmZkNjQ5ZjhjMjUyMjFiOTUzOWY2MTU4MzM4NjgzY2Q3",
+  "snapshot_id": "MCxhNGMyZDJhNDgxMDM1YjEzMzBiYTdhNTRkYjcxNzgzNmZiYTBhMTg1",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 294945,
       "name": "Babe I'm Gonna Leave You - Extended Version",
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 202906,
       "name": "Even The Bad Ends Badly",
       "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 191760,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Times",
         "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 196426,
       "name": "It's So Easy",
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 191760,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
     },
     {
       "added_at": "2024-03-07 23:00:00",

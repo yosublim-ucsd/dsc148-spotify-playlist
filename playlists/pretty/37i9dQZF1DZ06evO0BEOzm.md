@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,628 likes - 53 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,695 likes - 53 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
 | 53 | [Ride Or Die \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/6CYyxobulcKumfeV6e2I9g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [VickeeLo](https://open.spotify.com/artist/4mPrHfhtQUBoHgTxkBieLY) | [Ride Or Die \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/7Dfk55fGetXAV3iAYJqkrO) | 2:03 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA0ZDZkMjlmZjYzNzZkZDM3OGNjNjgyOGJkZWVkZTM3NQ==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDAwOWMwNmIwN2MzZDI1ZDc4MjU2OTAxMTU1ZmM2YjE5Zg==`

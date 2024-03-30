@@ -2,9 +2,9 @@
 
 ### [Now Loading](https://open.spotify.com/playlist/37i9dQZF1DX8GjsySWIS1x)
 
-> The latest promotional gaming tracks, gaming synchs, and more.
+> The latest in gaming music.
 
-807 songs - 1 day 20 hr 43 min
+808 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1\-800\-PUR\-GTRY](https://open.spotify.com/track/0v5LQhq1zlVwpEssYkv6Vb) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [1\-800\-PUR\-GTRY](https://open.spotify.com/album/0N4oN7lJ2IIb3dQaazj1up) | 3:14 | 2021-03-31 | 2021-10-16 |
 | [16 Years](https://open.spotify.com/track/3GncyQAqKMwlSVhyM31Lsu) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/689bhllQWGeODWheOb9Ejt) | 3:45 | 2021-03-18 | 2021-06-12 |
 | [2 MUCH \(feat\. 24hrs\) \(feat\. 24hrs\)](https://open.spotify.com/track/6lwxNGjvD1pFlXyNI2h9aH) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [2 MUCH \(feat\. 24hrs\) \(feat\. 24hrs\)](https://open.spotify.com/album/5VFAs0jH6v3WAkMkzAzyDX) | 3:02 | 2021-03-14 | 2021-09-30 |
+| [2WORLDS](https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [2WORLDS](https://open.spotify.com/album/0RKIC2QUL8WkDMWWQy3szr) | 2:29 | 2024-03-29 |  |
 | [3 Pointer](https://open.spotify.com/track/7bpvYreSAPti1BxcsKGmyz) | [Sage English](https://open.spotify.com/artist/0P0zSLxEcIgzVHe0Mg1Tye) | [DON'T CALL MY PHONE](https://open.spotify.com/album/0UtBnDb2EGn0mFiM8lqlja) | 2:42 | 2021-03-26 | 2021-12-11 |
 | [50 Ft](https://open.spotify.com/track/6Y3sIFJugSl4lULQb1TZzW) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Jared Anthony](https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI) | [50 Ft](https://open.spotify.com/album/6Q6zPcPCBT01MsQOq8687H) | 3:03 | 2021-03-30 | 2021-10-16 |
 | [661](https://open.spotify.com/track/3ospStorNDG6tgVymlv7Z9) | [Ariaa](https://open.spotify.com/artist/1QRPeX2c9ua8VuUvZjpTTJ) | [661](https://open.spotify.com/album/5yaBHVmdBjL7EYRo2lZzu5) | 2:40 | 2021-03-27 | 2021-12-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,611 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,663 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 23 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 |
 | 24 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
 | 25 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
-| 26 | [10 Ngàn Năm](https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [10 Ngàn Năm](https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF) | 4:00 |
-| 27 | [Exit Sign](https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:21 |
+| 26 | [Exit Sign](https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:21 |
+| 27 | [10 Ngàn Năm](https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [10 Ngàn Năm](https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF) | 4:00 |
 | 28 | [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Em iu](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:59 |
 | 29 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
 | 30 | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nâu](https://open.spotify.com/artist/5zifyPCJIZxUBhVq7AydsT) | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 |
 | 50 | [Đầu Đường Xó Chợ \(ft\. Lăng LD\)](https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Lăng LD](https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:04 |
 
-Snapshot ID: `MCxiY2Q0ZmQ2YTk5MTQyMDQ0ZWJkMjkyMDY4YTc4MjRiN2M0ZTM1MWFi`
+Snapshot ID: `MCw5YWE2ZjRmZjQyMTUxMDgzMzQxMjg0ZGM2MjIyYWRhZmQxYzg0MTc5`

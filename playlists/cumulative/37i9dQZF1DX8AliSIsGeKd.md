@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Betoko
 
-3,314 songs - 12 day 4 hr 15 min
+3,315 songs - 12 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,7 +956,8 @@
 | [Eyes Wide Shut](https://open.spotify.com/track/5LJp2qfO8QGxdx4EYFHOML) | [Quivver](https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD), [Dave Seaman](https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73) | [Eyes Wide Shut](https://open.spotify.com/album/1ktPJXoQOohxXFJXECYglp) | 7:03 | 2023-07-06 | 2023-07-21 |
 | [Fabrica de Baile \- Lauer Remix](https://open.spotify.com/track/4aFywKPP2SgzpYCr60Ygqm) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Fabrica de Baile \(Lauer Remix\)](https://open.spotify.com/album/4yRfFxANKCL3iaOFr1IMCA) | 5:49 | 2023-03-30 | 2023-04-14 |
 | [Faces \- Edit](https://open.spotify.com/track/2wKJ04d6cZv5idwMQFHRwu) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [Faces](https://open.spotify.com/album/1aoauhpTZDrayjaxD3ZJwG) | 5:51 | 2023-07-20 | 2023-08-11 |
-| [Faces \- Radeckt Remix](https://open.spotify.com/track/3ppkY6KwpVpCvscf6i5KGa) | [Ebmath](https://open.spotify.com/artist/3NFKWhstN9hCqjnWJULb7d), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Faces \(Radeckt Remix\)](https://open.spotify.com/album/6PEaU3SM6eoRWDObtzACGo) | 6:49 | 2024-03-21 |  |
+| [Faces \- Radeckt Remix](https://open.spotify.com/track/3ayDyY3GA2f7Y3Dzk01TOj) | [Ebmath](https://open.spotify.com/artist/3NFKWhstN9hCqjnWJULb7d), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Faces](https://open.spotify.com/album/772KaR8hxFRpFNUhBuwV11) | 6:49 | 2024-03-28 |  |
+| [Faces \- Radeckt Remix](https://open.spotify.com/track/3ppkY6KwpVpCvscf6i5KGa) | [Ebmath](https://open.spotify.com/artist/3NFKWhstN9hCqjnWJULb7d), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Faces \(Radeckt Remix\)](https://open.spotify.com/album/6PEaU3SM6eoRWDObtzACGo) | 6:49 | 2024-03-21 | 2024-03-30 |
 | [Factual Matters](https://open.spotify.com/track/30ifbc7I2i6QkDq6G6YB7A) | [Kevin Knapp](https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv) | [Factual Matters](https://open.spotify.com/album/3rG5utVbl4lZDL7jaFAH7s) | 6:31 | 2022-09-22 | 2022-10-07 |
 | [Fade Away](https://open.spotify.com/track/4BueRz1BQYOjj0g1jDhOIL) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [RBBN](https://open.spotify.com/artist/6MKjyUZqmSpxPLHUVSeoIo), [Slimm](https://open.spotify.com/artist/6mlG47ucLElJgW038Dwnon) | [Fade Away](https://open.spotify.com/album/1tu6KBlzVeFg9RCN5nKGq8) | 3:37 | 2023-08-10 | 2023-09-01 |
 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 | 2022-09-08 | 2022-09-30 |

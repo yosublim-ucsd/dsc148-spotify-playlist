@@ -4,10 +4,11 @@
 
 > VEM FAN E DU!?
 
-1,033 songs - 1 day 19 hr 45 min
+1,033 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8) | 0:00 | 2024-03-28 |  |
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-07-28 | 2022-08-26 |
 | [100 SHOTS](https://open.spotify.com/track/7v04RskE6ULlYQwwk2X44F) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [Betty Becks](https://open.spotify.com/artist/53tc97BjjvJ7MJT0GzLQsg), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA) | [100 SHOTS](https://open.spotify.com/album/4YzGFWj75uBuBRHDtgy04f) | 2:06 | 2023-09-07 | 2023-12-01 |
 | [123 \(Dolly Song\) feat\. Karma Child](https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp) | 2:21 | 2021-12-16 | 2022-08-26 |
@@ -997,7 +998,6 @@
 | [VINBALLE](https://open.spotify.com/track/1XdMxUEDz7yG8zOEQKmZi5) | [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [VINBALLE](https://open.spotify.com/album/0ma6EgyQCcJZk0ahCTeahd) | 3:05 | 2023-11-23 | 2023-12-22 |
 | [Violin](https://open.spotify.com/track/2L1AKmvqjSLPdm2OWYvm3I) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Popcorn!](https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ), [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J) | [Violin](https://open.spotify.com/album/1QtiKaqaRb1r7Em0s6flNh) | 2:19 | 2021-12-16 | 2022-04-22 |
 | [VIP](https://open.spotify.com/track/58QoOmzoDZWkvFHaMyH0l7) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [VIP](https://open.spotify.com/album/57My92fAkm8NMlXI5y8s9x) | 2:30 | 2022-03-24 | 2022-10-21 |
-| [VIVA LA GUNILLA](https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [VIVA LA GUNILLA](https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8) | 2:11 | 2024-03-28 |  |
 | [Voltage](https://open.spotify.com/track/7z3kQQICDz1iLkfo7j1lOV) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Popcorn!](https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ) | [Voltage](https://open.spotify.com/album/5mXvnVtQEvsg8DptdcHfxk) | 2:27 | 2021-12-16 | 2022-07-29 |
 | [VOLVO 142](https://open.spotify.com/track/0X9q2JqNNK93TEy4M8TWuT) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [VOLVO 142](https://open.spotify.com/album/5OY3p14hOJawBnOBSUgeec) | 2:36 | 2023-10-26 | 2024-01-26 |
 | [Volvo 142 \- EPA Remix \- Dansbandsrave](https://open.spotify.com/track/5zqL7PdtTqYTWXMzQF79HT) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Volvo 142 \- EPA Remix](https://open.spotify.com/album/6472QpmzTmjpoOz1rHVd5r) | 1:58 | 2022-09-29 | 2023-03-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27797,
+  "num_followers": 27801,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmY0NTU2MDZhM2Y2NDZiZDgxNGEyMWM4ZjdjYmQxODA0ZjlkMTky",
+  "snapshot_id": "MCxkMTIzNzBlYjE5YjBlZjBmZmEzZWMyMzMwN2I2OThkOGM2ZmMwMDdl",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Amok",
+        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 125878,
+      "name": "Amok",
+      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "BONANZA",
         "url": "https://open.spotify.com/album/6mcasYSlPLjXTrVpSfKKDH"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 147960,
       "name": "BONANZA",
       "url": "https://open.spotify.com/track/1L3pLzpYt4KuiUkBpdPDoz"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Amok",
-        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
-      },
-      "artists": [
-        {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        },
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 125878,
-      "name": "Amok",
-      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "R\u00e4dda mig",
+        "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
+      },
+      "artists": [
+        {
+          "name": "Mohel\u00e1",
+          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
+        },
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "R\u00e4dda mig",
+      "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Bed\u00f8velse Gj\u00f8r Mester",
         "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 221276,
       "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "R\u00e4dda mig",
-        "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
-      },
-      "artists": [
-        {
-          "name": "Mohel\u00e1",
-          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
-        },
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "R\u00e4dda mig",
-      "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Plz",
-        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 142118,
-      "name": "Plz",
-      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Hoodrich",
         "url": "https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 144890,
       "name": "Hoodrich",
       "url": "https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Zinah",
-        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 116500,
-      "name": "Zinah",
-      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Palmerna",
         "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 147013,
       "name": "Palmerna",
       "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Zinah",
+        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 116500,
+      "name": "Zinah",
+      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "MANDANA",
-        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 123149,
-      "name": "MANDANA",
-      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "L\u00f8sningsorienterte",
         "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 173465,
       "name": "L\u00f8sningsorienterte",
       "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "MANDANA",
+        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 123149,
+      "name": "MANDANA",
+      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 137861,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Gangster V\u00e4rld",
         "url": "https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 152932,
       "name": "Gangster V\u00e4rld",
       "url": "https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 137861,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Det var aldri meg",
+        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Ment for hverandre",
+      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "N\u00e5nting i Luften",
         "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
       },
@@ -1207,18 +1223,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Det var aldri meg",
-        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
+        "name": "Slipp",
+        "url": "https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By"
       },
       "artists": [
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        },
+        {
+          "name": "Tshawe",
+          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Ment for hverandre",
-      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
+      "duration_ms": 179488,
+      "name": "Slipp",
+      "url": "https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1243,26 +1263,6 @@
       "duration_ms": 156269,
       "name": "Til Toppen",
       "url": "https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Slipp",
-        "url": "https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By"
-      },
-      "artists": [
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        },
-        {
-          "name": "Tshawe",
-          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
-        }
-      ],
-      "duration_ms": 179488,
-      "name": "Slipp",
-      "url": "https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ"
     },
     {
       "added_at": "2024-03-28 23:00:00",

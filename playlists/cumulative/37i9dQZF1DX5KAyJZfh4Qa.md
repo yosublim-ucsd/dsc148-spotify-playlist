@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Microwave
 
-172 songs - 9 hr 36 min
+173 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Company Calls Epilogue](https://open.spotify.com/track/1Y8BZ7eR0mPp9oO1RLPrvE) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Company Calls Epilogue](https://open.spotify.com/album/4u10umzNn7CKQFSlOSB6F5) | 4:32 | 2022-11-25 | 2023-02-12 |
 | [computer exploder](https://open.spotify.com/track/1H7FYm7jZgINmMAsWsLaQL) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/5Qcv0Vr8N5XOwfR7IyzOh8) | 3:18 | 2022-11-25 | 2023-08-09 |
 | [Concrete \(A Love Song\)](https://open.spotify.com/track/5jb2VoiVXYrwpo4FrioHlC) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Concrete \(A Love Song\)](https://open.spotify.com/album/0kukvkeqmw3jQ0lx5rzkjP) | 3:39 | 2023-11-17 |  |
-| [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-17 |  |
+| [Crawl II](https://open.spotify.com/track/5lriyhkDRZvtl8fKD9JU0T) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/1Suln1akGBpyDrKZENbsX9) | 3:15 | 2024-03-08 |  |
+| [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-17 | 2024-03-30 |
 | [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-11-25 | 2022-12-18 |
 | [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-12-09 | 2022-12-19 |
 | [Crawling](https://open.spotify.com/track/7q9CCkU2CpUodkMx02V11R) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5Xfy7lIiqneDoEf3jEQwQY) | 2:44 | 2022-12-09 | 2023-03-18 |

@@ -4,16 +4,17 @@
 
 > indie tunes with country experimentation featuring music from Faye Webster 🌟🌟🌟
 
-218 songs - 13 hr 58 min
+221 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(dream\)](https://open.spotify.com/track/17YNmMy03QLPirmBzWxFa6) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 1:24 | 2024-03-01 |  |
 | [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 | 2023-08-02 | 2024-03-21 |
-| [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 | 2024-02-12 |  |
+| [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:47 | 2024-02-12 |  |
 | [About](https://open.spotify.com/track/4sOPZqn8nkweocgJQZJwmH) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Land](https://open.spotify.com/album/36W3NXzrIHvMSnIY8h5em3) | 2:47 | 2023-12-08 | 2024-01-13 |
 | [Acolyte](https://open.spotify.com/track/2h0O3uXZW6ClktlgHWGpjy) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 5:16 | 2023-07-21 |  |
-| [All My Thoughts](https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu) | 3:45 | 2023-03-03 |  |
+| [All My Thoughts](https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu) | 3:45 | 2023-03-03 | 2024-03-30 |
+| [All My Thoughts](https://open.spotify.com/track/1tOdpTjRfTuDiM330DCKDD) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/6iKPa0KYi9BmKjhfYiRvS1) | 3:45 | 2024-03-01 |  |
 | [Amy](https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Amy](https://open.spotify.com/album/3St5d6fnFu6CkkWOiN4pCv) | 3:36 | 2023-09-08 |  |
 | [Angels Bowling](https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [Angels Bowling](https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV) | 2:18 | 2023-02-23 | 2023-07-15 |
 | [another sublet](https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [another sublet](https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG) | 3:02 | 2023-12-08 | 2024-01-13 |
@@ -54,7 +55,8 @@
 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 | 2023-06-30 |  |
 | [Cowboy](https://open.spotify.com/track/1Pxk92XAQEuTGWvu9w4OGN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 4:35 | 2023-02-23 |  |
 | [Cowboy Dream](https://open.spotify.com/track/43SSANT3vfxLkLdriz3VFp) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Cowboy Dream](https://open.spotify.com/album/0W8iflSWh33zJ4GjepIL9E) | 3:11 | 2023-02-23 | 2023-07-15 |
-| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2023-06-23 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 | 2024-03-01 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2023-06-23 | 2024-03-30 |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-23 |  |
 | [Cowgirl Giving](https://open.spotify.com/track/5iByVlZlOmIVTPbF34VSTM) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Cowgirl Giving](https://open.spotify.com/album/3f62q827UrlNTwvJS8v6oq) | 5:05 | 2023-07-28 |  |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-02-23 |  |
@@ -91,9 +93,10 @@
 | [gold ring \(flounder bonus track\)](https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder \(deluxe\)](https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM) | 3:03 | 2023-07-28 |  |
 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 | 2023-06-12 |  |
 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2023-02-23 |  |
-| [Good Ol Days](https://open.spotify.com/track/2eXfiLRUIMoxykbZICeOyc) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:54 | 2023-12-08 |  |
+| [Good Ol Days](https://open.spotify.com/track/2eXfiLRUIMoxykbZICeOyc) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:54 | 2023-12-08 | 2024-03-30 |
 | [Good Ol Days](https://open.spotify.com/track/3cZreNPb0hNWeHeamr88jR) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Good Ol Days](https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr) | 4:54 | 2023-08-25 | 2023-10-22 |
 | [Good Ol Days](https://open.spotify.com/track/5i0WOfDUtQdO5bkVm7ZSK0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:54 | 2023-10-13 | 2024-01-25 |
+| [Good Ol Days](https://open.spotify.com/track/5vRWfHVWcKncaW7WYNdKyJ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/4YrL4gc7GACAqnKomXuvGk) | 4:54 | 2024-03-01 |  |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-23 |  |
 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2023-02-23 | 2023-04-29 |
 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-04-28 |  |

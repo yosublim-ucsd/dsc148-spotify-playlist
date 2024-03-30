@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > All your favourite Country songs in one place! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, The Castellows, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,897 likes - 65 songs - 3 hr 36 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,899 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 7 | [Take Her Home](https://open.spotify.com/track/3izIv4f7gxEZglHtcuqYtj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 3:03 |
 | 8 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 |
 | 9 | [Hurricane](https://open.spotify.com/track/3A0AYh7WkYsatq8JU3IdJt) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Hurricane](https://open.spotify.com/album/58gOlBZH1HhW3D3ryZV8KO) | 4:09 |
-| 10 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
+| 10 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 11 | [Tie Up](https://open.spotify.com/track/1ldVci33AH29zhSR4fTIOt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Tie Up](https://open.spotify.com/album/1LtPTOxjuWJ2iPUy2ILU9e) | 3:08 |
 | 12 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 |
 | 13 | [Waylon In '75](https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Songs From Bad For Me](https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1) | 3:20 |

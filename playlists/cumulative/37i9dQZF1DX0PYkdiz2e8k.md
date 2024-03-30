@@ -2,14 +2,15 @@
 
 ### [do rockeeee](https://open.spotify.com/playlist/37i9dQZF1DX0PYkdiz2e8k)
 
-> Explode! is out Foto: Mother Mother
+> 👹 8️⃣ Foto: YUNGBLUD
 
-86 songs - 4 hr 22 min
+88 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [8 Ou 80](https://open.spotify.com/track/6SsCiwzgVuKaGHtZXzpUD7) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [8 Ou 80](https://open.spotify.com/album/0b3JIdj9r4N7QE8DEZaVII) | 2:29 | 2024-03-08 |  |
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2023-07-21 |  |
+| [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-29 |  |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-11-10 |  |
 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 | 2023-07-21 |  |
 | [BEDTIME STORIES](https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [BEDTIME STORIES / BLOOD](https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou) | 2:08 | 2023-07-21 | 2023-08-19 |
@@ -26,6 +27,7 @@
 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 | 2023-07-21 |  |
 | [DON'T WANNA SLEEP](https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:36 | 2023-07-21 | 2023-08-19 |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-07-21 | 2023-08-12 |
+| [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 | 2024-03-29 |  |
 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 | 2024-01-19 | 2024-03-02 |
 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 | 2024-03-23 |
 | [Even When I’m Not With You](https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 2:54 | 2023-07-21 |  |
@@ -44,7 +46,7 @@
 | [Hayloft II \(SMASHUP\)](https://open.spotify.com/track/1S20BsgYeUven3xXuIUVz2) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Hayloft II \(SMASHUP\)](https://open.spotify.com/album/6kWbCD4fGGjk7cpN9jbJqn) | 3:43 | 2023-07-21 |  |
 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 | 2023-07-21 | 2023-08-12 |
 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 | 2023-07-21 |  |
-| [homens cis amam homens cis](https://open.spotify.com/track/0H25VAQpH84Z4vn0Rcjnlx) | [demonia](https://open.spotify.com/artist/7pZEe5A63tsfaS6FX7QfI9) | [homens cis amam homens cis](https://open.spotify.com/album/3mjjZyIGcxrsK4hrKikXoV) | 3:13 | 2024-03-01 |  |
+| [homens cis amam homens cis](https://open.spotify.com/track/0H25VAQpH84Z4vn0Rcjnlx) | [demonia](https://open.spotify.com/artist/7pZEe5A63tsfaS6FX7QfI9) | [homens cis amam homens cis](https://open.spotify.com/album/3mjjZyIGcxrsK4hrKikXoV) | 3:13 | 2024-03-01 | 2024-03-30 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-01 |  |
 | [Honey I'm Home](https://open.spotify.com/track/5U7QTTy3KlqNkNFDcEUMea) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Power to Play](https://open.spotify.com/album/2PMcA7AaZxQXmj62zGJLcd) | 4:09 | 2023-07-21 | 2023-09-16 |
 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2023-07-21 |  |
@@ -71,7 +73,7 @@
 | [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 | 2023-07-21 | 2023-10-30 |
 | [OFF MY FACE](https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:29 | 2023-12-15 |  |
 | [Pass The Nirvana \- Live From When We Were Young ‘22](https://open.spotify.com/track/0hsXl7bFWwjVGIrWNt3fNm) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life \(Extended Version\)](https://open.spotify.com/album/6sABJf0k73vYJrtILegktG) | 3:58 | 2023-07-21 | 2023-09-02 |
-| [porra loka](https://open.spotify.com/track/7l7QotzZqwX9YVpSJHwxJK) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [porra loka](https://open.spotify.com/album/2ZjGmRlFuNh2Q8iqaJlbzh) | 2:44 | 2024-03-22 |  |
+| [porra loka](https://open.spotify.com/track/7l7QotzZqwX9YVpSJHwxJK) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [porra loka](https://open.spotify.com/album/2ZjGmRlFuNh2Q8iqaJlbzh) | 2:44 | 2024-03-22 | 2024-03-30 |
 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-15 |  |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-08-11 | 2024-02-17 |
 | [SANCTUARY](https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [SANCTUARY](https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl) | 2:54 | 2023-07-21 |  |

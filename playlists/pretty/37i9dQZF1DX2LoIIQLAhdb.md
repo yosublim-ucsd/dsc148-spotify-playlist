@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,174 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,236 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Ma sœur](https://open.spotify.com/track/3iaYet67ATkGUD3CAOyYZ2) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Ma sœur](https://open.spotify.com/album/3ZDRqdWiCFIvg7iHIYIIMM) | 3:03 |
 | 40 | [SOS](https://open.spotify.com/track/51rmQPxpkfDxyhz44KtCvY) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [SOS](https://open.spotify.com/album/52xFZbg2Fsvn1s6AjpJIjb) | 2:52 |
 
-Snapshot ID: `MCwxMGFkNWUyNmIyNjUyNDRiNGFmZGNhMGMzNjhlMDk5NTE4ODgyMDJm`
+Snapshot ID: `MCxhMmJlMDgwYTQ2N2RiYzRiMmQ4MTdjYmQwNWI4YTQ4ZTNjNTcyZmUy`

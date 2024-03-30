@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-397 songs - 22 hr 5 min
+398 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [I just need U\. \- Tide Electric Remix](https://open.spotify.com/track/5X54DpGquhkONi2RbkUvsH) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Tide Electric](https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 3:27 | 2021-10-31 | 2022-07-23 |
 | [I Know You Can](https://open.spotify.com/track/5IVnZd5m8CRUAYvgPQ5cpU) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [I Know You Can](https://open.spotify.com/album/5YWErHX7eWgsa8ROa4ypGb) | 2:51 | 2023-02-07 |  |
 | [I Met Jesus In Miami](https://open.spotify.com/track/2tPqrI8KeUtYCeiTa04oQQ) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/76jTCf2143QHehCdmuNdwS) | 3:12 | 2023-02-26 | 2023-05-10 |
+| [I Met Jesus In Miami](https://open.spotify.com/track/5zvIHOsngAbCnUGxvDvIul) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/2zoxv5L1T1KR1ojW19bKBW) | 3:12 | 2023-02-07 |  |
 | [I Met Jesus In Miami](https://open.spotify.com/track/6Zpq9oz3t4u1S02kG38byT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 3:12 | 2023-02-07 | 2024-03-18 |
 | [I Need You](https://open.spotify.com/track/5FH4htVArJA0PMPnTtI8iT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 2:37 | 2021-10-31 | 2022-07-10 |
 | [I See You](https://open.spotify.com/track/709TAwgu9RUtiPLVgmZP71) | [Natalie Cleveland](https://open.spotify.com/artist/1vMDnKZvPdfoF3quGrgTi5) | [I See You](https://open.spotify.com/album/0XrKnCiGuRfD5rrB1fynVQ) | 3:27 | 2021-10-31 | 2022-05-16 |
@@ -392,7 +393,7 @@
 | [Won't He Do It \(Remix\)](https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:31 | 2021-10-31 | 2023-01-15 |
 | [Won't Rain Anymore](https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Won't Rain Anymore](https://open.spotify.com/album/049iy74GNjD4hiJtfhnsQ9) | 2:39 | 2023-03-07 | 2023-05-09 |
 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 | 2023-02-07 |  |
-| [Word \- Live](https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side B](https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK) | 3:08 | 2023-02-07 |  |
+| [Word \- Live](https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side B](https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK) | 3:08 | 2023-02-07 | 2024-03-30 |
 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 | 2021-10-31 | 2023-02-08 |
 | [Worry](https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Worry](https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9) | 3:07 | 2021-10-31 | 2023-02-08 |
 | [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 | 2023-02-07 |  |

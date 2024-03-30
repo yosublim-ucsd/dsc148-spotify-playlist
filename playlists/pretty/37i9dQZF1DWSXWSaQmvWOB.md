@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis & Danielle Ponder
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,118 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,172 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dumpalltheguns \- Feat\. Danielle Ponder](https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dumpalltheguns \(Feat\. Danielle Ponder\)](https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq) | 4:53 |
-| 2 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 |
+| 1 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 |
+| 2 | [Dumpalltheguns \- Feat\. Danielle Ponder](https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dumpalltheguns \(Feat\. Danielle Ponder\)](https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq) | 4:53 |
 | 3 | [Never Change \(feat\. Philip Bailey\)](https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Gravy](https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP) | 4:16 |
 | 4 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 |
 | 5 | [STEP BY STEP](https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [STEP BY STEP](https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 59 | [Naked \- Live](https://open.spotify.com/track/76ZWt6KvtIIAf4O1qCMT10) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Berenice Van Leer](https://open.spotify.com/artist/05WEW3kd5mLRHs3xtUF6t9) | [Twenty](https://open.spotify.com/album/6uAVwhjyE1eGec56ZsRoAQ) | 4:15 |
 | 60 | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0) | 3:43 |
 
-Snapshot ID: `MCw5MWQyMDViZDVmMDJjZTc0YjQzN2RkM2NmODEzMGM4MTM5ZjRlMWUz`
+Snapshot ID: `MCw2MzA1OWIyMGNhZGRkMWJjZjZkZDU3NDljOGM0YmY5YzFiZGE5OTU4`

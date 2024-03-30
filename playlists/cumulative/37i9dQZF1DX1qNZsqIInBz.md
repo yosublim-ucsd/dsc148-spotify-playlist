@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-202 songs - 9 hr 0 min
+204 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Dream Road](https://open.spotify.com/track/006xxgBdSswgtgXOks59u4) | [81an](https://open.spotify.com/artist/2jQ3SyqsblMmflFJCRr5dn), [ALan](https://open.spotify.com/artist/4nDKlmTjgg1o8PriTk0Wma), [ISHNLV](https://open.spotify.com/artist/5qZzS4qbriUwGeqoj8U1p3) | [Dream Road](https://open.spotify.com/album/0tpavY1s1hchFwtCC93tHN) | 3:03 | 2022-11-18 | 2023-05-06 |
 | [Dream Space](https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Dream Space](https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X) | 2:51 | 2022-10-10 |  |
 | [DREAMLAND](https://open.spotify.com/track/5L28ADW32Zq2KwfjUOJNZ4) | [OXXXIDE](https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS) | [DREAMLAND](https://open.spotify.com/album/3R3oRdJ0Ixu7KAte4O6aBz) | 2:00 | 2023-06-09 | 2023-10-14 |
-| [EASY PEAZY](https://open.spotify.com/track/1e6ZXuLRtWnXhwvJftJYuB) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6), [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK) | [EASY PEAZY](https://open.spotify.com/album/2gcyMDMKwpT4kpZ1HhITH8) | 2:49 | 2023-06-23 |  |
+| [EASY PEAZY](https://open.spotify.com/track/1e6ZXuLRtWnXhwvJftJYuB) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6), [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK) | [EASY PEAZY](https://open.spotify.com/album/2gcyMDMKwpT4kpZ1HhITH8) | 2:49 | 2023-06-23 | 2024-03-30 |
 | [Eclipse](https://open.spotify.com/track/6nnmaoO5YcqsmSHjgNZG86) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 2:53 | 2022-10-10 | 2022-12-10 |
 | [EMPHASIS](https://open.spotify.com/track/33wy9ENUVmxzSVUuMFCKD3) | [Lxght ライト](https://open.spotify.com/artist/1jRut00RsTU5L8nJ7imTr9), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [EMPHASIS](https://open.spotify.com/album/5uc8aObzf0BH3nkv9wbSy1) | 3:14 | 2022-12-16 | 2022-12-24 |
 | [End of the World](https://open.spotify.com/track/0rRJNSrFPmOPZJRmdQbciH) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World](https://open.spotify.com/album/4EBa1AFntytE0kwgUes6n6) | 2:44 | 2022-10-10 |  |
@@ -60,7 +60,7 @@
 | [ENDLESS UNIVERSE](https://open.spotify.com/track/2h7irVFGag3FMI1XU182bQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [QUXNTUM](https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH) | [ENDLESS UNIVERSE](https://open.spotify.com/album/1CuiJwRwtWI9k67Xli2YJQ) | 2:52 | 2023-08-11 |  |
 | [ENDLESS UNIVERSE](https://open.spotify.com/track/547me0XjHDVwhmUyj4g1rL) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [QUXNTUM](https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH) | [ENDLESS UNIVERSE](https://open.spotify.com/album/5qYUor2QBiTcRJJmDgivX9) | 2:52 | 2023-08-11 | 2023-12-07 |
 | [ENDLESS VOID](https://open.spotify.com/track/1ZzxutGot8uQzdvtwZnqhz) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [ENDLESS VOID](https://open.spotify.com/album/5PsqDyjDE9FPUkQgWNwv56) | 2:22 | 2022-10-10 |  |
-| [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 | 2023-05-05 |  |
+| [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 | 2023-05-05 | 2024-03-30 |
 | [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [EUPHORIA](https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs) | 3:03 | 2022-10-10 |  |
 | [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-10-10 | 2023-12-09 |
 | [Excused](https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Excused](https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up) | 2:23 | 2024-01-26 |  |
@@ -91,6 +91,7 @@
 | [Heavenly Key](https://open.spotify.com/track/09m40hbfqNwnF5w2CbqIqt) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Heavenly Key](https://open.spotify.com/album/6hfG91cy4DWAarb2s8RAj0) | 2:05 | 2023-06-16 |  |
 | [HOLOGRAM](https://open.spotify.com/track/20NjSzmdUKNjFEpfEYj6XA) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [HOLOGRAM](https://open.spotify.com/album/0cm5qj6DKNvUcD0haLZVFp) | 2:13 | 2022-12-09 |  |
 | [HYPERPHONK](https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT) | [LXVIATHXN](https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T) | [HYPERPHONK](https://open.spotify.com/album/5unAHopAAQmbF079dpLPmD) | 2:56 | 2022-10-10 | 2023-03-11 |
+| [I HART](https://open.spotify.com/track/6J6rM0Wly5wnXYEKKyyTVs) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [I HART](https://open.spotify.com/album/4bT2CuLnmXSpoVrcZOJvSe) | 2:22 | 2024-03-29 |  |
 | [I'M SORRY](https://open.spotify.com/track/0K3JJbRm9y70tesc73U6bn) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I'M SORRY](https://open.spotify.com/album/4oWAtbgahTeGrYKljx6GI0) | 2:19 | 2022-10-21 | 2023-06-10 |
 | [In the mountains](https://open.spotify.com/track/40yeoePtbySoqCSRHgPPpR) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1uejx5trxVgGx7HQulfDND) | 1:49 | 2023-06-09 | 2024-02-23 |
 | [In the mountains](https://open.spotify.com/track/51Uf2MSlbnu3nQhsZMmSYr) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0) | 1:49 | 2023-06-09 | 2023-12-05 |
@@ -166,6 +167,7 @@
 | [RENEGADE](https://open.spotify.com/track/6Yap10AMYjIDgRXLUcH1pt) | [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [RENEGADE](https://open.spotify.com/album/5N93SkOr64iOa2bwsf5oyr) | 3:28 | 2022-10-10 | 2022-12-17 |
 | [Ridge Crest](https://open.spotify.com/track/4wQG1yyeTSoDCppLzBXJ9m) | [dxprxsslve](https://open.spotify.com/artist/61QWo0cPeQFZt2U1gEjyl9) | [Ridge Crest](https://open.spotify.com/album/4Rp8x8ZeJjVX0aQAnCGYNy) | 2:52 | 2022-12-23 |  |
 | [Rinse Repeat](https://open.spotify.com/track/5A3TRHr2EAYgsJOOmlYaxe) | [Elisabeth Brownlow](https://open.spotify.com/artist/4AhXblXPAw9O9c0a56tvD7) | [Rinse Repeat](https://open.spotify.com/album/46rjHo1V4l5DseiDqWj2UN) | 2:19 | 2023-09-22 |  |
+| [SADNESS](https://open.spotify.com/track/48XqhTBkKOpI8iBBoF4sdK) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [SADNESS](https://open.spotify.com/album/5ysSvnyvTyQotyrc0qKiw3) | 1:49 | 2024-03-29 |  |
 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-10-10 |  |
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-10-10 |  |
 | [SEE U IN WINTER](https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL) | [winternarnia](https://open.spotify.com/artist/6OoeFKBBbuYtyPM9E615D3), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [SEE U IN WINTER](https://open.spotify.com/album/77fm9KnaipWrowbRD0fUz9) | 2:31 | 2022-12-23 | 2023-09-30 |

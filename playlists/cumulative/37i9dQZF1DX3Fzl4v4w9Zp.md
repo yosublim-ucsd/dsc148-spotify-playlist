@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: The Dead South
+> Keep your finger on the pulse of Americana\. Cover: Waxahatchee
 
-629 songs - 1 day 14 hr 54 min
+631 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Comes In Waves](https://open.spotify.com/track/4tP7SjS89hevcazxmqshtm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller](https://open.spotify.com/album/24FkcvXRLoG17447domdkg) | 5:30 | 2022-07-22 | 2023-07-22 |
 | [Cool Down](https://open.spotify.com/track/3N2fen9204mhF0n2nojghp) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cool Down](https://open.spotify.com/album/2fythGvDFHzcIGlWQ7SpXP) | 4:00 | 2021-12-17 | 2022-08-06 |
 | [Country as Fuck](https://open.spotify.com/track/3rXcD1ODKBv1MJnb1PY2pL) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country as Fuck](https://open.spotify.com/album/384HiIj05NFE3AnWOEaNCu) | 3:09 | 2021-12-17 | 2022-01-22 |
-| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2023-09-29 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 | 2024-03-29 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2023-09-29 | 2024-03-30 |
 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-03-22 |  |
 | [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 | 2022-01-21 | 2022-04-02 |
 | [CRY](https://open.spotify.com/track/4jUNRATNc84n5nlxzGeLfg) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Drained](https://open.spotify.com/album/1Qa1Ts5OAfJikGuI3LooYZ) | 3:55 | 2022-10-28 | 2022-11-13 |
@@ -286,7 +287,8 @@
 | [Instant Cash for Gold](https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz) | 3:07 | 2023-04-28 | 2023-11-11 |
 | [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 | 2022-09-30 | 2023-04-30 |
 | [Into The Unknown](https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK) | 2:48 | 2023-09-15 | 2024-02-24 |
-| [It Takes Me Back](https://open.spotify.com/track/473SyXmf9C9w4CbIak2nM6) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD) | 3:41 | 2023-08-25 |  |
+| [It Takes Me Back](https://open.spotify.com/track/2Ww0ujVhOMsHFCwDfXZWAr) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/3nhcBw2SxTvniBtW5xk9rp) | 3:41 | 2024-03-29 |  |
+| [It Takes Me Back](https://open.spotify.com/track/473SyXmf9C9w4CbIak2nM6) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD) | 3:41 | 2023-08-25 | 2024-03-30 |
 | [It Takes Me Back](https://open.spotify.com/track/5zOUWxeymlEE9pvADC5gXj) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [It Takes Me Back](https://open.spotify.com/album/3eMrnuF05ttxW40eTvjJDp) | 3:41 | 2023-07-28 | 2023-08-30 |
 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 | 2022-04-01 | 2023-03-18 |
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's so Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-17 | 2022-10-29 |

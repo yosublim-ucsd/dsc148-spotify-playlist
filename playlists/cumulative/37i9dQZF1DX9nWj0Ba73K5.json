@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Champagne & Sushi",
+        "url": "https://open.spotify.com/album/54Dpx01lo22InjzBeIEpPU"
+      },
+      "artists": [
+        {
+          "name": "Emily Weisband",
+          "url": "https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Champagne & Sushi",
+      "url": "https://open.spotify.com/track/6l3JgDi2o2FGI9lOkULJFB"
+    },
+    {
+      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc"
       },
@@ -754,10 +772,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 208986,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh"
+    },
+    {
+      "album": {
+        "name": "Southern Curiosity",
+        "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208986,
+      "name": "Don't Blink",
+      "url": "https://open.spotify.com/track/2P3j9QelzILN9OP7zGVVnW"
     },
     {
       "album": {
@@ -892,10 +928,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 240440,
       "name": "Either",
       "url": "https://open.spotify.com/track/2OWHy2piQ5aamjenrRKkQi"
+    },
+    {
+      "album": {
+        "name": "Southern Curiosity",
+        "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Either",
+      "url": "https://open.spotify.com/track/7H3BRHk8UJHaOIgQwcXtGc"
     },
     {
       "album": {
@@ -2400,6 +2454,24 @@
     {
       "album": {
         "name": "Southern Curiosity",
+        "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247760,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/2fs202sJKe2eG5DonowLBT"
+    },
+    {
+      "album": {
+        "name": "Southern Curiosity",
         "url": "https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr"
       },
       "artists": [
@@ -2410,7 +2482,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 247760,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6iUloUfQZyNj8v6qclDuKT"
@@ -3484,6 +3556,24 @@
     {
       "album": {
         "name": "Southern Curiosity",
+        "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281400,
+      "name": "Southern Curiosity",
+      "url": "https://open.spotify.com/track/5wD8QpSlFNZCE4WXNnbVCp"
+    },
+    {
+      "album": {
+        "name": "Southern Curiosity",
         "url": "https://open.spotify.com/album/0dYauykhe8VNdBeQZit13I"
       },
       "artists": [
@@ -3494,7 +3584,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 281400,
       "name": "Southern Curiosity",
       "url": "https://open.spotify.com/track/73PVliArlrMWpzZEWShWV0"

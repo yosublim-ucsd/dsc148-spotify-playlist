@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-311 songs - 18 hr 34 min
+312 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Buy My Own Drinks](https://open.spotify.com/track/6LhZAoMfux3P3DUxwOI7aG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/3HNVxd2fKr94wkdhyLH5nf) | 3:22 | 2024-02-27 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/6A3zkf3PbkhibQTWcb5RFu) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 5:40 | 2024-02-27 |  |
 | [Chaser](https://open.spotify.com/track/76vVrWGgSYz7r0rYEwU807) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 4:22 | 2024-02-27 |  |
+| [Cheap Wine And Cigarettes](https://open.spotify.com/track/3oiobNGKdbU0ISzLTJH7Lu) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Light Up The Night](https://open.spotify.com/album/5xvHMriUro6MJdkjCVnEfz) | 2:43 | 2024-03-29 |  |
 | [Church](https://open.spotify.com/track/0QE20mK0CaoBOw5WebQY7M) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Evolution](https://open.spotify.com/album/3scMKfMlTX9zRDAyPKw6ei) | 3:15 | 2024-02-27 |  |
 | [Church Bells](https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:13 | 2024-02-27 |  |
 | [Clock Don't Stop](https://open.spotify.com/track/4FO9CoAqymmfJTENHw4qje) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:21 | 2024-02-27 |  |
@@ -127,7 +128,7 @@
 | [I Should Be Dancing](https://open.spotify.com/track/7Drfpq8DConRof9Otf0Yhf) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Little Galaxy Girl](https://open.spotify.com/album/2AszC7OP4Fka4YRF7uE9Zp) | 2:54 | 2024-02-27 |  |
 | [I Wanna Know](https://open.spotify.com/track/25wes5Fd1oD4PDWHR5g55W) | [One More Girl](https://open.spotify.com/artist/5BHjTVVYoOiCzZ30RRSb8N) | [Big Sky](https://open.spotify.com/album/5njrDf1jr04qMzVlamQB5u) | 2:56 | 2024-02-27 |  |
 | [I Wish For You](https://open.spotify.com/track/6k1LVrrwSjAPltRKOskESt) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Now](https://open.spotify.com/album/7DRYIaKhFc7sHNNIS0Erme) | 4:07 | 2024-02-27 |  |
-| [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 | 2024-03-01 | 2024-03-29 |
+| [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 | 2024-03-01 |  |
 | [I Would](https://open.spotify.com/track/7y6aDGUtK0DJZDtf2N7I34) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 3:28 | 2024-02-27 |  |
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2024-02-27 |  |
 | [I'd Leave Me](https://open.spotify.com/track/4UF5EoUWWo81L5R1r1SeoB) | [Lisa Dames](https://open.spotify.com/artist/3z4BbAHE3txFTKRAHzSf6g) | [No One Like Me](https://open.spotify.com/album/5uPmFmgoAUAwc94wUYYsui) | 3:30 | 2024-02-27 |  |
@@ -199,7 +200,7 @@
 | [Raincoat](https://open.spotify.com/track/5aRNDNKCU7vPlyPPzhOPN1) | [Kelly Sweet](https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR) | [We Are One](https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n) | 3:50 | 2024-02-27 |  |
 | [Real Talk](https://open.spotify.com/track/7wTu1LogP8hGm0wYoiS73m) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Real Talk](https://open.spotify.com/album/3siJExEI1ib1c1gUqjwqFa) | 3:06 | 2024-02-27 |  |
 | [Redneck Love Song](https://open.spotify.com/track/6mcuK40HmzARZP56q9HE40) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:09 | 2024-02-27 |  |
-| [Relapse](https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8) | [1205](https://open.spotify.com/artist/5WF90LLIQ4UVFwqny0Rzug) | [Relapse](https://open.spotify.com/album/6ywkiV5lXefwdHRyykn5q8) | 2:49 | 2024-03-25 |  |
+| [Relapse](https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8) | [1205](https://open.spotify.com/artist/5WF90LLIQ4UVFwqny0Rzug) | [Relapse](https://open.spotify.com/album/6ywkiV5lXefwdHRyykn5q8) | 2:49 | 2024-03-25 | 2024-03-30 |
 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 | 2024-02-27 |  |
 | [Renegade Runaway](https://open.spotify.com/track/0Lf5evFei2z92kAxQzapy7) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:39 | 2024-02-27 |  |
 | [Revolving Door](https://open.spotify.com/track/6KghbEFkDCgs4UfVHEiHIb) | [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB) | [For The Few And Far Between](https://open.spotify.com/album/0GKRb1RRCEVIYfg87WShL7) | 3:37 | 2024-02-27 |  |

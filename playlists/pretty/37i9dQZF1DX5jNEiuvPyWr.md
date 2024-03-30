@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : USKY
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,324 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,329 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cicatrices](https://open.spotify.com/track/6EkySKKzlCoJrcNXE8sfhG) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [Cicatrices](https://open.spotify.com/album/6iou1JJdcUlbvNnUdmXuDR) | 2:41 |
 | 2 | [LES VOIX](https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [LES VOIX](https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O) | 2:37 |
-| 3 | [Boboalam](https://open.spotify.com/track/03Dt6KdZz1QrL898QxEdmb) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [SOLSAD](https://open.spotify.com/album/0fZgRt7DLwwWSErSJjJAiP) | 2:49 |
+| 3 | [Boboalam](https://open.spotify.com/track/0CxkghH2XufHbbuNk5y7SX) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 2:49 |
 | 4 | [BOTTEGA](https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB) | [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [23 \-](https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI) | 3:07 |
 | 5 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 |
 | 6 | [CHARBONNER OU PRIER](https://open.spotify.com/track/4bHS6gKUqGG7DsexvoL8pt) | [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [CHARBONNER OU PRIER](https://open.spotify.com/album/6PqnL2jaz2V1OkIDGJsPoW) | 2:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [semaine](https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 |
 | 40 | [Tranchées](https://open.spotify.com/track/3GbI95bOGncWZrb7rw3hd9) | [Giacomo](https://open.spotify.com/artist/7359RgrSfWHHVJIE0CuqVv), [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [Van Cleef](https://open.spotify.com/album/43zoP8neUAjDQRqtqver6C) | 2:23 |
 
-Snapshot ID: `MCxjNzA2YjYxOGVjODhmNDI1OGExOGM3ZjUwMWI4NTI1MzlkMTE2ZTU1`
+Snapshot ID: `MCwyZDQ3MWRmOWVlZDZhZmViYWE2ZTMzNzNmMWM4YzEyNDk3NTA0NWUz`

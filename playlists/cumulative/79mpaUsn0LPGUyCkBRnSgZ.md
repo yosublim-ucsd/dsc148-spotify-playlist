@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-635 songs - 1 day 17 hr 39 min
+636 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Robert](https://open.spotify.com/track/2e8lfpyLA5OBzZqdcMEuIN) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Wicked City](https://open.spotify.com/album/6E2VHYLPTtFOtdRcpt6YwP) | 3:29 | 2023-12-15 | 2023-12-26 |
 | [Rock 'n' Roll Star](https://open.spotify.com/track/17z8eLCkciVamEqXJS6Ri8) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC) | 5:23 | 2024-01-01 |  |
 | [Rock And Sing](https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 2:03 | 2022-02-19 | 2023-12-14 |
+| [Rodeo World Champion](https://open.spotify.com/track/38qRLcv80LRCvuYNaNUeJX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 0:57 | 2024-03-29 |  |
 | [Roman Candle](https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:36 | 2023-09-29 |  |
 | [Romeo](https://open.spotify.com/track/0v7pt4A8PaXB95rwaNm1er) | [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [Black Terry Cat](https://open.spotify.com/album/7hpaJ75FV7MYcKER1px2Uv) | 0:23 | 2022-12-31 |  |
 | [Room Temperature](https://open.spotify.com/track/6TPTnROcnJQXuAyRDw2qfu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 4:04 | 2024-01-16 |  |

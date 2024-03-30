@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Astrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,324 likes - 118 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,452 likes - 118 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 83 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 | 84 | [Asal Kau Bahagia](https://open.spotify.com/track/79AlxPlv70kuRlsi2eZsnV) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Maju Terus Pantang Mundur \(Deluxe Version\)](https://open.spotify.com/album/1wCop93d6T0oG496Qman6b) | 4:05 |
 | 85 | [Celengan Rindu](https://open.spotify.com/track/7CiPakkZPCHtYnHtsEHR8n) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 3:42 |
-| 86 | [Terlalu Lama Sendiri](https://open.spotify.com/track/0UmeNfgZMk7ZSDodkkcTwH) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Terlalu Lama Sendiri](https://open.spotify.com/album/0GB76JaYDPhZJK5hvXGicY) | 4:01 |
+| 86 | [Terlalu Lama Sendiri](https://open.spotify.com/track/2BYjHJxyEgy5Bu8wFgeSAg) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Generation Y](https://open.spotify.com/album/6AsfYvHD9yFB7UrZLeWsuZ) | 4:01 |
 | 87 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
 | 88 | [Cinta Luar Biasa](https://open.spotify.com/track/4TPtPQIPMjWoRuZj4JLPDw) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta Luar Biasa](https://open.spotify.com/album/5mCUtD20kAyTi6gmsYwxHt) | 4:17 |
 | 89 | [Bicara \(feat\. Monita Tahalea\)](https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Memory Lane](https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C) | 3:56 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 117 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 |
 | 118 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2Hj56hnZ8aAFxxkh7HMfsE) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/4SU72f8lCnTr1GM9GPkFPY) | 3:26 |
 
-Snapshot ID: `MCw0Yzc1N2I2MTIzNjhiZmE5MDBkM2U1NjkwYjlmZmVlMWEwZTU1N2Mw`
+Snapshot ID: `MCwxMTdlZjM1YmMxZWJjN2EyOWY5ZjI2NmJhMjM5Mjc5OTc0MWVhNGRj`

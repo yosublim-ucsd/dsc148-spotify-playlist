@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 155495,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 225907,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 304888,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0gFYjXozTU5fhTUZtMiDR1"
@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "I Get To Love You",
+        "url": "https://open.spotify.com/album/4pt5KnoAN1ZjbPeLO4QuSb"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235164,
+      "name": "I Get To Love You",
+      "url": "https://open.spotify.com/track/0QYujEIONvjFGCftCnEspy"
+    },
+    {
+      "album": {
         "name": "I Want It That Way",
         "url": "https://open.spotify.com/album/7l4Dt8NNDtsAEGTlqmmqDY"
       },
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 207755,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/6QylIoQHgQGE4YE7tYlkAt"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 247155,
       "name": "In the End",
       "url": "https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 207065,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/4o7NgKeVcNZeyGR27FOtPs"

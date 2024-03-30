@@ -4,7 +4,7 @@
 
 > Are you ready to listen JK's songs for 7 DAYS?
 
-65 songs - 3 hr 4 min
+66 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Euphoria](https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:48 | 2023-07-14 |  |
 | [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-03 |  |
 | [Hello from Jung Kook](https://open.spotify.com/track/4UFpADlmFSGevw5JkFNpr6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:09 | 2023-07-14 |  |
+| [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-03-29 |  |
 | [Keypoint of Seven](https://open.spotify.com/track/7twZMLBlUrUkYX8YRYQsVy) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:18 | 2023-07-14 |  |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/4Xc7y7CHJn51Toq1c77TXl) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(feat\. Jung Kook of BTS\) \[Galantis Remix\]](https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD) | 2:34 | 2023-07-14 |  |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/6RhEbk4odKK0PwPhpok7h1) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/65epIxU6qzK2pRgvYdrXos) | 2:34 | 2023-07-14 |  |

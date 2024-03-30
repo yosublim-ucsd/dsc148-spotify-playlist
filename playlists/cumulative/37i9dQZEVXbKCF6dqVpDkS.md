@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,429 songs - 3 day 2 hr 17 min
+1,430 songs - 3 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [KEYS TO MY LIFE](https://open.spotify.com/track/3aZSvXuZt8ymQeixzFQM9W) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 2:54 | 2024-02-12 | 2024-02-15 |
 | [Khadiya](https://open.spotify.com/track/6CQqRYxhbmqOgOiE5obuQH) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Luxeprobleem](https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy) | 2:53 | 2023-02-18 | 2023-02-24 |
 | [Kijk Door Me Ogen](https://open.spotify.com/track/4vx0RX7eZvUBVB5PDjqixD) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Kijk Door Me Ogen](https://open.spotify.com/album/5yuJx49qbpcjwBXPmF4XUj) | 3:13 | 2024-03-02 | 2024-03-04 |
+| [Kiki](https://open.spotify.com/track/7CqWn1gA0R9tCFTpTOcLLZ) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/4A2PB1hCtF2tcmUsaa9jYO) | 3:08 | 2024-03-29 |  |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-13 | 2023-04-23 |
 | [Kipstraat](https://open.spotify.com/track/0pprNYhVAk7SFtVLtEnyfC) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Kipstraat](https://open.spotify.com/album/754TV1bogkbikwMZjNQ3BY) | 3:27 | 2023-03-04 | 2023-05-14 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-08-31 |
@@ -1228,8 +1229,8 @@
 | [Terug Bij Af](https://open.spotify.com/track/332usBRt9U4EYjEGrse3S2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [FLEMMING](https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ) | 3:06 | 2022-11-05 | 2022-11-22 |
 | [Terug Bij Af](https://open.spotify.com/track/6Ovwn2ABu4QVYFZhIc3Eo8) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Terug Bij Af](https://open.spotify.com/album/5fpOJzbrnSZQX5QNeToOrS) | 3:06 | 2022-08-27 | 2022-11-06 |
 | [Terugweg](https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Terugweg](https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii) | 2:43 | 2023-02-25 | 2023-04-23 |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:53 | 2024-02-16 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-13 | 2024-02-17 |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:55 | 2024-02-16 |  |
 | [Texts Go Green](https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:08 | 2022-06-18 | 2022-06-20 |
 | [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 | 2023-08-01 |
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2023-12-07 | 2023-12-30 |
@@ -1264,7 +1265,7 @@
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-30 |
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2021-04-06 | 2021-04-07 |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2023-10-25 |  |
-| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-28 |  |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-28 | 2024-03-30 |
 | [TOPIA TWINS](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-29 | 2023-07-31 |
 | [Tot Laat](https://open.spotify.com/track/24jOrHMV4DD0dyceefbwvA) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Tot Laat](https://open.spotify.com/album/0g8bZhPiNzLellfYhs1YMS) | 2:01 | 2021-09-12 | 2021-09-27 |
 | [Tout l'univers](https://open.spotify.com/track/3MvY2XbGYFi6p2dgmdcOYG) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Tout l'univers](https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH) | 3:03 | 2021-05-25 | 2021-06-03 |

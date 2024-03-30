@@ -1,28 +1,28 @@
 {
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Justin Timberlake",
-  "num_followers": 423682,
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Hozier",
+  "num_followers": 423845,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTFmMmJmZWIxNDI0NDkwZWYxY2YyNjk1ZmM1Zjg1OGM3N2E3ODdk",
+  "snapshot_id": "MCwxNmNlYjA0OWMyYzkzZGI1OTBiM2Q5N2FhZTRhMDc3OTg4NGY3Zjdi",
   "tracks": [
     {
-      "added_at": "2024-03-15 04:14:07",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 208026,
-      "name": "No Angels",
-      "url": "https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 177293,
-      "name": "The Architect",
-      "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
+      "duration_ms": 208521,
+      "name": "II MOST WANTED",
+      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -73,22 +77,6 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
-    },
-    {
       "added_at": "2023-12-01 17:56:37",
       "album": {
         "name": "Lose Control",
@@ -103,6 +91,22 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -135,6 +139,22 @@
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -209,36 +229,52 @@
       "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+      "duration_ms": 177293,
+      "name": "The Architect",
+      "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
     },
     {
-      "added_at": "2023-12-01 17:56:37",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+    },
+    {
+      "added_at": "2024-03-15 04:14:07",
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "No Angels",
+      "url": "https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -259,22 +295,6 @@
       "duration_ms": 168742,
       "name": "Don't Let Me Down (feat. JVKE)",
       "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -457,6 +477,22 @@
       "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 240254,
+      "name": "BODYGUARD",
+      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
+    },
+    {
       "added_at": "2023-12-01 17:56:37",
       "album": {
         "name": "Dreaming",
@@ -595,6 +631,22 @@
       "duration_ms": 243962,
       "name": "She Calls Me Back (with Kacey Musgraves)",
       "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7JIW8bW2IvO0cSmrPMth3z"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0f8vJ5TNG54ymfv7b70NF7"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -1011,26 +1063,6 @@
     {
       "added_at": "2023-12-01 17:56:37",
       "album": {
-        "name": "In A Perfect World (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "In A Perfect World (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
         "name": "Learning To Fly",
         "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
       },
@@ -1239,22 +1271,6 @@
       "duration_ms": 217737,
       "name": "Monster Brain",
       "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "I Choose You",
-        "url": "https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa"
     },
     {
       "added_at": "2023-12-01 17:56:37",

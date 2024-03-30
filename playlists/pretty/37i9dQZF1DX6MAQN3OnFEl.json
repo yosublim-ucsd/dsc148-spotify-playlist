@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 460513,
+  "num_followers": 460687,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzE4ODM5YTIxYTU1ZTg0NzZlZTM5MGQ0MjQwY2RhNjI1YmFhZWVj",
+  "snapshot_id": "MCw1MDU1OGNmY2FhZDg0MGZlNzMyMjcxMWMyYzg0NTk3ZDU0YjI5MjM5",
   "tracks": [
     {
       "added_at": "2023-12-31 05:09:41",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-31 05:09:41",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2023-12-31 05:09:41",
-      "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2023-12-31 05:09:41",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2023-12-31 05:09:41",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-31 05:09:41",
       "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
+    },
+    {
+      "added_at": "2023-12-31 05:09:41",
+      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
-    },
-    {
-      "added_at": "2023-12-31 05:09:41",
-      "album": {
-        "name": "Dancing Shoes",
-        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
     },
     {
       "added_at": "2023-12-31 05:09:41",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-12-31 05:09:41",
       "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
+    },
+    {
+      "added_at": "2023-12-31 05:09:41",
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 298853,
       "name": "Dirrty (feat. Redman)",
       "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
-    },
-    {
-      "added_at": "2023-12-31 05:09:41",
-      "album": {
-        "name": "The Spirit Room",
-        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
-      },
-      "artists": [
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
     },
     {
       "added_at": "2023-12-31 05:09:41",

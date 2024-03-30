@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,820 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,854 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 12 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 13 | [Forever on Your Side \(with JOHNNYSWIM\)](https://open.spotify.com/track/598Dy3TgV1SQulwjPOM0Z2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Forever on Your Side \(Niles City Sound Sessions\)](https://open.spotify.com/album/3qPcOQNFQgqvkEperYIjOq) | 4:54 |
 | 14 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 |
-| 15 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
-| 16 | [WILD LOVE](https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WILD LOVE](https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE) | 2:47 |
+| 15 | [WILD LOVE](https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WILD LOVE](https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE) | 2:47 |
+| 16 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
 | 17 | [Why God](https://open.spotify.com/track/7uF8xYuPV1ZXmSS98qqynh) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 3:41 |
 | 18 | [Bridges](https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 3:36 |
 | 19 | [Delight in You](https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Always Faithful](https://open.spotify.com/album/5HOJ3iRYUkUfGiNzet72EQ) | 3:58 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 46 | [Somebody](https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC) | [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Somebody](https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ) | 3:44 |
 | 47 | [Like You](https://open.spotify.com/track/0iJimXkiYGGh9XuqSFPS9a) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lyfe](https://open.spotify.com/album/6jikiA16rzQPxhWYDSNFc6) | 2:33 |
 | 48 | [MAYBE](https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [NOT BY CHANCE](https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP) | 3:50 |
-| 49 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
-| 50 | [Butterfly](https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Butterfly](https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB) | 4:12 |
-| 51 | [Everything for Nothing](https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Fear](https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl) | 5:08 |
+| 49 | [Everything for Nothing](https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Fear](https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl) | 5:08 |
+| 50 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
+| 51 | [Butterfly](https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Butterfly](https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB) | 4:12 |
 | 52 | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH) | 3:33 |
 | 53 | [Listen More](https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 2:50 |
 | 54 | [Joyboy](https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 2:24 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 57 | [Dancing On Top of the World](https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf) | 2:53 |
 | 58 | [Gone Are the Days \- Julie Odnoralov Remix](https://open.spotify.com/track/1aGaOu7QcnogMdIDPbkwb2) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/6nALNad9ZOl1rsP6xteiJy) | 3:55 |
 | 59 | [Only Have One](https://open.spotify.com/track/4ar0FB87jliCm8gfaiTwds) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Only Have One](https://open.spotify.com/album/4HvBGoJ0lA4O79qr7zLwQr) | 3:06 |
-| 60 | [Weakness](https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:38 |
-| 61 | [rain don't go away](https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [rain don't go away](https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX) | 3:57 |
-| 62 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
-| 63 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
+| 60 | [rain don't go away](https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [rain don't go away](https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX) | 3:57 |
+| 61 | [Weakness](https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:38 |
+| 62 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
+| 63 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
 | 64 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 | 65 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
 
-Snapshot ID: `MCw5MzllZDNkMjg0NjFkMjNhODRlZGIyMTc2ZjQ0MTRkNjBjNDYwMzhi`
+Snapshot ID: `MCwxMTExYzVmZTE0YTMxNTMxY2Q3MWM3MjE3YWMwOTFhNzZjYmViNTcz`

@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos!",
-  "num_followers": 1224843,
+  "num_followers": 1225230,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTFkZGMwOTVjZWNhMjM2YWY4MzQwMDk5OGRmOGJhMzUxODFmNzU0",
+  "snapshot_id": "MCxkMmFjNGU3OTcyMDQwYzQ5MjMwNzNkYjVmZmNkM2E4YzczMGZiZTFi",
   "tracks": [
     {
       "added_at": "2020-11-17 04:03:12",
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 248760,
-      "name": "Entra en Mi Vida",
-      "url": "https://open.spotify.com/track/2h0iSG7htO0V4IvuwbTBf3"
+      "duration_ms": 156197,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -791,18 +791,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 156197,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
+      "duration_ms": 248760,
+      "name": "Entra en Mi Vida",
+      "url": "https://open.spotify.com/track/2h0iSG7htO0V4IvuwbTBf3"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -887,6 +887,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Te Vi Venir",
+      "url": "https://open.spotify.com/track/3WpUm0g3LnhZcdMDmaj3XM"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Te Vi Venir",
-      "url": "https://open.spotify.com/track/3WpUm0g3LnhZcdMDmaj3XM"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 285066,
       "name": "Y T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Commercial",
+        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -983,22 +999,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Commercial",
-        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 185826,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1059,22 +1075,6 @@
       "duration_ms": 190626,
       "name": "Tu Calorro",
       "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Kil\u00f3metros",
-      "url": "https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Desde Que Llegaste",
-      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Desde Que Llegaste",
+      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
       "artists": [
         {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
+      "duration_ms": 225373,
+      "name": "Bella Traicion",
+      "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
     }
   ],
   "unique_name": "Los 2000 M\u00e9xico",

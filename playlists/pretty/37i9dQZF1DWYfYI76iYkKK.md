@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,534 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,556 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 30 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 | 31 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
 | 32 | [裝幀](https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [裝幀](https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6) | 4:05 |
-| 33 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
-| 34 | [你有多傻 \- 對唱版, 戲劇《關於未知的我們》插曲](https://open.spotify.com/track/4eghGqwHw5ne1slrWniKP4) | [邱宇辰](https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss), [黃宏軒](https://open.spotify.com/artist/69Q87aRfFaYH8FzVbBmsur) | [你有多傻 \(對唱版, 戲劇《關於未知的我們》插曲\)](https://open.spotify.com/album/7zhiiC4gGyzozY0B28Izgn) | 3:43 |
+| 33 | [你有多傻 \- 對唱版, 戲劇《關於未知的我們》插曲](https://open.spotify.com/track/4eghGqwHw5ne1slrWniKP4) | [邱宇辰](https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss), [黃宏軒](https://open.spotify.com/artist/69Q87aRfFaYH8FzVbBmsur) | [你有多傻 \(對唱版, 戲劇《關於未知的我們》插曲\)](https://open.spotify.com/album/7zhiiC4gGyzozY0B28Izgn) | 3:43 |
+| 34 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 35 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 36 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
-| 37 | [天堂與泥土](https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 3:54 |
-| 38 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
+| 37 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
+| 38 | [天堂與泥土](https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 3:54 |
 | 39 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
 | 40 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 41 | [Miss missed Love](https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:06 |
 | 42 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
 | 43 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
-| 44 | [時光厚禮](https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [時光厚禮](https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f) | 3:51 |
-| 45 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 |
+| 44 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 |
+| 45 | [時光厚禮](https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [時光厚禮](https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f) | 3:51 |
 | 46 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
 | 47 | [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 |
 | 48 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |
 | 49 | [鳥獸散 \- 電影《他馬克老闆》插曲](https://open.spotify.com/track/5vUDLud67TpjMSVwSE4LtR) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [《他馬克老闆》電影原聲帶 \(Kiss My Ass Boss O.S.T.\)](https://open.spotify.com/album/0JVmiTua73t1Vf2NP7Glou) | 1:02 |
 | 50 | [悄悄告訴你](https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB) | [Christine Fan](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) | [悄悄告訴你](https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC) | 2:16 |
 
-Snapshot ID: `MCxjMmUyZTk2YTE1N2RmZDE3ZTViNTg1YTNkMzFmYTBmODI3Yjg0ODI0`
+Snapshot ID: `MCxjMWVmOTQzYmY4ZjI5Njk4NWUxYjAyY2I0Yzk5YzMwYWIzZDZkMmRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,983 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,009 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 15 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 |
 | 16 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 |
 | 17 | [Falsos Recuerdos](https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Falsos Recuerdos](https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw) | 3:11 |
-| 18 | [Todo cambia](https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Todo cambia](https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd) | 3:30 |
-| 19 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
+| 18 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
+| 19 | [Todo cambia](https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Todo cambia](https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd) | 3:30 |
 | 20 | [Los Lugares Donde Irás](https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF), [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Lugares Donde Irás](https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a) | 2:56 |
 | 21 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
 | 22 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Menamorao \(demo\)](https://open.spotify.com/track/1rknipvLh4fVNjrKvwb47B) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Menamorao \(demo\)](https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh) | 2:43 |
 | 50 | [Allá Donde Voy](https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Allá Donde Voy](https://open.spotify.com/album/0szbVCjmV0XYSgxyjV72uu) | 2:29 |
 
-Snapshot ID: `MCw5ZWI5NDk1Y2Y5N2Q3NWJiMDZkMjRkNTg4MjY1MTY3MTM2YzEwZDcw`
+Snapshot ID: `MCwzZDFjMGMxMjdjNTA4MWQyMDE0NDRhYWViM2YxMmY3YzNlNTJmNzli`

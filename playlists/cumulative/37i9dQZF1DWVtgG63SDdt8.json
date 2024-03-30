@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music.  Cover: <a href=\"spotify:artist:6qk2W9h3eE5UtPJlIatzsY\">Meredith Andrews/a>",
+  "description": "The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music.  Cover: <a href=\"spotify:artist:5nO7Yt0Jon48sqKR6VME4T\">Joe L Barnes</a>",
   "name": "New Music Friday Christian",
   "tracks": [
     {
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 169411,
       "name": "Abba",
       "url": "https://open.spotify.com/track/4gP0qDb9Y5w7RbIfgFQBNJ"
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195940,
       "name": "All In Favor",
       "url": "https://open.spotify.com/track/7dXI0iK42xj9bGtXvsEVLX"
@@ -3994,6 +3994,24 @@
       "duration_ms": 214850,
       "name": "Altar",
       "url": "https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK"
+    },
+    {
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/25XytYiId8a2hLUFkoxn2K"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444521,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0lRaOxE3ZNDEmeJzKlNdjD"
     },
     {
       "album": {
@@ -11403,6 +11421,28 @@
     },
     {
       "album": {
+        "name": "Blessings (feat. LaChardon)",
+        "url": "https://open.spotify.com/album/6NZglXroU9OBl3FOfwhpFY"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Lachardon",
+          "url": "https://open.spotify.com/artist/6JZ6GqbPUkm98Lv03AUyB1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298111,
+      "name": "Blessings (feat. LaChardon)",
+      "url": "https://open.spotify.com/track/7kRMIXjb9xamKj2P8aCrBs"
+    },
+    {
+      "album": {
         "name": "Blessings from You",
         "url": "https://open.spotify.com/album/33zun5PDGGOUHjtJ6lD11c"
       },
@@ -15256,7 +15296,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 696586,
       "name": "Celebration - Live",
       "url": "https://open.spotify.com/track/3tMKO1q4h2iXg1V3tnGY1R"
@@ -21003,6 +21043,28 @@
     },
     {
       "album": {
+        "name": "Death Is Hollow",
+        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519288,
+      "name": "Death Is Hollow (Live)",
+      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
+    },
+    {
+      "album": {
         "name": "Death of Dreams",
         "url": "https://open.spotify.com/album/3A4Ti6s75OG1z4kTHRE96F"
       },
@@ -22976,7 +23038,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170653,
       "name": "Doomsday - Armageddon Remix",
       "url": "https://open.spotify.com/track/668e8j4keedeYmntYpnRmi"
@@ -41853,6 +41915,28 @@
     },
     {
       "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/0R7iwes3g0B3yABKayGPgl"
+      },
+      "artists": [
+        {
+          "name": "Annie Bosko",
+          "url": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/7Gc6AtqoehihaLJAKDR1s6"
+    },
+    {
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/3I6UufRbta2dlRDK8pFjpR"
       },
@@ -43454,7 +43538,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 142186,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/73mgrQ1kYFWPq5hJgQxtrY"
@@ -43628,6 +43712,24 @@
       "duration_ms": 283348,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/7j2GXDCjdvqgQtYN4zbVvU"
+    },
+    {
+      "album": {
+        "name": "... Like Poetry",
+        "url": "https://open.spotify.com/album/5Khedo5KG1UC4i5QVxGkA0"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251890,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1KIcc8WRbjb8ti2rY008am"
     },
     {
       "album": {
@@ -65794,7 +65896,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 148425,
       "name": "MIND BLEEDING",
       "url": "https://open.spotify.com/track/2ihFTAJKjjkECZDGXimJab"
@@ -78291,6 +78393,28 @@
     },
     {
       "album": {
+        "name": "people need people",
+        "url": "https://open.spotify.com/album/62nxZv3qXesKfzfRYXvt9V"
+      },
+      "artists": [
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199595,
+      "name": "people need people",
+      "url": "https://open.spotify.com/track/2tm5t7lVSRBWEOM8TSeumV"
+    },
+    {
+      "album": {
         "name": "People Of Heaven",
         "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
       },
@@ -82112,7 +82236,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 228530,
       "name": "Purify My Eyes",
       "url": "https://open.spotify.com/track/0Qb1eDxsDua5I2zhoeLd0y"
@@ -83006,6 +83130,24 @@
       "duration_ms": 178998,
       "name": "Red Dirt Church (feat. NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a"
+    },
+    {
+      "album": {
+        "name": "Red Letter Blueprint",
+        "url": "https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232293,
+      "name": "Red Letter Blueprint",
+      "url": "https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w"
     },
     {
       "album": {
@@ -91901,6 +92043,36 @@
     },
     {
       "album": {
+        "name": "Stand By Me (feat. B. Stokes)",
+        "url": "https://open.spotify.com/album/4R8OHGqeTWkbpQQobTfMyL"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Greg James",
+          "url": "https://open.spotify.com/artist/35YmHthd8r0eLl3UzJ35xH"
+        },
+        {
+          "name": "B. Stokes",
+          "url": "https://open.spotify.com/artist/5TurTnk96PSPIVZ3cG6HB1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194621,
+      "name": "Stand By Me (feat. B. Stokes)",
+      "url": "https://open.spotify.com/track/6vVpMPnFB1yOASRw1tLAyl"
+    },
+    {
+      "album": {
         "name": "Stand In Peace",
         "url": "https://open.spotify.com/album/6uSI7VYmhYJx9VZr9L8uX0"
       },
@@ -92408,7 +92580,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 247721,
       "name": "Stay Low (Remix)",
       "url": "https://open.spotify.com/track/0BzW16IW5HDkCf4yV7zmyy"
@@ -98006,6 +98178,28 @@
       "duration_ms": 195606,
       "name": "The Commission (feat. Cody Carnes)",
       "url": "https://open.spotify.com/track/5cxp40aGW8jKngXgSFR0xF"
+    },
+    {
+      "album": {
+        "name": "The Commission (Go Tell The World)",
+        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Isaiah Templeton",
+          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245475,
+      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
+      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
     },
     {
       "album": {

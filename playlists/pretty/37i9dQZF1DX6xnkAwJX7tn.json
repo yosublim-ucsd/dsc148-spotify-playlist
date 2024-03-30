@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. Cover: Bananarama",
-  "num_followers": 738160,
+  "num_followers": 739204,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTg2YmYyMjNkZWFiNjdmZGMyYmU0ZTJmODI0YTA2NDVjOWU3OGU2",
+  "snapshot_id": "MCwzMjRiNjJhNWNjZTNkNWZiMDZiYWY1YWMzZDg4ZmVjNGQ2YTYzMTEw",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
@@ -499,6 +483,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2021-03-22 14:12:29",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239826,
-      "name": "If I Could Turn Back Time",
-      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
     },
     {
-      "added_at": "2021-03-22 14:12:29",
-      "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Diesel And Dust",
@@ -1027,6 +1011,22 @@
       "duration_ms": 255680,
       "name": "Beds Are Burning - Remastered",
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+    },
+    {
+      "added_at": "2021-03-22 14:12:29",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Branigan",
         "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 289853,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Live Is Life",
-        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
-      },
-      "artists": [
-        {
-          "name": "Opus",
-          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
-        }
-      ],
-      "duration_ms": 249500,
-      "name": "Live Is Life (Digitally Remastered) (Single Version)",
-      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Fame (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 316066,
       "name": "Fame",
       "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Live Is Life",
+        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
+      },
+      "artists": [
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+        }
+      ],
+      "duration_ms": 249500,
+      "name": "Live Is Life (Digitally Remastered) (Single Version)",
+      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Running In The Family",
-        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lessons In Love",
-      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me",
       "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Running In The Family",
+        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Lessons In Love",
+      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1969,22 +1969,6 @@
       "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 272147,
-      "name": "Ride on Time",
-      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Word Up",
@@ -1999,6 +1983,22 @@
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 272147,
+      "name": "Ride on Time",
+      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2081,22 +2081,6 @@
       "url": "https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97"
     },
     {
-      "added_at": "2021-09-18 06:09:03",
-      "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
-      },
-      "artists": [
-        {
-          "name": "Ottawan",
-          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Hands Up - Single Version",
-      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "The Lexicon Of Love",
@@ -2111,6 +2095,22 @@
       "duration_ms": 209160,
       "name": "The Look Of Love, Pt.1",
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
+    },
+    {
+      "added_at": "2021-09-18 06:09:03",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
+      },
+      "artists": [
+        {
+          "name": "Ottawan",
+          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Hands Up - Single Version",
+      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2209,22 +2209,6 @@
       "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Another Step",
-        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 255220,
-      "name": "You Keep Me Hangin On",
-      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Madonna",
@@ -2239,6 +2223,22 @@
       "duration_ms": 231560,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Another Step",
+        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 255220,
+      "name": "You Keep Me Hangin On",
+      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
     },
     {
       "added_at": "2021-01-07 10:31:17",

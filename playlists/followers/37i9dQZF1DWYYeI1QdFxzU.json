@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 684319,
+  "2024-03-30": 684309,
   "date_first_scraped": "2022-05-26",
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
   "name": "The Wind Down",
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 219259,
       "name": "Autumn Star",
       "url": "https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH"
@@ -638,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Deer Teeth",
+        "url": "https://open.spotify.com/album/4VVZS87dI8rFiePJzsjQAm"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231204,
+      "name": "Deer Teeth",
+      "url": "https://open.spotify.com/track/5kw1a9O11qBlFkLAQnwb5U"
+    },
+    {
+      "album": {
         "name": "Disrupt",
         "url": "https://open.spotify.com/album/0wHYnbt9wiWkD5zMiC4kBn"
       },
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 348000,
       "name": "Don't You Forget About Me",
       "url": "https://open.spotify.com/track/7IidnemjastTResAXISAK7"
@@ -1283,6 +1301,24 @@
       "duration_ms": 208547,
       "name": "Here",
       "url": "https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta"
+    },
+    {
+      "album": {
+        "name": "Astral Projection",
+        "url": "https://open.spotify.com/album/5PLTq69wJgaqQC10uWFpSj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "i feel lost",
+      "url": "https://open.spotify.com/track/2j7IP4msk5ZdSBtPQHuVly"
     },
     {
       "album": {
@@ -2087,7 +2123,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 332379,
       "name": "Ry",
       "url": "https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB"
@@ -2353,6 +2389,24 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243100,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
     },
     {
       "album": {

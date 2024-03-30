@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
-  "num_followers": 9041,
+  "num_followers": 9044,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2JiMGQ3M2FiODY3ZjVmYWRjNjFjMGMwZjFhMzk4NjI3MzA4M2Jm",
+  "snapshot_id": "MCxhNTFiMDYzMWY0MzFjNjg0YWY1MjZiYzJlNmIzODY3MmU2MjQwMjM2",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -743,38 +743,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Personne ne touche le ciel",
-        "url": "https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Plume",
-      "url": "https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Blacklist",
-        "url": "https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2"
-      },
-      "artists": [
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        }
-      ],
-      "duration_ms": 231081,
-      "name": "Chacun son r\u00e9cit",
-      "url": "https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Monarque",
         "url": "https://open.spotify.com/album/4dnkodXsUuDEIEZ5WfYqHb"
       },
@@ -799,6 +767,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Blacklist",
+        "url": "https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "duration_ms": 231081,
+      "name": "Chacun son r\u00e9cit",
+      "url": "https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 147853,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Personne ne touche le ciel",
+        "url": "https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Plume",
+      "url": "https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Gesamtkunstwerk",
-        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
-      },
-      "artists": [
-        {
-          "name": "Dead Obies",
-          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
-        }
-      ],
-      "duration_ms": 481800,
-      "name": "Explosif",
-      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Encore Des Histoires De Trap",
         "url": "https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 219062,
       "name": "Dans L'trap",
       "url": "https://open.spotify.com/track/4ZaVq23ofISP4U9EChy7sN"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Gesamtkunstwerk",
+        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
+      },
+      "artists": [
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "duration_ms": 481800,
+      "name": "Explosif",
+      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Temple de la Renomm\u00e9e",
-        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        }
-      ],
-      "duration_ms": 227711,
-      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
-      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Le set up",
         "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Temple de la Renomm\u00e9e",
+        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 227711,
+      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
+      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Aujourd'hui ou jamais",
         "url": "https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 261537,
       "name": "Fanny",
       "url": "https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Blue Volvo",
+        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
+      },
+      "artists": [
+        {
+          "name": "Loud Lary Ajust",
+          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
+        }
+      ],
+      "duration_ms": 251228,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1415,22 +1431,6 @@
       "duration_ms": 293760,
       "name": "L\u00e9gendaire",
       "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Blue Volvo",
-        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
-      },
-      "artists": [
-        {
-          "name": "Loud Lary Ajust",
-          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
-        }
-      ],
-      "duration_ms": 251228,
-      "name": "Xoxo",
-      "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "H\u00f4tel d\u00e9lices",
-        "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "On Frap",
         "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "H\u00f4tel d\u00e9lices",
+        "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Petit prince",
         "url": "https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4"
       },
@@ -1547,6 +1547,26 @@
       "duration_ms": 244088,
       "name": "Petit prince",
       "url": "https://open.spotify.com/track/4Aqojygi9VEk9Rb6YmH091"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Le sens des paroles",
+        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 245929,
+      "name": "FLX",
+      "url": "https://open.spotify.com/track/205afVnJDjzQsh60Zzmxdl"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le sens des paroles",
-        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 245929,
-      "name": "FLX",
-      "url": "https://open.spotify.com/track/205afVnJDjzQsh60Zzmxdl"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Silence de mort",
         "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
       },
@@ -1611,6 +1611,26 @@
       "duration_ms": 208140,
       "name": "La purge",
       "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Jungle Music",
+        "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "duration_ms": 265786,
+      "name": "D\u00e9coller",
+      "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1639,42 +1659,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Jungle Music",
-        "url": "https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ"
-      },
-      "artists": [
-        {
-          "name": "Farfadet",
-          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
-        },
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 265786,
-      "name": "D\u00e9coller",
-      "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Dans la peau (Anxiety)",
-        "url": "https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq"
-      },
-      "artists": [
-        {
-          "name": "Yes*",
-          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Dans la peau (Anxiety)",
-      "url": "https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 214726,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Le sens des paroles",
+        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "duration_ms": 254396,
+      "name": "La famille",
+      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1755,38 +1755,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "OUI (tout tout tout toutttte)",
-        "url": "https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS"
-      },
-      "artists": [
-        {
-          "name": "Yes*",
-          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0Bj3Cph4Aql8xZpAXIiUmi"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Le sens des paroles",
-        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        }
-      ],
-      "duration_ms": 254396,
-      "name": "La famille",
-      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Gucci",
         "url": "https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs"
       },
@@ -1799,6 +1767,22 @@
       "duration_ms": 211696,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Dans la peau (Anxiety)",
+        "url": "https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq"
+      },
+      "artists": [
+        {
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Dans la peau (Anxiety)",
+      "url": "https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1823,22 +1807,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 213167,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "JSN",
         "url": "https://open.spotify.com/album/1YLzFhrjYlmRXxsQZeHEY6"
       },
@@ -1851,6 +1819,22 @@
       "duration_ms": 293184,
       "name": "J'roule dans la ville",
       "url": "https://open.spotify.com/track/60BJ8gT3S4NU55dck0yhDo"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 213167,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1871,6 +1855,22 @@
       "duration_ms": 252259,
       "name": "\u00c7a fait mal",
       "url": "https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "OUI (tout tout tout toutttte)",
+        "url": "https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS"
+      },
+      "artists": [
+        {
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0Bj3Cph4Aql8xZpAXIiUmi"
     }
   ],
   "unique_name": "Les nouveaux classiques",

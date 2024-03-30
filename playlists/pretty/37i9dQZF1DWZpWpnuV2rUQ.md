@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,212 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,275 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 |
+| 1 | [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 |
 | 2 | [FIESTA PUNKY](https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [FIESTA PUNKY](https://open.spotify.com/album/6aBm0V95IJMMUQvWGrM4b8) | 2:24 |
 | 3 | [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 |
 | 4 | [30 GRADOS](https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [30 Grados](https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 99 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 |
 | 100 | [Nena Sad](https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn) | [Casi Angeles](https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw) | 3:25 |
 
-Snapshot ID: `MCwxMjUxOTA4ZWM5NGNhNjE0ZjE0ZjI4ZmFiMGQwNWE2YWE3MTVjZjhl`
+Snapshot ID: `MCxkZTMxNTQ0YzllNjI3YzJkZjAzZDI5MTQxNGFlM2VkMWQ3NDBlODRi`

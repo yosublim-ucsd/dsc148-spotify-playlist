@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,208 likes - 62 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,330 likes - 62 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 37 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
 | 38 | [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Raydio](https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE) | 4:35 |
 | 39 | [Taste of Bitter Love](https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:38 |
-| 40 | [This Is It](https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [This Is It \(Expanded Edition\)](https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz) | 3:31 |
-| 41 | [Going Back to My Roots \- 12" Version](https://open.spotify.com/track/41Mi2vvuSD01FvtlAQsaat) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [I Got the Melody \(Expanded Edition\)](https://open.spotify.com/album/2R9rEVibO3wDnB950OThmj) | 5:25 |
+| 40 | [Going Back to My Roots \- 12" Version](https://open.spotify.com/track/41Mi2vvuSD01FvtlAQsaat) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [I Got the Melody \(Expanded Edition\)](https://open.spotify.com/album/2R9rEVibO3wDnB950OThmj) | 5:25 |
+| 41 | [This Is It](https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [This Is It \(Expanded Edition\)](https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz) | 3:31 |
 | 42 | [Running Away](https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 4:00 |
 | 43 | [What Can I Say](https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 2:59 |
 | 44 | [Shine On](https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Dream On \(Bonus Track Version\)](https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx) | 5:12 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
 | 62 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 
-Snapshot ID: `MCxjZWEyNjgyMGM0M2UzODdiOGU1MTJhNTNiNDNhZDcyZGRjMzA1ZGE1`
+Snapshot ID: `MCwxYmIzNTdiOTk5YjI4NDNkNTcwYjYzZDMyMDI5ZjMyNjM2OTg0NWU0`

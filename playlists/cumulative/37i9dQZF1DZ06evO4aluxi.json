@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 185946,
       "name": "This Is My Father's World",
       "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
@@ -1266,6 +1266,32 @@
       "duration_ms": 266862,
       "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
       "url": "https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x"
+    },
+    {
+      "album": {
+        "name": "Songs From The Loft",
+        "url": "https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Ashley Cleveland",
+          "url": "https://open.spotify.com/artist/5XOsV941AejjMNxg0qKAvw"
+        },
+        {
+          "name": "Gary Chapman",
+          "url": "https://open.spotify.com/artist/64vOhWyIjTm1AyNHItw2SB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202568,
+      "name": "Where Do I Go",
+      "url": "https://open.spotify.com/track/3Jkzr61tN5efmiUGPYqI74"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aluxi"

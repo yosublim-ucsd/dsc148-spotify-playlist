@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,317,800 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,317,970 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 49 | [Punto Y Aparte](https://open.spotify.com/track/674KkMr78BLwDVfWnjkceE) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 3:00 |
 | 50 | [Me Gustas Mucho](https://open.spotify.com/track/2mxzvXFtYSbDwPPpsuC2MA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk) | 2:23 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBlMGU4YTljMjBhOWViM2FlNDRmMjI3ODlhMzA0ZDVmZQ==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDBjNTczMjllMmJkZDNiM2Y5YmRkOTE5NTdlMzQyYzlmZA==`

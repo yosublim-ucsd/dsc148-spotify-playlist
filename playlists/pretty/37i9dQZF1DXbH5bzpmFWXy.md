@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. <br/>Eme Malafe, Lefty SM en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,737 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,809 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 70 | [La Cumbia De La Baliniza](https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF) | [Los Cómplices](https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Cumbia De La Baliniza](https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc) | 2:47 |
 | 71 | [CUMBIA 85](https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X) | [Yahir Saldivar](https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA) | [CUMBIA 85](https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D) | 3:41 |
 | 72 | [Booty Booty](https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Booty Booty](https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E) | 2:30 |
-| 73 | [Con la Bola](https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:27 |
-| 74 | [Te Lo Dije](https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 3:29 |
+| 73 | [Te Lo Dije](https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 3:29 |
+| 74 | [Con la Bola](https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:27 |
 | 75 | [Piolin Y Bellota](https://open.spotify.com/track/4LDiXaFw76t07VDWIi9MEv) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Piolin Y Bellota](https://open.spotify.com/album/06kNTGGLV5KNbtOl14T6aS) | 2:12 |
 | 76 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |
 | 77 | [Aventador](https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Aventador](https://open.spotify.com/album/2oJmzxo3F84tztXqVBBGFH) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Gallo y Mi Cuerno](https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Gallo y Mi Cuerno](https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S) | 2:32 |
 | 100 | [En La Lumbre \- En Vivo, Sonora, México, 2023](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre \(En Vivo, Sonora, México, 2023\)](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
 
-Snapshot ID: `MCw2ODhmY2NiOTBlNDllMTZjNjM5NWYxM2JiNTRjMDk1NTNiNzVhNDY0`
+Snapshot ID: `MCw0NWEzMTk1YzU0ZDRmZTZjMDQzZTFmOWRiNzFjNDFmOGNmNjdmZjA0`

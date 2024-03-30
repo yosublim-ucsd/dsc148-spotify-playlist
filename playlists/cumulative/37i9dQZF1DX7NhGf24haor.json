@@ -15469,13 +15469,17 @@
     },
     {
       "album": {
-        "name": "The Riddle",
+        "name": "The Riddle (feat. Diandra Faye)",
         "url": "https://open.spotify.com/album/58d2pvjqzMvI4xxayOcBgu"
       },
       "artists": [
         {
           "name": "Audiotricz",
           "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
         }
       ],
       "date_added": "2024-03-28",

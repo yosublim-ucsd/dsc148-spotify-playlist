@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: T\-Rex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,141 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,212 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 50 | [MONCLER](https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 3:40 |
 | 51 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
 | 52 | [Lingerie](https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Lingerie](https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0) | 3:34 |
-| 53 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |
-| 54 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 53 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 54 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |
 | 55 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 56 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
 | 57 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 80 | [Morte Do Artista](https://open.spotify.com/track/1MlS996c4ea12zlMhqmW56) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Cool Kid](https://open.spotify.com/album/4S2BptKqkJtd8cnzk28NlP) | 3:27 |
 
-Snapshot ID: `MCwzNmJiMDY3MGJmMjRmZmQ3MDc0ZmJhYjdhNmNmYzkzODNlZDg4NzQz`
+Snapshot ID: `MCw3MDRjNGE2NTNiNDg4NTA4MDdmNGEyYTgyMTc1Y2RiNTVhYTFiOGM1`

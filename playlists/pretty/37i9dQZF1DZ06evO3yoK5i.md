@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,898 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,924 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Un Angelo Disteso Al Sole](https://open.spotify.com/track/7F4laaMW44ARgK3MioHv4n) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Noi](https://open.spotify.com/album/7gAJbyGOdx4SPXjhFfvSTH) | 3:23 |
 | 50 | [Ahora Tu \- Remastered 2021](https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:00 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBmMzY4ZWUyNTZmYmJkNjUxMzRkYzI4ZGExNTFjZDY2OA==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDBhZDZmZTA2ZmQ2MDZmNGMzOGIxZTY1NzQyYzhhZTgzNA==`

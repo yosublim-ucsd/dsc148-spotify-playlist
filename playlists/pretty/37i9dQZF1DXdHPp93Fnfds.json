@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 144405,
+  "num_followers": 144412,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDk5ODdlMTBlNzhhNDUyNmIxN2EzNjEyNjI3YjQxNWYwMTkxYmFj",
+  "snapshot_id": "MCwzODRhYTExZTk1NzYyY2YzODg4NzhhOWQ0NGY1ODM4YmU1MjcwN2Rk",
   "tracks": [
     {
       "added_at": "2024-03-22 14:07:24",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "berlin U5",
-        "url": "https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX"
-      },
-      "artists": [
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        }
-      ],
-      "duration_ms": 219787,
-      "name": "berlin U5",
-      "url": "https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "berlin U5",
+        "url": "https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX"
+      },
+      "artists": [
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        }
+      ],
+      "duration_ms": 219787,
+      "name": "berlin U5",
+      "url": "https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "te vas a lamentar :'(",
+        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "te vas a lamentar :'(",
+      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -1063,26 +1083,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "te vas a lamentar :'(",
-        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        },
-        {
-          "name": "Nan Que",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "te vas a lamentar :'(",
-      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 182903,
       "name": "Male",
       "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Llorando Por Ti (Banda Sonora Original \"Todo Lo Otro\")",
         "url": "https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 265043,
       "name": "Llorando Por Ti (Banda Sonora Original \"Todo Lo Otro\")",
       "url": "https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "Como Bailan los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 243951,
-      "name": "El Im\u00e1n",
-      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "Como Bailan los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 243951,
+      "name": "El Im\u00e1n",
+      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "La Santa Patrona de los Corazones Negros",
         "url": "https://open.spotify.com/album/6vtdMIjyt4kd5a3VDB0lnm"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "AZ\u00daCAR",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
       "artists": [
         {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
         }
       ],
-      "duration_ms": 205398,
-      "name": "AZ\u00daCAR",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
+      "duration_ms": 198293,
+      "name": "Formas",
+      "url": "https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "AZ\u00daCAR",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "duration_ms": 205398,
+      "name": "AZ\u00daCAR",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 155744,
       "name": "Suspiros",
       "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Formas",
-      "url": "https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "La Loba",
         "url": "https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 186764,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2024-03-22 14:07:24",

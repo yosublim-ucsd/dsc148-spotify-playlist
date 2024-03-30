@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,876 songs - 4 day 5 hr 13 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,877 songs - 4 day 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1884,5 +1884,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1874 | [212](https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 3:24 |
 | 1875 | [Liquorice](https://open.spotify.com/track/3LmlegS3av5opwiIMVDbgI) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:16 |
 | 1876 | [Heavy Metal and Reflective](https://open.spotify.com/track/57vU19otI0eWzcotGdi091) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 2:36 |
+| 1877 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 |
 
-Snapshot ID: `NzM2LDA5YmVlYzU3ZjYyMjhlNjMwMjlmZGIzOWY3OWMwNzliMTNhNmUyNzY=`
+Snapshot ID: `NzM3LGUwMzk5YmUzOTJmYWQyNTJmOGM5YjdkZjA4ODAyMzYwMDUzNGRkNDc=`

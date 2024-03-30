@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 55666,
+  "num_followers": 55712,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDJiZTVjNjE5YzIxODgwZGIyNjJlMjU2Mjk4MTgzMzBmY2Y2ZTlh",
+  "snapshot_id": "MCw0ZGQ4NjRkYWRmMzI5ZDAzNGMyNjFiZmU5YWVkMjJhZDA0MDRhMGE0",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Thunderbird",
+        "url": "https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa"
+      },
+      "artists": [
+        {
+          "name": "Big Head Todd and The Monsters",
+          "url": "https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Thunderbird",
+      "url": "https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1"
+    },
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
@@ -1707,22 +1723,6 @@
       "duration_ms": 200987,
       "name": "The Future Ain't What It Used to Be",
       "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu"
-      },
-      "artists": [
-        {
-          "name": "Andy Kahrs",
-          "url": "https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu"
-        }
-      ],
-      "duration_ms": 238856,
-      "name": "If You Love to Be Right",
-      "url": "https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ"
     }
   ],
   "unique_name": "Got Blues",

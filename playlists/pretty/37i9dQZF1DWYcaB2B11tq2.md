@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,511 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,725 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 45 | [Tu Mirada](https://open.spotify.com/track/24FnAqLXfjdlUMv2gB4Xxs) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Javier Chavez](https://open.spotify.com/artist/3F5Mp81LwhGyzyxBDcObcs) | [Tu Mirada](https://open.spotify.com/album/4pSlr6iAlgXnDu3pBkxVZH) | 4:20 |
 | 46 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |
 | 47 | [Cerca Estás](https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Cerca Estás](https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz) | 3:32 |
-| 48 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 |
+| 48 | [Dios es Fiel](https://open.spotify.com/track/5JIaUt5IGH4zvGErRr91tv) | [Josué Del Cid](https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs) | [Mis Mejores Dias](https://open.spotify.com/album/5AIn52y4PZqfcfKAMJuJWx) | 4:03 |
 | 49 | [No Hay Pero Va a Sobrar](https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:30 |
-| 50 | [Dios es Fiel](https://open.spotify.com/track/5JIaUt5IGH4zvGErRr91tv) | [Josué Del Cid](https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs) | [Mis Mejores Dias](https://open.spotify.com/album/5AIn52y4PZqfcfKAMJuJWx) | 4:03 |
-| 51 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 |
-| 52 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
+| 50 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 |
+| 51 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
+| 52 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 |
 | 53 | [Construiré Mi Vida](https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Construiré Mi Vida](https://open.spotify.com/album/3GQO2bUHJC7Gv29h4GNQm8) | 5:43 |
 | 54 | [Yo Soy Así](https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Más](https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp) | 3:58 |
 | 55 | [El Cielo Gobierna](https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy) | 4:25 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 72 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
 | 73 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
 | 74 | [Abre hoy los cielos](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
-| 75 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 |
+| 75 | [Como Dijiste](https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta al Jardin](https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ) | 4:59 |
 
-Snapshot ID: `MCwzZWUzOGYwMTA2OTVlNWZkY2Y0NzBhNWIxODJiNDZjNzBhYjBmNDI3`
+Snapshot ID: `MCxiNDcyZWRlZjM5ODE1NWVjZmJjNWFhOWJkZDdmMTExYjA3NjdkN2Uy`

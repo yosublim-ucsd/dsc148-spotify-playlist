@@ -1,71 +1,15 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Bryson Tiller",
-  "num_followers": 2047755,
+  "num_followers": 2048025,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDdiZjkxMWQ3OTIwNTRiZmFmZmNlYjdjZmI3NDk2YWJhZmY1ODE0",
+  "snapshot_id": "MCw1Yzg0MThhYTgyOThlZjcwZWUyYzkyZWRiZjEyMWQxYmIwYzcxMzUx",
   "tracks": [
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Runnin Outta Time",
-      "url": "https://open.spotify.com/track/4q7y1JFDBJSBSLqXVgcI51"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -85,7 +29,91 @@
       "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 120034,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "OkOk",
+        "url": "https://open.spotify.com/album/2Y0sGDTGTUqGPbNC6VU9S3"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "OkOk",
+      "url": "https://open.spotify.com/track/5EYYmgwS88sY8eCWPvE4P8"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Your Friends (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM"
@@ -105,7 +133,7 @@
       "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "ScoreGod",
         "url": "https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9"
@@ -125,7 +153,7 @@
       "url": "https://open.spotify.com/track/0qWK7UJLquvQL7debk6UJu"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Thang For You (feat. No Cap)",
         "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
@@ -145,7 +173,39 @@
       "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/1c2wyc7P8zlhlHfJ2Yp5IP"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/3tfBtzdP9fXC53Hf0tbbdd"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "STREETS SAY YOU STILL MISS ME",
+        "url": "https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 163503,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "C My Side (Deluxe)",
         "url": "https://open.spotify.com/album/3wiyzYrkSD18QHTkI4PEDl"
@@ -161,10 +221,30 @@
       "url": "https://open.spotify.com/track/6MIA7Ms1UAcJ4JByAjKmaF"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
+        "name": "She'll Be OK (Remix)",
+        "url": "https://open.spotify.com/album/0dubJTKK4rl13QxRRXhUBa"
+      },
+      "artists": [
+        {
+          "name": "4Fargo",
+          "url": "https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "She'll Be Ok - Remix",
+      "url": "https://open.spotify.com/track/63Vj0fpR8mHtAAWKPwY65C"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
       },
       "artists": [
         {
@@ -172,12 +252,12 @@
           "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 188314,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "FLORIDA BABY",
         "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
@@ -193,63 +273,27 @@
       "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Sixtape 3",
-        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 156030,
-      "name": "Doin Yo Stuff",
-      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
+      "duration_ms": 205480,
+      "name": "Runnin Outta Time",
+      "url": "https://open.spotify.com/track/4q7y1JFDBJSBSLqXVgcI51"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 203345,
-      "name": "Turks & Caicos (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Practice",
-      "url": "https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Float 2 London",
         "url": "https://open.spotify.com/album/1SQNd5rYIqvCYYJzm1tMJx"
@@ -269,163 +313,7 @@
       "url": "https://open.spotify.com/track/4B6a1nCCCkiNCcwu67QDu6"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Down With Me",
-        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 120034,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 230709,
-      "name": "You Broke My Heart",
-      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Head Melodies",
-        "url": "https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj"
-      },
-      "artists": [
-        {
-          "name": "Luh Kel",
-          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Head Melodies",
-      "url": "https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Confirmation",
-        "url": "https://open.spotify.com/album/5U4deWruWEu8HcWXc1E7eY"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Confirmation",
-      "url": "https://open.spotify.com/track/2Sym6hOXUGlWUSR43cJkj3"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 186770,
-      "name": "should've wore a bonnet",
-      "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "act i: stickerz \"99\"",
-        "url": "https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 104468,
-      "name": "act i: stickerz \"99\"",
-      "url": "https://open.spotify.com/track/24A1MxM364lveyyDomwIYq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "The Rebirth 3: The Party & The Bedroom",
-        "url": "https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Run That Back",
-      "url": "https://open.spotify.com/track/2NbIBeQKgZBb9Qc7q2qxMY"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Xho Sex",
-        "url": "https://open.spotify.com/album/5hm2nCOxOQNQQbho2emm9t"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        }
-      ],
-      "duration_ms": 192479,
-      "name": "Xho Sex",
-      "url": "https://open.spotify.com/track/4pNgQB56Yr0t8pMXut6Zvv"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
         "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
@@ -449,23 +337,147 @@
       "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "STREETS SAY YOU STILL MISS ME",
+        "url": "https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+      "duration_ms": 230984,
+      "name": "RIDIN 4 U",
+      "url": "https://open.spotify.com/track/4YrCMmKendEc0HTGmTQR84"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Head Melodies",
+        "url": "https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Head Melodies",
+      "url": "https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5U4deWruWEu8HcWXc1E7eY"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/2Sym6hOXUGlWUSR43cJkj3"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 186770,
+      "name": "should've wore a bonnet",
+      "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "act i: stickerz \"99\"",
+        "url": "https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 104468,
+      "name": "act i: stickerz \"99\"",
+      "url": "https://open.spotify.com/track/24A1MxM364lveyyDomwIYq"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "The Rebirth 3: The Party & The Bedroom",
+        "url": "https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Run That Back",
+      "url": "https://open.spotify.com/track/2NbIBeQKgZBb9Qc7q2qxMY"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Xho Sex",
+        "url": "https://open.spotify.com/album/5hm2nCOxOQNQQbho2emm9t"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "duration_ms": 192479,
+      "name": "Xho Sex",
+      "url": "https://open.spotify.com/track/4pNgQB56Yr0t8pMXut6Zvv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Impromptu",
         "url": "https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3"
@@ -481,63 +493,79 @@
       "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Evil Twin",
-        "url": "https://open.spotify.com/album/3dhfnNNe2KWFApJ4dP5B01"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 142804,
-      "name": "Evil Twin",
-      "url": "https://open.spotify.com/track/5ogdlI3bD8y3xj9uCepauq"
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Edible (feat. Gunna)",
-      "url": "https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f"
+      "duration_ms": 203345,
+      "name": "Turks & Caicos (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/1wlh1MAxWgY5Bl18ClcN5v"
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
       },
       "artists": [
         {
-          "name": "Fresco Trey",
-          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         },
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
         }
       ],
-      "duration_ms": 163438,
-      "name": "Passenger Princess (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/7fmec76XrfKpRSsLdlAx41"
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "You (feat. Bryson Tiller)",
         "url": "https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl"
@@ -557,7 +585,7 @@
       "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
@@ -577,7 +605,7 @@
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "B4 BOA",
         "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
@@ -593,7 +621,7 @@
       "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "For Her (Deluxe)",
         "url": "https://open.spotify.com/album/1fMrXrKmZlzH6uM2O76Zz8"
@@ -609,7 +637,7 @@
       "url": "https://open.spotify.com/track/4qLVEuYYHXYox39zYQljnG"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "R e a l W o m a n",
         "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
@@ -625,23 +653,7 @@
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Time Goes By",
-        "url": "https://open.spotify.com/album/7DRjRkSC5t3EJeMiN4Tpc4"
-      },
-      "artists": [
-        {
-          "name": "YK Osiris",
-          "url": "https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Time Goes By",
-      "url": "https://open.spotify.com/track/55KbAuNeK5FFQEnR9sY1QS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Meant 4 You",
         "url": "https://open.spotify.com/album/0hDMjoMqoNz9mSS5XflhFj"
@@ -657,7 +669,7 @@
       "url": "https://open.spotify.com/track/69YpzMeKwxPTZ6JVLPayYz"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Ceremony",
         "url": "https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4"
@@ -673,7 +685,7 @@
       "url": "https://open.spotify.com/track/2JnOiKlp8ulULY4psJBbX8"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
         "url": "https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF"
@@ -697,7 +709,7 @@
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Bitch Tape",
         "url": "https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix"
@@ -717,7 +729,7 @@
       "url": "https://open.spotify.com/track/7GrSsLy5jgpgkhABBQ1VoB"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Lucky Me",
         "url": "https://open.spotify.com/album/6iKe66u8R2QbctOkKTRat0"
@@ -733,27 +745,7 @@
       "url": "https://open.spotify.com/track/64EkyDdWDH5AlxMGeIkKmf"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "She'll Be OK (Remix)",
-        "url": "https://open.spotify.com/album/0dubJTKK4rl13QxRRXhUBa"
-      },
-      "artists": [
-        {
-          "name": "4Fargo",
-          "url": "https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "She'll Be Ok - Remix",
-      "url": "https://open.spotify.com/track/63Vj0fpR8mHtAAWKPwY65C"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Slime You Out",
         "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
@@ -773,55 +765,7 @@
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Too Deep",
-        "url": "https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN"
-      },
-      "artists": [
-        {
-          "name": "Kodie Shane",
-          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
-        }
-      ],
-      "duration_ms": 139504,
-      "name": "Too Deep",
-      "url": "https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "The Ceremony",
-        "url": "https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4"
-      },
-      "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Lil Yea",
-      "url": "https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Lady",
-        "url": "https://open.spotify.com/album/1OzgxL1X0aEY20yZNtWVUj"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 191958,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/25fFWud9ZPEOkKwh7gKkoj"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/4EK6xVgNdeawBeZ6vMTTbL"
@@ -837,7 +781,7 @@
       "url": "https://open.spotify.com/track/5Fivs2sPYb9iBQuk2s0my7"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -857,7 +801,7 @@
       "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
@@ -877,27 +821,47 @@
       "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Head Doctor (with Lil Tecca)",
-        "url": "https://open.spotify.com/album/2CjIwPjYtTO8KV3iT0i5DY"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1wlh1MAxWgY5Bl18ClcN5v"
       },
       "artists": [
         {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+          "name": "Fresco Trey",
+          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
         },
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 249515,
-      "name": "Head Doctor (with Lil Tecca)",
-      "url": "https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc"
+      "duration_ms": 163438,
+      "name": "Passenger Princess (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/7fmec76XrfKpRSsLdlAx41"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Edible (feat. Gunna)",
+      "url": "https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Wanna Come Thru",
         "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
@@ -915,6 +879,38 @@
       "duration_ms": 131900,
       "name": "Wanna Come Thru",
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Time Goes By",
+        "url": "https://open.spotify.com/album/7DRjRkSC5t3EJeMiN4Tpc4"
+      },
+      "artists": [
+        {
+          "name": "YK Osiris",
+          "url": "https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Time Goes By",
+      "url": "https://open.spotify.com/track/55KbAuNeK5FFQEnR9sY1QS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "The Ceremony",
+        "url": "https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Lil Yea",
+      "url": "https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda"
     }
   ],
   "unique_name": "B.A.E.",

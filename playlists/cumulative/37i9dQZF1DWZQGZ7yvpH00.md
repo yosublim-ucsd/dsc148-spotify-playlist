@@ -4,7 +4,7 @@
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Yahritza Y Su Esencia en portada.
 
-293 songs - 16 hr 24 min
+294 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-07-28 |  |
 | [Arrepentido](https://open.spotify.com/track/4LBfcCUqGpIm7qt0PEq6aS) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Arrepentido](https://open.spotify.com/album/46mt1hhCKAI3VOVLpKPPHI) | 3:23 | 2023-02-24 | 2023-05-13 |
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-07-08 | 2023-01-07 |
-| [Así Me Enamoré](https://open.spotify.com/track/4MLCePPmMHFALJ6w43inZ9) | [Grupo Supr3me](https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv) | [Así Me Enamoré](https://open.spotify.com/album/4lEyFHKyu1WlUC74bRqeFC) | 3:52 | 2024-02-16 |  |
+| [Así Me Enamoré](https://open.spotify.com/track/4MLCePPmMHFALJ6w43inZ9) | [Grupo Supr3me](https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv) | [Así Me Enamoré](https://open.spotify.com/album/4lEyFHKyu1WlUC74bRqeFC) | 3:52 | 2024-02-16 | 2024-03-30 |
 | [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 | 2024-01-26 | 2024-03-02 |
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-03-15 |  |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-08 |  |
@@ -128,6 +128,7 @@
 | [LAGUNAS](https://open.spotify.com/track/4j1k2svbEPhcsMqYZYL8jN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 3:51 | 2023-06-30 | 2023-07-02 |
 | [Las Razones](https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 4:09 | 2021-11-22 | 2022-07-23 |
 | [Llamadas Perdidas](https://open.spotify.com/track/2Njnz4h488q7hT6hRXuwQT) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Llamadas Perdidas](https://open.spotify.com/album/4Nkw7UzpoBnf8gasrKjncS) | 4:21 | 2021-11-22 | 2022-08-06 |
+| [Lo Intenté](https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Lo Intenté](https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr) | 3:08 | 2024-03-29 |  |
 | [Lo Lindo de Mi Ex](https://open.spotify.com/track/4f0FzBzq8rtqtbiHRQSJl8) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo Lindo de Mi Ex](https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa) | 2:12 | 2022-04-05 | 2022-05-24 |
 | [Lo Obvio](https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Lo Obvio](https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi) | 2:20 | 2023-08-04 | 2023-11-11 |
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 | 2023-01-14 |

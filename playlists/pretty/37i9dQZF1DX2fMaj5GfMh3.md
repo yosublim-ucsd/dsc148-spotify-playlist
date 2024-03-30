@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Dasha o op de cover van Fresh Pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,135 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,154 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 9 | [can i see you tonight?](https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [can i see you tonight?](https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew) | 1:57 |
 | 10 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 |
 | 11 | [Universe](https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe](https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx) | 2:46 |
-| 12 | [favorite \- english](https://open.spotify.com/track/10PsEwmFKLK31Nqc1utxIK) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
+| 12 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
 | 13 | [Pretending](https://open.spotify.com/track/57mgEbIR86es2FBvQmxZ7t) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 3:02 |
 | 14 | [20 something](https://open.spotify.com/track/3xpuHGQZMXiR8j9aCIOO8C) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [20 something](https://open.spotify.com/album/5xoHpRnnxIH33pFgPXtYTf) | 2:40 |
 | 15 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 74 | [Narcissist](https://open.spotify.com/track/0fayxbip7asGIBze5wWZnu) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Narcissist](https://open.spotify.com/album/5q4oFnbNrfW9MtuZdBIZlC) | 2:29 |
 | 75 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
 
-Snapshot ID: `MCxkNmI3NGIxMzY2OTI2MmMyOGZmNGY4MmRmYzI2YjY0N2ZhY2NmZDk4`
+Snapshot ID: `MCw3MDA3ZDVlNTgxYjk3YTk4NDg1YjJkZjA2Njg5ZWI4NDA3MjhhMzEy`

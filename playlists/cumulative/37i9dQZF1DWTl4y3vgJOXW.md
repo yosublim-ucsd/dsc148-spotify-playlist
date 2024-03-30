@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Anthony Davis
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Dejounte Murray
 
-583 songs - 1 day 5 hr 38 min
+585 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Brothers \(feat\. Lil Durk\) \- Remix](https://open.spotify.com/track/2wUwC1gBJIC05JH87v2hgN) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:30 | 2022-06-24 | 2023-03-14 |
 | [Bullseye 2 \(with Future\)](https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 2:37 | 2022-08-26 | 2023-03-15 |
 | [Bussin \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0eJKjbdEwnWbWyJI9z1gMg) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons R Us](https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO) | 3:57 | 2023-02-17 | 2023-02-22 |
+| [Bussin \(with Rob49\)](https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Bussin \(with Rob49\)](https://open.spotify.com/album/4k19gVgEFR3eja9YAore44) | 2:44 | 2024-03-29 |  |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2022-07-29 | 2023-06-10 |
 | [Can’t stop it](https://open.spotify.com/track/1HqKqHh5iKQzz9LhQDlbgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:12 | 2023-02-17 | 2023-02-22 |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-11 | 2024-02-16 |
@@ -489,6 +490,7 @@
 | [Startender \(feat\. Offset and Tyga\)](https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:12 | 2021-09-02 | 2022-06-25 |
 | [Steady Mobbin](https://open.spotify.com/track/3cSuhzV7wKX5diQ8hos78P) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [We Are Young Money](https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan) | 5:10 | 2021-09-02 | 2023-03-14 |
 | [Step 1 \(with Offset\)](https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Step 1](https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf) | 2:57 | 2022-06-24 | 2023-03-15 |
+| [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 | 2024-03-29 |  |
 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 | 2021-09-02 | 2022-06-25 |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2023-02-26 | 2023-03-14 |
 | [Still Runnin \(feat\. Meek Mill\)](https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:53 | 2021-09-02 | 2022-06-25 |

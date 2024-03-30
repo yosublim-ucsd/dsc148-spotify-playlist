@@ -4,7 +4,7 @@
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-116 songs - 4 hr 53 min
+117 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2024-01-09 |  |
 | [Elevation](https://open.spotify.com/track/741SePkge5anOObH5JLG5r) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Elevation](https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4) | 3:20 | 2024-01-09 |  |
 | [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-13 |  |
+| [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 | 2024-03-25 |  |
 | [Erzählung](https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Erzählung](https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb) | 2:51 | 2024-01-09 |  |
 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2024-01-09 |  |
 | [Evoke](https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Evoke](https://open.spotify.com/album/6C8bQ1SVXBEbc2bTJDndJH) | 2:14 | 2024-01-09 | 2024-03-04 |
@@ -72,7 +73,7 @@
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2024-01-09 | 2024-03-07 |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2024-01-09 |  |
 | [Narrative](https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Narrative](https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH) | 3:02 | 2024-01-09 |  |
-| [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2024-01-09 |  |
+| [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2024-01-09 | 2024-03-30 |
 | [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 | 2024-01-09 |  |
 | [Onirique](https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Onirique](https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG) | 2:35 | 2024-01-09 |  |
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2024-01-09 |  |

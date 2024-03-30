@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13599,
+  "num_followers": 13596,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjZmMTlmMDdiYTAyMWJkNzY0MDdkZGQ3NTMyNDk0NzAyYzI3MjA1",
+  "snapshot_id": "MCxiNjZmMTlmYWEzMjMyZTE2MmZmZWM1ODhhMjkwZDNhOGE2N2I3MmQ5",
   "tracks": [
     {
       "added_at": "2024-03-08 06:34:29",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Collabo",
-          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "Sapporo",
         "url": "https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 224736,
       "name": "Sapporo",
       "url": "https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Collabo",
+          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/7facF0CcVOiN1r8L1FquZg"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "Summer Festa",
-        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
       "artists": [
         {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 190040,
-      "name": "Summer Festa",
-      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -503,6 +487,22 @@
       "duration_ms": 207998,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "Summer Festa",
+        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Summer Festa",
+      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv"
-      },
-      "artists": [
-        {
-          "name": "kimujoo",
-          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "i and i",
         "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 178493,
       "name": "i and i",
       "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv"
+      },
+      "artists": [
+        {
+          "name": "kimujoo",
+          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb"
     },
     {
       "added_at": "2024-03-08 06:34:29",

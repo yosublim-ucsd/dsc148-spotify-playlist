@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,422 likes - 61 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,580 likes - 61 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 60 | [Taiba Ki Hai Yaad Aayi](https://open.spotify.com/track/701IIUKNVCLlkEzlM8NhWX) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Taiba Ki Hai Yaad Aayi](https://open.spotify.com/album/0sY9IlbolvqKiyW7Ozdb3F) | 5:13 |
 | 61 | [Sarkar Ki Baat](https://open.spotify.com/track/2g0hqVeUwrlisNxWDR4smw) | [Ahmod Abdullah](https://open.spotify.com/artist/5B0DgeDDQ607RvgyySEMD1) | [Sarkar Ki Baat](https://open.spotify.com/album/1OuXWxCzMLHshpqp5AyCvV) | 4:31 |
 
-Snapshot ID: `MCw5OTMwMjllMjEyODc1NGI2ZDY0YjE1ZjU2YzhmMjcyODM4Y2ZiNmMy`
+Snapshot ID: `MCw5MjUzNzBlYzE4ODNiNjc5MWFmMWU4MzM0MzliMDAxOWMzYzIzOWQy`

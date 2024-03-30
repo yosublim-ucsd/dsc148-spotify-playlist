@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current, every week\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,777 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,788 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 78 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
 | 79 | [sick of all these uglies falling out the sky](https://open.spotify.com/track/588VSkCIXBKt0d7qdhEIuA) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [sick of all these uglies falling out the sky](https://open.spotify.com/album/3HIeVaZ8g0siu6WUgd1yL0) | 3:08 |
 
-Snapshot ID: `MCxhZmExNDgyMzViYzM2OGRmMmQ0NGIxOWE4NGU1NTQyMjI5NzhjMjM3`
+Snapshot ID: `MCxmMTQzNWM5NWVhZjJmZDRmNTM0MDU5MjUwNzNhYjNkNzEwZGM5OTMx`

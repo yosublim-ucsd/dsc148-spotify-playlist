@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,825 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,849 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 83 | [Take Something Beautiful](https://open.spotify.com/track/4UgxabijzuXvv2dATYQJwH) | [Jen Cloher](https://open.spotify.com/artist/5L8TWHTc67vWhQhL15r4i5) | [Take Something Beautiful: The Songs of Jesse Younan](https://open.spotify.com/album/4gB8Miv66c5YwIa8nV70JW) | 4:30 |
 | 84 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
 | 85 | [Holding On](https://open.spotify.com/track/4L1mk9pkD00CPiDsDSVJZp) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Triptych](https://open.spotify.com/album/01N959BoJNKJyXS7ML7465) | 3:38 |
-| 86 | [Departures](https://open.spotify.com/track/3pkyGQVfdP0xI1evK7Efq6) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/3m2LYhF9CGykcn6akFTPJH) | 5:39 |
+| 86 | [Departures](https://open.spotify.com/track/4Wt8u15d8Zz9Rgl3wtUigi) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer as Folk](https://open.spotify.com/album/7IhytbgAgFQmSgtaPTHyhH) | 5:39 |
 | 87 | [The Rose Gardener](https://open.spotify.com/track/2AOREe0skCzK3eN7uBBr3q) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/7Ee56Uw8pfwPWSej8GGGpL) | 3:44 |
 | 88 | [letters to the hospital](https://open.spotify.com/track/1HT8TwJr3Mzu5SdBSGHNW9) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/6QE83dueAkEJjuvrY1h62j) | 3:23 |
 | 89 | [Proud Crowd, Pride Cried](https://open.spotify.com/track/01zVQMb2ywEfghDbi4oIKa) | [Ferron](https://open.spotify.com/artist/4Uwxc9WlgyTxlP4iG8rdjb) | [Shadows On A Dime](https://open.spotify.com/album/6pWEVRecWVxW9GuOBQ4P5P) | 6:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 99 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 100 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MCxmNDI5ZDFmNjFiNzYxZmFkZDgxNDMxODNmZjU3YTBiZDU2MTNiOTkx`
+Snapshot ID: `MCxlNmFlZGMxYTNhOGE4MzYwMTY0M2Q4MjM3M2QzZDVhNzRhODdhMjE5`

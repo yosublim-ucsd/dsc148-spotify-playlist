@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,739 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,771 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 21 | [Sabré Olvidar](https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 4:07 |
 | 22 | [Pana](https://open.spotify.com/track/3y8hTrsyarUNzZhgZlwG84) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [II](https://open.spotify.com/album/1p57rF4jF9evU5rrmpzSaG) | 3:22 |
 | 23 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 |
-| 24 | [La Carta](https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 4:13 |
-| 25 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 |
+| 24 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 |
+| 25 | [La Carta](https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 4:13 |
 | 26 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 |
 | 27 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 |
 | 28 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 42 | [KILÓMETROS](https://open.spotify.com/track/7bxKcnzYjeuuMxw3LWnQoM) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:32 |
 | 43 | [Ya Me Hiciste Mal \- Remix](https://open.spotify.com/track/3VUOdXoxnuOPiDm80AsuZR) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Ya Me Hiciste Mal \(Remix\)](https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB) | 3:19 |
 | 44 | [La isla del sol](https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [La isla del sol](https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr) | 2:11 |
-| 45 | [Más Sencillo](https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 4:25 |
-| 46 | [La Mexicana](https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Mexicana \- Single](https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy) | 3:26 |
+| 45 | [La Mexicana](https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Mexicana \- Single](https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy) | 3:26 |
+| 46 | [Más Sencillo](https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 4:25 |
 | 47 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 |
 | 48 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 |
 | 49 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 86 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 |
 | 87 | [Historia de un Amor](https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT) | [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Denas & Miut](https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ) | [Historia de un Amor](https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c) | 2:45 |
 | 88 | [Mundo de Cristal](https://open.spotify.com/track/6vV1TLBRd8IeOpQMZNw1ZH) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Mundo de Cristal](https://open.spotify.com/album/6cl4uIrqDSu297ApS84ZBj) | 4:11 |
-| 89 | [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 |
-| 90 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 |
+| 89 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 |
+| 90 | [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 |
 | 91 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 |
 | 92 | [Maremagnum](https://open.spotify.com/track/23UsCEUhomO3e0bqOkJwa1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH) | 4:03 |
 | 93 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 99 | [SUR](https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [SUR](https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO) | 3:28 |
 | 100 | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh) | 2:05 |
 
-Snapshot ID: `MCw5NThmMmIzYWU5ZmM4NTE0ZWY4N2Q5NzgzOTFhN2Q0OWU3NjUwMTI5`
+Snapshot ID: `MCwzYjRmZWE3YmNkOTc3ZmFlOGYyZWZhN2Y1OGE5YTVmNTk0MjZiNTFl`

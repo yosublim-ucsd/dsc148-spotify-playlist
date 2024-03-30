@@ -4,7 +4,7 @@
 
 > La pop française annonce la couleur\. Photo : Louisette & Amaury
 
-158 songs - 7 hr 50 min
+159 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Le dessert en premier](https://open.spotify.com/track/1rJMWy4MeA2fo04H9O9YxU) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:38 | 2023-07-27 | 2024-01-12 |
 | [Le Marbre](https://open.spotify.com/track/2e5C5tdiQEjk3QCa1H9AbV) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [Le Marbre](https://open.spotify.com/album/2qh4jxj48CyH6n7jUuk8Ja) | 2:22 | 2024-03-28 |  |
 | [Le Mythe de Jesse James](https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Le Mythe de Jesse James](https://open.spotify.com/album/7vCaq8ooLgcw5p08ZEdQUy) | 3:24 | 2024-03-14 |  |
+| [Le Pas](https://open.spotify.com/track/52N5YwXgVCV9dHWAOegiPr) | [Esken](https://open.spotify.com/artist/6YASQSJPMeUFm0rpMXY0p1) | [Le pas](https://open.spotify.com/album/2kizAvObb16TiKr4G2y6Yz) | 2:36 | 2024-03-29 |  |
 | [Le sport](https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Le sport](https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0) | 3:08 | 2023-10-12 | 2023-11-17 |
 | [LE TEMPS DE VIVRE \(ENCORE PLUS FORT\)](https://open.spotify.com/track/2XVGJbLeWeKxsb8dN5sPH3) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0) | [LE TEMPS DE VIVRE \(ENCORE PLUS FORT\)](https://open.spotify.com/album/2ynHjQselUDztGQiXi8nFd) | 2:42 | 2024-01-18 | 2024-03-15 |
 | [Les insectes](https://open.spotify.com/track/17nHtKXQRXjyXb7YpFf9gB) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les Royaumes Minuscules](https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz) | 3:20 | 2023-07-27 | 2023-09-01 |

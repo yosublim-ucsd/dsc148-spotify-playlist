@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,214 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,222 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 4 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
 | 5 | [Que Tal](https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Voar](https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7) | 5:09 |
 | 6 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 |
-| 7 | [Sou Teu Deus](https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sou Teu Deus](https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1) | 4:50 |
-| 8 | [Soldado Ferido](https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:26 |
+| 7 | [Soldado Ferido](https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:26 |
+| 8 | [Sou Teu Deus](https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sou Teu Deus](https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1) | 4:50 |
 | 9 | [Aguente, Guerreiro](https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguente, Guerreiro](https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9) | 5:07 |
 | 10 | [Olharei Para o Alto](https://open.spotify.com/track/6ZUd69R92Ao3V9yNRwY52M) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:28 |
 | 11 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 32 | [Jesus não se esqueceu de você](https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 3:49 |
 | 33 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 |
 | 34 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 |
-| 35 | [Shekinah](https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:46 |
-| 36 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
+| 35 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
+| 36 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
 | 37 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 |
-| 38 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
-| 39 | [Grande Dia](https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:35 |
+| 38 | [Grande Dia](https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:35 |
+| 39 | [Shekinah](https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:46 |
 | 40 | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y) | 4:31 |
 | 41 | [Vida aos Sepulcros \(Ao Vivo\)](https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:02 |
 | 42 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 49 | [Nasci Pra Deus](https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Deus](https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg) | 3:26 |
 | 50 | [O Rei Está Voltando \(Ao Vivo\)](https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:33 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA2ZWE0Yjc3ZjBjMGZkYTBkOWVkMTcyNTUyZDAzYzA0Ng==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDA2MzNhNjM4YzY2M2FmOTFjOWYzZWU3OGExMDM1ZTA3OA==`

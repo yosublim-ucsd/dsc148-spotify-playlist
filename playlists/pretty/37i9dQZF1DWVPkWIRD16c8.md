@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,130 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,486 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 74 | [Something in the Water](https://open.spotify.com/track/2TcxF4DfNVVEcNBZMJvDUz) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1jKGzq0r9MwXIbyHtQ6hBD) | 3:03 |
 | 75 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
 
-Snapshot ID: `MCwwZmQ5Njc5Y2I3NTQzNTcwNmViOGUzNWUxNGNlYzNlOGMwMTU2MzIy`
+Snapshot ID: `MCxiYmQ0NTFhYWVkODNhMWIzMjY2MDk2NTdjZDc5OTdkZWRlMzVhMDE1`

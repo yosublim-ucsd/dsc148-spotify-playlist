@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267 likes - 140 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268 likes - 140 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 119 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 |
 | 120 | [Brown Skin](https://open.spotify.com/track/5lNkkcArjQnPUTZ1bzmPAj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:58 |
 | 121 | [Nothing but Net](https://open.spotify.com/track/0Kuuk3DYQwNsD6qWA3EmPV) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [We Run This, Vol\. 13 \(Mixed by Mr\. E\)](https://open.spotify.com/album/34wToEA3gR8J6qez359k39) | 3:31 |
-| 122 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 |
-| 123 | [JUS KNOW \(feat\. Travis Scott\)](https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:21 |
+| 122 | [JUS KNOW \(feat\. Travis Scott\)](https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:21 |
+| 123 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 |
 | 124 | [The Right Way](https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:41 |
 | 125 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
 | 126 | [CUFFED UP \(feat\. Quavo\)](https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 1:55 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 139 | [Loyal x Good Woman](https://open.spotify.com/track/2R4S7brpR0zpiTxmAxcMHI) | [Travis Garland](https://open.spotify.com/artist/5tpWDRL3doEgCZdVn4FsNN) | [MASHUPS](https://open.spotify.com/album/4fJW5Ddjgn0YiSjBZC0GsB) | 3:41 |
 | 140 | [Like That](https://open.spotify.com/track/0ABKToGGd9V58REvHDTX88) | [S.Carter](https://open.spotify.com/artist/69QnpszMblbP1UG8hyNceY) | [Vice Party Riddim](https://open.spotify.com/album/5ezBqBdt5YSQl0nPxWXxA0) | 3:32 |
 
-Snapshot ID: `Mjg1Mjc5ODAsMDAwMDAwMDBiZGI4ZWViMjI5NmYyMDU1YWVkMDRmMTc4NmVkZjllOA==`
+Snapshot ID: `Mjg1Mjk0MjAsMDAwMDAwMDBiMmZjMmQ3YzQ4OTcyNjkxYTEyNGUyMmQxM2NjMjZmMA==`

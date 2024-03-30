@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Jenna Davis
 
-323 songs - 17 hr 6 min
+324 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Take It In](https://open.spotify.com/track/79Mi50c5uMHicF4HrS1q47) | [Cat Stone](https://open.spotify.com/artist/5rW38Fh10oQoc0ZUN3WlQi) | [Take It In](https://open.spotify.com/album/70MvUsZkuv2Nn4XMEYsHkg) | 3:35 | 2022-01-07 |  |
 | [Take Me Home](https://open.spotify.com/track/6pZ989rZpUdbJaIa7zGMnl) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Take Me Home](https://open.spotify.com/album/5EENz2lpRG7vQChSZR7RIn) | 3:26 | 2021-12-31 | 2022-01-22 |
 | [Take Me Home](https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Take Me Home](https://open.spotify.com/album/1s5YEE17J1ZqCkcSnpxO9A) | 3:25 | 2021-12-31 |  |
+| [Tears In The River](https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Tears In The River](https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB) | 3:10 | 2024-03-29 |  |
 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 | 2022-07-01 |  |
 | [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 | 2024-03-01 |  |
 | [Tennessee's Waiting](https://open.spotify.com/track/5W8SNrY9AxNWfsl7X5a5O4) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 3:09 | 2023-08-01 | 2023-11-04 |

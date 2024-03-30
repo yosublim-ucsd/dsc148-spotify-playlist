@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 777358,
+  "num_followers": 777463,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmEyZTc2YTE0ZGU4Y2Y4ZjAzYWM2MDJhYzZkOTdkZmRiNWU3YTcx",
+  "snapshot_id": "MCw3ZjhkZTM3OTQ4ZWY5NWY1ZDYzMzE0ZDJmNTM5MmVhNDc2N2ZmMWUw",
   "tracks": [
     {
       "added_at": "2024-03-08 14:49:28",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 166337,
-      "name": "Pique Djavan - Ao Vivo",
-      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 166337,
+      "name": "Pique Djavan - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Interessante",
-        "url": "https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "Interessante",
-      "url": "https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+        "name": "Interessante",
+        "url": "https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 182111,
-      "name": "Chico",
-      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
+      "duration_ms": 172693,
+      "name": "Interessante",
+      "url": "https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -351,6 +335,22 @@
       "duration_ms": 194240,
       "name": "Outra Vida",
       "url": "https://open.spotify.com/track/1tqNjCuAIoG1kyBfs8DfZE"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 182111,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 210889,
+      "name": "Ouvi Dizer",
+      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 156970,
       "name": "Vento Alecrim",
       "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 210889,
-      "name": "Ouvi Dizer",
-      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Tim Maia 1970",
-        "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 243183,
-      "name": "Eu Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj"
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+        "name": "Tim Maia 1970",
+        "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+      "duration_ms": 243183,
+      "name": "Eu Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Uns",
-        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Voce E Linda - Remixed Original Album",
-      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "N",
         "url": "https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Uns",
+        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Voce E Linda - Remixed Original Album",
+      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Ideologia",
-        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Minha Flor Meu Beb\u00ea",
-      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Pedra Preciosa",
         "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 204586,
       "name": "Pedra Preciosa",
       "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Ideologia",
+        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Minha Flor Meu Beb\u00ea",
+      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Totalmente Seu",
-      "url": "https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 183506,
       "name": "Bela Flor",
       "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Totalmente Seu",
+      "url": "https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9"
     },
     {
       "added_at": "2024-03-08 14:49:28",

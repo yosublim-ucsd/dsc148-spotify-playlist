@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 411176,
+  "2024-03-30": 411264,
   "date_first_scraped": "2023-09-29",
-  "description": "Henri PFR x FDVM au top des bangers dance/electro du moment !",
+  "description": "CYRIL au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -389,6 +389,24 @@
       "duration_ms": 250581,
       "name": "Change",
       "url": "https://open.spotify.com/track/6Mh7HcN7qPZsLN3F5drWmd"
+    },
+    {
+      "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
     },
     {
       "album": {
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 112445,
       "name": "La Foule - Le Monde Mix",
       "url": "https://open.spotify.com/track/3aq4uXTRtKg1BONQ21VlN2"

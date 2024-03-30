@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,682 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,706 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Black Sheep](https://open.spotify.com/track/7Fqj1eusCP7dCZGQ8OnUWN) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sea of Freaks](https://open.spotify.com/album/00KWBuk3CaLjEZlYIZFGWa) | 4:29 |
-| 2 | [Cloudburst](https://open.spotify.com/track/1cs7HeOLNf8phc48xpWScr) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Cloudburst](https://open.spotify.com/album/2C9CLWDwGcYV0eQoPGxKZJ) | 3:39 |
-| 3 | [Feelin' Fine](https://open.spotify.com/track/4BDxJjCg1ETWK9hxcM4Fu4) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Feelin' Fine](https://open.spotify.com/album/6sXG4V3wpbhx54O48PfIFg) | 4:05 |
-| 4 | [Bob and Weave \- Single Version](https://open.spotify.com/track/5fSkSBtOTu3zPj02mSGukL) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso), [Josh Phillips](https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke) | [Bob and Weave](https://open.spotify.com/album/66bRhkNSslxtX10zMUXDTC) | 4:20 |
-| 5 | [I Am The Wheel \(It Could Happen to You\)](https://open.spotify.com/track/5F6EqL3QZGnRJjA9XPWXoC) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [I Am The Wheel \(It Could Happen to You\)](https://open.spotify.com/album/4Iy72zn3aCGtRsGIfmOPov) | 3:33 |
+| 1 | [Checkin' Out](https://open.spotify.com/track/7nMaNXGmnMW4Xr9MokbWAS) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Checkin' Out](https://open.spotify.com/album/7iwG1bDdGhmbiD5GHqDGCx) | 3:52 |
+| 2 | [Black Sheep](https://open.spotify.com/track/7Fqj1eusCP7dCZGQ8OnUWN) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sea of Freaks](https://open.spotify.com/album/00KWBuk3CaLjEZlYIZFGWa) | 4:29 |
+| 3 | [Cloudburst](https://open.spotify.com/track/1cs7HeOLNf8phc48xpWScr) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Cloudburst](https://open.spotify.com/album/2C9CLWDwGcYV0eQoPGxKZJ) | 3:39 |
+| 4 | [Feelin' Fine](https://open.spotify.com/track/4BDxJjCg1ETWK9hxcM4Fu4) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Feelin' Fine](https://open.spotify.com/album/6sXG4V3wpbhx54O48PfIFg) | 4:05 |
+| 5 | [Bob and Weave \- Single Version](https://open.spotify.com/track/5fSkSBtOTu3zPj02mSGukL) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso), [Josh Phillips](https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke) | [Bob and Weave](https://open.spotify.com/album/66bRhkNSslxtX10zMUXDTC) | 4:20 |
 | 6 | [Gloaming Way](https://open.spotify.com/track/2Ek92VVHn8Cu0XOwFwjtOF) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Gloaming Way](https://open.spotify.com/album/2QNz2AaoIRejCJlK7avDJa) | 5:06 |
 | 7 | [Lakesong](https://open.spotify.com/track/0S5bcsLFrtN4cM3jzgpWNa) | [Fitzkee Brothers](https://open.spotify.com/artist/7CUd58kShwbwTCmMtnBebG) | [Lakesong](https://open.spotify.com/album/5m2b2mDjvnxkgWALlHDbUV) | 4:34 |
 | 8 | [Windy Mountain](https://open.spotify.com/track/2xI02rsOKrOV54hoXtOout) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Windy Mountain](https://open.spotify.com/album/6IWKeq29VXjgWmKbCdhRs2) | 5:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCxkNWJjMTM1MzVlNjdjYzVmNjUyOTFiZTg0NGI3MjE1YjgxMjg2M2E2`
+Snapshot ID: `MCw0Y2YzYjAzYzg4ZDZjYmE3NDg2YjY1YTE0YzNjMTJkMzRiYTcxZjIz`

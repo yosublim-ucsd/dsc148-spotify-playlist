@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-360 songs - 1 day 0 hr 14 min
+361 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [I've Got to Use My Imagination](https://open.spotify.com/track/3xLigydauGKn4eJWYziPuN) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [I've Got to Use My Imagination](https://open.spotify.com/album/64ekAE6otxRFXCez5e5IeK) | 3:54 | 2021-03-19 | 2022-04-23 |
 | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw) | 3:00 | 2023-08-18 |  |
 | [If Only We Could](https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc) | [Clarence Spady](https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU) | [If Only We Could](https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL) | 3:08 | 2022-01-21 | 2023-08-26 |
-| [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 | 2022-03-04 |  |
+| [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 | 2022-03-04 | 2024-03-30 |
 | [In Blood](https://open.spotify.com/track/4R9G9PKBSiBN9vo0d1bBvX) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Blood on My Hands](https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl) | 4:05 | 2022-06-24 |  |
 | [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 | 2022-06-24 | 2023-09-10 |
 | [In My Soul](https://open.spotify.com/track/4DO9pPMq8PFhWFo4IVVveA) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [In My Soul](https://open.spotify.com/album/7K3JyQeEB3L6lmNYTkmQDr) | 4:47 | 2023-02-24 | 2023-03-18 |
@@ -317,6 +317,7 @@
 | [Threw Me To The Wolves](https://open.spotify.com/track/2pzX6WBgMtavA1hZ0pt91F) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves](https://open.spotify.com/album/5wwJpsU8T5zdRT2X8XnZ7s) | 3:52 | 2020-12-14 | 2022-02-26 |
 | [Through Being Blue Over You](https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp) | 3:51 | 2022-05-13 | 2023-06-08 |
 | [Through Being Blue Over You](https://open.spotify.com/track/6CRyXQeDAsBMm210T8Ev8X) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh) | 3:51 | 2022-05-13 |  |
+| [Thunderbird](https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [Thunderbird](https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa) | 3:51 | 2024-03-29 |  |
 | [Time Clocks](https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/6LQ8BQhfsYP2WRitSPT3Lg) | 7:07 | 2021-10-01 | 2022-05-28 |
 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 | 2022-03-11 | 2022-04-23 |
 | [Troubled Man](https://open.spotify.com/track/2jg5t9K7AkFwivcExkrLX9) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [The Brotherhood](https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Blue Sky](https://open.spotify.com/album/4eXFt8xb1vaaivb332kvu1) | 3:34 | 2020-12-14 | 2022-02-26 |

@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-172 songs - 10 hr 48 min
+173 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,13 +102,14 @@
 | [Living With The Blues](https://open.spotify.com/track/5NJkdnML8tFQ3wzh91BQAp) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Wishing Well](https://open.spotify.com/album/6BKMOyKifmcINqpBWIcG6D) | 3:02 | 2020-08-11 |  |
 | [Long Way Home](https://open.spotify.com/track/4A0uddUBex0iolIxq1b0km) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Ramblin' Man Blues](https://open.spotify.com/album/7I2bdm0uQNyjb25zg1qssP) | 5:38 | 2020-08-11 | 2022-05-20 |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-07-30 | 2022-07-29 |
-| [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2021-07-30 |  |
+| [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2021-07-30 | 2024-03-30 |
 | [Make Me A Pallet On Your Floor](https://open.spotify.com/track/3HdPVdqcuD2Qt2QgNogHw7) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Avalon: A Tribute To Mississippi John Hurt](https://open.spotify.com/album/0IvcKOjiGavyX0GDsPI68h) | 4:42 | 2020-08-11 | 2022-07-29 |
 | [Make Me A Pallet On Your Floor](https://open.spotify.com/track/4iZ0tK27xu65GMDW2mvOmg) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Avalon: A Tribute To Mississippi John Hurt](https://open.spotify.com/album/3Uu8fwYnYrRgbFiWoRxIJB) | 4:42 | 2020-08-11 | 2022-08-27 |
 | [Maybe I'll Go](https://open.spotify.com/track/0M3Ax4slidyDfv9Hq0rYQz) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Kokomo Kidd](https://open.spotify.com/album/3jS9ngQkhrfertgQCIqaLH) | 3:00 | 2020-08-11 |  |
 | [Maybe I'll Go](https://open.spotify.com/track/1cYa4SUJNBvpimXnJ5Usyk) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Kokomo Kidd](https://open.spotify.com/album/5rCddIMaL73dmo0h2pKOmb) | 3:00 | 2020-08-11 | 2022-07-29 |
 | [Medicine Man \- Acoustic](https://open.spotify.com/track/2ClSbxFxiinHO8ARbmgTn3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Medicine Man \(Acoustic\)](https://open.spotify.com/album/13qZq0oPgSNewMJKCNKal4) | 3:26 | 2020-08-11 |  |
 | [No Expectations](https://open.spotify.com/track/4wWnFmXuoFhSAu5UukxTjs) | [George Thorogood](https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60) | [Party Of One](https://open.spotify.com/album/6VZz2Zc2SG7ueQiYCS9pfT) | 3:56 | 2020-08-11 |  |
+| [Nothing In Rambling](https://open.spotify.com/track/1r0kMQKEWM7i4fntT6yuUf) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [One Guitar Woman](https://open.spotify.com/album/0QMdXs9XUVv3rnLX5qH69B) | 3:07 | 2024-03-29 |  |
 | [Oh Lord](https://open.spotify.com/track/2flh4b34mwwNSAK39s64Yl) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p), [Ben Hunter](https://open.spotify.com/artist/58V5N7E20Bl4TOVAoJyi5g), [Joe Seamons](https://open.spotify.com/artist/5Uzwtm5VofnD9EhZILeZ5a) | [Raw Sugar](https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd) | 3:21 | 2020-08-11 | 2022-07-29 |
 | [Oh Lord](https://open.spotify.com/track/3K0nUaDXL7ghUjNYtGyjTE) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p), [Ben Hunter](https://open.spotify.com/artist/58V5N7E20Bl4TOVAoJyi5g), [Joe Seamons](https://open.spotify.com/artist/5Uzwtm5VofnD9EhZILeZ5a) | [Raw Sugar](https://open.spotify.com/album/28CI62akHTySi71hTfUTye) | 3:21 | 2020-08-11 |  |
 | [Oh Now](https://open.spotify.com/track/3WxksalSl9j5N3JkvFn8lY) | [Brian Casey](https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG) | [Oh Now](https://open.spotify.com/album/2RAGcWbyKf5nzUN58QqxUD) | 2:32 | 2020-08-11 | 2022-05-14 |

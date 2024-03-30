@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-706 songs - 1 day 18 hr 29 min
+708 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-26 |  |
 | [aurora](https://open.spotify.com/track/3TfFyMlTwIvoPBOBvzK4Fy) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [Δ](https://open.spotify.com/album/4p9YWsADpDBsYl2RfOqW18) | 5:07 | 2023-08-15 | 2023-08-17 |
 | [aurora](https://open.spotify.com/track/5EzFxshZyFFCkhqLh8Gif7) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [Δ](https://open.spotify.com/album/3TZsIPMjf82EUqMjNb9BG6) | 5:07 | 2023-08-15 | 2023-08-25 |
+| [Automatic \- 2024 Mix](https://open.spotify.com/track/0PUl467MODwUpD7Vd9kebB) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Automatic \(2024 Mix\)](https://open.spotify.com/album/1OmZj0yNDdykFxrPJiqegq) | 4:55 | 2024-03-26 |  |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-10-20 |  |
 | [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 | 2023-11-16 | 2024-03-15 |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-24 |  |
@@ -131,6 +132,7 @@
 | [Do What You Do Ably](https://open.spotify.com/track/4MJjFBcxDn2pbrhPeeFazZ) | [SOMETIME'S](https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc) | [Do What You Do Ably](https://open.spotify.com/album/61ec3jHFueT9kiHbxe6fWA) | 4:14 | 2023-04-18 | 2023-05-10 |
 | [Do what you do ably](https://open.spotify.com/track/6FCVnPSxthhbvRIThSSMc8) | [SOMETIME'S](https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc) | [Do what you do ably](https://open.spotify.com/album/3eoySVHvXdD8Hrj69dZjyI) | 4:14 | 2023-04-18 | 2023-04-20 |
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-06 | 2023-04-19 |
+| [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 | 2024-03-26 |  |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-30 | 2023-07-28 |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-07-27 | 2024-02-23 |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-09-14 |  |
@@ -175,7 +177,7 @@
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-10-20 | 2023-05-15 |
 | [Find Someone Like You](https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:26 | 2022-10-20 | 2023-05-12 |
 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 | 2023-03-28 | 2023-09-06 |
-| [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2022-12-08 |  |
+| [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2022-12-08 | 2024-03-30 |
 | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7) | 4:44 | 2023-10-05 | 2024-01-11 |
 | [Fleeting Fantasy](https://open.spotify.com/track/7cnffSWM6sJuNuMzQapfJX) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Fleeting Fantasy](https://open.spotify.com/album/2uS7xMZ7XI5GM6lqTOp61c) | 4:12 | 2023-11-09 | 2023-11-29 |
 | [Flowers](https://open.spotify.com/track/5qLrPj4UgxfXDQ8eMCrepp) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flowers](https://open.spotify.com/album/7bPgpfTm8qpumS9b1QTmLM) | 4:09 | 2023-10-26 | 2023-11-10 |
@@ -345,7 +347,7 @@
 | [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 | 2022-11-30 |
 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-12-03 |  |
 | [Mornin Dew](https://open.spotify.com/track/6IDZpk0zFGk5Gptc8WiaR4) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Marsh Willow](https://open.spotify.com/artist/0peX4zwJwmSYGbCp7xT0eA) | [Mornin Dew](https://open.spotify.com/album/28VeLIJUs9pwdiMeGpTvrZ) | 2:58 | 2022-11-29 | 2023-01-13 |
-| [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2022-10-20 |  |
+| [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2022-10-20 | 2024-03-30 |
 | [My Baby Just Cares For Me \- HONNE Remix](https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [My Baby Just Cares For Me \(HONNE Remix\)](https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l) | 3:51 | 2022-11-29 | 2022-12-02 |
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-12 | 2023-05-26 |
 | [N](https://open.spotify.com/track/25S5RcQ5NQTlPuaW4HLP5z) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [N](https://open.spotify.com/album/63CIY5JWFCwbGBXZzGNf6H) | 2:50 | 2023-04-18 | 2023-04-20 |

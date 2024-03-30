@@ -4485,6 +4485,32 @@
     },
     {
       "album": {
+        "name": "Jesus Christ Over Everything",
+        "url": "https://open.spotify.com/album/5azL2XOS9gjemX9IT5ij2E"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        },
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/5DO9wuneObB0e6vNxFSJVi"
+        },
+        {
+          "name": "Ellisha Carter",
+          "url": "https://open.spotify.com/artist/2vEOfYrqqx0Crq1UH7joYE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335600,
+      "name": "Jesus Christ Over Everything - Live",
+      "url": "https://open.spotify.com/track/6hfULoWn9n0TGFQWDOWzkw"
+    },
+    {
+      "album": {
         "name": "Jesus Is My Healer (Live)",
         "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
       },

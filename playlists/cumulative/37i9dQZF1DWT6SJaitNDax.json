@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Afro sounds crossing borders. Cover: Tyla",
+  "description": "Afro sounds crossing borders. Cover: Kizz Daniel",
   "name": "Big Mood",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "4 Days",
+        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154199,
+      "name": "4 Days",
+      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
     },
     {
       "album": {
@@ -472,7 +490,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 142613,
       "name": "Angels in Tibet",
       "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 176700,
       "name": "Beautiful Lies - Remix",
       "url": "https://open.spotify.com/track/4aMK9sdXm7JtL99wpbqW0b"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201110,
       "name": "Breathe Me",
       "url": "https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y"
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183652,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1"
@@ -1850,6 +1868,28 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "album": {
+        "name": "ONE OR TWO",
+        "url": "https://open.spotify.com/album/0awAIfbKXs6Q3x9tBwPrBQ"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "AXAD",
+          "url": "https://open.spotify.com/artist/1zfpuNNxBF5qjwbi4LCXig"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148480,
+      "name": "COLOR",
+      "url": "https://open.spotify.com/track/4el3wcnIiNSP9xPXe8kU5J"
     },
     {
       "album": {
@@ -3268,7 +3308,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
@@ -4752,6 +4792,24 @@
       "duration_ms": 156454,
       "name": "Koroba",
       "url": "https://open.spotify.com/track/6MzjLOHzkqoi7667ysz41k"
+    },
+    {
+      "album": {
+        "name": "KU LO SA",
+        "url": "https://open.spotify.com/album/49t2yBtgMtTnSsFWRp19GO"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148786,
+      "name": "KU LO SA",
+      "url": "https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO"
     },
     {
       "album": {
@@ -6502,7 +6560,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 176020,
       "name": "Oh My Days",
       "url": "https://open.spotify.com/track/6pFItbFfi3fNagHGCeXCUF"
@@ -8754,6 +8812,28 @@
       "duration_ms": 148000,
       "name": "So Lovely",
       "url": "https://open.spotify.com/track/0u3gigxw11WMwQryCLnXi2"
+    },
+    {
+      "album": {
+        "name": "Sober (Soo Bad)",
+        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Sober (Soo Bad)",
+      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,662 likes - 84 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,689 likes - 84 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 40 | [The Fade Out Line](https://open.spotify.com/track/5ScWGDk9arlLbaLnedP55t) | [Phoebe Killdeer & The Short Straws](https://open.spotify.com/artist/48lEFUYfJKer4YvgQdLGdq) | [Big Little Lies \(Music from Season 2 of the HBO Limited Series\)](https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN) | 3:33 |
 | 41 | [The Rip](https://open.spotify.com/track/5KX2DSPC6aCA0pdDidTmBC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo) | 4:30 |
 | 42 | [The Wonder of You](https://open.spotify.com/track/3Cs2cP4ucvaO22LCNljzJY) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou) | 2:31 |
-| 43 | [Helpless](https://open.spotify.com/track/2y3Ek8naO0FJgNaddG12TU) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 3:38 |
+| 43 | [Helpless](https://open.spotify.com/track/3gQMqeXqiHFCafaTtFnHF8) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 3:37 |
 | 44 | [It's Now or Never](https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 3:14 |
 | 45 | [Treat Me Nice](https://open.spotify.com/track/6PjTKlBclT9fmXBJSnl2l4) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:11 |
 | 46 | [Don't](https://open.spotify.com/track/22koI34FpNt6irOht3N8nJ) | [Zoë Kravitz](https://open.spotify.com/artist/4G4om3U7TKES0hDBQYYVy7) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 2:48 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 83 | [King Kong](https://open.spotify.com/track/0fguPfhM5cgGHeTGuJyyB5) | [Babe Ruth](https://open.spotify.com/artist/0U04xAocTetRnA7v3TYQ2i) | [Colors of Psychedelia](https://open.spotify.com/album/0wri6eeuRpiJAHJk4BItgC) | 6:46 |
 | 84 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 
-Snapshot ID: `MCxhZmE0Y2M2OGViYWZlMzc0N2JjODY1MmFlNWIyZjVkYzllZWQ4YjZk`
+Snapshot ID: `MCw5ZjJhOGE0Mjc2YjExNzM5MGNkYWVlNjllZWRhN2Q0MWFjMzk2YmY1`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 32932,
+  "num_followers": 32985,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDE0MGMzMjM4NTVjNjA1NWVmMjY2MzdmNTI4YTA3MDAxY2JmY2Qz",
+  "snapshot_id": "MCxhZDA1OTBlMGE4Zjc2YThhZGVjNTc4NjBlZWI4NzQzYTIzMWVjZGFh",
   "tracks": [
     {
       "added_at": "2021-12-16 01:15:04",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Elypse",
-        "url": "https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "En Todo Estar\u00e9 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 205920,
       "name": "Madre Tierra (Oye)",
       "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "Elypse",
+        "url": "https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
+        "name": "En el Sendero",
+        "url": "https://open.spotify.com/album/4ywP8NavqBobYqGbbY6QWb"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 255040,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/0K93vBqSbCePIqOm3MiZuX"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 285013,
       "name": "Suena Mamal***",
       "url": "https://open.spotify.com/track/3qTatqQ0vzzztgYdaQGEmV"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "En el Sendero",
-        "url": "https://open.spotify.com/album/4ywP8NavqBobYqGbbY6QWb"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 255040,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/0K93vBqSbCePIqOm3MiZuX"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -659,6 +659,22 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "A Ti Te da Besitos",
+      "url": "https://open.spotify.com/track/5128c82TGs88ump3YwCBdc"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
         "name": "Love And Sex",
         "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 168640,
       "name": "Mais Ningu\u00e9m",
       "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "A Ti Te da Besitos",
-      "url": "https://open.spotify.com/track/5128c82TGs88ump3YwCBdc"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -807,6 +807,26 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "bigman",
+          "url": "https://open.spotify.com/artist/5H36onzdowfUUqlGdVX3Kk"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Doctor Marihuana",
+      "url": "https://open.spotify.com/track/4jzUIyAeosr1rNU9vlBDOv"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
         "name": "El Vuelo del Pez",
         "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
       },
@@ -875,22 +895,6 @@
       "duration_ms": 216000,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "Un alumno m\u00e1s",
-        "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Tocado y hundido",
-      "url": "https://open.spotify.com/track/4lN533ecUjcnqTkdxaYoP2"
     }
   ],
   "unique_name": "Latin Hits 2014",

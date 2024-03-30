@@ -4,12 +4,12 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyoncé
 
-108 songs - 6 hr 1 min
+108 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$10 Cowboy](https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S) | 3:35 | 2024-01-26 | 2024-03-23 |
-| [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 | 2024-02-16 |  |
+| [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:47 | 2024-02-16 |  |
 | [25 to Life](https://open.spotify.com/track/4Qy7iFOMMiyRJVNUtQ629P) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [25 to Life](https://open.spotify.com/album/1Bdp0nV1GvqiY6069YxD8Y) | 2:58 | 2024-01-05 | 2024-03-23 |
 | [27 Club](https://open.spotify.com/track/0Ikbwd2FModLCQrZGJlRUI) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:43 | 2023-11-03 | 2024-02-17 |
 | [28th of June](https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [28th of June](https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX) | 3:45 | 2024-03-22 |  |
@@ -94,7 +94,7 @@
 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 | 2023-11-03 |  |
 | [Taylor Swift](https://open.spotify.com/track/0ymAJvTIbJraEti1rK6KiL) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [New Money](https://open.spotify.com/album/6PgLrRwR0H7vgqHhuS5TMc) | 3:21 | 2023-11-03 |  |
 | [Tennessee Orange](https://open.spotify.com/track/0omYsJn4G901Aag7B0NHMp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 3:43 | 2023-11-03 |  |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-16 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-16 |  |
 | [The Boy Who Cried Drunk \(The Demo\)](https://open.spotify.com/track/4wmN0vbj2BEyjOhEXVL0hA) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [The Boy Who Cried Drunk \(The Demo\)](https://open.spotify.com/album/2rgQUKkLgJaTIV7fY9auLK) | 3:19 | 2023-11-03 | 2024-02-10 |
 | [The Country Kind](https://open.spotify.com/track/3d7Qsk8D4HqrCBcolQX4HC) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU) | [The Country Kind](https://open.spotify.com/album/1cGodMcaurAGTUKmJwhNnu) | 3:17 | 2023-11-03 | 2024-01-20 |
 | [The Greys Between](https://open.spotify.com/track/0dpPQBxFuXkSQuFHVF6rq4) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Norther](https://open.spotify.com/album/3smnnShnaqQxBcvmDqvGPO) | 4:13 | 2024-03-01 |  |

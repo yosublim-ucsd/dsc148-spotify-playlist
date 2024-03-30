@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 28937,
+  "2024-03-30": 29171,
   "date_first_scraped": "2023-12-22",
   "description": "un poquito de esto, un poquito de lo otro.",
   "name": "Techengue",
@@ -50,6 +50,24 @@
     },
     {
       "album": {
+        "name": "Ahora Me Llama",
+        "url": "https://open.spotify.com/album/4X1cB5jmC57ka1RfsoD79l"
+      },
+      "artists": [
+        {
+          "name": "ThomyDom\u00e9",
+          "url": "https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235738,
+      "name": "Ahora Me Llama",
+      "url": "https://open.spotify.com/track/1nIfBoXpIC8adLwnPbP5L1"
+    },
+    {
+      "album": {
         "name": "Clubbin' Vol.1 (House Remix)",
         "url": "https://open.spotify.com/album/06zabyw045BqqS9MSfl8oL"
       },
@@ -65,7 +83,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 139354,
       "name": "Am - House Remix",
       "url": "https://open.spotify.com/track/3xJfvufPUC0geMfQ5gCxzq"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 170576,
       "name": "Ciudad M\u00e1gica (Techengue) - Remix",
       "url": "https://open.spotify.com/track/7k3qyk6QbfxZpsu9WHbvpC"
@@ -462,6 +480,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Roto (House Remix)",
+        "url": "https://open.spotify.com/album/2UymMnf8PFL5NZKr523bm1"
+      },
+      "artists": [
+        {
+          "name": "ThomyDom\u00e9",
+          "url": "https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267703,
+      "name": "Coraz\u00f3n Roto - House Remix",
+      "url": "https://open.spotify.com/track/6LoW4RIvx5lAHOjdrG1vTz"
+    },
+    {
+      "album": {
         "name": "Cupido (Tech House Remix)",
         "url": "https://open.spotify.com/album/2fyWIjtyslw1ayJGJ4fcO2"
       },
@@ -568,6 +604,32 @@
     },
     {
       "album": {
+        "name": "El Merengue (HUGEL Remix)",
+        "url": "https://open.spotify.com/album/11XlVWabaJZbSWaKipFp9k"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168153,
+      "name": "El Merengue - HUGEL Remix",
+      "url": "https://open.spotify.com/track/3qMimm5bezPaKIISP9f7mu"
+    },
+    {
+      "album": {
         "name": "Es un secreto (feat. Pensi\u00f3n & Juanmih)",
         "url": "https://open.spotify.com/album/3dKKWOI7rNPtfwn8lVX6HY"
       },
@@ -661,7 +723,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 228196,
       "name": "Fiel - House Remix",
       "url": "https://open.spotify.com/track/4BGlE1u1ptkteX1sxQCzSA"
@@ -701,6 +763,24 @@
       "duration_ms": 165659,
       "name": "Fulet\u00f3n",
       "url": "https://open.spotify.com/track/7hSuuBdqAYoH4P3PNDYN71"
+    },
+    {
+      "album": {
+        "name": "Gata Only (Techengue)",
+        "url": "https://open.spotify.com/album/1jyrigpkwzXAdy4IuThiKQ"
+      },
+      "artists": [
+        {
+          "name": "ThomyDom\u00e9",
+          "url": "https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135605,
+      "name": "Gata Only - Techengue",
+      "url": "https://open.spotify.com/track/0E6vWWwX6Hg6T67KbHBW13"
     },
     {
       "album": {
@@ -781,7 +861,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 129477,
       "name": "Holanda - Remix",
       "url": "https://open.spotify.com/track/7D6SBVxATRbbcktTXZVWRi"
@@ -971,10 +1051,36 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 132216,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/46bvFFJUE5DKIZrKFfV8iC"
+    },
+    {
+      "album": {
+        "name": "Los del Espacio (House) [Remix]",
+        "url": "https://open.spotify.com/album/3dE8zZ7O4lB1jtmCCjUBGM"
+      },
+      "artists": [
+        {
+          "name": "Fran Tapia DJ",
+          "url": "https://open.spotify.com/artist/2Kk2M9tuolP8L9fWepeXgb"
+        },
+        {
+          "name": "Tibau Mascheroni",
+          "url": "https://open.spotify.com/artist/0kVnIhVZLeVOQ9HOyjNRV7"
+        },
+        {
+          "name": "DJ Elias Villabrille",
+          "url": "https://open.spotify.com/artist/7jZOMTLvJsSmVG5wPEKrhh"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293825,
+      "name": "Los del Espacio (House) - Remix",
+      "url": "https://open.spotify.com/track/3mdvsFgPjsWmvdTgonIwsl"
     },
     {
       "album": {
@@ -1555,7 +1661,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 127865,
       "name": "Titan (Tech House) - Remix",
       "url": "https://open.spotify.com/track/0dplo0qy0y42PlrSZAFmCw"

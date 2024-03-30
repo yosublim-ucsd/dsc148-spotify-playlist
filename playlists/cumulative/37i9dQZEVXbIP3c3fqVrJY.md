@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,388 songs - 2 day 23 hr 27 min
+1,389 songs - 2 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-20 | 2023-01-03 |
 | [Adagio for Hate](https://open.spotify.com/track/0KVgSVzPwEwCYXZNDP3D1C) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Návrat na planetu Zemi](https://open.spotify.com/album/4MVM6BJQ15yt9d0fUFwzYG) | 2:22 | 2021-11-14 | 2021-11-14 |
 | [Addict](https://open.spotify.com/track/7vJms0iRb7HchMpTwxNUGl) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Make Sudety Great Again](https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt) | 3:39 | 2022-10-01 | 2022-10-03 |
-| [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-01-06 |  |
+| [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-01-06 | 2024-03-30 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-07-11 | 2022-10-01 |
 | [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2023-01-17 | 2023-01-25 |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2023-08-08 | 2023-08-10 |
@@ -106,6 +106,7 @@
 | [Bad Man](https://open.spotify.com/track/3NsOI9QWWdCf8nIao28AMX) | [Marpo](https://open.spotify.com/artist/2cusgVvXlY17oMoDAbcdqD) | [Bad Man](https://open.spotify.com/album/1NYnR9rXuJh0RtGcotCx00) | 3:17 | 2021-05-09 | 2021-05-10 |
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-09-27 | 2023-08-20 |
 | [Bahamy](https://open.spotify.com/track/77oTeleiewQklI85ohQcu1) | [58G](https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U), [Doktor](https://open.spotify.com/artist/5QR7CB4D1tsS0xTSlEVwoP), [TK27](https://open.spotify.com/artist/3iFSniZuusJHdd2PbMaHwv) | [58 tape vol.2](https://open.spotify.com/album/7HHLVMZhb65inJjT5tKmzq) | 2:59 | 2021-06-03 | 2021-06-05 |
+| [Baila](https://open.spotify.com/track/4USCgD3COcDf6KX1LNX3ga) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Baila](https://open.spotify.com/album/5ftQSOaSwf5KPnCzXGteJ6) | 2:38 | 2024-03-29 |  |
 | [Balada o polnych vtakoch \- Verze 2003](https://open.spotify.com/track/1yOhU2bttYqfCaRkLXkfK2) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr) | [TOP 5](https://open.spotify.com/album/12vNgI6ubOIkNCjiFtyWev) | 3:14 | 2021-11-13 | 2021-11-14 |
 | [Balada o polnych vtakov](https://open.spotify.com/track/6scpTlp8RMmYmH2ll06hTM) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr) | [Symphonic Album](https://open.spotify.com/album/6l4Cyr1wf5YgN8aWbeawZ1) | 3:18 | 2021-11-13 | 2021-11-14 |
 | [BALEAK](https://open.spotify.com/track/5qOki2ptJ5M9aMpP99RdIn) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [777](https://open.spotify.com/album/4C15YgXFF2CLpo4wFoAAxR) | 2:02 | 2024-03-23 | 2024-03-28 |
@@ -879,7 +880,7 @@
 | [OKEY](https://open.spotify.com/track/46dMMmgICaegvdiSrKpjMx) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C) | [\*PATTERN\*](https://open.spotify.com/album/0HfuXHVf6If1iG7JucFN6d) | 2:52 | 2023-07-22 | 2023-07-24 |
 | [On Air](https://open.spotify.com/track/67cDtwqqP9GdTQ8tYQ2NpF) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [ROMEO](https://open.spotify.com/album/2UQwJOfPOpgvVQSvyZ3mWZ) | 2:02 | 2021-06-09 | 2021-06-13 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-07 |
-| [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-14 |  |
+| [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-14 | 2024-03-30 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-01 | 2022-09-27 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-10 | 2021-11-13 |
 | [Optimista](https://open.spotify.com/track/3XbM3IsEPJqc3GjBwnKyIJ) | [Earth](https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr) | [Optimista](https://open.spotify.com/album/1WYnC2l7zE6lbLX9gtbAOd) | 2:32 | 2022-09-17 | 2022-10-02 |
@@ -1278,7 +1279,7 @@
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-23 |
 | [Vitamin L](https://open.spotify.com/track/6oRpdTm0ja5d9q3EKHuRBt) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Secret Eyes](https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ) | 3:06 | 2023-04-29 | 2023-05-06 |
 | [Vitej](https://open.spotify.com/track/7EaJ7n3cuFmjtq2nLkRVrQ) | [Vadak](https://open.spotify.com/artist/40QCR893a1Qyi8VkmouPU3) | [Vitej](https://open.spotify.com/album/7tJAal486BXKlzJzeUGtIm) | 2:20 | 2023-09-22 | 2024-01-27 |
-| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-03-03 | 2024-03-27 |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-03-03 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-10-03 |  |
 | [Volám](https://open.spotify.com/track/2ATUtQqCFCiSStfckkPSpm) | [Mirai](https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle) | [Maneki Neko](https://open.spotify.com/album/14097cT0BJDT8GVihXbQJA) | 3:22 | 2021-11-14 | 2021-11-28 |
 | [Volám](https://open.spotify.com/track/6DllJO8HI4mWLnn152F16d) | [Mirai](https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle) | [Volám](https://open.spotify.com/album/0piFZvQSFX6fI4W7dPdCI8) | 3:22 | 2021-06-13 | 2021-11-12 |

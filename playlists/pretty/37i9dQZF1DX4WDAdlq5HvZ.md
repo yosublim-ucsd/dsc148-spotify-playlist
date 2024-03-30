@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,996 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,008 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 57 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
 | 58 | [I Remember Mama](https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:22 |
 | 59 | [Hello Beautiful](https://open.spotify.com/track/1l8lZRPPZHthXeyZHaujqe) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 3:19 |
-| 60 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 |
-| 61 | [All the Poor and Powerless](https://open.spotify.com/track/23aRQxzv8AbUOAV4czlNmp) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Brokenness Aside EP No\. 1](https://open.spotify.com/album/4vSGmXFf0i2RVYAj03pKha) | 5:42 |
+| 60 | [All the Poor and Powerless](https://open.spotify.com/track/23aRQxzv8AbUOAV4czlNmp) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Brokenness Aside EP No\. 1](https://open.spotify.com/album/4vSGmXFf0i2RVYAj03pKha) | 5:42 |
+| 61 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 |
 | 62 | [More Than I Could Be](https://open.spotify.com/track/5eeRjz62jBGLuLgjxVI1AR) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:14 |
 | 63 | [When I Talk to God](https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 2:37 |
 | 64 | [How Sweet It Is](https://open.spotify.com/track/7hlRDPH40A6qC98Q7aNB2C) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 3:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 84 | [Mama \(Sentimental\)](https://open.spotify.com/track/4G9s3pYrx3TgnHZa92dVON) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Mama \(Sentimental\)](https://open.spotify.com/album/57ybSKXLHW8E6Ioo96OMKM) | 3:26 |
 | 85 | [You Have Provided](https://open.spotify.com/track/00bTXTGgdFZDo46TmY52Rv) | [David Walker](https://open.spotify.com/artist/5EnYAzla5xYZmVnTyx7qv4), [10,000 Fathers](https://open.spotify.com/artist/48jeM9IfFZT9LpKKkN076l) | [You Have Provided](https://open.spotify.com/album/5eecteiGogxClzN7fKHQkE) | 3:47 |
 
-Snapshot ID: `MCwzMmRhODkxZmY0MTZmODU4OTk2NTZhMjEzNmQwNzM3MDNmMzZhNTc2`
+Snapshot ID: `MCw3ZTY3YWZmZjFjOTI1ZDA0MTJlMjE3YjAzOGY0NmMzYTNmODkzNGM2`

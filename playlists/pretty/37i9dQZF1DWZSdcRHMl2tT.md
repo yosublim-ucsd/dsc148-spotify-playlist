@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,824 likes - 273 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,935 likes - 273 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,33 +24,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 14 | [Move In Space](https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp) | [Midnight Side Eye](https://open.spotify.com/artist/3Qjs10XQQvvolxgpBOwtK3) | [Move In Space](https://open.spotify.com/album/4jr2jgt1PkVXXQcf8iiGXO) | 2:54 |
 | 15 | [Morning Breeze](https://open.spotify.com/track/5mvApCKNT9vTMqtmVnutvi) | [Ali Neroli](https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR) | [Morning Breeze](https://open.spotify.com/album/0rJWoRBZJB3hOXS8kycq8o) | 2:32 |
 | 16 | [don't blame the daylight](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h) | [aiXer](https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df) | [don't blame the daylight](https://open.spotify.com/album/3oSL1O5yE8E83Mi9muPpLw) | 2:30 |
-| 17 | [slowly](https://open.spotify.com/track/0QEuW7A76GbRL5RDochQUb) | [sugar namnam](https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3) | [slowly](https://open.spotify.com/album/1hOGllN13WiFC74pmkSNG9) | 2:31 |
-| 18 | [Blurry Sequence](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Blurry Sequence](https://open.spotify.com/album/373f1VkuNBKtI1rtXZBKDv) | 2:15 |
-| 19 | [Pink](https://open.spotify.com/track/5hAAIFnYe7uZRQBqodvNLe) | [Francois Lé](https://open.spotify.com/artist/7b8S7uo3rDxdm0W1fJv7BX) | [Pink](https://open.spotify.com/album/4oBIfNEVdSIaFGcl1kbChy) | 2:09 |
-| 20 | [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 |
-| 21 | [Next To Me](https://open.spotify.com/track/3zLvAsYtkRFNEHS4Z4Oe87) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Next To Me](https://open.spotify.com/album/0rQjy8jVtUlzjp7D6lUWbg) | 2:22 |
-| 22 | [Raining Again](https://open.spotify.com/track/3II3luScpKF4w9kVTST3Z2) | [Me Gic](https://open.spotify.com/artist/64VPx6lcReM0kEbCFJqbv1) | [Raining Again](https://open.spotify.com/album/5CAQ5Fp0qNYreFU9PgWPZY) | 2:43 |
-| 23 | [Lord](https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi) | [Sogal](https://open.spotify.com/artist/2FWMikMPlHPCgrK6MZbJ0z) | [Lord](https://open.spotify.com/album/27k9sf4fXxHlL1GoVAXORB) | 2:29 |
-| 24 | [Rooftops](https://open.spotify.com/track/6XiT6sPw9rpKjOEdvgL2y3) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Rooftops](https://open.spotify.com/album/6cDoiRHQF3nfqlE7l4e1Wj) | 2:36 |
-| 25 | [Elevate](https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i) | [Molinerd](https://open.spotify.com/artist/4BJxAbl4YewXwednS4pwHi) | [Elevate](https://open.spotify.com/album/60JP4dV59LJPj1jZC6FwRq) | 2:38 |
-| 26 | [Pretty Party People](https://open.spotify.com/track/3IbMrPsQjOBhqM3SqgUf6B) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Pretty Party People](https://open.spotify.com/album/31i7kLJmzrGirJU54NqMOd) | 2:41 |
-| 27 | [Sima Deli](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U) | [Stockset](https://open.spotify.com/artist/2GsMlo9UOvZ2YcVoFtTOpt) | [Sima Deli](https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM) | 2:15 |
-| 28 | [Cold Sun](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Cold Sun / Burning Moon](https://open.spotify.com/album/4yWqjOUu5hLriv3gcAlf3A) | 2:39 |
-| 29 | [Rent](https://open.spotify.com/track/19iugsWjMy6wDD225VT35E) | [RA DAR](https://open.spotify.com/artist/25UwRVjERSaIMnOYX0ZaM1) | [Rent](https://open.spotify.com/album/5K9Yvjbzn5BdhpQyA4hJ2M) | 2:29 |
-| 30 | [Walking](https://open.spotify.com/track/0204sXd60oYpzcZ1RPO9Ly) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Walking](https://open.spotify.com/album/4hYrjYo6ZXtSps7ELX5yep) | 2:11 |
-| 31 | [Organic Future](https://open.spotify.com/track/4sN1oCw4jCUAKRXteJDE1r) | [Costavibe](https://open.spotify.com/artist/4HLlUXwO3kK48kH2iDfPpA) | [Organic Future](https://open.spotify.com/album/474zSDKRQwddUIElqeAbea) | 2:16 |
-| 32 | [Passport](https://open.spotify.com/track/586M28IA5dAPdwvMdBZ5cd) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [Passport](https://open.spotify.com/album/3lFdo3GJAnHd9zhTkbJEHS) | 2:23 |
-| 33 | [Rainfall](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2) | [Purple Smog](https://open.spotify.com/artist/32T4i79ZuvzxjSochD6bgP) | [Rainfall](https://open.spotify.com/album/6f15YgqIUQC6FOeboBwSMJ) | 2:21 |
-| 34 | [Ava](https://open.spotify.com/track/2kn1atk4btnbIjakw1pJnY) | [JKP](https://open.spotify.com/artist/25MKxy3PlF0H2OePJX3ryf) | [Ava](https://open.spotify.com/album/2Gjx4DRNFaQlSi7P37sjpq) | 4:14 |
-| 35 | [Colors Everywhere](https://open.spotify.com/track/3Ao3jqny7VKgfRuejUhjfs) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Colors Everywhere](https://open.spotify.com/album/1Os8mNsUuOGALGFluzswDN) | 2:41 |
-| 36 | [Amaretto](https://open.spotify.com/track/40meWVs9i002bPbkZthfVR) | [Marin Lavelle](https://open.spotify.com/artist/5PeNOtLcCVzXgn5g3joShS) | [Amaretto](https://open.spotify.com/album/1FWZqXK9xHYuJawa7Olf5n) | 2:31 |
-| 37 | [past and present](https://open.spotify.com/track/5hF3YXq3lrW3QnloXeaIxI) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [past and present](https://open.spotify.com/album/5Rg2jt0r6EJ5FtsjR4moFe) | 2:05 |
-| 38 | [Tell Me](https://open.spotify.com/track/7pMcOQVs9n2eNor8eGylOd) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Tell Me](https://open.spotify.com/album/0hT7zVyW8mMK7H1NWYLdzT) | 3:02 |
-| 39 | [Valleys](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Valleys](https://open.spotify.com/album/5NvJf9r979kBnvwVCEfEFx) | 2:35 |
-| 40 | [I Call You](https://open.spotify.com/track/45h1MEiWX3VKcxSCQLW0Vk) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [I Call You](https://open.spotify.com/album/677Xq1hTwIcyl7zkVxbuY4) | 3:12 |
-| 41 | [Polarity](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Polarity](https://open.spotify.com/album/2894nGSsaRAgcc1iDCUv3R) | 3:00 |
-| 42 | [memories](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [memories](https://open.spotify.com/album/66DpYlVTOSTKtf71XIWHho) | 3:20 |
-| 43 | [Crisp](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Crisp](https://open.spotify.com/album/57CwP4oDHIPUfG1mr5vy2P) | 2:32 |
+| 17 | [Blurry Sequence](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Blurry Sequence](https://open.spotify.com/album/373f1VkuNBKtI1rtXZBKDv) | 2:15 |
+| 18 | [Pink](https://open.spotify.com/track/5hAAIFnYe7uZRQBqodvNLe) | [Francois Lé](https://open.spotify.com/artist/7b8S7uo3rDxdm0W1fJv7BX) | [Pink](https://open.spotify.com/album/4oBIfNEVdSIaFGcl1kbChy) | 2:09 |
+| 19 | [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 |
+| 20 | [Next To Me](https://open.spotify.com/track/3zLvAsYtkRFNEHS4Z4Oe87) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Next To Me](https://open.spotify.com/album/0rQjy8jVtUlzjp7D6lUWbg) | 2:22 |
+| 21 | [Pretty Party People](https://open.spotify.com/track/3IbMrPsQjOBhqM3SqgUf6B) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Pretty Party People](https://open.spotify.com/album/31i7kLJmzrGirJU54NqMOd) | 2:41 |
+| 22 | [Rent](https://open.spotify.com/track/19iugsWjMy6wDD225VT35E) | [RA DAR](https://open.spotify.com/artist/25UwRVjERSaIMnOYX0ZaM1) | [Rent](https://open.spotify.com/album/5K9Yvjbzn5BdhpQyA4hJ2M) | 2:29 |
+| 23 | [Rooftops](https://open.spotify.com/track/6XiT6sPw9rpKjOEdvgL2y3) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Rooftops](https://open.spotify.com/album/6cDoiRHQF3nfqlE7l4e1Wj) | 2:36 |
+| 24 | [Sima Deli](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U) | [Stockset](https://open.spotify.com/artist/2GsMlo9UOvZ2YcVoFtTOpt) | [Sima Deli](https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM) | 2:15 |
+| 25 | [Walking](https://open.spotify.com/track/0204sXd60oYpzcZ1RPO9Ly) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Walking](https://open.spotify.com/album/4hYrjYo6ZXtSps7ELX5yep) | 2:11 |
+| 26 | [Organic Future](https://open.spotify.com/track/4sN1oCw4jCUAKRXteJDE1r) | [Costavibe](https://open.spotify.com/artist/4HLlUXwO3kK48kH2iDfPpA) | [Organic Future](https://open.spotify.com/album/474zSDKRQwddUIElqeAbea) | 2:16 |
+| 27 | [Passport](https://open.spotify.com/track/586M28IA5dAPdwvMdBZ5cd) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [Passport](https://open.spotify.com/album/3lFdo3GJAnHd9zhTkbJEHS) | 2:23 |
+| 28 | [Elevate](https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i) | [Molinerd](https://open.spotify.com/artist/4BJxAbl4YewXwednS4pwHi) | [Elevate](https://open.spotify.com/album/60JP4dV59LJPj1jZC6FwRq) | 2:38 |
+| 29 | [Ava](https://open.spotify.com/track/2kn1atk4btnbIjakw1pJnY) | [JKP](https://open.spotify.com/artist/25MKxy3PlF0H2OePJX3ryf) | [Ava](https://open.spotify.com/album/2Gjx4DRNFaQlSi7P37sjpq) | 4:14 |
+| 30 | [Colors Everywhere](https://open.spotify.com/track/3Ao3jqny7VKgfRuejUhjfs) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Colors Everywhere](https://open.spotify.com/album/1Os8mNsUuOGALGFluzswDN) | 2:41 |
+| 31 | [Amaretto](https://open.spotify.com/track/40meWVs9i002bPbkZthfVR) | [Marin Lavelle](https://open.spotify.com/artist/5PeNOtLcCVzXgn5g3joShS) | [Amaretto](https://open.spotify.com/album/1FWZqXK9xHYuJawa7Olf5n) | 2:31 |
+| 32 | [past and present](https://open.spotify.com/track/5hF3YXq3lrW3QnloXeaIxI) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [past and present](https://open.spotify.com/album/5Rg2jt0r6EJ5FtsjR4moFe) | 2:05 |
+| 33 | [Tell Me](https://open.spotify.com/track/7pMcOQVs9n2eNor8eGylOd) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Tell Me](https://open.spotify.com/album/0hT7zVyW8mMK7H1NWYLdzT) | 3:02 |
+| 34 | [Valleys](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Valleys](https://open.spotify.com/album/5NvJf9r979kBnvwVCEfEFx) | 2:35 |
+| 35 | [I Call You](https://open.spotify.com/track/45h1MEiWX3VKcxSCQLW0Vk) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [I Call You](https://open.spotify.com/album/677Xq1hTwIcyl7zkVxbuY4) | 3:12 |
+| 36 | [Polarity](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Polarity](https://open.spotify.com/album/2894nGSsaRAgcc1iDCUv3R) | 3:00 |
+| 37 | [memories](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [memories](https://open.spotify.com/album/66DpYlVTOSTKtf71XIWHho) | 3:20 |
+| 38 | [Crisp](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Crisp](https://open.spotify.com/album/57CwP4oDHIPUfG1mr5vy2P) | 2:32 |
+| 39 | [Cold Sun](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Cold Sun / Burning Moon](https://open.spotify.com/album/4yWqjOUu5hLriv3gcAlf3A) | 2:39 |
+| 40 | [Raining Again](https://open.spotify.com/track/3II3luScpKF4w9kVTST3Z2) | [Me Gic](https://open.spotify.com/artist/64VPx6lcReM0kEbCFJqbv1) | [Raining Again](https://open.spotify.com/album/5CAQ5Fp0qNYreFU9PgWPZY) | 2:43 |
+| 41 | [Rainfall](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2) | [Purple Smog](https://open.spotify.com/artist/32T4i79ZuvzxjSochD6bgP) | [Rainfall](https://open.spotify.com/album/6f15YgqIUQC6FOeboBwSMJ) | 2:21 |
+| 42 | [slowly](https://open.spotify.com/track/0QEuW7A76GbRL5RDochQUb) | [sugar namnam](https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3) | [slowly](https://open.spotify.com/album/1hOGllN13WiFC74pmkSNG9) | 2:31 |
+| 43 | [Lord](https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi) | [Sogal](https://open.spotify.com/artist/2FWMikMPlHPCgrK6MZbJ0z) | [Lord](https://open.spotify.com/album/27k9sf4fXxHlL1GoVAXORB) | 2:29 |
 | 44 | [Feign Life](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a) | 2:52 |
 | 45 | [Night Shades](https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Night Shades](https://open.spotify.com/album/1mq4x89voeeXoA7FYaKEQa) | 2:21 |
 | 46 | [Symbios](https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7) | [Floral Gloam](https://open.spotify.com/artist/1j93Wm2QholT6mKJY937gM) | [Symbios](https://open.spotify.com/album/6LaP4c7quJ5ZBtufoMjtXL) | 2:24 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 272 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 |
 | 273 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MCwwOWM2ZThlMzMyYzY4Y2I5OWQ5ZDg5YTczYWMxZTk1OGVhZDM3Yzc5`
+Snapshot ID: `MCwzOTU1OWQ0NzYxMWFiMjAzZGZiMWJkNzkzNTRhY2NhZTQ0YjczZjVl`

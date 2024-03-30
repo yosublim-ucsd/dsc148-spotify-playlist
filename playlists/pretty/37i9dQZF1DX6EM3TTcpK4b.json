@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 308670,
+  "num_followers": 308875,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDk3NTdmODIxZWQyN2Y4M2MxZDA3YjUxMjRiYmJmY2FmNzU3MjVj",
+  "snapshot_id": "MCxiMjM4ZmZkNjQyMGJkZTUxMmE4YzE1OTU2YjZlNjVhM2FmZWFkNzgy",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "A Todas Las Que Am\u00e9",
         "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 207360,
       "name": "Cu\u00e1ndo sale la luna",
       "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
-      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1011,6 +1011,22 @@
       "duration_ms": 144706,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1075,22 +1091,6 @@
       "duration_ms": 175106,
       "name": "El Pastor",
       "url": "https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Orgullo Ranchero",
+        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1207,34 +1223,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 184293,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Orgullo Ranchero",
-        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
+      "duration_ms": 171733,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Tradicional",
-        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 171733,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+      "duration_ms": 184293,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/2dTjktd31M87a9QseiJjDO"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 187368,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/0L9Qlwkul3bl6jH5W7yx6B"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2022-08-31 15:59:33",

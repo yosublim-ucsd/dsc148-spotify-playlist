@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,324 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,422 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 44 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
 | 45 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
 | 46 | [Who Am I](https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Many Moods Of Moses](https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2) | 3:16 |
-| 47 | [Wild Out](https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Wild Out](https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D) | 2:33 |
+| 47 | [Pull up to Mi Bumper](https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull up to Mi Bumper](https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS) | 2:30 |
 | 48 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 |
 | 49 | [My Type](https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [My Type \- Single](https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7) | 3:05 |
-| 50 | [Pull up to Mi Bumper](https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull up to Mi Bumper](https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS) | 2:30 |
+| 50 | [Wild Out](https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Wild Out](https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D) | 2:33 |
 | 51 | [Clarks](https://open.spotify.com/track/6LKeLk5IBQUb9eoXidchGQ) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Stronger We Get](https://open.spotify.com/album/39jYUlDsrXJPtfucwq4f3F) | 3:03 |
 | 52 | [Good Comfort](https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Good Comfort](https://open.spotify.com/album/6RF60O8kXnv9Ik21vLEOem) | 2:14 |
 | 53 | [Dude](https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 4:15 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 57 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
 | 58 | [Summer Tiime](https://open.spotify.com/track/4jGE3Ct8rgMZQgJshj5Bdp) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [The Gaza Don](https://open.spotify.com/album/5mZSxVXC2BpS8xH0o7vu0H) | 2:47 |
 | 59 | [No Games](https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV) | [Serani](https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo) | [No Games](https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42) | 3:08 |
-| 60 | [Love Yuh Everything](https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Love Yuh Everything](https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT) | 2:45 |
-| 61 | [Tun Di Ada Way](https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy) | [IWaata](https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB), [DethWrld](https://open.spotify.com/artist/5CKjN61fO5PS1OxO2besVu) | [Tun Di Ada Way](https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw) | 2:35 |
+| 60 | [Tun Di Ada Way](https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy) | [IWaata](https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB), [DethWrld](https://open.spotify.com/artist/5CKjN61fO5PS1OxO2besVu) | [Tun Di Ada Way](https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw) | 2:35 |
+| 61 | [Love Yuh Everything](https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Love Yuh Everything](https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT) | 2:45 |
 | 62 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 63 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 |
 | 64 | [Only Man She Want](https://open.spotify.com/track/5tdl56mOgdZeY6RNF5jLwT) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Only Man She Want](https://open.spotify.com/album/0xYKErJkWgfurZHmZo0blf) | 3:25 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 76 | [Tempted To Touch](https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Asafa Powell: Train For Speed](https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D) | 3:27 |
 | 77 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 |
 | 78 | [Bicycle](https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Hero Raw: Deluxe](https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs) | 2:17 |
-| 79 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 |
-| 80 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
+| 79 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
+| 80 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 |
 | 81 | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq) | 2:36 |
 | 82 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
 | 83 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 93 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 94 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
 | 95 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
-| 96 | [Verified Choppa 2](https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE) | 2:19 |
-| 97 | [Owner](https://open.spotify.com/track/0bkZbg5Z3z40tGMOqemCAX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Intro](https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR) | 3:23 |
+| 96 | [Owner](https://open.spotify.com/track/0bkZbg5Z3z40tGMOqemCAX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Intro](https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR) | 3:23 |
+| 97 | [Verified Choppa 2](https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE) | 2:19 |
 | 98 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
 | 99 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/6EC5tQ5QBc35eRL06PYcOR) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:45 |
 | 100 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 
-Snapshot ID: `MCwzYzhiZjQ3Nzk4MzA4NGQ0YjFkNjEzMWNkMzZmZWEwYjM4YzkwYTJh`
+Snapshot ID: `MCw0ZGYzNTQ2NDMyOTcwYmRhZjE0OTRkM2ZkYjdmNmYzOTdjMTJmOWI3`

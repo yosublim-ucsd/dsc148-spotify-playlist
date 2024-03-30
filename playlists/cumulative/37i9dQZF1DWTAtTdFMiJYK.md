@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Swastik The Band
 
-291 songs - 16 hr 58 min
+292 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-10-05 |  |
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-10 |  |
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-01-10 |  |
-| [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:19 | 2022-09-29 |  |
+| [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:19 | 2022-09-29 | 2024-03-30 |
+| [Noor](https://open.spotify.com/track/5LFYRTZ5bL1ErM2Kjvpu4W) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/3vUOmgB7uT9hSU3FESC5fX) | 3:19 | 2024-03-20 |  |
 | [Nowhere to Stand](https://open.spotify.com/track/1pikKqZnF7anajMEEYn4Hf) | [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Nowhere to Stand](https://open.spotify.com/album/13jDAstKcOUTGO7YTYHtXT) | 3:52 | 2021-12-06 | 2022-01-11 |
 | [Nusrat](https://open.spotify.com/track/1J8u6r4Iy1fT3xEil4p7VP) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/3tTQGJAqjSEAUjTvvNrHsx) | 4:26 | 2022-09-05 | 2023-05-19 |
 | [Nusrat](https://open.spotify.com/track/2YQNdxjJRl7AY9Xx76lkna) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/1L6vJZTwWfVV2ZEkVKy7sY) | 4:26 | 2022-08-23 | 2022-09-06 |

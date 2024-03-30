@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 899011,
+  "2024-03-30": 899340,
   "date_first_scraped": "2021-12-21",
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Benson Boone",
   "name": "Folk Pop",
@@ -5320,6 +5320,24 @@
     },
     {
       "album": {
+        "name": "Something's Gonna Go Our Way",
+        "url": "https://open.spotify.com/album/7AWXKA4YeEJAVvqK4XO5Hw"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Something's Gonna Go Our Way",
+      "url": "https://open.spotify.com/track/42h5v4NgHTnrhDyiZPRt3G"
+    },
+    {
+      "album": {
         "name": "sorry isn't good enough",
         "url": "https://open.spotify.com/album/4ND9o4X7nbwLjNGyAtslXE"
       },
@@ -6295,7 +6313,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 136378,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"

@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 157100,
+  "num_followers": 157138,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDgwYzI4YWVhNDNkZWNiMjNmNDk5ZGQyODdhZTg4ZDQxZjBkM2M1",
+  "snapshot_id": "MCxlZDRhZmE1ODdiNDJkMDI2ZTQ2YjcyM2NjYzRkNWQ4Y2YzZDliNmFl",
   "tracks": [
     {
       "added_at": "2024-03-26 18:21:50",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-26 18:21:50",
       "album": {
-        "name": "Niche Syndrome",
-        "url": "https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Wherever you are",
-      "url": "https://open.spotify.com/track/0YAMQSmHk6BSUGTYpaoqTJ"
-    },
-    {
-      "added_at": "2024-03-26 18:21:50",
-      "album": {
         "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
         "url": "https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 302346,
       "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6"
+    },
+    {
+      "added_at": "2024-03-26 18:21:50",
+      "album": {
+        "name": "Niche Syndrome",
+        "url": "https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Wherever you are",
+      "url": "https://open.spotify.com/track/0YAMQSmHk6BSUGTYpaoqTJ"
     },
     {
       "added_at": "2024-03-26 18:21:50",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-26 18:21:50",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 273535,
-      "name": "\u3057\u308f\u3042\u308f\u305b",
-      "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
-    },
-    {
-      "added_at": "2024-03-26 18:21:50",
-      "album": {
         "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
         "url": "https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 185945,
       "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
       "url": "https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX"
+    },
+    {
+      "added_at": "2024-03-26 18:21:50",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 273535,
+      "name": "\u3057\u308f\u3042\u308f\u305b",
+      "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
     }
   ],
   "unique_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",

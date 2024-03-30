@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,236 songs - 3 day 5 hr 42 min
+1,237 songs - 3 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,8 @@
 | [Magic×Color \- TV ver.](https://open.spotify.com/track/3mUkn8ac2JP1DUYELsdNgS) | [鈴木杏奈](https://open.spotify.com/artist/1rurXiTSARlQc9Q3ybRuwX) | [Magic×Color \(TV ver.\)](https://open.spotify.com/album/5aevfaKvoBEKM1qhkFMekE) | 1:44 | 2022-07-28 | 2022-08-17 |
 | [Magie Magie](https://open.spotify.com/track/7MgKJtAKVJ2wSmZ7ixC6Uq) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/2ajiabtgQpv4Yr4QO8XDc5) | 4:07 | 2023-09-28 | 2023-11-29 |
 | [Magie×Magie](https://open.spotify.com/track/3EZBAhq6Sxgu3QquGJpVlx) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie×Magie](https://open.spotify.com/album/4FLYXuJ7Qn1X5oYvVDaCau) | 4:07 | 2023-09-28 | 2023-09-30 |
-| [Magnet](https://open.spotify.com/track/3PPYJUWuuV3ezNaQsqWEYN) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Magnet](https://open.spotify.com/album/3Qby5b5433xma3rFRsCapw) | 3:18 | 2024-03-26 |  |
+| [Magnet](https://open.spotify.com/track/3PPYJUWuuV3ezNaQsqWEYN) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Magnet](https://open.spotify.com/album/3Qby5b5433xma3rFRsCapw) | 3:18 | 2024-03-26 | 2024-03-30 |
+| [Magnet](https://open.spotify.com/track/7sH4gaA8hxCghtgNMeNLzK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Magnet](https://open.spotify.com/album/6NNP3pfDlJvZQSjBlAgYEW) | 3:18 | 2024-03-26 |  |
 | [Maihime](https://open.spotify.com/track/54Z5e3S47pWQeqe8IhKcqc) | [Lyrical Lily](https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf) | [Maihime / Around and Around](https://open.spotify.com/album/50w6AeGNRJxIeq9pouT0oY) | 3:30 | 2023-01-17 | 2023-02-16 |
 | [Maihime](https://open.spotify.com/track/7ahO8v4N7OQsnnNd2p8Fab) | [Lyrical Lily](https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf) | [Maihime](https://open.spotify.com/album/6VZQnpPyngzoTH4H3f5LOO) | 3:30 | 2023-02-14 | 2023-02-22 |
 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 | 2022-11-24 | 2022-12-22 |

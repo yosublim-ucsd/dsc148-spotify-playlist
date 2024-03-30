@@ -4,7 +4,7 @@
 
 > ฟังเพลงศิลปินหญิงประเทศไทย พร้อมหลากหลายเพลงที่เลือกโดย Violette Wautier
 
-250 songs - 14 hr 30 min
+252 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Silent](https://open.spotify.com/track/0WPbI8u4tkUyTKBRHdYRPW) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Silent](https://open.spotify.com/album/6NWAkpTcUlyGzbzFX7sjhM) | 3:12 | 2023-08-01 | 2023-09-07 |
 | [Sleepcall](https://open.spotify.com/track/2d6kduKRlPVuMtREGgLQWZ) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Sleepcall](https://open.spotify.com/album/6NIL96d170hKolQCi3H0tF) | 2:33 | 2024-02-06 |  |
 | [So Good](https://open.spotify.com/track/6FWMpEs5WRjwh4ieTT7nqS) | [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP) | [So Good](https://open.spotify.com/album/750Bi2mTuccoyvxfSi4xG4) | 3:05 | 2024-03-05 |  |
-| [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/track/3nVhhjxu73LQ5x93pP2dsx) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/album/16wk3gIYnZnC2U9rmMDr3g) | 3:43 | 2024-02-06 |  |
+| [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/track/32XElzFfT6dRkePDBPWrDb) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/album/4hlqWoXqXV5dJQGWJl4UVA) | 3:43 | 2024-03-14 |  |
+| [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/track/3nVhhjxu73LQ5x93pP2dsx) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/album/16wk3gIYnZnC2U9rmMDr3g) | 3:43 | 2024-02-06 | 2024-03-30 |
 | [Sunset Sensory](https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [Sunset Sensory](https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG) | 2:51 | 2023-09-06 | 2023-10-04 |
 | [Sunset Sensory](https://open.spotify.com/track/1NNdwZyCSi4HWvvECoJOT4) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [DAVIKA](https://open.spotify.com/album/3eIzdEdkQ8K5JBA3UTwFDl) | 2:51 | 2023-11-07 | 2023-11-30 |
 | [Sushii](https://open.spotify.com/track/6rmEr2c8R4fcIuYWYrOjhb) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF), [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [Sushii](https://open.spotify.com/album/4k63FAKaTZ75HUJgcFX2Eo) | 3:48 | 2023-06-06 | 2023-07-05 |
@@ -146,7 +147,8 @@
 | [นก](https://open.spotify.com/track/4QLgkbhuEvcVi0Xp5BHBfM) | [Jessie Vard](https://open.spotify.com/artist/4La1My37GLEhbo3f5CrKOu) | [นก](https://open.spotify.com/album/237Hod74NUmApF2dUjNni2) | 4:07 | 2024-02-06 | 2024-03-06 |
 | [นับหนึ่งถึงตลอดไป](https://open.spotify.com/track/1tKS0JOuzOOjHI2UzFg90x) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [นับหนึ่งถึงตลอดไป](https://open.spotify.com/album/6B0YgNHH2j4QHR8LEGT8WA) | 3:54 | 2023-05-02 | 2023-09-07 |
 | [นี่นะคะ \(I'm Here!\)](https://open.spotify.com/track/25WkNItOoTJrAzwU5yUZEU) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [นี่นะคะ \(I'm Here!\)](https://open.spotify.com/album/7KlgOUdJNcOFX5vUUw1fEF) | 3:46 | 2023-08-01 | 2024-03-06 |
-| [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/track/0QNZ17Qvy5yvlWaiQRM1Vt) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/album/01k8QIEZ706cuK1kesJ5RZ) | 3:24 | 2024-02-06 |  |
+| [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/track/0QNZ17Qvy5yvlWaiQRM1Vt) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/album/01k8QIEZ706cuK1kesJ5RZ) | 3:24 | 2024-02-06 | 2024-03-30 |
+| [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/track/3VWGP4ULubSKRmyX9zcYBL) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [น่าเสียดาย \(Your Loss\)](https://open.spotify.com/album/4gNDnWN8YWMaOKha4nWOBZ) | 3:24 | 2024-03-14 |  |
 | [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 | 2023-05-02 | 2023-11-08 |
 | [น้ำตาลตก](https://open.spotify.com/track/1mDx012mf4LP8YHUMr21sl) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [DAVIKA](https://open.spotify.com/album/3eIzdEdkQ8K5JBA3UTwFDl) | 3:20 | 2023-11-07 | 2024-02-07 |
 | [บอยพาโบ้](https://open.spotify.com/track/1H9SZd5MauKXDaY0vxYJzv) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [BABB BUM BUM](https://open.spotify.com/album/6KNC1U2jopk3FbzkKkPiLC) | 3:42 | 2023-11-29 | 2024-02-07 |

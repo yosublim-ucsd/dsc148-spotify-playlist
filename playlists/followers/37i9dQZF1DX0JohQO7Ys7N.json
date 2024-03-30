@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 28692,
+  "2024-03-30": 28726,
   "date_first_scraped": "2022-02-24",
   "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Karun",
   "name": "NairoBae",
@@ -1223,6 +1223,28 @@
       "duration_ms": 187851,
       "name": "Jahera",
       "url": "https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV"
+    },
+    {
+      "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Muthoni Njoroge",
+          "url": "https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177370,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf"
     },
     {
       "album": {
@@ -2545,7 +2567,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 219275,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,356 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,358 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,18 +65,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 55 | [Línea D](https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:05 |
 | 56 | [Mistela](https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9) | [Limanueva](https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy) | 4:19 |
 | 57 | [Subrealidad](https://open.spotify.com/track/04349i5UALrGIrKNGu1lPi) | [Orquesta Tipica Fernandez Fierro](https://open.spotify.com/artist/1wAtmDhWZHAQUcq1foSZXv) | [Ahora y Siempre](https://open.spotify.com/album/7Detx05YysB5gIzv7Z3Fxd) | 2:08 |
-| 58 | [Libertango \- En Vivo en Luna Park](https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [Libertango \(En Vivo en el Luna Park\)](https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH) | 3:26 |
-| 59 | [Fueye Mood](https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE) | [Supertangox](https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC) | [Fueye Mood](https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia) | 3:51 |
+| 58 | [Fueye Mood](https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE) | [Supertangox](https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC) | [Fueye Mood](https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia) | 3:51 |
+| 59 | [Libertango \- En Vivo en Luna Park](https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [Libertango \(En Vivo en el Luna Park\)](https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH) | 3:26 |
 | 60 | [Viaje Sin Luna](https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 4:32 |
 | 61 | [Ghost Town](https://open.spotify.com/track/3vEZd9EiNj1fiwY6oFclTu) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh), [Mela Green](https://open.spotify.com/artist/1OoRlzoPBEdN9gPMt7Dx69), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Ghost Town](https://open.spotify.com/album/3drZDHi0DVKGn6mLwDueij) | 4:29 |
 | 62 | [Tanguera](https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV) | [Diego Schissi Quinteto](https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ) | [Tanguera](https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX) | 4:14 |
 | 63 | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Sgoliat vs KoolTURE](https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1) | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8) | 3:36 |
 | 64 | [Oblivion \- Instrumental](https://open.spotify.com/track/7HFLrJsVWyLK8AyUiRaytV) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Tanghetto Plays Piazzolla](https://open.spotify.com/album/06km1JOP7iUlcep3sSjrjj) | 4:51 |
 | 65 | [Caminito](https://open.spotify.com/track/4TiYDx9Msjyk3ZxWaiEq1h) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:23 |
-| 66 | [La Gloria](https://open.spotify.com/track/2442ZJTb6I1AnuBu7AQqEs) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Tango 3.0](https://open.spotify.com/album/5iPPI8CcvZYhaf34VQC9P5) | 3:47 |
-| 67 | [Label](https://open.spotify.com/track/6OqktiC44c2hWp52yuWFnP) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:00 |
+| 66 | [Label](https://open.spotify.com/track/6OqktiC44c2hWp52yuWFnP) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:00 |
+| 67 | [La Gloria](https://open.spotify.com/track/2442ZJTb6I1AnuBu7AQqEs) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Tango 3.0](https://open.spotify.com/album/5iPPI8CcvZYhaf34VQC9P5) | 3:47 |
 | 68 | [Funky Tango \- Remasterizado 2023](https://open.spotify.com/track/26w0kTFqcEkBN3rI0QIe5n) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG), [Juan Salinas](https://open.spotify.com/artist/3LkShlQRHHeTS7Y6iyOeX8) | [Funky Tango \(Remasterizado 2023\)](https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c) | 7:58 |
 | 69 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 | 70 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
 
-Snapshot ID: `MCxiMmQ1Y2FlZjU3ZjQwZjI1ZWMwNGMzMWQwZjZjOWRhNDA5MGRiNjk0`
+Snapshot ID: `MCwzM2UyYTg0ODAxMDg0ZWYwMzE0NDVjOWE4Y2I5MzE5YzNmNTI2YjMx`

@@ -626,6 +626,24 @@
     {
       "album": {
         "name": "Crawl II",
+        "url": "https://open.spotify.com/album/1Suln1akGBpyDrKZENbsX9"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195013,
+      "name": "Crawl II",
+      "url": "https://open.spotify.com/track/5lriyhkDRZvtl8fKD9JU0T"
+    },
+    {
+      "album": {
+        "name": "Crawl II",
         "url": "https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k"
       },
       "artists": [
@@ -636,7 +654,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195133,
       "name": "Crawl II",
       "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"

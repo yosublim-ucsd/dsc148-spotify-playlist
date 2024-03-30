@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,707 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,993 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 70 | [The Distance](https://open.spotify.com/track/6K3Hstx2CBhYFQy3KCwffp) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Ten Years \(Deluxe\)](https://open.spotify.com/album/6wrerJNUPqdgzzxFMvpQQh) | 3:58 |
 | 71 | [Montreal](https://open.spotify.com/track/7JwZiJ4ImRnTGGjIDIUKMY) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 2:41 |
 | 72 | [Missing You](https://open.spotify.com/track/7eA8KIqKOYDwzDoQPp0vQ9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Innocence Lost](https://open.spotify.com/album/7yYelxb5aBNoxduduomHlp) | 2:54 |
-| 73 | [Long Distance Love](https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1) | [Little](https://open.spotify.com/artist/5CKBOZ9M9ZGidujXuCeatn) | [The Last Record Album](https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn) | 2:43 |
+| 73 | [Long Distance Love](https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [The Last Record Album](https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn) | 2:43 |
 | 74 | [Stay With Me](https://open.spotify.com/track/3fxc2GDtIjDprOyMFABWDs) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 3:13 |
 | 75 | [And Counting…](https://open.spotify.com/track/3N1LywtcwVOmjq8EbMWpCn) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/5RHveP7DbDtUkaf090lW5n) | 4:42 |
 
-Snapshot ID: `MCxmNWM3MjU0MmExZWIyZGI2ZTRiZGU4MGVhZDBhZDNjZjIwYjc5NTUw`
+Snapshot ID: `MCw2ZDQzNjQ2YmI2ZTZiNTcwZmJlZTUxYWUwNzI1ODliMTFkZTNiYTQ0`

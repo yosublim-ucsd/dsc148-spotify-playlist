@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 37229,
+  "num_followers": 37248,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmZjMTExNzY5NTVkOTljN2Q3Yjg0NTA0ZjVjY2FhYTJlZTJhM2Nj",
+  "snapshot_id": "MCw5OWFmMjRkZmVmZDBmYTAzZTVmZGY5ZDI3NzE1Mjc3YzU5ZjZiMmVj",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -955,30 +955,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "ISSO \u00d1 \u00c9 GPT",
-        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 186454,
-      "name": "TA\u00c7A",
-      "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "RADDIM",
         "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 209738,
       "name": "Raddim",
       "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "ISSO \u00d1 \u00c9 GPT",
+        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "duration_ms": 186454,
+      "name": "TA\u00c7A",
+      "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
     },
     {
       "added_at": "2024-02-16 03:01:00",

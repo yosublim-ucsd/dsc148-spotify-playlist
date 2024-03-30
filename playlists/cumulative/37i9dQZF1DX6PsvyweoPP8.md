@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-212 songs - 10 hr 22 min
+213 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Levada](https://open.spotify.com/track/05z6zNBFg6dDk9Fc4V04OP) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [ttheuz1n](https://open.spotify.com/artist/4n0dxhrj2LOtgpPLrsCkzu) | [Baby](https://open.spotify.com/album/3IxwwcLDMBmc1Z3nPaTTQC) | 2:58 | 2023-07-07 |  |
 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 | 2022-03-18 | 2023-08-19 |
 | [LO CULO](https://open.spotify.com/track/5pngOKiXQifZb3R8ODpthp) | [Orhals](https://open.spotify.com/artist/3QnYKFEZw2wZf6umYoyi8D), [ollerrrr](https://open.spotify.com/artist/2yiiLFHIG4P7qnSvFA0vLJ), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [LO CULO](https://open.spotify.com/album/08QIzgnc9OO5XR5GwHjY0U) | 2:53 | 2022-08-12 | 2022-08-23 |
+| [Localização](https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Localização](https://open.spotify.com/album/4nHJtZDehFW2uIFVLYMmDy) | 2:51 | 2024-03-29 |  |
 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 | 2022-08-22 |  |
 | [Louis V, Menina Linda](https://open.spotify.com/track/2jPACjKR21inTnWeo3eHla) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Louis V, Menina Linda](https://open.spotify.com/album/60NnC6VY4C2LehfrT5xFCQ) | 3:35 | 2022-03-18 | 2022-08-26 |
 | [Luxúria](https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Pecado Capital](https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3) | 3:05 | 2022-03-18 | 2023-09-02 |

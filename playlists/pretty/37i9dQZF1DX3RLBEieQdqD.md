@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Diego Daza
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,187 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,246 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 2 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 |
 | 3 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
 | 4 | [Sin Medir Distancias](https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Brindo Con El Alma](https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM) | 5:00 |
-| 5 | [Hasta El Último Momento](https://open.spotify.com/track/5kLhFZ9dr3HF57sofekoHH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Hasta El Último Momento](https://open.spotify.com/album/3l7LDniJFkxYXoo0WnQhzN) | 2:48 |
-| 6 | [Lo Que Ella Necesita](https://open.spotify.com/track/3dd1fU9pusWGfo0yFEwPg2) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Lo Que Ella Necesita](https://open.spotify.com/album/0qdohDjeEdi0ytJlNjPckw) | 2:46 |
-| 7 | [Misión Imposible](https://open.spotify.com/track/72ECleNQu4fFio2zmVZFgk) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Un Mundo Real](https://open.spotify.com/album/2a34qq3IwDO9nBcqBCLlU5) | 4:41 |
-| 8 | [De Lejitos](https://open.spotify.com/track/5uJPN3dCdYpDV5pa9llRAT) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [De Lejitos](https://open.spotify.com/album/7lNO8DgAnX90iKx5xHDEbw) | 2:39 |
-| 9 | [Odiame](https://open.spotify.com/track/5uXRXeVRkDF93pPRPmcNRA) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Odiame](https://open.spotify.com/album/6S364bPOgvVmneoVXVAuBT) | 3:01 |
+| 5 | [En Teoría](https://open.spotify.com/track/6YR09tom5EUiYwOCNid18S) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [En Teoría](https://open.spotify.com/album/1U0yVKJ8Ge6gMZxZlRGx2z) | 3:03 |
+| 6 | [Hasta El Último Momento](https://open.spotify.com/track/5kLhFZ9dr3HF57sofekoHH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Hasta El Último Momento](https://open.spotify.com/album/3l7LDniJFkxYXoo0WnQhzN) | 2:48 |
+| 7 | [Lo Que Ella Necesita](https://open.spotify.com/track/3dd1fU9pusWGfo0yFEwPg2) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Lo Que Ella Necesita](https://open.spotify.com/album/0qdohDjeEdi0ytJlNjPckw) | 2:46 |
+| 8 | [Misión Imposible](https://open.spotify.com/track/72ECleNQu4fFio2zmVZFgk) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Un Mundo Real](https://open.spotify.com/album/2a34qq3IwDO9nBcqBCLlU5) | 4:41 |
+| 9 | [De Lejitos](https://open.spotify.com/track/5uJPN3dCdYpDV5pa9llRAT) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [De Lejitos](https://open.spotify.com/album/7lNO8DgAnX90iKx5xHDEbw) | 2:39 |
 | 10 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
 | 11 | [Billete Verde \- Remix](https://open.spotify.com/track/2L97B598y4utDrOox16h0M) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Los Internacionales Rayos De Mexico](https://open.spotify.com/artist/5fmCeiITnEcbYxrlmeyjc6) | [Billete Verde \(Remix\)](https://open.spotify.com/album/4NAfxnNREhY6klEaiMAQ2q) | 4:09 |
 | 12 | [El Malo \- Remix](https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Malo \(Remix\)](https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9) | 4:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 74 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 |
 | 75 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 |
 
-Snapshot ID: `MCwzY2MwOTUyMTRjOWEwMTY3NjJkZTNlODgxYzBmNDZkNDAzZTdmMmNm`
+Snapshot ID: `MCxiMGFlNzZlZjE3ODUzNzEyYzcwOTRmN2U5YWEwYmE4YTczMGM4MmIz`

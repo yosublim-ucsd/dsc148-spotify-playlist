@@ -1,13 +1,33 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Flo Milli & SZA",
-  "num_followers": 888982,
+  "num_followers": 889101,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWYyOWNiNDlmY2JiNTVlOTM5NWZjZGIwYjI2NDI2ZjVlNGMwYjEz",
+  "snapshot_id": "MCwzZmVmY2YxZTBkZGU2NGFhNThhYzE1Y2JjMDMxYTEzZTY1MjE2Mzll",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
     {
       "added_at": "2024-03-19 20:54:54",
       "album": {
@@ -81,20 +101,24 @@
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Von dutch",
-        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+        "name": "I LUV IT (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
+      "duration_ms": 174880,
+      "name": "I LUV IT (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -111,6 +135,22 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Money At",
+        "url": "https://open.spotify.com/album/5Qsme6TaDgmaiGHM3VCGtd"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 115862,
+      "name": "Money At",
+      "url": "https://open.spotify.com/track/1CO1DRM25EywKMUo1TdyeU"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -167,6 +207,22 @@
       "duration_ms": 146531,
       "name": "F\u039bSHION",
       "url": "https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/19nGr45kS0vRbuWeEnarRW"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -297,6 +353,22 @@
       "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "SOS",
@@ -311,6 +383,22 @@
       "duration_ms": 150720,
       "name": "Blind",
       "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -361,20 +449,20 @@
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -439,22 +527,6 @@
       "duration_ms": 238760,
       "name": "1 Thing",
       "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "yeaaa",
-        "url": "https://open.spotify.com/album/1Qgi155gfjdPrtV7xaauqB"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "yeaaa",
-      "url": "https://open.spotify.com/track/7LRCka2KbO2TylPOYdhASf"
     },
     {
       "added_at": "2023-12-01 16:51:32",
@@ -639,22 +711,6 @@
       "duration_ms": 222320,
       "name": "Show You Sum",
       "url": "https://open.spotify.com/track/2k5OxKbU1wAv12ynwbKYFS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -975,22 +1031,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -1139,22 +1179,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Rude Boy",
-      "url": "https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Super Freaky Girl",
         "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
       },
@@ -1171,22 +1195,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
       },
@@ -1199,6 +1207,22 @@
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "yeaaa",
+        "url": "https://open.spotify.com/album/1Qgi155gfjdPrtV7xaauqB"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "yeaaa",
+      "url": "https://open.spotify.com/track/7LRCka2KbO2TylPOYdhASf"
     },
     {
       "added_at": "2023-11-24 05:00:00",

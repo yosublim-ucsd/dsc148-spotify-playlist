@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 31202,
+  "2024-03-30": 31221,
   "date_first_scraped": "2022-06-02",
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
   "name": "This Is Carlos Y Jose",
@@ -503,7 +503,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 190333,
       "name": "El Gavilan De Aguaprieta",
       "url": "https://open.spotify.com/track/4hk3488nPDQS3btUXS2Xyq"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 176280,
       "name": "El Vengador de Federales",
       "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"

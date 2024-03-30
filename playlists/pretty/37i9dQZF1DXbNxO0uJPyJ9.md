@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,633 likes - 80 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,808 likes - 80 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 52 | [Boys Boys Boys \- Special Long Club Mix](https://open.spotify.com/track/0ZOh6uw3NMQYTmriUFNDh2) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Disco 80's Maxi Club Hits, Vol.2\. \(Remixes & Rarities\)](https://open.spotify.com/album/5DEp0sMkrB4qcc5hA5lrlZ) | 8:43 |
 | 53 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/449G2rWpLD93IEhoaVE3QA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Heart Of Glass](https://open.spotify.com/album/0p2ETkPfqNn7pUyDJHBjlO) | 5:50 |
 | 54 | [You Spin Me Round \(Like a Record\) \- Murder Mix](https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [That's The Way I Like It: The Best of Dead Or Alive](https://open.spotify.com/album/1FhVoVBXXXJuZr3GwdOgPS) | 8:01 |
-| 55 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
-| 56 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
+| 55 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
+| 56 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
 | 57 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [So80s Presents Sandra \- Curated By Blank & Jones](https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP) | 7:11 |
 | 58 | [Love](https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Daft](https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R) | 7:01 |
 | 59 | [Baker Street \- Extended Mix](https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Baker Street](https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW) | 5:11 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 66 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
 | 67 | [In The Heat Of The Night](https://open.spotify.com/track/5wYPhxYeWs6ij0nlmvMAq8) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [The Long Play](https://open.spotify.com/album/7HkN3j6dxCRKGXMduwfmzL) | 5:20 |
 | 68 | [Never Ending Story](https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Never Ending Story](https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD) | 5:20 |
-| 69 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
-| 70 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
+| 69 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
+| 70 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
 | 71 | [True Blue \- The Color Mix](https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 6:36 |
 | 72 | [Don't Look Any Further \- Original 12” M+M Mix](https://open.spotify.com/track/03qJBUtJvcKKqvsySHCJHi) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Don't Look Any Further \(Expanded Edition\)](https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk) | 5:23 |
 | 73 | [Thought You Were On My Side \- Extended Remix/European](https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 5:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Get Down On It \- Original 12" Extended Version](https://open.spotify.com/track/15K0cU9Fm55h3AAALKrc3v) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 6:05 |
 | 80 | [Change \- Extended Version](https://open.spotify.com/track/7KdSZ6AqceqaX3Y6tKSs0T) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 6:00 |
 
-Snapshot ID: `MCw1MWFmZjQzNTA5OGNmMGFjOWU5ZjdhM2IyMzhmZGI0OGI4Y2YwYzA3`
+Snapshot ID: `MCw1YzViZDE2Njg0NTRlMzRkZDY3ODAwOThiYjZiNWM3NmU2NTc4OTlh`

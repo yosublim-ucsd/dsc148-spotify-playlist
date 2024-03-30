@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 547330,
+  "2024-03-30": 547422,
   "date_first_scraped": "2022-04-14",
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
   "name": "Coffee + Chill",
@@ -17,6 +17,10 @@
         {
           "name": "Portair",
           "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "Driftwood Choir",
+          "url": "https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF"
         }
       ],
       "date_added": "2024-03-14",

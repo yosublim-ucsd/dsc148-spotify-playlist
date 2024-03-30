@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,208 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,205 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Noite de Paz](https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J) | [Noite de Paz](https://open.spotify.com/album/385673vVXabsOzy5GjDQzn) | 4:01 |
 | 50 | [A História de Cristo](https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz) | [7MUS](https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [\#TBT](https://open.spotify.com/album/53aePMus3r7215h43aChgx) | 3:32 |
 
-Snapshot ID: `MCw4OGZjYWExZGMxNzgzNmNmM2FhMzdjMWEwZmZkYjYyNzRkZGU3NTUx`
+Snapshot ID: `MCw0OGY1MGYwMTY4ODQxZmUwMTllZGFiZTljMjMwMzdkNzEwMzYzYjgy`

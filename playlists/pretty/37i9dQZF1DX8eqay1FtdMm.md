@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: DAVICHI\(다비치\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,457 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,951 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 73 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 74 | [Where Are We Now](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:43 |
 | 75 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 |
-| 76 | [Back In Love](https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Back In Love](https://open.spotify.com/album/5ZHvtBvK20KcEayo2MDQTQ) | 3:15 |
-| 77 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
-| 78 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
+| 76 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
+| 77 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
+| 78 | [Back In Love](https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Back In Love](https://open.spotify.com/album/5ZHvtBvK20KcEayo2MDQTQ) | 3:15 |
 | 79 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
 | 80 | [너를 위해](https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Story Of Two Years](https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt) | 4:06 |
 | 81 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 87 | [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 |
 | 88 | [Myo \(Cat\)](https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Myo \(Cat\)](https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT) | 3:37 |
 | 89 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
-| 90 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
-| 91 | [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 |
+| 90 | [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 |
+| 91 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
 | 92 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 |
 | 93 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 |
 | 94 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 |
 | 100 | [Journey](https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Journey](https://open.spotify.com/album/1uEb7pZr66xdSQcbfVVSX7) | 4:34 |
 
-Snapshot ID: `MCw4NjkzNjdjMmUyNzhlZTZjNDRkMjY4ODg4NmY5ZGViYWI2NDA0ZWQ2`
+Snapshot ID: `MCwzNTBlM2Y0MTdhMTdkNjA3ZTc5YmNmMWFhOTU5ZTg5NDBmM2VjMWQ2`

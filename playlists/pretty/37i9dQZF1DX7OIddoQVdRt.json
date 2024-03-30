@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 627369,
+  "num_followers": 627436,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw",
+  "snapshot_id": "MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -127,22 +127,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+        "name": "Azusa The Next Generation",
+        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
       },
       "artists": [
         {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
         }
       ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+      "duration_ms": 441546,
+      "name": "Every Praise - (album edit)",
+      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -171,18 +167,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Azusa The Next Generation",
-        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
       "artists": [
         {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 441546,
-      "name": "Every Praise - (album edit)",
-      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -731,18 +731,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        },
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
         }
       ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
+      "duration_ms": 251490,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -763,22 +767,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
       },
       "artists": [
         {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        },
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 251490,
-      "name": "Mansion",
-      "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "The Moment (Live)",
-        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "The Moment - Live",
-      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "I Got Out",
         "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 383552,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "The Moment (Live)",
+        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "The Moment - Live",
+      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 262124,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "You Kept Me",
         "url": "https://open.spotify.com/album/2CpcvaCDxcQ31XAP3zP5VD"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 323333,
       "name": "Better Days - Live",
       "url": "https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 262124,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
     },
     {
       "added_at": "2024-02-02 06:37:59",

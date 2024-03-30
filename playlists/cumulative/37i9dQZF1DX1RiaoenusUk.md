@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-118 songs - 7 hr 52 min
+119 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Cómo](https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Ya Lo Estoy Deseando](https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX) | 3:22 | 2023-02-17 |  |
 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 | 2023-08-25 |  |
 | [Debilidad](https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Dinastía](https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF) | [Espacios](https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6) | 2:58 | 2023-02-17 |  |
-| [Dizzy](https://open.spotify.com/track/2OzRdN6EUUfVBl7QACp6B1) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 5:37 | 2023-10-06 |  |
+| [Dizzy](https://open.spotify.com/track/2OzRdN6EUUfVBl7QACp6B1) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 5:37 | 2023-10-06 | 2024-03-30 |
 | [Dizzy](https://open.spotify.com/track/7MJ5y9Nk94jiRt9OfTqe3f) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/3raZcKrCjK3p09mhwHw52N) | 5:37 | 2023-02-17 | 2023-09-22 |
 | [Do U Want It?](https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:50 | 2023-02-17 |  |
 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 | 2023-02-17 |  |
@@ -94,6 +94,7 @@
 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 | 2023-02-17 |  |
 | [Papi ¿Dónde Está El Funk?](https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p) | [Los Tetas](https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS) | [Latin Funk All\-Stars](https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A) | 5:50 | 2023-02-17 |  |
 | [Para Ernesto](https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K) | [Marcelo Soler](https://open.spotify.com/artist/6RyrFvHJPFymCOzrfIyPdR), [Miguel Narvaez](https://open.spotify.com/artist/09lMweiqZ7U5McT0VqnLnO), [Nico Vera](https://open.spotify.com/artist/4P2ggHnAJsFCmzph1XpAL7) | [Para Ernesto](https://open.spotify.com/album/4tZc2ALthrdQKbO09arrs1) | 3:33 | 2023-02-17 | 2023-10-28 |
+| [Pertenecer](https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Pertenecer](https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T) | 3:27 | 2024-03-29 |  |
 | [Picante](https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH), [San Juan Project](https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi) | [Picante](https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4) | 3:43 | 2023-10-06 |  |
 | [Pick Up On Your Line](https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:46 | 2023-02-17 |  |
 | [Poppin](https://open.spotify.com/track/4y0BxbN4myQ0ty0mu0ZVty) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO), [Josefina Fiebelkorn](https://open.spotify.com/artist/5cTcXQ78LkQxxXNZcYyIiC), [Rojai](https://open.spotify.com/artist/2j6f7lxXOFnCcHVPcv9osR) | [Poppin](https://open.spotify.com/album/6NFHjrAmxBu1h3wqrZglVE) | 4:56 | 2023-02-17 |  |

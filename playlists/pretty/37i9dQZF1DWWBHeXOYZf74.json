@@ -1,13 +1,121 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Matt Champion",
-  "num_followers": 1327829,
+  "description": "Genre-less. Quality first always. Cover: Saya Gray",
+  "num_followers": 1327796,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDcyYzVhMzNhNzE2MGJjMmQwMGUyMDc2YTU1OWNmYWMwMGE4NjIy",
+  "snapshot_id": "MCwwOTI0NmYyOTQ1YTM0NmUyNWExYWM3ZmEyMmM1YzE1ZDllODJiNTQ3",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 211846,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Catching Chickens EP",
+        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Hell of A Ride",
+      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "QWERTY II",
+        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 289760,
+      "name": "2 2 BOOTLEG",
+      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Don't Check 4 Me",
+        "url": "https://open.spotify.com/album/45YCAdhDcais6gYe6cDIks"
+      },
+      "artists": [
+        {
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 148846,
+      "name": "Don't Check 4 Me",
+      "url": "https://open.spotify.com/track/3MJhp4duKazKhnp0Of1mom"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/7cXfZiLW7cRc0Yc00FG1du"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4nqlGW7mq3SAOLkz2LSJIh"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "AMAMA",
+        "url": "https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "AMAMA",
+      "url": "https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D"
+    },
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
@@ -23,6 +131,38 @@
       "duration_ms": 132960,
       "name": "Code Red",
       "url": "https://open.spotify.com/track/5TYo6eQvHe2AVIqskXxcss"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -43,22 +183,6 @@
       "duration_ms": 186550,
       "name": "Wind",
       "url": "https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Catching Chickens EP",
-        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Hell of A Ride",
-      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1301,22 +1425,6 @@
       "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Prove It To You",
-        "url": "https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Prove It To You",
-      "url": "https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Daydream Repeat",
@@ -1333,48 +1441,20 @@
       "url": "https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "4eva",
-        "url": "https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8"
+        "name": "Prove It To You",
+        "url": "https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Kingdom",
-          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 140933,
-      "name": "4eva",
-      "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/34m0cr4M2wEZrD17TdNnPn"
-      },
-      "artists": [
-        {
-          "name": "Bien et Toi",
-          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
-        },
-        {
-          "name": "Halima",
-          "url": "https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap"
-        }
-      ],
-      "duration_ms": 110842,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/46WV8PRXuffo5wdjUyBK9m"
+      "duration_ms": 200706,
+      "name": "Prove It To You",
+      "url": "https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1601,22 +1681,6 @@
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "what a place",
-        "url": "https://open.spotify.com/album/1sHRW6142tlZ9ksG2GyanA"
-      },
-      "artists": [
-        {
-          "name": "altrice",
-          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
-        }
-      ],
-      "duration_ms": 230163,
-      "name": "'ever do you want",
-      "url": "https://open.spotify.com/track/6EOhtoZa8JRw4fP7TkjOZ1"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "It's So Good",
@@ -1631,22 +1695,6 @@
       "duration_ms": 278518,
       "name": "It's So Good",
       "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Matt's Missing",
-        "url": "https://open.spotify.com/album/77l6i9n9IrXM8jTGFI7byW"
-      },
-      "artists": [
-        {
-          "name": "Matt Martians",
-          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Perfect Warning",
-      "url": "https://open.spotify.com/track/4trl2Rd73t04VMnMDKbodO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1717,26 +1765,6 @@
       "url": "https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Ezekiel's Wheel",
-        "url": "https://open.spotify.com/album/1zy6nQsdVNRXPFRsbW2Q3M"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Ezekiel's Wheel",
-      "url": "https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0"
-    },
-    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "When Will We Land?",
@@ -1767,42 +1795,6 @@
       "duration_ms": 247800,
       "name": "Frisco Blues",
       "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Ring of Past",
-        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 201523,
-      "name": "Ring of Past",
-      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "I'm Sorry (ft. Lous and The Yakuza)",
-        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 187282,
-      "name": "I'm Sorry (ft. Lous and The Yakuza)",
-      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     }
   ],
   "unique_name": "POLLEN",

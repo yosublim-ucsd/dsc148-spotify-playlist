@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2024-03-18 | 2024-03-29 |
+| [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2024-03-18 |  |
 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/6JmSfynzr6E0QllQZNEXEb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:39 | 2024-03-18 |  |
 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 | 2024-03-18 |  |
 | [Be \- Acoustic](https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Be \(Acoustic\)](https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f) | 3:55 | 2024-03-18 |  |
@@ -48,6 +48,6 @@
 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2024-03-18 |  |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/1q1WpDkeFN3y9FlwZ1f440) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 3:42 | 2024-03-23 |  |
 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 | 2024-03-18 |  |
-| [Would That I](https://open.spotify.com/track/37zuIvk4KBkAxxLJsxJaHq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:28 | 2024-03-19 |  |
+| [Would That I](https://open.spotify.com/track/37zuIvk4KBkAxxLJsxJaHq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:28 | 2024-03-19 | 2024-03-30 |
 
 \*This playlist was first scraped on 2024-03-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,136 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,232 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 25 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
 | 26 | [Headcloud \(Demo\)](https://open.spotify.com/track/6DxQYU5IZx8VDs59g5NEEk) | [Will Blume](https://open.spotify.com/artist/5p3LpgVymn22unmV91hhtX) | [Skylights](https://open.spotify.com/album/5PAFIbFryYtRfYZ8GepWm6) | 1:33 |
 | 27 | [Hollow](https://open.spotify.com/track/2Kw71zy2BU9JbtYLjnKZGK) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [Everything Is Bigger Than Me](https://open.spotify.com/album/3bFgZ6CdBmUoDyTJnxGwfd) | 3:45 |
-| 28 | [Follow the Sound of My Voice](https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM) | 5:50 |
+| 28 | [Follow the Sound of My Voice](https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu) | 5:50 |
 | 29 | [I Can't Dream Anymore](https://open.spotify.com/track/0bZN26ShHJhG1NERwNs7LP) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 3:12 |
 | 30 | [In Your Hands](https://open.spotify.com/track/2wq5tNWrGnqtLOhmmI1g4K) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [In Your Hands](https://open.spotify.com/album/3qgNnYfoYLmt9a8Uduru7d) | 2:51 |
 | 31 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 89 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 90 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 
-Snapshot ID: `MCw0MjFhMzMwZjJlYjlhMTM4ODUzMmQ2ZTc5NjVhMzY3YzMxYmJhMzg4`
+Snapshot ID: `MCw0MjNiNmIzNDc5NTBmNGYyMWZmOTYzMzFhYjI0NTVhZmQ0ZDkxNjY4`

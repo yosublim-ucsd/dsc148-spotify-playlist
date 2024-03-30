@@ -1,8 +1,8 @@
 {
-  "2024-03-29": 45012,
+  "2024-03-30": 45032,
   "date_first_scraped": "2022-05-09",
-  "description": "rap tristi per chi ha un cuore cos\u00ec \ud83d\udc94 (in cover, chiello)",
-  "name": "rap triste",
+  "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
+  "name": "ragazzo triste",
   "tracks": [
     {
       "album": {
@@ -1933,7 +1933,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 92398,
       "name": "Incancellabili",
       "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 137008,
       "name": "ME & YOU",
       "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"

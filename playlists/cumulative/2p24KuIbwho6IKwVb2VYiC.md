@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Rezz
 
-161 songs - 8 hr 24 min
+164 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,12 +100,14 @@
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-02-20 |  |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-09 |  |
 | [Not Even Love](https://open.spotify.com/track/65s9dLrylbHp60IYIcUZEz) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Not Even Love](https://open.spotify.com/album/3tjAvXx7DnY6tYkzcZ4wXc) | 4:05 | 2024-03-26 |  |
+| [Now Or Never](https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:59 | 2024-03-29 |  |
 | [Now Or Never](https://open.spotify.com/track/34xBhUgjCTUxe1BuypLL0X) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Now Or Never](https://open.spotify.com/album/5Z4uXurjwmsYr59E1quhV6) | 3:27 | 2023-10-27 | 2023-11-25 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-10-27 | 2024-02-27 |
 | [On & On \(Again\) \- Edit](https://open.spotify.com/track/1tYwSPYzoCZLQKbFbvt0fS) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [On & On \(Again\) \[Edit\]](https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u) | 3:15 | 2023-10-27 | 2023-11-25 |
 | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 | 2023-11-10 |  |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-01-26 |  |
 | [Out Of My Head](https://open.spotify.com/track/3L7RqK0wfTfgRJbefYcKeM) | [The Banker Boys](https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Out Of My Head](https://open.spotify.com/album/1fswBzR4WGga1p5UbI8tr7) | 2:16 | 2023-10-27 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 |  |
 | [Paradise](https://open.spotify.com/track/7s3uaWJcIvGMo0MswS3l5A) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Back To Life](https://open.spotify.com/album/1J3os6fg6lvIoEC6czG8EY) | 3:23 | 2023-10-27 |  |
 | [PARALYZED \- TC/TC](https://open.spotify.com/track/0MD5dh34wT3D599gkS2VLR) | [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [PARALYZED \(TC/TC\)](https://open.spotify.com/album/350xyy5gGPc8ibqkgMOsMr) | 4:56 | 2024-03-15 |  |
 | [Party Girl](https://open.spotify.com/track/4yBCo06OTulX4uBdDtKYrr) | [Our Anthem](https://open.spotify.com/artist/0yvdg5HZnoTbaawqVloMZl) | [Party Girl](https://open.spotify.com/album/4SgOSWTYzsSA78jKqFIRpg) | 3:22 | 2024-03-04 |  |
@@ -169,5 +171,6 @@
 | [You Can Have It](https://open.spotify.com/track/1fx1ptytiaRIdnGLt6feeQ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Victor Flash](https://open.spotify.com/artist/1IEF03NP5cb0XuOBpfxZXg) | [You Can Have It](https://open.spotify.com/album/1oYqMHHBkuar0ScgiJiPmQ) | 3:52 | 2023-12-19 | 2024-01-20 |
 | [You Don't Even Know Me](https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [You Don’t Even Know Me](https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn) | 2:31 | 2023-11-17 |  |
 | [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 | 2024-03-01 |  |
+| [Zig Zag](https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Zig Zag](https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z) | 4:14 | 2024-03-29 |  |
 
 \*This playlist was first scraped on 2023-11-08. Prior content cannot be recovered.

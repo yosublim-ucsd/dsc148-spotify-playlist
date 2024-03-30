@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,003 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,068 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 17 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
 | 18 | [hand crushed by a mallet](https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:06 |
 | 19 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 |
-| 20 | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN) | 2:27 |
-| 21 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 |
+| 20 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 |
+| 21 | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN) | 2:27 |
 | 22 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
 | 23 | [stupid horse](https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:01 |
 | 24 | [heather](https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:51 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 46 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
 | 47 | [i hate it here](https://open.spotify.com/track/2raN4Xp2bY3MAeU0OBx9Bg) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/0zCWwURtHzZhsNjg4gziIU) | 2:37 |
 | 48 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
-| 49 | [IRIS](https://open.spotify.com/track/5ruHCGUNXz9q9fGagRo9TO) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [mortal](https://open.spotify.com/album/2O0IaA0jv0zsu0BW7qm4CM) | 1:42 |
-| 50 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
+| 49 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
+| 50 | [IRIS](https://open.spotify.com/track/5ruHCGUNXz9q9fGagRo9TO) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [mortal](https://open.spotify.com/album/2O0IaA0jv0zsu0BW7qm4CM) | 1:42 |
 | 51 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
 | 52 | [detest me](https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [detest me](https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV) | 1:58 |
 | 53 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/2eqJwRnJ63ufvVS7salI03) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/0L53GIjCJxQXYeI3us0rgH) | 1:27 |
 | 75 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
 
-Snapshot ID: `MCwxNmJmZGI1OWM2OGU5MWVjYjI5Nzg0NjFjYTI5N2EwMTMwM2I4N2Nh`
+Snapshot ID: `MCxmOWM2YmQ0OTNhY2ZjNjllNWQyMjhkYjE1YjA2ZmJjNTc0ODEwMmZk`

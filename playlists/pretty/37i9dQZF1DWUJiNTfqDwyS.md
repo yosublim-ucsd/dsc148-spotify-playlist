@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,844 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,944 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 23 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 24 | [In the Air Tonight](https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Recoil \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G) | 4:33 |
 | 25 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
-| 26 | [Sail](https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Winter Kills \(Deluxe Version\)](https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P) | 4:06 |
-| 27 | [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 |
+| 26 | [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 |
+| 27 | [Sail](https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Winter Kills \(Deluxe Version\)](https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P) | 4:06 |
 | 28 | [Summer Breeze](https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses](https://open.spotify.com/album/127mCJhPsHAB33rOYybK04) | 4:49 |
 | 29 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
 | 30 | [Dirty Diana](https://open.spotify.com/track/2fKkgRY3RtqsTg2TB33qeW) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Smokin' Hearts & Broken Guns \(Deluxe Edition\)](https://open.spotify.com/album/1xZ0Fd1RXbeXrHGsBKd8oH) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 49 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
 | 50 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
 
-Snapshot ID: `MCwzYjUxNGE1Zjc4MjBkMmE0OGE1YmEyYWFiNjAxNjBhNTg4NmU3ZmY1`
+Snapshot ID: `MCxkZDMyYmJhMjgzOGFhM2VhMzAzZWRiODFiZWRiYWViYTZmNDlmZmI0`

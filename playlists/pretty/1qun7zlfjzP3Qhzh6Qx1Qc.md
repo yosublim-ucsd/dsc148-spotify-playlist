@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyoncé
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,978 likes - 60 songs - 3 hr 22 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,979 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
+| 1 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 2 | [Fiddle in the Band](https://open.spotify.com/track/5hkViySAjn0tMhLocH7ukQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Fiddle in the Band](https://open.spotify.com/album/449F70NfANoQxARzdu8EaD) | 2:52 |
 | 3 | [Gettin' Older](https://open.spotify.com/track/4x3oHY9XeuQ6TB3X0wK1gL) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Young Love & Saturday Nights](https://open.spotify.com/album/0TJoGKCktudahrtegfmmgD) | 3:37 |
 | 4 | [Thing That Brought Me Here \- Truck Song](https://open.spotify.com/track/1F07B71VUvC24wssm7fD7K) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Thing That Brought Me Here \(Truck Song\)](https://open.spotify.com/album/4UXNmBNlfYeG1ZtByhi4Em) | 3:49 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 8 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 |
 | 9 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 10 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 |
-| 11 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 |
+| 11 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:47 |
 | 12 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 |
 | 13 | [Damn Near Normal](https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Damn Near Normal](https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7) | 3:44 |
 | 14 | [Double Down](https://open.spotify.com/track/7LvbLxitSFgQYfrXResa6k) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Double Down](https://open.spotify.com/album/5l5yGchZei9NrlijF7DHtn) | 2:55 |

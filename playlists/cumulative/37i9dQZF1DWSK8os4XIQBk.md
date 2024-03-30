@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> The biggest hits in country music\. Cover: Zach Bryan & Kacey Musgraves
+> The biggest hits in country music\. Cover: Dasha
 
-641 songs - 1 day 10 hr 44 min
+642 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Come Back As A Country Boy](https://open.spotify.com/track/5XAlARWvlqd79Wp835MFlS) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:41 | 2021-12-31 | 2022-08-20 |
 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 | 2023-04-07 | 2023-09-16 |
 | [Come On With It](https://open.spotify.com/track/670avKEDoIrvyoLOgNJF7m) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 2:37 | 2022-06-17 | 2022-12-31 |
+| [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 | 2024-03-29 |  |
 | [Convertible](https://open.spotify.com/track/1p6JfMl25HOsGhdAGGaLHo) | [Kelly Prescott](https://open.spotify.com/artist/70skqWNNxbe1l0oVHVQB6O) | [Convertible](https://open.spotify.com/album/04CmrAsBTjx5n0PM3PBw7w) | 3:05 | 2022-06-03 | 2022-06-18 |
 | [Cool About It](https://open.spotify.com/track/6PGNiIVGzWYTOaGXPoL9pV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Heart On My Glass](https://open.spotify.com/album/0x5tWCQaw2ZGitlV8EdVN1) | 3:29 | 2021-12-31 | 2022-05-20 |
 | [Corralling the Blues](https://open.spotify.com/track/1kloBNF9c8Jwc7AIC1snAa) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82) | 2:27 | 2023-11-17 | 2024-03-02 |
@@ -197,7 +198,7 @@
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 | 2022-03-04 | 2022-10-08 |
 | [Give Her That](https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Give Her That](https://open.spotify.com/album/4JRl2IAzcpYlvjX6DnD4wb) | 3:21 | 2023-08-11 | 2023-09-23 |
 | [Give'r](https://open.spotify.com/track/7DJFelbY6nqYjCTUkV2n5R) | [The Road Hammers](https://open.spotify.com/artist/1JEhLfoNDGbqu40txdS8go) | [Give'r](https://open.spotify.com/album/5AazCnOPn74cgUR3971JR5) | 2:32 | 2021-12-31 | 2022-02-26 |
-| [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 | 2024-01-19 |  |
+| [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 | 2024-01-19 | 2024-03-30 |
 | [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 | 2022-12-30 | 2023-01-28 |
 | [Gold](https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gold](https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI) | 2:47 | 2022-12-30 | 2023-02-25 |
 | [Good and Gone](https://open.spotify.com/track/5le2qyZpf6XHdHCgwdFUiZ) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Good and Gone](https://open.spotify.com/album/0mLeqPvkcUgwPj6GbkPjg1) | 3:18 | 2022-08-26 | 2022-12-31 |
@@ -533,7 +534,7 @@
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-30 | 2023-02-11 |
 | [Tequila Little Time](https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:27 | 2021-12-31 | 2022-02-19 |
 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 | 2023-06-09 | 2024-01-20 |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-12 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-12 |  |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-09 | 2023-06-24 |
 | [That's The Life](https://open.spotify.com/track/577NtZVo56fgRNkfKxaMGo) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [That's The Life](https://open.spotify.com/album/5TJ9kbl0BTGth0MEAbotNk) | 2:56 | 2022-02-28 | 2022-04-29 |
 | [That's What Tequila Does](https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:09 | 2022-12-30 | 2023-05-20 |

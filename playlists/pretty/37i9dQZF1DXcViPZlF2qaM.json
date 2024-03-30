@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 57924,
+  "num_followers": 57953,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDVhMGJiNzRlZjRlM2Y3ZGYwNGU4MTE5M2EzNWNhMjQzM2RjMTA5",
+  "snapshot_id": "MCw1NWU4NDYyY2VkMGEyODdhYWExMWE4NTkzYTk5ZGE3YWEzYmQ0MDYw",
   "tracks": [
     {
       "added_at": "2021-10-16 00:59:30",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
-    },
-    {
       "added_at": "2022-07-15 18:11:06",
       "album": {
         "name": "La Cura",
@@ -955,6 +939,22 @@
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
       "added_at": "2021-10-16 00:59:30",

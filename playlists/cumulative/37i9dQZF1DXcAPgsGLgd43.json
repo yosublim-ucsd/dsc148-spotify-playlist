@@ -133,6 +133,28 @@
     },
     {
       "album": {
+        "name": "Asi Lo Grita",
+        "url": "https://open.spotify.com/album/3HHmPnky6PZCgIqZpSiY2a"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "Asi Lo Grita",
+      "url": "https://open.spotify.com/track/5eXAJrSoUOx9LfNDm2svO7"
+    },
+    {
+      "album": {
         "name": "Ay",
         "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
       },
@@ -728,7 +750,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 206962,
       "name": "Canutito",
       "url": "https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys"
@@ -1741,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "Frikitona (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191718,
+      "name": "Frikitona - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY"
+    },
+    {
+      "album": {
         "name": "Frisky In Fortaleza EP",
         "url": "https://open.spotify.com/album/3IO6R1UgxXAWK3lUuwGkof"
       },
@@ -2014,7 +2058,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170403,
       "name": "La Bulla",
       "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
@@ -2126,6 +2170,28 @@
       "duration_ms": 176250,
       "name": "La La La",
       "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
+    },
+    {
+      "album": {
+        "name": "La Negra",
+        "url": "https://open.spotify.com/album/5w7kJWxWIDLatvruhQh6qn"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Justo Valdes",
+          "url": "https://open.spotify.com/artist/0t4tk9VrtbCUF4CNyjPDbj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "La Negra",
+      "url": "https://open.spotify.com/track/5V2emIkSLAecBdvMebSUno"
     },
     {
       "album": {
@@ -2734,7 +2800,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
@@ -2990,6 +3056,32 @@
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+    },
+    {
+      "album": {
+        "name": "Pelota",
+        "url": "https://open.spotify.com/album/5fIhFcKkwc1TGivrJD5vdU"
+      },
+      "artists": [
+        {
+          "name": "DJ S.K.T",
+          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
+        },
+        {
+          "name": "Pure Cold",
+          "url": "https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI"
+        },
+        {
+          "name": "Shaq Rayes",
+          "url": "https://open.spotify.com/artist/2PgjJYtkSxJPn6A0jmLerc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6e1n2hJalQwUKjwosm5iwZ"
     },
     {
       "album": {
@@ -4062,7 +4154,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195826,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"

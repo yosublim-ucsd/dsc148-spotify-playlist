@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA">Delight Munachy</a>
 
-138 songs - 11 hr 44 min
+139 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 |  |
 | [Ope Ye Jesu](https://open.spotify.com/track/2fptgsFqUc5XQ0LDEtWN0t) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Oluwa Ni: The Spontaneous Worship](https://open.spotify.com/album/2tUJuV7qWcURWHBjhEKegt) | 6:28 | 2024-01-12 | 2024-03-20 |
 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 | 2023-12-01 | 2024-01-06 |
-| [Pain To Praise](https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Pain To Praise](https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH) | 3:45 | 2024-02-02 |  |
+| [Pain To Praise](https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Pain To Praise](https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH) | 3:45 | 2024-02-02 | 2024-03-30 |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-09-15 | 2024-03-16 |
 | [PRAISE YOU ANYWHERE](https://open.spotify.com/track/6PR1HxI09SL1O2itnjBW12) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [PRAISE YOU ANYWHERE](https://open.spotify.com/album/5rDIQLqVrdykpRWD2PwKME) | 3:35 | 2023-09-15 | 2024-03-16 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-09-15 | 2024-03-16 |
@@ -123,6 +123,7 @@
 | [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 | 2023-09-15 | 2024-03-16 |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2023-09-15 | 2024-03-16 |
 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 | 2024-01-26 |  |
+| [The Great Romance](https://open.spotify.com/track/5FWnDevRoFJVdXlfITYhX4) | [Eri Ife](https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg) | [Centre\(d\)](https://open.spotify.com/album/1n8WZO8hiBkVAOQnvIjuwo) | 3:58 | 2024-02-16 |  |
 | [The Ground We Stand On](https://open.spotify.com/track/1iSVjVNGUwNDT8mFfqBMr5) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 8:32 | 2024-01-12 | 2024-03-26 |
 | [The Word](https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [The Word](https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9) | 2:52 | 2024-02-02 | 2024-03-20 |
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 |  |

@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> now you're talkin' 'bout me too 📷: Zoe Ko
+> all the girls are getting in my car 📷: Maude Latour
 
-1,996 songs - 4 day 4 hr 38 min
+2,000 songs - 4 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-01-14 | 2022-10-29 |
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2021-06-09 | 2022-07-29 |
 | [A\-O\-K \- with 24kGoldn](https://open.spotify.com/track/7GZXPa81LzAgzmVg9G6BUM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [A\-O\-K \(with 24kGoldn\)](https://open.spotify.com/album/4z9gPo4RNhMWiZvBv0JZTA) | 3:01 | 2021-09-10 | 2022-01-08 |
+| [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-03-29 |  |
 | [Acid Dreams](https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Acid Dreams](https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk) | 3:03 | 2020-06-29 | 2021-11-10 |
 | [Adult](https://open.spotify.com/track/4g6gocnIEurcIFvjkDctUy) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Adult](https://open.spotify.com/album/3yE61uruSJMiR3z09HCndH) | 3:04 | 2022-05-13 | 2022-06-07 |
 | [affection](https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE) | 3:55 | 2021-03-17 | 2021-11-20 |
@@ -520,7 +521,7 @@
 | [Elephants](https://open.spotify.com/track/0cQBcNfHjRQ6lP1yQFGsjL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Elephants](https://open.spotify.com/album/0lsGEjeoUpw5bhjbloBqaa) | 2:31 | 2019-05-26\* | 2019-08-13 |
 | [Elevator](https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Elevator](https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC) | 2:45 | 2022-10-21 | 2022-10-29 |
 | [Emotional](https://open.spotify.com/track/7stcGiG3ssPOHa7WZK7flD) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Emotional](https://open.spotify.com/album/4OY86d4jBbtYxj2Yf6IhRo) | 3:12 | 2019-05-26\* | 2019-08-13 |
-| [emotional capacity](https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [emotional capacity](https://open.spotify.com/album/3RMN6pSEmOx2Z1ZtA6qnLn) | 3:14 | 2024-02-23 |  |
+| [emotional capacity](https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [emotional capacity](https://open.spotify.com/album/3RMN6pSEmOx2Z1ZtA6qnLn) | 3:14 | 2024-02-23 | 2024-03-30 |
 | [Encinitas](https://open.spotify.com/track/4tO2Ol08xzay6zcfhDKpuN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Encinitas](https://open.spotify.com/album/6e9X7ZNcY6gUwwhZdUQl9Z) | 2:51 | 2021-07-06 | 2022-09-03 |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-10-28 | 2022-12-24 |
 | [End of an Era](https://open.spotify.com/track/17XMzRKnVQeqj8119wRuEs) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [End of an Era](https://open.spotify.com/album/2tJiKcynuvgwJIvt6tSaRb) | 3:09 | 2023-10-06 | 2024-03-09 |
@@ -1049,6 +1050,7 @@
 | [Limelight](https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Limelight](https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId) | 3:00 | 2023-07-14 | 2023-08-11 |
 | [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 | 2022-05-20 | 2023-04-29 |
 | [Line](https://open.spotify.com/track/6qEk7zRk98ripxgNOj9nue) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/42g6BkT5N8xmRiwP1UtNjK) | 3:19 | 2023-06-30 | 2023-07-02 |
+| [LIPS](https://open.spotify.com/track/6KWkRbb8Lh2K44MnTxdhuY) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0) | [LIPS](https://open.spotify.com/album/58WDcinKOBr7xzCJ2OnO9R) | 3:20 | 2024-03-29 |  |
 | [Little Life](https://open.spotify.com/track/7neB4qd6tZxWoSOwaelq9s) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Little Life](https://open.spotify.com/album/20EydxvdB13ippveWbHUUo) | 2:44 | 2023-03-18 | 2023-03-25 |
 | [little miss misogyny](https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [little miss misogyny](https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS) | 2:27 | 2023-12-01 |  |
 | [Little Omens](https://open.spotify.com/track/4odmvpPZ34WahZ7XDQdf2X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens](https://open.spotify.com/album/0ss7qXUWf8vgd4GmDy3725) | 3:12 | 2023-06-30 | 2023-07-15 |
@@ -1129,6 +1131,7 @@
 | [Mars](https://open.spotify.com/track/7Km5QlfgnM75S04D1YgQRE) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Mars](https://open.spotify.com/album/3SRUBIc8AS3JX5tE8ePPvv) | 2:43 | 2023-04-22 | 2023-04-30 |
 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 | 2022-11-19 |
 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 | 2024-02-09 |  |
+| [maybe she was the one](https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [SUPERNOVA](https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d) | 2:45 | 2024-03-29 |  |
 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-06-30 | 2023-07-31 |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 |  |
 | [Meet You in Hell](https://open.spotify.com/track/2xdye2lhDblrS05XTHgBcb) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Meet You in Hell](https://open.spotify.com/album/5kD3hBP2KPEx4jLlugYVjo) | 3:07 | 2022-10-28 | 2023-01-28 |
@@ -1201,7 +1204,7 @@
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-03-14 | 2021-08-28 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-18 | 2022-05-07 |
 | [Napkins](https://open.spotify.com/track/077ULIWZuzfn7YWJl8s01U) | [Tony Ferrari](https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T) | [Napkins](https://open.spotify.com/album/6lQ6RVsg9TiaXuV3a4llw9) | 2:34 | 2021-08-19 | 2021-10-13 |
-| [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 |  |
+| [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 | 2024-03-30 |
 | [Narcissistic](https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Narcissistic](https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr) | 2:50 | 2024-01-26 |  |
 | [Nasty](https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Nasty](https://open.spotify.com/album/0fvYSWu3eHfBdnFEFN4Md5) | 2:51 | 2022-06-24 | 2022-07-29 |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:41 | 2022-06-17 | 2022-09-03 |
@@ -1215,7 +1218,7 @@
 | [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 | 2022-11-11 | 2023-03-04 |
 | [Never Let You Go](https://open.spotify.com/track/6H15f8zwZSiFE1iseSvkLT) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Never Let You Go](https://open.spotify.com/album/29aFzMPjs687GKSJCPLfNI) | 3:47 | 2019-09-27 | 2020-01-16 |
 | [Never Liked Your Name](https://open.spotify.com/track/39MUpuBCpv7MkfBLKcNqV1) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Never Liked Your Name](https://open.spotify.com/album/2medAu4XBQnXVMtsgX4EAs) | 2:20 | 2023-08-25 | 2023-09-02 |
-| [Never Need Me](https://open.spotify.com/track/5cZgnG4VGLav8o8m4tPdqE) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB) | 3:25 | 2024-03-15 |  |
+| [Never Need Me](https://open.spotify.com/track/5cZgnG4VGLav8o8m4tPdqE) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB) | 3:25 | 2024-03-15 | 2024-03-30 |
 | [Never Seen the Rain](https://open.spotify.com/track/2grAr8pWMuLWn8ZYEE9wDV) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen the Rain](https://open.spotify.com/album/1BYByciKxjYwhRSrWlEjWu) | 3:20 | 2019-07-27 | 2021-03-16 |
 | [Never the Same](https://open.spotify.com/track/0nXqnXFlnJwjhXDTbZDuav) | [Where is Maps](https://open.spotify.com/artist/6jqQfGlwW8i3TGBX6SuwuN) | [Never the Same](https://open.spotify.com/album/1BhAfbrBL70wyXnJNIEAfL) | 3:27 | 2019-12-08 | 2021-01-21 |
 | [Never Too Young](https://open.spotify.com/track/2ViB8ZYP0Tmbje2eF0f67s) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:39 | 2022-09-09 | 2022-09-26 |
@@ -1385,7 +1388,7 @@
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-09-03 |
 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 | 2023-06-17 |
 | [Postmates](https://open.spotify.com/track/1RtPogfTYqi4r4CUP715fA) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Postmates](https://open.spotify.com/album/5OfvjKaTnPrWanUVC2mjix) | 2:20 | 2021-02-23 | 2021-09-17 |
-| [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 | 2024-02-23 |  |
+| [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 | 2024-02-23 | 2024-03-30 |
 | [Prescription](https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Prescription](https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo) | 3:33 | 2023-05-12 | 2024-01-05 |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/7uvbgJNZV2lDa7p9AWmJv1) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pressure Makes Diamonds](https://open.spotify.com/album/2Er4Xcq9U8ts068V6w1EM6) | 2:41 | 2022-06-10 | 2022-07-16 |
 | [Pretend](https://open.spotify.com/track/77g8iBbVheVvdXggjAZuEa) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Pretend](https://open.spotify.com/album/0GpE4hLxKxYFP9nLTix129) | 2:54 | 2019-05-26\* | 2021-05-18 |
@@ -1816,6 +1819,7 @@
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2021-02-14 | 2022-01-08 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 |  |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-09-03 |
+| [Too Slow](https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Too Slow](https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7) | 2:04 | 2024-03-29 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-11-11 |  |
 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 | 2022-07-22 | 2022-09-17 |
 | [Touch](https://open.spotify.com/track/57v4cMu70Wx4oG9rFp2lMq) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Touch](https://open.spotify.com/album/2DRNNOlRydc4XOcKfkTmOE) | 3:32 | 2020-05-23 | 2021-11-10 |

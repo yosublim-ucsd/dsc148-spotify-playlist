@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 28878,
+  "2024-03-30": 28902,
   "date_first_scraped": "2023-09-29",
   "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Ocevne",
   "name": "le miel",
@@ -902,6 +902,24 @@
     },
     {
       "album": {
+        "name": "\u00c9t\u00e9 sans fin",
+        "url": "https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Incompris",
+      "url": "https://open.spotify.com/track/1uD6NA6JPrzPY2PSZm0XZO"
+    },
+    {
+      "album": {
         "name": "J'apaise",
         "url": "https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E"
       },
@@ -975,6 +993,24 @@
       "duration_ms": 211408,
       "name": "Je t'ai cherch\u00e9",
       "url": "https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60"
+    },
+    {
+      "album": {
+        "name": "Juste une nuit",
+        "url": "https://open.spotify.com/album/1aosCqTLZRTo9BNLzwmwQI"
+      },
+      "artists": [
+        {
+          "name": "Iris Aeria",
+          "url": "https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161922,
+      "name": "Juste une nuit",
+      "url": "https://open.spotify.com/track/1HhJWZFlb9VJi3V5RCu4lM"
     },
     {
       "album": {
@@ -1666,6 +1702,28 @@
     },
     {
       "album": {
+        "name": "PRETTY BABY",
+        "url": "https://open.spotify.com/album/7wQORrQHcS4IhzbFU3LRA6"
+      },
+      "artists": [
+        {
+          "name": "Jadana\u00eb",
+          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
+        },
+        {
+          "name": "Gaby",
+          "url": "https://open.spotify.com/artist/7LlIOJgT58BCUb5YoMC42w"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194656,
+      "name": "PRETTY BABY",
+      "url": "https://open.spotify.com/track/1X9w07ZCQU1WZFOnOiD07s"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9datrice",
         "url": "https://open.spotify.com/album/6wftxblgo2IdoUoVDLzOfj"
       },
@@ -2079,7 +2137,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 179095,
       "name": "Surface",
       "url": "https://open.spotify.com/track/6q1V1oYiZsRtenvhdghdgz"
@@ -2259,7 +2317,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 160186,
       "name": "Tu sais que",
       "url": "https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7"
@@ -2429,7 +2487,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 205488,
       "name": "Violence & Po\u00e9sie",
       "url": "https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1"

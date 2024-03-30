@@ -4569,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "HI-VOLTAGE",
+        "url": "https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "HI-VOLTAGE",
+      "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
+    },
+    {
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },

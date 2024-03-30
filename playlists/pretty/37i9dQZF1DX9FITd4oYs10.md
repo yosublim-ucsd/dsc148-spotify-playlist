@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,945 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,943 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Estilo Vagabundo](https://open.spotify.com/track/4gOg1djXQH0rZ78ObIQJWX) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kamila CDD](https://open.spotify.com/artist/6agIzaw50omhzuG1kSI0QX) | [Falcão o Bagulho É Doido](https://open.spotify.com/album/0k0ux6tpv66BnpjcdhqPig) | 5:00 |
 | 60 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 |
 
-Snapshot ID: `MCxiMGM1N2QyMjE1YWUxODY5OGQyOGQ4NDk1Y2M2ZjU3MzExZTZmYzQ0`
+Snapshot ID: `MCwxZWYyNWIzNTkyZTQ1ZWRjYTNlMDcyMjAxNjVjMTI3NTdhMTI2MmRl`

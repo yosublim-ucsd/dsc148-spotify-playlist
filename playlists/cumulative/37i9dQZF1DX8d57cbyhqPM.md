@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: SenSey'
 
-355 songs - 21 hr 49 min
+356 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Made in Congo](https://open.spotify.com/track/7soc4QPUnlZYfMgisPe6Cg) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Made in Congo](https://open.spotify.com/album/4beChSKY6Kus1FUWc5Iazj) | 2:14 | 2023-12-01 | 2024-01-27 |
 | [Mais](https://open.spotify.com/track/4EzTZrPNxui7ovuaCixG3a) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Mais](https://open.spotify.com/album/6SkQeNEaK0TRG2XDclaHUG) | 3:23 | 2022-10-28 | 2023-04-15 |
 | [Makila : Wablé](https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Makila : Wablé](https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap) | 3:45 | 2023-11-17 |  |
-| [Malaika](https://open.spotify.com/track/6csQnSD9lL1E59e1uxHVsW) | [Samy palila](https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL) | [Malaika](https://open.spotify.com/album/325Pr3MumEkWH29Q2RlXt7) | 3:06 | 2024-01-05 |  |
+| [Malaika](https://open.spotify.com/track/6csQnSD9lL1E59e1uxHVsW) | [Samy palila](https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL) | [Malaika](https://open.spotify.com/album/325Pr3MumEkWH29Q2RlXt7) | 3:06 | 2024-01-05 | 2024-03-30 |
 | [Malele](https://open.spotify.com/track/0huJouuP2ufEmxbTulhdXF) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Menga Waku](https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3) | [Archeology](https://open.spotify.com/album/6MGRxSMhxXYkB1yEqb6Z3h) | 3:56 | 2023-02-24 | 2023-03-18 |
 | [Malele](https://open.spotify.com/track/4SiRdXcs6gAfWaaGJwXvnq) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Menga Waku](https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3) | [Malele](https://open.spotify.com/album/0YgwuVtiEGQVpf4V8gJR2G) | 3:56 | 2022-09-23 | 2023-02-25 |
 | [Malembe](https://open.spotify.com/track/3vbx5h7ewP0FC342PIp1vV) | [Kapeta](https://open.spotify.com/artist/2lYw10lFvqp0OfB4Myn93D) | [Malembe](https://open.spotify.com/album/4snIDrzUugLqPucrFOHy9j) | 2:33 | 2023-11-17 | 2023-12-16 |
@@ -278,6 +278,7 @@
 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-09-29 | 2023-12-08 |
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2023-12-01 |  |
 | [Pieteron](https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6) | [Fulu Miziki](https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu) | [Pieteron](https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG) | 3:22 | 2023-11-24 | 2024-01-05 |
+| [PILON](https://open.spotify.com/track/50i2I2eHuKp75PfmrbFGqW) | [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4), [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg) | [PILON](https://open.spotify.com/album/2OmNSawCtKwg9S9RMG6KmC) | 3:05 | 2024-03-29 |  |
 | [PISTOLET](https://open.spotify.com/track/794xlzZPneUnPEdosfCjxp) | [Stephane Legar](https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [PISTOLET](https://open.spotify.com/album/2zodhhPsfim9tEDfpOzjai) | 2:40 | 2023-07-21 | 2023-09-22 |
 | [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 | 2023-09-15 | 2023-12-23 |
 | [PO NA BISO](https://open.spotify.com/track/7aYNn7Ig8eX9x27Gu76hco) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [PO NA BISO](https://open.spotify.com/album/4E2X4MOiMVHRYOv7DEp69W) | 3:32 | 2023-10-06 | 2023-11-18 |

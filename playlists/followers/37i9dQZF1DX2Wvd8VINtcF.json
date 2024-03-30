@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 133030,
+  "2024-03-30": 133241,
   "date_first_scraped": "2022-11-02",
-  "description": "the pearls of an oyster. Cover: Matt Champion",
+  "description": "the pearls of an oyster. Cover: Artemas",
   "name": "Oyster",
   "tracks": [
     {
@@ -249,7 +249,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 352472,
       "name": "31 Bloom",
       "url": "https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y"
@@ -2592,6 +2592,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233095,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
+    },
+    {
+      "album": {
         "name": "Blow Out",
         "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
       },
@@ -3351,7 +3369,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 239639,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs"
@@ -3471,6 +3489,24 @@
       "duration_ms": 174020,
       "name": "Candle Flame",
       "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
     },
     {
       "album": {
@@ -5788,6 +5824,24 @@
     },
     {
       "album": {
+        "name": "Sunny Hill",
+        "url": "https://open.spotify.com/album/4zRyvMQMLHkPlZJkXWF1M7"
+      },
+      "artists": [
+        {
+          "name": "OLSSON",
+          "url": "https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240026,
+      "name": "Dreaming of You",
+      "url": "https://open.spotify.com/track/5ACpj0beBlHTxtmstEYjGl"
+    },
+    {
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
       },
@@ -6854,6 +6908,24 @@
     },
     {
       "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
+    {
+      "album": {
         "name": "Feel Like Makin' Love (feat. Roberta Flack)",
         "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
       },
@@ -7323,6 +7395,24 @@
       "duration_ms": 155757,
       "name": "Forever Ago",
       "url": "https://open.spotify.com/track/7jvOMT3mp9yTCkYpHcxcSw"
+    },
+    {
+      "album": {
+        "name": "forget",
+        "url": "https://open.spotify.com/album/71MdG1dYvFQEnOZqfCmYzj"
+      },
+      "artists": [
+        {
+          "name": "LonelyTwin",
+          "url": "https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "forget",
+      "url": "https://open.spotify.com/track/1kCsiB5D8494ea2vkbHjni"
     },
     {
       "album": {
@@ -10300,6 +10390,28 @@
     },
     {
       "album": {
+        "name": "ILIKEU",
+        "url": "https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "ILIKEU",
+      "url": "https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7"
+    },
+    {
+      "album": {
         "name": "immune",
         "url": "https://open.spotify.com/album/7JB4xISNGadReKJYxSy69x"
       },
@@ -12725,6 +12837,24 @@
       "duration_ms": 150566,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2SJGmwgwl2IR5fW3JDKy4g"
+    },
+    {
+      "album": {
+        "name": "Make Ya Proud",
+        "url": "https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Make Ya Proud",
+      "url": "https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy"
     },
     {
       "album": {
@@ -15737,7 +15867,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
@@ -16891,7 +17021,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
@@ -17069,6 +17199,24 @@
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145074,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
     },
     {
       "album": {
@@ -18038,6 +18186,28 @@
     },
     {
       "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211846,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
+    },
+    {
+      "album": {
         "name": "So Many Ways to Get Downtown",
         "url": "https://open.spotify.com/album/3tdYWWWZNhSlRDWpW3B629"
       },
@@ -18931,10 +19101,28 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 181552,
       "name": "Suckerpunch",
       "url": "https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8"
+    },
+    {
+      "album": {
+        "name": "sugarcoat",
+        "url": "https://open.spotify.com/album/0fUNxwzyslKxKzVfw96hss"
+      },
+      "artists": [
+        {
+          "name": "WIINSTON",
+          "url": "https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191148,
+      "name": "sugarcoat",
+      "url": "https://open.spotify.com/track/1eOxQrohc4LaExjM64hYpJ"
     },
     {
       "album": {
@@ -19267,7 +19455,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 189586,
       "name": "symptom of life",
       "url": "https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO"

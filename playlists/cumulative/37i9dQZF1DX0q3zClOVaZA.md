@@ -4,7 +4,7 @@
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-79 songs - 3 hr 48 min
+80 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-12-15 |  |
 | [Sweet Venom \(English Ver.\)](https://open.spotify.com/track/47JqJobasbTT9r0gX8CoE1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-12-15 |  |
 | [Sweet Venom \(feat\. Bella Poarch\)](https://open.spotify.com/track/3v8hC61VqQ95xwBiLg1JPg) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-12-15 |  |
+| [Sweet Venom \(Seeb Remix\)](https://open.spotify.com/track/1wfNuhQNBGkisaCknJPbfr) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Sweet Venom \(Seeb Remix\)](https://open.spotify.com/album/1VpLHUZOodpgXh69HNu4nC) | 2:51 | 2024-03-29 |  |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2022-05-12 |  |
 | [Tamed\-Dashed](https://open.spotify.com/track/5W5PhqcQDV539PJP9jdmrT) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:16 | 2022-05-12 |  |
 | [Tamed\-Dashed \- Japanese Ver.](https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:15 | 2022-05-12 |  |

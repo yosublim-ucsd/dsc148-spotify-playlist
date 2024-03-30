@@ -4,7 +4,7 @@
 
 > J Gonz & xuxu en la casa del Trap Argentino.
 
-273 songs - 13 hr 13 min
+275 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [EL DON](https://open.spotify.com/track/5o7hlGB1tciX7pk7DXEo74) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Trapicheo: EL DON](https://open.spotify.com/album/16cVnNMAB6g0IyiOn2ViFv) | 3:38 | 2024-03-22 |  |
 | [EMPEZANDO DESDE CERO](https://open.spotify.com/track/02GvcCUIygtzQHaZRcuPBX) | [Juan Solo](https://open.spotify.com/artist/6HA8sy3Y2plABMUscgbDRC), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [DISTOPÍA](https://open.spotify.com/album/76pGPt58PuyQrugKnLD0eO) | 2:37 | 2022-11-11 | 2023-01-28 |
 | [En el Foco](https://open.spotify.com/track/5vLgLpGqtCUVXbYvbCfRGA) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [En el Foco](https://open.spotify.com/album/3BPzC6Y0bfY8hrvSogtLAf) | 2:39 | 2022-01-21 | 2022-08-27 |
+| [En Mi Cama](https://open.spotify.com/track/1vkSHRmOF2iasL6QHBrfOR) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [En Mi Cama](https://open.spotify.com/album/1Cykk8jHHi6X75vHGBixeb) | 2:22 | 2024-03-29 |  |
 | [Es Hoy](https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Es Hoy](https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o) | 2:59 | 2022-01-21 | 2022-06-18 |
 | [eternidad](https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [eternidad](https://open.spotify.com/album/6VNyKs6MzAYGmIs276uNJH) | 2:43 | 2022-10-06 | 2023-01-14 |
 | [FANTASTICO](https://open.spotify.com/track/1CkgsitdwO2QQJcrZaXCKi) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [FANTASTICO](https://open.spotify.com/album/2TNyG3m9RQhbcZKkw0TtTu) | 2:29 | 2023-03-17 | 2023-07-07 |
@@ -186,6 +187,7 @@
 | [Pininfarina \- Remix](https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Pininfarina \(Remix\)](https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP) | 4:20 | 2022-01-21 |  |
 | [Pintao](https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:47 | 2022-01-21 |  |
 | [Poka Luz](https://open.spotify.com/track/05h2p4OlGsBFNeVMLrKuJE) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [Poka Luz](https://open.spotify.com/album/1M7xS9mJ9jOxFKCWKqvMhy) | 1:46 | 2023-03-17 | 2023-11-18 |
+| [POPPIN](https://open.spotify.com/track/75gbMEbyvjLQzzrxxdHxq5) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [POPPIN](https://open.spotify.com/album/0clgDev21YPnsZ074VqHuY) | 2:35 | 2024-03-29 |  |
 | [Por el Aire](https://open.spotify.com/track/2r2v9AjM48KaWvcG0IyXt7) | [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [iberre og](https://open.spotify.com/artist/6ZS3sAG3hC7noyONwaXLUh) | [Por el Aire](https://open.spotify.com/album/0s4xkWvxZQant3mg4KAoa0) | 3:33 | 2022-01-21 | 2022-03-12 |
 | [Pro Player](https://open.spotify.com/track/3WJnf9Xe51wEmCPzrYFihE) | [R Climent](https://open.spotify.com/artist/7qNTiLJpuCUFJ8G7Jf5fzP), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Pro Player](https://open.spotify.com/album/7yJYBoYjDduMIj5FFYPxhL) | 3:09 | 2023-10-20 | 2024-03-09 |
 | [Puestos Pal Millón](https://open.spotify.com/track/5qBVWOBdNAIRimwp79OHJ7) | [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Puestos Pal Millón](https://open.spotify.com/album/6rY2sf7BkUmRRhmFzOZoQY) | 2:54 | 2023-09-29 | 2023-10-21 |

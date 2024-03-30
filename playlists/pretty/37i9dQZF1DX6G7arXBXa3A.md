@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,098 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,139 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 31 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
 | 32 | [Jack, You're Dead!](https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Jumpin' Jive \(Remastered 1999\)](https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO) | 2:47 |
 | 33 | [I Got Rhythm](https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Contrasts](https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf) | 3:05 |
-| 34 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
-| 35 | [Jazz Me Blues](https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [Verve Jazz Masters 54: Woody Herman](https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo) | 3:04 |
+| 34 | [Jazz Me Blues](https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [Verve Jazz Masters 54: Woody Herman](https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo) | 3:04 |
+| 35 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
 | 36 | [Manteca](https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Night In Tunisia: The Very Best Of Dizzy Gillespie](https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf) | 3:06 |
 | 37 | [Happy Together](https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [Happy Together](https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO) | 3:36 |
 | 38 | [Speakeasy Swagger](https://open.spotify.com/track/3B1iVnHB6KCAVs9azXtQO8) | [John Rowcroft](https://open.spotify.com/artist/7GyrVlX5jFlHisEa2X2GSF), [London Studio Big Band](https://open.spotify.com/artist/38Rc4JSbOBanZukrQFBe7Z) | [Vintage Big Band](https://open.spotify.com/album/4CbbOvGG4eQkNPqpZ21v2O) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 |
 | 50 | [Straight, No Chaser](https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Quintessence](https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH) | 2:27 |
 
-Snapshot ID: `MCw5ZmQxYzU3MjQ5YjExOTZlMjhmNGIyMGJiMTM5MjYzMmM5OTIxOWM4`
+Snapshot ID: `MCxhNzMyMGU0YWU0MDYzNjg2MDM1NGQ3NWRhOGEwNzNhZjU3NzdjM2Vl`

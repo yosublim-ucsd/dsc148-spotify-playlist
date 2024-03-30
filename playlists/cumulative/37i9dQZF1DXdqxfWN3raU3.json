@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Greeicy en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT killah y Milo J en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 149480,
       "name": "Bossa",
       "url": "https://open.spotify.com/track/7vcW9mEMLdzZrfkNYOKRZg"
@@ -1107,6 +1107,32 @@
     },
     {
       "album": {
+        "name": "Carta de Despedida",
+        "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "RONNY J",
+          "url": "https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Carta de Despedida",
+      "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
+    },
+    {
+      "album": {
         "name": "CERO, DOS",
         "url": "https://open.spotify.com/album/7KChubVF25Sx3TixA4RkoJ"
       },
@@ -1264,6 +1290,32 @@
       "duration_ms": 225306,
       "name": "COLOGNE",
       "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
+    },
+    {
+      "album": {
+        "name": "PD: No Vuelvas",
+        "url": "https://open.spotify.com/album/4GmJRWGdGt4IVhIIDML27M"
+      },
+      "artists": [
+        {
+          "name": "Dany Calvario",
+          "url": "https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147550,
+      "name": "Como Lo Creen",
+      "url": "https://open.spotify.com/track/4jbIkxBnLDF8iek4qhBVTB"
     },
     {
       "album": {
@@ -2933,6 +2985,28 @@
     },
     {
       "album": {
+        "name": "K NO ME SUELTES",
+        "url": "https://open.spotify.com/album/0suJmL0fyf4I5yBT7geZYB"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Edu Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "K NO ME SUELTES",
+      "url": "https://open.spotify.com/track/2vtBaWSQQSEw0lZv5sKQan"
+    },
+    {
+      "album": {
         "name": "Kafka",
         "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
       },
@@ -3722,7 +3796,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 206250,
       "name": "mejor as\u00ed",
       "url": "https://open.spotify.com/track/6hFJKEpYA77dLEdFDfnRqR"
@@ -3922,6 +3996,24 @@
       "duration_ms": 174626,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua"
+    },
+    {
+      "album": {
+        "name": "Musiquita Triste",
+        "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Musiquita Triste",
+      "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
     },
     {
       "album": {
@@ -5130,7 +5222,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 171312,
       "name": "Quiero Que Seas T\u00fa",
       "url": "https://open.spotify.com/track/6OtUxkUu0dBwinLHssKGQ7"
@@ -6562,7 +6654,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 93280,
       "name": "Vamos Pal Espacio",
       "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"

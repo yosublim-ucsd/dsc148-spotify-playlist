@@ -4,7 +4,7 @@
 
 > 
 
-658 songs - 1 day 7 hr 7 min
+659 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Hell Night](https://open.spotify.com/track/1BeZDWwsxqxOUvTJzH2M4T) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Hell Night](https://open.spotify.com/album/5EwJMf9I4CfMZEEV133gJG) | 3:13 | 2022-09-11 | 2023-05-09 |
 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 | 2022-10-17 | 2023-05-09 |
 | [HeMotions](https://open.spotify.com/track/39HsFsNfFYZdpnQfq8lbS3) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:07 | 2023-03-10 | 2023-05-09 |
+| [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 |  |
 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 | 2023-03-21 | 2023-12-14 |
 | [HIDEOUT \(feat\. Fijimacintosh\)](https://open.spotify.com/track/3gauWyhhIKYnKdhROrTRcc) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Fijimacintosh](https://open.spotify.com/artist/5NaFXQQX19INaDDdIZ02sp) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:50 | 2023-01-20 | 2023-04-24 |
 | [High Rode Out](https://open.spotify.com/track/2SQYJlliOXGs2hMGZzRQ5i) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 1:46 | 2023-01-03 | 2023-05-09 |

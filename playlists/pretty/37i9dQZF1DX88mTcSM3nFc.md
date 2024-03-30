@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,691 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,686 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 25 | [I'll Be Home For Christmas \- Single Version](https://open.spotify.com/track/1fjOitI0vZ41P63p1MQLcc) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 2:57 |
 | 26 | [O Holy Night](https://open.spotify.com/track/4c4LylLvTh91IhwQgSXPRc) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:56 |
 | 27 | [The First Noel](https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:44 |
-| 28 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 |
-| 29 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 |
+| 28 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 |
+| 29 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 |
 | 30 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
 | 31 | [Coldest Winter](https://open.spotify.com/track/7GZ4WYixf0D6DWvvi60yTM) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:28 |
 | 32 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 49 | [The Bells of St\. Mary's \- 45 Version](https://open.spotify.com/track/2W7S8BIesug04Wr1AdAalQ) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:40 |
 | 50 | [What Do The Lonely Do At Christmas?](https://open.spotify.com/track/4qXgtbu9ZIAhcWVKCwOL72) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:27 |
 
-Snapshot ID: `MCxlODdlNzM5ZTQwMWNmMGYyNDdiODUzNWExMjY4YmM3MWRkNTc2MjNh`
+Snapshot ID: `MCw2ZTMwN2Y5NWY0Mjc2NmU2YTRjMzAxNDhlZWY2YTBlMjMwOTg1Nzk2`

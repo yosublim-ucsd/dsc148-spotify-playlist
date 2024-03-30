@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Canciones que te pondr\u00e1n en el mejor mood ever. Ariana Grande en portada.",
+  "description": "Canciones que te pondr\u00e1n en el mejor mood ever. Lorde en portada.",
   "name": "Teen Spirit",
   "tracks": [
     {
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -1948,6 +1948,24 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
       "album": {
@@ -2751,6 +2769,28 @@
     },
     {
       "album": {
+        "name": "I LUV IT (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "I LUV IT (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
+    },
+    {
+      "album": {
         "name": "I NEED U - Spotify Singles",
         "url": "https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi"
       },
@@ -3533,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "Mary Boone",
+        "url": "https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266026,
+      "name": "Mary Boone",
+      "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -3888,6 +3946,24 @@
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+    },
+    {
+      "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
     },
     {
       "album": {
@@ -4873,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -5247,6 +5341,24 @@
     },
     {
       "album": {
+        "name": "Take Me to the River",
+        "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264066,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
+    },
+    {
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
       },
@@ -5295,7 +5407,7 @@
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 235636,
+      "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
     },
@@ -6178,7 +6290,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 191284,
       "name": "Ya Pedo Qui\u00e9n Sabe",
       "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Explode! is out Foto: Mother Mother",
+  "description": "\ud83d\udc79 8\ufe0f\u20e3 Foto: YUNGBLUD",
   "name": "do rockeeee",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "album": {
+        "name": "Abyss (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123293,
+      "name": "Abyss - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
     },
     {
       "album": {
@@ -330,6 +348,24 @@
       "duration_ms": 181076,
       "name": "don\u2019t call me pretty",
       "url": "https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy"
+    },
+    {
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "album": {
@@ -708,7 +744,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 193888,
       "name": "homens cis amam homens cis",
       "url": "https://open.spotify.com/track/0H25VAQpH84Z4vn0Rcjnlx"
@@ -1210,7 +1246,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 164976,
       "name": "porra loka",
       "url": "https://open.spotify.com/track/7l7QotzZqwX9YVpSJHwxJK"

@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 64101,
+  "2024-03-30": 64114,
   "date_first_scraped": "2022-09-24",
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
   "name": "This Is Joan Baez",
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 192933,
       "name": "Donna Donna",
       "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 204960,
       "name": "El Preso Numero Nueve",
       "url": "https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 190973,
       "name": "Plaisir D' Amour",
       "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"

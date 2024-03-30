@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Blusher is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,406 likes - 73 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,411 likes - 73 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 72 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 |
 | 73 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
 
-Snapshot ID: `MCxlMWI2OGY4ZWEyNDQyOTliNGM5NjY1YmJlMGIwZjkxYmNmNDM3Mzlh`
+Snapshot ID: `MCw3NTQxZjVkYWJkODcxZjdkMWI5NGJiMjdjZGE4ZDhiYjdmYzJlODFm`

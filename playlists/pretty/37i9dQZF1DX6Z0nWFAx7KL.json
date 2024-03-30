@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 48263,
+  "num_followers": 48282,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTA1YzY0MDA0NTUwZmMwMTI3NTllNTdhMWE1NTIyZmVmMjgyMmZi",
+  "snapshot_id": "MCw5YTRlMjZlNjUyMzQ5NmExMjU3YTRkNWM2ZmU5YjE0ODYyNWRkNDk5",
   "tracks": [
     {
       "added_at": "2024-03-28 15:19:07",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Inside My Love",
+        "url": "https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Inside My Love",
+      "url": "https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
@@ -687,30 +703,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Hold on Tight",
         "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
       },
@@ -735,6 +727,30 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Feeling Lost Tonight",
         "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 106315,
       "name": "Feeling Lost Tonight",
       "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Inside My Love",
-        "url": "https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Inside My Love",
-      "url": "https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Escaping",
         "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "I Can See",
-      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Oasis de Gafsa",
+        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Oasis de Gafsa",
+      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "MAGNETS",
         "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
       },
@@ -1111,42 +1127,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
-        }
-      ],
-      "duration_ms": 220644,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Oasis de Gafsa",
-        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Oasis de Gafsa",
-      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Down from this High",
         "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 115297,
       "name": "Down from this High",
       "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "duration_ms": 220644,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
-      },
-      "artists": [
-        {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
-        },
-        {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
+      },
+      "artists": [
+        {
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+        },
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1303,6 +1303,34 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/1tA460OSln1Gz06zSqRFkJ"
+      },
+      "artists": [
+        {
+          "name": "Xiam",
+          "url": "https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84"
+        },
+        {
+          "name": "Rukid",
+          "url": "https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a"
+        },
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        },
+        {
+          "name": "XiVi",
+          "url": "https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv"
+        }
+      ],
+      "duration_ms": 128709,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/7iJM2yX8oSRtHRTICv8g1W"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
       },
@@ -1339,34 +1367,6 @@
       "duration_ms": 170086,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/1Pd5wADGQFTDKZsSpuMlVS"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/1tA460OSln1Gz06zSqRFkJ"
-      },
-      "artists": [
-        {
-          "name": "Xiam",
-          "url": "https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84"
-        },
-        {
-          "name": "Rukid",
-          "url": "https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a"
-        },
-        {
-          "name": "2FarAway",
-          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
-        },
-        {
-          "name": "XiVi",
-          "url": "https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv"
-        }
-      ],
-      "duration_ms": 128709,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/7iJM2yX8oSRtHRTICv8g1W"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Nomads",
-        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
       },
       "artists": [
         {
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 229687,
-      "name": "Nomads",
-      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/76S7Gh6IMrRFixOxT8mAqC"
       },
@@ -1543,22 +1563,6 @@
       "duration_ms": 146500,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     }
   ],
   "unique_name": "Dance Chill",

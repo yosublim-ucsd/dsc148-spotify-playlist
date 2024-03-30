@@ -7825,6 +7825,24 @@
     },
     {
       "album": {
+        "name": "girls like drugs",
+        "url": "https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174434,
+      "name": "girls like drugs",
+      "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
+    },
+    {
+      "album": {
         "name": "Glory with John Splithoff",
         "url": "https://open.spotify.com/album/0fb03AL5QrAtohLtvc6K53"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Magixx
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,551 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,601 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 50 | [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 |
 | 51 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 |
 | 52 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 |
-| 53 | [Manifest \(My Prayer\)](https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Manifest \(My Prayer\)](https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu) | 2:41 |
+| 53 | [POLO](https://open.spotify.com/track/3hO7VuXuBbDHOTFTY5g6L5) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [POLO](https://open.spotify.com/album/4P1mq78i4HKC7ytF3dIl2B) | 2:26 |
 | 54 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
-| 55 | [POLO](https://open.spotify.com/track/3hO7VuXuBbDHOTFTY5g6L5) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [POLO](https://open.spotify.com/album/4P1mq78i4HKC7ytF3dIl2B) | 2:26 |
+| 55 | [Manifest \(My Prayer\)](https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Manifest \(My Prayer\)](https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu) | 2:41 |
 | 56 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 |
 | 57 | [Feran Mi](https://open.spotify.com/track/05iqnP8vkEYkrJLQPRMkyt) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 3:16 |
 | 58 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 |
 | 80 | [Lose Control \(feat\. Blxckie\)](https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Love.\. For Free](https://open.spotify.com/album/67d06FDN55b7vN6vaqKpiE) | 2:58 |
 
-Snapshot ID: `MCxjNDc2Y2MzYTQ0MmQ2NTgwYmFlN2RkNGNjMDgyZTI5MGVjYjU2NWI4`
+Snapshot ID: `MCw1OTNjNTA4ZGM0NWYyMGI2OTVhNDY0Njg0Yjg3NGRlOGRhMjBkYzA0`

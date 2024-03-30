@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,800 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,811 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 65 | [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 |
 | 66 | [Jadu](https://open.spotify.com/track/2MlfhMcXbH2Pky2SYVv9Vi) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Jadu](https://open.spotify.com/album/5YSDxOwQcDEKdgkZSt6d2Y) | 2:37 |
 | 67 | [Nakhre](https://open.spotify.com/track/2hmg6kxG5C2SwaHb0mqqbt) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8), [Road Runner](https://open.spotify.com/artist/0lR8BD5lSNtTjQvggwyqE6), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Nakhre](https://open.spotify.com/album/6gL7uV8ikgeIX8TCV1oQjU) | 2:46 |
-| 68 | [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 |
+| 68 | [Bandhan](https://open.spotify.com/track/1iWFL5RkNnvm5qJtqqWEOA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/0dPpLOrNoGOBqq3qyztbdG) | 4:50 |
 | 69 | [Jaaun Kahan](https://open.spotify.com/track/5IwIs27422wuTOXjIEmXDq) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk) | [Jaaun Kahan](https://open.spotify.com/album/30BmlBHDfeSLBr3Wc1uUEX) | 4:37 |
 | 70 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 |
 | 71 | [Khayal](https://open.spotify.com/track/2AHlAZJS2tTnhDqqlIm6O3) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 3:06 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 84 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 |
 | 85 | [Sub Theek Hai](https://open.spotify.com/track/2q0amZ8WgDGN7xBOBG7Dl6) | [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Shayan Fatani](https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq) | [Sub Theek Hai](https://open.spotify.com/album/4380eKIz6zC3isIoJwc4TF) | 2:23 |
 
-Snapshot ID: `MCxmYmU3MTRhNWRiODE1OGRmMzA1NzY0MmE4NzIxMjFiNTIzM2FlMzdl`
+Snapshot ID: `MCwyYzAwZTNiOTExMDA1YTk2MDMwYzM2MGEyY2IwYTYxMmI1YTJhZTM1`

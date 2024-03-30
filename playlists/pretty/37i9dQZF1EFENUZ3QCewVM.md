@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 116 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 24 | [The Subway Song](https://open.spotify.com/track/4Hd0vNtf1iHFz2B3tAkexY) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 4:01 |
 | 25 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 |
 | 26 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 |
-| 27 | [Fool's Gold](https://open.spotify.com/track/2VgDWxtqmHJh58enzTyijv) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:59 |
-| 28 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
+| 27 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
+| 28 | [Fool's Gold](https://open.spotify.com/track/2VgDWxtqmHJh58enzTyijv) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:59 |
 | 29 | [You Don't Even Know Me](https://open.spotify.com/track/1AcoISuZA2tq5uFOwRA7yu) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [You Don't Even Know Me](https://open.spotify.com/album/6OWcBFdfI15aown78xchVh) | 3:46 |
 | 30 | [Ur So Beautiful](https://open.spotify.com/track/3Ko3WvKcr01gHE9oYx9iAE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Ur So Beautiful](https://open.spotify.com/album/2ImEZ4iQjdwpJzkJtNVNRq) | 3:12 |
 | 31 | [Carry On \- Acoustic](https://open.spotify.com/track/0DvhfhHlIE4HqgBX8yDJz3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Carry On \(Acoustic\)](https://open.spotify.com/album/68psFr57W11XOyGdB2lOzk) | 3:27 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 90 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
 | 91 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `Mjg1Mjc5NjAsMDAwMDAwMDA1NDljNDgzOWI1Y2RiNGQ4YWIyYWQ2Y2NmMDdmYzQyZA==`
+Snapshot ID: `Mjg1Mjk0MDAsMDAwMDAwMDA1ZGI0YTE5ZmYwNDU4YTE2NTY0MWQzZGFmMjkzMjU0Yw==`

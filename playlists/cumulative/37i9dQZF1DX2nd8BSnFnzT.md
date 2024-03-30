@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ariah
 
-439 songs - 1 day 0 hr 32 min
+440 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Depois Que a Guerra Terminou](https://open.spotify.com/track/7HusYomLBNS718cT4jpDNG) | [Gustavo Kaly](https://open.spotify.com/artist/2APbW9Syz4fKotQHXryChK), [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Depois Que a Guerra Terminou](https://open.spotify.com/album/5ql0LSgUlMUCRAqxt6yLA7) | 2:04 | 2022-04-01 | 2022-04-09 |
 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [DESCANSA](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 | 2022-03-04 | 2022-04-16 |
 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 | 2023-04-14 | 2023-07-01 |
+| [Deserto](https://open.spotify.com/track/5tPDt8dTC8n95xxyDem6Lo) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Deserto](https://open.spotify.com/album/2YtWOLnRl8IebrFU50zQQF) | 3:03 | 2024-03-29 |  |
 | [Desesperados](https://open.spotify.com/track/01xfGcRpynaiKzt8RjoEAb) | [Surr](https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ) | [Desesperados](https://open.spotify.com/album/1WakbaY3UI4dyTMbFeLsfM) | 2:27 | 2023-01-27 | 2023-02-25 |
 | [Dia 14, Pt\. 2](https://open.spotify.com/track/6PYmytp7n49OwoC6T2gsuj) | [Lemak](https://open.spotify.com/artist/1DCcKAbUBRbTURZ6x8A7qx) | [Dia 14, Pt\. 2](https://open.spotify.com/album/597wL7HG0FMUntbLLM9ZGp) | 3:28 | 2022-01-14 | 2023-03-03 |
 | [Dia a dia](https://open.spotify.com/track/0fHAEHVcqD104hdGo9JfZC) | [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Dia a dia](https://open.spotify.com/album/6sIPN7Do9PfxlS2LUAFD55) | 3:33 | 2023-02-10 |  |
@@ -163,7 +164,7 @@
 | [Felicidade Incondicional](https://open.spotify.com/track/4Z8rC1M3Nlx0vBU9APoXCl) | [Badke](https://open.spotify.com/artist/685NLh885gHlnqYavNxEYB) | [Maquina de Moer Fantasmas](https://open.spotify.com/album/3wEOHIUp6qIZP5hC3N9jyj) | 2:57 | 2022-01-14 | 2023-01-14 |
 | [Filhos da Desilusão](https://open.spotify.com/track/1uZ8qza99USpObn9guAAfK) | [Excluídos](https://open.spotify.com/artist/3u24uyMrCe7Yvurb51K8lF) | [Filhos da Desilusão](https://open.spotify.com/album/2bBviZGl7eV6HtqWyWnc5J) | 4:30 | 2022-02-18 | 2022-04-09 |
 | [filmes fatos fotos](https://open.spotify.com/track/5EcBZmnE3VUhqES2HdNtwv) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [filmes fatos fotos](https://open.spotify.com/album/1UepRjCZjyoz4PWNmZbEP1) | 3:04 | 2022-07-01 | 2022-09-24 |
-| [FIM DO FIM](https://open.spotify.com/track/6Pk8lHNRHkuD1o0Say0o4l) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 2:15 | 2023-08-18 |  |
+| [FIM DO FIM](https://open.spotify.com/track/6Pk8lHNRHkuD1o0Say0o4l) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 2:15 | 2023-08-18 | 2024-03-30 |
 | [Fiz 18](https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Fiz 18](https://open.spotify.com/album/3B803upCKgO5My70u4J7sK) | 3:14 | 2022-01-14 | 2022-06-04 |
 | [Flaca](https://open.spotify.com/track/3jZU0zo0TvD2HefcRyOfUa) | [Vera Loca](https://open.spotify.com/artist/463Hk05MjkBYUyuB00luqt) | [Flaca](https://open.spotify.com/album/1C0HSLk5dhApjjwA59uN87) | 4:03 | 2022-08-05 | 2022-08-27 |
 | [Fobia](https://open.spotify.com/track/1KOO2nipJQq4aMF3IHsP2U) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Fobia](https://open.spotify.com/album/3GZ9KILnMXfdurw7iUnrdq) | 3:06 | 2022-04-01 | 2022-07-02 |

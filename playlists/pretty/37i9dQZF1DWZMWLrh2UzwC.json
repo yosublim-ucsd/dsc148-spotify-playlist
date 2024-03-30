@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Beyonc\u00e9",
-  "num_followers": 61677,
+  "num_followers": 61683,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGY1NWE3NDk2N2JhZDFiOGIzMTU0ZDRhOWZjNjc3YWM4YzVhNjY2",
+  "snapshot_id": "MCw0ZGIyNTVmZGIxYWNhNmVmYTliNjBlZTVmYjI4MzlmYjYwZDlkMDdk",
   "tracks": [
     {
       "added_at": "2024-03-28 16:01:13",
@@ -47,6 +47,30 @@
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
+    },
+    {
+      "added_at": "2024-03-28 16:01:13",
+      "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 273290,
+      "name": "NEURON (with Gaeko & YOON MIRAE)",
+      "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
     },
     {
       "added_at": "2024-03-28 16:01:13",
@@ -391,6 +415,42 @@
     {
       "added_at": "2024-03-28 16:01:13",
       "album": {
+        "name": "\u4f60\u4e0d\u9700\u8981\u591a\u5b8c\u7f8e",
+        "url": "https://open.spotify.com/album/2EfrZtzma1x8BJG0km7oTh"
+      },
+      "artists": [
+        {
+          "name": "sodagreen",
+          "url": "https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U"
+        }
+      ],
+      "duration_ms": 274713,
+      "name": "\u4f60\u4e0d\u9700\u8981\u591a\u5b8c\u7f8e",
+      "url": "https://open.spotify.com/track/1jwdzKmlk5cBGTYS63POfr"
+    },
+    {
+      "added_at": "2024-03-29 02:23:04",
+      "album": {
+        "name": "1000 YEARS (\u5343\u5e74)",
+        "url": "https://open.spotify.com/album/5RfLV2zLH56AcJN1QKn0hF"
+      },
+      "artists": [
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "J.Sheon",
+          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
+        }
+      ],
+      "duration_ms": 212561,
+      "name": "1000 YEARS (feat. J.Sheon)",
+      "url": "https://open.spotify.com/track/67TuQdtODeww6KloczBVtv"
+    },
+    {
+      "added_at": "2024-03-28 16:01:13",
+      "album": {
         "name": "\u5438\u5f15\u4e4b\u529b",
         "url": "https://open.spotify.com/album/3rxgdggzUqoYA9zCmRtg3d"
       },
@@ -595,6 +655,26 @@
     {
       "added_at": "2024-03-28 16:01:13",
       "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "added_at": "2024-03-28 16:01:13",
+      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn"
       },
@@ -688,17 +768,17 @@
       "added_at": "2024-03-28 16:01:13",
       "album": {
         "name": "To Be With You",
-        "url": "https://open.spotify.com/album/7yz269yumVbv1ZpVojT41j"
+        "url": "https://open.spotify.com/album/2OSHAiHz3wQW2NCFsqkBPd"
       },
       "artists": [
         {
           "name": "Kim Won Shik",
-          "url": "https://open.spotify.com/artist/6ICfJjfg7uQxkUJ1p8zxYY"
+          "url": "https://open.spotify.com/artist/38g92CVDtbiO4MiYXdpkUU"
         }
       ],
       "duration_ms": 214260,
       "name": "To Be With You",
-      "url": "https://open.spotify.com/track/1q3BhuoRVBzAFpUTbgtJ97"
+      "url": "https://open.spotify.com/track/4VGDRQew8w2ngeDNpRTMXt"
     },
     {
       "added_at": "2024-03-28 16:01:13",
@@ -1260,7 +1340,7 @@
       "added_at": "2024-03-28 16:01:13",
       "album": {
         "name": "Interplay",
-        "url": "https://open.spotify.com/album/1rbccis9sgHx4uxWseWez3"
+        "url": "https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld"
       },
       "artists": [
         {
@@ -1270,7 +1350,7 @@
       ],
       "duration_ms": 302493,
       "name": "Portland Rocks",
-      "url": "https://open.spotify.com/track/19ovzUYZToyFVtAU9qL2rZ"
+      "url": "https://open.spotify.com/track/28z4ex2Y5VJpY7vbjiOEdj"
     },
     {
       "added_at": "2024-03-28 16:01:13",
@@ -1453,7 +1533,7 @@
         }
       ],
       "duration_ms": 248975,
-      "name": "Make Friends - Edit",
+      "name": "Make Friends - Pocket Size Radio Edit",
       "url": "https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic"
     },
     {

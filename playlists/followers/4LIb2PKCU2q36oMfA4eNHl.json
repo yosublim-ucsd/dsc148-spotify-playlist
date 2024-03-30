@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 42216,
+  "2024-03-30": 42219,
   "date_first_scraped": "2023-12-14",
   "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
   "name": "Chill with Anjuna",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 161760,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/6j9hfHxpXEaYzFwcSK4MhH"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 208000,
       "name": "Blush",
       "url": "https://open.spotify.com/track/21Xax3xNWXhRMtgiQa1PKM"
@@ -418,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Fugue In Twilight",
+        "url": "https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264156,
+      "name": "Fugue In Twilight",
+      "url": "https://open.spotify.com/track/1aOuKqVx4Myq3Ql4MqW1xK"
+    },
+    {
+      "album": {
         "name": "Luminescence EP",
         "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
       },
@@ -565,7 +583,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 280101,
       "name": "Hold On To You - Ryan Davis Revisit",
       "url": "https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr"
@@ -666,6 +684,24 @@
     },
     {
       "album": {
+        "name": "Boy 1 EP",
+        "url": "https://open.spotify.com/album/7uIBHzFLaUAdv6xkVTPLeT"
+      },
+      "artists": [
+        {
+          "name": "Akitsugu Fukushima",
+          "url": "https://open.spotify.com/artist/7prxMXbUZnwDhlaxGC5Bdb"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Kioku",
+      "url": "https://open.spotify.com/track/6xGkHqnwZ0Gsbw6npaCD3s"
+    },
+    {
+      "album": {
         "name": "J\u014dhatsu (\u84b8\u767a) (The Remixes)",
         "url": "https://open.spotify.com/album/1iDvYexi7CTmtTSSI16vJs"
       },
@@ -729,7 +765,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 239272,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/0DxInsKBRdvAJTTLgO57tE"
@@ -783,7 +819,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 233499,
       "name": "Lone Swordsman",
       "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
@@ -978,6 +1014,24 @@
     },
     {
       "album": {
+        "name": "Fugue In Twilight",
+        "url": "https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277577,
+      "name": "Mother Earth",
+      "url": "https://open.spotify.com/track/3rBbYnRNZkLTcpdjfHCjNv"
+    },
+    {
+      "album": {
         "name": "Mr Man (Dusky Revisit)",
         "url": "https://open.spotify.com/album/7azyENMb9wOHFWoRShPs0x"
       },
@@ -1029,6 +1083,24 @@
       "duration_ms": 241663,
       "name": "No Place Like",
       "url": "https://open.spotify.com/track/1nQFnc0wvHTtOeVnkfgLGo"
+    },
+    {
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/4SWTeikAx2dal9TSdfbSxy"
+      },
+      "artists": [
+        {
+          "name": "Fhin",
+          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111986,
+      "name": "Off Your Hand",
+      "url": "https://open.spotify.com/track/2lstzdGae9ApJ4JDi8sKj3"
     },
     {
       "album": {
@@ -1250,6 +1322,24 @@
     },
     {
       "album": {
+        "name": "Fugue In Twilight",
+        "url": "https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254509,
+      "name": "Swirl",
+      "url": "https://open.spotify.com/track/0Uj30EguEhtuNlzMTI2i86"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -1355,10 +1445,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 243000,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/5HWHvmv2Se7JK5E5lzfUCB"
+    },
+    {
+      "album": {
+        "name": "Nurture",
+        "url": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364114,
+      "name": "Wind Tempos",
+      "url": "https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb"
     },
     {
       "album": {

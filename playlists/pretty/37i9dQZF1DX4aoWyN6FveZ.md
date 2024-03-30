@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ravieb/">Ravie B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,445 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,462 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 | 45 | [Meet Me At Our Spot \- Live](https://open.spotify.com/track/3BrWLBC4WYx393yRUOlTih) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Meet Me At Our Spot \(Live\)](https://open.spotify.com/album/7x5oZf6cKUstjslCxLsKkT) | 2:27 |
 | 46 | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/album/4rL5hr03vh6g69Ce0rwStB) | 3:19 |
 | 47 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
-| 48 | [poochie gown](https://open.spotify.com/track/3daUZMkia3HT0E7xITejR6) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:21 |
-| 49 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
+| 48 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
+| 49 | [poochie gown](https://open.spotify.com/track/3daUZMkia3HT0E7xITejR6) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:21 |
 | 50 | [Motorcycle Patches](https://open.spotify.com/track/7g7raxdQpiLZT7aOlib4S1) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 3:11 |
 
-Snapshot ID: `MCwyNTMxYjkyMjlhMGM4YTE2Y2Q1NjNlYzg3MTNhNGRmZmIyODBhY2Iz`
+Snapshot ID: `MCw0NjM5NmY5YWMzNDdlYTg4Y2QxYWYyNzc3NzUxNTA0ODFkMjMxNDg1`

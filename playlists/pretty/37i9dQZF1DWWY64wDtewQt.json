@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 7800916,
+  "num_followers": 7806943,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDczMGVhYjViODYyNWQyYjg3NDI1MDJiZDAzMTBiMTczNWMzZDZh",
+  "snapshot_id": "MCxhMzE5MWY5MDdjMGM4OGJhNTRkMjJiMDFjYTZhY2E3M2JjMjZiMjI0",
   "tracks": [
     {
       "added_at": "2024-02-09 15:25:18",
@@ -27,6 +27,22 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2023-10-20 10:30:53",
@@ -67,22 +83,6 @@
       "duration_ms": 103495,
       "name": "Montagem Mysterious Game",
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
-    },
-    {
-      "added_at": "2023-12-01 14:11:37",
-      "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2023-09-08 15:16:54",
@@ -397,6 +397,26 @@
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
+      "added_at": "2024-03-15 15:37:23",
+      "album": {
+        "name": "Sequ\u00eancia da Dz7",
+        "url": "https://open.spotify.com/album/12UaXYNu0359E12ysYpLWs"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 119231,
+      "name": "Sequ\u00eancia da Dz7",
+      "url": "https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza"
+    },
+    {
       "added_at": "2023-05-05 15:57:14",
       "album": {
         "name": "Life in Rio",
@@ -537,10 +557,10 @@
       "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
     },
     {
-      "added_at": "2024-03-08 15:34:20",
+      "added_at": "2024-03-29 15:57:27",
       "album": {
-        "name": "JUJALARIM FUNK",
-        "url": "https://open.spotify.com/album/0w7rzFrOSsiGvChfXdpCjz"
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
       },
       "artists": [
         {
@@ -548,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
         }
       ],
-      "duration_ms": 121846,
-      "name": "JUJALARIM FUNK",
-      "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2023-02-10 16:54:18",
@@ -643,26 +663,6 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2024-03-15 15:37:23",
-      "album": {
-        "name": "Sequ\u00eancia da Dz7",
-        "url": "https://open.spotify.com/album/12UaXYNu0359E12ysYpLWs"
-      },
-      "artists": [
-        {
-          "name": "TRASHXRL",
-          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 119231,
-      "name": "Sequ\u00eancia da Dz7",
-      "url": "https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -859,22 +859,18 @@
     {
       "added_at": "2024-03-22 16:01:00",
       "album": {
-        "name": "Frikitona (Slowboy Remix)",
-        "url": "https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA"
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Frikitona - Slowboy Remix",
-      "url": "https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg"
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2022-09-02 08:01:31",
@@ -891,22 +887,6 @@
       "duration_ms": 139200,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
-      "added_at": "2024-03-08 15:34:20",
-      "album": {
-        "name": "SHOWTIME",
-        "url": "https://open.spotify.com/album/4z1jKFerf7aZlplVgGMPAX"
-      },
-      "artists": [
-        {
-          "name": "SHADXWRXGE",
-          "url": "https://open.spotify.com/artist/79xnSL6gmGSmRyeuYosQm3"
-        }
-      ],
-      "duration_ms": 149705,
-      "name": "SHOWTIME",
-      "url": "https://open.spotify.com/track/0F3n2iQAzTULYrB8sZHYY5"
     },
     {
       "added_at": "2024-02-23 12:00:00",
@@ -1061,20 +1041,20 @@
       "url": "https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e"
     },
     {
-      "added_at": "2023-12-01 14:11:37",
+      "added_at": "2024-03-08 15:34:20",
       "album": {
-        "name": "Robot Rock (Funk)",
-        "url": "https://open.spotify.com/album/2Nmqx3yf0q79nCnVqmGyAq"
+        "name": "SHOWTIME",
+        "url": "https://open.spotify.com/album/4z1jKFerf7aZlplVgGMPAX"
       },
       "artists": [
         {
-          "name": "DJ Paulinho Mondi Da Baixa Baviera",
-          "url": "https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE"
+          "name": "SHADXWRXGE",
+          "url": "https://open.spotify.com/artist/79xnSL6gmGSmRyeuYosQm3"
         }
       ],
-      "duration_ms": 153529,
-      "name": "Robot Rock (Funk)",
-      "url": "https://open.spotify.com/track/3R3zF6Y5fnimYRXuBTrp9D"
+      "duration_ms": 149705,
+      "name": "SHOWTIME",
+      "url": "https://open.spotify.com/track/0F3n2iQAzTULYrB8sZHYY5"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1123,22 +1103,6 @@
       "duration_ms": 90692,
       "name": "ENOUGH!",
       "url": "https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2"
-    },
-    {
-      "added_at": "2024-03-22 16:01:00",
-      "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2023-03-17 15:27:46",
@@ -1465,6 +1429,22 @@
       "url": "https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ"
     },
     {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "Robot Rock (Funk)",
+        "url": "https://open.spotify.com/album/2Nmqx3yf0q79nCnVqmGyAq"
+      },
+      "artists": [
+        {
+          "name": "DJ Paulinho Mondi Da Baixa Baviera",
+          "url": "https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE"
+        }
+      ],
+      "duration_ms": 153529,
+      "name": "Robot Rock (Funk)",
+      "url": "https://open.spotify.com/track/3R3zF6Y5fnimYRXuBTrp9D"
+    },
+    {
       "added_at": "2022-12-09 08:15:38",
       "album": {
         "name": "classical phonk",
@@ -1645,30 +1625,6 @@
       "url": "https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C"
     },
     {
-      "added_at": "2023-05-05 15:57:14",
-      "album": {
-        "name": "DEUS DA GUERRA",
-        "url": "https://open.spotify.com/album/45BGPCwmSWv26dE1uvDB4s"
-      },
-      "artists": [
-        {
-          "name": "$pidxrs?808",
-          "url": "https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO"
-        },
-        {
-          "name": "LEGIXN",
-          "url": "https://open.spotify.com/artist/0Z7blIFif9IINMXYS3dTlG"
-        },
-        {
-          "name": "FXRCE",
-          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
-        }
-      ],
-      "duration_ms": 106762,
-      "name": "DEUS DA GUERRA",
-      "url": "https://open.spotify.com/track/7E7YqRQZiASXIENrGYlpSU"
-    },
-    {
       "added_at": "2022-09-02 08:01:31",
       "album": {
         "name": "|BONKERS|",
@@ -1793,6 +1749,22 @@
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
     },
     {
+      "added_at": "2024-03-08 15:34:20",
+      "album": {
+        "name": "JUJALARIM FUNK",
+        "url": "https://open.spotify.com/album/0w7rzFrOSsiGvChfXdpCjz"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "JUJALARIM FUNK",
+      "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"
+    },
+    {
       "added_at": "2023-03-31 15:56:27",
       "album": {
         "name": "Own Paradise",
@@ -1911,6 +1883,30 @@
       "duration_ms": 84692,
       "name": "DEMON\u00cdACO MANO",
       "url": "https://open.spotify.com/track/1Ucdq5ig5JvlNis649Q7GY"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "DEUS DA GUERRA",
+        "url": "https://open.spotify.com/album/45BGPCwmSWv26dE1uvDB4s"
+      },
+      "artists": [
+        {
+          "name": "$pidxrs?808",
+          "url": "https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO"
+        },
+        {
+          "name": "LEGIXN",
+          "url": "https://open.spotify.com/artist/0Z7blIFif9IINMXYS3dTlG"
+        },
+        {
+          "name": "FXRCE",
+          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
+        }
+      ],
+      "duration_ms": 106762,
+      "name": "DEUS DA GUERRA",
+      "url": "https://open.spotify.com/track/7E7YqRQZiASXIENrGYlpSU"
     }
   ],
   "unique_name": "phonk",

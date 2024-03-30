@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidos haciendo música chida\. Carlos Colosio en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,491 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,495 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [Moradiva](https://open.spotify.com/track/4BTVAYvVZUwNDSrB2s1Pj8) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Moradiva](https://open.spotify.com/album/0w72lmf6YBUWcZSJ42imIv) | 3:12 |
 | 50 | [Red Pill](https://open.spotify.com/track/6b5OFBqSktYZftqw33jkAH) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Red Pill](https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m) | 2:58 |
 
-Snapshot ID: `MCxlZWQ2ZGYyODhlN2E5MzI4NTY5ZTc4N2M0MTliMTliNDU0OWQ5MjM3`
+Snapshot ID: `MCw0NWI3NGE5ZjY0MDExOGI3Mjc0OTY3YTZiNWM2YWRiMGQyN2U0MjY5`

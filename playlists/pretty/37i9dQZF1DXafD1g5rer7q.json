@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 394653,
+  "num_followers": 394768,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGNiN2UyMGJmMTkxMWFjYjFmOGZhNzI0OWFiNWEwNmI1NzBmNTkx",
+  "snapshot_id": "MCw1NzlkZDc4ZWFjYmVkMTBlNGZlYTc2ZGE2ZGU0Nzk5MzQzNjUzYWM5",
   "tracks": [
     {
       "added_at": "2024-03-28 16:00:00",
@@ -32,7 +32,7 @@
       "added_at": "2024-03-28 16:00:00",
       "album": {
         "name": "Higher Ground (feat. Roosevelt)",
-        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+        "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
       },
       "artists": [
         {
@@ -44,9 +44,9 @@
           "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 273293,
+      "duration_ms": 273275,
       "name": "Higher Ground (feat. Roosevelt)",
-      "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"
+      "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
     },
     {
       "added_at": "2024-03-28 16:00:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-03-28 16:00:00",
       "album": {
-        "name": "Kernkraft 400 (A Better Day)",
-        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Kernkraft 400 (A Better Day)",
-      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
-    },
-    {
-      "added_at": "2024-03-28 16:00:00",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 157202,
       "name": "SOS (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5"
+    },
+    {
+      "added_at": "2024-03-28 16:00:00",
+      "album": {
+        "name": "Kernkraft 400 (A Better Day)",
+        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Kernkraft 400 (A Better Day)",
+      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
       "added_at": "2024-03-28 16:00:00",

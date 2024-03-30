@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Trance, House, Techno, Dance, Afro\-House, Melodic Techno \| Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: ARTY
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 276,372 likes - 198 songs - 10 hr 35 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 276,371 likes - 198 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 197 | [Outside World \- Bart Skils & Weska Remix](https://open.spotify.com/track/6COLvhfEckP6Hj90yJmOiP) | [Sunbeam](https://open.spotify.com/artist/1ZXarwne5gA98pXsbC7vph), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 4:00 |
 | 198 | [About The Weekend](https://open.spotify.com/track/3lEoFMhMMRYuRUkU24HiOM) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Sakhile Moleshe](https://open.spotify.com/artist/6pldHWtyWbWZUi5lBqrZpB) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:00 |
 
-Snapshot ID: `NTM0NTUsMDljOTAyODljY2YyOWVlZWQzM2I1ODIxNTlkNTgzMTU5MDNhMTJmZQ==`
+Snapshot ID: `NTM0NzMsZTg3MzZmNjM1NzBhZDU0NzQ4YmUwNmMxZmRhZWM0NDZiZTZhMGQ1Mg==`

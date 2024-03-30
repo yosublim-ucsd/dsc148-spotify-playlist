@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,524 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,523 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 15 | [Bright Life](https://open.spotify.com/track/6nboMcA31FtNfe2QBYaqZ4) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [M.R.I\_Mirai](https://open.spotify.com/album/1JlDJeBXxJqxAcbL5Sp7Vw) | 4:15 |
 | 16 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
 | 17 | [The Phantom](https://open.spotify.com/track/0Z0RilPDrVIAa9SwDWAQNK) | [Apneumo](https://open.spotify.com/artist/4pd2vMniXFGmAXS3NQxIaR) | [The Phantom](https://open.spotify.com/album/2nnPtT6aqhtDWN9ha0QNI5) | 4:00 |
-| 18 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
-| 19 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
+| 18 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
+| 19 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 |
 | 20 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 |
 | 21 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 |
-| 22 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 |
+| 22 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
 | 23 | [Disordered Trip](https://open.spotify.com/track/1TL5dclhMJ7Be0qnTKZ2oe) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Disordered Trip](https://open.spotify.com/album/0p4X5GGQHPJdgfvJ8NOEL1) | 3:57 |
 | 24 | [Take Me](https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:52 |
 | 25 | [Purple](https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ) | [stim](https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g) | [Purple](https://open.spotify.com/album/3M1sVKiqJFIzCjkuqYNeJP) | 5:11 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 40 | [seiren](https://open.spotify.com/track/0f1hKtgruSDYQ52wvS9YeR) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5) | 4:23 |
 | 41 | [relive](https://open.spotify.com/track/50t4tQAB6MPXX2bzFeGCid) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [TENT](https://open.spotify.com/album/2TKWC4WpImusMrl1AmkW2t) | 5:01 |
 | 42 | [atom](https://open.spotify.com/track/54baCiXqMz9UK8LqJ7nIPV) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [story](https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8) | 4:10 |
-| 43 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
-| 44 | [Blood is thicker than water](https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Living Message](https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2) | 3:31 |
+| 43 | [Blood is thicker than water](https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Living Message](https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2) | 3:31 |
+| 44 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
 | 45 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
 | 46 | [N°9](https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [NEWTOWN](https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS) | 4:58 |
 | 47 | [Love Lights](https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [PYRAMID4](https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7) | 5:06 |
-| 48 | [neguse](https://open.spotify.com/track/4nYY6rV75YL7XLsi7zuOPe) | [グッドラックヘイワ](https://open.spotify.com/artist/6tWuPXLJhkk9IjzbKI6hYa) | [Lm](https://open.spotify.com/album/7FYRKp0czfUFQk9IjWTx1m) | 3:30 |
-| 49 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
-| 50 | [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 |
+| 48 | [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 |
+| 49 | [neguse](https://open.spotify.com/track/4nYY6rV75YL7XLsi7zuOPe) | [グッドラックヘイワ](https://open.spotify.com/artist/6tWuPXLJhkk9IjzbKI6hYa) | [Lm](https://open.spotify.com/album/7FYRKp0czfUFQk9IjWTx1m) | 3:30 |
+| 50 | [Mystic Island](https://open.spotify.com/track/6vqjr1gx5FRzVzrODlbxix) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 6:02 |
 
-Snapshot ID: `MCw5ODk1NTkzYWJlNmI4ZDFmNTZjOTY0M2NlMDhhYWJkMzE0ZTQxZjMz`
+Snapshot ID: `MCxjY2M1ZDdlZmU2ZWQ3MTBiYTE1YjU1OTQ1NzhkYjljMmEyODViYmE3`

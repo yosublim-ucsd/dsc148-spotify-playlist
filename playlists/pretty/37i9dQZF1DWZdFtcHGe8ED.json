@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 543406,
+  "num_followers": 543554,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmUyZGIwMGI1OWE1Y2IxY2MyNmVkOTcyZGVmYzVmN2ExYjJiYmIy",
+  "snapshot_id": "MCxjMjQ3YTEwYmRkNTE4YTkxODI3NmY3MDY2OTgzODdkNjhmMDQyMTNm",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -27,8 +27,8 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+        "name": "Reign In Blood (Expanded)",
+        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 291440,
+      "duration_ms": 291773,
       "name": "Angel Of Death",
-      "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
+      "url": "https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -171,8 +171,8 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+        "name": "Reign In Blood (Expanded)",
+        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 254400,
+      "duration_ms": 255186,
       "name": "Raining Blood",
-      "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
+      "url": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Myrsky",
-        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
-      },
-      "artists": [
-        {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
-        }
-      ],
-      "duration_ms": 210691,
-      "name": "Ympyr\u00e4 sulkeutuu",
-      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
         "url": "https://open.spotify.com/album/0GRJggdZjtFQLzhznZvxFL"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 271373,
       "name": "Trip at the Brain",
       "url": "https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Myrsky",
+        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
+      },
+      "artists": [
+        {
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+        }
+      ],
+      "duration_ms": 210691,
+      "name": "Ympyr\u00e4 sulkeutuu",
+      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Moments Elsewhere",
-        "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
-      },
-      "artists": [
-        {
-          "name": "Johnny Booth",
-          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Collapse in the Key of Fireworks",
-      "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 261709,
       "name": "Nightmare Logic",
       "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Moments Elsewhere",
+        "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
+      },
+      "artists": [
+        {
+          "name": "Johnny Booth",
+          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Collapse in the Key of Fireworks",
+      "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Opening Fire: 2008-2014",
-        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Divine Apprehension",
-      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Man That Never Was",
         "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Bonded by Blood",
-        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+        "name": "Opening Fire: 2008-2014",
+        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
       },
       "artists": [
         {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Strike of the Beast",
-      "url": "https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu"
+      "duration_ms": 257695,
+      "name": "Divine Apprehension",
+      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1339,6 +1323,22 @@
       "duration_ms": 308173,
       "name": "I Sever",
       "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Bonded by Blood",
+        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Strike of the Beast",
+      "url": "https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Mental Vortex",
-        "url": "https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9"
-      },
-      "artists": [
-        {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
-        }
-      ],
-      "duration_ms": 330986,
-      "name": "Semtex Revolution",
-      "url": "https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Empire of the Blind",
         "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 351613,
       "name": "Empire of the Blind",
       "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Mental Vortex",
+        "url": "https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 330986,
+      "name": "Semtex Revolution",
+      "url": "https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Pyh\u00e4 Vitutus",
-        "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
-      },
-      "artists": [
-        {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
-        }
-      ],
-      "duration_ms": 201223,
-      "name": "Pyh\u00e4 Vitutus",
-      "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 218406,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Pyh\u00e4 Vitutus",
+        "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
+      },
+      "artists": [
+        {
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+        }
+      ],
+      "duration_ms": 201223,
+      "name": "Pyh\u00e4 Vitutus",
+      "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
     },
     {
       "added_at": "2024-03-08 05:00:00",

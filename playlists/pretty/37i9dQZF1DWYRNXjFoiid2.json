@@ -1,12 +1,12 @@
 {
   "description": "Pop to fuel your gaming. Cover: Madge",
-  "num_followers": 382269,
+  "num_followers": 382610,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTEwYjgwZDI3YzgzOGMxM2M0N2U1NTZkMjk1NTQxYTNmYmRlYmU5",
+  "snapshot_id": "MCxjNjg3ODBiZWZhYmIwZTg1MzQ2Mzk1NjI0MDA5NWUyZDJmY2RhMGE5",
   "tracks": [
     {
       "added_at": "2024-03-25 19:07:51",
@@ -503,6 +503,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 180822,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 180822,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Boss Bitch",
-        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1127,26 +1127,58 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Sassy Scene",
-        "url": "https://open.spotify.com/album/5kFLrTEOfgL2rMYMTxRrNC"
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
       },
       "artists": [
         {
           "name": "6arelyhuman",
           "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Pixel Hood",
-          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
         }
       ],
-      "duration_ms": 135160,
-      "name": "Hands up!",
-      "url": "https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK"
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "eat ya veggies",
+        "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 133706,
+      "name": "edamame",
+      "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Come & Go (with Marshmello)",
+      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1175,46 +1207,6 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Come & Go (with Marshmello)",
-      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "eat ya veggies",
-        "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 133706,
-      "name": "edamame",
-      "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1315,18 +1307,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+        "name": "Sassy Scene",
+        "url": "https://open.spotify.com/album/5kFLrTEOfgL2rMYMTxRrNC"
       },
       "artists": [
         {
           "name": "6arelyhuman",
           "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+      "duration_ms": 135160,
+      "name": "Hands up!",
+      "url": "https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1567,18 +1567,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+        "name": "Trip At Knight",
+        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+      "duration_ms": 236883,
+      "name": "Miss The Rage",
+      "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1599,22 +1603,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Trip At Knight",
-        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 236883,
-      "name": "Miss The Rage",
-      "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
       "added_at": "2024-03-22 04:00:00",

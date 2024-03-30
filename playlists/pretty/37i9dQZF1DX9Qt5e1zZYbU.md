@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,154 likes - 31 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,161 likes - 31 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 | 15 | [The Fall](https://open.spotify.com/track/7pCZMHPwd5Xn8IzDEVITUU) | [Julia Brown](https://open.spotify.com/artist/2oKlKNG9YDt3YCbPbXS2vH) | [An Abundance of B\-sides](https://open.spotify.com/album/2o87h8JS2O1GGhVWmeGsc7) | 1:46 |
 | 16 | [Blue Stripes](https://open.spotify.com/track/6kwyBdROdcbTn5EcLNG77j) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [MOMMY DON'T SPANK ME](https://open.spotify.com/album/07QtExfk8X4bPC1fnDi3hx) | 4:08 |
 | 17 | [Good Arms vs Bad Arms](https://open.spotify.com/track/1Bh2ux25tWguirNVzlQNEC) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 5:06 |
-| 18 | [Young Tender Hearts Beat Fast](https://open.spotify.com/track/6vmVm1kWWgiGZgiLP97hGv) | [YOU LOVE HER](https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c) | [Young Tender Hearts Beat Fast](https://open.spotify.com/album/1mhBsfmGFLcF7GfZc0OcwI) | 4:06 |
+| 18 | [Young Tender Hearts Beat Fast](https://open.spotify.com/track/3BeXtu9bc0qoMfUm7OWO2O) | [YOU LOVE HER](https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c) | [Young Tender Hearts Beat Fast](https://open.spotify.com/album/4mSQXH073yIaEbB3xpjGwy) | 4:06 |
 | 19 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 |
 | 20 | [I Don't Need Love, I've Got My Band](https://open.spotify.com/track/0LyZnEqqPwQvvNjCYOV6p7) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [I Don't Need Love, I've Got My Band](https://open.spotify.com/album/7ptCNW1pKdpl5NghzVGFd7) | 3:14 |
 | 21 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 | 30 | [Tie Me up with Jackets](https://open.spotify.com/track/4ABGT5RsKi6wZfQ9Bxsbal) | [Fight Like Apes](https://open.spotify.com/artist/2VOkiGmdX339sjwVUeYYr4) | [Fight Like Apes and the Mystery of the Golden Medallion](https://open.spotify.com/album/65ArGbPjmM3riA86WmOZgZ) | 2:35 |
 | 31 | [Anti\-Anti](https://open.spotify.com/track/49LwAJvjOP7kEZoCJihnN0) | [Snowden](https://open.spotify.com/artist/6Gb8mAVRq8aK1yfGnfVAg3) | [Anti\-Anti](https://open.spotify.com/album/312J338tGDj3Opad5DJJT4) | 3:55 |
 
-Snapshot ID: `MCw2NGNkNTdkZWY2OGU4OTcyMTJjMWMwN2E2OGE2YWRkOTU5ODY0ZDU5`
+Snapshot ID: `MCxkNzBjNDQ3NjRiMDQxYzI0Njg5MGI1YzE2MDE2ZWVmM2MzNTYyZDcx`

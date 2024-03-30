@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-53 songs - 2 hr 53 min
+54 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 | 2023-11-09 |  |
 | [WHAT](https://open.spotify.com/track/3CPtRIybgrYhldTswmLdtq) | [Plum](https://open.spotify.com/artist/4srsioGBsXTm1SM18U5TeZ) | [WHAT](https://open.spotify.com/album/0UxmZV8hLl69za8DZ4dfVH) | 3:31 | 2023-11-09 |  |
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2023-11-09 |  |
+| [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 | 2024-03-29 |  |
 | [YOLO!!](https://open.spotify.com/track/58ArJNuSY3iTL6SyTVtMhw) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/5pgMsHengwvJz9vYopbFGj) | 3:29 | 2023-11-09 |  |
 | [내가 들었는데](https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg) | [TIKITIK](https://open.spotify.com/artist/4I5VHsJIkTdNbQNC2xkSEO) | [내가 들었는데](https://open.spotify.com/album/0OSQOFnrNebz3m98FQtQxD) | 1:18 | 2024-03-08 |  |
 

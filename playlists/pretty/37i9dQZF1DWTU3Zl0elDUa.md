@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,744 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,956 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 10 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 11 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
 | 12 | [The Only Way Is Up](https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy) | [Yazz](https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8) | [Wanted](https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x) | 4:28 |
-| 13 | [Deep Inside](https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Hardrive](https://open.spotify.com/album/58gDcsComtrCGQGzSuD031) | 6:32 |
-| 14 | [My Feeling \- Daddy's Prime Time Edit](https://open.spotify.com/track/1HkPj9fZFpjAoAUigBAmJS) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [My Feeling](https://open.spotify.com/album/0wZmxx9tdFJGYkkTjZ5ew5) | 3:48 |
+| 13 | [My Feeling \- Daddy's Prime Time Edit](https://open.spotify.com/track/1HkPj9fZFpjAoAUigBAmJS) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [My Feeling](https://open.spotify.com/album/0wZmxx9tdFJGYkkTjZ5ew5) | 3:48 |
+| 14 | [Deep Inside](https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Hardrive](https://open.spotify.com/album/58gDcsComtrCGQGzSuD031) | 6:32 |
 | 15 | [Make The World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make The World Go Round](https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0) | 3:50 |
 | 16 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 |
 | 17 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 | 60 | [Nothing Better \- Tmvs Club Mix](https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2) | [Colourblind](https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC), [Dina Roache](https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO) | [Underground Gems, Vol\. 2](https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa) | 6:35 |
 
-Snapshot ID: `MCw3NjZlZjc0YWQ5OGVjNWQ5ODEzMjhmYjMyODY2OTBjZGYwMGFkMDE5`
+Snapshot ID: `MCwzYzZlY2EyYjc3OWVkODdlODQzYjU0YTAzOGJjNjkxMWI0OGM0NjZl`

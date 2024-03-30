@@ -4,7 +4,7 @@
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-95 songs - 4 hr 54 min
+96 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Nursery Rhyme Rock](https://open.spotify.com/track/1CZ4Wzu1EHqyGT2AsIeDlG) | [Wynona Carr](https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP) | [Jump Jack Jump!](https://open.spotify.com/album/7xAQpANaShSbcAUfPs39ci) | 1:56 | 2023-08-23 |  |
 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 | 2022-05-25 |  |
 | [Rock the Bop](https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:10 | 2022-05-25 | 2022-07-25 |
-| [Rock The Bop](https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp) | 2:13 | 2022-07-08 |  |
+| [Rock The Bop](https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni) | 2:12 | 2023-08-23 |  |
+| [Rock The Bop](https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp) | 2:13 | 2022-07-08 | 2024-03-30 |
 | [Romance in the Dark](https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p) | [Lil Green](https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS) | [The Blues Mama](https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ) | 3:24 | 2022-05-25 | 2022-07-29 |
 | [Romance In The Dark](https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 3:22 | 2023-01-10 |  |
 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 | 2022-05-25 |  |

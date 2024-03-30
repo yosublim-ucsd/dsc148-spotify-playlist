@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106471,
+  "num_followers": 106468,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzk0NjEwM2ZmNjI2OTk3MzMxZDEyYzJlM2U3NmE2NjBhMDlkZTUw",
+  "snapshot_id": "MCw0N2I2MDFmMzM4MDA2MzRlYTQzZWE4N2E2YmU5MmY5NTZkMmI2OGMz",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 238853,
       "name": "My Number",
       "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Episode ll",
         "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "A Grand Don't Come for Free",
+        "url": "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Fit but You Know It",
+      "url": "https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -1071,6 +1087,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Omen (Radio Edit)",
+        "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 196817,
+      "name": "Omen - Radio Edit",
+      "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -1083,22 +1119,6 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "A Grand Don't Come for Free",
-        "url": "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u"
-      },
-      "artists": [
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Fit but You Know It",
-      "url": "https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1131,26 +1151,6 @@
       "duration_ms": 594453,
       "name": "Fools Gold - Remastered",
       "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Omen (Radio Edit)",
-        "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 196817,
-      "name": "Omen - Radio Edit",
-      "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "L.S.F.",
-      "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 150439,
       "name": "Levanta e Anda",
       "url": "https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "L.S.F.",
+      "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Don't You Worry, Honey",
-        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 226587,
-      "name": "&Run",
-      "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Welcome To The Monkey House",
         "url": "https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 199960,
       "name": "We Used To Be Friends",
       "url": "https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Don't You Worry, Honey",
+        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 226587,
+      "name": "&Run",
+      "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Turn The Radio Off",
-        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Sell Out",
-      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Window",
         "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Turn The Radio Off",
+        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
     },
     {
       "added_at": "2022-11-02 14:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating 20 years of  <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX\-n7beSCAHzBQ">Thandiswa's</a>  Zabalaza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,473 likes - 60 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,562 likes - 60 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 31 | [Sister Bethina](https://open.spotify.com/track/6MRc3b6gqj916Q2Jjfnswf) | [Mgarimbe](https://open.spotify.com/artist/375le8C5ntGjYVNl3dGYgY) | [Sister Bethina](https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8) | 4:21 |
 | 32 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
 | 33 | [Manyonyoba](https://open.spotify.com/track/2KfKIMj000VYsDxI7Yb4Wi) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King of Kwaito Uyagawula](https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS) | 5:21 |
-| 34 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
-| 35 | [Thobela](https://open.spotify.com/track/1drh3aU7uJON1xjnGWonCa) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(no need to claim\)](https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt) | 4:46 |
+| 34 | [Thobela](https://open.spotify.com/track/1drh3aU7uJON1xjnGWonCa) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(no need to claim\)](https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt) | 4:46 |
+| 35 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
 | 36 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 |
 | 37 | [Heavenly Sent](https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:27 |
 | 38 | [Groovers Prayer](https://open.spotify.com/track/36RAIEs4JnZH2SQOVA0RxK) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4) | 5:41 |
-| 39 | [Burn Out](https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw) | 4:54 |
-| 40 | [How Do You Feel](https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 5:06 |
+| 39 | [How Do You Feel](https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 5:06 |
+| 40 | [Burn Out](https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw) | 4:54 |
 | 41 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
 | 42 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
 | 43 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
-| 44 | [Bengim'ngaka](https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE) | 5:15 |
-| 45 | [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 |
+| 44 | [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 |
+| 45 | [Bengim'ngaka](https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE) | 5:15 |
 | 46 | [Impi](https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc) | [Johnny Clegg & Juluka](https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q), [Sipho Mchunu](https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc) | [African Litany](https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t) | 4:45 |
 | 47 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 48 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
 | 60 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 
-Snapshot ID: `MCw3NjUyOGRhNTM3MTNlMWMxM2M0MjQ5MzQ5ZjhhMDc2NzZhMTJmMDQ1`
+Snapshot ID: `MCxmMWRlNzQ0NTdkYTJhOTM2ZTc1MTE3M2VmMzY3OGQyMzcyYTdlZWFh`

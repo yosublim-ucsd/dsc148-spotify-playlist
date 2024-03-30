@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-106 songs - 7 hr 10 min
+108 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,10 +32,12 @@
 | [Dance in the Rain](https://open.spotify.com/track/71nvD9S3qUai7oeccEL9ZM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:38 | 2021-12-28 | 2024-03-26 |
 | [E Be Like Say](https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:46 | 2021-12-28 |  |
 | [Enter the Place](https://open.spotify.com/track/6LqsK7gCnFNaLS5UcZCWMF) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:21 | 2021-12-28 | 2023-02-07 |
+| [Enter the Place \(feat\. Sound Sultan\)](https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:21 | 2024-03-29 |  |
 | [Feeling You](https://open.spotify.com/track/58m7KaE0iO9T8z2rChajKC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:22 | 2022-01-12 | 2022-12-18 |
 | [Fly](https://open.spotify.com/track/6IBO1NCDDbL9SzQ9A1vFVQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:10 | 2022-06-09 | 2022-06-12 |
 | [For You](https://open.spotify.com/track/4O3m2HsquDGNrytYIRdj3B) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Omo Baba Olowo: The Genesis](https://open.spotify.com/album/5XNb9GHjQa9DA2tWeQzJxU) | 3:39 | 2022-10-25 | 2022-10-27 |
 | [Free](https://open.spotify.com/track/69koGdRVayRzMDWNyIKQYt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Ehi Idibia](https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 3:50 | 2021-12-28 | 2024-03-24 |
+| [Free \(feat\. Ehi Idibia\)](https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Ehi Idibia](https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 3:50 | 2024-03-29 |  |
 | [Frenemies](https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Frenemies](https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs) | 4:01 | 2022-07-02 | 2023-01-16 |
 | [Gaga Shuffle](https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gaga Shuffle](https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO) | 3:41 | 2021-12-28 |  |
 | [Geshomo](https://open.spotify.com/track/5UrFUR3rGEuDQaKTQi4RQR) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Geshomo](https://open.spotify.com/album/5kDSduetHJQi0aCLtrBaXm) | 3:46 | 2021-12-28 | 2024-01-12 |

@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Diljit and Saweetie
 
-319 songs - 16 hr 31 min
+320 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Back of Car](https://open.spotify.com/track/12VUzFFZktld3iDJjjD8ao) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 2:48 | 2023-10-25 | 2023-12-13 |
 | [Bakamaal](https://open.spotify.com/track/0dcwP39qbjJu3eBKb0pTcm) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Jadugarriya](https://open.spotify.com/album/5b09lfsnRBglWbzFFHVwuO) | 2:27 | 2024-02-06 | 2024-02-23 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-09-16 |  |
+| [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 | 2024-03-29 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-05-29 | 2022-08-20 |
 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2022-12-10 | 2024-02-20 |
 | [Bhalwani Gedi](https://open.spotify.com/track/6v1eVFNX8VmZQHY4woM9R6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:27 | 2022-05-29 | 2023-08-01 |
@@ -235,7 +236,7 @@
 | [Rang Kala](https://open.spotify.com/track/28nV777UfgMKXkvP4b9szK) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Mukhtar Sahota](https://open.spotify.com/artist/5SxQsyAuCp6fIqF3eGoirU), [Pappi Gill](https://open.spotify.com/artist/0y9VHWrQQ9y8WKYdBB3bc1), [Inder D Last Level](https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d) | [Rang Kala](https://open.spotify.com/album/40VbZACJYmgtAb1vCB1ct7) | 1:51 | 2024-02-02 | 2024-02-13 |
 | [Rank 1](https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:59 | 2023-09-29 |  |
 | [Raule](https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Raule](https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0) | 3:15 | 2022-05-29 | 2022-11-19 |
-| [Real Talk](https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Real Talk](https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt) | 2:38 | 2024-03-15 |  |
+| [Real Talk](https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Real Talk](https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt) | 2:38 | 2024-03-15 | 2024-03-30 |
 | [Red Chilli](https://open.spotify.com/track/2ZxdwRUfd0LiAshQclfQZb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:32 | 2022-07-15 | 2022-10-08 |
 | [Roll Deep](https://open.spotify.com/track/4jRoXx97M0sSZBfwMkBEDV) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Roll Deep](https://open.spotify.com/album/0cQDo3urPpbh6QAawatABo) | 3:02 | 2022-05-29 | 2022-10-08 |
 | [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2023-08-23 |  |

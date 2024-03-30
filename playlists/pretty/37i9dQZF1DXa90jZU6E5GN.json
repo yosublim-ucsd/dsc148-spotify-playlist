@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 216632,
+  "num_followers": 216776,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2RhNGU5ZDMxZTFjZTMxYTdhNWI1MzU2NWEzZDRjM2Q0MmE3M2Q1",
+  "snapshot_id": "MCwzYTNlZWI3MjNiYzFmZmY4ZWQ4ZTJiMWEyNDNiNmFiOGNmZDNlZTcy",
   "tracks": [
     {
       "added_at": "2024-03-01 03:49:47",
@@ -204,7 +204,7 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 235636,
+      "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm"
     },
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-01 03:49:47",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ"
-    },
-    {
-      "added_at": "2024-03-01 03:49:47",
-      "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 174120,
       "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
+    },
+    {
+      "added_at": "2024-03-01 03:49:47",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ"
     },
     {
       "added_at": "2024-03-01 03:49:47",

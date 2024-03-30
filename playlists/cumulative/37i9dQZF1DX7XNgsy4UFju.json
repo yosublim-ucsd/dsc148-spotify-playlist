@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Francis of Delirium",
+  "description": "The best indie tracks of the moment. Cover: Crumb",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 188571,
       "name": "199x",
       "url": "https://open.spotify.com/track/0Ms3qD8r61Q55OWjGve4FQ"
+    },
+    {
+      "album": {
+        "name": "QWERTY II",
+        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289760,
+      "name": "2 2 BOOTLEG",
+      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
     },
     {
       "album": {
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 175023,
       "name": "All the Same",
       "url": "https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl"
@@ -1446,6 +1464,24 @@
       "duration_ms": 172242,
       "name": "Always",
       "url": "https://open.spotify.com/track/4H33FcfmXo8xHbhV0Vs613"
+    },
+    {
+      "album": {
+        "name": "AMAMA",
+        "url": "https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "AMAMA",
+      "url": "https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D"
     },
     {
       "album": {
@@ -3512,7 +3548,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201533,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK"
@@ -3914,6 +3950,24 @@
       "duration_ms": 148330,
       "name": "candyflips!",
       "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
     },
     {
       "album": {
@@ -4582,6 +4636,24 @@
       "duration_ms": 194293,
       "name": "Cinerama Holy Days",
       "url": "https://open.spotify.com/track/6MDhDl5nIsnxd4FZ8si02B"
+    },
+    {
+      "album": {
+        "name": "Virer nos vies",
+        "url": "https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162106,
+      "name": "Cinq minutes pile",
+      "url": "https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS"
     },
     {
       "album": {
@@ -6265,6 +6337,28 @@
     },
     {
       "album": {
+        "name": "All I Ever Want Is Everything",
+        "url": "https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        },
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200366,
+      "name": "Disappearing (feat. Magdalena Bay)",
+      "url": "https://open.spotify.com/track/0nxPeolI7FlljJ3SnNYDmj"
+    },
+    {
+      "album": {
         "name": "Disaster Girl",
         "url": "https://open.spotify.com/album/1UCrUZHeQ7ohG9Z1H0YxsU"
       },
@@ -7046,7 +7140,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 151000,
       "name": "Easy",
       "url": "https://open.spotify.com/track/7JxgVxbmzuzwjgZPrpDcZj"
@@ -7620,7 +7714,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180040,
       "name": "Everything Almost",
       "url": "https://open.spotify.com/track/64cSblcHs4nVN1DfSDTT9O"
@@ -8538,6 +8632,24 @@
       "duration_ms": 249146,
       "name": "Fi\u00e8vre",
       "url": "https://open.spotify.com/track/0i52Kimd9JK0cYbbqBYR6R"
+    },
+    {
+      "album": {
+        "name": "Flea",
+        "url": "https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226578,
+      "name": "Flea",
+      "url": "https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z"
     },
     {
       "album": {
@@ -10958,7 +11070,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 163775,
       "name": "Her Garden",
       "url": "https://open.spotify.com/track/2tHxMpPtSgu7NmGZULdNaU"
@@ -11174,7 +11286,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 235444,
       "name": "Hold Him",
       "url": "https://open.spotify.com/track/05PrnPGWceL8GlsdfkXeH3"
@@ -13166,6 +13278,24 @@
       "duration_ms": 161040,
       "name": "It Takes a Thief",
       "url": "https://open.spotify.com/track/39J0UovNGz4W0r67UYmR5K"
+    },
+    {
+      "album": {
+        "name": "it'll be alright",
+        "url": "https://open.spotify.com/album/39Kg078Fkl3eaw3bcdRA8a"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253018,
+      "name": "it'll be alright",
+      "url": "https://open.spotify.com/track/1ksfm4onmPLgyRmar3P9ev"
     },
     {
       "album": {
@@ -15748,6 +15878,24 @@
       "duration_ms": 122237,
       "name": "Make Peace with That",
       "url": "https://open.spotify.com/track/2Ps3rsuD8K52laHDdQLIJw"
+    },
+    {
+      "album": {
+        "name": "Make Ya Proud",
+        "url": "https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Make Ya Proud",
+      "url": "https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy"
     },
     {
       "album": {
@@ -19449,6 +19597,24 @@
     },
     {
       "album": {
+        "name": "Our Bodies Paint Traffic Lines",
+        "url": "https://open.spotify.com/album/65v7DBaXleofoHOwm73Rfc"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Picture Of Her",
+      "url": "https://open.spotify.com/track/5D92OjuP9ZWduAkG3hopnp"
+    },
+    {
+      "album": {
         "name": "Pilgrimage",
         "url": "https://open.spotify.com/album/4eIw6qAS8xcAdBPvxjwOwJ"
       },
@@ -21084,6 +21250,24 @@
       "duration_ms": 253745,
       "name": "rot in love",
       "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
+    },
+    {
+      "album": {
+        "name": "Mourning Myth",
+        "url": "https://open.spotify.com/album/40Vt4i7A5fjg79i1QH6chF"
+      },
+      "artists": [
+        {
+          "name": "Sara Sloan",
+          "url": "https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313714,
+      "name": "Rot My Teeth",
+      "url": "https://open.spotify.com/track/3PGQCE4zFN6QCM1NBKHNbf"
     },
     {
       "album": {
@@ -23816,7 +24000,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 223013,
       "name": "Style",
       "url": "https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj"
@@ -24375,6 +24559,24 @@
     },
     {
       "album": {
+        "name": "Take Me to the River",
+        "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264066,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
+    },
+    {
+      "album": {
         "name": "Take What's Given",
         "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
       },
@@ -24404,7 +24606,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 235821,
       "name": "take yr time",
       "url": "https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx"
@@ -28356,7 +28558,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 292762,
       "name": "When You Can't Resist",
       "url": "https://open.spotify.com/track/5ugz3Qoe8jaIu4dfy30g9x"
@@ -28788,7 +28990,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 194069,
       "name": "Wish You Were Dead",
       "url": "https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE"
@@ -28925,6 +29127,24 @@
     },
     {
       "album": {
+        "name": "World on a String",
+        "url": "https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "World on a String",
+      "url": "https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8"
+    },
+    {
+      "album": {
         "name": "Vault (2011-2021)",
         "url": "https://open.spotify.com/album/20IHqr67unmN2HLWwlSqBF"
       },
@@ -28994,7 +29214,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 166071,
       "name": "Worth More",
       "url": "https://open.spotify.com/track/3CI8lCa26dBqaS2xO8SNOK"
@@ -29102,7 +29322,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 242906,
       "name": "Years On",
       "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"

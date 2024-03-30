@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-203 songs - 10 hr 44 min
+204 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,13 @@
 | [Bagdadi](https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN) | [Semicolon](https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Bagdadi](https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW) | 2:50 | 2023-09-27 |  |
 | [Balak Gaama Ke](https://open.spotify.com/track/1ze9e3pkjdU9z6R7jPKuvN) | [Hallu Mandiaala](https://open.spotify.com/artist/5hXwj2AU0GkQlBvj6rLPLE), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy) | [Balak Gaama Ke](https://open.spotify.com/album/4fPKkFkpNkPo7752kqqfbk) | 2:36 | 2023-09-08 | 2024-02-24 |
 | [BANDEKHANI](https://open.spotify.com/track/0Yly2vTZ58vOK2pbRbTAhx) | [Ricky Singh](https://open.spotify.com/artist/7dC0vBjsZRfnAbl5MDjWjm), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [BANDEKHANI](https://open.spotify.com/album/7jfDVnMgbgUXhiqa9PvU64) | 3:09 | 2023-12-14 | 2024-02-08 |
+| [Banger](https://open.spotify.com/track/0WSsU9xfo2zGol8MYqO9q4) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Banger](https://open.spotify.com/album/4SpOQqLYAKJg1woQLczbjm) | 3:28 | 2024-03-29 |  |
 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-13 |  |
 | [Beat Pe Haley](https://open.spotify.com/track/1zKCjvOntyHye2uo9yStm7) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [SPOILER](https://open.spotify.com/artist/0sUr4Ao1sdL4xjebJJHQoY) | [Beat Pe Haley](https://open.spotify.com/album/0rYNzF3IEoaJZpsmWIDwUW) | 2:34 | 2023-12-22 |  |
 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 | 2023-04-28 |  |
 | [Bhaichara](https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bhaichara](https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb) | 3:26 | 2024-01-05 |  |
 | [Black life](https://open.spotify.com/track/74PN0yUa0pL2uedZJ15tGm) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Black life](https://open.spotify.com/album/2HJKafEE448WWI7E129xpv) | 3:05 | 2023-03-28 | 2023-06-17 |
-| [Bliss \- From "Jimmy"](https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Dada Sadhu](https://open.spotify.com/artist/3P3buIpCGVMGlPrKKgurVy) | [Bliss \(From "Jimmy"\)](https://open.spotify.com/album/6sy7CsO6mRH7Elj7Gwu5hh) | 2:33 | 2024-01-13 |  |
+| [Bliss \- From "Jimmy"](https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Dada Sadhu](https://open.spotify.com/artist/3P3buIpCGVMGlPrKKgurVy) | [Bliss \(From "Jimmy"\)](https://open.spotify.com/album/6sy7CsO6mRH7Elj7Gwu5hh) | 2:33 | 2024-01-13 | 2024-03-30 |
 | [Block](https://open.spotify.com/track/0XzK73hl9PBxh01JpYaqdn) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Block](https://open.spotify.com/album/7Lf1Vng4s2wSghiTNz9dqI) | 3:24 | 2024-03-18 |  |
 | [Bonjour](https://open.spotify.com/track/1X0uwEHBqPZiXnpFT1hZDm) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Bonjour](https://open.spotify.com/album/7EGPSrVw9GfbFOzEs46T2b) | 2:53 | 2023-06-10 | 2023-11-23 |
 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 | 2023-11-06 |  |

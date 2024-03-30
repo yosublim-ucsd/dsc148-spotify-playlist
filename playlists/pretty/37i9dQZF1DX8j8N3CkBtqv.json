@@ -1,13 +1,157 @@
 {
-  "description": "Naye Indie gaano ka khazana! Cover- Siddharth Pandit",
-  "num_followers": 69623,
+  "description": "Naye Indie gaano ka khazana! Cover- Akshath, Soham Mukherji",
+  "num_followers": 69637,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2FmYmFmNmYyMTI2MjM5MTk1NDQyM2U4N2RiNDdiZjA0N2Y1Y2Vj",
+  "snapshot_id": "MCxmMTI1OTcxMzNlZjdhOWJlYjU5ZTI2M2IzMjM0OTdkNDUwMmZkYTc1",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:02:00",
+      "album": {
+        "name": "Tu Hi Wajah",
+        "url": "https://open.spotify.com/album/07DK8yVmNKVoXBjAvcUaFv"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        },
+        {
+          "name": "Soham Mukherji",
+          "url": "https://open.spotify.com/artist/0IwBTR3mDRKVXdUonhC0X6"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Tu Hi Wajah",
+      "url": "https://open.spotify.com/track/10FQmDMezz77rIqeedLsiw"
+    },
+    {
+      "added_at": "2024-03-29 04:02:00",
+      "album": {
+        "name": "Hania",
+        "url": "https://open.spotify.com/album/3GilDUB1JJwDaSewWiF5t9"
+      },
+      "artists": [
+        {
+          "name": "PRIYANSHU",
+          "url": "https://open.spotify.com/artist/7eEvdqIc3p9CqKs7EbmQl9"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "duration_ms": 131803,
+      "name": "Hania",
+      "url": "https://open.spotify.com/track/7yER8tfabF5oi4Kr2wn3q3"
+    },
+    {
+      "added_at": "2024-03-29 04:02:00",
+      "album": {
+        "name": "Paaro",
+        "url": "https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "duration_ms": 153214,
+      "name": "Paaro",
+      "url": "https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW"
+    },
+    {
+      "added_at": "2024-03-29 04:02:00",
+      "album": {
+        "name": "Just Like A Movie",
+        "url": "https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 198034,
+      "name": "Just Like A Movie",
+      "url": "https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E"
+    },
+    {
+      "added_at": "2024-03-29 04:02:00",
+      "album": {
+        "name": "Betabiyaan",
+        "url": "https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4"
+      },
+      "artists": [
+        {
+          "name": "Sayuj Jain",
+          "url": "https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO"
+        }
+      ],
+      "duration_ms": 202647,
+      "name": "Betabiyaan",
+      "url": "https://open.spotify.com/track/7pv3jYk70LbTsKOhYzqOWo"
+    },
+    {
+      "added_at": "2024-03-29 04:02:00",
+      "album": {
+        "name": "Pahadi Pyaar",
+        "url": "https://open.spotify.com/album/2x5Tj96nhW7aiYbf5lgTBf"
+      },
+      "artists": [
+        {
+          "name": "Liquid Lake",
+          "url": "https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r"
+        },
+        {
+          "name": "ACHINX",
+          "url": "https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm"
+        },
+        {
+          "name": "Gulbis Khan",
+          "url": "https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3"
+        }
+      ],
+      "duration_ms": 94848,
+      "name": "Pahadi Pyaar",
+      "url": "https://open.spotify.com/track/5ebIDeI6UXzJUZMP7cvTxp"
+    },
+    {
+      "added_at": "2024-03-29 04:02:00",
+      "album": {
+        "name": "Keh Do Na",
+        "url": "https://open.spotify.com/album/5wgVnVCdnL1jREw2cqF2re"
+      },
+      "artists": [
+        {
+          "name": "Khayaal",
+          "url": "https://open.spotify.com/artist/5Kfjxy64QteoXxlMjjNU48"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Keh Do Na",
+      "url": "https://open.spotify.com/track/4omVbcvxhrZC3W3vHsk7n2"
+    },
+    {
+      "added_at": "2024-03-29 04:02:00",
+      "album": {
+        "name": "Taareyan Toh Puch",
+        "url": "https://open.spotify.com/album/4u6e3vVbivKZ3VurCr3dZj"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Shrivastava",
+          "url": "https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Taareyan Toh Puch",
+      "url": "https://open.spotify.com/track/6RkZeLJlIOGpjWwnMqQjJ3"
+    },
     {
       "added_at": "2024-03-22 06:22:31",
       "album": {
@@ -975,26 +1119,6 @@
     {
       "added_at": "2024-02-23 06:17:03",
       "album": {
-        "name": "Naraazi",
-        "url": "https://open.spotify.com/album/0o7HXaoczY4RKvSrdXSUb1"
-      },
-      "artists": [
-        {
-          "name": "Justin-Uday Duo",
-          "url": "https://open.spotify.com/artist/0dgFnJR85CxQiq9g64huN8"
-        },
-        {
-          "name": "Anand Bhaskar",
-          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Naraazi",
-      "url": "https://open.spotify.com/track/2W5B2owXYHulX3HiDzy28x"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
         "name": "Khwab Tum",
         "url": "https://open.spotify.com/album/4z11e3PyBWXyhpcmUTxunD"
       },
@@ -1023,58 +1147,6 @@
       "duration_ms": 213725,
       "name": "Musafir",
       "url": "https://open.spotify.com/track/6ignzDlAQZe3ZLM8xZqjNK"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
-        "name": "Love Is Not A Fucking Game",
-        "url": "https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v"
-      },
-      "artists": [
-        {
-          "name": "Kamakshi Khanna",
-          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Love Is Not A Fucking Game",
-      "url": "https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
-        "name": "Ibadat",
-        "url": "https://open.spotify.com/album/3jIftDearbbeAnE7Sad8Kd"
-      },
-      "artists": [
-        {
-          "name": "Karan Nawani",
-          "url": "https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Ibadat",
-      "url": "https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
-        "name": "KHOJ / GUMSHUDA",
-        "url": "https://open.spotify.com/album/3YldvIhpkUKBqYRwzOySp2"
-      },
-      "artists": [
-        {
-          "name": "Nikhil - Swapnil",
-          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
-        },
-        {
-          "name": "Aditya Kalway",
-          "url": "https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Khoj",
-      "url": "https://open.spotify.com/track/4z7NoO2owEf6uD4CsJV2WY"
     },
     {
       "added_at": "2024-02-23 06:17:03",
@@ -1191,22 +1263,6 @@
     {
       "added_at": "2024-02-23 06:17:03",
       "album": {
-        "name": "Dilbar Maanja",
-        "url": "https://open.spotify.com/album/4tKDE1D37FyuGaElcNwW2i"
-      },
-      "artists": [
-        {
-          "name": "Kartik Raman",
-          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
-        }
-      ],
-      "duration_ms": 192281,
-      "name": "Dilbar Maanja",
-      "url": "https://open.spotify.com/track/2XhIP88BxjhDl0ShpjY4gK"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
         "name": "Subah Ke Taare",
         "url": "https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye"
       },
@@ -1263,22 +1319,6 @@
     {
       "added_at": "2024-02-23 06:17:03",
       "album": {
-        "name": "Haule Haule",
-        "url": "https://open.spotify.com/album/4YlD1ZFslLuVIhlcVF7sNf"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Haule Haule",
-      "url": "https://open.spotify.com/track/73ut9PgPkIFo2aNSdROBQ6"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
         "name": "Dil Besabar",
         "url": "https://open.spotify.com/album/06uoaelB6yCxzSUEr5KufN"
       },
@@ -1311,22 +1351,6 @@
       "duration_ms": 175686,
       "name": "Mera Chaand",
       "url": "https://open.spotify.com/track/1OpaXuFejD7SZihxltCY0i"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/3Fb4LigELi4LdpyE3czz6C"
-      },
-      "artists": [
-        {
-          "name": "Abir",
-          "url": "https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO"
-        }
-      ],
-      "duration_ms": 134794,
-      "name": "Meri Hoyi Ni",
-      "url": "https://open.spotify.com/track/57fWILOdFXgzQ6lJTxH5Hc"
     },
     {
       "added_at": "2024-02-23 06:17:03",
@@ -1375,26 +1399,6 @@
       "duration_ms": 206666,
       "name": "Jaadu Tone",
       "url": "https://open.spotify.com/track/1YCT4RaXdXtqqb4AjBZOc2"
-    },
-    {
-      "added_at": "2024-02-23 06:17:03",
-      "album": {
-        "name": "Jiya Jaise",
-        "url": "https://open.spotify.com/album/7cOkHnDXeP1bZYiscIIMcj"
-      },
-      "artists": [
-        {
-          "name": "Raghav Kaushik",
-          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Jiya Jaise",
-      "url": "https://open.spotify.com/track/0HN9mR6ajzVOnJcD4L0R8Z"
     },
     {
       "added_at": "2024-02-23 06:17:03",

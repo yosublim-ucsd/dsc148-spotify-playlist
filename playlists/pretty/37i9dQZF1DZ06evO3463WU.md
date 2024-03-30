@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,410 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,476 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 35 | [Con El Alma En La Mano](https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:40 |
 | 36 | [Estrenando Amante](https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Estrenando Amante](https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw) | 2:48 |
 | 37 | [De Frente Al Mar](https://open.spotify.com/track/4GSIoYyjKvTU7NieBjI2Dp) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:05 |
-| 38 | [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 |
+| 38 | [Pero La Recuerdo](https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Pero La Recuerdo](https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG) | 3:45 |
 | 39 | [Mi Gran Problema](https://open.spotify.com/track/41biWbuI9FIa4Kk3d53q1Z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:35 |
-| 40 | [Pero La Recuerdo](https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Pero La Recuerdo](https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG) | 3:45 |
+| 40 | [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 |
 | 41 | [Una Tarde Como Cualquiera](https://open.spotify.com/track/3bQbNaVJBG3XishLUHdBWe) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Historia](https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq) | 3:10 |
 | 42 | [Inventame Un Amor](https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 4:01 |
 | 43 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/5ck9PhKtvFsuCN8zEAG4C4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Historia De Un Amor](https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Historia De Un Amor](https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D) | 2:59 |
 | 50 | [No Va a Matarme Tu Amor](https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [No Va a Matarme Tu Amor](https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX) | 3:09 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA0NGU2NWQ2OTIyZTM3MmZiZTIwZTdkM2U0NDQ3NmFiMw==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDA3NzQ0ZjM1NDEwZDQwNTA4MjY3N2QzMTg2ZjVkNDQ3ZA==`

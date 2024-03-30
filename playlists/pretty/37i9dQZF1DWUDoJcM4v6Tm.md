@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,129 likes - 134 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,162 likes - 134 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 123 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 |
 | 124 | [Bloodbuzz Ohio](https://open.spotify.com/track/6VaUCACDvyJhcfQIrkgCzZ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Bloodbuzz Ohio](https://open.spotify.com/album/3FAtFkpKEdSkgz3i4iUc0z) | 4:39 |
 | 125 | [Cleansed by Fire](https://open.spotify.com/track/2pmasgMBMNMLTHg9oRvWD0) | [Johanna Warren](https://open.spotify.com/artist/2K5c4N7j15hUwrvv0ejlvV) | [Gemini II \(Deluxe Edition\)](https://open.spotify.com/album/5mTFCwPlRynfgx8qTCg8qK) | 4:55 |
-| 126 | [Nimbin](https://open.spotify.com/track/0HrkzfsTe9A1sQqlX52i54) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone \(2021\)](https://open.spotify.com/album/4SO25UH7HeZSVGNzHhYiCJ) | 4:43 |
+| 126 | [Nimbin](https://open.spotify.com/track/4Vz1CcsZJQ9s0btUv0Wy3K) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone](https://open.spotify.com/album/1c6ZD2lIKNEHtuMEboUxsH) | 4:43 |
 | 127 | [Bobby](https://open.spotify.com/track/0mW58kig39aueBh99f6yGz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 3:25 |
 | 128 | [How It Gets In \(feat\. Julien Baker\)](https://open.spotify.com/track/0jcAmr7hBv8VYVwPvpl4Aa) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Recorded Songs](https://open.spotify.com/album/2N1Z1w6GCGtLDfn7ePvSk0) | 2:41 |
 | 129 | [Cigarette](https://open.spotify.com/track/4s4BIvTUw4u42s6iKBqFtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [I'm Not Your Man](https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2) | 2:37 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 133 | [The Kingfisher](https://open.spotify.com/track/18wuWtph9JW9dA9nNLwPx5) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 3:26 |
 | 134 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 |
 
-Snapshot ID: `MCxmNzMzNDc2NmYzNmZjOWQzM2ViNjIzZmE1MWI3MzMyNDdmMjY0N2Fh`
+Snapshot ID: `MCxiNTExNzY3MDk3ZGRkOGE3N2E1MmE2ZWI1ZjY4OGE1NDk2ZmQyY2Iw`

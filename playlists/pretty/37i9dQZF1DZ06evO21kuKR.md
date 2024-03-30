@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,264 likes - 51 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,288 likes - 51 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 37 | [Certified Dripper 2 \(with MoneyBagg Yo\)](https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:04 |
 | 38 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |
 | 39 | [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 |
-| 40 | [Pistol By Da Bed](https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 1:59 |
-| 41 | [Don't Kno](https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 2:47 |
-| 42 | [Don't Worry \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0jYuyvmZaMNUDQicdPXNMy) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big Doodie Lo](https://open.spotify.com/album/76Eiy74blIlWShse7Iu8GL) | 2:21 |
+| 40 | [Don't Kno](https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 2:47 |
+| 41 | [Don't Worry \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0jYuyvmZaMNUDQicdPXNMy) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big Doodie Lo](https://open.spotify.com/album/76Eiy74blIlWShse7Iu8GL) | 2:21 |
+| 42 | [Pistol By Da Bed](https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 1:59 |
 | 43 | [Feel The Same Way \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5nh5iMaYliOmgrhohSNOtJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hunger Games 3](https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za) | 3:32 |
-| 44 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 |
-| 45 | [Doin 2 Much](https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [2 Federal](https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn) | 3:24 |
+| 44 | [Doin 2 Much](https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [2 Federal](https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn) | 3:24 |
+| 45 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 |
 | 46 | [All Dat \(with Megan Thee Stallion\)](https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:23 |
 | 47 | [Special Remix \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:41 |
 | 48 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 50 | [Speak 4 Em](https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:22 |
 | 51 | [Dior \(feat\. Gunna\)](https://open.spotify.com/track/683tYxiTlWzupDpaZ2mCv4) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:53 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBjZjkzODUzZGM0MzQ2OWRiYjczNzZmNTViNzkxY2FjMw==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDAxODM2MTU1N2I0ZWZiZWU1MGFlMDUwMDcwMDRlN2VlYw==`

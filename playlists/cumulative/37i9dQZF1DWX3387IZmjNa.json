@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 142804,
       "name": "Evil Twin",
       "url": "https://open.spotify.com/track/5ogdlI3bD8y3xj9uCepauq"
@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 249515,
       "name": "Head Doctor (with Lil Tecca)",
       "url": "https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc"
@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 191958,
       "name": "Lady",
       "url": "https://open.spotify.com/track/25fFWud9ZPEOkKwh7gKkoj"
@@ -5979,6 +5979,24 @@
     },
     {
       "album": {
+        "name": "OkOk",
+        "url": "https://open.spotify.com/album/2Y0sGDTGTUqGPbNC6VU9S3"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156560,
+      "name": "OkOk",
+      "url": "https://open.spotify.com/track/5EYYmgwS88sY8eCWPvE4P8"
+    },
+    {
+      "album": {
         "name": "TWOPOINTFIVE",
         "url": "https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY"
       },
@@ -6360,6 +6378,24 @@
       "duration_ms": 158268,
       "name": "Playa (feat. H.E.R.) - Bonus",
       "url": "https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd"
+    },
+    {
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/1c2wyc7P8zlhlHfJ2Yp5IP"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/3tfBtzdP9fXC53Hf0tbbdd"
     },
     {
       "album": {
@@ -6873,6 +6909,24 @@
     },
     {
       "album": {
+        "name": "STREETS SAY YOU STILL MISS ME",
+        "url": "https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163503,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u"
+    },
+    {
+      "album": {
         "name": "Expensive Pain",
         "url": "https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K"
       },
@@ -6892,6 +6946,24 @@
       "duration_ms": 182250,
       "name": "Ride For You (feat. Kehlani)",
       "url": "https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb"
+    },
+    {
+      "album": {
+        "name": "STREETS SAY YOU STILL MISS ME",
+        "url": "https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230984,
+      "name": "RIDIN 4 U",
+      "url": "https://open.spotify.com/track/4YrCMmKendEc0HTGmTQR84"
     },
     {
       "album": {
@@ -8408,7 +8480,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 139504,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM"

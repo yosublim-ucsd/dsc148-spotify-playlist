@@ -4,7 +4,7 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 32 min
+74 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [NO\-ID](https://open.spotify.com/track/1V8zHDExMGLyqRJ8hQZk8m) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 | 2022-06-17 | 2024-03-09 |
 | [One Day](https://open.spotify.com/track/4VKImVpGSJ60yBqjiKDPvZ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [One Day](https://open.spotify.com/album/06vhdKdFBVOac6Vm96FFoB) | 3:22 | 2022-06-09 |  |
 | [OVERLOAD](https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:05 | 2022-06-09 |  |
-| [PRIDE OF LIONS](https://open.spotify.com/track/66CGPgISLBlzp7hxdgvMrS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:22 | 2022-06-11 |  |
+| [PRIDE OF LIONS](https://open.spotify.com/track/66CGPgISLBlzp7hxdgvMrS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:22 | 2022-06-11 | 2024-03-30 |
 | [Radio](https://open.spotify.com/track/4Li77YJ1PAvh1H3l3E6AiB) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [JUST ONE LIFE](https://open.spotify.com/album/5A7EqhnNTiZRwqkxbu25So) | 3:42 | 2022-06-09 |  |
 | [RAGE OF DUST](https://open.spotify.com/track/3HAVLN7wg1sLZlsFKsA7q0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:22 | 2022-06-09 |  |
 | [RE\-BIRTH](https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RE\-BIRTH](https://open.spotify.com/album/0QkQ99HalEIISHAJnKIdG3) | 4:16 | 2023-07-08 |  |
@@ -65,6 +65,7 @@
 | [We'll Never Die](https://open.spotify.com/track/4zV6q9JaYJsh2S2MiCPQdP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 4:03 | 2022-08-19 | 2022-10-13 |
 | [WENDY ～It's You～](https://open.spotify.com/track/5oxpHI7qENIVkUhCDxak9j) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:09 | 2022-06-09 |  |
 | [What is Love](https://open.spotify.com/track/645NspLTl3SA4mqnVtptar) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:47 | 2022-06-09 | 2024-02-24 |
+| [What is Love \- JUST LIKE THIS 2023 Live](https://open.spotify.com/track/6ar7Cwk4YLXiECVg2cjh7E) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [JUST LIKE THIS 2023 \(Live\)](https://open.spotify.com/album/6c9wh6Rc11f0p7HGUFVOdb) | 3:40 | 2024-03-29 |  |
 | [Winding Road](https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 4:40 | 2022-06-09 |  |
 | [あの頃、僕らは同じ未来を](https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 4:56 | 2022-06-09 |  |
 | [アイム・ア・ビリーバー](https://open.spotify.com/track/2gVEP5chQzs7pHEemZpMBO) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:37 | 2022-06-09 |  |

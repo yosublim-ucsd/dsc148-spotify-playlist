@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 125745,
+  "2024-03-30": 125787,
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: LOONY",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Gen Neo",
   "name": "mood.",
   "tracks": [
     {
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
@@ -2917,6 +2917,24 @@
       "duration_ms": 154119,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "eternal sunshine",
+      "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
       "album": {
@@ -7006,6 +7024,24 @@
     },
     {
       "album": {
+        "name": "Me, Myself & Yu",
+        "url": "https://open.spotify.com/album/6E0CJ9jGzjuIj7xNdxh4M0"
+      },
+      "artists": [
+        {
+          "name": "RIDDEM",
+          "url": "https://open.spotify.com/artist/4ZFgBmJmI5OQKiaYvBDMn2"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237226,
+      "name": "Me, Myself & Yu",
+      "url": "https://open.spotify.com/track/67Z0rfuXHNQ9HGYNFZhiCK"
+    },
+    {
+      "album": {
         "name": "Slower Life",
         "url": "https://open.spotify.com/album/6uwWc7KqBPq6WmbOFOJIAY"
       },
@@ -7633,7 +7669,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 208026,
       "name": "No Angels",
       "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
@@ -9355,7 +9391,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
@@ -9431,6 +9467,24 @@
       "duration_ms": 205621,
       "name": "Say Yea",
       "url": "https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ"
+    },
+    {
+      "album": {
+        "name": "Scarred for Tryin.",
+        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187027,
+      "name": "Scarred for Tryin.",
+      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
     },
     {
       "album": {
@@ -9616,6 +9670,28 @@
     },
     {
       "album": {
+        "name": "SEX TAPE",
+        "url": "https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255287,
+      "name": "SEX TAPE",
+      "url": "https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr"
+    },
+    {
+      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
       },
@@ -9739,7 +9815,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 233312,
       "name": "Show You Why",
       "url": "https://open.spotify.com/track/3muePZbjLu66YSChxJY5WZ"
@@ -10320,6 +10396,24 @@
     },
     {
       "album": {
+        "name": "Stealin' Love",
+        "url": "https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140768,
+      "name": "Stealin' Love",
+      "url": "https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq"
+    },
+    {
+      "album": {
         "name": "Step!",
         "url": "https://open.spotify.com/album/6m60vpr7y4UA8NmTow50GJ"
       },
@@ -10855,7 +10949,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 188326,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1FTrMwUgHkX1ERAUbRxzS3"
@@ -11063,6 +11157,24 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
     },
     {
       "album": {
@@ -13151,7 +13263,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 300066,
       "name": "\u30e9\u30d6\u30fb\u30b9\u30c8\u30fc\u30ea\u30fc\u306f\u7a81\u7136\u306b",
       "url": "https://open.spotify.com/track/7LmvWKaxCoq1pDpe2K2hnU"

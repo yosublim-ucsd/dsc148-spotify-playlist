@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Kings of Leon",
+  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Twenty One Pilots",
   "name": "Volume M\u00e1ximo",
   "tracks": [
     {
@@ -3605,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "album": {
         "name": "Ego Trip",
         "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },
@@ -4930,7 +4948,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 282226,
       "name": "Tear in My Heart - MTV Unplugged Live",
       "url": "https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV"

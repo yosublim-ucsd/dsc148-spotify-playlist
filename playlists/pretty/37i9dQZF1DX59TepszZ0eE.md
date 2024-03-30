@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > As we celebrate Easter, <a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=K4Vgk5DQS5WPaEbyPxTCRw>Xolly Mncwango</a> takes over Sunday Praise to celebrate her new album 'Unusual.'
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,764 likes - 50 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,943 likes - 50 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 49 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 |
 | 50 | [Forever](https://open.spotify.com/track/4r0UUdiQOF6alyduVuEvP6) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Siba Mwerbi](https://open.spotify.com/artist/0MlzXjTiDWgeo6Q79xi1v9) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 4:03 |
 
-Snapshot ID: `MCxhMDE2YWIxYzIyZDg3NTA3NTM4OGI3ZDQ5ZDEzNTcxYWU2NDFhZTE0`
+Snapshot ID: `MCwyYmNkNTE2YWNlYzMzYTRlODQzZjVmMjk0ODc5MWVjN2YwYmYyZGRj`

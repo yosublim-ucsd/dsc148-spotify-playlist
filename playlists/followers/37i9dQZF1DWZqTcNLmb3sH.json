@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 57416,
+  "2024-03-30": 57431,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -883,7 +883,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 147157,
       "name": "Aiyayayo",
       "url": "https://open.spotify.com/track/7E9ZvVVnADvXk3dte3dLuY"
@@ -14668,6 +14668,32 @@
     },
     {
       "album": {
+        "name": "Manada Kitaki (From \" Lineman\")",
+        "url": "https://open.spotify.com/album/5RIzBVw3VBAsDzpagGlien"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "V Raghu Shastry",
+          "url": "https://open.spotify.com/artist/4HIXKu2NIlPwjhDVj9l4LA"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198968,
+      "name": "Manada Kitaki (From \" Lineman\")",
+      "url": "https://open.spotify.com/track/2ZzAak06P7TdRykmiDNw53"
+    },
+    {
+      "album": {
         "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
         "url": "https://open.spotify.com/album/5kfzOQ9chuTppeplKmXRUW"
       },
@@ -14687,7 +14713,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 198968,
       "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
       "url": "https://open.spotify.com/track/5lRCjJMhS9C1GwJNNOGsBe"
@@ -24143,6 +24169,28 @@
       "duration_ms": 197534,
       "name": "Suryakanthi (From \"Tagaru Palya\")",
       "url": "https://open.spotify.com/track/0KEYk3iSxqfk1qhcF3UF0N"
+    },
+    {
+      "album": {
+        "name": "Lineman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nJvtkOE5xy4LNW82AJaVl"
+      },
+      "artists": [
+        {
+          "name": "Supriyaa Ram",
+          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
+        },
+        {
+          "name": "V Raghu Shastry",
+          "url": "https://open.spotify.com/artist/4HIXKu2NIlPwjhDVj9l4LA"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Suvvaali",
+      "url": "https://open.spotify.com/track/5L23yulC7t9BL7oJ4rHPXP"
     },
     {
       "album": {

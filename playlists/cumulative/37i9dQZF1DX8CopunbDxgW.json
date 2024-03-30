@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: jigitz",
+  "description": "The best indie dance tracks of the moment. Cover: Kito & Chrome Sparks",
   "name": "metropolis",
   "tracks": [
     {
@@ -781,6 +781,32 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
+    },
+    {
+      "album": {
         "name": "All Made Up",
         "url": "https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1"
       },
@@ -1126,6 +1152,24 @@
       "duration_ms": 258659,
       "name": "Amanhecer",
       "url": "https://open.spotify.com/track/3MQ96GNZ6Y68u2Tg21LJ3n"
+    },
+    {
+      "album": {
+        "name": "And 1",
+        "url": "https://open.spotify.com/album/5qO7TlsQmMhQ5LomtBrKlT"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "And 1",
+      "url": "https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn"
     },
     {
       "album": {
@@ -1580,6 +1624,36 @@
       "duration_ms": 202746,
       "name": "Babychan",
       "url": "https://open.spotify.com/track/5RSInLIfZArNJ9oCxAFcy0"
+    },
+    {
+      "album": {
+        "name": "Back Of My Mind",
+        "url": "https://open.spotify.com/album/1rurbfn13qYyYC41BGPFEC"
+      },
+      "artists": [
+        {
+          "name": "Bodysync",
+          "url": "https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        },
+        {
+          "name": "Giraffage",
+          "url": "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
+        },
+        {
+          "name": "Dazy",
+          "url": "https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160951,
+      "name": "Back Of My Mind",
+      "url": "https://open.spotify.com/track/0RDAOHfHfq7QUkjmXLAVJf"
     },
     {
       "album": {
@@ -3471,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/7cXfZiLW7cRc0Yc00FG1du"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4nqlGW7mq3SAOLkz2LSJIh"
+    },
+    {
+      "album": {
         "name": "Cantares",
         "url": "https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO"
       },
@@ -3548,7 +3640,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 162445,
       "name": "Cash",
       "url": "https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ"
@@ -3682,6 +3774,28 @@
       "duration_ms": 240013,
       "name": "Chamallow",
       "url": "https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q"
+    },
+    {
+      "album": {
+        "name": "Chance On You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Chance On You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH"
     },
     {
       "album": {
@@ -4632,7 +4746,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 199497,
       "name": "DARLING DRIVE",
       "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
@@ -6990,7 +7104,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183133,
       "name": "Femenine",
       "url": "https://open.spotify.com/track/3hPVr4qMFJqnObkzACLwQ2"
@@ -11138,7 +11252,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 278518,
       "name": "It's So Good",
       "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
@@ -14244,7 +14358,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 185039,
       "name": "Moment",
       "url": "https://open.spotify.com/track/7wNKtCzafd3om6QKiub1Js"
@@ -14266,7 +14380,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 174573,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6cAFvBPtco4nFUkU6wA2yk"
@@ -16204,7 +16318,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 165732,
       "name": "Out Cold!",
       "url": "https://open.spotify.com/track/0bFbrt4TvyMHXii7zbipdk"
@@ -18444,6 +18558,24 @@
       "duration_ms": 153387,
       "name": "Seems Like The Feeling",
       "url": "https://open.spotify.com/track/6trDIo0btFbM3FwObpYlaa"
+    },
+    {
+      "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145074,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
     },
     {
       "album": {
@@ -21497,6 +21629,24 @@
     },
     {
       "album": {
+        "name": "they can't hang",
+        "url": "https://open.spotify.com/album/367epM6YYyvpxHBw9MLLvY"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "they can't hang",
+      "url": "https://open.spotify.com/track/2MBqfyM2GdLMUSxfcjH42l"
+    },
+    {
+      "album": {
         "name": "Things I Thought Were Mine",
         "url": "https://open.spotify.com/album/6RMv7YvMivHcrnZuQrM8fq"
       },
@@ -23098,7 +23248,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 220311,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
@@ -23846,6 +23996,28 @@
       "duration_ms": 248333,
       "name": "Wish We Didn't",
       "url": "https://open.spotify.com/track/3ApF4gKjT4Ne9YwnOUq0i5"
+    },
+    {
+      "album": {
+        "name": "wishing well",
+        "url": "https://open.spotify.com/album/3hzcBFb7iuuYShvvCHXBn9"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "wishing well",
+      "url": "https://open.spotify.com/track/7Fwp8SLqJ3NU6L8ZitD6AY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,103 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,109 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 84 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 |
 | 85 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
 
-Snapshot ID: `MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw`
+Snapshot ID: `MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5`

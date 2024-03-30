@@ -1,13 +1,365 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Waxahatchee",
-  "num_followers": 794284,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: The Secret Sisters",
+  "num_followers": 794393,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWU4NzM2YTZhMjIwYTMxMGM5M2VkZjYyYTVjZDU1MDhkNzRkZjBm",
+  "snapshot_id": "MCxiNDNjYjBmZWMyNjg1MGY5ZGIwMWNlYjYxMjk1NzBmZDEyNjlmMmVj",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "World on a String",
+        "url": "https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "World on a String",
+      "url": "https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Mind, Man, Medicine",
+        "url": "https://open.spotify.com/album/7u6SrRvhJLkIc3TIhjgHRy"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 266528,
+      "name": "If the World Was a House",
+      "url": "https://open.spotify.com/track/3bF8MgnGuQoDPwPUE8Hmk7"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Make Ya Proud",
+        "url": "https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Make Ya Proud",
+      "url": "https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Just Like A Movie",
+        "url": "https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 198034,
+      "name": "Just Like A Movie",
+      "url": "https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Flicker + I Don\u2019t Have The Heart",
+        "url": "https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "I Don't Have The Heart",
+      "url": "https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Follow the Sound of My Voice",
+        "url": "https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Car Sick",
+        "url": "https://open.spotify.com/album/6axDqIcHhVLrvPj7qUHd8v"
+      },
+      "artists": [
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 215170,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/33gJCIvnJY3neAfe022efc"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "20th & Mississippi",
+        "url": "https://open.spotify.com/album/7uB7DUGfUWU181D8gNt6pP"
+      },
+      "artists": [
+        {
+          "name": "Winter Aid",
+          "url": "https://open.spotify.com/artist/15S89CUJtshT2P7WIa2M5l"
+        }
+      ],
+      "duration_ms": 286972,
+      "name": "20th & Mississippi",
+      "url": "https://open.spotify.com/track/1DrFtLm3SdsAfZmoU4tyol"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/30uAyKdXfPOw9FiaMKiVtS"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 230804,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/2DCuGQcTX0GuLZclMFlFps"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Victory Garden",
+        "url": "https://open.spotify.com/album/1j4WsiYGObgbNpROFaysyi"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 220139,
+      "name": "Victory Garden",
+      "url": "https://open.spotify.com/track/2WpaMdVGKgO2ikIMB1gIao"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Part Time Believer",
+        "url": "https://open.spotify.com/album/34s8PrE8XZ8OI4PcHr6aI1"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 172446,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/5ppTEoAtRSYtnAcAmMLfms"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E"
+      },
+      "artists": [
+        {
+          "name": "Margot Liotta",
+          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Got Him! (Deluxe)",
+        "url": "https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 139470,
+      "name": "Shell (with Jordana)",
+      "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3RQu8pAKM2XqkNRsRCoujI"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 187791,
+      "name": "Don't Stress",
+      "url": "https://open.spotify.com/track/3JoSdI1Ez7GN7M7mUHFLOr"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Where Have All the Cowboys Gone?",
+        "url": "https://open.spotify.com/album/3Z66m2hG4g3xC8P7P4X8lm"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 212928,
+      "name": "Where Have All the Cowboys Gone?",
+      "url": "https://open.spotify.com/track/6grQdeuCRXcxVGRvQ0oYhE"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/794ZYBeDPe5htmrQCknQs2"
+      },
+      "artists": [
+        {
+          "name": "Jon and Roy",
+          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
+        }
+      ],
+      "duration_ms": 167528,
+      "name": "To Mexico",
+      "url": "https://open.spotify.com/track/4kWwnKEAqyIWFqaSMfmqz5"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Lay Your Burdens Down",
+        "url": "https://open.spotify.com/album/1ZJSyb49Fj4NfIqypfdetm"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        },
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        }
+      ],
+      "duration_ms": 257189,
+      "name": "Lay Your Burdens Down",
+      "url": "https://open.spotify.com/track/1wsiM77LU8HUuCCBXitlIm"
+    },
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
@@ -2163,354 +2515,6 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Drank on Accutane",
-        "url": "https://open.spotify.com/album/4dw3v0AQ9bHuNvxvrk8n1q"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 190470,
-      "name": "Drank on Accutane",
-      "url": "https://open.spotify.com/track/3YSpKYKvlryivvDwY26K3r"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Part Time Believer",
-        "url": "https://open.spotify.com/album/34s8PrE8XZ8OI4PcHr6aI1"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 193754,
-      "name": "Steal My Soul",
-      "url": "https://open.spotify.com/track/3s0NfU9BVACTDqRQSq2ZA1"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Just Wanna Dance",
-        "url": "https://open.spotify.com/album/512ncCAciZmkjaawQj5E1p"
-      },
-      "artists": [
-        {
-          "name": "harf.",
-          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
-        }
-      ],
-      "duration_ms": 271645,
-      "name": "Just Wanna Dance",
-      "url": "https://open.spotify.com/track/6TZZPDi2yVYgzfCRu0Y7gG"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Any Light",
-        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
-      },
-      "artists": [
-        {
-          "name": "Loving",
-          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
-        }
-      ],
-      "duration_ms": 180841,
-      "name": "Any Light",
-      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Floating On A Moment",
-        "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
-      },
-      "artists": [
-        {
-          "name": "Beth Gibbons",
-          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
-        }
-      ],
-      "duration_ms": 326080,
-      "name": "Floating On A Moment",
-      "url": "https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/5PXL0X2jtQtVr5PX40J0sw"
-      },
-      "artists": [
-        {
-          "name": "Feather & Bone",
-          "url": "https://open.spotify.com/artist/1A69wMJ6rivzdcITTHXg8B"
-        },
-        {
-          "name": "Roniit",
-          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3URugURptxXvHzyUhFMWuE"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Some Things Break",
-        "url": "https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Francis Leftwich",
-          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "A Love Like That",
-      "url": "https://open.spotify.com/track/3S7ZyZIxHglvugzw3vKpuT"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Don't Lose A Good Thing",
-        "url": "https://open.spotify.com/album/0FLfMndk0IoaAqURvzhAmw"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00cea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 194184,
-      "name": "Don't Lose A Good Thing",
-      "url": "https://open.spotify.com/track/40p39mVIPKoZa1qOr9WMNA"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Daughters",
-        "url": "https://open.spotify.com/album/0HhS4ER9CGu2ghdbiAUjkb"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        },
-        {
-          "name": "The Knights",
-          "url": "https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm"
-        },
-        {
-          "name": "The Westerlies",
-          "url": "https://open.spotify.com/artist/7pQXfjCzKMCrcQnp9TAn3z"
-        },
-        {
-          "name": "San Francisco Girls Chorus",
-          "url": "https://open.spotify.com/artist/7pbeqx6zhHDbm2veNtoYVg"
-        }
-      ],
-      "duration_ms": 260545,
-      "name": "Daughters",
-      "url": "https://open.spotify.com/track/4a3pOOcBy3m0Wm5QWUcg7k"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Everywhere I Go",
-        "url": "https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 176533,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Wish I Knew",
-        "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 192607,
-      "name": "Wish I Knew",
-      "url": "https://open.spotify.com/track/5Ey48y8f4IuIz80lclnkKT"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "The Wedding Song",
-        "url": "https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 196719,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/1IenuXmOUchy9LPPndcRSr"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 184642,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/5DSeSiu6afpQOCbvpbtNXO"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Cincinnati Heart",
-        "url": "https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 171388,
-      "name": "Cincinnati Heart",
-      "url": "https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 289964,
-      "name": "Change (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Brick by Brick",
-        "url": "https://open.spotify.com/album/4PTMRy87YM0k9gwhTH6Fop"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb",
-          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        },
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Brick by Brick",
-      "url": "https://open.spotify.com/track/42QabY91Nr6his3sC4eWcu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "No Complaints",
-        "url": "https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 187089,
-      "name": "No Complaints",
-      "url": "https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Made To Love Someone",
-        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Made To Love Someone",
-      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Upcountry Lemonade",
-        "url": "https://open.spotify.com/album/0T14xe1cObe3UCCzeGIS8U"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 194570,
-      "name": "Upcountry Lemonade",
-      "url": "https://open.spotify.com/track/6oe2fxqV3DzlJabXcTem1n"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Slow Decay",
-        "url": "https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 199221,
-      "name": "Slow Decay",
-      "url": "https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra"
     }
   ],
   "unique_name": "Fresh Folk",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,586 songs - 4 day 13 hr 3 min
+1,587 songs - 4 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Free](https://open.spotify.com/track/0dF4YiBOZK45rPynM4No12) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Free](https://open.spotify.com/album/3rBaD95XtCe7VDlsm6JmE8) | 3:55 | 2021-08-06 | 2022-07-29 |
 | [Friction](https://open.spotify.com/track/4R5rqIqYBUtHueqsnoT1n0) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Friction](https://open.spotify.com/album/3RMRv768S5F0SBa8EKVAx7) | 4:04 | 2020-05-18 | 2020-07-18 |
 | [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-22 |  |
-| [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-21 |  |
+| [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-21 | 2024-03-30 |
 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2022-07-01 | 2022-08-27 |
 | [Friends In Secret](https://open.spotify.com/track/7LMn9rFcRyxRSn59jzITh1) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/0XgNTaWLxBBaZHJ2Kog2N0) | 6:08 | 2020-10-24 | 2022-07-19 |
 | [From Afar](https://open.spotify.com/track/688cHlgtt5R0LnUogACigR) | [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [From Afar](https://open.spotify.com/album/1H8uocRtmA5lnZf6ultY5X) | 4:58 | 2022-03-18 | 2022-04-20 |
@@ -1416,6 +1416,7 @@
 | [Thinking Back](https://open.spotify.com/track/6InmT6vejHqnqxUhcOGYex) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Plastic People](https://open.spotify.com/album/29R3uyqxP5iXDnHnGXXqMe) | 5:00 | 2020-05-18 | 2021-02-19 |
 | [This Could Be \- Chill Mix](https://open.spotify.com/track/1fMh032FtBwJDk1iGurH9Y) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [This Could Be \(Chill Mix\)](https://open.spotify.com/album/1EePdJthRN92skeHT0hzev) | 2:58 | 2020-11-20 | 2022-09-22 |
 | [This Is It](https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [This Is It](https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z) | 4:23 | 2024-03-22 |  |
+| [This Is Love](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [This Is Love](https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS) | 3:36 | 2024-03-29 |  |
 | [This Place](https://open.spotify.com/track/73mS0eZixX8WFFMuKZ1iH1) | [obylx](https://open.spotify.com/artist/3oB2U9OWSyEKuSve5KNgyx) | [This Place](https://open.spotify.com/album/6cGZGCXTRVpc4Tbe9BbwBq) | 3:40 | 2020-03-17 | 2021-01-11 |
 | [This Time \- Four Tet Remix](https://open.spotify.com/track/1x62N4B6k427U5Oj2aFxRY) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [This Time \(Four Tet Remix\)](https://open.spotify.com/album/0GY2LOgXecSnpqFTLxnmhb) | 4:20 | 2022-08-26 | 2022-09-10 |
 | [This World](https://open.spotify.com/track/00p8qNEetqyyT1A61Kc5I2) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [This World](https://open.spotify.com/album/6rY1N1eCW1ZgwN6x0uqyfb) | 3:14 | 2021-12-17 | 2022-03-26 |

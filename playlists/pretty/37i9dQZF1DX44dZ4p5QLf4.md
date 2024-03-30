@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: MRCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,701 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,719 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Flowers In Mourning](https://open.spotify.com/track/1rSxecJEITBOFcthNRIkgy) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Flowers In Mourning](https://open.spotify.com/album/07ERyFTIZ7BKH50XMt3y5U) | 4:13 |
-| 2 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 |
+| 1 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 |
+| 2 | [Flowers In Mourning](https://open.spotify.com/track/1rSxecJEITBOFcthNRIkgy) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Flowers In Mourning](https://open.spotify.com/album/07ERyFTIZ7BKH50XMt3y5U) | 4:13 |
 | 3 | [Flowers](https://open.spotify.com/track/0892L8jMWtFSKq5Xo9EEfA) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Flowers](https://open.spotify.com/album/2k16zP9LysfnBtxnyw6Ihd) | 3:10 |
 | 4 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 5 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 69 | [Love Island](https://open.spotify.com/track/3IDs0pS01xXpNJD1kpi8JS) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Fantasy](https://open.spotify.com/album/6vse3DrFzUQ9HRv3xYlNVd) | 2:23 |
 | 70 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
 
-Snapshot ID: `MCw2ZGE4MDAyODM1NmM2YWJhZGE1ODYwMmVmM2I2ODA2OWEwZWQzY2Zi`
+Snapshot ID: `MCxhYmEwMTM1ZWZlZTVhNWNjODgzZjNlNGZmZjJlODZhNDU4YWQyOWEw`

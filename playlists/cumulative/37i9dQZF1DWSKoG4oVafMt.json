@@ -9822,7 +9822,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 177135,
       "name": "Move On",
       "url": "https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp"
@@ -15034,6 +15034,32 @@
       "duration_ms": 187103,
       "name": "Tere Bajjon",
       "url": "https://open.spotify.com/track/40jeNi7ZW86rMU7UXgOJgC"
+    },
+    {
+      "album": {
+        "name": "Tere Bin",
+        "url": "https://open.spotify.com/album/1GBu8zrHLaCvLBPmkiipM9"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        },
+        {
+          "name": "Laddi Gill",
+          "url": "https://open.spotify.com/artist/37TJmJvVHDSI9Ach5Zvs31"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Tere Bin",
+      "url": "https://open.spotify.com/track/5PQU5EG7rF1YXd6Pxebwlb"
     },
     {
       "album": {

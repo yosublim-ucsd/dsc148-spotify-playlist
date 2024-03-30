@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Gotta catch 'em all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,699 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,710 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 27 | [Ugly Brunette](https://open.spotify.com/track/0fUV4Y51wN8lnG75rkDDwg) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc) | 2:56 |
 | 28 | [Reckless Tongue](https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8) | 2:58 |
 | 29 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 |
-| 30 | [Circles](https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:09 |
-| 31 | [Sunday](https://open.spotify.com/track/5ZNdRdZ2inm4ksA8keadDs) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [A Thousand Leaves](https://open.spotify.com/album/2SDi8NTSiq6qQ2WTkrp9X4) | 4:51 |
+| 30 | [Sunday](https://open.spotify.com/track/5ZNdRdZ2inm4ksA8keadDs) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [A Thousand Leaves](https://open.spotify.com/album/2SDi8NTSiq6qQ2WTkrp9X4) | 4:51 |
+| 31 | [Circles](https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:09 |
 | 32 | [Flesh](https://open.spotify.com/track/4LP9nAAiWGF9Z343uIopF5) | [Sleepwalk](https://open.spotify.com/artist/79bG0WSxgj7fnJr9cDqPjL) | [Splatter](https://open.spotify.com/album/1SIMfvWUNyDjfKgXlHApAL) | 3:16 |
 | 33 | [Another Space Song](https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 5:10 |
 | 34 | [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 40 | [sanjake](https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [sanjake](https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj) | 3:02 |
 | 41 | [Teenage Angst](https://open.spotify.com/track/3GKEh2H15w9ZECfi1BtQ20) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Placebo](https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K) | 2:42 |
 | 42 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 |
-| 43 | [New Low](https://open.spotify.com/track/01TgrylmgyEAgsdxiqEOpL) | [Middle Class Rut](https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN) | [No Name No Color](https://open.spotify.com/album/75ffrFVb8rQLovdDANnEAw) | 4:16 |
-| 44 | [Medicine](https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:14 |
+| 43 | [Medicine](https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:14 |
+| 44 | [New Low](https://open.spotify.com/track/01TgrylmgyEAgsdxiqEOpL) | [Middle Class Rut](https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN) | [No Name No Color](https://open.spotify.com/album/75ffrFVb8rQLovdDANnEAw) | 4:16 |
 | 45 | [I'll Find You](https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:06 |
 | 46 | [Muzzle \- Remastered 2012](https://open.spotify.com/track/6UuGRkwfLwBAfmHktU9GNA) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 3:43 |
 | 47 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 65 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 66 | [Crickets Throw Their Voice](https://open.spotify.com/track/5KiP81agN1O40PXRyikoF7) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 3:24 |
 | 67 | [Nowhere](https://open.spotify.com/track/368RLF0YBCX8FyB4RGkaVq) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:26 |
-| 68 | [Killed By An Angel](https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 4:55 |
-| 69 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 |
+| 68 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 |
+| 69 | [Killed By An Angel](https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 4:55 |
 | 70 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 |
 | 71 | [Holy](https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:39 |
 | 72 | [Something Right](https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Stovall](https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp) | 3:21 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 88 | [The Stone](https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA) | [ASHES dIVIDE](https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy) | [Keep Telling Myself It's Alright](https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH) | 3:49 |
 | 89 | [Medicine](https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Infinite Pleasure](https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY) | 4:07 |
 | 90 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
-| 91 | [Control](https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Abstract Figures in the Dark](https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe) | 4:06 |
-| 92 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
-| 93 | [The Long Defeat](https://open.spotify.com/track/0LiwVQusyq7nakql6TIQNG) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 4:11 |
-| 94 | [Handwritten](https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:58 |
+| 91 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
+| 92 | [Control](https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Abstract Figures in the Dark](https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe) | 4:06 |
+| 93 | [Handwritten](https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:58 |
+| 94 | [The Long Defeat](https://open.spotify.com/track/0LiwVQusyq7nakql6TIQNG) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 4:11 |
 | 95 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
 | 96 | [Savory](https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N) | [Jawbox](https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP) | [For Your Own Special Sweetheart](https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt) | 4:39 |
 | 97 | [Decay](https://open.spotify.com/track/3slMJuJsQelR7QrKJIIYci) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Decay](https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw) | 4:39 |
-| 98 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 |
-| 99 | [My Friends](https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [My Friends](https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG) | 2:55 |
+| 98 | [My Friends](https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [My Friends](https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG) | 2:55 |
+| 99 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 |
 | 100 | [Goldfinger](https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 4:31 |
 
-Snapshot ID: `MCw4Njc0NTEzZmZkZmYzNGVlZmFiYjExMjU1NmJhODNjNzI3NTJiNWM0`
+Snapshot ID: `MCxlY2NiNjA3MWNjYTM2YjFhNGI2N2MyMjQxOWRkYmZhNTJmYThkYjI4`

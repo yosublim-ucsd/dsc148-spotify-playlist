@@ -1,13 +1,53 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238403,
+  "num_followers": 238410,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDA0MGFhYzYwYzhiZDE5ZmJkZjIxZTVkMGFiYjE5MDA2ZmQ2ZDQ1",
+  "snapshot_id": "MCxjNzcyNTc0ZjFkZjk5MjBhOTBlYmFjNThkYTViOWFhZjcxYWFiNzQ2",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "The Moves (feat. Muni Long & Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2i7fwqOqVisYDooEIzk3Tr"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 170048,
+      "name": "The Moves (feat. Muni Long & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/3gCBF4XZx7dmEtaRDoQLEd"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
@@ -1549,22 +1589,6 @@
       "url": "https://open.spotify.com/track/2GZ7hpra0vcDNXLVQiJsMN"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Hot Crush Lover",
-        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 193731,
-      "name": "Hot Crush Lover",
-      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Don't Go Chasing",
@@ -1595,46 +1619,6 @@
       "duration_ms": 134213,
       "name": "GUCCI BAG",
       "url": "https://open.spotify.com/track/6i2aECSESETukg3mdWUTBP"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "just another song",
-        "url": "https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj"
-      },
-      "artists": [
-        {
-          "name": "Kelechi",
-          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
-        },
-        {
-          "name": "VINCINT",
-          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
-        }
-      ],
-      "duration_ms": 168700,
-      "name": "just another song",
-      "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
       "added_at": "2022-08-12 04:02:00",

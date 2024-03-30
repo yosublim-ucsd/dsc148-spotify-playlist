@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Diego Daza
 
-155 songs - 8 hr 56 min
+156 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-14 | 2024-01-20 |
 | [Ellas Así Son](https://open.spotify.com/track/3KryG1HWXMmNbFc5unHd2C) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 3:35 | 2022-08-18 | 2023-02-25 |
 | [Ellas Así Son](https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP) | 3:35 | 2022-10-14 |  |
+| [En Teoría](https://open.spotify.com/track/6YR09tom5EUiYwOCNid18S) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [En Teoría](https://open.spotify.com/album/1U0yVKJ8Ge6gMZxZlRGx2z) | 3:03 | 2024-03-29 |  |
 | [En un andén](https://open.spotify.com/track/6VvLhvvOANxka9yA5XT48s) | [Sotomonte](https://open.spotify.com/artist/635jBFbh5dBCfigU7SHNNa) | [En un andén](https://open.spotify.com/album/3HbK3Byyhn8rW8oCfuc3mW) | 2:41 | 2024-01-19 | 2024-02-17 |
 | [Entre Copa y Copa](https://open.spotify.com/track/3eYFUlQKXEDMNMyFJd91nJ) | [Mauricio Ceballos](https://open.spotify.com/artist/2uNCwCLFD16nb7hhibD0sl), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Entre Copa y Copa](https://open.spotify.com/album/06gQzNIkKd9u3iLqDUoflD) | 2:48 | 2022-12-19 | 2023-02-04 |
 | [EXCESOS](https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:07 | 2023-10-20 | 2024-01-20 |
@@ -121,7 +122,7 @@
 | [Nuestro Juramento](https://open.spotify.com/track/0uzR8Ehgl6BGsU2ZvLPe3A) | [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Nuestro Juramento](https://open.spotify.com/album/59P55KVxpocTwKRlpahlDR) | 3:22 | 2022-12-19 | 2023-02-04 |
 | [Obsesión](https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Emiliano Zuleta](https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Sólo Clásicos](https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0) | 3:42 | 2022-08-18 |  |
 | [Obsesión](https://open.spotify.com/track/4bnvGo0jOp8dydXAn9uzWL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Emiliano Zuleta](https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 3:42 | 2022-10-14 | 2022-11-14 |
-| [Odiame](https://open.spotify.com/track/5uXRXeVRkDF93pPRPmcNRA) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Odiame](https://open.spotify.com/album/6S364bPOgvVmneoVXVAuBT) | 3:01 | 2024-03-15 |  |
+| [Odiame](https://open.spotify.com/track/5uXRXeVRkDF93pPRPmcNRA) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Odiame](https://open.spotify.com/album/6S364bPOgvVmneoVXVAuBT) | 3:01 | 2024-03-15 | 2024-03-30 |
 | [OK](https://open.spotify.com/track/6ZpPLJ3wck4X1eOhUGCWPx) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [OK](https://open.spotify.com/album/7jKr5d7pxSFzxo8bkM0Y3G) | 2:21 | 2023-02-03 |  |
 | [OK](https://open.spotify.com/track/6g13x2XNa9kAmRxJgac6T0) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Éxitos Mano de Obra](https://open.spotify.com/album/46OnImUL8cGg0srjXJxj2l) | 2:21 | 2022-10-14 | 2022-11-13 |
 | [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 | 2022-08-18 | 2023-02-25 |

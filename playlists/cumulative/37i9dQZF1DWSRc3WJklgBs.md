@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,258 songs - 3 day 1 hr 16 min
+1,259 songs - 3 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [Moving Mountains \- GATTÜSO Remix](https://open.spotify.com/track/3qBnc1nWty6LjPIjXuAigw) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Ollie Green](https://open.spotify.com/artist/2PCKbRUI5rGUwOkGXX2W5U) | [Moving Mountains \(GATTÜSO Remix\)](https://open.spotify.com/album/6hRLYBhLDBrtPBwNMHJbvZ) | 3:02 | 2019-08-09\* | 2019-08-27 |
 | [Moving On](https://open.spotify.com/track/0S39nPBH7vqhobY6Bn2LOX) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:21 | 2023-05-26 |  |
 | [Moving On](https://open.spotify.com/track/7r1tJrG00pgUbVioN1hbzf) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Moving On](https://open.spotify.com/album/6kbw2wcLnY2oUY5vkNmAg9) | 3:21 | 2023-02-10 | 2023-06-07 |
+| [Muse](https://open.spotify.com/track/4MaULwvOuXjAmMvOsThiAf) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Kate Morgan](https://open.spotify.com/artist/48hiuLYhfSj1EYOrZPAuje) | [Only For A Moment EP](https://open.spotify.com/album/3sIbb1IgiQAnkyZVNwsWZ7) | 3:19 | 2024-03-22 |  |
 | [Music Rescues Me](https://open.spotify.com/track/51OKLPkeBryHaauCtddqi3) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Music Rescues Me](https://open.spotify.com/album/6WVLSevpKyBlUjRVtzWNPK) | 4:02 | 2019-08-09\* | 2019-09-14 |
 | [Must Be Dreaming](https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Must Be Dreaming](https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp) | 3:53 | 2023-08-04 |  |
 | [My Best Life \(feat\. Mike Waters\)](https://open.spotify.com/track/5kldIyD365H9iq8Cz1Jb5F) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Mike Waters](https://open.spotify.com/artist/35rZNMlMkBs7ghHmGKt0xq) | [My Best Life \(feat\. Mike Waters\)](https://open.spotify.com/album/57lxvNz7Fp3hHNtXspUkjC) | 3:32 | 2019-08-31 | 2020-10-30 |
@@ -1212,7 +1213,7 @@
 | [Whole Heart](https://open.spotify.com/track/4Z1t1aMRif8ES212kTN8H2) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Whole Heart](https://open.spotify.com/album/5LKilxrPSOHakkR3V56YYZ) | 3:45 | 2019-08-09\* | 2019-09-14 |
 | [Wild Feelings](https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Wild Feelings](https://open.spotify.com/album/6nOuDvGazEOQ7Oa6Br1dKJ) | 2:41 | 2022-05-13 |  |
 | [Wildest Dream](https://open.spotify.com/track/0TgSQ4AWBShqMjYww6D8Yf) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [Matthew Steeper](https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b) | [Wildest Dream](https://open.spotify.com/album/6ODxERtMHtA3HdaE1HRsMj) | 3:07 | 2019-08-09\* | 2020-03-29 |
-| [Will You Be Mine](https://open.spotify.com/track/15H467gdxSmq8IMl1TC46u) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Will You Be Mine](https://open.spotify.com/album/3XIaFrOS8IXOTe0LfjLrEN) | 3:52 | 2023-05-19 |  |
+| [Will You Be Mine](https://open.spotify.com/track/15H467gdxSmq8IMl1TC46u) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Will You Be Mine](https://open.spotify.com/album/3XIaFrOS8IXOTe0LfjLrEN) | 3:52 | 2023-05-19 | 2024-03-30 |
 | [Wish It Was You](https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Wish It Was You](https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb) | 3:12 | 2021-09-11 |  |
 | [Wish You Were Here](https://open.spotify.com/track/0ctq8t9Yp8eLidtDay5H6K) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Wish You Were Here](https://open.spotify.com/album/1S4USV7pLcJlVXR0IkP0bx) | 4:20 | 2022-10-28 | 2023-05-27 |
 | [Wish You Were Here](https://open.spotify.com/track/3h6M4K3mBtb2ywoYhG7954) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [Wish You Were Here](https://open.spotify.com/album/2tv0WOA2D04Aq8Lo7inH7I) | 2:45 | 2021-09-04 | 2023-06-17 |

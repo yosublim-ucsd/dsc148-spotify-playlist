@@ -1,12 +1,12 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4058350,
+  "num_followers": 4058424,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTMwMGViYWMwZWJjZTk4ZmE4ZmFmNzY4NzE5Yzg5ZGUzNWM2YTI4",
+  "snapshot_id": "MCw0OTI4N2U0ZGRmMTM3N2ViNDQ0MTNlZWUyNjUwMGJmOTI2YzdmODc3",
   "tracks": [
     {
       "added_at": "2024-02-27 01:41:43",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 179120,
       "name": "Half A Man",
       "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 210863,
       "name": "Forever",
       "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "One More Light",
-        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "One More Light",
-      "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 193080,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "One More Light",
+      "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Not About Angels",
-        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "Not About Angels",
-      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 227853,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Not About Angels",
+        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "Not About Angels",
+      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "sex money feelings die (slowed version)",
         "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
       },
@@ -1939,34 +1955,18 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "My Mind & Me",
-        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "My Mind & Me",
-      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+      "duration_ms": 197933,
+      "name": "prom dress",
+      "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+        "name": "My Mind & Me",
+        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 197933,
-      "name": "prom dress",
-      "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
+      "duration_ms": 147597,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -2683,22 +2683,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -2711,6 +2695,22 @@
       "duration_ms": 386200,
       "name": "It's Not The Same Anymore",
       "url": "https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Die 4 Me",
-        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Die 4 Me",
-      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 220850,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Die 4 Me",
+        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 215021,
+      "name": "Die 4 Me",
+      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -3207,6 +3207,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 185495,
+      "name": "I Don't Like Myself",
+      "url": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "Bad Life",
         "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
       },
@@ -3223,22 +3239,6 @@
       "duration_ms": 226867,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 185495,
-      "name": "I Don't Like Myself",
-      "url": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
     },
     {
       "added_at": "2024-02-27 01:41:43",

@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-342 songs - 17 hr 37 min
+343 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Enlightened](https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Enlightened](https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu) | 3:46 | 2023-01-20 | 2024-01-21 |
 | [Enter Stillness \- Studio Edit](https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:13 | 2022-03-04 | 2022-04-20 |
 | [Ephemeral](https://open.spotify.com/track/50V2dfA0R4v74WEpKVzjYj) | [Sadie Hume](https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C) | [Ephemeral](https://open.spotify.com/album/6xeSywaM0OZIW6KV1Uy7EB) | 2:24 | 2024-01-17 | 2024-02-08 |
-| [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-19 |  |
+| [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-19 | 2024-03-30 |
 | [Erase](https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Scarr](https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D) | 4:19 | 2022-05-19 |  |
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-04-09 |  |
 | [Essence](https://open.spotify.com/track/6KTyy609tEMRS3jRuAJ6t2) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Essence](https://open.spotify.com/album/00vq3SlNRiYIOtGJCH5bjQ) | 2:51 | 2024-01-17 | 2024-02-08 |
@@ -261,6 +261,7 @@
 | [Red Mind](https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX) | [Selma Key](https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa) | [Red Mind](https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT) | 3:00 | 2024-01-17 |  |
 | [Reflections](https://open.spotify.com/track/09m5o0FIa430LyBfvraj6h) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Reflections](https://open.spotify.com/album/15Tv8kdEGfcAkY8y2rQNcb) | 4:12 | 2022-01-12 | 2023-03-15 |
 | [Reflective moments](https://open.spotify.com/track/4cmuVNLXezTGcr03kewBP1) | [Graphite Sounds](https://open.spotify.com/artist/2rBTSkY7hIHfya4L45hFS1) | [Reflective moments](https://open.spotify.com/album/5Rdv5powZMQVSLB6Lc1uui) | 3:10 | 2024-01-17 |  |
+| [Regenerative State 432 Hz](https://open.spotify.com/track/7bnNyvnP25wKMGUTH0O2GS) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Regenerative State 432 Hz](https://open.spotify.com/album/23NztR1U87xIgUIBX0ZyKQ) | 3:01 | 2024-03-20 |  |
 | [Rekha](https://open.spotify.com/track/4qrNoVMU8gN61AQqU3e13U) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Lakshmi](https://open.spotify.com/album/66lkSZN2o3CNRmCzbzRSTg) | 3:01 | 2023-01-13 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-01-12 | 2023-07-29 |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2022-01-12 |  |

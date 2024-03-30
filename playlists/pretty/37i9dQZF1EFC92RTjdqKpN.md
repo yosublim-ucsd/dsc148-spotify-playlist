@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991 likes - 173 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 990 likes - 173 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 62 | [XXL](https://open.spotify.com/track/3l1grOhgJQG4E1E2MjfHWG) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
 | 63 | [Revival](https://open.spotify.com/track/3y6R5ohBabcdmbvhr1P1xC) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:12 |
 | 64 | [My Love Won't Let You Down](https://open.spotify.com/track/3Ms30cFnM7su9lCdwgnexR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:54 |
-| 65 | [Make This Song Cry](https://open.spotify.com/track/0iUQMaYF4PijgspAkghWMm) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:25 |
-| 66 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 65 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 66 | [Make This Song Cry](https://open.spotify.com/track/0iUQMaYF4PijgspAkghWMm) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:25 |
 | 67 | [Fire \(feat\. Pitbull\)](https://open.spotify.com/track/4tKDNJH4ylLAxfwYqqUM1d) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:36 |
 | 68 | [Changed](https://open.spotify.com/track/6tyyxy6jFiNTUawKe9Q7UC) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:27 |
 | 69 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 119 | [Word Smith](https://open.spotify.com/track/0ycGgmtmbJWnMJRYiVsBcB) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Crystalline](https://open.spotify.com/album/1RAujeeZfUbofVGJUJ0qb8) | 2:58 |
 | 120 | [Angels In The Snow](https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:52 |
 | 121 | [After Ours](https://open.spotify.com/track/2coTyOHfAxmAjYF2BiVlud) | [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [After Ours](https://open.spotify.com/album/0hnE7os3g2jVB6bk7R2jKi) | 2:40 |
-| 122 | [Met Me Now](https://open.spotify.com/track/21g8lqjrecVAqwBHZ91tdI) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Small Town](https://open.spotify.com/album/0SIll9NoQGtfRFmfodvMos) | 3:08 |
-| 123 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
+| 122 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
+| 123 | [Met Me Now](https://open.spotify.com/track/21g8lqjrecVAqwBHZ91tdI) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Small Town](https://open.spotify.com/album/0SIll9NoQGtfRFmfodvMos) | 3:08 |
 | 124 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
 | 125 | [Hot All the Time](https://open.spotify.com/track/5geZbeWGx7ywfdIpNhjy3a) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:01 |
 | 126 | [PainHub](https://open.spotify.com/track/1KDIOubFEUaIg1y645HOVD) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:15 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 130 | [Feel Something](https://open.spotify.com/track/4asjjfwB4ioZm1JHWARyPa) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Feel Something](https://open.spotify.com/album/5Snr4L26gHmVIIYcg7oSMM) | 2:59 |
 | 131 | [Where We Left](https://open.spotify.com/track/3z9yT94FvmgWOgXZHuE0b6) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Where We Left](https://open.spotify.com/album/5a5ywLo0LuBmnOO1hb28P7) | 3:40 |
 | 132 | [I See You](https://open.spotify.com/track/3CtXyZcmgrff9szb6o9cRZ) | [Kalin and Myles](https://open.spotify.com/artist/2BL5VxhQadpc4v2VlZyKY5) | [Kalin And Myles](https://open.spotify.com/album/643h7mtzQNXbMEH3CptYEb) | 3:06 |
-| 133 | [Baby Don't Dance](https://open.spotify.com/track/1fZ5HV5Qv5aQSV9dXWZ1vy) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:24 |
-| 134 | [Thankful](https://open.spotify.com/track/5eVNpfTi4H5h12p3LGFyWD) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Thankful \(Unwrapped\)](https://open.spotify.com/album/7vZ0uemkoDmG7tGC5qQ6uQ) | 3:35 |
+| 133 | [Thankful](https://open.spotify.com/track/5eVNpfTi4H5h12p3LGFyWD) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Thankful \(Unwrapped\)](https://open.spotify.com/album/7vZ0uemkoDmG7tGC5qQ6uQ) | 3:35 |
+| 134 | [Baby Don't Dance](https://open.spotify.com/track/1fZ5HV5Qv5aQSV9dXWZ1vy) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:24 |
 | 135 | [Why Does It Hurt](https://open.spotify.com/track/3Vr2LVreIKr9aHy0x7Swmz) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Why Does It Hurt](https://open.spotify.com/album/3Zbab5E4YrBcBZPgcXpE05) | 3:18 |
 | 136 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
 | 137 | [Who's It Gonna Be](https://open.spotify.com/track/4jgSsG6pqCCEbczOFo3BoS) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:27 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 172 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 173 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `Mjg1Mjc5NzAsMDAwMDAwMDA0Yjg0MDFmZjg3ZTkzODE2MTk3OTQyNzEwYjAzYjJiZQ==`
+Snapshot ID: `Mjg1Mjk0MTAsMDAwMDAwMDBiYzQ3NDYyYmIzNTI5MTIwNmExZDhhNTAzZmQ2MzU2Yw==`

@@ -4,7 +4,7 @@
 
 > Entering my reputation era...
 
-286 songs - 15 hr 38 min
+287 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 | 2022-01-27 | 2023-01-05 |
 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 | 2022-01-27 | 2022-07-29 |
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 5:29 | 2022-01-27 | 2022-04-21 |
-| [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 | 2022-01-27 |  |
+| [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 | 2022-01-27 | 2024-03-30 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-01-27 |  |
 | [engravings](https://open.spotify.com/track/47FdoVKyPNFnrWlj10Jx4z) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK) | 2:53 | 2023-02-03 | 2023-06-01 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 2:53 | 2022-07-04 | 2023-03-18 |
@@ -210,6 +210,7 @@
 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5YTUCHSwfwJ4oHFDjFgpEe) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:50 | 2022-04-15 | 2022-07-29 |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 | 2022-01-27 | 2022-04-21 |
 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 | 2022-01-27 | 2023-03-20 |
+| [Pretty Enough](https://open.spotify.com/track/6SIoCr3GhnJaZovyfaCYcN) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Pretty Enough](https://open.spotify.com/album/5XvgXtDZVXu0ELRxUXLQcj) | 3:34 | 2024-03-29 |  |
 | [Pretty Pills for Broken Hearts](https://open.spotify.com/track/3yOn32qFv4qlVjhCEvjHrv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Pretty Pills for Broken Hearts](https://open.spotify.com/album/3nCNqsMDqxkcXpNuEamhUA) | 2:55 | 2022-03-28 | 2022-07-29 |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-01-27 |  |
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2022-04-14 | 2022-07-29 |

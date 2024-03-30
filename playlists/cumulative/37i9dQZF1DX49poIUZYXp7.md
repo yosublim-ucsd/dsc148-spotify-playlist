@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: MacKenzie Porter
 
-359 songs - 19 hr 39 min
+360 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Big for a Small Town](https://open.spotify.com/track/1cssFOIRPAewIVA9cjRXxH) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Where You Come From](https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 | 2023-10-13 |  |
 | [Bits & Pieces](https://open.spotify.com/track/2muPf36lYJMIqGzI3h8JTQ) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Bits & Pieces](https://open.spotify.com/album/5kGK6raX2Jt0hiQSZ6Q3uC) | 2:41 | 2021-12-01 | 2022-07-27 |
+| [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-03-29 |  |
 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 | 2021-12-01 |  |
 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 | 2022-11-02 |
 | [Bought the T\-Shirt](https://open.spotify.com/track/28Ncn33pglXWunvZ7lFwgS) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [I Ain't a Saint](https://open.spotify.com/album/0g8HweBRPuoqpruz4ycic8) | 2:40 | 2022-03-25 | 2022-04-20 |
@@ -91,7 +92,7 @@
 | [Get My Shit Together](https://open.spotify.com/track/1QY5PMjs1fXc9hbgjJZ01R) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Get My Shit Together](https://open.spotify.com/album/0Jef9w9ZIQ2uVMde5W7kUT) | 3:26 | 2021-12-01 | 2022-03-01 |
 | [Getting Good](https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Getting Good](https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd) | 3:21 | 2021-12-01 | 2022-07-28 |
 | [Getting Over Him](https://open.spotify.com/track/0OCY4cY7ZhmFMLR8Zipb51) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Getting Over Him](https://open.spotify.com/album/5Nnd51BWrdzEI2xTkTvjQ4) | 2:47 | 2021-12-01 | 2022-09-03 |
-| [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-04-08 |  |
+| [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-04-08 | 2024-03-30 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-02-17 |  |
 | [Girl Go](https://open.spotify.com/track/3dpq9duXCd1E5wbOjIL4DG) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Girl Go](https://open.spotify.com/album/384TelfAeK7dD1Is1k1u3b) | 3:11 | 2021-12-01 | 2022-07-29 |
 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 | 2021-12-01 | 2022-09-17 |

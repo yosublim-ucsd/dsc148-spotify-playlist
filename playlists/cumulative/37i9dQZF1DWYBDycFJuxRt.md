@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/327444?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-5,620 songs - 14 day 5 hr 8 min
+5,621 songs - 14 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,8 @@
 | [BLUESMAN](https://open.spotify.com/track/21YQoRjIfSPuS7tQGmJddE) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0), [JUNES K](https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl) | [BLUESMAN](https://open.spotify.com/album/0kB174EEUyNZkXgxhrGDzr) | 3:12 | 2023-07-11 | 2023-07-19 |
 | [Blueな夜](https://open.spotify.com/track/35bP5xiitMNA8ONdvkmLdF) | [江口洋介](https://open.spotify.com/artist/4lZOKXaB1fgfUx1vRYXyFn) | [Blueな夜](https://open.spotify.com/album/4wYWUvy1F5KHclJOh5Ih5S) | 3:56 | 2023-11-15 | 2023-11-22 |
 | [Blurry](https://open.spotify.com/track/159Vy99ZeKZ78XQCWdiIJN) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Blurry](https://open.spotify.com/album/7Myq1BOa1IBdaUeBJcGeLW) | 3:44 | 2023-01-31 | 2023-02-08 |
-| [Boarding Time](https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Boarding Time](https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS) | 2:56 | 2024-03-26 |  |
+| [Boarding Time](https://open.spotify.com/track/42lsXb14Nxik4hfeqksL8K) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [PURE 40](https://open.spotify.com/album/3ebUA1TA2F3IMkyFNjJN8E) | 2:56 | 2024-03-27 |  |
+| [Boarding Time](https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Boarding Time](https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS) | 2:56 | 2024-03-26 | 2024-03-30 |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-25 | 2023-05-03 |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-01-23 | 2024-01-31 |
 | [BODY & SOUL](https://open.spotify.com/track/2T9Yqs0vSeO1hazhOb58tK) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [BODY & SOUL](https://open.spotify.com/album/6TsM3fWiaMSfsHCoLfAdLK) | 3:54 | 2023-12-20 | 2023-12-27 |

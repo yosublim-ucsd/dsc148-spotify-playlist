@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover: Bon Jovi",
+  "description": "The best and latest rock and alternative. Cover: Kings Of Leon",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -50,6 +50,24 @@
       "duration_ms": 151863,
       "name": "17250",
       "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
+    },
+    {
+      "album": {
+        "name": "Abyss (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123293,
+      "name": "Abyss - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
     },
     {
       "album": {
@@ -664,7 +682,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 208112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 193185,
       "name": "Someone Else's Feelings",
       "url": "https://open.spotify.com/track/42AJDcEhzhNG0E7o59bG1D"
@@ -1684,6 +1702,24 @@
       "duration_ms": 178546,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx"
+    },
+    {
+      "album": {
+        "name": "Split Screen",
+        "url": "https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303005,
+      "name": "Split Screen",
+      "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
     },
     {
       "album": {

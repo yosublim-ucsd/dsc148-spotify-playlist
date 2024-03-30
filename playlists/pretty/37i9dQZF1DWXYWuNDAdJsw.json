@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 839234,
+  "num_followers": 839263,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGViNTIyNjA2YjM4OWM3M2Q3ZGVkOTMyMmNlODJkN2RhZDkxYmFk",
+  "snapshot_id": "MCxhMGQ0ZWFhMjRhOGUxMmFhOTE4ZTVlMTM4YjBmZjFkYmZjN2U2M2I1",
   "tracks": [
     {
       "added_at": "2024-01-19 05:21:58",
@@ -535,22 +535,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
+      "duration_ms": 192000,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -591,22 +591,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 174482,
-      "name": "TUS L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "23 Preguntas",
         "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1027,6 +1027,46 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
+        "name": "The Academy",
+        "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
+      },
+      "artists": [
+        {
+          "name": "Rich Music LTD",
+          "url": "https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Imaginate",
+      "url": "https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
@@ -1075,46 +1115,6 @@
       "duration_ms": 201280,
       "name": "Sigo Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
-        "name": "The Academy",
-        "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
-      },
-      "artists": [
-        {
-          "name": "Rich Music LTD",
-          "url": "https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Imaginate",
-      "url": "https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "LQMGDT",
-        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Weeknd<3",
-      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "La Promesa",
         "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 238033,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
         "name": "Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/75hoyFZLUqsTxCAq2JpCGG"
       },
@@ -1839,28 +1859,28 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq"
+        "name": "The Sensation",
+        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
       "artists": [
         {
@@ -1868,13 +1888,13 @@
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
+      "duration_ms": 203666,
+      "name": "Qu\u00e9 M\u00e1s Pues",
+      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1903,26 +1923,6 @@
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "The Sensation",
-        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Qu\u00e9 M\u00e1s Pues",
-      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "The Last Don Live",
         "url": "https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ"
       },
@@ -2027,6 +2007,38 @@
       "duration_ms": 207248,
       "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
       "url": "https://open.spotify.com/track/4MWb6mltydQn84NrTm7Gpl"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 255091,
+      "name": "Mi Mala (feat. Becky G, Leslie Grace & Lali) - Remix",
+      "url": "https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK"
     }
   ],
   "unique_name": "Perrear y Llorar",

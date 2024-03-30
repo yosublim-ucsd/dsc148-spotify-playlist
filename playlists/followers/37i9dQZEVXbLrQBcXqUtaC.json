@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 8231,
+  "2024-03-30": 8232,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Saudi Arabia.",
   "name": "Top 50 - Saudi Arabia",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 215612,
       "name": "1 Bottle",
       "url": "https://open.spotify.com/track/0dAmqFAXb61sy0NS4BORr8"
@@ -3797,7 +3797,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -8233,7 +8233,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 241874,
       "name": "I've Been Waiting - Radio Mix",
       "url": "https://open.spotify.com/track/6iEUPH61sU5nCApK8wohLa"
@@ -8873,7 +8873,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 320030,
       "name": "K.",
       "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
@@ -10801,6 +10801,24 @@
       "duration_ms": 240000,
       "name": "MAFIA",
       "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
+    },
+    {
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
       "album": {
@@ -13691,7 +13709,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 212312,
       "name": "Pieces Of My Heart",
       "url": "https://open.spotify.com/track/0gl9nNUhXVagnzIbVHaY1J"
@@ -14829,7 +14847,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 156055,
       "name": "Runnin Ya Mouth",
       "url": "https://open.spotify.com/track/129Goruz7N5P0X6RK3BgG1"
@@ -18357,7 +18375,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 190750,
       "name": "Til We See The Sunlight - radio edit",
       "url": "https://open.spotify.com/track/5WZXyEQupNTbIEIUPk7rzr"
@@ -20417,7 +20435,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 205346,
       "name": "Young Metro",
       "url": "https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH"
@@ -21099,7 +21117,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 60760,
       "name": "\u0627\u0644\u0646\u0627\u0633 \u0627\u0646\u0648\u0627\u0639",
       "url": "https://open.spotify.com/track/4hXKUpx4Rl5yBNGISoB5UK"

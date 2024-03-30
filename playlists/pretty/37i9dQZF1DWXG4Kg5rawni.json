@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 99821,
+  "num_followers": 99875,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjBkYzUyYWYwYTQ2Y2U1MTdjMTQ0MGYzMjVlZDZkNWZmYjhjNDgx",
+  "snapshot_id": "MCxkODFlNjEyMjJlNDgwN2M0MmRlYzc1ZjA5ODdkMzhkMzY2ZjAyYmUw",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2"
+      },
+      "artists": [
+        {
+          "name": "Vanderson Santos",
+          "url": "https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "O Jeito Que Voc\u00ea Me Olha",
         "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 198067,
       "name": "O Jeito Que Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2"
-      },
-      "artists": [
-        {
-          "name": "Vanderson Santos",
-          "url": "https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
     },
     {
       "added_at": "2023-07-14 16:56:11",

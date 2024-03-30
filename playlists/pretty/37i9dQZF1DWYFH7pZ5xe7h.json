@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 48937,
+  "num_followers": 48953,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yjg5ZGUwNzlhZTFhNDU5N2JmNjBmNGQzNzgwOGU0YmI1ZGIwOTBj",
+  "snapshot_id": "MCw5ZDAyOGZkOTEwNmEwOWU5MDI4MTg0NjYwZDU5YmNmN2E5ZDY4OGRm",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -415,30 +415,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No.10",
-        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 1550440,
-      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 1. Adagio",
-      "url": "https://open.spotify.com/track/3lOAX3KoPxPgNiFezXUZhk"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 3 / Symphony No. 10: Adagio",
         "url": "https://open.spotify.com/album/1AVc4ybEES08rKYnECFE6e"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 249080,
       "name": "Symphony No. 3 in D Minor: V. Lustig im Tempo und keck im Ausdruck",
       "url": "https://open.spotify.com/track/4KsoqmJJis8uvvXOAjnU4M"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No.10",
+        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 1550440,
+      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 1. Adagio",
+      "url": "https://open.spotify.com/track/3lOAX3KoPxPgNiFezXUZhk"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -867,6 +867,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No.10",
+        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 667800,
+      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 2. Scherzo",
+      "url": "https://open.spotify.com/track/3t08w44vk6GJ3gttgYQTbc"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/1k4ahNyUuhTwoIwUU9lmSt"
       },
@@ -899,30 +923,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No.10",
-        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 667800,
-      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 2. Scherzo",
-      "url": "https://open.spotify.com/track/3t08w44vk6GJ3gttgYQTbc"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler - Vol. 1",
         "url": "https://open.spotify.com/album/5X45NadglUgmWarRxRjrS7"
       },
@@ -947,6 +947,34 @@
       "duration_ms": 509000,
       "name": "Des Knaben Wunderhorn: Wo die sch\u00f6nen Trompeten blasen - Live",
       "url": "https://open.spotify.com/track/0sfRQ0SpAlkzpke2y5T44Z"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
+      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1003,8 +1031,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Orchestral Songs",
-        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
       },
       "artists": [
         {
@@ -1012,21 +1040,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
         },
         {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
-      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
+      "duration_ms": 1324586,
+      "name": "I. Allegro maestoso",
+      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1051,30 +1075,6 @@
       "duration_ms": 940372,
       "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
       "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        }
-      ],
-      "duration_ms": 1324586,
-      "name": "I. Allegro maestoso",
-      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 4 in G Major",
-        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 994466,
-      "name": "Symphony No. 4 in G Major: I. Bed\u00e4chtig, nicht eilen",
-      "url": "https://open.spotify.com/track/6pDRSOe1X4qreChmYZXd3q"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No.6 in A minor; R\u00fcckert-Lieder; Kindertotenlieder",
         "url": "https://open.spotify.com/album/3dRGxFAz5nsLn7M9oCliV3"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 336967,
       "name": "Kindertotenlieder: In diesem Wetter",
       "url": "https://open.spotify.com/track/18F4kGlmsGOkjhaymciS9V"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 4 in G Major",
+        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 994466,
+      "name": "Symphony No. 4 in G Major: I. Bed\u00e4chtig, nicht eilen",
+      "url": "https://open.spotify.com/track/6pDRSOe1X4qreChmYZXd3q"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1523,30 +1523,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler, G.: Symphony No. 7",
-        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 1250186,
-      "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
-      "url": "https://open.spotify.com/track/23ZAoFEVlfrjzMZHTgUD1c"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/3VHp7AHPIHyGpvMxTzJKGF"
       },
@@ -1567,6 +1543,30 @@
       "duration_ms": 95493,
       "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": I. Teil. Hymnus. Veni, creator spiritus!",
       "url": "https://open.spotify.com/track/6vtHsZ6rrJvcoUy2tmNpkt"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 1250186,
+      "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
+      "url": "https://open.spotify.com/track/23ZAoFEVlfrjzMZHTgUD1c"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 632386,
-      "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
-      "url": "https://open.spotify.com/track/2gC4HKZ2Bhubhi3dgICGay"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
       },
@@ -1643,8 +1623,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler, G.: Symphony No. 7",
-        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
       },
       "artists": [
         {
@@ -1652,17 +1632,33 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
         }
       ],
-      "duration_ms": 1041746,
-      "name": "Symphony No. 7 in E Minor: V. Rondo-Finale",
-      "url": "https://open.spotify.com/track/6LFriNh4QuVEDHWt2IHbcH"
+      "duration_ms": 632386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
+      "url": "https://open.spotify.com/track/2gC4HKZ2Bhubhi3dgICGay"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 10",
+        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 815226,
+      "name": "Symphony No.10 in F-sharp Major: IV. Scherzo II: Kr\u00e4ftig, nicht zu schnell",
+      "url": "https://open.spotify.com/track/56anl3ns0VcBsGy1E2M15Q"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1691,8 +1687,32 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 10",
-        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 1041746,
+      "name": "Symphony No. 7 in E Minor: V. Rondo-Finale",
+      "url": "https://open.spotify.com/track/6LFriNh4QuVEDHWt2IHbcH"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
       },
       "artists": [
         {
@@ -1704,9 +1724,9 @@
           "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
         }
       ],
-      "duration_ms": 815226,
-      "name": "Symphony No.10 in F-sharp Major: IV. Scherzo II: Kr\u00e4ftig, nicht zu schnell",
-      "url": "https://open.spotify.com/track/56anl3ns0VcBsGy1E2M15Q"
+      "duration_ms": 610386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
+      "url": "https://open.spotify.com/track/5gE04PX9nAFkZrIXgoENBm"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1743,26 +1763,6 @@
       "duration_ms": 349497,
       "name": "Symphony No. 8: II - VII. H\u00f6chste Herrscherin der Welt! - Live",
       "url": "https://open.spotify.com/track/4W2C9mMIoYrC48RVrlCUXU"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 610386,
-      "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
-      "url": "https://open.spotify.com/track/5gE04PX9nAFkZrIXgoENBm"
     },
     {
       "added_at": "2022-06-27 09:16:34",

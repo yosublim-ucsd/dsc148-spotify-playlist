@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-800 songs - 1 day 22 hr 43 min
+801 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [จะกลับไปดีกับเขาก็บอก](https://open.spotify.com/track/0uSPq0GNlfrIeaBDc2574f) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [จะกลับไปดีกับเขาก็บอก](https://open.spotify.com/album/5kEtuZ1KxY8xJRFZ25Xn4H) | 3:20 | 2021-07-21 | 2021-10-29 |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-08 | 2023-11-22 |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2021-07-01 | 2023-01-22 |
+| [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/0D9lpJts3mXxe0fvovYUFv) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:48 | 2024-03-29 |  |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2023-01-28 | 2024-03-28 |
 | [จากนี้ \- BFF](https://open.spotify.com/track/0WP8Hwr2s3Fhwu14ehgUUT) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [จากนี้ \(BFF\)](https://open.spotify.com/album/1xoOdcpmOYbkLxHLvvt4Uk) | 4:21 | 2022-02-15 | 2022-03-17 |
 | [จำนน \(White Flag\)](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน \(White Flag\)](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 | 2024-03-16 |  |
@@ -656,7 +657,7 @@
 | [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2021-07-01 | 2021-08-21 |
 | [พัทยา \(Pattaya\)](https://open.spotify.com/track/6VmtHYkk81yli04paFVxqJ) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [พัทยา \(Pattaya\)](https://open.spotify.com/album/19vFvhNSlINSXlwkHjMNpx) | 3:44 | 2021-08-19 | 2021-11-12 |
 | [พิง \- เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 | 2021-10-03 | 2023-01-17 |
-| [พิจารณา \(Consider\)](https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [พิจารณา \(Consider\)](https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR) | 4:06 | 2022-10-06 |  |
+| [พิจารณา \(Consider\)](https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [พิจารณา \(Consider\)](https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR) | 4:06 | 2022-10-06 | 2024-03-30 |
 | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/track/3t1Ex6dp0O7tUP3NLyjAY8) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/album/6dOWpIUDYJSmJJia9G8nfB) | 3:14 | 2024-01-21 | 2024-03-10 |
 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2023-11-19 |  |
 | [พี่ไม่หล่อลวง \- เพลงประกอบภาพยนตร์ อ้าย..คนหล่อลวง](https://open.spotify.com/track/3eAy5JisAJxlwAwL2JTNk3) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [เพลงประกอบภาพยนตร์ อ้าย..คนหล่อลวง](https://open.spotify.com/album/6DIAniK5D9oYDD2bPmi0Qq) | 3:34 | 2021-03-27\* | 2021-04-01 |

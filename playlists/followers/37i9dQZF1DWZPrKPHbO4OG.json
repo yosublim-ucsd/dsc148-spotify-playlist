@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 21001,
+  "2024-03-30": 21033,
   "date_first_scraped": "2023-07-25",
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
   "name": "Marathi Workout",
@@ -553,6 +553,28 @@
       "duration_ms": 214357,
       "name": "Govyachya Kinaryav",
       "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
+    },
+    {
+      "album": {
+        "name": "Gulabi Sadi",
+        "url": "https://open.spotify.com/album/5NDcb02xBpTu752ETxKuGN"
+      },
+      "artists": [
+        {
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-Spark",
+          "url": "https://open.spotify.com/artist/2zExApX8DZoAYwTeIM1fMv"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223347,
+      "name": "Gulabi Sadi",
+      "url": "https://open.spotify.com/track/4ITtnvLQ6SOA8XhiqkLa24"
     },
     {
       "album": {

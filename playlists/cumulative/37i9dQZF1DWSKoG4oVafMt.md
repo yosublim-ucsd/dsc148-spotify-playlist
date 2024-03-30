@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-830 songs - 1 day 21 hr 8 min
+831 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [Morni](https://open.spotify.com/track/4QdDTR7XcgHfYhpKmkgYL4) | [Pavvy Virk](https://open.spotify.com/artist/1AQZgGdnLJOu37cxZzIkxX) | [Morni](https://open.spotify.com/album/1DTXPbMDvoXGKjRtSkom6j) | 3:20 | 2022-08-31 | 2022-09-03 |
 | [Morniye](https://open.spotify.com/track/2JXWYP2pzGT097OydwlHh9) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Still Here](https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl) | 2:32 | 2023-11-28 | 2023-12-12 |
 | [Move On](https://open.spotify.com/track/2fb1j5P2TqUbvpa1u2gfc7) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Move On](https://open.spotify.com/album/5UBI3j3IpxKulky5cSUo5k) | 2:13 | 2022-04-25 | 2022-05-11 |
-| [Move On](https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Archives](https://open.spotify.com/album/2L0jISPU1EHSXOiwkrCOks) | 2:57 | 2023-06-29 |  |
+| [Move On](https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Archives](https://open.spotify.com/album/2L0jISPU1EHSXOiwkrCOks) | 2:57 | 2023-06-29 | 2024-03-30 |
 | [Move On](https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Inder](https://open.spotify.com/artist/4BTiv9wnMrhxZNxaTb3rwT) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:57 | 2022-12-09 | 2023-07-01 |
 | [Mukhda Dikha Do](https://open.spotify.com/track/67mb14eIBHuHol8biNzESH) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Mukhda Dikha Do](https://open.spotify.com/album/5VLVzZXBmfojRzPiWr3yTi) | 3:06 | 2022-03-22 | 2022-04-06 |
 | [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 | 2022-11-16 |  |
@@ -738,6 +738,7 @@
 | [Tera Mera Saath](https://open.spotify.com/track/3j0D9A264VbssyLaWvnQ1r) | [Gurwinder Brar](https://open.spotify.com/artist/3WZTmAmQr3PkUbEfctw4u0) | [Tera Mera Saath](https://open.spotify.com/album/3YzyVDXuzW02aJ6Gj8ghg2) | 3:33 | 2022-08-12 | 2023-02-04 |
 | [Tera Pyaar Ve](https://open.spotify.com/track/1E4MAiOaObaDGgpqvRnxva) | [Aman Ghuman](https://open.spotify.com/artist/5F9H8STHJE2bPys4Eh5eLJ) | [Tera Pyaar Ve](https://open.spotify.com/album/35wFZvVX88QtIReBPjZspB) | 3:15 | 2022-07-15 | 2022-08-18 |
 | [Tere Bajjon](https://open.spotify.com/track/40jeNi7ZW86rMU7UXgOJgC) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Tere Bajjon](https://open.spotify.com/album/6VBWhaZGlXxI4E0fXx0qV6) | 3:07 | 2022-08-19 | 2022-09-23 |
+| [Tere Bin](https://open.spotify.com/track/5PQU5EG7rF1YXd6Pxebwlb) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Laddi Gill](https://open.spotify.com/artist/37TJmJvVHDSI9Ach5Zvs31) | [Tere Bin](https://open.spotify.com/album/1GBu8zrHLaCvLBPmkiipM9) | 3:13 | 2024-03-29 |  |
 | [Tere Bina](https://open.spotify.com/track/47G3rE1gZFI4BjEcvIsrWf) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 4:04 | 2022-05-06 | 2022-05-20 |
 | [TERE BINA](https://open.spotify.com/track/1lpICxQ99AvgSa3ubsqblS) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:16 | 2023-08-21 |  |
 | [Tere Bina \(from Lover\)](https://open.spotify.com/track/7Fg62PrzBj5otaOXJ1APtJ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Tere Bina \(from Lover\)](https://open.spotify.com/album/3Q8076AEcr7AWA3iDgtLHI) | 3:28 | 2022-06-30 | 2022-07-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,651 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,693 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 63 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 |
 | 64 | [Mar y Luna](https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P) | [Pecos Kanvas](https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8) | [Mar y Luna](https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp) | 4:20 |
 | 65 | [Por una Lágrima](https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:09 |
-| 66 | [Anhelos](https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Los Dos Inseparables](https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D) | 2:56 |
-| 67 | [Tabaco y Ron](https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 4:04 |
-| 68 | [Nuestro Amor Será](https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx) | [Rhapsodia](https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL) | [Nosotros](https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ) | 6:50 |
-| 69 | [Oye \(Made Popular By La Sonora Dinamita\) \[Karaoke Version\]](https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Tropical Hits 9](https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I) | 3:08 |
-| 70 | [Carola](https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO) | [Rodolfo Su Tipica](https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ) | [A Bailar Tropical](https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv) | 2:53 |
+| 66 | [Tabaco y Ron](https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 4:04 |
+| 67 | [Carola](https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO) | [Rodolfo Su Tipica](https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ) | [A Bailar Tropical](https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv) | 2:53 |
+| 68 | [Anhelos](https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Los Dos Inseparables](https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D) | 2:56 |
+| 69 | [Nuestro Amor Será](https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx) | [Rhapsodia](https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL) | [Nosotros](https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ) | 6:50 |
+| 70 | [Oye \(Made Popular By La Sonora Dinamita\) \[Karaoke Version\]](https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Tropical Hits 9](https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I) | 3:08 |
 | 71 | [Muchacha Encantadora](https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:17 |
 | 72 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
 | 73 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Mi Primer Amor](https://open.spotify.com/track/1eANtXo79JIHuG1zvy0OeH) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:32 |
 | 100 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 |
 
-Snapshot ID: `MCwxMjVjMDMzNDVhYTJhYWRhNmJjODg3MWIyOWVlYjVlYmFlYTFhMjgz`
+Snapshot ID: `MCw1ZDMwMmE1MjRiNGIwY2UzZDNmMTcxZjQwOTM4YTQ2NWM2MGU2ZDFm`

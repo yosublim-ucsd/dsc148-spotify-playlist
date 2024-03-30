@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m?si=JvlkENTPTVWQtemui_MtFw\">Beyonc\u00e9</a>",
-  "num_followers": 85428,
+  "num_followers": 85540,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThlMzAyZGQ0YzAwZDc0YmQzOWYzMmY3OTNjOTQ2NDIxMDk0YTgy",
+  "snapshot_id": "MCw4ZjYwYWM2MTQyNmJlMDVmZTY3MzkyMWRjYjZkZjUwNzE2MmU5NGI1",
   "tracks": [
     {
       "added_at": "2024-03-28 22:00:00",
@@ -247,30 +247,6 @@
       "duration_ms": 396000,
       "name": "Hamba Nami",
       "url": "https://open.spotify.com/track/4MomE1PmIYPRblk7F7twyT"
-    },
-    {
-      "added_at": "2024-03-28 22:00:00",
-      "album": {
-        "name": "Baya Hlanya (feat. Benzoo)",
-        "url": "https://open.spotify.com/album/5bCYjRubwkop9VLt2hwmks"
-      },
-      "artists": [
-        {
-          "name": "Mr JazziQ",
-          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
-        },
-        {
-          "name": "Offcixl RSA",
-          "url": "https://open.spotify.com/artist/66iXPOzeYi9G6uUFSseD7O"
-        },
-        {
-          "name": "Benzoo",
-          "url": "https://open.spotify.com/artist/2hmiyEZJxAeSmRuvv2S7FO"
-        }
-      ],
-      "duration_ms": 270869,
-      "name": "Baya Hlanya (feat. Benzoo)",
-      "url": "https://open.spotify.com/track/5S71ZMqUPLDVjat0WJWDJW"
     },
     {
       "added_at": "2024-03-28 22:00:00",
@@ -791,26 +767,6 @@
     {
       "added_at": "2024-03-28 22:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 200694,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
-    },
-    {
-      "added_at": "2024-03-28 22:00:00",
-      "album": {
         "name": "Steppas",
         "url": "https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX"
       },
@@ -959,34 +915,6 @@
     {
       "added_at": "2024-03-28 22:00:00",
       "album": {
-        "name": "Amaphupho",
-        "url": "https://open.spotify.com/album/661kz9QD8k4j3VblzUmo6n"
-      },
-      "artists": [
-        {
-          "name": "Soa Mattrix",
-          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
-        },
-        {
-          "name": "Cnethemba Gonelo",
-          "url": "https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg"
-        },
-        {
-          "name": "Murumba Pitch",
-          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
-        },
-        {
-          "name": "Sinny Man'Que",
-          "url": "https://open.spotify.com/artist/3pkvmcbars2K4OSqmRTC7m"
-        }
-      ],
-      "duration_ms": 348581,
-      "name": "Amaphupho",
-      "url": "https://open.spotify.com/track/7aHnc4ZBaXafiX0vglFpVb"
-    },
-    {
-      "added_at": "2024-03-28 22:00:00",
-      "album": {
         "name": "Birds",
         "url": "https://open.spotify.com/album/1tbzDVXgaVVE4PsM9uEOEy"
       },
@@ -999,6 +927,26 @@
       "duration_ms": 150522,
       "name": "Birds",
       "url": "https://open.spotify.com/track/1Jy2MJzzfP6FHF9TeeMHtd"
+    },
+    {
+      "added_at": "2024-03-28 22:00:00",
+      "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
       "added_at": "2024-03-28 22:00:00",
@@ -1059,6 +1007,22 @@
       "duration_ms": 206311,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/5h5qNr8OD8mTdZ6f4d2jCu"
+    },
+    {
+      "added_at": "2024-03-28 22:00:00",
+      "album": {
+        "name": "HI-VOLTAGE",
+        "url": "https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "HI-VOLTAGE",
+      "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
     },
     {
       "added_at": "2024-03-28 22:00:00",

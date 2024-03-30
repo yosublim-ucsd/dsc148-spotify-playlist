@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,237 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,356 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 11 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
 | 12 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 | 13 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
-| 14 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
-| 15 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 |
+| 14 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 |
+| 15 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
 | 16 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 |
 | 17 | [Mad Over You](https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad Over You](https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78) | 3:36 |
 | 18 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 45 | [If Love Is A Crime](https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:29 |
 | 46 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 |
 | 47 | [Feel My Love](https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:57 |
-| 48 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
-| 49 | [Nomvula](https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1) | 4:37 |
+| 48 | [Nomvula](https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1) | 4:37 |
+| 49 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
 | 50 | [Ibhanoyi](https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:09 |
 | 51 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 |
 | 52 | [Iinkomo](https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [The Soil](https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ) | 4:06 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 93 | [Coming Home](https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Love Better](https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ) | 2:54 |
 | 94 | [Zodwa](https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B) | [Joe Nina](https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs) | [Mababaza](https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt) | 4:09 |
 | 95 | [Uliza Kiatu](https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Uliza Kiatu](https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p) | 4:18 |
-| 96 | [Ndicel'ikiss](https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [Songs in The Key of Love](https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK) | 3:42 |
-| 97 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 |
-| 98 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
+| 96 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
+| 97 | [Ndicel'ikiss](https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [Songs in The Key of Love](https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK) | 3:42 |
+| 98 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 |
 | 99 | [Ritwa Riaku](https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz) | [Sawa Sawa](https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw) | 3:35 |
 | 100 | [Mayine](https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Kulture Noir](https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z) | 7:06 |
 
-Snapshot ID: `MCw5Nzk4N2VlMjg4ZmE4ZTlmNTExNjYxN2E5YThmZDEzN2U5ZDJmMzk5`
+Snapshot ID: `MCxmNjQxOWE1MmFhYjE4NjI5YmQ5ZDZkYjJiMGJhNzI2ODUwOThiNzNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,857 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,004 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 13 | [The Scientist](https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [The Scientist](https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb) | 3:27 |
 | 14 | [Where I Belong](https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e), [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Where I Belong](https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd) | 2:45 |
 | 15 | [Colours](https://open.spotify.com/track/3Uk2w6r3A3RlQcFwxKmkh0) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Colours](https://open.spotify.com/album/0sSAo1leCAoLLaDlkUzZK2) | 3:01 |
-| 16 | [The Riddle](https://open.spotify.com/track/3I2IF4bYGrv30V9D5S4VMe) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [The Riddle](https://open.spotify.com/album/58d2pvjqzMvI4xxayOcBgu) | 4:50 |
+| 16 | [The Riddle](https://open.spotify.com/track/3I2IF4bYGrv30V9D5S4VMe) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [The Riddle \(feat\. Diandra Faye\)](https://open.spotify.com/album/58d2pvjqzMvI4xxayOcBgu) | 4:50 |
 | 17 | [Electricity](https://open.spotify.com/track/31Ga0NFKXegEWnoF7q3CzE) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Electricity](https://open.spotify.com/album/0Vgrsf93VWqzbbqQbhi70K) | 3:33 |
 | 18 | [Move Your Feet](https://open.spotify.com/track/1L9h9rrW1bvWiFWj6XD31j) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Move Your Feet](https://open.spotify.com/album/6jeWxhEJrd0XwSxSBCKr5w) | 3:27 |
 | 19 | [Fire](https://open.spotify.com/track/5Oh48t8W8xH1GTZ6fa6502) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Fire](https://open.spotify.com/album/57EpV6zP8Zz4NymmFBKdFS) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [So Cold](https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [So Cold](https://open.spotify.com/album/0iCFyqcvr2DMB14ZdOX2M6) | 3:20 |
 | 100 | [All Over Again](https://open.spotify.com/track/20G9QEycg5HZOsJEbB35JW) | [Summa Jae](https://open.spotify.com/artist/1fftC0CPDPyJOjJQRLRNnM), [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE) | [All Over Again](https://open.spotify.com/album/16bK5p33etOPrPTg31uRIV) | 2:44 |
 
-Snapshot ID: `MCwwN2M0MzE2YjBhZjA4NGJhMGY3N2YyNTc0YzQwMzA3YmExMjVlNjhl`
+Snapshot ID: `MCxlYzE4NzdjZWFmYTRlM2RlMjU1M2RjMTExMzRmNDUxYzAwNDc0ZWEy`

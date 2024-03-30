@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 177689,
+  "2024-03-30": 177712,
   "date_first_scraped": "2022-07-17",
-  "description": "Lhast e Chaylan entram na zona. ",
+  "description": "Vado M\u00e1s Ki \u00c1s e Julinho Ksd entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 192391,
       "name": "#SAFADA",
       "url": "https://open.spotify.com/track/2ABo9zdcOY5U6K1gJT9qXj"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 200000,
       "name": "Basta",
       "url": "https://open.spotify.com/track/4EHWvN8Flghia7UHyJL4T8"
@@ -1467,6 +1467,28 @@
       "duration_ms": 160708,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/5WHssMvZ9qRpRSs6dkoivi"
+    },
+    {
+      "album": {
+        "name": "BOM BOM",
+        "url": "https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe"
+      },
+      "artists": [
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180597,
+      "name": "BOM BOM",
+      "url": "https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM"
     },
     {
       "album": {
@@ -2559,7 +2581,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 183107,
       "name": "C\u00e9u Estrelado",
       "url": "https://open.spotify.com/track/1k69mgwnKtE6IJlzOvVAzX"
@@ -5383,7 +5405,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 297653,
       "name": "Luxo",
       "url": "https://open.spotify.com/track/0sv8lIxCnWR1HCsrPBZqIA"
@@ -5478,6 +5500,28 @@
     },
     {
       "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/1R3IUSqqHWJmBlPQRjQvRO"
+      },
+      "artists": [
+        {
+          "name": "GNTK",
+          "url": "https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0"
+        },
+        {
+          "name": "N Fly",
+          "url": "https://open.spotify.com/artist/0OakNsnVlzuZuDuz6jPyEd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193389,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/7D6vr0BLYUoxumyckR4ZJy"
+    },
+    {
+      "album": {
         "name": "Mais Uma Vez",
         "url": "https://open.spotify.com/album/6XwhLnbx0ixfuoJJZvXB8S"
       },
@@ -5559,6 +5603,24 @@
       "duration_ms": 192000,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/6J6DcdqOLCCA3VZ9mr6VPD"
+    },
+    {
+      "album": {
+        "name": "Manti Mau",
+        "url": "https://open.spotify.com/album/4dd9mEvsmBHFrBTzBk00Aa"
+      },
+      "artists": [
+        {
+          "name": "Ne Jah",
+          "url": "https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Manti Mau",
+      "url": "https://open.spotify.com/track/2x1hu4LtGv7Spayn6mPHVJ"
     },
     {
       "album": {
@@ -5757,6 +5819,24 @@
       "duration_ms": 193573,
       "name": "Mesmo Assim",
       "url": "https://open.spotify.com/track/2FgZ8sm114fRxW88yMKw2p"
+    },
+    {
+      "album": {
+        "name": "Mesmo Lugar",
+        "url": "https://open.spotify.com/album/0fB64sC0z6R9MW8hj0GVCp"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225375,
+      "name": "Mesmo Lugar",
+      "url": "https://open.spotify.com/track/5WzNOAQd3wjwwnWMAPnvpY"
     },
     {
       "album": {
@@ -8161,7 +8241,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 188717,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/5ufHiz91MIA3J9RPEZsQif"
@@ -8668,6 +8748,32 @@
     },
     {
       "album": {
+        "name": "Serenata",
+        "url": "https://open.spotify.com/album/5ClLZLsv5yt8JFY2pT1BrR"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        },
+        {
+          "name": "Nuno Apar\u00edcio",
+          "url": "https://open.spotify.com/artist/1sOpRdQ6OosMS6sUC03ToW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/1HokVALLDjwqdtVpuP8Vwv"
+    },
+    {
+      "album": {
         "name": "SEXTOU",
         "url": "https://open.spotify.com/album/0DJWUuanSg10boh1qpNs5i"
       },
@@ -8849,6 +8955,28 @@
       "duration_ms": 128571,
       "name": "SLOW DOWN",
       "url": "https://open.spotify.com/track/09J2GaoKUhH4MV3xbBlhj8"
+    },
+    {
+      "album": {
+        "name": "THE NINJA SPIRIT",
+        "url": "https://open.spotify.com/album/0IJUNankp0rti6gsU77HDI"
+      },
+      "artists": [
+        {
+          "name": "SleepyThePrince",
+          "url": "https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE"
+        },
+        {
+          "name": "Dj Dadda",
+          "url": "https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182970,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/3GiSZdYGVzZOjKN3cdCQur"
     },
     {
       "album": {
@@ -9647,7 +9775,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 226005,
       "name": "Trovador",
       "url": "https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j"
@@ -9793,7 +9921,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 173005,
       "name": "UHTRED",
       "url": "https://open.spotify.com/track/34g7Rwoc29fVlzXH4e1ccj"
@@ -9987,6 +10115,32 @@
       "duration_ms": 135145,
       "name": "Viana Gaia",
       "url": "https://open.spotify.com/track/6CrtvGDQ0Nww9AfX2RR8fN"
+    },
+    {
+      "album": {
+        "name": "VIDA BANDIDA",
+        "url": "https://open.spotify.com/album/6FOBnYk5bE3HkuBZAKVfYw"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        },
+        {
+          "name": "Casp3r",
+          "url": "https://open.spotify.com/artist/2dNyGUrMkoGzDHTMTukhf6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202342,
+      "name": "VIDA BANDIDA",
+      "url": "https://open.spotify.com/track/0z0hJIDVzyFX6CpHsy4b5a"
     },
     {
       "album": {

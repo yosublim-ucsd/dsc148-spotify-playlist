@@ -1,12 +1,12 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 58625,
+  "num_followers": 58939,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjE5NjhhNmNhYTEyMTYzNTM3MGUwZDUwNzEyYmEzNjdlYmFhMmY4",
+  "snapshot_id": "MCxjZTNkZWZiMWFhYTNmNzEyMGZlNGI5NTFiMWRkYzZiZWRhZTVlOGVj",
   "tracks": [
     {
       "added_at": "2024-03-22 18:49:21",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "added_at": "2024-03-22 18:49:21",
+      "album": {
         "name": "A Puro Dolor",
         "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
       },
@@ -463,18 +479,26 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+        "name": "LA PEOPLE II",
+        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
         }
       ],
-      "duration_ms": 193568,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+      "duration_ms": 141064,
+      "name": "LA PEOPLE II",
+      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -563,26 +587,6 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 159170,
-      "name": "Reggaeton Champagne",
-      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
-    },
-    {
-      "added_at": "2024-03-22 18:49:21",
-      "album": {
         "name": "\u00c9NFASIS",
         "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
       },
@@ -603,26 +607,22 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "LA PEOPLE II",
-        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 141064,
-      "name": "LA PEOPLE II",
-      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -731,26 +731,26 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "De Fresa y Coco",
-        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
+        "name": "EXCESO",
+        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
         }
       ],
-      "duration_ms": 165447,
-      "name": "De Fresa y Coco",
-      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
+      "duration_ms": 142802,
+      "name": "EXCESO",
+      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -791,26 +791,42 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "EXCESO",
-        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
+        "name": "De Fresa y Coco",
+        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
       "artists": [
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         },
         {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 142802,
-      "name": "EXCESO",
-      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
+      "duration_ms": 165447,
+      "name": "De Fresa y Coco",
+      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
+    },
+    {
+      "added_at": "2024-03-22 18:49:21",
+      "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -839,6 +855,30 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
+        "name": "Don Dimadon",
+        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 184987,
+      "name": "Don Dimadon",
+      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "added_at": "2024-03-22 18:49:21",
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
       },
@@ -855,22 +895,6 @@
       "duration_ms": 150974,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
-    },
-    {
-      "added_at": "2024-03-22 18:49:21",
-      "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -899,30 +923,6 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "Don Dimadon",
-        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 184987,
-      "name": "Don Dimadon",
-      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2024-03-22 18:49:21",
-      "album": {
         "name": "MARTILLAZO",
         "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
       },
@@ -943,26 +943,6 @@
       "duration_ms": 158333,
       "name": "MARTILLAZO",
       "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
-    },
-    {
-      "added_at": "2024-03-22 18:49:21",
-      "album": {
-        "name": "Si No Quieres No",
-        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 147011,
-      "name": "Si No Quieres No",
-      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -1007,6 +987,26 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
+    },
+    {
+      "added_at": "2024-03-22 18:49:21",
+      "album": {
+        "name": "Si No Quieres No",
+        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 147011,
+      "name": "Si No Quieres No",
+      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
     },
     {
       "added_at": "2024-03-22 18:49:21",

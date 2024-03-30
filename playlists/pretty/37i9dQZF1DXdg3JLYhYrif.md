@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,768 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,942 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 15 | [Ela É do Tipo](https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Ela É do Tipo](https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8) | 3:24 |
 | 16 | [Gaiola É o Troco](https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET) | [Gaiola É o Troco](https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d) | 3:07 |
 | 17 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 2:36 |
-| 18 | [Atrasadinha \- Live](https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:52 |
-| 19 | [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Na Balada \(Ao Vivo\)](https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc) | 2:50 |
+| 18 | [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Na Balada \(Ao Vivo\)](https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc) | 2:50 |
+| 19 | [Atrasadinha \- Live](https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:52 |
 | 20 | [O Nosso Santo Bateu \- Live](https://open.spotify.com/track/5C0wi5U4l0YUv7yIKe2TEe) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e) | 3:07 |
 | 21 | [Suíte 14 \(feat\. Mc Guimê\) \- Ao Vivo](https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov) | [Tempo Certo \(Ao Vivo em Campo Grande\)](https://open.spotify.com/album/2yqFE84Ne8JjDcEXhdi6qB) | 2:58 |
 | 22 | [Hoje Eu Vou Parar Na Gaiola](https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Hoje Eu Vou Parar Na Gaiola](https://open.spotify.com/album/1OZEMraAZsiMYQGNZjOw8F) | 2:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
 | 60 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 |
 
-Snapshot ID: `MCwxOTJiNzRiZTIwY2IzNjMwZTA2ZjEwZWM0MTQzOTg5Yjc3MDdlZDhi`
+Snapshot ID: `MCxmMzIyODUwZTE1OGY2N2RhODI4N2ZmMDIzNDdiZTMyZTM4YjkzNWIw`

@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: F.HERO x BODYSLAM x BABYMETAL
 
-279 songs - 16 hr 4 min
+280 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Bloom](https://open.spotify.com/track/360qOFQEAvNatJD65tMehi) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:50 | 2023-07-20 | 2023-12-08 |
 | [Bloom](https://open.spotify.com/track/6zg3qFNuaEbl5pxKquLu7a) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS) | 3:50 | 2023-12-19 |  |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-07-20 |  |
-| [Boarding Time](https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Boarding Time](https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS) | 2:56 | 2024-03-26 |  |
+| [Boarding Time](https://open.spotify.com/track/42lsXb14Nxik4hfeqksL8K) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [PURE 40](https://open.spotify.com/album/3ebUA1TA2F3IMkyFNjJN8E) | 2:56 | 2024-03-26 |  |
+| [Boarding Time](https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Boarding Time](https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS) | 2:56 | 2024-03-26 | 2024-03-30 |
 | [breakout](https://open.spotify.com/track/2p3oY7YCPiAr5EBtP6xFZc) | [THE FROGLETS](https://open.spotify.com/artist/31kWXrEdHomiyrPrZhoXhc) | [THE FROGLETS](https://open.spotify.com/album/0cND80hJtxdUgVkJP8Sh5s) | 2:30 | 2023-12-26 | 2024-02-28 |
 | [Breakout](https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq) | [the twenties](https://open.spotify.com/artist/23d14imdoUIYJcQS1KgpPO), [タナカユーキ](https://open.spotify.com/artist/0Ty8GKQtnU6sZ5HSmilIy8) | [Breakout](https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW) | 3:14 | 2023-11-21 | 2023-12-13 |
 | [Breath of Air](https://open.spotify.com/track/6mnVy50A74hVxzGOiReg7k) | [Sailing Before The Wind](https://open.spotify.com/artist/2vqxAyqkpAngDDrjjNawov), [Matt Sosa](https://open.spotify.com/artist/2W5WiwytW6Pq24pIEGjWg3), [Across The White Water Tower](https://open.spotify.com/artist/69INHlGPwKDzfamLIgICDK) | [Breath of Air](https://open.spotify.com/album/3k4sOlIP8IYvG3FxgX1wLT) | 4:14 | 2024-02-06 | 2024-02-28 |

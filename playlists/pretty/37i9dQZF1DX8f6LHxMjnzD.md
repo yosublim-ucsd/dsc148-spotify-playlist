@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,038 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,036 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Tie Up](https://open.spotify.com/track/1ldVci33AH29zhSR4fTIOt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Tie Up](https://open.spotify.com/album/1LtPTOxjuWJ2iPUy2ILU9e) | 3:08 |
 | 40 | [MAGNETIC](https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [MAGNETIC](https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy) | 3:12 |
 
-Snapshot ID: `MCw1ZjA2MjYyNTcxODE4ZmQ2MjI2MjFkODEwNjcxZTg5ZDQ5NjVkOWFk`
+Snapshot ID: `MCw4OWY2M2NkN2QzNDY1MWEwN2I1ZjZkMjY2OTc2ZDg4NWRkZmNjZGZl`

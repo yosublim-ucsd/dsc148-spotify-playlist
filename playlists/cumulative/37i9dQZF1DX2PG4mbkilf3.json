@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is r&b in Canada, elevate your aura with LOONY.",
+  "description": "This is r&b in Canada, elevate your aura with K. Forest.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 203294,
       "name": "22 QUESTIONS",
       "url": "https://open.spotify.com/track/3o3Bw5e2O4I6usPBmq5WlE"
@@ -2114,6 +2114,24 @@
     {
       "album": {
         "name": "Body",
+        "url": "https://open.spotify.com/album/7zx24xlZVUWsa9werxJb1p"
+      },
+      "artists": [
+        {
+          "name": "LOKRE",
+          "url": "https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146909,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0w6ti8058yn14WbUc0txyS"
+    },
+    {
+      "album": {
+        "name": "Body",
         "url": "https://open.spotify.com/album/5b4ScimxuDVWmV1vYNJrtA"
       },
       "artists": [
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 216953,
       "name": "BULLSEYE",
       "url": "https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k"
@@ -2525,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Be Replaced",
         "url": "https://open.spotify.com/album/1Nza8gymgRpQ4fpaeVcHc9"
       },
@@ -2616,6 +2652,32 @@
       "duration_ms": 74000,
       "name": "Ce Soir 22",
       "url": "https://open.spotify.com/track/0r2GXh51kE6Lxt5khapdWE"
+    },
+    {
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/0TOJO823upXQeMIpT4GgZV"
+      },
+      "artists": [
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168244,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam"
     },
     {
       "album": {
@@ -3892,6 +3954,24 @@
       "duration_ms": 228292,
       "name": "DNA - Live",
       "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/5o1cuob7TMEd7oAKuffRHK"
+      },
+      "artists": [
+        {
+          "name": "Cheska Cruz",
+          "url": "https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161489,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE"
     },
     {
       "album": {
@@ -5896,7 +5976,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 159069,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/7j8WiRODf8Gqea0MAdJDvr"
@@ -7250,7 +7330,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 251009,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
@@ -7694,7 +7774,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 176326,
       "name": "In My Way",
       "url": "https://open.spotify.com/track/5idx4L1tuY9uhhNJJNOcCj"
@@ -8178,7 +8258,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 129229,
       "name": "Jump Off",
       "url": "https://open.spotify.com/track/6on03Tw14NWeIjumedTL71"
@@ -8429,6 +8509,28 @@
     },
     {
       "album": {
+        "name": "Keepin' It Kool",
+        "url": "https://open.spotify.com/album/0Q0b78qSFigP7oulHLChl6"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        },
+        {
+          "name": "Kendra Dias",
+          "url": "https://open.spotify.com/artist/4ntiWr0UeyP1duNqALGosf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325546,
+      "name": "Keepin' It Kool",
+      "url": "https://open.spotify.com/track/05GPOsUWEBKwMnb3EukHpg"
+    },
+    {
+      "album": {
         "name": "KEOTR",
         "url": "https://open.spotify.com/album/4OnFgdo3RXbRUXOOFXVxEr"
       },
@@ -8588,6 +8690,32 @@
       "duration_ms": 159810,
       "name": "Lajan",
       "url": "https://open.spotify.com/track/1xH4bzkXRMsLJ3OyYflr0w"
+    },
+    {
+      "album": {
+        "name": "Lalalala",
+        "url": "https://open.spotify.com/album/3s7J1XOeBX15IXhh025coY"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        },
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        },
+        {
+          "name": "PRIMO",
+          "url": "https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Lalalala",
+      "url": "https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF"
     },
     {
       "album": {
@@ -9174,7 +9302,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 125346,
       "name": "LINK UP",
       "url": "https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk"
@@ -10162,7 +10290,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180923,
       "name": "Mine Until the Morning",
       "url": "https://open.spotify.com/track/1ZcR6vliV85DUxoVIK6bXp"
@@ -13481,6 +13609,28 @@
     },
     {
       "album": {
+        "name": "RETRO",
+        "url": "https://open.spotify.com/album/45GDcZlo4VqOO4dS7rcuhE"
+      },
+      "artists": [
+        {
+          "name": "Mo\u00ebl",
+          "url": "https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa"
+        },
+        {
+          "name": "Nasim Asgari",
+          "url": "https://open.spotify.com/artist/3Ha4pQdxfE4l63EuZUrCDE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202152,
+      "name": "RETRO",
+      "url": "https://open.spotify.com/track/7qL0Z6HZKGjcWX6JiracpX"
+    },
+    {
+      "album": {
         "name": "Just for Now",
         "url": "https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy"
       },
@@ -15763,6 +15913,24 @@
     },
     {
       "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd"
+    },
+    {
+      "album": {
         "name": "Suppress (Original)",
         "url": "https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb"
       },
@@ -16770,7 +16938,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 229090,
       "name": "Thug Passion",
       "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
@@ -17602,6 +17770,24 @@
       "duration_ms": 220820,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg"
+    },
+    {
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/26FwD9G0pXiVpLbxgu6LJP"
+      },
+      "artists": [
+        {
+          "name": "KAGE",
+          "url": "https://open.spotify.com/artist/3pKy7Z4fo8VSZXu9xtudcF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/0O5Ff9N9LI11RzaxqcNRFZ"
     },
     {
       "album": {

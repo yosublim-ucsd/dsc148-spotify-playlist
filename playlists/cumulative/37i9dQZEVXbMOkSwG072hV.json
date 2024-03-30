@@ -13696,6 +13696,10 @@
         {
           "name": "Mc Neg\u00e3o VHF",
           "url": "https://open.spotify.com/artist/0nYYF6asC2cg6L2Vk9uAKa"
+        },
+        {
+          "name": "MC Luiggi",
+          "url": "https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP"
         }
       ],
       "date_added": "2024-03-19",
@@ -14424,7 +14428,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 210200,
       "name": "eternal sunshine",
       "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
@@ -14588,6 +14592,24 @@
       "duration_ms": 175080,
       "name": "Eu e Voc\u00ea Estava Escrito nas Estrelas",
       "url": "https://open.spotify.com/track/2aM5L9T3ZGa3ynT4QbU6so"
+    },
+    {
+      "album": {
+        "name": "Eu Era Feio e Ningu\u00e9m Me Queria",
+        "url": "https://open.spotify.com/album/4Ot0TPYDLzSxmHzefPdp4A"
+      },
+      "artists": [
+        {
+          "name": "Lusquinha",
+          "url": "https://open.spotify.com/artist/0xg5igCRNAGGMfG7W6peFm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114720,
+      "name": "Eu Era Feio e Ningu\u00e9m Me Queria",
+      "url": "https://open.spotify.com/track/3deWVCf3eFJl5FWYh4Nf3F"
     },
     {
       "album": {
@@ -15012,7 +15034,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 140307,
       "name": "Eu te fa\u00e7o alucinar",
       "url": "https://open.spotify.com/track/60oeKTlhFKSxHLK7eepwoR"
@@ -38982,7 +39004,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"

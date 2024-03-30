@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,807 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,823 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 25 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 |
 | 26 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 27 | [Radar](https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5) | 2:42 |
-| 28 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 |
-| 29 | [Cuando Estamos los Dos](https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Portales](https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd) | 3:17 |
+| 28 | [Cuando Estamos los Dos](https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Portales](https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd) | 3:17 |
+| 29 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 |
 | 30 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
 | 31 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 32 | [INFINITO](https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:05 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 74 | [GUIAME](https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [GUIAME](https://open.spotify.com/album/057ObaWRT9nY13cHAEggco) | 3:18 |
 | 75 | [Máquinas de hacer todo al mismo tiempo](https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [NUNCA DA IGUAL](https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu) | 3:39 |
 | 76 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 |
-| 77 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
-| 78 | [Que te hizo ir](https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Que te hizo ir](https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb) | 3:41 |
-| 79 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
+| 77 | [Que te hizo ir](https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Que te hizo ir](https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb) | 3:41 |
+| 78 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
+| 79 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
 | 80 | [Juntos](https://open.spotify.com/track/574OhLjdADffJIg7wZojF6) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Juntos](https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3) | 3:01 |
 | 81 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
 | 82 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 96 | [NIÑA](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [NIÑA](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 |
 | 97 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 |
 | 98 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
-| 99 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
-| 100 | [Cósmica](https://open.spotify.com/track/3MKzvyraWq24E1uiFyQo8T) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cósmica](https://open.spotify.com/album/41YRCMyuzGGavf2NqGpeVH) | 3:36 |
+| 99 | [Cósmica](https://open.spotify.com/track/3MKzvyraWq24E1uiFyQo8T) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cósmica](https://open.spotify.com/album/41YRCMyuzGGavf2NqGpeVH) | 3:36 |
+| 100 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
 
-Snapshot ID: `MCxkMGNiZTg1NzVkMjNiNGZmMzMyMjcxY2NlYjNiMDg0NWViYTUxZDUw`
+Snapshot ID: `MCxlMGZmY2JhZGRiMjJmNzUzODZlZmUwZjk2NDEzNjM5YjViOTUzNzNi`

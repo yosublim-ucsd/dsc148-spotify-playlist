@@ -2,7 +2,7 @@
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=aeYgxcXXRNCrxXOFBolzrQ">Pabi Cooper</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=teHgepjXQ\_CYE92vUPtxNg">Zee Nxumalo</a>
 
 1,202 songs - 5 day 4 hr 45 min
 

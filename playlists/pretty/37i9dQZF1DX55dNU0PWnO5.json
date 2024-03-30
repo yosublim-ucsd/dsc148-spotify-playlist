@@ -1,32 +1,36 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 567393,
+  "num_followers": 567430,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTdlNGNlYTQxODBjMDc1ZGRiNDU2YjJjM2RmOGY3ZmViZjA1YzZh",
+  "snapshot_id": "MCw5NjJkNzY3MTUzYjExMjNjZWNjMDMyY2FjZTc1MjU3NjQzZDUxNGIz",
   "tracks": [
     {
-      "added_at": "2024-03-22 04:01:00",
+      "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "First Lemonade",
-        "url": "https://open.spotify.com/album/54FufUN5eZagqdaM3Zc9xs"
+        "name": "Natural Resolve",
+        "url": "https://open.spotify.com/album/3Cx9pTCk3Mif9TGYCXM1k2"
       },
       "artists": [
         {
-          "name": "ddddeeeellllaaa",
-          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
         },
         {
-          "name": "Toti Cisneros",
-          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+          "name": "Bubby Lewis",
+          "url": "https://open.spotify.com/artist/2foDHsfpet3NNYdYhfK8Fc"
+        },
+        {
+          "name": "Ian Roller",
+          "url": "https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn"
         }
       ],
-      "duration_ms": 161860,
-      "name": "First Lemonade",
-      "url": "https://open.spotify.com/track/6qhHMnTIFQ5ZJbzXTP36tP"
+      "duration_ms": 136960,
+      "name": "Exoplanet",
+      "url": "https://open.spotify.com/track/6j1ChNSkJNqz8xgbXCS2xW"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -49,6 +53,46 @@
       "url": "https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ"
     },
     {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "First Lemonade",
+        "url": "https://open.spotify.com/album/54FufUN5eZagqdaM3Zc9xs"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "First Lemonade",
+      "url": "https://open.spotify.com/track/6qhHMnTIFQ5ZJbzXTP36tP"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Back to the Grind",
+        "url": "https://open.spotify.com/album/6MzTGkuB3gv3ZA9xFyq48y"
+      },
+      "artists": [
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Back to the Grind",
+      "url": "https://open.spotify.com/track/2eFudpKhUZAai09n869l2g"
+    },
+    {
       "added_at": "2024-02-16 05:01:00",
       "album": {
         "name": "Love for Sale (Ornithology Remix)",
@@ -67,6 +111,38 @@
       "duration_ms": 141500,
       "name": "Love for Sale - Ornithology Remix",
       "url": "https://open.spotify.com/track/0IwASeCcdCtSdbSOSnhW4B"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "I love Matheus Jardim",
+        "url": "https://open.spotify.com/album/3xr2w7aJ9SoIQZylGnqkS1"
+      },
+      "artists": [
+        {
+          "name": "Niklouds",
+          "url": "https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ"
+        },
+        {
+          "name": "Stephanie Weninger",
+          "url": "https://open.spotify.com/artist/0naw9jdvmNaBSWy0c7gZTl"
+        },
+        {
+          "name": "Lorenz Widauer",
+          "url": "https://open.spotify.com/artist/3GCogPAlzFjPkoi9lLC9jk"
+        },
+        {
+          "name": "Danylo Dmyterko",
+          "url": "https://open.spotify.com/artist/3asJmPYfPALxleeAVRUZ6L"
+        },
+        {
+          "name": "Matheus Jardim",
+          "url": "https://open.spotify.com/artist/5yc5ZDHC1HZna6AARIeoQD"
+        }
+      ],
+      "duration_ms": 122285,
+      "name": "I love Matheus Jardim",
+      "url": "https://open.spotify.com/track/4HThlhDETUfaEzSwbTlBTD"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1477,26 +1553,6 @@
       "url": "https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "The Pilot",
-        "url": "https://open.spotify.com/album/4WrzOyPrCEE9s9FVzWYhUL"
-      },
-      "artists": [
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        },
-        {
-          "name": "Bao",
-          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
-        }
-      ],
-      "duration_ms": 186414,
-      "name": "The Pilot",
-      "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"
-    },
-    {
       "added_at": "2023-03-27 13:01:27",
       "album": {
         "name": "Roadtrip",
@@ -2433,22 +2489,6 @@
       "url": "https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Stimuli",
-        "url": "https://open.spotify.com/album/37jmUBiVrLmdlaa9Gjn3lG"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 144469,
-      "name": "Chem Dawg",
-      "url": "https://open.spotify.com/track/4bAztSeJ6kxFt0R3Ej59J8"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Motherland Journey",
@@ -2683,30 +2723,6 @@
       "duration_ms": 249032,
       "name": "Crystal Clouds",
       "url": "https://open.spotify.com/track/32Iny8TkYR3Anz4jmc4qK8"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Virtual Essence",
-        "url": "https://open.spotify.com/album/2Wh3ZYNaenEKTEStcOIbYJ"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        },
-        {
-          "name": "Bubby Lewis",
-          "url": "https://open.spotify.com/artist/2foDHsfpet3NNYdYhfK8Fc"
-        },
-        {
-          "name": "Ian Roller",
-          "url": "https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn"
-        }
-      ],
-      "duration_ms": 130218,
-      "name": "Space Waves",
-      "url": "https://open.spotify.com/track/3SHF0PVsOLexwZZUnCSnFw"
     },
     {
       "added_at": "2021-12-07 16:34:30",

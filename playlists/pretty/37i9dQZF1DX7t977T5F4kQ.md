@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,400 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,416 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 66 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |
 | 67 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 |
 | 68 | [Limit](https://open.spotify.com/track/2IMHlTEhKOKDm33U6fD7yB) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Dove Nicol](https://open.spotify.com/artist/4EivwNwx6JdqaTRF9yT89Q) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:45 |
-| 69 | [Makoma](https://open.spotify.com/track/2rnggPpQaIIfH2jlAjluqn) | [Becca](https://open.spotify.com/artist/6vMTJy1XlG5FzAuuSLLTAX) | [Makoma](https://open.spotify.com/album/27Nr3Bf2wlj1pyPLNodfA5) | 3:40 |
+| 69 | [Makoma](https://open.spotify.com/track/2rnggPpQaIIfH2jlAjluqn) | [Becca](https://open.spotify.com/artist/6vMTJy1XlG5FzAuuSLLTAX) | [Makoma](https://open.spotify.com/album/27Nr3Bf2wlj1pyPLNodfA5) | 3:07 |
 | 70 | [On My Way](https://open.spotify.com/track/3oxqlnjK6GQ9zpVgck8HxA) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [On My Way](https://open.spotify.com/album/7M0TnoDk2uz0AtE5oXaA2Z) | 2:53 |
 | 71 | [Million Style](https://open.spotify.com/track/1aShenubI5JKdlv1S4Sm7s) | [KillBeatz](https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Killa Riddim](https://open.spotify.com/album/5POFszPRMh67b1cImkzLnA) | 3:28 |
 | 72 | [Friends](https://open.spotify.com/track/0n01Jo84IjPVepCtZ6ZFnr) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Friends](https://open.spotify.com/album/6sgJbJLPVdIEMOw1xVivHN) | 2:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [Dede](https://open.spotify.com/track/6DhvDRUZK6vvMShO2flK1I) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4) | [Dede](https://open.spotify.com/album/0N7O3CtbK6wcZwVzDkqK5A) | 2:53 |
 | 85 | [Not Good Alone](https://open.spotify.com/track/5AuTu4aIJDB1pBEvEMN9Es) | [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [JC Machin](https://open.spotify.com/artist/2FEnjKB2FwfbtfpCkUlEvi) | [Not Good Alone](https://open.spotify.com/album/7pjqxEIqprQ26c3bqGOrKL) | 3:04 |
 
-Snapshot ID: `MCwzMjk5Y2I4ZTRlMGU5NDkwMjQ4NzliNGE2NzJiNWEwOWYxMzhmMGMy`
+Snapshot ID: `MCw4M2VjNzg1MWJjODAzYjFhMTU5OTNlZjk4YmQ0YjczMjJjYjE3OTlm`

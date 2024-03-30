@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早く。 cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,028 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,094 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 79 | [Loud Land](https://open.spotify.com/track/5V6v1a5W9AMUouu0UwHSf7) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Loud Land](https://open.spotify.com/album/5NoTZDS0Z0bVsaQ6uGtmjz) | 3:02 |
 | 80 | [kimnosoba](https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r) | [tokyo\-kimigainaimati](https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM) | [23\-Spring](https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl) | 2:50 |
 
-Snapshot ID: `MCxiYzdmNjBkNWZjMDg4YzU3YzI5OWVlYTI2MjU4MDIyNTQ5YjYxY2U1`
+Snapshot ID: `MCw4OGYwN2EzOTZlMDM2YzA2ZTIwYWQwYjQ1NzFmZDg0ZTYzNzkxYTdm`

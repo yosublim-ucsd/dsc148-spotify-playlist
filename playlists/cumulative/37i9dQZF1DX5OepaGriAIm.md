@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-197 songs - 14 hr 15 min
+198 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Forbidden Fruit](https://open.spotify.com/track/6Ip3L1WWFnlGUp55H4A0G0) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/4jrfba3omPZcFt9YXiaqt4) | 3:16 | 2021-12-02 | 2022-07-29 |
 | [Forever Mine](https://open.spotify.com/track/5dS4r8s7z5r1LpivqrCP0U) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 3:19 | 2021-12-02 |  |
 | [Give Me The Simple Life](https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 2:20 | 2021-12-02 |  |
-| [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 | 2024-02-02 |  |
+| [Hands Off](https://open.spotify.com/track/0g1JDkIaDX3xGAEdZ63XTe) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stealing Moments](https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt) | 4:23 | 2024-03-20 |  |
+| [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 | 2024-02-02 | 2024-03-30 |
 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 | 2021-12-02 |  |
 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 | 2021-12-02 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/4LIw2QRvZWvtV48O92yfKu) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:37 | 2021-12-02 |  |

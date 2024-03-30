@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 87264,
+  "num_followers": 87310,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2ZmMDU5YjljOGNmYzc5YmI0YzgxM2VhNDljNWJiMTM5YzU2NWFh",
+  "snapshot_id": "MCxlMzc0MTI2NTJhMDYyMjVmNzA5ZDVjNjhkM2IxYWZmM2RjY2M1MDZm",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Phaedra (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 477322,
+      "name": "Movements Of A Visionary - Remastered 2018",
+      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 171106,
       "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Phaedra (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 477322,
-      "name": "Movements Of A Visionary - Remastered 2018",
-      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rubycon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 1037451,
-      "name": "Rubycon - Pt. 1 / Remastered 2018",
-      "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Pinnacles",
         "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
       },
@@ -747,6 +731,54 @@
       "duration_ms": 264893,
       "name": "The Light Cone",
       "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Gymnosphere: Song of the Rose",
+        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
+      },
+      "artists": [
+        {
+          "name": "Jordan De La Sierra",
+          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
+        }
+      ],
+      "duration_ms": 1457253,
+      "name": "Music for Gymnastics",
+      "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Rubycon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 1037451,
+      "name": "Rubycon - Pt. 1 / Remastered 2018",
+      "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -779,38 +811,6 @@
       "duration_ms": 206146,
       "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Gymnosphere: Song of the Rose",
-        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
-      },
-      "artists": [
-        {
-          "name": "Jordan De La Sierra",
-          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
-        }
-      ],
-      "duration_ms": 1457253,
-      "name": "Music for Gymnastics",
-      "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
-      },
-      "artists": [
-        {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
-        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
-      },
-      "artists": [
-        {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
-        }
-      ],
-      "duration_ms": 481320,
-      "name": "In the Beginning",
-      "url": "https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Hear and Be Yonder",
         "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 465986,
       "name": "Carmel Valley Sunset",
       "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
+        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 481320,
+      "name": "In the Beginning",
+      "url": "https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Schoener, Eberhard: Meditation",
-        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
       },
       "artists": [
         {
-          "name": "Eberhard Schoener",
-          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 1049000,
-      "name": "Meditation: I. Part I",
-      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
+      "duration_ms": 116440,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1691,34 +1691,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Aum",
-        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+        "name": "Schoener, Eberhard: Meditation",
+        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
       },
       "artists": [
         {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+          "name": "Eberhard Schoener",
+          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
         }
       ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
-      },
-      "artists": [
-        {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
-        }
-      ],
-      "duration_ms": 936000,
-      "name": "Mirador",
-      "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
+      "duration_ms": 1049000,
+      "name": "Meditation: I. Part I",
+      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1735,6 +1719,22 @@
       "duration_ms": 249960,
       "name": "Lifeforce Celebration",
       "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/4ACAUURTiEs4lsnHL3em0x"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 553800,
+      "name": "Elysian E",
+      "url": "https://open.spotify.com/track/0ZO2xe48ituknhCWgzftnY"
     }
   ],
   "unique_name": "Early New Age",

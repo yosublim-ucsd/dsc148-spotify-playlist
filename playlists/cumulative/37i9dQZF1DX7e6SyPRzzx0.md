@@ -2,9 +2,9 @@
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> Cover: Yeat
+> The home of rage rap\. Cover: Homixide Gang
 
-78 songs - 3 hr 14 min
+79 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,11 +26,12 @@
 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1zsPL3JaH13XCndHrglC0B) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 1:36 | 2024-03-15 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-12-01 | 2024-03-15 |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-12-01 |  |
-| [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-03-15 |  |
+| [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-03-15 | 2024-03-30 |
 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2023-12-01 | 2024-03-16 |
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-03-15 |  |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2024-03-15 |  |
 | [Hell Yeah](https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 2:48 | 2023-12-01 |  |
+| [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 |  |
 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 | 2023-12-01 |  |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-12-01 | 2024-03-16 |
 | [i suppose'](https://open.spotify.com/track/3gcWCQg7hbMzBj1NzYsHhE) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [searching for klarity](https://open.spotify.com/album/220lwYHC2mt97anoKSMFj2) | 3:18 | 2023-12-01 |  |
@@ -52,7 +53,7 @@
 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 | 2023-12-01 |  |
 | [Money Addicts](https://open.spotify.com/track/0R5awPL6A2oHJuFI0C0dTr) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Money Addicts](https://open.spotify.com/album/6tAtP9Y2Xj6ImN0THsKIDh) | 1:37 | 2023-12-01 |  |
 | [Monëy so big](https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:40 | 2023-12-01 | 2024-03-16 |
-| [noir](https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs) | 1:37 | 2024-03-15 |  |
+| [noir](https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs) | 1:37 | 2024-03-15 | 2024-03-30 |
 | [noir](https://open.spotify.com/track/5FgmgpMES8hknCpvbHXc3Y) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/1gL2p8oM0ObpobShkMCSlC) | 1:37 | 2024-03-15 | 2024-03-26 |
 | [noir](https://open.spotify.com/track/72vUc6aIviryxvvs4gV5ag) | [venii](https://open.spotify.com/artist/5V7KZhm5gwGljtq4BTgyOC) | [noir](https://open.spotify.com/album/2O94J43yUri3UqlH0QnYBP) | 1:49 | 2024-03-15 | 2024-03-27 |
 | [NOSTYLIST](https://open.spotify.com/track/0MXemkrh7WpAfiafcGQwZO) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 3:00 | 2023-12-01 |  |

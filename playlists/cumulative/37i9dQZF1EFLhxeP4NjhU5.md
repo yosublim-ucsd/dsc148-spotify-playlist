@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-214 songs - 12 hr 15 min
+215 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Pasado y Presente](https://open.spotify.com/track/6NPjHwhEG7eQUQBoPFBrnz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:41 | 2022-06-04 |  |
 | [Peligrosa](https://open.spotify.com/track/3Nkqp3NSGWMXVVO08zGpN7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:22 | 2022-06-04 |  |
 | [Pensando en Ti](https://open.spotify.com/track/33Xd0gRmLMzStrrWccKwuH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 2:59 | 2022-06-04 |  |
+| [PERREO LENTO](https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 2:36 | 2024-03-29 |  |
 | [Pide Lo Que Tú Quieras](https://open.spotify.com/track/7IteHlPcwD5mzvkXZmimLI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 | 2022-06-04 | 2023-06-23 |
 | [Pin](https://open.spotify.com/track/5L1GX9GFIHYm1AMAlNgoHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:41 | 2023-12-13 |  |
 | [Por Ley](https://open.spotify.com/track/3GCLIIJdXvcKfmJlICkTVL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Por Ley](https://open.spotify.com/album/1mp0CiX238K8ikVe38GLa1) | 3:18 | 2022-06-04 |  |

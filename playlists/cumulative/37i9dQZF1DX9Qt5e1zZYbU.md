@@ -4,7 +4,7 @@
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-36 songs - 2 hr 18 min
+37 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Wanderlust](https://open.spotify.com/track/0iLhRFbr7cZ0DrQl8FS3kb) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Polyphony](https://open.spotify.com/album/6GYbCW7FovstU2Ab3ZoSgE) | 5:22 | 2023-08-04 |  |
 | [Wanderlust](https://open.spotify.com/track/4zBdObrAnn5OVWC9F02wA3) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Polyphony](https://open.spotify.com/album/3OOAuloYkiA6GynyUFTuSp) | 5:22 | 2023-08-04 | 2023-09-08 |
 | [Where Do I Begin](https://open.spotify.com/track/3oSEK4SrwRNkdkAXigagSb) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Dig Your Own Hole](https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK) | 6:56 | 2023-08-04 |  |
-| [Young Tender Hearts Beat Fast](https://open.spotify.com/track/6vmVm1kWWgiGZgiLP97hGv) | [YOU LOVE HER](https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c) | [Young Tender Hearts Beat Fast](https://open.spotify.com/album/1mhBsfmGFLcF7GfZc0OcwI) | 4:06 | 2023-08-04 |  |
+| [Young Tender Hearts Beat Fast](https://open.spotify.com/track/3BeXtu9bc0qoMfUm7OWO2O) | [YOU LOVE HER](https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c) | [Young Tender Hearts Beat Fast](https://open.spotify.com/album/4mSQXH073yIaEbB3xpjGwy) | 4:06 | 2023-08-04 |  |
+| [Young Tender Hearts Beat Fast](https://open.spotify.com/track/6vmVm1kWWgiGZgiLP97hGv) | [YOU LOVE HER](https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c) | [Young Tender Hearts Beat Fast](https://open.spotify.com/album/1mhBsfmGFLcF7GfZc0OcwI) | 4:06 | 2023-08-04 | 2024-03-30 |
 | [グッドバイ \-album version\-](https://open.spotify.com/track/30oddeV4b75MDQ6JvkAXCW) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk) | 7:05 | 2023-08-04 |  |
 
 \*This playlist was first scraped on 2023-08-06. Prior content cannot be recovered.

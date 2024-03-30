@@ -1,12 +1,12 @@
 {
   "description": "Sch\u00f6ne Ostern mit Osterhase, Ostereiern und der ganzen Familie.",
-  "num_followers": 37176,
+  "num_followers": 37747,
   "original_name": "Familienzeit: Ostern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDIyYWQzM2QzZGFkZDdlM2ZiNmMwZWVhY2MwOGYyOThkZDQ1NzIx",
+  "snapshot_id": "MCwzNjA5YTRmNmRkYTUxMzhkYTZmMGVlNWRlNmU2NDUwYjcxNGM0NDUw",
   "tracks": [
     {
       "added_at": "2024-03-27 10:25:27",
@@ -151,42 +151,6 @@
     {
       "added_at": "2024-03-27 10:25:27",
       "album": {
-        "name": "Boom Schakkalakka",
-        "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        },
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Boom Schakkalakka",
-      "url": "https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv"
-    },
-    {
-      "added_at": "2024-03-27 10:25:27",
-      "album": {
-        "name": "H\u00e4schenparty",
-        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
-      },
-      "artists": [
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "H\u00e4schenparty",
-      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
-    },
-    {
-      "added_at": "2024-03-27 10:25:27",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -207,6 +171,42 @@
       "duration_ms": 117213,
       "name": "Ich lieb den Fr\u00fchling",
       "url": "https://open.spotify.com/track/3UvFfxNQFGEa1jIOVWuyrf"
+    },
+    {
+      "added_at": "2024-03-27 10:25:27",
+      "album": {
+        "name": "H\u00e4schenparty",
+        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
+      },
+      "artists": [
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "H\u00e4schenparty",
+      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
+    },
+    {
+      "added_at": "2024-03-27 10:25:27",
+      "album": {
+        "name": "Boom Schakkalakka",
+        "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        },
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Boom Schakkalakka",
+      "url": "https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv"
     },
     {
       "added_at": "2024-03-27 10:25:27",
@@ -319,26 +319,18 @@
     {
       "added_at": "2024-03-27 10:25:27",
       "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
+        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
       },
       "artists": [
         {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
         }
       ],
-      "duration_ms": 56745,
-      "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
-      "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
+      "duration_ms": 166816,
+      "name": "Das kleine Kaninchen",
+      "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
     },
     {
       "added_at": "2024-03-27 10:25:27",
@@ -359,18 +351,26 @@
     {
       "added_at": "2024-03-27 10:25:27",
       "album": {
-        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
-        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
       "artists": [
         {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 166816,
-      "name": "Das kleine Kaninchen",
-      "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
+      "duration_ms": 56745,
+      "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
+      "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
     },
     {
       "added_at": "2024-03-27 10:25:27",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-03-27 10:25:27",
       "album": {
-        "name": "Das Album - Rock'n'Rarrr Music",
-        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
-      },
-      "artists": [
-        {
-          "name": "Heavysaurus",
-          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Kaugummi ist mega!",
-      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
-    },
-    {
-      "added_at": "2024-03-27 10:25:27",
-      "album": {
         "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
         "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 143732,
       "name": "Yammi Yammi",
       "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
+    },
+    {
+      "added_at": "2024-03-27 10:25:27",
+      "album": {
+        "name": "Das Album - Rock'n'Rarrr Music",
+        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
+      },
+      "artists": [
+        {
+          "name": "Heavysaurus",
+          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Kaugummi ist mega!",
+      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
     },
     {
       "added_at": "2024-03-27 10:25:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-27 10:25:27",
       "album": {
-        "name": "Karel",
-        "url": "https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR"
-      },
-      "artists": [
-        {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Die Biene maja",
-      "url": "https://open.spotify.com/track/37Ya452sNHfucQVaKPM522"
-    },
-    {
-      "added_at": "2024-03-27 10:25:27",
-      "album": {
         "name": "Unter meinem Bett 7",
         "url": "https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 220173,
       "name": "Drachenwind",
       "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
+    },
+    {
+      "added_at": "2024-03-27 10:25:27",
+      "album": {
+        "name": "Karel",
+        "url": "https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR"
+      },
+      "artists": [
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Die Biene maja",
+      "url": "https://open.spotify.com/track/37Ya452sNHfucQVaKPM522"
     }
   ],
   "unique_name": "Familienzeit: Ostern",

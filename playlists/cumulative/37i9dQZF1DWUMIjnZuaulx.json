@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:3WVgChZY3rEyeHd3aljzNl\">John P. Kee</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:2b9paaAwb2Xd3iR1LSnCDN\">Brent Jones</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 236785,
       "name": "1000 Names",
       "url": "https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 242355,
       "name": "Able - Radio Edit",
       "url": "https://open.spotify.com/track/4o9QSSqtyH0Ju9NjBp7wjQ"
@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "Blessings (feat. LaChardon)",
+        "url": "https://open.spotify.com/album/6NZglXroU9OBl3FOfwhpFY"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Lachardon",
+          "url": "https://open.spotify.com/artist/6JZ6GqbPUkm98Lv03AUyB1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298111,
+      "name": "Blessings (feat. LaChardon)",
+      "url": "https://open.spotify.com/track/7kRMIXjb9xamKj2P8aCrBs"
+    },
+    {
+      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
       },
@@ -1258,6 +1280,24 @@
       "duration_ms": 245931,
       "name": "Close",
       "url": "https://open.spotify.com/track/4lejmaZsFZclqMCB5ZK62o"
+    },
+    {
+      "album": {
+        "name": "Old Time Church (Live)",
+        "url": "https://open.spotify.com/album/6WObUnPoh7i3n7laGo4Riv"
+      },
+      "artists": [
+        {
+          "name": "Mr. Sipp",
+          "url": "https://open.spotify.com/artist/1duNfccIPXlVz522cvFKNi"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178135,
+      "name": "Come By Here - Live",
+      "url": "https://open.spotify.com/track/6mZ1PxohgwgQcHxrGM2q28"
     },
     {
       "album": {
@@ -1920,7 +1960,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 315776,
       "name": "Forever It Is Done",
       "url": "https://open.spotify.com/track/3TyRJ4x7El0PujsfO5yzHg"
@@ -2332,7 +2372,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 257638,
       "name": "God's Got It",
       "url": "https://open.spotify.com/track/5OgyjLSKMWjXCDEPpDbL5E"
@@ -2988,7 +3028,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 257486,
       "name": "He's Never Failed Me Yet",
       "url": "https://open.spotify.com/track/7znHKuvo7xhsYad2fyUnzp"
@@ -3554,6 +3594,32 @@
       "duration_ms": 216213,
       "name": "I Can't Stop Praising",
       "url": "https://open.spotify.com/track/14JXhGPj4HFkppOCH4Q9HR"
+    },
+    {
+      "album": {
+        "name": "I Found Him",
+        "url": "https://open.spotify.com/album/3EaJ7qf8knwFh3GshGvM25"
+      },
+      "artists": [
+        {
+          "name": "Me\u2019Kayla",
+          "url": "https://open.spotify.com/artist/3AKhqrs0V0iRNBOjPKhi5z"
+        },
+        {
+          "name": "churchppl",
+          "url": "https://open.spotify.com/artist/4vOnttEcKNxaPzOhvyrYQF"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155443,
+      "name": "I Found Him",
+      "url": "https://open.spotify.com/track/3kovU0yBPUYSMorsfvwd4f"
     },
     {
       "album": {
@@ -4233,6 +4299,28 @@
     },
     {
       "album": {
+        "name": "In Your Presence (Live)",
+        "url": "https://open.spotify.com/album/4IJAAEU9MByKHGpvWlD2jV"
+      },
+      "artists": [
+        {
+          "name": "Tarell Martin & C2 Mass Choir",
+          "url": "https://open.spotify.com/artist/4ClOZx4Yum88lyeyd5rxGa"
+        },
+        {
+          "name": "Olivia J Whittington",
+          "url": "https://open.spotify.com/artist/3VG5BqeEIbYmoP9e9xpcr0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261398,
+      "name": "In Your Presence - Live",
+      "url": "https://open.spotify.com/track/6XohWzLVkB9sfcVAz4DMB4"
+    },
+    {
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -4500,7 +4588,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 174551,
       "name": "Jesus Showed His Mercy",
       "url": "https://open.spotify.com/track/1JnA3uRpGMo7NdCL0wKnmc"
@@ -5181,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/3nU609EFqE2v7BvWMW3NOk"
+      },
+      "artists": [
+        {
+          "name": "Brent Jones",
+          "url": "https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/5FtW9IlslazN8yBYT3WtvU"
+    },
+    {
+      "album": {
         "name": "Make It",
         "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
       },
@@ -5408,7 +5514,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 288036,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/5BHBL9Ax9kWC5r4dGJ8BpG"
@@ -6356,6 +6462,24 @@
       "duration_ms": 625443,
       "name": "Only One Night Tho - Live",
       "url": "https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG"
+    },
+    {
+      "album": {
+        "name": "Only One Way Home (Radio Edit)",
+        "url": "https://open.spotify.com/album/1nmmNRAL0ioPvazeyl4I51"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234389,
+      "name": "Only One Way Home - Radio Edit",
+      "url": "https://open.spotify.com/track/3ICem2CLceuIgRo7Q8H4Lx"
     },
     {
       "album": {
@@ -9182,6 +9306,24 @@
       "duration_ms": 350000,
       "name": "With My Hands",
       "url": "https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/24swUtg9LcJGpuLAadmedS"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2qOzpErfsV8kpp72Dc2uim"
     },
     {
       "album": {

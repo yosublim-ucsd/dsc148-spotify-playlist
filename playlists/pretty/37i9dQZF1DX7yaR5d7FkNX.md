@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 ### [Brillas](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
 
-> ✨❤️🌹
+> ✨❤️🌹Para Rocanlovers
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,723 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,763 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
-| 2 | [Era Primavera](https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Era Primavera](https://open.spotify.com/album/6neGV0F44OSV979QtmColK) | 4:11 |
-| 3 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
-| 4 | [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 |
+| 1 | [Tiempo al Tiempo](https://open.spotify.com/track/3ktdoW2ABePbS3PQ4drxaD) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Tiempo al Tiempo](https://open.spotify.com/album/6aPh6HYOL8rpNQol6FETo9) | 4:47 |
+| 2 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
+| 3 | [Volver A Ser](https://open.spotify.com/track/2TxFDH4yoIdUNg3DHAB3BF) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Jay de la Cueva](https://open.spotify.com/album/5dfTVYkcLYbCCHvU0qC88j) | 2:58 |
+| 4 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
 | 5 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 |
-| 6 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 |
-| 7 | [Perdóname](https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Perdóname](https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF) | 3:36 |
-| 8 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 |
+| 6 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 |
+| 7 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 |
+| 8 | [Perdóname](https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Perdóname](https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF) | 3:36 |
 | 9 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 10 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 11 | [Desde Que](https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:38 |
@@ -108,6 +108,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 98 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 |
 | 99 | [Pasajeros](https://open.spotify.com/track/2JQPO4vEJXmwi0eCAc89J0) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Pasajeros](https://open.spotify.com/album/2qNTQM3J2eoEfZlFMyb6WY) | 3:05 |
 | 100 | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/track/7jNBgXRCQ8HWnSIX19vho7) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Yonatan Mazor](https://open.spotify.com/artist/3vIIkATsfM6dzKmHgv7qlZ) | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/album/68mnlQeSr1hXXOPZxYaRJa) | 3:17 |
-| 101 | [Los Seres Queridos](https://open.spotify.com/track/6yrqeQ1YDhzhuJFOd1uphJ) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Los Seres Queridos](https://open.spotify.com/album/0sWMpkiKdKyCnl01yxWfh0) | 3:59 |
 
-Snapshot ID: `MCw5Mzk4YzczOGFmNWE1M2I2NTc2YWM1YzY5NDYyNzc5MmQwMDJhNTc1`
+Snapshot ID: `MCw4Y2Y4ZjgyNmY3N2YzNzM5MTFjNWZjZGRhODViODEzZDEyNzdmZjA3`

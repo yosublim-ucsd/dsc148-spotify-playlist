@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,498 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,721 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 24 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 |
 | 25 | [Hurt Feelings](https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:05 |
 | 26 | [Thoughts from a Balcony](https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 3:05 |
-| 27 | [Objects in the Mirror](https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS) | 4:19 |
+| 27 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
 | 28 | [Hand Me Downs](https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 4:58 |
-| 29 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
+| 29 | [Objects in the Mirror](https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS) | 4:19 |
 | 30 | [ROS](https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 5:43 |
 | 31 | [Rain \(feat\. Vince Staples\)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:33 |
 | 32 | [Ayye](https://open.spotify.com/track/78844Rxxkl8STQUVbp4vXi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 2:45 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 42 | [Best Day Ever](https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:39 |
 | 43 | [We \(feat\. CeeLo Green\)](https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:19 |
 | 44 | [The Mourning After](https://open.spotify.com/track/0xppJmfnjIQnMbMOez9bwT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 3:08 |
-| 45 | [100 Grandkids](https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:38 |
-| 46 | [Senior Skip Day](https://open.spotify.com/track/3BbS4oLUDNOLctshheQucc) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:55 |
-| 47 | [People Under The Stairs](https://open.spotify.com/track/4eVXCp16ydaQq9yugTAykp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 1:36 |
-| 48 | [Hole In My Pocket](https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 0:35 |
-| 49 | [Ascension](https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:52 |
-| 50 | [The Quest](https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Quest](https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW) | 3:53 |
+| 45 | [Ascension](https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:52 |
+| 46 | [The Quest](https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Quest](https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW) | 3:53 |
+| 47 | [Senior Skip Day](https://open.spotify.com/track/3BbS4oLUDNOLctshheQucc) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:55 |
+| 48 | [People Under The Stairs](https://open.spotify.com/track/4eVXCp16ydaQq9yugTAykp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 1:36 |
+| 49 | [100 Grandkids](https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:38 |
+| 50 | [Hole In My Pocket](https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 0:35 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA0MzQ3MWU1MWY5NzJiMDE1NjMxMDM2YzQyOWQxMjk2Ng==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDA2ODc0MmY1MjIyY2YzZGEyNjU5YjJhYTNkYmU4YzQyYQ==`

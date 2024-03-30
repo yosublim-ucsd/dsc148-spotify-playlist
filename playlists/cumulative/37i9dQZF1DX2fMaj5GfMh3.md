@@ -4,7 +4,7 @@
 
 > Dasha o op de cover van Fresh Pop!
 
-526 songs - 1 day 2 hr 35 min
+527 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [F64](https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [F64](https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE) | 3:24 | 2023-02-24 | 2023-04-14 |
 | [Falls and Doubts](https://open.spotify.com/track/41H03mM8yfOf7qh6qg2Vsb) | [Vlera](https://open.spotify.com/artist/23Zgo7EeFTaJ5XNtdpswvJ) | [Falls and Doubts](https://open.spotify.com/album/11hSd0aFwF59g2M2yyF9Fo) | 2:45 | 2023-02-24 | 2023-04-14 |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-13 | 2023-08-11 |
-| [favorite \- english](https://open.spotify.com/track/10PsEwmFKLK31Nqc1utxIK) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-03-28 |  |
+| [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-03-29 |  |
+| [favorite \- english](https://open.spotify.com/track/10PsEwmFKLK31Nqc1utxIK) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-03-28 | 2024-03-30 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-16 |  |
 | [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 | 2023-02-24 | 2023-04-15 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-10-04 | 2024-01-05 |

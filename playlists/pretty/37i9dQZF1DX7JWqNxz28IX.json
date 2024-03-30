@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 45012,
+  "num_followers": 45032,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM4ZmQ4OTZjYmFkMjBlYWJjNjM5Mjc2ZWQ2Zjg0ODVmZjEwZjYy",
+  "snapshot_id": "MCw0ODVjMDhmMWFhZmM5Y2ZiMmYyODYzNWNiMDhmZWJjNWRmMWRjODQ5",
   "tracks": [
     {
       "added_at": "2024-03-20 10:29:29",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
+        "name": "PROLOGO",
+        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "duration_ms": 193067,
+      "name": "solo polvere.",
+      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
         "name": "bambino perfetto",
         "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 140160,
       "name": "bambino perfetto",
       "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
-        "name": "PROLOGO",
-        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
-      },
-      "artists": [
-        {
-          "name": "Holden",
-          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
-        }
-      ],
-      "duration_ms": 193067,
-      "name": "solo polvere.",
-      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "ONIRO",
-        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
+        "name": "NON SO CHI SIAMO",
+        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
       },
       "artists": [
         {
-          "name": "Faster",
-          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
         },
         {
-          "name": "JXN",
-          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
+          "name": "Pi Greco",
+          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
         }
       ],
-      "duration_ms": 174720,
-      "name": "DOVE SEI",
-      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+      "duration_ms": 171700,
+      "name": "NON SO CHI SIAMO",
+      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
+        "name": "ONIRO",
+        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
+      },
+      "artists": [
+        {
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
+        },
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "DOVE SEI",
+      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
         "name": "Sedato e Deluso",
         "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 202744,
       "name": "Sedato e Deluso",
       "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
-        "name": "NON SO CHI SIAMO",
-        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Pi Greco",
-          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "NON SO CHI SIAMO",
-      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Shama \u00e8 buono",
-        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Shama \u00e8 buono",
-      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Ceramica",
         "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 193000,
       "name": "Ceramica",
       "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "Shama \u00e8 buono",
+        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Shama \u00e8 buono",
+      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
-      },
-      "artists": [
-        {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
-        }
-      ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Dimmi se sbaglio",
         "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
       },
@@ -1595,6 +1579,38 @@
       "duration_ms": 135374,
       "name": "Dimmi se sbaglio",
       "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
+      },
+      "artists": [
+        {
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+        }
+      ],
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         }
       ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1647,22 +1663,6 @@
       "duration_ms": 174250,
       "name": "L'effetto che mi fai",
       "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
         "name": "Attacco di Panico",
         "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
       },
@@ -1731,26 +1747,6 @@
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
-        "name": "ME & YOU",
-        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Friman",
-          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
-        }
-      ],
-      "duration_ms": 137008,
-      "name": "ME & YOU",
-      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
     }
   ],
   "unique_name": "ragazzo triste",

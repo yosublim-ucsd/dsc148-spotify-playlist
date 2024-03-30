@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7793,
+  "num_followers": 7791,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjA4MWQ4ZjE5MjNiNTM0ODg5NTI5M2IwZDY0ZDkwMGU4NTVjZjY0",
+  "snapshot_id": "MCw4NDhjMTNjYzE0YTQzYmU1NjdkMjVkNTdiMzI5YTk1NTExZDI2MTg2",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -967,6 +967,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "30 Patriotic American Songs for Armed Forces Day",
+        "url": "https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu"
+      },
+      "artists": [
+        {
+          "name": "The Muscrat Ramblers",
+          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "The Band Played On",
+      "url": "https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Jam Session in Connecticut, Vol. 1",
         "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 316186,
       "name": "Oh Dem Golden Slippers",
       "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "30 Patriotic American Songs for Armed Forces Day",
-        "url": "https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu"
-      },
-      "artists": [
-        {
-          "name": "The Muscrat Ramblers",
-          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "The Band Played On",
-      "url": "https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8"
     }
   ],
   "unique_name": "Hot-Jazz Classics",

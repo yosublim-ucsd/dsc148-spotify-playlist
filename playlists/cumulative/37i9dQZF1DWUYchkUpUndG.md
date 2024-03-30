@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h?si=bQVOO23uRpSjmhTSUg1Svg>TESTIMONY JAGA</a>
 
-2,308 songs - 7 day 0 hr 47 min
+2,311 songs - 7 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1665,6 +1665,7 @@
 | [Praises](https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Praises](https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0) | 4:04 | 2023-09-22 | 2023-10-06 |
 | [Praising Jesus](https://open.spotify.com/track/29cn55k3uwNpslNcXQGdUV) | [Arnold de Wet](https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn) | [Praising Jesus](https://open.spotify.com/album/0XswV8OshXtMKaEcpuhAIf) | 3:34 | 2023-07-14 | 2023-07-28 |
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2023-06-09 | 2023-06-30 |
+| [PRAY](https://open.spotify.com/track/5pc8wQDet4T0SNMlcgUzxg) | [Khedomania](https://open.spotify.com/artist/5EaVdilf24ddfIFDbzYtI3), [Onyeka](https://open.spotify.com/artist/0iChxk1tEkRoN2OE66deLS) | [PRAY](https://open.spotify.com/album/2RjmKnSB431IrId04GoVQP) | 2:50 | 2024-03-29 |  |
 | [PRAY \(Freestyle\)](https://open.spotify.com/track/2Fa6Z136MVJMr1NoiVyxrp) | [Kevin Beats](https://open.spotify.com/artist/1xNTcmdxZlrVvWbLgn745m), [Alex](https://open.spotify.com/artist/1Fo1twB30H1yCemQhWMNXP), [Kyei Money](https://open.spotify.com/artist/1SCKEU1cmQHVc2jBWIv0Er), [Carlos](https://open.spotify.com/artist/0Y4FSQlgAtyH2NcJurdON9) | [PRAY \(Freestyle\)](https://open.spotify.com/album/29C1uZGruet423TqGZbqF7) | 3:04 | 2024-03-01 | 2024-03-08 |
 | [Pray Am](https://open.spotify.com/track/2OelMCpFbtpHxlZqCJqF8K) | [Skie Music](https://open.spotify.com/artist/5P4rch630qIMkSGKTlpZlO), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Pray Am](https://open.spotify.com/album/3Zr5KAW8IiH4QNtfEaxbKp) | 2:48 | 2023-10-13 | 2023-10-27 |
 | [PRAYER](https://open.spotify.com/track/0SNmSyz2pS4VIJRrT2EgFP) | [Adéola](https://open.spotify.com/artist/6YaFYOb2ivxeDb0THJCQNb), [zazri'el](https://open.spotify.com/artist/2rCgMeXIz7aX5OX6YoMICQ) | [PRAYER](https://open.spotify.com/album/27RaY07nPLlGAF3CtQJfBE) | 4:07 | 2024-01-19 | 2024-02-02 |
@@ -2140,6 +2141,7 @@
 | [Welcome](https://open.spotify.com/track/3K0uesc1sNqv80p6MPc9YY) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Dreamhowz Music](https://open.spotify.com/artist/5JRAAuNkBUZ9uHNC65veJU) | [Welcome](https://open.spotify.com/album/7uJ4djtI8PJ63qjAPNNFIJ) | 1:42 | 2024-01-05 | 2024-01-19 |
 | [Welcome Home \(Live at Zeal '23\)](https://open.spotify.com/track/6FJ3ozMiC3zDNIiYquOsdC) | [Shofarband](https://open.spotify.com/artist/5SQke12fP5vvpAv4krgAwJ), [Jason K George](https://open.spotify.com/artist/56l9hY7czZkWEI2bIRXRdQ) | [Welcome Home \(Live at Zeal '23\)](https://open.spotify.com/album/3Y1H3Pqi4jxsqjQPutMetR) | 5:06 | 2023-08-18 | 2023-09-01 |
 | [Welcome To A New Year](https://open.spotify.com/track/7jdybQL2UbfQqdmF2AMtvg) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Welcome To A New Year](https://open.spotify.com/album/0uJodzTbppsVIIWCC9tId5) | 2:00 | 2023-12-29 | 2024-01-12 |
+| [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 |  |
 | [WEMA WAKO](https://open.spotify.com/track/648vpdeDpI81eTAv50PtAi) | [Legends rw](https://open.spotify.com/artist/1vR8ffAiKwbxbowV9pfeII), [Swahili gospel](https://open.spotify.com/artist/0ciopEXIFeOEEzCOYeoMmI) | [WEMA WAKO](https://open.spotify.com/album/0H22tTMy3MiJ8IUfH3BJpD) | 8:56 | 2023-12-29 | 2024-01-12 |
 | [Weminana](https://open.spotify.com/track/3Z6ou6Y57SY3jKtez2A9wP) | [Cleo Arie](https://open.spotify.com/artist/3kPnhC2DzfytfKwustsyqK) | [Weminana](https://open.spotify.com/album/7fXCGlRwI9fzWtmwjQRSwD) | 3:19 | 2024-01-19 | 2024-02-02 |
 | [Wena ofanele ukubongwa](https://open.spotify.com/track/3BTiEaMYsB4NnLr71IcQnd) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Wena ofanele ukubongwa](https://open.spotify.com/album/0btzjvsDbFNoqZbmWtmYeK) | 5:30 | 2023-12-08 | 2023-12-22 |
@@ -2211,6 +2213,7 @@
 | [Yahweh](https://open.spotify.com/track/1D4U817HkokacEnMFRgj2R) | [Ailly Omojehova](https://open.spotify.com/artist/0EyjoqvAbdV5zlD9UEdMll) | [Yahweh](https://open.spotify.com/album/29EBbFu4GvFrVPTgXsaXLv) | 5:18 | 2023-11-17 | 2023-12-01 |
 | [Yahweh](https://open.spotify.com/track/1s6XDuSbzlHBUReBPmV4tL) | [Bethelben](https://open.spotify.com/artist/2sA8agURLpE40zKKXizMkh) | [Yahweh](https://open.spotify.com/album/6OM7xj95iRmX27tEdanzo6) | 4:33 | 2023-10-13 | 2023-10-27 |
 | [YAHWEH](https://open.spotify.com/track/3OjgArMcY0WelbpEoB3LE7) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [YAHWEH](https://open.spotify.com/album/2agqsmnehnfjOTrUQYiYDx) | 4:05 | 2023-06-30 | 2023-07-14 |
+| [Yahweh](https://open.spotify.com/track/5Ezcdhji4rjUH0cwZ7nhLn) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Yahweh](https://open.spotify.com/album/5Kpis9YkqGJ7b2ZSuoNvZD) | 5:28 | 2024-03-29 |  |
 | [Yahweh](https://open.spotify.com/track/5lhYjcFz1RmTAOfbppgydo) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Yahweh](https://open.spotify.com/album/5gApygatLbXPhWNbbxwpyL) | 3:18 | 2023-10-06 | 2023-10-20 |
 | [Yahweh](https://open.spotify.com/track/1MvukV2WvlpzdMHLS0AoUw) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Yahweh](https://open.spotify.com/album/6x8LOcC5xyXd7wF0bWZhxt) | 3:54 | 2023-08-11 | 2023-08-25 |
 | [Yahweh](https://open.spotify.com/track/1shV4VBVUcAUPAxl33er7k) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [Yahweh](https://open.spotify.com/album/5Hs3fnodDO0oZXC6Uo0YvQ) | 9:39 | 2023-06-09 | 2023-08-04 |

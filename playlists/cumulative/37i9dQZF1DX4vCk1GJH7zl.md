@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bon Jovi
 
-125 songs - 7 hr 37 min
+126 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Buquê de Rimas](https://open.spotify.com/track/3YV3rFEs55ie3idd3tVlfb) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Buquê de Rimas](https://open.spotify.com/album/7e3V41aO2OtnBQuRRuIVZ6) | 2:56 | 2023-07-21 |  |
 | [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 | 2023-07-21 |  |
 | [Carta no Baralho](https://open.spotify.com/track/5uAiXNsj4YD6sqjlE1g9Yj) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Carta no Baralho](https://open.spotify.com/album/3WQ0Ob1xbq8QSWbF1vdW6x) | 5:12 | 2023-07-21 | 2023-08-26 |
-| [Carta pro Passado](https://open.spotify.com/track/4WnXJEmktIas3NyqVJLepw) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Carta pro Passado](https://open.spotify.com/album/1zmEyQcEMoQ1XlXugjheEQ) | 3:15 | 2023-07-21 |  |
+| [Carta pro Passado](https://open.spotify.com/track/4WnXJEmktIas3NyqVJLepw) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Carta pro Passado](https://open.spotify.com/album/1zmEyQcEMoQ1XlXugjheEQ) | 3:15 | 2023-07-21 | 2024-03-30 |
 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-07-21 | 2023-08-19 |
 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2023-09-01 | 2024-03-16 |
 | [Coleção](https://open.spotify.com/track/1ZWyjMAEL7Pgbfj3gOw1ot) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Coleção](https://open.spotify.com/album/3iwSLqFgOSYRBTGd31T4rG) | 2:49 | 2023-07-21 | 2023-09-16 |
@@ -45,6 +45,7 @@
 | [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 | 2023-08-04 | 2023-08-19 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-07-21 | 2023-08-26 |
 | [Dois Mundos](https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Tulio Freitas](https://open.spotify.com/artist/1jDI5QIP2tPVrFDqwQY4Dj) | [Dois Mundos](https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv) | 4:17 | 2023-07-21 | 2024-03-16 |
+| [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 | 2024-03-29 |  |
 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 | 2024-03-15 |  |
 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 | 2023-07-21 |  |
 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 | 2023-11-17 |  |

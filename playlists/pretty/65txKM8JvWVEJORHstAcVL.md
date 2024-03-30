@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 28,584 likes - 45 songs - 2 hr 15 min
+[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 28,586 likes - 45 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 | 20 | [L'amor no està de moda](https://open.spotify.com/track/6TaI6JIjyveCJHHXpBwn2U) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Segur que m'equivoco](https://open.spotify.com/album/4awdI4rXM5frg5VH6Zkk7k) | 2:13 |
 | 21 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 22 | [La meva sort](https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [La meva sort](https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9) | 2:34 |
-| 23 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
+| 23 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 24 | [Vull estar amb tu](https://open.spotify.com/track/6hlg2g54ixRhEMlcbiWiqX) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [ZOO](https://open.spotify.com/artist/7a3ryRcO3alwbqaX4RagzM) | [Vull estar amb tu](https://open.spotify.com/album/0JNlqzvLCSmOtN5kL9Ysev) | 3:08 |
 | 25 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
 | 26 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 |

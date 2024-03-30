@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,606 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,676 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 40 | [Love Song](https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:58 |
 | 41 | [Aire](https://open.spotify.com/track/2OgG6HxGqmfPNJiJcBEfBN) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED) | 4:10 |
 | 42 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 |
-| 43 | [Caminando](https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Reggae Mexicano](https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4) | 4:21 |
-| 44 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 |
+| 43 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 |
+| 44 | [Caminando](https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Reggae Mexicano](https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4) | 4:21 |
 | 45 | [Orillas](https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tiempos de Tribulacion](https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK) | 6:03 |
 | 46 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
 | 47 | [Mi Verdad](https://open.spotify.com/track/6ofSz8CfDJ91cIRKGzqnSG) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 2:46 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 49 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
 | 50 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 |
 | 51 | [Intuicion](https://open.spotify.com/track/5Tj1AcKCt9IPqoOMfTPsY5) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Sueño Que Va](https://open.spotify.com/album/1CRc8ryhBOAHz5BpJbbvXZ) | 4:01 |
-| 52 | [Escondidos](https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:51 |
-| 53 | [El Paraiso de los Perros](https://open.spotify.com/track/309zcIa7rkb1QMKX4fw1Lf) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Beatriz](https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR) | 5:09 |
+| 52 | [El Paraiso de los Perros](https://open.spotify.com/track/309zcIa7rkb1QMKX4fw1Lf) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Beatriz](https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR) | 5:09 |
+| 53 | [Escondidos](https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:51 |
 | 54 | [No Te Fumes Mi Mariguana](https://open.spotify.com/track/0LFjHJnsZd1B6KPnvTmIVy) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:30 |
 | 55 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 |
 | 56 | [Gozar Hasta Que Me Ausente](https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 69 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
 | 70 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
 
-Snapshot ID: `MCxlYWFjNzNlNWIwNDgzYTE1NDNlMDNlZWJkZjdiZTVlNDdmOTEyNjY5`
+Snapshot ID: `MCxlMWUyYTA4ZWNlMzUyMzgyZDAwNDJkZDkzYzhhOTVmMjFkNTk3Zjc0`

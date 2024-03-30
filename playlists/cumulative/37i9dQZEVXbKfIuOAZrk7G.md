@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,444 songs - 5 day 10 hr 4 min
+2,445 songs - 5 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1436,7 +1436,7 @@
 | [Na Na Na](https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Na Na Na](https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0) | 1:40 | 2023-06-21 | 2023-07-19 |
 | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 | 2023-03-14 | 2023-03-23 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-03-15 | 2022-03-23 |
-| [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 | 2024-03-26 |  |
+| [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 | 2024-03-26 | 2024-03-30 |
 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-11-07 | 2023-11-16 |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-08-23 | 2022-08-28 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/19eQKZicAzXgQ2Tg3y4K0N) | [FenoSkii](https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/2iLfp8BAcBilTaO88gGzNq) | 1:50 | 2023-05-05 | 2023-05-08 |
@@ -2047,6 +2047,7 @@
 | [Tell Me Ma](https://open.spotify.com/track/0Z3p6q8nol4dlf3b0WRI1a) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 2:43 | 2024-03-22 | 2024-03-24 |
 | [Tell Me Ma](https://open.spotify.com/track/7BZOYDhoCAR2AkvGBrj6vw) | [Sham Rock](https://open.spotify.com/artist/3btIWfhXaf5db1gpLbXuB3) | [Tell Me Ma](https://open.spotify.com/album/6vFdEOGr37S7fYj9L0IZRD) | 3:54 | 2024-03-18 | 2024-03-26 |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-10-02 | 2022-10-26 |
+| [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-03-29 |  |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-31 | 2023-11-03 |
 | [Tennessee Orange](https://open.spotify.com/track/0E8u1U98URbfphBrNUFdHK) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24UnqgKpBTQcKssJTGUBL2) | 3:43 | 2022-10-22 | 2022-10-25 |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-27 | 2022-11-02 |

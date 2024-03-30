@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best songs from The Locker in 2023\. Cover: NOAHFINNCE
 
-174 songs - 8 hr 30 min
+175 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2021-12-01 | 2023-11-30 |
 | [Drones](https://open.spotify.com/track/5JvspoRjPwqMmPV5anGYZj) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:30 | 2023-11-29 |  |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-11-30 | 2023-11-30 |
-| [East End Boys](https://open.spotify.com/track/00nnljM2ZxydI3M7CgNTK4) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [East End Boys](https://open.spotify.com/album/7BDiM9iqKeVx14t6LlSU8a) | 2:55 | 2023-11-29 |  |
+| [East End Boys](https://open.spotify.com/track/00nnljM2ZxydI3M7CgNTK4) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [East End Boys](https://open.spotify.com/album/7BDiM9iqKeVx14t6LlSU8a) | 2:55 | 2023-11-29 | 2024-03-30 |
+| [East End Boys](https://open.spotify.com/track/74yk8YDE3W3resiiTPhE9i) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [East End Boys](https://open.spotify.com/album/0oMtOwuEVMmUz6ED5ZhHAn) | 2:55 | 2023-11-29 |  |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-11-30 | 2023-11-30 |
 | [Enemy](https://open.spotify.com/track/6CgWLkFhymq6o4nvOuJrKC) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Enemy](https://open.spotify.com/album/0O9aKBmu7LlWmlknQgI1Pz) | 3:22 | 2023-11-29 |  |
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-11-29 |  |

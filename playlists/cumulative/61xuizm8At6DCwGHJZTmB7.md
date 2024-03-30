@@ -4,7 +4,7 @@
 
 > Celebrate Easter season with your favorite worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-420 songs - 1 day 16 hr 44 min
+421 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 | 2022-03-18 | 2022-04-09 |
 | [Is He Worthy? \- Live](https://open.spotify.com/track/0QXpQkyuEdNqJLOkzua7vf) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! In Christ Alone \- Live At The Getty Music Worship Conference](https://open.spotify.com/album/7LieYsVEC7GO1SoImXO4rr) | 4:48 | 2022-04-08 | 2022-07-14 |
 | [It's Time To Worship](https://open.spotify.com/track/5sxApl9TQHzRtBQEMdn9Qw) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Speak To The Mountains](https://open.spotify.com/album/3qOxAclcKVsOHKLCiqEutQ) | 4:19 | 2022-02-17 | 2022-03-16 |
+| [Jesus Christ Over Everything \- Live](https://open.spotify.com/track/6hfULoWn9n0TGFQWDOWzkw) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/5DO9wuneObB0e6vNxFSJVi), [Ellisha Carter](https://open.spotify.com/artist/2vEOfYrqqx0Crq1UH7joYE) | [Jesus Christ Over Everything](https://open.spotify.com/album/5azL2XOS9gjemX9IT5ij2E) | 5:35 | 2024-03-29 |  |
 | [Jesus Is My Healer \- Live](https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Jesus Is My Healer \(Live\)](https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh) | 6:20 | 2023-06-23 | 2023-12-14 |
 | [Jesus Is My Healer \- Live at Gateway Conference](https://open.spotify.com/track/2ehScY2VKSRBuk3CKbaLmU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Jesus Is My Healer \(Live\)](https://open.spotify.com/album/5vKuQJsGAOtvNvIfXTrheL) | 6:37 | 2024-02-16 |  |
 | [Jesus Is Risen](https://open.spotify.com/track/7Myw8gqNvdLPxrAh5IDvS9) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Jesus Is Risen](https://open.spotify.com/album/6FPkFnU8YSzUozYf2DKl22) | 4:14 | 2022-02-25 | 2023-01-05 |

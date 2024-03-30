@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,896 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,903 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
 | 50 | [Allt Jag Har \- Remix](https://open.spotify.com/track/5bLrlFDEQdsWjYxXjtK5kz) | [WillMan](https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu), [Ken Ring](https://open.spotify.com/artist/2yMJGKSRgxIniMnq30FAzX) | [Dunderbart](https://open.spotify.com/album/65Dxrbp2wmyfJKWBiusoex) | 2:58 |
 
-Snapshot ID: `MCwzZDdkMzc2YzczZjljZjY4MDdhZmI3MWVhZjM4ZTU0ZWY2NDM5ZGQ1`
+Snapshot ID: `MCw2ODI5NmIxMTM0YmMzNmE4NDQ3N2E5ZWZjNTAzZTU2NTUzOGFjZmEw`

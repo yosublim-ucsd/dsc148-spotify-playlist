@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-316 songs - 18 hr 58 min
+317 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/track/7D5v3bwTNUx8NHHKHmwGgX) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Tourism](https://open.spotify.com/album/2dxsMripcAgRre1gqZPoye) | 3:32 | 2023-10-13 |  |
 | [I Know](https://open.spotify.com/track/6L7aiftxZhpxxAny9Xcfir) | [Sammy Brue](https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk) | [I Am Nice](https://open.spotify.com/album/6eAwB9rX4Otl19sbnt1Onv) | 3:15 | 2019-09-29\* | 2020-06-01 |
 | [I Shall Cross This River](https://open.spotify.com/track/2if6QiLvbXVKSszehXtgwg) | [The Black Atlantic](https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC) | [Reverence for Fallen Trees](https://open.spotify.com/album/0H2OGCb81F0iGqu9e18CF8) | 3:21 | 2019-09-29\* | 2021-07-17 |
-| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-13 |  |
+| [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 | 2024-03-22 |  |
+| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-13 | 2024-03-30 |
 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 | 2019-09-29\* |  |
 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 | 2020-01-29 |  |
 | [I, Nietzsche \- acoustic](https://open.spotify.com/track/377AoKp62nOZLYwAEaU9yE) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 2:34 | 2022-08-01 |  |

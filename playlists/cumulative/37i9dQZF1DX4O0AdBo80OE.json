@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Robot95 en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Robot95 y Jesse Baez en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195853,
       "name": "Chavorruco",
       "url": "https://open.spotify.com/track/4bBOrr1ROgFc2Z5UeVe4jF"
@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
+        "url": "https://open.spotify.com/album/02Kb0jYPDw2TsBNEyvDH7F"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
+      "url": "https://open.spotify.com/track/2xaKMrNkGVqK5eNgZcg4P3"
+    },
+    {
+      "album": {
         "name": "hablar contigo </3",
         "url": "https://open.spotify.com/album/4W23J0psjH7WP4kaJZZqj2"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 250133,
       "name": "Ladrillo Y Cemento",
       "url": "https://open.spotify.com/track/5wtHUpXijyXyaeND3HMfF6"
@@ -1434,6 +1452,28 @@
       "duration_ms": 195000,
       "name": "Lo Que T\u00fa Me Das",
       "url": "https://open.spotify.com/track/4GFeUjcxXT9ZfxA8AShiDn"
+    },
+    {
+      "album": {
+        "name": "KEVIN P\u00d3RTATE BIEN",
+        "url": "https://open.spotify.com/album/78MQL4LdKOTHCyCoElZQhN"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "Loquera",
+      "url": "https://open.spotify.com/track/5OlspCona9qgcuBuMI7rOD"
     },
     {
       "album": {

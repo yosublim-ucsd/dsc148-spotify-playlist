@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 34936,
+  "num_followers": 34960,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmE1ODkxNzg4NzE3Y2JkMTExNWY3MWRiMGIzZGFkODY5NGIxZTQ1",
+  "snapshot_id": "MCw0OWMxNDJhYWNkYjM3NzY2YTk2NjgzYTU4Njk1NGJjZmU0MzE4MGFm",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -583,24 +583,24 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+        "name": "Melting Hazard",
+        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
       "artists": [
         {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+      "duration_ms": 306676,
+      "name": "Melting Hazard",
+      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
     },
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Melting Hazard",
-        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 306676,
-      "name": "Melting Hazard",
-      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -699,42 +699,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Far Within Reach",
-        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
+        "name": "The Sacrificial Code",
+        "url": "https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        },
-        {
-          "name": "Ella Zwietnig",
-          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 312000,
-      "name": "The Reckoning",
-      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
-        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        },
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
-      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+      "duration_ms": 653904,
+      "name": "Spectacle Of Ritual",
+      "url": "https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -755,8 +731,28 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+        "name": "Far Within Reach",
+        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        },
+        {
+          "name": "Ella Zwietnig",
+          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "The Reckoning",
+      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
       "artists": [
         {
@@ -764,9 +760,29 @@
           "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
+        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
+      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "The Sacrificial Code",
-        "url": "https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 653904,
-      "name": "Spectacle Of Ritual",
-      "url": "https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "@0 EP1",
         "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Memories of Log",
         "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 400248,
       "name": "Falling Water Lullaby",
       "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 347680,
-      "name": "Moon View",
-      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Welfare / Practice",
         "url": "https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "Moon View",
+      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1103,6 +1087,22 @@
       "duration_ms": 446000,
       "name": "Mountain of Air",
       "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Healing Is A Miracle - Extended Versions",
         "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 640034,
       "name": "Inspirit - Extended Version",
       "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/70QhYy1IM2lzMfsprIQ8nJ"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Humidity",
         "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 271093,
       "name": "Humidity",
       "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/70QhYy1IM2lzMfsprIQ8nJ"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Sketch for Winter IX: Perlita",
         "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 266057,
       "name": "Light in Phases",
       "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
-      },
-      "artists": [
-        {
-          "name": "Noveller",
-          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
-        }
-      ],
-      "duration_ms": 227748,
-      "name": "Effektology",
-      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1447,6 +1431,22 @@
       "duration_ms": 618138,
       "name": "Myg",
       "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
+      },
+      "artists": [
+        {
+          "name": "Noveller",
+          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
+        }
+      ],
+      "duration_ms": 227748,
+      "name": "Effektology",
+      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
     },
     {
       "added_at": "2023-09-08 14:04:07",

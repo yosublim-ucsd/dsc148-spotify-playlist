@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,682 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,750 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 10 | [El Son De La Rabia \- En Vivo](https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:59 |
 | 11 | [Oye Traicionera](https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [La Trayectoria! \(De Arturo Camarillo\)](https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir) | 2:44 |
 | 12 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
-| 13 | [Micaela](https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0) | [Banda Saucillos](https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK) | [A Bailar a la Quebradita](https://open.spotify.com/album/7zvrBGuNn6N0iLqYLFtsqe) | 2:42 |
-| 14 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
+| 13 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
+| 14 | [Micaela](https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0) | [Banda Saucillos](https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK) | [A Bailar a la Quebradita](https://open.spotify.com/album/7zvrBGuNn6N0iLqYLFtsqe) | 2:42 |
 | 15 | [La Chucha](https://open.spotify.com/track/4D0nMy6ertx5YXsmBWux5p) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [La Chucha](https://open.spotify.com/album/1PPUm7GpAdJ2HOMgXsYRNo) | 2:10 |
 | 16 | [Pavido Navido](https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY) | [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Justo a Tiempo](https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc) | 2:44 |
 | 17 | [Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana](https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Una No Es Ninguna](https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw) | 4:11 |
 | 18 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
 | 19 | [Mujer Interesada](https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:40 |
 | 20 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
-| 21 | [Carnaval Putleco](https://open.spotify.com/track/5ApbRWd5f7L5leQqtBdbgA) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Desquítate Conmigo](https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S) | 3:33 |
-| 22 | [Y Claro Que Se Puede \- Sones para Jaripeo](https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf) | [Banda los Chirimoyos](https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb) | [Aquel Amor \(Desde Tingambato Michoacan\)](https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr) | 4:06 |
+| 21 | [Y Claro Que Se Puede \- Sones para Jaripeo](https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf) | [Banda los Chirimoyos](https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb) | [Aquel Amor \(Desde Tingambato Michoacan\)](https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr) | 4:06 |
+| 22 | [Carnaval Putleco](https://open.spotify.com/track/5ApbRWd5f7L5leQqtBdbgA) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Desquítate Conmigo](https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S) | 3:33 |
 | 23 | [La Rabia](https://open.spotify.com/track/6vVdR7jAZVVCc4qx2JMLVz) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 2:14 |
 | 24 | [El Condor Pasa](https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg) | [Banda RG\. Rancho Grande](https://open.spotify.com/artist/136OmZPTRgtELzB83WdW8g) | [Te Advierto](https://open.spotify.com/album/4T5rNGbPphSO5cBNjDEkNc) | 3:39 |
 | 25 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \- En Vivo](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCw3ZjcyYTdlZWVhYzY4ODZiOWM5ZjFmOWJkNjgwODQzYmFhODNhN2U3`
+Snapshot ID: `MCw2ZWNiZmEyNzAzNTRhMWI2MzI2YjM0MWE0ODMxNDcyM2JjZTkzNDA0`

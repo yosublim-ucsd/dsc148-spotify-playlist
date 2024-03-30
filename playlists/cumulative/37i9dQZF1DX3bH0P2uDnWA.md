@@ -4,14 +4,14 @@
 
 > Bringing the roaring 20s into the 2020s
 
-360 songs - 20 hr 35 min
+361 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100](https://open.spotify.com/track/6m4ftKNtuB9zPqdSXAYBLt) | [Elle & The Pocket Belles](https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt) | [100](https://open.spotify.com/album/0HSY1fiyh4S76MHLeuMuf3) | 3:10 | 2023-08-25 | 2024-02-17 |
 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 | 2020-10-30 | 2023-03-11 |
 | [1941 \(feat\. Virian\)](https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U) | [Klaypex](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK), [Virian](https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR) | [Anything Goes](https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ) | 3:00 | 2020-10-30 |  |
-| [A Timeless Tale](https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Gone Rogue](https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ) | 3:06 | 2022-02-11 |  |
+| [A Timeless Tale](https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Gone Rogue](https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ) | 3:06 | 2022-02-11 | 2024-03-30 |
 | [AKH Odessa](https://open.spotify.com/track/5Y6jWzTtil6LwMChWEE8Tu) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Russian Gentlemen Club](https://open.spotify.com/artist/2n0QKE9OP6RYRkwbgI9nRG) | [AKH Odessa](https://open.spotify.com/album/3z0i8xWAB2svFBmzGbI0F0) | 4:00 | 2022-02-18 |  |
 | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \- Electro Swing Mix](https://open.spotify.com/track/1gG97yvTy6IAwtKWD86VSD) | [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \[Electro Swing Mix\]](https://open.spotify.com/album/2zLzFonWf8IaDjp7nrnDT8) | 2:26 | 2022-11-07 | 2024-03-02 |
 | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \- Electro Swing Mix](https://open.spotify.com/track/3Go7DAxPF8VVxofLHlCckK) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \[Electro Swing Mix\]](https://open.spotify.com/album/7n313qSyFyOyFMvWNhS0nV) | 2:26 | 2021-07-02 | 2023-09-03 |
@@ -170,6 +170,7 @@
 | [Lone Digger](https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5DtzT44o6tGZbVA0xmsz4V) | 3:49 | 2020-10-30 | 2022-07-29 |
 | [Lone Digger](https://open.spotify.com/track/6Ntz1uQoMF8L2E4w518BFp) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5a9UEwUEN7LsTsRXWPOQtC) | 3:49 | 2023-11-06 |  |
 | [Long Train Runnin' \- Electro Swing Mix](https://open.spotify.com/track/17DPEy1HfgZuhDA2iW1H96) | [Lil Mishka Band](https://open.spotify.com/artist/5nSNecGsD1jB5a7lETGzGd), [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Long Train Runnin' \(Electro Swing Mix\)](https://open.spotify.com/album/1QHnsqed9WOZs151kHV2Ed) | 2:52 | 2023-06-30 |  |
+| [Love Buzz](https://open.spotify.com/track/6wOKNE9JL9ueQzUAaXpa5l) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Buzz](https://open.spotify.com/album/5earRFgiX8lRLZalXgWaxE) | 2:48 | 2024-03-29 |  |
 | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf), [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/album/2GztloBIUhp28xvTf3hlXY) | 2:50 | 2023-06-09 |  |
 | [Love Us a Ruckus](https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Us a Ruckus](https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7) | 4:04 | 2022-11-25 | 2023-02-04 |
 | [Love Us a Ruckus](https://open.spotify.com/track/6AUwEemrg6TQjYkGTr3det) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Bad Manners](https://open.spotify.com/album/2ChFqWOdeu5Wyppaaxfy51) | 4:04 | 2022-12-09 | 2024-02-24 |

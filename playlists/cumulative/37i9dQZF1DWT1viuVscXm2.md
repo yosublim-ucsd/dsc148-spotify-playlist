@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-287 songs - 16 hr 43 min
+288 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Lagrimas de Amor](https://open.spotify.com/track/6E2LReyKXcrLp1TUBGv4ss) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [Lagrimas de Amor](https://open.spotify.com/album/62kecikyPHU1RNCtRPu51t) | 3:48 | 2022-02-18 | 2022-12-10 |
 | [Las Solteras](https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Las Solteras](https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF) | 3:20 | 2022-06-03 | 2022-07-16 |
 | [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 | 2022-08-05 |  |
-| [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-10-20 |  |
+| [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-10-20 | 2024-03-30 |
 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 | 2021-12-24 |  |
 | [Llorarás Más de 10 Veces](https://open.spotify.com/track/10VUJfqV8GGuJovH0x9Q4e) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Llorarás Más de 10 Veces](https://open.spotify.com/album/5NmYayaP0sr0anmXO9D8hz) | 3:30 | 2022-08-05 |  |
 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 | 2023-04-11 |  |
@@ -170,6 +170,7 @@
 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2021-12-24 | 2023-09-27 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2021-12-24 | 2023-03-12 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-10 |  |
+| [No me llames más](https://open.spotify.com/track/1P6GdZP0fBY4CRoYXG3r7b) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [No me llames más](https://open.spotify.com/album/1sj3t4g3wAxDe0dNWHqwyZ) | 3:16 | 2024-03-29 |  |
 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 | 2022-09-17 |
 | [No Puedo Más](https://open.spotify.com/track/5nTMWn5tDrRJuWyObIS2nM) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [No Puedo Más](https://open.spotify.com/album/28r8Cg03NewVnUrW8nFjzk) | 3:45 | 2022-09-02 | 2022-12-03 |
 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 | 2023-03-09 | 2023-04-04 |

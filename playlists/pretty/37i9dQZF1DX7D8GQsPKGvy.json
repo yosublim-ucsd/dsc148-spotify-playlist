@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 841621,
+  "num_followers": 842010,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTI4ZTk3Y2E2NmRhMTc1ODdiNjg2ZjNhYjE1Mjk1OGUxMDQ5ODE2",
+  "snapshot_id": "MCw1MzQ5ZTk1ZWMwMzNlMTE4NTY1NjdlYzU4MjM0MmM3YjFkNzczNTg5",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -283,6 +283,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
+      },
+      "artists": [
+        {
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Call on Me - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Sunroof (Loud Luxury Remix)",
         "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 173658,
       "name": "Sunroof - Loud Luxury Remix",
       "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Call On Me (Remixes)",
-        "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
-      },
-      "artists": [
-        {
-          "name": "Starley",
-          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
-        },
-        {
-          "name": "Ryan Riback",
-          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Call on Me - Ryan Riback Remix",
-      "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 228300,
-      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
-      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Doggumentary",
         "url": "https://open.spotify.com/album/6Hnr6UcLxnEadWQ70bZqGS"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 195453,
       "name": "Wet - Remix",
       "url": "https://open.spotify.com/track/2alijxLnR0RCiJ5JvzhDuT"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 228300,
+      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1135,22 +1135,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "If I Can't Have You (Gryffin Remix)",
-        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
+        "name": "Rain On Me (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 253040,
-      "name": "If I Can't Have You - Gryffin Remix",
-      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
+      "duration_ms": 238048,
+      "name": "Rain On Me - Purple Disco Machine Remix - Edit",
+      "url": "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1175,26 +1179,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Rain On Me (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5"
+        "name": "If I Can't Have You (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 238048,
-      "name": "Rain On Me - Purple Disco Machine Remix - Edit",
-      "url": "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND"
+      "duration_ms": 253040,
+      "name": "If I Can't Have You - Gryffin Remix",
+      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1371,6 +1371,30 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Final Song (Diplo & Jauz Remix)",
+        "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Final Song - Diplo & Jauz Remix",
+      "url": "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Ocean (feat. Khalid) [David Guetta Remix]",
         "url": "https://open.spotify.com/album/2lYxgMaJP2bGy4dhIToqzS"
       },
@@ -1411,30 +1435,6 @@
       "duration_ms": 221720,
       "name": "Love Myself - KREAM Remix",
       "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Final Song (Diplo & Jauz Remix)",
-        "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Final Song - Diplo & Jauz Remix",
-      "url": "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Youngblood (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/2RMSI4zHlR5bSVuFnOr9MH"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 150528,
-      "name": "Youngblood - R3HAB Remix",
-      "url": "https://open.spotify.com/track/2vIzH4NfFGoJHA5rn1dFWT"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Castles (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 204000,
       "name": "Castles - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Youngblood (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/2RMSI4zHlR5bSVuFnOr9MH"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 150528,
+      "name": "Youngblood - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2vIzH4NfFGoJHA5rn1dFWT"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1955,26 +1955,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man) [Remixes]",
-        "url": "https://open.spotify.com/album/1z9yyq4FAPSplsvP7hvwWw"
+        "name": "All Night - EP",
+        "url": "https://open.spotify.com/album/59t6DSn6GZfnvncn4KiGDq"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
         },
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
         }
       ],
-      "duration_ms": 193297,
-      "name": "Giant (with Rag'n'Bone Man) - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"
+      "duration_ms": 213114,
+      "name": "All Night - Alex Adair Remix",
+      "url": "https://open.spotify.com/track/4ybJaOpgdqqeRgFHMh0Nm4"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1999,6 +1999,30 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Giant (with Rag'n'Bone Man) [Remixes]",
+        "url": "https://open.spotify.com/album/1z9yyq4FAPSplsvP7hvwWw"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 193297,
+      "name": "Giant (with Rag'n'Bone Man) - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Nothing Breaks Like a Heart (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF"
       },
@@ -2019,30 +2043,6 @@
       "duration_ms": 216774,
       "name": "Nothing Breaks Like a Heart - Don Diablo Remix",
       "url": "https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "All Night - EP",
-        "url": "https://open.spotify.com/album/59t6DSn6GZfnvncn4KiGDq"
-      },
-      "artists": [
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        },
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Alex Adair",
-          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
-        }
-      ],
-      "duration_ms": 213114,
-      "name": "All Night - Alex Adair Remix",
-      "url": "https://open.spotify.com/track/4ybJaOpgdqqeRgFHMh0Nm4"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2087,30 +2087,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Obsessed (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Obsessed - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/7AviXsnkUYIeIJB0zSfV8y"
       },
@@ -2139,6 +2115,30 @@
       "duration_ms": 231688,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - AJR Remix",
       "url": "https://open.spotify.com/track/4DMvvYvDNiEv2QUciZCyp7"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Obsessed (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Obsessed - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq"
     },
     {
       "added_at": "2023-07-03 13:15:34",

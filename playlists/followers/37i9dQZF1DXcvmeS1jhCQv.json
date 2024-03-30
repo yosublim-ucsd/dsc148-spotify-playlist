@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 74123,
+  "2024-03-30": 74132,
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Pillow Queens",
+  "description": "New tunes from Ireland for your discovery. Cover: TraviS, Elzzz",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 165393,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
@@ -209,6 +209,24 @@
       "duration_ms": 173705,
       "name": "Big Pharma (Withdrawal)",
       "url": "https://open.spotify.com/track/2PrAI62XtqYSaubDYT7vNP"
+    },
+    {
+      "album": {
+        "name": "Yellow Roses",
+        "url": "https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0"
+      },
+      "artists": [
+        {
+          "name": "Niamh Bury",
+          "url": "https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256703,
+      "name": "Bite The Bridle",
+      "url": "https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO"
     },
     {
       "album": {
@@ -418,6 +436,24 @@
     },
     {
       "album": {
+        "name": "Dead Ends",
+        "url": "https://open.spotify.com/album/4CXUYoywuie0J8b8Iw4bW2"
+      },
+      "artists": [
+        {
+          "name": "Holly Munro",
+          "url": "https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Dead Ends",
+      "url": "https://open.spotify.com/track/0QqgVlrgMLDepJQIyOlNzD"
+    },
+    {
+      "album": {
         "name": "ROCK 'N' RAVE",
         "url": "https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ"
       },
@@ -454,6 +490,24 @@
     },
     {
       "album": {
+        "name": "Don't Feel Myself",
+        "url": "https://open.spotify.com/album/4ur1YH9AzohGPLzjFbViS2"
+      },
+      "artists": [
+        {
+          "name": "modernlove.",
+          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Don't Feel Myself",
+      "url": "https://open.spotify.com/track/2NNFzp2ZAbTrZOi3rV8pdN"
+    },
+    {
+      "album": {
         "name": "Don't Understand Why",
         "url": "https://open.spotify.com/album/55XRl8sZvsT8glN2yEfTef"
       },
@@ -487,6 +541,24 @@
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
+    },
+    {
+      "album": {
+        "name": "Double Cherry",
+        "url": "https://open.spotify.com/album/2q6dNc37YCB2ebo0pGGlhW"
+      },
+      "artists": [
+        {
+          "name": "Annie-Dog",
+          "url": "https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Double Cherry",
+      "url": "https://open.spotify.com/track/2pWRAZ9e1np1iN6IbfX7tI"
     },
     {
       "album": {
@@ -699,7 +771,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 186379,
       "name": "i shouldn\u2019t be here",
       "url": "https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB"
@@ -771,7 +843,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 185056,
       "name": "INFINITY",
       "url": "https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9"
@@ -1053,7 +1125,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 241069,
       "name": "meanie",
       "url": "https://open.spotify.com/track/6xivQSZmwJQu6aLT3fSk8r"
@@ -1349,7 +1421,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 175038,
       "name": "Plans",
       "url": "https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D"
@@ -1482,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145074,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
+    },
+    {
+      "album": {
         "name": "Sentences",
         "url": "https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b"
       },
@@ -1529,7 +1619,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 179000,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/0pK7Np2Rx6dYaNioN1i6np"
@@ -1645,6 +1735,24 @@
       "duration_ms": 220155,
       "name": "Stolen",
       "url": "https://open.spotify.com/track/71r6gdFkApNiV60zU6WjlI"
+    },
+    {
+      "album": {
+        "name": "Stone's Throw Away",
+        "url": "https://open.spotify.com/album/5IZW5EYW6AGLHr0qiDGuAK"
+      },
+      "artists": [
+        {
+          "name": "Annika Kilkenny",
+          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Stone's Throw Away",
+      "url": "https://open.spotify.com/track/7qQEIRI6AIqzEbo9RhRyid"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 98522,
+  "2024-03-30": 98649,
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw?si=iU6K0kPMRe6bH3w2m9xqHw\">Annelie</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=FS3SHbnpQrypAIYdOToH5g\">Riaan Benad\u00e9</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 210893,
       "name": "Kwagga Karnaval",
       "url": "https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF"
@@ -3033,6 +3033,24 @@
       "duration_ms": 196701,
       "name": "Standbeelde",
       "url": "https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl"
+    },
+    {
+      "album": {
+        "name": "Stoom",
+        "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178669,
+      "name": "Stoom",
+      "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
     },
     {
       "album": {

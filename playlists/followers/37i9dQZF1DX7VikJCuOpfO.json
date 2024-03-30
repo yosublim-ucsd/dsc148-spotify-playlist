@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 198969,
+  "2024-03-30": 199023,
   "date_first_scraped": "2022-05-23",
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ana B\u00e1rbara",
   "name": "Mariachi 2024",
@@ -5965,6 +5965,28 @@
       "duration_ms": 224533,
       "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
+    },
+    {
+      "album": {
+        "name": "Soy de Parral (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6zQOPTVMGhJMXRBBNsiTby"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        },
+        {
+          "name": "Pablo Vamer",
+          "url": "https://open.spotify.com/artist/6rasbovc25yVtFyNczlrHH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229343,
+      "name": "Soy de Parral - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6hG3rVEhKz5R9jnM49ksWl"
     },
     {
       "album": {

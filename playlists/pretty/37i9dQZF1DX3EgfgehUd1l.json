@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 165734,
+  "num_followers": 165786,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTExMmIxZWM4OGFkZmY5YzcwN2RlYmZiNTVhOTIyYjc1NDE1OWQx",
+  "snapshot_id": "MCxkZjBiNjY2NjgwYTI0YTYzZDRmMjE3NTgyZmRiYzc3Y2FlNjM1ZDg3",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Flying Platters Around The World",
         "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 168293,
       "name": "Twilight Time - Single Version",
       "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "The Great Pretender",
-      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "The Great Pretender",
+      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Greatest Hits: Walking To New Orleans",
         "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 158760,
       "name": "Love And Marriage",
       "url": "https://open.spotify.com/track/3gcX6AddfEnG4SgfltfSUO"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -619,6 +619,22 @@
       "duration_ms": 162213,
       "name": "Blue Moon - Take 9/M",
       "url": "https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -727,22 +743,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Romance: Songs From The Heart",
-        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -775,38 +775,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Kalin Twins",
-        "url": "https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE"
-      },
-      "artists": [
-        {
-          "name": "Kalin Twins",
-          "url": "https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "When",
-      "url": "https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Essential Perry Como",
         "url": "https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw"
       },
@@ -831,18 +799,34 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Pat Boone Sings (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Btlm07VEQhfqvsTbkjL9H"
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
       },
       "artists": [
         {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 115506,
-      "name": "Sugar Moon",
-      "url": "https://open.spotify.com/track/6hc2AUvS54icf4z9qQHbaT"
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Kalin Twins",
+        "url": "https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE"
+      },
+      "artists": [
+        {
+          "name": "Kalin Twins",
+          "url": "https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "When",
+      "url": "https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -875,6 +859,22 @@
       "duration_ms": 155880,
       "name": "A Tear Fell",
       "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Pat Boone Sings (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Btlm07VEQhfqvsTbkjL9H"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 115506,
+      "name": "Sugar Moon",
+      "url": "https://open.spotify.com/track/6hc2AUvS54icf4z9qQHbaT"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 140306,
-      "name": "Walkin' My Baby Back Home",
-      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Magic Of Alma Cogan",
-        "url": "https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Alma Cogan",
-          "url": "https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 107333,
-      "name": "Dreamboat",
-      "url": "https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk"
+      "duration_ms": 140306,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1171,6 +1155,22 @@
       "duration_ms": 130893,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Magic Of Alma Cogan",
+        "url": "https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5"
+      },
+      "artists": [
+        {
+          "name": "Alma Cogan",
+          "url": "https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK"
+        }
+      ],
+      "duration_ms": 107333,
+      "name": "Dreamboat",
+      "url": "https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "Hey There - from The \"Pajama Game\"",
-      "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Country Style",
         "url": "https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Welsh Tenor",
-        "url": "https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 166266,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
+      "duration_ms": 172440,
+      "name": "Hey There - from The \"Pajama Game\"",
+      "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1335,6 +1319,22 @@
       "duration_ms": 159773,
       "name": "High Noon (Do Not Forsake Me)",
       "url": "https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Welsh Tenor",
+        "url": "https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
     }
   ],
   "unique_name": "Easy 50s",

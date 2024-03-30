@@ -4,7 +4,7 @@
 
 > Meet the future\.  Cover: Annural Khalid
 
-81 songs - 4 hr 24 min
+83 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Alvida](https://open.spotify.com/track/6WEL0IfG8t9dxlxFxhKPAC) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 2:42 | 2023-10-05 |  |
 | [Andaaz\-E\-Karam](https://open.spotify.com/track/7iI9CyxhmRqqk6u8odtvAq) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Andaaz\-E\-Karam](https://open.spotify.com/album/4mccCSngQlhDBLMROPx5Ip) | 3:06 | 2023-10-05 | 2024-02-17 |
 | [Andheri Raat](https://open.spotify.com/track/2ojtfOXp5BR9Jxh3GIdZ6h) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Andheri Raat](https://open.spotify.com/album/6CksTNpieRuo6cwoDBU5nI) | 3:06 | 2023-10-27 |  |
-| [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 | 2023-07-31 |  |
+| [Bandhan](https://open.spotify.com/track/1iWFL5RkNnvm5qJtqqWEOA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/0dPpLOrNoGOBqq3qyztbdG) | 4:50 | 2024-02-23 |  |
+| [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 | 2023-07-31 | 2024-03-30 |
 | [BETTER DAYS](https://open.spotify.com/track/7ysTYZIjZjI2aRGIZV4h24) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [BETTER DAYS](https://open.spotify.com/album/0Px9Hx8lsZAK42xU2Tx3qw) | 3:01 | 2024-02-23 |  |
 | [Bhaagoon](https://open.spotify.com/track/0XZNiP6VU0e9Orm1Lzc7cr) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Sinnan Fazwani](https://open.spotify.com/artist/3gAgVxm4l9CwpWtTI0NF52) | [Bhaagoon](https://open.spotify.com/album/3vPIQjEt5lDTSgS6vRTFuV) | 3:06 | 2024-01-17 |  |
 | [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-17 |  |
@@ -78,7 +79,8 @@
 | [Shuru Karein](https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Shuru Karein](https://open.spotify.com/album/1MxsE2k1buYRltVVXfcivf) | 2:26 | 2023-07-31 |  |
 | [Spicy](https://open.spotify.com/track/1APSHdEWYt0hlSlu5UcqJa) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Spicy](https://open.spotify.com/album/7C9tPnocJUdBMsZm9BGTDo) | 3:52 | 2023-07-31 | 2023-09-04 |
 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 | 2023-11-29 | 2024-01-06 |
-| [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2023-07-31 |  |
+| [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 | 2024-02-23 |  |
+| [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2023-07-31 | 2024-03-30 |
 | [Tarka](https://open.spotify.com/track/10tUxnculTXzMGFAcj3ZNr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Turbo \(Deluxe\)](https://open.spotify.com/album/5AqK0sYFr4bVWAtVKTmXcz) | 1:56 | 2024-02-16 |  |
 | [Teray Naam](https://open.spotify.com/track/4dBRaBEild4wQPztOuV2EU) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahrukh](https://open.spotify.com/artist/02yAoSmsqYASF4Wb45bRlJ), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:06 | 2023-09-15 |  |
 | [Teriyan](https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Teriyan](https://open.spotify.com/album/3zdnb1So6h8GFY1GeuSIsJ) | 3:14 | 2023-09-03 |  |

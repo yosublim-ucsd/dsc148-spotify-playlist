@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 500262,
+  "2024-03-30": 500327,
   "date_first_scraped": "2023-04-02",
   "description": "Just good energy",
   "name": "Vibe Check",
@@ -87,6 +87,24 @@
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "album": {
+        "name": "Accelerator",
+        "url": "https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171705,
+      "name": "Accelerator",
+      "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
     },
     {
       "album": {
@@ -321,7 +339,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 138984,
       "name": "boomerang",
       "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
@@ -423,6 +441,28 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "album": {
+        "name": "Chance On You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Chance On You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH"
     },
     {
       "album": {
@@ -1209,7 +1249,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 125806,
       "name": "Here To Dance",
       "url": "https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr"
@@ -1421,6 +1461,42 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/7cihYq8t0Rg0W44L7uY1xR"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153904,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6a9aHCocZ8ehn89uW0FqUJ"
     },
     {
       "album": {
@@ -1779,7 +1855,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 160023,
       "name": "My Tempo",
       "url": "https://open.spotify.com/track/0IyJuazWXzIUdELXMTNrRh"
@@ -1907,7 +1983,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
@@ -2573,7 +2649,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 152400,
       "name": "Stumblin' In (Sonny Wern Remix)",
       "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
@@ -2763,6 +2839,28 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {

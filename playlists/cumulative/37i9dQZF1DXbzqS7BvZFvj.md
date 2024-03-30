@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: A Boogie Wit da Hoodie
 
-577 songs - 1 day 5 hr 26 min
+578 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All Alone](https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [48 Hours](https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp) | 2:27 | 2023-12-08 | 2024-01-13 |
 | [All I Wanna Know](https://open.spotify.com/track/3rWGgckX6iOjacBDMCaV97) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 3:26 | 2023-03-16 | 2023-04-21 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-11 |  |
+| [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2024-03-28 |  |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-22 | 2023-09-08 |
 | [American Nightmare](https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [American Nightmare](https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3) | 3:11 | 2023-04-20 | 2023-05-05 |
 | [AMF \(feat\. NLE Choppa\)](https://open.spotify.com/track/7qvUHLCbPdjjnoCU7GK2z4) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [AMF \(feat\. NLE Choppa\)](https://open.spotify.com/album/4fp913czITruargu63nuK4) | 3:05 | 2024-03-22 |  |
@@ -134,7 +135,7 @@
 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-07-28 | 2023-09-29 |
 | [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 | 2023-08-31 | 2023-09-23 |
 | [Demons](https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:15 | 2023-09-22 | 2023-11-11 |
-| [DENiM](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 | 2024-03-28 |  |
+| [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 | 2024-03-28 |  |
 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 | 2023-11-16 | 2023-12-09 |
 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 | 2023-03-16 | 2023-04-15 |
 | [Detox](https://open.spotify.com/track/4u30SYIy9dKVDG1JE2iPv8) | [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF) | [Detox](https://open.spotify.com/album/2p5awuI7cD95KWLsZIlINs) | 1:46 | 2023-09-28 | 2023-10-06 |

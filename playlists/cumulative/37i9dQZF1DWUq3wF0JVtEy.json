@@ -5710,7 +5710,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 239047,
       "name": "my luv - bonus track",
       "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
@@ -8916,6 +8916,28 @@
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
+    },
+    {
+      "album": {
+        "name": "Turn On The Lights",
+        "url": "https://open.spotify.com/album/1WUgSshj5xxozOYU2CF1xE"
+      },
+      "artists": [
+        {
+          "name": "Siks",
+          "url": "https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "Turn On The Lights",
+      "url": "https://open.spotify.com/track/6SlQUgtyfJeTxkqA8Qrx7D"
     },
     {
       "album": {

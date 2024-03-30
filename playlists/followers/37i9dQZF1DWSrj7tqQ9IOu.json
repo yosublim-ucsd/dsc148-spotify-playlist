@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 404799,
+  "2024-03-30": 404824,
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Yoa",
+  "description": "The best French indie tracks right now. Cover : Papooz",
   "name": "Made in France",
   "tracks": [
     {
@@ -1283,6 +1283,24 @@
       "duration_ms": 189653,
       "name": "Cin\u00e9ma",
       "url": "https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9med",
+        "url": "https://open.spotify.com/album/70Dl4djomdHEALG6BuLSMJ"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Cin\u00e9med",
+      "url": "https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k"
     },
     {
       "album": {
@@ -3491,7 +3509,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 180442,
       "name": "IT HURTS ME",
       "url": "https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H"
@@ -4731,7 +4749,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 200640,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6dElM6tD7hW95f8hCzKSeJ"
@@ -6892,6 +6910,24 @@
     },
     {
       "album": {
+        "name": "Se laisser partir",
+        "url": "https://open.spotify.com/album/2sEgqV6P0z6qROTfuColna"
+      },
+      "artists": [
+        {
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Se laisser partir",
+      "url": "https://open.spotify.com/track/7AU11YKhAzZhRGwGDiXJqj"
+    },
+    {
+      "album": {
         "name": "Plaisir Risque D\u00e9pendance",
         "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
       },
@@ -8694,6 +8730,24 @@
     },
     {
       "album": {
+        "name": "WHEN YOU'RE WITH ME",
+        "url": "https://open.spotify.com/album/2A3Ydj3xzNAanvUobhv2YN"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198063,
+      "name": "WHEN YOU'RE WITH ME",
+      "url": "https://open.spotify.com/track/7DrW56pQPjh9IssRHY5jcV"
+    },
+    {
+      "album": {
         "name": "Widow Dreams Forever",
         "url": "https://open.spotify.com/album/0bknUVrYD2YRTbmCzF7r2L"
       },
@@ -8935,7 +8989,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 186160,
       "name": "\u00c9tat Second",
       "url": "https://open.spotify.com/track/3vfyPt0SKeXtMihNyCWkro"

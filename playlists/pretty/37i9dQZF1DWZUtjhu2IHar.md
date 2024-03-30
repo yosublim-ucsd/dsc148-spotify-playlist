@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 
 > Our editor’s picks for best songs from The Locker in 2023\. Cover: NOAHFINNCE
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,430 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,423 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 39 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
 | 40 | [Sick Of This](https://open.spotify.com/track/2HCQNsYEhghKOW0Ti47QQ1) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Sick Of This](https://open.spotify.com/album/00KwLaA4RT15QJPBAEdaGJ) | 3:13 |
 | 41 | [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 |
-| 42 | [East End Boys](https://open.spotify.com/track/00nnljM2ZxydI3M7CgNTK4) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [East End Boys](https://open.spotify.com/album/7BDiM9iqKeVx14t6LlSU8a) | 2:55 |
+| 42 | [East End Boys](https://open.spotify.com/track/74yk8YDE3W3resiiTPhE9i) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [East End Boys](https://open.spotify.com/album/0oMtOwuEVMmUz6ED5ZhHAn) | 2:55 |
 | 43 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 |
 | 44 | [bLeSs uR hEaRt](https://open.spotify.com/track/5dUgbxgqNmCBSmpH5GqKbD) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/7GDQZo95yvUhGpYCeEWYuU) | 3:11 |
 | 45 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 49 | [Bathroom Floor](https://open.spotify.com/track/1m7lgJNH3l3vOm6DVs5QpZ) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Bathroom Floor](https://open.spotify.com/album/0lz6NWWx2xScDcqoB9R8PY) | 2:32 |
 | 50 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 |
 
-Snapshot ID: `MCxiM2U1ZDNjMjU0OGM3MjA1ZmZiMDM0ZWQwOTIwOGRiMjljYWI5NDQx`
+Snapshot ID: `MCxjMDU3YzJhNDNmYWMxODA0NDk5YTg1M2IxODY3YjY1ZmFkOTk4NGRm`

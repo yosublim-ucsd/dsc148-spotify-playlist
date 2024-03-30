@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Adrian Khalif, Juicy Luicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,756 likes - 76 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,345 likes - 76 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 75 | [Mengapa](https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Mengapa](https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82) | 4:23 |
 | 76 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 |
 
-Snapshot ID: `MCwxN2YyMjFjMDk5NDQxNzVlYTEyMmMzZjEyNjQ0ZDdmMDNkMTBmOTY2`
+Snapshot ID: `MCwyMzM0ODI4ODcxYWVkZDU5M2M3ODk5NzQ4MDZhODdkMjAzMzJhNGRj`

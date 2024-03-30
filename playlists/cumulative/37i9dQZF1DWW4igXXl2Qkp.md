@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Anycia
 
-1,122 songs - 2 day 0 hr 43 min
+1,123 songs - 2 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Gifted](https://open.spotify.com/track/54Xc1XEgM7PQICYfgQsgt4) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [Gifted](https://open.spotify.com/album/1onhB0kvvPOjMIfFzLEeN2) | 2:29 | 2022-08-03 | 2022-09-09 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-21 |  |
 | [Girls Like](https://open.spotify.com/track/1MC2PyCnryX9usL61ANfSR) | [AR](https://open.spotify.com/artist/6ipxF9x7clyffPiEZYHfsi) | [Welcome To The Show \(Scene 3\)](https://open.spotify.com/album/0uM8Kj6UtqsIAvLw7W9Cfx) | 3:19 | 2022-08-24 | 2022-10-06 |
+| [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 | 2024-03-29 |  |
 | [Glory](https://open.spotify.com/track/0zQanYPZqLB3urQUGg7SCn) | [YONAS](https://open.spotify.com/artist/6gWsNpg9lhVbimwQ8bP5K1), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Glory with John Splithoff](https://open.spotify.com/album/0fb03AL5QrAtohLtvc6K53) | 3:17 | 2021-12-01 | 2022-01-14 |
 | [GML](https://open.spotify.com/track/2KtOdyy1demXgavVpzs5ca) | [Ehmji](https://open.spotify.com/artist/06OPSor1piYJUyL1xO7dgR), [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz) | [GML](https://open.spotify.com/album/4Toe6mECGN4Fa2tEMqyEdz) | 2:51 | 2021-12-01 | 2022-01-14 |
 | [GO CRAZY](https://open.spotify.com/track/1YEKGzYDSlG0Mg4ddeRdlD) | [StuInTheStu](https://open.spotify.com/artist/0d7oYobRNjWOVE00INQDwL), [osmkapo](https://open.spotify.com/artist/2jvJOHva6WwWiN0MYyfOKJ) | [RETRO RAGE](https://open.spotify.com/album/6weqReRHd3DoNsSBRMxTL8) | 2:06 | 2023-11-15 | 2023-11-30 |

@@ -4,7 +4,7 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-189 songs - 9 hr 5 min
+190 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Heroes](https://open.spotify.com/track/7JVDyzY0i7zmuQRTaKnyo5) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Heroes](https://open.spotify.com/album/1cEP1LokjlwjlK8rS6HYnS) | 2:30 | 2022-04-21 | 2022-07-01 |
 | [Hey Mama](https://open.spotify.com/track/21d8QAY4mcmtSvJsPV48iM) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Hey Mama](https://open.spotify.com/album/0R8u1R1nBaz9VZIZ2BXomo) | 2:41 | 2022-04-14 | 2022-05-18 |
 | [High On You \- dEVOLVE Remix](https://open.spotify.com/track/3saz9bCErSnjxUtebvPuqH) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf), [dEVOLVE](https://open.spotify.com/artist/6kLN4GaYwfWUe0A4cnNS6d) | [High On You \(dEVOLVE Remix\)](https://open.spotify.com/album/5IZCd2boKYtqzWc8MIrSE9) | 4:20 | 2022-04-14 | 2022-07-02 |
-| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 | 2024-03-28 |  |
+| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 | 2024-03-28 |  |
+| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 | 2024-03-28 | 2024-03-30 |
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2022-04-14 |  |
 | [Hooked \(Hot Stuff\)](https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Hooked \(Hot Stuff\)](https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq) | 2:51 | 2023-02-09 | 2023-04-03 |
 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 | 2023-05-11 | 2023-08-26 |

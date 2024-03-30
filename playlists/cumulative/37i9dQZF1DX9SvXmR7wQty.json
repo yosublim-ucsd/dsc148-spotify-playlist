@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: P'tit Belliveau",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Laurence Nerbonne",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 176040,
       "name": "_jun perseides",
       "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 254773,
       "name": "_mar le temps des fleurs",
       "url": "https://open.spotify.com/track/18vjlV9mj6tYB6dPxPozuS"
@@ -1174,6 +1174,24 @@
       "duration_ms": 199899,
       "name": "A toi",
       "url": "https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f"
+    },
+    {
+      "album": {
+        "name": "Accros au danger",
+        "url": "https://open.spotify.com/album/5gJTHu8d1TKftds8XTuVMg"
+      },
+      "artists": [
+        {
+          "name": "Radiant Baby",
+          "url": "https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158990,
+      "name": "Accros au danger",
+      "url": "https://open.spotify.com/track/3lND2zJZoRWVMGf64mlXVQ"
     },
     {
       "album": {
@@ -5828,7 +5846,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 136013,
       "name": "C'est pas ce que tu penses",
       "url": "https://open.spotify.com/track/0Sbmsr53cUNNl6H2n4k3g2"
@@ -5868,7 +5886,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 196572,
       "name": "C'est pire et c'est mieux",
       "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
@@ -7555,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "Virer nos vies",
+        "url": "https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162106,
+      "name": "Cinq minutes pile",
+      "url": "https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS"
+    },
+    {
+      "album": {
         "name": "Cin\u00e9ma Paradiso",
         "url": "https://open.spotify.com/album/3AVGGrhhe8A256seUvvhhL"
       },
@@ -8234,7 +8270,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 189080,
       "name": "Comfy",
       "url": "https://open.spotify.com/track/0gPL03fI5mxdNLrQv59qZ6"
@@ -12338,7 +12374,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 215346,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6Veq163ZF7hLuBPJAurdlH"
@@ -13776,6 +13812,28 @@
       "duration_ms": 189453,
       "name": "Face ou pile",
       "url": "https://open.spotify.com/track/1NQklHMEA7SjJCd1QYPKSl"
+    },
+    {
+      "album": {
+        "name": "BOYZ",
+        "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Facile",
+      "url": "https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6"
     },
     {
       "album": {
@@ -22325,6 +22383,24 @@
     },
     {
       "album": {
+        "name": "La montagne et l\u2019art\u00e9fact",
+        "url": "https://open.spotify.com/album/34ySRLmeltx7Xg9FJMYeiV"
+      },
+      "artists": [
+        {
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404876,
+      "name": "La montagne et l\u2019art\u00e9fact",
+      "url": "https://open.spotify.com/track/1SFZKIfalL70xQCMGgudqM"
+    },
+    {
+      "album": {
         "name": "La mort du Rock'N'Roll",
         "url": "https://open.spotify.com/album/5o8r3wpjZPNHnDXJ9MeknX"
       },
@@ -27632,7 +27708,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 190761,
       "name": "Matcha Queen",
       "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
@@ -30870,6 +30946,24 @@
       "duration_ms": 208698,
       "name": "On br\u00fblera - Spotify Singles",
       "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
+    },
+    {
+      "album": {
+        "name": "Le ciel est beau regarde les nuages",
+        "url": "https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81"
+      },
+      "artists": [
+        {
+          "name": "Laurence Nerbonne",
+          "url": "https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199173,
+      "name": "On danse encore",
+      "url": "https://open.spotify.com/track/2sjPQVA7ytxbASh6ikPpI6"
     },
     {
       "album": {
@@ -35839,6 +35933,24 @@
     },
     {
       "album": {
+        "name": "Recommence-moi",
+        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+    },
+    {
+      "album": {
         "name": "Recuerdo",
         "url": "https://open.spotify.com/album/6AWsIZ9x7uwfLpGbhc35WQ"
       },
@@ -36804,7 +36916,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 206259,
       "name": "Rouge \u00e0 l\u00e8vres",
       "url": "https://open.spotify.com/track/0HgHk6fXRi0CuYnhahRtxH"
@@ -37163,6 +37275,24 @@
     },
     {
       "album": {
+        "name": "R\u00eave le fun",
+        "url": "https://open.spotify.com/album/5C7d50ode6n6laOBx2w775"
+      },
+      "artists": [
+        {
+          "name": "Larynx",
+          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196128,
+      "name": "R\u00eave le fun",
+      "url": "https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu"
+    },
+    {
+      "album": {
         "name": "R\u00eaver \u00e9veill\u00e9",
         "url": "https://open.spotify.com/album/0DsxTiPIEpT8mNtQgCoUu1"
       },
@@ -37502,7 +37632,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 216209,
       "name": "Salut Cowboy",
       "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
@@ -39000,7 +39130,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 389973,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/56bIoCRznztKCfrldIPcSR"
@@ -39946,6 +40076,24 @@
       "duration_ms": 175240,
       "name": "Suis-moi (feat. Ninho)",
       "url": "https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0"
+    },
+    {
+      "album": {
+        "name": "Virer nos vies",
+        "url": "https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222746,
+      "name": "Sumerset",
+      "url": "https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ"
     },
     {
       "album": {

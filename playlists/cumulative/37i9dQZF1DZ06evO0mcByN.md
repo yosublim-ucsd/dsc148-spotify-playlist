@@ -4,7 +4,7 @@
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-43 songs - 3 hr 18 min
+44 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Fogo](https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fogo](https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W) | 4:40 | 2023-07-09 |  |
 | [Fogo e Glória](https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 4:53 | 2023-07-09 |  |
 | [Fogo e Glória / O Que Sua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 5:05 | 2023-07-09 | 2024-01-08 |
+| [Frente a Frente Com Deus](https://open.spotify.com/track/3DFZHSJMueqTwp4fU3InaY) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 4:38 | 2024-03-29 |  |
 | [Frente A Frente Com Deus \(Acústico\)](https://open.spotify.com/track/6EUFfvzF68RouKfxuEJRUc) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Frente A Frente Com Deus \(Acústico\)](https://open.spotify.com/album/0Hwrf0mtEhOQqfHQGcrxYM) | 4:53 | 2024-03-13 | 2024-03-16 |
 | [Grito Aflito](https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E) | [Rayssa Peres](https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Grito Aflito](https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P) | 4:40 | 2023-07-09 |  |
 | [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 | 2023-07-09 |  |
@@ -38,7 +39,7 @@
 | [O Desfecho](https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 5:08 | 2023-12-13 |  |
 | [O Jogo Virou](https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:32 | 2023-07-09 |  |
 | [Plano Original](https://open.spotify.com/track/1zNWH6AFga2dG0L6uiW7Nf) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 4:49 | 2023-07-09 | 2023-12-14 |
-| [Por Trás Desse Silêncio](https://open.spotify.com/track/2f6WHHvOdqAcLbz6CsJf2u) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 4:30 | 2023-07-09 |  |
+| [Por Trás Desse Silêncio](https://open.spotify.com/track/2f6WHHvOdqAcLbz6CsJf2u) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 4:30 | 2023-07-09 | 2024-03-30 |
 | [Presença](https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Presença](https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t) | 5:56 | 2023-07-09 |  |
 | [Quem Nunca](https://open.spotify.com/track/77mLeysADp9ToGlEPsfaqD) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 3:58 | 2023-07-09 |  |
 | [Quem é Você](https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Quem é Você](https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX) | 4:00 | 2023-07-09 |  |

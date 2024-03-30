@@ -4,7 +4,7 @@
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-50 songs - 2 hr 56 min
+52 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [First Time](https://open.spotify.com/track/2xdCrFLOOJ7VCvvaGAjnQh) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [First Time](https://open.spotify.com/album/3VOetHtDXdOu2ScKlUlyd3) | 2:43 | 2021-06-01 | 2022-11-13 |
 | [First Time](https://open.spotify.com/track/71TiQOgPAUZzn3BEKS4Ku4) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/3sgLYw5U3KArFr36kFCyEr) | 2:43 | 2021-06-01 | 2022-07-29 |
 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 | 2021-06-01 |  |
-| [Good Man](https://open.spotify.com/track/4Nzqf2Fx6oIcJOEsRBnjbI) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:05 | 2021-06-01 |  |
+| [Good Man](https://open.spotify.com/track/2yyGpeOpi3GsXwandnuYXw) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l) | 4:05 | 2021-06-01 |  |
+| [Good Man](https://open.spotify.com/track/4Nzqf2Fx6oIcJOEsRBnjbI) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:05 | 2021-06-01 | 2024-03-30 |
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2021-06-01 |  |
 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2021-06-01 |  |
 | [look up](https://open.spotify.com/track/1XO1GBR7sTLAFGHKWuCfTM) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 | 2021-06-01 | 2022-11-13 |
@@ -38,7 +39,8 @@
 | [Man In Me](https://open.spotify.com/track/6qNtretPY2YmajrAdNQxmP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Man In Me](https://open.spotify.com/album/1wDnYhK35LSEuYIlc7gguF) | 4:48 | 2021-06-01 |  |
 | [Middle of Love](https://open.spotify.com/track/12f5yNRJaFUHWO25n3r9iG) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Middle of Love](https://open.spotify.com/album/2u66BiWE50bX5HDSwkjnjh) | 3:20 | 2021-06-01 |  |
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2021-06-01 |  |
-| [Mr\. Atlanta](https://open.spotify.com/track/2FpZnYTFkV08iL2cyBf2LU) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 3:36 | 2021-06-01 |  |
+| [Mr\. Atlanta](https://open.spotify.com/track/2FpZnYTFkV08iL2cyBf2LU) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 3:36 | 2021-06-01 | 2024-03-30 |
+| [Mr\. Atlanta](https://open.spotify.com/track/5UclTzWoEZvptwAWQp5Umy) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l) | 3:36 | 2021-06-01 |  |
 | [Nashville](https://open.spotify.com/track/4k0AmP88xKlU34h8IIAvNV) | [Little Bandit](https://open.spotify.com/artist/3ZcpzDeDdqeqO3aWU3IN4y) | [Breakfast Alone](https://open.spotify.com/album/6vRs199Mg5jUHA4W0tfXPV) | 3:52 | 2021-06-01 |  |
 | [Neon Cross](https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 4:24 | 2021-06-01 |  |
 | [No Shade](https://open.spotify.com/track/0QZdish4jOTLbnMQNICsIr) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Sunroof](https://open.spotify.com/album/6l77h0TCCEIOl49SS3hwT6) | 2:48 | 2021-06-01 | 2023-11-04 |

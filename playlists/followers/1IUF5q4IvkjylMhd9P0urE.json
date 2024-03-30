@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 15661,
+  "2024-03-30": 15665,
   "date_first_scraped": "2022-06-10",
   "description": "Our favourite new music, updated monthly by the XL team. ",
   "name": "XL Play",
@@ -1787,6 +1787,24 @@
       "duration_ms": 138000,
       "name": "candy reign (!)",
       "url": "https://open.spotify.com/track/4fX5F00lmUGW1tnM4DHvzd"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
     },
     {
       "album": {

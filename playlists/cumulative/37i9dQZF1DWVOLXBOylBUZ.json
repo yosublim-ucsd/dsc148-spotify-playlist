@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Ingratax.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Alvarito Diaz y Rauw Alejandro.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 153870,
       "name": "BLINGBLING",
       "url": "https://open.spotify.com/track/446cLutodT8bidqRX8vf3q"
@@ -2782,6 +2782,28 @@
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
+    },
+    {
+      "album": {
+        "name": "BYAK",
+        "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "BYAK",
+      "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
     },
     {
       "album": {
@@ -6462,7 +6484,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 139260,
       "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr"
@@ -9556,6 +9578,48 @@
       "duration_ms": 165408,
       "name": "Las de Octubre",
       "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
+    },
+    {
+      "album": {
+        "name": "The Academy: Segunda Misi\u00f3n",
+        "url": "https://open.spotify.com/album/7HPtZ8XfUirtDilX4LZ9Cg"
+      },
+      "artists": [
+        {
+          "name": "The Academy: Segunda Misi\u00f3n",
+          "url": "https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260534,
+      "name": "LATTE (feat. Maria Becerra)",
+      "url": "https://open.spotify.com/track/4G3noMmipB4pOuVwbjkbov"
     },
     {
       "album": {
@@ -12959,6 +13023,28 @@
     },
     {
       "album": {
+        "name": "Otra Nota",
+        "url": "https://open.spotify.com/album/1npA50vCSHpd5r7EDzbSwI"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164150,
+      "name": "Otra Nota",
+      "url": "https://open.spotify.com/track/5MmtCMTozciY2odNvAEdJ3"
+    },
+    {
+      "album": {
         "name": "Otra Vez Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/4ZlHlbUReIOc1Cw6oudAgE"
       },
@@ -13906,7 +13992,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 147228,
       "name": "PLEBITA",
       "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
@@ -13988,7 +14074,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 228657,
       "name": "POLVO ROSA (feat. Snow Tha Product)",
       "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
@@ -14817,6 +14903,28 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141031,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
+    },
+    {
+      "album": {
         "name": "ROMANCE",
         "url": "https://open.spotify.com/album/73t2H8Yp94pAfzya9QNkEQ"
       },
@@ -15022,7 +15130,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 160040,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/53ktaKMeNnzi57L9c4WxlU"
@@ -19160,6 +19268,28 @@
       "duration_ms": 211526,
       "name": "Zelle",
       "url": "https://open.spotify.com/track/7MuD8KuyemFZEgSDdswWYj"
+    },
+    {
+      "album": {
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "album": {

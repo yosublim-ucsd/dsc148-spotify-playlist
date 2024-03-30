@@ -2,9 +2,9 @@
 
 ### [Influence 💅 Hot Girl Era 2024](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
 
-> The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] \| Women's History Month \| Cover: Flo Milli
+> The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]
 
-438 songs - 21 hr 42 min
+443 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 | 2023-12-08 |  |
 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 | 2023-12-08 |  |
 | [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-24 |  |
+| [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 | 2024-03-29 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-06-03 | 2023-07-29 |
 | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y) | 3:12 | 2022-06-03 | 2023-07-29 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2022-08-02 |
@@ -138,6 +139,7 @@
 | [Faces Change](https://open.spotify.com/track/1oC5DiAccEfq3fXUw7mDvY) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Playground Antics](https://open.spotify.com/album/3FBT0vTCbLIYCk9NIln76M) | 3:35 | 2022-06-03 | 2023-03-18 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-06-03 | 2023-07-29 |
 | [Fashion Icon](https://open.spotify.com/track/69bzIFqUFyIjeFIe45jFni) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Fashion Icon](https://open.spotify.com/album/3q4wWa29EzzrMBcvxd6cos) | 2:09 | 2024-02-23 |  |
+| [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-03-29 |  |
 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 |  |
 | [Fire](https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 2:28 | 2022-06-03 | 2022-11-05 |
 | [Fireball Whiskey](https://open.spotify.com/track/4G2EXo1ZY5ql0XcViRrXF6) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Fireball Whiskey](https://open.spotify.com/album/54He2QNHwh79iYkkgAfQTO) | 3:29 | 2023-08-25 |  |
@@ -202,6 +204,7 @@
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2022-06-03 | 2023-07-29 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-04 |  |
 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 |  |
+| [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-03-29 |  |
 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 | 2023-05-05 |  |
 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 | 2024-01-26 |  |
 | [In Your Hands \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/52pTh7e1s3Sy9wjpuZv1eo) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hot Commodity](https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl) | 2:21 | 2023-12-08 |  |
@@ -214,6 +217,7 @@
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-03-31 |  |
 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 | 2023-12-08 |  |
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-12 |  |
+| [JOLENE](https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:09 | 2024-03-29 |  |
 | [Just Met](https://open.spotify.com/track/0YWbtkRY5BWqNSYWcb3aBW) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Just Met](https://open.spotify.com/album/1QRmkbgjBnMudIbFndKyJ8) | 2:33 | 2022-11-11 | 2023-07-29 |
 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 | 2022-06-03 | 2023-07-29 |
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2022-12-09 |  |
@@ -386,7 +390,8 @@
 | [Taste](https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste](https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A) | 3:06 | 2022-06-24 | 2023-03-25 |
 | [Technique \(Sprite Limelight\)](https://open.spotify.com/track/0E4Y7tBeOg2EhVW8y3sdSK) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Technique \(Sprite Limelight\)](https://open.spotify.com/album/2fXNBsNfcZUTQmoDpvXzy1) | 2:23 | 2023-08-18 |  |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-19 | 2023-06-10 |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-12 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-12 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2024-03-29 |  |
 | [That's My Best Friend](https://open.spotify.com/track/56TmDxLFVk9FBLuEfqLIkR) | [Tokyo Vanity](https://open.spotify.com/artist/3tyNfmlL7wNE6zaVmTWmRZ) | [That's My Best Friend](https://open.spotify.com/album/5a9n8mJcr8NswZd4jSOM7v) | 3:30 | 2024-01-19 |  |
 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2022-06-03 | 2023-02-05 |
 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-05-19 |  |

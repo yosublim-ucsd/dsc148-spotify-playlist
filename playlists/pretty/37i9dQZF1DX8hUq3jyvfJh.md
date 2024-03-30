@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > co\-curadoria com IZA em celebração ao Mês Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,143 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,113 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 |
-| 2 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
+| 2 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 3 | [Maliciosa \- Ao Vivo](https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maliciosa \(Ao Vivo\)](https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E) | 2:47 |
 | 4 | [Antes de Tudo](https://open.spotify.com/track/1NBSSZmo54UOHhG02BqiY7) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 3:49 |
 | 5 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [A BRABA É ELA](https://open.spotify.com/track/0jCVZPKATio2VCF37Jf6O6) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA](https://open.spotify.com/album/1sLRI3xGm5m0Hf1gj5dWQc) | 2:22 |
 | 50 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
 
-Snapshot ID: `MCwwMWFkZDEwZTZjNTYxNjlkN2E3NjcyNzIyODRkZDIyYTBhNzcyMjIx`
+Snapshot ID: `MCxkM2Y2YTgzNTI0ZTFiNWNkOGU2Yjg1N2FlMjYwNGFkYTQyMmE4Yzc0`

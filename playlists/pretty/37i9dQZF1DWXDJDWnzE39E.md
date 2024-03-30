@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,643 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,017 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 35 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
 | 36 | [The Purge](https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:16 |
 | 37 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 |
-| 38 | [Abyss](https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD) | 6:44 |
+| 38 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
 | 39 | [WARZ0NE](https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WARZ0NE](https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn) | 2:38 |
-| 40 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
+| 40 | [Abyss](https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD) | 6:44 |
 | 41 | [not my problem](https://open.spotify.com/track/4FYk0LZ86J7DYUEBcs7e3G) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [life's a bitch..\. but it gets better](https://open.spotify.com/album/2bRpk2HmQS7y9SEyKnybUq) | 2:09 |
 | 42 | [Better Without You](https://open.spotify.com/track/11yL2znOQCOSNqiS7Sw6K1) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:05 |
 | 43 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 57 | [And So It Went \[Feat\. Tom Morello\]](https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 4:30 |
 | 58 | [Bring It On](https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:08 |
 | 59 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 |
-| 60 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 |
-| 61 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 |
+| 60 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 |
+| 61 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 |
 | 62 | [Brittle](https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:28 |
 | 63 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
 | 64 | [Broken](https://open.spotify.com/track/69BhJ2YVTYR5EltHFH2wfg) | [Volturian](https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ) | [Crimson](https://open.spotify.com/album/0WA5fU4NhSv5TDIs4tOR7F) | 3:39 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 66 | [21ST CENTURY BITCH](https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT](https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM) | 2:45 |
 | 67 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 |
 | 68 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
-| 69 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
-| 70 | [Bottom of a Bottle](https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Bottom of a Bottle](https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3) | 3:19 |
-| 71 | [Maverick](https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Maverick](https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ) | 3:34 |
-| 72 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 |
+| 69 | [Maverick](https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Maverick](https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ) | 3:34 |
+| 70 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
+| 71 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 |
+| 72 | [Bottom of a Bottle](https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Bottom of a Bottle](https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3) | 3:19 |
 | 73 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
 | 74 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 |
 | 75 | [Paralyzed](https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Paralyzed](https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ) | 3:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 |
 | 80 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
 
-Snapshot ID: `MCwwZWY0ZWIyY2Y1MTM1MmNkMTEyZWM1Njc1Yjk0MTJlMmQ1MDUyYzky`
+Snapshot ID: `MCxlZDg2NDEwMDZjMWI1ZDllNmY1N2I2YWQ5YWRiM2QzYTBhNzA0OTRl`

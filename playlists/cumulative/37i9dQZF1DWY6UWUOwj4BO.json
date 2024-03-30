@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Whatever (The Remixes)",
+        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225117,
+      "name": "Whatever (with Ava Max) - Acoustic",
+      "url": "https://open.spotify.com/track/2ItCGswdKXWP6fF5FZFFKe"
+    },
+    {
+      "album": {
         "name": "Where Are You Now (Acoustic)",
         "url": "https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH"
       },

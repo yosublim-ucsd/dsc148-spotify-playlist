@@ -1,13 +1,45 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 138166,
+  "num_followers": 138207,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2E1YzdlZDBhMzkyY2I3Y2JmNjRkODA2MzU5MzQzZmNkNmNmMDRk",
+  "snapshot_id": "MCw5MzAyMTE5Zjg0MjBiZDFlMTViOTgxNmNmNTFmZmVkZjgyNDQ5MDFh",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Ev'ry Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/5ILPIURAwoVIlnvcXjuAck"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 234777,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/2aSj7bfPQzvHArWqlZGY3L"
+    },
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
@@ -35,22 +67,6 @@
       "duration_ms": 267087,
       "name": "Good Nothin",
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1723,26 +1739,6 @@
       "duration_ms": 285602,
       "name": "Lonely House",
       "url": "https://open.spotify.com/track/39htlA0YRdydszy3Hnhjrt"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
-        "name": "Another Country",
-        "url": "https://open.spotify.com/album/2ZbxyblgaXN0hcVfZ7nFbE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Wilson",
-          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
-        },
-        {
-          "name": "Fabrizio Sotti",
-          "url": "https://open.spotify.com/artist/38cpDv3QaKLvDnNE54Oh0p"
-        }
-      ],
-      "duration_ms": 248969,
-      "name": "Another Country",
-      "url": "https://open.spotify.com/track/3mj0k9ZcgluVhku8LjHIhO"
     },
     {
       "added_at": "2023-01-20 05:00:00",

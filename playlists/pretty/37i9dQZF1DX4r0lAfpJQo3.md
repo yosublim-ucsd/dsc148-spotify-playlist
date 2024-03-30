@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 
 > All bad things must come to an end\. Listen to the music inspired by Breaking Bad, curated by Vince Gilligan and Thomas Golubić.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,109 likes - 62 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,179 likes - 62 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 | 10 | [Catch Yer Own Train](https://open.spotify.com/track/1NUGyVZNZ8smlhXlP3VecK) | [The Silver Seas](https://open.spotify.com/artist/31ooPZ5zIIegWN9rL5QSq0) | [High Society](https://open.spotify.com/album/1NmLNiP712wCaaDHl4ErHP) | 3:06 |
 | 11 | [Who's Gonna Save My Soul \- Original Mix](https://open.spotify.com/track/4qiBDlMzW2vTK8dJKw7xD3) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [The Odd Couple](https://open.spotify.com/album/3R2TOuSPrGi3jNafJNFixD) | 3:15 |
 | 12 | [Anyway The Wind Blows](https://open.spotify.com/track/3dygHSr6gI25idXCPJVKsT) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Okie](https://open.spotify.com/album/4AoZm62WXF3I0Rg1l6GCK6) | 3:22 |
-| 13 | [Red Moon](https://open.spotify.com/track/7HVkq2dNe3VfueG11Jb7qu) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [You & Me](https://open.spotify.com/album/7GfERejFDqmXppJ5ub2xwV) | 4:02 |
+| 13 | [Red Moon](https://open.spotify.com/track/36lXrktAAbTcmAsVP9dcGQ) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [You & Me](https://open.spotify.com/album/1ldF9hxaYcrQvvlIl5E4VY) | 4:02 |
 | 14 | [Feel Like Making Love](https://open.spotify.com/track/73bhgZZgIdQAeoKIZNSG0x) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [One](https://open.spotify.com/album/0Q1K5QNSkYQgnBOOwImTDp) | 6:39 |
 | 15 | [Waiting Around To Die](https://open.spotify.com/track/0AduS1e4FWNLdnUNmMwQQd) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Chinatown](https://open.spotify.com/album/3C8YdZjiQ4fwVDJUdfuXQV) | 5:14 |
 | 16 | [It's Such A Pretty World Today](https://open.spotify.com/track/0vFDwwQ1iJOto5vZvNHvzc) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Country, My Way](https://open.spotify.com/album/788nRRJQ2IVq20Isz3uWzu) | 2:48 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 | 61 | [El Paso](https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 4:19 |
 | 62 | [Baby Blue \- Remastered 2010](https://open.spotify.com/track/6S3JlDAGk3uu3NtZbPnuhS) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 3:37 |
 
-Snapshot ID: `MCw2OWNkMmYzNWE1ZGU3MWM3ZjM0M2VhZmNiMWVmMjFhMzc5NWQzN2Jk`
+Snapshot ID: `MCxlNjYyNDhhNWZjOGI0MmQ2YmE3NjI3NjY4MjY2NjhmMjQ1OTlhYzU1`

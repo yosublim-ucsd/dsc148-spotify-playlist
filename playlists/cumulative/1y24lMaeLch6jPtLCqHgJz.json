@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/1NZMme5AXFMvl8lxsbwPk6"
+      },
+      "artists": [
+        {
+          "name": "Jeckyll & Hyde",
+          "url": "https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/6xfQjv4RvP5DVaxYYZCRTV"
+    },
+    {
+      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/56cP0Lsv4FEo86w095msUN"
       },

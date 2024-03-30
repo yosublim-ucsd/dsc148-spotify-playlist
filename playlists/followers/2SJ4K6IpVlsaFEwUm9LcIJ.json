@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 18602,
+  "2024-03-30": 18614,
   "date_first_scraped": "2024-02-12",
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
   "name": "innocence and panic",
@@ -435,6 +435,24 @@
       "duration_ms": 169519,
       "name": "Dream police",
       "url": "https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3"
+    },
+    {
+      "album": {
+        "name": "Dribble Dribble",
+        "url": "https://open.spotify.com/album/1JWRaVRiOgvCGKOEhdW21v"
+      },
+      "artists": [
+        {
+          "name": "Amy O",
+          "url": "https://open.spotify.com/artist/6CMJF0sfcDB4ohajYpE9jb"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196020,
+      "name": "Dribble Dribble",
+      "url": "https://open.spotify.com/track/0gnJmxrfTJkUALVkMRyTTP"
     },
     {
       "album": {
@@ -1009,6 +1027,24 @@
       "duration_ms": 118105,
       "name": "Like Fire Like Ice",
       "url": "https://open.spotify.com/track/2J2Xzrf5nUnX3YZE6lPa8n"
+    },
+    {
+      "album": {
+        "name": "Tear Your Heart Out",
+        "url": "https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259976,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW"
     },
     {
       "album": {

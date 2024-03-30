@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 8,
+  "2024-03-30": 8,
   "date_first_scraped": "2023-05-22",
   "description": "Questionable in both morals and taste.",
   "name": "Questionable Bops",
@@ -39,6 +39,28 @@
       "duration_ms": 222216,
       "name": "134340 Pluto",
       "url": "https://open.spotify.com/track/4y68MbR4SBc8UcnvQgzvdA"
+    },
+    {
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Little Ricky ZR3",
+          "url": "https://open.spotify.com/artist/6GaslxycqT27V8q2H3yZ7x"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159832,
+      "name": "1993 (feat. Little Ricky ZR3)",
+      "url": "https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > CYRIL au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,176 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,264 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 49 | [Strangers](https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Strangers](https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx) | 3:09 |
 | 50 | [It's a Fine Day](https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [It's a Fine Day](https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk) | 2:32 |
 
-Snapshot ID: `MCw0ZDVmMmMzODBmNzk4YmViZDVmZDQxZDQ3NjFhM2U5ZjlkMTVkMGJh`
+Snapshot ID: `MCwzMDI5NTcxMTBmNjA0ZTc1ODg3NjAzNGE5OWU5ZjUzYzAwNmRmMjg2`

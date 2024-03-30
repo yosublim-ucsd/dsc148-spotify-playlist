@@ -1149,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50721,
+      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
+      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
+    },
+    {
+      "album": {
         "name": "Smoke It (Demo)",
         "url": "https://open.spotify.com/album/3JLtWB0tw1aMnqO9zaMtaY"
       },

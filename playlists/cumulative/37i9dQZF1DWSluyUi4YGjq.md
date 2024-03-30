@@ -4,7 +4,7 @@
 
 > The state of shoegaze\. Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-579 songs - 1 day 13 hr 40 min
+585 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Chance](https://open.spotify.com/track/2ULRusDLaLR8Di9kAt3JC2) | [Mahogany](https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq) | [The Dream of a Modern Day](https://open.spotify.com/album/5EuUAHaqEzJ6IrBjbdYlGK) | 4:15 | 2021-10-19 | 2022-07-28 |
 | [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 | 2023-05-19 | 2023-05-23 |
 | [changer](https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:28 | 2023-05-22 |  |
+| [Cherish It](https://open.spotify.com/track/7v4H2PrfoeAJGq0FW5yt9y) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Cherish It](https://open.spotify.com/album/3tLXVQzdlaAHWMu6Zp1HCI) | 3:09 | 2024-03-29 |  |
 | [Cherry\-Cola Abyss](https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 5:56 | 2021-10-19 | 2022-12-16 |
 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 | 2022-12-12 |  |
 | [Chinatown](https://open.spotify.com/track/0UQc1EkgxdIB3nGVTuAXKI) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/2UoAYpQzSNLuW47goFJE5x) | 3:18 | 2021-10-19 | 2022-07-27 |
@@ -193,6 +194,7 @@
 | [Enough for you](https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Enough for you](https://open.spotify.com/album/2Bwu2eMLYU42jisflVhIvJ) | 3:05 | 2024-03-18 |  |
 | [ERROR](https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [eye cue rew see](https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0) | 2:58 | 2022-12-15 | 2023-06-08 |
 | [etérea](https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [sky of fading lights](https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N) | 8:30 | 2023-01-04 | 2023-02-22 |
+| [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 | 2024-03-29 |  |
 | [Everything at Once](https://open.spotify.com/track/4irUbLOpLME1weJjG6hoEJ) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Everything at Once](https://open.spotify.com/album/5TBEBYAXEMrIKMBZKxGyYl) | 3:10 | 2023-05-19 |  |
 | [Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Ooh Rap I Ya](https://open.spotify.com/album/2kvz9frUn3LUK83imD2BQS) | 2:51 | 2023-07-28 | 2024-02-24 |
 | [Eyeliner](https://open.spotify.com/track/33wLXkDuB4FQRiQDlRFrDa) | [REV](https://open.spotify.com/artist/6LPhim0qQ8EHh55uw06umD) | [Eyeliner](https://open.spotify.com/album/1kaXsIgaSXo0SOl48RiBk7) | 4:00 | 2023-04-14 | 2023-09-30 |
@@ -263,6 +265,7 @@
 | [highschool](https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [highschool](https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F) | 3:27 | 2023-08-11 | 2023-09-02 |
 | [Hollowers](https://open.spotify.com/track/6tGPZ8kQ1ZzqGFdlr3VgJT) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Hollowers](https://open.spotify.com/album/62iB6VwTRBzZUwRoC8Iksk) | 3:34 | 2021-10-19 | 2022-07-29 |
 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 | 2021-10-19 | 2023-06-08 |
+| [How Far](https://open.spotify.com/track/1YQvEi4W6aecoTS5fosMj8) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Life on the Lawn](https://open.spotify.com/album/257zpJKGcC32si5BIYzbHV) | 2:27 | 2024-03-29 |  |
 | [How to Hold a Knife](https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [How to Hold a Knife](https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH) | 2:56 | 2023-09-29 | 2023-12-12 |
 | [hua\(3\)](https://open.spotify.com/track/57znaLsNhGo2dNMK2oPiZu) | [Eupholks](https://open.spotify.com/artist/2yYhno6kAd33lPC1lLyS1o) | [hua\(3\)](https://open.spotify.com/album/60fPszZFgxX6fpYz3vYINi) | 3:00 | 2022-03-11 | 2022-08-03 |
 | [I Am You](https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Heart Under](https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb) | 3:50 | 2023-02-17 | 2023-09-30 |
@@ -316,6 +319,7 @@
 | [kmart amen break](https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [s](https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV) | 2:40 | 2024-02-23 |  |
 | [krillin](https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h), [SUN ORGAN](https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp) | [krillin](https://open.spotify.com/album/15V7baihpBBfFTTtxxOmgB) | 2:15 | 2024-03-08 |  |
 | [Lambspring](https://open.spotify.com/track/0Uz7iEsz2mME7o48aXcasP) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Dissolution Wave](https://open.spotify.com/album/0XABQZMWdLKgGfpFcsmBjR) | 5:20 | 2023-02-17 | 2023-07-29 |
+| [last dance](https://open.spotify.com/track/0vwA6PxCt8Bs0Ltl9ZTbVU) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [SECRET LETTERS](https://open.spotify.com/album/18tFENio227dGEi85FL6Ko) | 2:07 | 2024-03-29 |  |
 | [Last Frontier](https://open.spotify.com/track/16kSF0h2frEYF7ocOy9HR8) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Last Frontier](https://open.spotify.com/album/0BNA6SBUu1YJiaof5vlRGD) | 4:09 | 2024-02-16 | 2024-03-19 |
 | [Last Night's Haze](https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV) | [Star Horse](https://open.spotify.com/artist/1zC23cF77Lj7ukFsy19nor) | [Devour](https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM) | 3:29 | 2022-12-15 | 2023-06-24 |
 | [Lay Low](https://open.spotify.com/track/0cH8U1daDLdpioFHXzbK3S) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/2rAaK13iXekyefycEQBIxX) | 2:22 | 2023-04-14 | 2023-09-18 |
@@ -413,6 +417,7 @@
 | [Plague X](https://open.spotify.com/track/7caVWx4BPpENLeZWrVr8T5) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa), [Vyva Melinkolya](https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX) | [Plague X](https://open.spotify.com/album/49ctalPko0phMivIeqY7D0) | 4:14 | 2023-05-19 | 2023-08-05 |
 | [Play Ground](https://open.spotify.com/track/36nLNoWO8DiBKVQgW6PELj) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Sterling Murmuration](https://open.spotify.com/album/35wNrUFFysfWtprYwpAZTA) | 4:53 | 2022-09-29 | 2022-10-28 |
 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 | 2022-12-15 | 2023-01-14 |
+| [Portland Rocks](https://open.spotify.com/track/28z4ex2Y5VJpY7vbjiOEdj) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Interplay](https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld) | 5:02 | 2024-03-29 |  |
 | [Press](https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu) | 3:31 | 2021-10-19 | 2022-12-01 |
 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 | 2021-10-19 | 2023-05-10 |
 | [Pressure](https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pressure](https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU) | 2:53 | 2023-04-14 | 2023-11-07 |
@@ -563,6 +568,7 @@
 | [While My Waves Wonder](https://open.spotify.com/track/5ZIspcdRpVEp02SIagDyP0) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [While My Waves Wonder](https://open.spotify.com/album/14y51JzZl0GaKz19SNGcJM) | 4:25 | 2021-10-19 | 2022-07-28 |
 | [While My Waves Wonder](https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [For you, Adroit it but soft](https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm) | 4:25 | 2022-01-14 | 2023-01-13 |
 | [Whirring](https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 6:47 | 2021-10-19 | 2023-06-08 |
+| [White Dress](https://open.spotify.com/track/1xt8vPlJb4orDeKRJ0QMLZ) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [White Dress](https://open.spotify.com/album/7wlnPpcLXA2yUl2flq9a9U) | 4:33 | 2024-03-29 |  |
 | [white lies](https://open.spotify.com/track/3lDy1Sju7eDqMtTIzbOu4v) | [kenesukoh](https://open.spotify.com/artist/7rLnYGZPu6KJ3IovPMYaBr), [flyingfish](https://open.spotify.com/artist/2H1qAWvpGO8W5iGjmyA6Jt) | [white lies](https://open.spotify.com/album/2rGnMJlNVjHeXp5WHTVWuq) | 2:38 | 2023-08-04 | 2023-08-19 |
 | [White Sneakers](https://open.spotify.com/track/4KIcY3th1XcJVMymflaFFc) | [Spunsugar](https://open.spotify.com/artist/2NDWJvRwXGTFBngWiSNLu9) | [White Sneakers](https://open.spotify.com/album/0pH6jvAR3LrCGQFL5AH5ts) | 2:53 | 2023-11-10 | 2024-03-19 |
 | [Who's Counting](https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [11•11•11](https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ) | 4:01 | 2023-02-09 | 2023-03-25 |

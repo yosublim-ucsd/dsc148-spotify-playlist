@@ -3831,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/22y2KgB85sd5ST2MkFIckw"
+      },
+      "artists": [
+        {
+          "name": "William Stridh",
+          "url": "https://open.spotify.com/artist/5xDae0zB3YLr6lYvlMdpbR"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190464,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/2Mf5xOPBxNKWaGuq2hQbEM"
+    },
+    {
+      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/0APh33IURQVK8qhsKVxq7g"
       },
@@ -7402,7 +7420,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 191989,
       "name": "HEJD\u00c5(:",
       "url": "https://open.spotify.com/track/0KGlp2zt6TB11PyaEIObiG"
@@ -12098,7 +12116,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 240697,
       "name": "Mitt inre barn",
       "url": "https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX"
@@ -20968,7 +20986,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 122333,
       "name": "\u00c5NGRA",
       "url": "https://open.spotify.com/track/396pTsIds5nlqE93IZhFp7"

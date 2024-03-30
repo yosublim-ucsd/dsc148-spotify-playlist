@@ -2,14 +2,15 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover: Bon Jovi
+> The best and latest rock and alternative\. Cover: Kings Of Leon
 
-123 songs - 7 hr 20 min
+125 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$20](https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:20 | 2023-11-03 | 2024-02-24 |
 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-11-03 |  |
+| [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-29 |  |
 | [Afterlife](https://open.spotify.com/track/0mxw4ASEKtasJM6cSGPpmr) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [The Adventures Of Ben Blank](https://open.spotify.com/album/5RF39fpchz6q2u2l3DlXkS) | 3:33 | 2024-01-26 |  |
 | [All I Do](https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 3:41 | 2023-11-03 |  |
 | [Amphetamine Smiles](https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Amphetamine Smiles](https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY) | 3:05 | 2023-11-03 | 2024-01-27 |
@@ -42,7 +43,7 @@
 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 | 2023-11-03 |  |
 | [Goon](https://open.spotify.com/track/18oSPQAIxNaiFYE1NX1AEd) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Goon](https://open.spotify.com/album/76rKFv7XNNNMe5m9Dni8ec) | 3:09 | 2024-03-08 |  |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-11-03 |  |
-| [Heartbreaker](https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Heartbreaker](https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba) | 3:28 | 2024-02-09 |  |
+| [Heartbreaker](https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Heartbreaker](https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba) | 3:28 | 2024-02-09 | 2024-03-30 |
 | [Heaven's Got Nothing On You](https://open.spotify.com/track/079lmD7ATOly8ZGWcjPRPq) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Heaven's Got Nothing On You](https://open.spotify.com/album/560irJM1YXC38uQRTBd5ck) | 3:03 | 2024-03-01 |  |
 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 | 2024-03-08 |  |
 | [Here and Now](https://open.spotify.com/track/5mx8Ka1gIGwIS4VIaCYRtR) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Here and Now](https://open.spotify.com/album/4M0F46mBr3ZNvE660SCBiC) | 3:31 | 2023-11-03 | 2024-01-27 |
@@ -97,8 +98,9 @@
 | [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 | 2023-11-03 | 2024-03-16 |
 | [Somebody Else](https://open.spotify.com/track/7oPx8sHqaifEvFlqQ48CB2) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Somebody Else](https://open.spotify.com/album/475WKj7pnoZ1bjU9JLwcla) | 2:53 | 2023-11-03 |  |
 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 | 2023-11-03 |  |
-| [Someone Else's Feelings](https://open.spotify.com/track/42AJDcEhzhNG0E7o59bG1D) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Someone Else's Feelings](https://open.spotify.com/album/6YKSgLm3rXW9i9jiiBkjDW) | 3:13 | 2023-11-03 |  |
+| [Someone Else's Feelings](https://open.spotify.com/track/42AJDcEhzhNG0E7o59bG1D) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Someone Else's Feelings](https://open.spotify.com/album/6YKSgLm3rXW9i9jiiBkjDW) | 3:13 | 2023-11-03 | 2024-03-30 |
 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 | 2023-12-08 |  |
+| [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 | 2024-03-29 |  |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2023-11-03 |  |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-11-03 |  |
 | [Suckerpunch](https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Suckerpunch](https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03) | 3:01 | 2024-03-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33 likes - 44 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 3 | [Blue Blood](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:47 |
 | 4 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
 | 5 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 |
-| 6 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
-| 7 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 |
+| 6 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 |
+| 7 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
 | 8 | [Golden](https://open.spotify.com/track/79q5dkBOLtbcMvaItRLUp7) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Golden](https://open.spotify.com/album/3wOSF1SdKLfYo0u5VB89UM) | 3:22 |
 | 9 | [Go The Distance](https://open.spotify.com/track/5vFn0vKhnaDLk1gmj7ZA0i) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:47 |
 | 10 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 43 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 44 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Mjg1Mjc5NTAsMDAwMDAwMDBmZmRjYjJlN2RlY2EwMTAwOGU1YTRmZjgyNDIyNzQwYg==`
+Snapshot ID: `Mjg1MjkzOTAsMDAwMDAwMDAyNzNlMzU0MWJmMDY1OTc5OTdiNGRmODE0OGI5YTk3Mw==`

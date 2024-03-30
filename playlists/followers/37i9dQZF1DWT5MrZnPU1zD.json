@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 1676313,
+  "2024-03-30": 1676438,
   "date_first_scraped": "2021-12-21",
   "description": "Pass the sticks & press play. ",
   "name": "Hip-Hop Controller",
@@ -15492,6 +15492,24 @@
     },
     {
       "album": {
+        "name": "lottery pick",
+        "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114135,
+      "name": "soak city (do it)",
+      "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
+    },
+    {
+      "album": {
         "name": "Lottery Pick",
         "url": "https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5"
       },
@@ -15507,24 +15525,6 @@
       "duration_ms": 123547,
       "name": "Soak City (Do it)",
       "url": "https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi"
-    },
-    {
-      "album": {
-        "name": "lottery pick",
-        "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "date_added": "2023-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123547,
-      "name": "soak city (do it)",
-      "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
     },
     {
       "album": {

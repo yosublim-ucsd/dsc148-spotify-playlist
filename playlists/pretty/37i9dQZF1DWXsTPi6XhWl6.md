@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,547 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,548 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 56 | [Mansion Door](https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Can't Wake Up](https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5) | 4:30 |
 | 57 | [Morning Song](https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Magpie And The Dandelion \(Deluxe\)](https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj) | 3:54 |
 | 58 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
-| 59 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
+| 59 | [Hey Julia](https://open.spotify.com/track/7DCYDSGbWgYEMNtXYAAroM) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/4pLagd0VHyYyVc1daB8ELM) | 1:59 |
 | 60 | [Younger Years](https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:49 |
 | 61 | [On the Road](https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [From the Hills Below the City](https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS) | 2:26 |
 | 62 | [Road to Joy](https://open.spotify.com/track/4JHxhiaDpp5omCMtOs1QrB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 99 | [Man](https://open.spotify.com/track/6BDfXTstCuQuNl0BAuRNxc) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Wild Creatures](https://open.spotify.com/album/0KGcCenSL9QAN9mhonWfx5) | 3:31 |
 | 100 | [Show Me Something Higher](https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Something Higher](https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj) | 5:27 |
 
-Snapshot ID: `MCxhMTY4N2MyYzU5YTk3YTE2MTZlYTE0Nzk0MGYwNjhiYzUxYTc1MWQz`
+Snapshot ID: `MCw1MGY0YmEwZTkxOWU2MDIxMjQxMTZmN2JjMGZhN2I5YWVjY2MzNzBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,282 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,281 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 77 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 |
 | 78 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 |
 
-Snapshot ID: `MCwwMTJmZTE1MjlkZmQ1MGE1NWFlNDc1OGI0Y2EzM2ZiMThkMTY2MTJh`
+Snapshot ID: `MCxiYTYyMmI2NTVjNmY0MjZkMDdjZTBmMDgwOWFhNDk0MWI4MTYwOGI5`

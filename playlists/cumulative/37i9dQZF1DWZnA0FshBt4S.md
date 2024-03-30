@@ -4,7 +4,7 @@
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-88 songs - 6 hr 0 min
+89 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Breathe](https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer: Greatest Hits](https://open.spotify.com/album/21KNgondk578mn6CS8AAKu) | 4:06 | 2021-05-11 |  |
 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 | 2021-05-11 |  |
 | [Consuming Fire](https://open.spotify.com/track/2bAOXQyD64LzOK0jRv1jMi) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:09 | 2021-05-11 |  |
-| [Deeper](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 | 2021-05-11 |  |
+| [Deeper](https://open.spotify.com/track/2CgWrGgBty31yIRLNTLxKq) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Access:d \- Live Worship In The Key Of D](https://open.spotify.com/album/78xZy7Krg7f5kDiWh8QuBF) | 4:19 | 2023-02-01 |  |
+| [Deeper](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 | 2021-05-11 | 2024-03-30 |
 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 | 2021-05-11 |  |
 | [Don't Look At Me](https://open.spotify.com/track/3fyMwcqHxruPGAaGtDt4sh) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Genuine](https://open.spotify.com/album/3yurqtwBDlirDKcQt2pEMk) | 3:36 | 2021-05-11 |  |
 | [Enough](https://open.spotify.com/track/60kuYvjy5UaEKELsHLxd2n) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:20 | 2021-05-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2023\. Cover: Terrace Martin \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,194 likes - 75 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,196 likes - 75 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [your intuition is your friend \(radio edit\)](https://open.spotify.com/track/1dcwRKcZEmYVEhC6LQhwka) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Edward Wakili\-Hick](https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7) | [your intuition is your friend \(radio edit\)](https://open.spotify.com/album/2fcTch13GHkeNdarAzmuH7) | 3:36 |
 | 75 | [borealis dancing](https://open.spotify.com/track/7LMjaI9q3JmYyraATLNXxS) | [Jaimie Branch](https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5) | [Fly or Die Fly or Die Fly or Die \(\(world war\)\)](https://open.spotify.com/album/2JVEwFxlm2BcTtEeYnB5zr) | 7:01 |
 
-Snapshot ID: `MCw0ODQ1NzcwOWJjYjQwNjczYzA3MGExMGNiOGMwMjZhNTE3YTc1NmZj`
+Snapshot ID: `MCw0YzRkYzc4YzhlMWVkMzIyMGQ0ODZmODYxZDFhNzNjMGZlNTdmYmNm`

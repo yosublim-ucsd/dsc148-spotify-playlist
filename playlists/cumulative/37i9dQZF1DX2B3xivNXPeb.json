@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "fly on the wall",
+        "url": "https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U"
+      },
+      "artists": [
+        {
+          "name": "TYLER LEWIS",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151828,
+      "name": "fly on the wall",
+      "url": "https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb"
+    },
+    {
+      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -4504,7 +4522,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/32OSu2ZovlRteBCFyB3NLo"

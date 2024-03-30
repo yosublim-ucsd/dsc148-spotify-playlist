@@ -1,12 +1,12 @@
 {
   "description": "Una mezcla sabrosa, picosita y refrescante.",
-  "num_followers": 340071,
+  "num_followers": 340317,
   "original_name": "Las Micheladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTYzNjA5ZGY2ZjQ4Y2I5NDM1ZTNmZTZjMmZiODM1MGViNjk1YWRj",
+  "snapshot_id": "MCw1YzIwMDBlMDllNWFjM2ExZjEyNzZmZjc0OTJmODViMmIzNmQ1NWI2",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW"
+      },
+      "artists": [
+        {
+          "name": "Los mismos De La M",
+          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Ice Cream",
-        "url": "https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW"
-      },
-      "artists": [
-        {
-          "name": "Los mismos De La M",
-          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "ALVRGZO",
-        "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "ALVRGZO",
-      "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -1391,22 +1367,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "ALVRGZO",
+        "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 235061,
-      "name": "Pixelados",
-      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+      "duration_ms": 162187,
+      "name": "ALVRGZO",
+      "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1447,6 +1427,26 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "duration_ms": 150974,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        }
-      ],
-      "duration_ms": 150974,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1639,6 +1639,22 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "Que Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/7ix8mj4GsqJBjx7ndn8hBC"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "El Toro Encartado - Spotify Singles",
         "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 164245,
       "name": "El Toro Encartado - Spotify Singles",
       "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "Que Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/7ix8mj4GsqJBjx7ndn8hBC"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Trovando El Son",
+        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+      },
+      "artists": [
+        {
+          "name": "Fresto Music",
+          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+        }
+      ],
+      "duration_ms": 300791,
+      "name": "Me Hace Da\u00f1o Verte",
+      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "LA 701",
         "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 164482,
       "name": "LA 701",
       "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Trovando El Son",
-        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
-      },
-      "artists": [
-        {
-          "name": "Fresto Music",
-          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
-        }
-      ],
-      "duration_ms": 300791,
-      "name": "Me Hace Da\u00f1o Verte",
-      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala (Remix)",
+      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "La Mamoncita del Insta",
         "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 193193,
       "name": "La Mamoncita del Insta",
       "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Ag\u00e1rrala (Remix)",
-      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
     },
     {
       "added_at": "2024-03-15 06:00:00",

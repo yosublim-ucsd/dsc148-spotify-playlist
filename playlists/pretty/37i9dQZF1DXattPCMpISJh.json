@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 114168,
+  "num_followers": 114287,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWZkNjdmNWNjNGJjNTJkYmE3MmExMmVjMTJhMDJmZjYzNjg1ZTc4",
+  "snapshot_id": "MCw4ZTQ5YzIwYzRlN2IwMTI4NTRhOTFhZmFmYThkNGM4YmFjNzQ2Zjlk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -27,26 +27,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Thieves",
-        "url": "https://open.spotify.com/album/2SZMyF0H7a9p8VenQZ3c2S"
-      },
-      "artists": [
-        {
-          "name": "Alex Cherney",
-          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
-        },
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 244823,
-      "name": "Take My Heart Away",
-      "url": "https://open.spotify.com/track/2nSqBcTJ6ObEPHbphXGSCB"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "My Lovin'",
         "url": "https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6"
       },
@@ -63,6 +43,42 @@
       "duration_ms": 194032,
       "name": "My Lovin'",
       "url": "https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e"
+      },
+      "artists": [
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Thieves",
+        "url": "https://open.spotify.com/album/2SZMyF0H7a9p8VenQZ3c2S"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 244823,
+      "name": "Take My Heart Away",
+      "url": "https://open.spotify.com/track/2nSqBcTJ6ObEPHbphXGSCB"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1363,22 +1379,6 @@
       "duration_ms": 207360,
       "name": "By the River",
       "url": "https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "All Eyes On You (Edit)",
-        "url": "https://open.spotify.com/album/1iFA2vTlQEj9yCmp0z035C"
-      },
-      "artists": [
-        {
-          "name": "Mark Lower",
-          "url": "https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL"
-        }
-      ],
-      "duration_ms": 225487,
-      "name": "All Eyes On You - Edit",
-      "url": "https://open.spotify.com/track/0GY5zHmNNeJ78UWp8Q5MBC"
     },
     {
       "added_at": "2023-01-20 04:00:00",

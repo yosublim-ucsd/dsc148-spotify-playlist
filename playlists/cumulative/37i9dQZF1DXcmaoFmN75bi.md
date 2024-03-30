@@ -4,7 +4,7 @@
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Eddie Van Halen.
 
-116 songs - 8 hr 10 min
+117 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2022-11-11 |  |
 | [China Girl \- Alternative Mix](https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Bowie Years: Edits + Out\-Takes](https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher) | 5:13 | 2023-09-15 | 2024-01-27 |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2022-11-11 |  |
-| [Climber \(Demo\)](https://open.spotify.com/track/65QBqRSfT0UH5YZPvJuNl7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Another Perfect Day \(40th Anniversary\)](https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM) | 3:13 | 2023-09-22 |  |
+| [Climber \(Demo\)](https://open.spotify.com/track/65QBqRSfT0UH5YZPvJuNl7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Another Perfect Day \(40th Anniversary\)](https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM) | 3:13 | 2023-09-22 | 2024-03-30 |
 | [Climber \- Demo](https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Climber \(Demo\)](https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm) | 3:13 | 2023-09-15 | 2023-11-18 |
 | [Cocaine](https://open.spotify.com/track/3ykSdTGmYPFl8pDBXer1zG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:41 | 2022-11-11 |  |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-11-11 |  |
@@ -63,6 +63,7 @@
 | [Helena](https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [May Death Never Stop You](https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw) | 3:25 | 2022-11-11 |  |
 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 | 2022-11-11 |  |
 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2022-11-11 |  |
+| [Highway Star \- 2024 Remix](https://open.spotify.com/track/3rWRuTM6zLWomVMCgITCTY) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf), [Dweezil Zappa](https://open.spotify.com/artist/4Dbp4J9AFoY5c9LsRPdoVP) | [Machine Head \(Super Deluxe\)](https://open.spotify.com/album/4ufVNYBWywTd6RJdYCtzE3) | 6:10 | 2024-03-29 |  |
 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2022-11-11 |  |
 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 | 2022-11-11 |  |
 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 | 2022-11-11 |  |

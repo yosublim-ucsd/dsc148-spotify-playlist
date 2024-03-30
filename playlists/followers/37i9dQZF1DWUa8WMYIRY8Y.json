@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 167586,
+  "2024-03-30": 167593,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : The Last Dinner Party",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Royel Otis",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -357,7 +357,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 201533,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 249560,
       "name": "Capricorn",
       "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
@@ -942,6 +942,24 @@
     },
     {
       "album": {
+        "name": "Favourite Songs",
+        "url": "https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214776,
+      "name": "Favourite Songs",
+      "url": "https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6"
+    },
+    {
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/7AcGQ0oCQfX55vHDU9VmCj"
       },
@@ -993,6 +1011,24 @@
       "duration_ms": 277285,
       "name": "Fishbrain",
       "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
+    },
+    {
+      "album": {
+        "name": "Flea",
+        "url": "https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226578,
+      "name": "Flea",
+      "url": "https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z"
     },
     {
       "album": {
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 275200,
       "name": "Friend Of A Friend",
       "url": "https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj"
@@ -1115,7 +1151,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1"
@@ -1847,6 +1883,24 @@
       "duration_ms": 193906,
       "name": "My Golden Years",
       "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
+    },
+    {
+      "album": {
+        "name": "Life Is A Killer",
+        "url": "https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP"
+      },
+      "artists": [
+        {
+          "name": "Love Fame Tragedy",
+          "url": "https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203312,
+      "name": "My Head's In A Hurricane",
+      "url": "https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN"
     },
     {
       "album": {
@@ -2991,6 +3045,24 @@
       "duration_ms": 173056,
       "name": "TREES",
       "url": "https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY"
+    },
+    {
+      "album": {
+        "name": "Underneath",
+        "url": "https://open.spotify.com/album/0ybov11Nf73XbQSjiiGG0M"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269744,
+      "name": "Underneath",
+      "url": "https://open.spotify.com/track/0QGFzGvqGnwb0mujqRtqL4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Fences \\\\\\\\
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,337 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,345 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Kathleen](https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7), [Harlee Young](https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG) | [Kathleen](https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO) | 2:18 |
 | 50 | [Forknox](https://open.spotify.com/track/37MYGEELoba3gk2pN7qGxZ) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Forknox](https://open.spotify.com/album/5LpBxTZIzjWTzrKmPy6Eq2) | 3:49 |
 
-Snapshot ID: `MCxlZmQ0YTY3NmRjMzhlMTYwMWRlMmU5NjE2OTJiM2NiNzkwNTY5MWNj`
+Snapshot ID: `MCxkN2MzMTY2YzZhMzk3NWRjNDVhODk5NjEyYTA0MWI0YTRhMjM5ZDU0`

@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 225576,
+  "num_followers": 225683,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2UzZDRiYTljNWYyZjE3M2NhZWI3MzBjOWNhM2ZmYjkxOWQxNjY4",
+  "snapshot_id": "MCwxMDg0ZTVhNjQxZmQ3NDgyZjJjYWVjY2E3ZjEyMWJiZDU3NzcwYjEy",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "don't matter",
-        "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        },
-        {
-          "name": "DEN\u0232",
-          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "don't matter",
-      "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "I'm Blessed",
         "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 218500,
       "name": "I'm Blessed",
       "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "don't matter",
+        "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "DEN\u0232",
+          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "don't matter",
+      "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Head In The Clouds Forever",
         "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 202750,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
       },
@@ -1207,6 +1207,30 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Good Care",
+        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "duration_ms": 194550,
+      "name": "Good Care",
+      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "HEAL",
         "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
@@ -1219,6 +1243,42 @@
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "everything, everywhere (feat. eaJ)",
+        "url": "https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "everything, everywhere (feat. eaJ)",
+      "url": "https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "High School in Jakarta",
+        "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 219036,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1251,66 +1311,6 @@
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "High School in Jakarta",
-        "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219036,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Good Care",
-        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "asiatic.wav",
-          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
-        }
-      ],
-      "duration_ms": 194550,
-      "name": "Good Care",
-      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "everything, everywhere (feat. eaJ)",
-        "url": "https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        },
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "everything, everywhere (feat. eaJ)",
-      "url": "https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "LOVERs PLAYBOOK",
+        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 269242,
+      "name": "THANK YOU 4 LOVIN\u2019 ME",
+      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 192500,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "LOVERs PLAYBOOK",
-        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 269242,
-      "name": "THANK YOU 4 LOVIN\u2019 ME",
-      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1575,22 +1575,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "FLYYY",
-        "url": "https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj"
+        "name": "Slow (with Ciara)",
+        "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
       },
       "artists": [
         {
-          "name": "PLAYERTWO",
-          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
         },
         {
-          "name": "Felip",
-          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         }
       ],
-      "duration_ms": 260000,
-      "name": "FLYYY",
-      "url": "https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl"
+      "duration_ms": 192181,
+      "name": "Slow (with Ciara)",
+      "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Slow (with Ciara)",
-        "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
+        "name": "FLYYY",
+        "url": "https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj"
       },
       "artists": [
         {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
         },
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
         }
       ],
-      "duration_ms": 192181,
-      "name": "Slow (with Ciara)",
-      "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
+      "duration_ms": 260000,
+      "name": "FLYYY",
+      "url": "https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl"
     },
     {
       "added_at": "2024-03-08 05:01:00",

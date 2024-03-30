@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-568 songs - 1 day 8 hr 35 min
+569 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 | 2023-04-14 | 2024-03-09 |
 | [Together in Pieces](https://open.spotify.com/track/46HbKy8kOawanjz1Ofh5Bp) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Together in Pieces](https://open.spotify.com/album/6fvX8DbXDo5alyS4yoE98o) | 3:55 | 2023-02-17 | 2023-06-10 |
 | [Torched](https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X) | [Colourblind](https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k) | [Torched](https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky) | 2:28 | 2023-10-13 | 2023-11-11 |
+| [Tragedy](https://open.spotify.com/track/5Q0WzHDGAzdxkKIO4xP2To) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf) | [Tragedy](https://open.spotify.com/album/2rnjPeQAtqf4PpTHg3fZen) | 4:26 | 2024-03-27 |  |
 | [Tramlines](https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tramlines](https://open.spotify.com/album/0PUA4ZxX3CkJCeryebqYzo) | 3:16 | 2023-02-09 | 2023-05-13 |
 | [Tribe](https://open.spotify.com/track/68SIJ8nkxtDWaVkvGW0ob7) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Tribe](https://open.spotify.com/album/0KN1TdgMQxIWmNnmwjC9RJ) | 3:27 | 2022-10-14 | 2022-11-26 |
 | [Turn Me Up](https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Turn Me Up](https://open.spotify.com/album/0yQtcZfchPzofdgfNamsLX) | 2:07 | 2023-05-03 | 2023-10-14 |

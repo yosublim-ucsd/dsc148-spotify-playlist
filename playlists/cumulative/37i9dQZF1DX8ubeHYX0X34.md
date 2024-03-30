@@ -4,7 +4,7 @@
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
-211 songs - 17 hr 6 min
+212 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Shayad](https://open.spotify.com/track/2LJymusf0Q0gfDF0tP7GsZ) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Jilawatan](https://open.spotify.com/album/5ZCgLCP9jpoCxsYrqUPiCS) | 4:53 | 2021-08-16 | 2022-07-13 |
 | [Sohniyae](https://open.spotify.com/track/32eBFBZD9htEMKyF0VIQ67) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/21luKloROzEZKHzgbhye2U) | 4:01 | 2021-08-16 | 2022-07-27 |
 | [Sukh](https://open.spotify.com/track/6Jk0heMbgKvKiWMFh99J2Z) | [Rushk](https://open.spotify.com/artist/0M12q0sYgM4yYWBAf7rqME) | [Sawal](https://open.spotify.com/album/1maNCNkafMkUNxRVvt5iqW) | 5:13 | 2021-08-16 | 2022-07-25 |
-| [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2023-01-20 |  |
+| [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 | 2024-03-26 |  |
+| [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2023-01-20 | 2024-03-30 |
 | [Suno Ke Main Hun Jawan](https://open.spotify.com/track/70sq6qW9JKw50CItgfStwf) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 3:50 | 2021-08-16 | 2022-07-25 |
 | [Teen Taal](https://open.spotify.com/track/5QpN64Z3hnO9GuK9L83hqm) | [Overload](https://open.spotify.com/artist/43sw0oqxGfMA3qTMBF4jWO) | [Overload](https://open.spotify.com/album/720Ad3lVkhHIcAQ95i4o4m) | 9:24 | 2021-08-16 | 2022-07-21 |
 | [Tera Mera](https://open.spotify.com/track/1L6Nkvk5JXpYebM04xDPEV) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Klashinfolk](https://open.spotify.com/album/2jKdGWECQ3XUyUpDYzmB4K) | 4:07 | 2021-08-16 | 2022-07-28 |

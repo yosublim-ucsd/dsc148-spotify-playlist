@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Access:d - Live Worship In The Key Of D",
+        "url": "https://open.spotify.com/album/78xZy7Krg7f5kDiWh8QuBF"
+      },
+      "artists": [
+        {
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259924,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/2CgWrGgBty31yIRLNTLxKq"
+    },
+    {
+      "album": {
         "name": "King of Fools",
         "url": "https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 260388,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks"

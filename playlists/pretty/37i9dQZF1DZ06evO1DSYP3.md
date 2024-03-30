@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,278 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,279 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 23 | [Light This Bitch Up](https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 4:03 |
 | 24 | [bamboo](https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:39 |
 | 25 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
-| 26 | [Bounce](https://open.spotify.com/track/6fzADIXo9q8wnHoIMWKqUl) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [BONA FIDE](https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF) | 3:19 |
-| 27 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
-| 28 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 |
+| 26 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
+| 27 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 |
+| 28 | [Bounce](https://open.spotify.com/track/6fzADIXo9q8wnHoIMWKqUl) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [BONA FIDE](https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF) | 3:19 |
 | 29 | [Boy](https://open.spotify.com/track/4tWfESbIYebRHdMqlwy04T) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/3RXaP3Adt3TLsnIKRPBb1x) | 3:41 |
 | 30 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 |
-| 31 | [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 |
-| 32 | [Mad](https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:38 |
-| 33 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
+| 31 | [Mad](https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:38 |
+| 32 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
+| 33 | [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 |
 | 34 | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD) | [Darrell Medellin](https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4) | 2:22 |
 | 35 | [One Thing](https://open.spotify.com/track/5ZnQor3xvwoHpsOSP3q0uO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 1:35 |
 | 36 | [What's That?](https://open.spotify.com/track/4tYg2Yu3cmuJHDclO5vrnx) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/3dJlSNBvBzbBlVVJrK99qz) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Shine](https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 1:58 |
 | 50 | [Trying Me](https://open.spotify.com/track/4XgeghQAOvnb4WzgIW1OJb) | [Jammy](https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Trying Me](https://open.spotify.com/album/6pI4FHyb3ZXNtfqgyZGWbZ) | 2:29 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDA2OGRiOTRjY2ZhMDZhM2ZjZjU4NjViYmYxYTRlMjgyOA==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDBmNzViMDFiZjhiYzg1NDEzZmM3NjlhY2ZlODdlMDdiZA==`

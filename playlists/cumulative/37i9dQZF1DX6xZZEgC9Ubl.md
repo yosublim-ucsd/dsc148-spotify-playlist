@@ -2,9 +2,9 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo feels for the misunderstood\. Cover: iann dior
+> Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-943 songs - 1 day 18 hr 44 min
+946 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [beamer boy](https://open.spotify.com/track/7hf89cT5FEmLV5E9fjrjG7) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R) | [beamer boy](https://open.spotify.com/album/69nnJOr40uKMOFvB1sSKLp) | 3:23 | 2022-06-29 | 2022-09-24 |
 | [bearer of the curse](https://open.spotify.com/track/1GxVD3a8YzewUOx0ObNnsl) | [Yokai Dreams](https://open.spotify.com/artist/56wkZ4KK49FvsUlzwCumWF) | [bearer of the curse](https://open.spotify.com/album/4qq9zejxxOLjIJBEl3xeyF) | 2:05 | 2023-12-05 |  |
 | [Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Anarchy](https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw) | 3:05 | 2022-07-01 | 2023-01-28 |
+| [beauty](https://open.spotify.com/track/4kXOuF3EGVS3YGrpbfdT3n) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [genre : sadboy](https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY) | 3:16 | 2024-03-29 |  |
 | [Beeline](https://open.spotify.com/track/3FpkGXrGNBBBX9SmujIy0M) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Beeline](https://open.spotify.com/album/5AtuFIcGGLoD4XlxrIAmWS) | 2:43 | 2021-05-29 | 2022-07-28 |
 | [BEEN THRU](https://open.spotify.com/track/6qjPSvC9JtdsGb4PR0nvRo) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [916frosty](https://open.spotify.com/artist/6c0lj01vVpHsCH7Z5CfJ9K) | [BEEN THRU](https://open.spotify.com/album/0FuW9JxVaZuMmQBO0QxBjO) | 3:04 | 2021-05-29 | 2022-04-14 |
 | [Belly of the Beast](https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Belly of the Beast](https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ) | 2:20 | 2021-01-29 | 2023-10-14 |
@@ -447,6 +448,7 @@
 | [KILLING ME](https://open.spotify.com/track/7AfWXAbDZZctOhkHeGn4b3) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [KILLING ME](https://open.spotify.com/album/62v1j7MvQt3t7uTcUfp4hV) | 2:50 | 2021-10-14 | 2022-07-29 |
 | [Knight in Shining Armor](https://open.spotify.com/track/19Bbo6pDB5AdMFIl9UpxlV) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Knight in Shining Armor](https://open.spotify.com/album/6anwom4cs5kruajxIqjveO) | 2:20 | 2022-06-03 | 2022-06-18 |
 | [Korleone](https://open.spotify.com/track/2quqI0vI60XTjPGl2Dk8ph) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Korleone](https://open.spotify.com/album/1KOVCgp3LFhbIY0LULt5FV) | 3:12 | 2021-07-20 | 2021-12-21 |
+| [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 | 2024-03-29 |  |
 | [Lames](https://open.spotify.com/track/51QmREk813bri1E7IpqLR5) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [Lames](https://open.spotify.com/album/3zDc5U96ulXiCOAMaXXBuw) | 2:40 | 2022-10-07 | 2022-10-15 |
 | [Last Call](https://open.spotify.com/track/0jkiOZCb3yToykDRAtLHdT) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [Last Call](https://open.spotify.com/album/3Fq6MQIc8KcDVtmiDtzl96) | 2:53 | 2020-12-22 | 2021-02-27 |
 | [Last Night](https://open.spotify.com/track/1LoTpLgjRuOZOh4s0RTLjs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Last Night](https://open.spotify.com/album/2KAhU6MX8l2VgPKRxcULa8) | 2:08 | 2021-03-06 | 2022-07-27 |
@@ -478,6 +480,7 @@
 | [Looking For You](https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [HATE ME](https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT) | 3:18 | 2024-03-08 |  |
 | [Losing Interest](https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN) | [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Dibyo](https://open.spotify.com/artist/4GOxZH5EE1JMHO0z8QiW4t) | [Missing](https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu) | 2:00 | 2022-06-10 | 2023-09-02 |
 | [Lost Boy](https://open.spotify.com/track/0jypZv3K4ozgNvtz3GWMlx) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Lost Boy](https://open.spotify.com/album/4vKSOKSPBxeAMZA5gqMODI) | 3:20 | 2020-12-18 | 2021-01-05 |
+| [lost boys](https://open.spotify.com/track/6BTYi4q1Vpmr4BMcY8KUdC) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [lost boys](https://open.spotify.com/album/6mc6ssR6HIIFso7cI929EB) | 2:41 | 2024-03-29 |  |
 | [Lost My Mind](https://open.spotify.com/track/0SVMdv6xci622239kRX6az) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Yung Bambi](https://open.spotify.com/artist/2y8GmZ4zTMAEd5OuenMZdX) | [Lost My Mind](https://open.spotify.com/album/3ITZCJd6omPrRaDny1ObZ0) | 3:02 | 2021-09-17 | 2022-04-21 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-27 | 2023-07-01 |
 | [Love Is a Drug](https://open.spotify.com/track/0vQM29chWYNTrqPoirulxI) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [Thbk.](https://open.spotify.com/album/2Pex08Tm8gL7ai06XmwJcU) | 1:37 | 2022-06-21 | 2022-07-27 |

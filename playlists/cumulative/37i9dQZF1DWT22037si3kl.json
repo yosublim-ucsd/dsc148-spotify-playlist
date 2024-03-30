@@ -6171,6 +6171,36 @@
     },
     {
       "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "N\u00e9 Segredo",
+      "url": "https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44"
+    },
+    {
+      "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
@@ -6784,6 +6814,32 @@
       "duration_ms": 187985,
       "name": "Pelo Menos",
       "url": "https://open.spotify.com/track/7xDJNNmC7AAEVQ3L8oUmlL"
+    },
+    {
+      "album": {
+        "name": "Perfil #91 - Fuck Fake",
+        "url": "https://open.spotify.com/album/3xAC9al4rdbRbHPcm1SY0y"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Perfil #91 - Fuck Fake",
+      "url": "https://open.spotify.com/track/7jZEJM52xT7rO2ifFStYcJ"
     },
     {
       "album": {
@@ -8168,7 +8224,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 363145,
       "name": "TAMBOR",
       "url": "https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY"
@@ -8692,7 +8748,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 136258,
       "name": "Viagem Cara",
       "url": "https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1"

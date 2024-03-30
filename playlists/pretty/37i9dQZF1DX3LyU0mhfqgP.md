@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: serpentwithfeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,754 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,677 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [SOPHIEA](https://open.spotify.com/track/0E9S8XxSLVgkal2nWtueFU) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [SOPHIEA](https://open.spotify.com/album/5mjtx0vINeJ0LjXvzxgemi) | 3:36 |
 | 50 | [Guard My Heart](https://open.spotify.com/track/3FMgKNOeL9mCQkZQb55siA) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Guard My Heart](https://open.spotify.com/album/3IQpUNq1c1zSE9q4WjkMkR) | 4:07 |
 
-Snapshot ID: `MCw2ZDRhZGIyOGE5ODQyZmUwNGRmYjJhNjg0NWIxZWRmODhlZmZjYzRj`
+Snapshot ID: `MCwyM2RhYTMzZDQyZmFiM2IzNWQ0MGM4NTMxOTY2YjdhMjk4MDIxNGRh`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 390324,
+  "num_followers": 390332,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWY5YjMwYWM1NTljOWM4N2FiZjVlMjI1M2M3NzcxMGZmMWU5YTk3",
+  "snapshot_id": "MCwzYTZlZGQwMjg2MTBiZWM2YTFjMGVjMGNmMTM1ZGFlOGZjZThjNDI4",
   "tracks": [
     {
       "added_at": "2024-03-28 01:35:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Cobarde, Cobarde",
-      "url": "https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/7cVxbZREoOPYMAgTyPR4jz"
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
       "artists": [
         {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
         }
       ],
-      "duration_ms": 275560,
-      "name": "Ta' Pillao",
-      "url": "https://open.spotify.com/track/7bNcX3QJYa9zHvseMSSTed"
+      "duration_ms": 259519,
+      "name": "Cobarde, Cobarde",
+      "url": "https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -767,6 +751,22 @@
       "duration_ms": 302226,
       "name": "Qu\u00e9 Cara M\u00e1s Bonita",
       "url": "https://open.spotify.com/track/2rHlBIvlUPHC1L8mK7FUfZ"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/7cVxbZREoOPYMAgTyPR4jz"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Ta' Pillao",
+      "url": "https://open.spotify.com/track/7bNcX3QJYa9zHvseMSSTed"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Explosivo",
-        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Alex Bueno",
         "url": "https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 267733,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/0TjzFXuvwu0cOytRilofzz"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Explosivo",
+        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
-      },
-      "artists": [
-        {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
-        }
-      ],
-      "duration_ms": 287623,
-      "name": "Mi Novia, Mi Amante y Mujer",
-      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "El Mayimbe",
         "url": "https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Caciquiando",
-        "url": "https://open.spotify.com/album/7cyn7fvmfnDPxIcxHbY320"
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
       },
       "artists": [
         {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Te He Prometido - Original",
-      "url": "https://open.spotify.com/track/65VoPaWq9lJiArZUkNqWgm"
+      "duration_ms": 287623,
+      "name": "Mi Novia, Mi Amante y Mujer",
+      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1235,6 +1219,22 @@
       "duration_ms": 268985,
       "name": "Los Dise\u00f1adores",
       "url": "https://open.spotify.com/track/4M3lLVVdXVA6DCn4Ywt71C"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Caciquiando",
+        "url": "https://open.spotify.com/album/7cyn7fvmfnDPxIcxHbY320"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Te He Prometido - Original",
+      "url": "https://open.spotify.com/track/65VoPaWq9lJiArZUkNqWgm"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Te Seguire Queriendo",
-      "url": "https://open.spotify.com/track/4GfiJSv9MHToznRilFWYeh"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "El Cantante del Amor",
         "url": "https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Luchar\u00e9",
-        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+        "name": "El Duro",
+        "url": "https://open.spotify.com/album/3vSjCbYqpdImv7l7EP8hgj"
       },
       "artists": [
         {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
         }
       ],
-      "duration_ms": 284533,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/2eRba627Otdkl6SsPyYWnY"
+      "duration_ms": 235360,
+      "name": "No Me Importa, No",
+      "url": "https://open.spotify.com/track/5Ea8d3nnfWqDGrFvtvS6ts"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1363,18 +1347,34 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "El Duro",
-        "url": "https://open.spotify.com/album/3vSjCbYqpdImv7l7EP8hgj"
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 235360,
-      "name": "No Me Importa, No",
-      "url": "https://open.spotify.com/track/5Ea8d3nnfWqDGrFvtvS6ts"
+      "duration_ms": 300000,
+      "name": "Te Seguire Queriendo",
+      "url": "https://open.spotify.com/track/4GfiJSv9MHToznRilFWYeh"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 284533,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2eRba627Otdkl6SsPyYWnY"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Manuel, Solo Y Con Los Sabrosos Del Merengue",
-        "url": "https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH"
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/3AH0wI0DQ5b1JSd8eTuvdf"
       },
       "artists": [
         {
-          "name": "Los Sabrosos Del Merengue",
-          "url": "https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 286333,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur"
+      "duration_ms": 273423,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3JXzauo7MlrtGocUdOTtdw"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/3AH0wI0DQ5b1JSd8eTuvdf"
+        "name": "Manuel, Solo Y Con Los Sabrosos Del Merengue",
+        "url": "https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+          "name": "Los Sabrosos Del Merengue",
+          "url": "https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW"
         }
       ],
-      "duration_ms": 273423,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3JXzauo7MlrtGocUdOTtdw"
+      "duration_ms": 286333,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Canta Manny Manuel",
-        "url": "https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK"
+        "name": "Merengues Clasicos",
+        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
       },
       "artists": [
         {
-          "name": "Los Sabrosos Del Merengue",
-          "url": "https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW"
+          "name": "Nando Galan",
+          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
         }
       ],
-      "duration_ms": 287013,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl"
+      "duration_ms": 267200,
+      "name": "Faltaste A La Cita",
+      "url": "https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Canta Manny Manuel",
+        "url": "https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK"
+      },
+      "artists": [
+        {
+          "name": "Los Sabrosos Del Merengue",
+          "url": "https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW"
+        }
+      ],
+      "duration_ms": 287013,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "Indetenibles",
         "url": "https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 224720,
       "name": "El Motor",
       "url": "https://open.spotify.com/track/7CP7A91oDk4PDZ6G1bGBY1"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
-        "name": "Merengues Clasicos",
-        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
-      },
-      "artists": [
-        {
-          "name": "Nando Galan",
-          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Faltaste A La Cita",
-      "url": "https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Dominicano Ausente",
-      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Buscando Tus Besos",
         "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 206493,
       "name": "Te Odio y Te Quiero",
       "url": "https://open.spotify.com/track/14L7HV9ybYWOTD784H3oxy"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Dominicano Ausente",
+      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "La Gozadera",
-        "url": "https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK"
-      },
-      "artists": [
-        {
-          "name": "Angelito Villalona",
-          "url": "https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul"
-        }
-      ],
-      "duration_ms": 245420,
-      "name": "Cuando Me Enamora",
-      "url": "https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Clasicos del Merengues",
         "url": "https://open.spotify.com/album/6wB9S0VVzKepb0UieDpLBa"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 197948,
       "name": "Me Aleje Llorando",
       "url": "https://open.spotify.com/track/3RsVm17UK1AWtQtYPT3kPI"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "La Gozadera",
+        "url": "https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK"
+      },
+      "artists": [
+        {
+          "name": "Angelito Villalona",
+          "url": "https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul"
+        }
+      ],
+      "duration_ms": 245420,
+      "name": "Cuando Me Enamora",
+      "url": "https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Merengue Exitos",
-        "url": "https://open.spotify.com/album/014lrTIQrjrGVQOTPrYKY7"
-      },
-      "artists": [
-        {
-          "name": "Merengue Exitos",
-          "url": "https://open.spotify.com/artist/5fb57nU7czfRxNAzrwIsts"
-        }
-      ],
-      "duration_ms": 295426,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/2pag7Y4noCdbVHEfKDKzzq"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Con el Alma",
         "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 242613,
       "name": "Con las Manos en la Masa",
       "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Merengue Exitos",
+        "url": "https://open.spotify.com/album/014lrTIQrjrGVQOTPrYKY7"
+      },
+      "artists": [
+        {
+          "name": "Merengue Exitos",
+          "url": "https://open.spotify.com/artist/5fb57nU7czfRxNAzrwIsts"
+        }
+      ],
+      "duration_ms": 295426,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/2pag7Y4noCdbVHEfKDKzzq"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "El Diente de Oro",
-      "url": "https://open.spotify.com/track/1MnOxAzGxdcrTpjoujH2o7"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Caricias",
         "url": "https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 214254,
       "name": "Un Sobrinito de Champagne",
       "url": "https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "El Diente de Oro",
+      "url": "https://open.spotify.com/track/1MnOxAzGxdcrTpjoujH2o7"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Que Es Lo Que Tienes",
-      "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Merengues Clasicos Vol 2",
         "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
       },
@@ -2299,22 +2283,6 @@
       "duration_ms": 375320,
       "name": "Yo me siento enamorao",
       "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
-        "url": "https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5"
-      },
-      "artists": [
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
-        }
-      ],
-      "duration_ms": 220030,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2335,6 +2303,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
+        "url": "https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5"
+      },
+      "artists": [
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+        }
+      ],
+      "duration_ms": 220030,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "Con Mucho Swing",
         "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 313808,
       "name": "Cobarde Cobarde",
       "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Que Es Lo Que Tienes",
+      "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
     },
     {
       "added_at": "2024-03-28 01:35:59",

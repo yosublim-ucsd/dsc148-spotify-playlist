@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,771 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,899 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 27 | [Leather](https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:13 |
 | 28 | [Messed Up As Me](https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Messed Up As Me](https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9) | 3:16 |
 | 29 | [Thank God She's a Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 |
-| 30 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
+| 30 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 31 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5Cwy5VbPoYIwc5NSFWP91C) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Whatcha See Is Whatcha Get](https://open.spotify.com/album/1RnRoL3lFqVvXqSwQqxuZM) | 2:29 |
 | 32 | [Matching Tattoos](https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Matching Tattoos](https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC) | 3:00 |
 | 33 | [Ain’t Thinkin’ Bout You](https://open.spotify.com/track/7dmA9608TJjycVFNBeLtQZ) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Ain’t Thinkin’ Bout You](https://open.spotify.com/album/5uiGWVQ4E7oDrfUKkpb3Fj) | 2:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 85 | [Dancing On The Tables](https://open.spotify.com/track/0PB8X1URo1d36ltWZ0ivXk) | [Hudson Rose](https://open.spotify.com/artist/2OVd5jsVZnxyb1jI35yDEX) | [Dancing On The Tables](https://open.spotify.com/album/4JEB3AmMnStHSmVLfRos56) | 2:51 |
 
-Snapshot ID: `MCxkODllOTNiNTk3MTBjY2I1OTcyM2I5M2Y1MDZhNTdjN2E2ZDZlNjlm`
+Snapshot ID: `MCxjNDU2NDU4YjkxMzIyNDU0ZjhlOTExZDliNTdhZmEyM2RlYzdiYTli`

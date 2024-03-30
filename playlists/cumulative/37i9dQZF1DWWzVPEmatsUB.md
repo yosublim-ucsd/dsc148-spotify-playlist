@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-390 songs - 23 hr 33 min
+391 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [I Think It’s You](https://open.spotify.com/track/5063zWIUKknkMJ7D9GbGSG) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Daylight](https://open.spotify.com/album/0ygqqR1cPZ8w0ZlHsjvqEu) | 3:37 | 2022-07-01 | 2024-02-14 |
 | [I Tried](https://open.spotify.com/track/5TODWaaMr4UqqcMkd6z2GX) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [I Tried](https://open.spotify.com/album/5ynHtHk3iepL4frUdcKGG9) | 3:15 | 2020-10-17 | 2022-04-21 |
 | [I Tried](https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [After All](https://open.spotify.com/album/24gkn5s8FRrzke3fjt2GmK) | 3:15 | 2020-10-17 | 2023-02-04 |
-| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 |  |
+| [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 | 2023-09-01 |  |
+| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 | 2024-03-30 |
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-20 | 2023-03-03 |
 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 | 2022-05-27 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja) | 4:45 | 2023-09-01 |  |

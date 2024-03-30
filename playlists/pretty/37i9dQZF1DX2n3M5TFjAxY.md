@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,173 likes - 50 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,174 likes - 50 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 14 | [Zay Elasal](https://open.spotify.com/track/6WL468M0cawkNfDIXMsjPK) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 8:31 |
 | 15 | [Etazalt El Gharam](https://open.spotify.com/track/17PmYDXXlGJh95jUS1bHWe) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Etazalt El Gharam](https://open.spotify.com/album/3kwt9GaZ5SHKTsVMiVXrZD) | 7:47 |
 | 16 | [Le Beirut](https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:13 |
-| 17 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 |
+| 17 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [ذكرى](https://open.spotify.com/artist/1pqxZozlopgLx5QhDAoKIB) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 |
 | 18 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 |
 | 19 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayib](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 |
 | 20 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 38 | [We Betesaal Ya Habebi](https://open.spotify.com/track/3hndaYdDG9Sabywbyz3PPa) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Ally Taaly](https://open.spotify.com/album/3yGicNvFuw4vga0sUjfEXN) | 6:29 |
 | 39 | [Eldonya Rabea](https://open.spotify.com/track/4fP9TNvzYq9I49GDBEezDD) | [Soad Hosny](https://open.spotify.com/artist/7Kql0QwVDPgqF2XUUedCGN) | [Soad Hosny Collection](https://open.spotify.com/album/0PA2lsmWyFF5e2bqDt8Bvv) | 7:05 |
 | 40 | [جاني الأسمر](https://open.spotify.com/track/6N9hkmJ5dZAzFoxI8fOvk9) | [عتاب](https://open.spotify.com/artist/24YfDhja995MaMsPMasEl0) | [جاني الأسمر](https://open.spotify.com/album/3WTNvD82pONOGB6bSVAsog) | 6:36 |
-| 41 | [Mesh Kol Hob](https://open.spotify.com/track/39Cd1S32yKwOXqJskVYtIH) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 4:10 |
+| 41 | [Mesh Kol Hob](https://open.spotify.com/track/39Cd1S32yKwOXqJskVYtIH) | [ذكرى](https://open.spotify.com/artist/1pqxZozlopgLx5QhDAoKIB) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 4:10 |
 | 42 | [وينك حبيبي](https://open.spotify.com/track/4ZciFev2lN6kGPq3zdRVnW) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [وينك حبيبي](https://open.spotify.com/album/786AHcgC01V3I2dCly0X5h) | 6:55 |
 | 43 | [الأسمرانية](https://open.spotify.com/track/0vtQLNnIrctrX3z8OfQxDj) | [ليلى عبدالعزيز](https://open.spotify.com/artist/08LOXQWxcRIrfp4iNfz708) | [أجمل القديم منوعات كويتية و خليجية, Vol\. 1](https://open.spotify.com/album/4mAYSMDwoAmWxE46qKI3Wy) | 6:33 |
 | 44 | [Ommy](https://open.spotify.com/track/769zYCzOk8GNIx1YQt539w) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Shadya](https://open.spotify.com/album/2OqsCesiiN65QdUP1zNa4v) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 49 | [اللي جرحني](https://open.spotify.com/track/1k4KjinUenx6UeiEJPlvYe) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [وينك حبيبي](https://open.spotify.com/album/786AHcgC01V3I2dCly0X5h) | 5:32 |
 | 50 | [Alby Ala Albak](https://open.spotify.com/track/0ErZruO9ZYYL8MeSdHc9UG) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:50 |
 
-Snapshot ID: `MCw5YzUxYTJjZjQyNzc1OTc1ZGQ0NGE4YTJjZjIxYjQzMDkwNTJhMjZm`
+Snapshot ID: `MCxlNzNlYjMyODdmZjFkYTE2MTRhMTRhMmI5Mjc0NDdhZmMxODI3NzZm`

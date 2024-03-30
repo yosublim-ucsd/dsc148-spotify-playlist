@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Small Island artists taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,040 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,123 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 49 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 50 | [Fever](https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk) | 3:24 |
 
-Snapshot ID: `MCxkYjJlNDUxOTQyYWNkZjIzOGFkNDg2NGQ0ODNjYmMxYTUzODk2ZTg3`
+Snapshot ID: `MCw3YzczMmM3OTE4NTZlNDljNDIxNDczZTQ4MDE3ZDBhYWE4MTQwYmM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,435 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,465 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 78 | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 |
 | 79 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 |
 | 80 | [Holding On](https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 4:14 |
-| 81 | [Love, Need and Want You](https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Beautiful Ballads](https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8) | 5:00 |
+| 81 | [Show & Tell](https://open.spotify.com/track/7eRT4SS9oJH6L9FyOzndRW) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Listen To Me](https://open.spotify.com/album/5NZSlAHmuK1l2W0yinDDHN) | 3:29 |
 | 82 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
-| 83 | [Show & Tell](https://open.spotify.com/track/7eRT4SS9oJH6L9FyOzndRW) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Listen To Me](https://open.spotify.com/album/5NZSlAHmuK1l2W0yinDDHN) | 3:29 |
+| 83 | [Love, Need and Want You](https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Beautiful Ballads](https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8) | 5:00 |
 | 84 | [Hurt](https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 3:01 |
 | 85 | [Almaz](https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Every Kind Of Mood \(Randy, Randi, Randee\)](https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X) | 4:30 |
 | 86 | [Golden Time Of Day \- Remastered](https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Golden Time Of Day \(Remastered\)](https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS) | 5:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [Starting All Over Again](https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Chartbusters, Vol\. 1](https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk) | 3:50 |
 | 100 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
 
-Snapshot ID: `MCxiNmQ0MWVkZDE0OGI2ZmM0YzNjODBmZDQwMGZmOGJiYmI4MzZkYjlj`
+Snapshot ID: `MCwwNzc5YjZjMTNmNWY3OGNlZGNmMDA3OTM5ZTZiZjVlNDhhZTgyMWJk`

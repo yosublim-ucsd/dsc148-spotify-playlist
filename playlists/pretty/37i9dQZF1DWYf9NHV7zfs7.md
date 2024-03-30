@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Diego Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,352 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,401 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Moscas en la Casa](https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Mujer & Ego](https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ) | 3:34 |
 | 85 | [Te Daría](https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 2:42 |
 
-Snapshot ID: `MCwzNTBkMTU1Y2JkYTY5MTZiNGEzZGIyMDQ5Mzk0MDAxZGNjMDc2ODNj`
+Snapshot ID: `MCxkNWQ3M2EyYTJiZjY1OTFmYTQyZDNjOTA0ODNjNzAwZjdjZWU1NjE3`

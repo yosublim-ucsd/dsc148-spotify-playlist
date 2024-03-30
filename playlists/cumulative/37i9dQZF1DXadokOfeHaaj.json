@@ -938,7 +938,7 @@
     {
       "album": {
         "name": "Higher Ground (feat. Roosevelt)",
-        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+        "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
       },
       "artists": [
         {
@@ -953,6 +953,28 @@
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 273275,
+      "name": "Higher Ground (feat. Roosevelt)",
+      "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
+    },
+    {
+      "album": {
+        "name": "Higher Ground (feat. Roosevelt)",
+        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-30",
       "duration_ms": 273293,
       "name": "Higher Ground (feat. Roosevelt)",
       "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"

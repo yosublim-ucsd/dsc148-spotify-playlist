@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: <a href="spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a>
+> The tracks you just keep pulling up\. Cover: Drake
 
 719 songs - 1 day 13 hr 7 min
 

@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Rowjay
+> Le meilleur du hip\-hop québécois\. Photo: Canicule
 
-629 songs - 1 day 8 hr 16 min
+631 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Chaud là\-bas](https://open.spotify.com/track/0FMk3jM0fAHrUy5sYaJepO) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 4:07 | 2022-01-07 | 2022-06-18 |
 | [Chez la Psy](https://open.spotify.com/track/18wG7Ag5wdZ98So8R4yRT0) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Retour à Baveuse City](https://open.spotify.com/album/77ZB9Vg6efYbkqQvzFTRlK) | 3:03 | 2023-07-07 | 2023-10-14 |
 | [CHF](https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [CHF](https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU) | 3:06 | 2023-12-15 | 2024-03-23 |
-| [Chicago](https://open.spotify.com/track/3WZhrxWOX9morcWAKhljSi) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Le Roi](https://open.spotify.com/album/1vupLW3SxaTTqGyZ5m449q) | 2:36 | 2023-06-02 |  |
+| [Chicago](https://open.spotify.com/track/3WZhrxWOX9morcWAKhljSi) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Le Roi](https://open.spotify.com/album/1vupLW3SxaTTqGyZ5m449q) | 2:36 | 2023-06-02 | 2024-03-30 |
 | [Chien Mangé Chien](https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Chien Mangé Chien](https://open.spotify.com/album/0EfEB9jjLhdhyVYHjPRdCG) | 3:23 | 2023-08-25 |  |
 | [Chiengrat](https://open.spotify.com/track/0RdIxxFuZelZ9Vo2sAWZZ7) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Chiengrat](https://open.spotify.com/album/2I9sU2RLN2PnUU70Y4aByt) | 2:46 | 2023-10-13 | 2024-01-13 |
 | [ChoStyle \#4](https://open.spotify.com/track/4GrZOIJBQCb2CptiCt94nc) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [ChoStyle \#4](https://open.spotify.com/album/0I2ExivadEfrhCYkjMmM0y) | 2:56 | 2022-01-07 | 2022-01-15 |
@@ -216,6 +216,7 @@
 | [EV2](https://open.spotify.com/track/2RUJJtbGdliDKtsQpw6zDW) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Mauvais Ange](https://open.spotify.com/album/1dUgspOSlYWQT0WSJBdvYU) | 4:42 | 2022-12-09 | 2023-09-09 |
 | [Everyday](https://open.spotify.com/track/4WR4dZYoPWv0TScswcpp9E) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Everyday](https://open.spotify.com/album/6ISTSCjQij4VteTbrlpTQ9) | 2:49 | 2022-09-16 | 2022-10-22 |
 | [Exito](https://open.spotify.com/track/3uCTdxg9623rUH7kT9dOCu) | [Ô\-lit](https://open.spotify.com/artist/5lo3DSr7YufiuRYqbazv0O), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Exito](https://open.spotify.com/album/2kbAMZAA8u4zdREKzkOzNR) | 4:26 | 2023-04-14 | 2023-06-24 |
+| [Facile](https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [BOYZ](https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0) | 3:01 | 2024-03-29 |  |
 | [Fais PT](https://open.spotify.com/track/4I3BHwCCXqstiDXU49qziN) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Fais PT](https://open.spotify.com/album/0z1CIAY5XS6nSRc8FuF7Jd) | 3:11 | 2022-06-10 | 2022-07-23 |
 | [Faucheuse](https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [RWO](https://open.spotify.com/artist/7l8hwYKPcJcXl9oGS21ArP) | [Faucheuse](https://open.spotify.com/album/68yFTMEllxi1Loqv8UqdhX) | 2:48 | 2023-11-12 |  |
 | [Fermer les yeux](https://open.spotify.com/track/0xs9ReaxZUWqp7rO4Ys4cx) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Fermer les yeux](https://open.spotify.com/album/3jNarx37j97nl8l2vOxEg5) | 3:02 | 2022-09-16 | 2022-10-01 |
@@ -462,7 +463,7 @@
 | [Piège Rock Alternatif](https://open.spotify.com/track/6AASCclUSMqIM5hhLuS7nj) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Piège Rock Alternatif](https://open.spotify.com/album/3OXD6B8JLON63qRHf0xEhg) | 2:41 | 2022-05-20 | 2022-06-11 |
 | [Planer](https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Planer](https://open.spotify.com/album/4b6ns1QBr9YtTEmjyn7HHK) | 2:55 | 2023-07-14 |  |
 | [Plata](https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [400](https://open.spotify.com/album/1QLh17mGCqestAzRo8VcC0) | 2:57 | 2022-10-14 | 2023-03-11 |
-| [Plein d'adresses](https://open.spotify.com/track/0JDUmGFPfeNE3bgev0iZCc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [Plein d'adresses](https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3) | 4:06 | 2024-03-01 |  |
+| [Plein d'adresses](https://open.spotify.com/track/0JDUmGFPfeNE3bgev0iZCc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [Plein d'adresses](https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3) | 4:06 | 2024-03-01 | 2024-03-30 |
 | [Polygone](https://open.spotify.com/track/6HZgqXad50xSCbAvpzzrfH) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Polygone](https://open.spotify.com/album/7rRouNve7pkhxSWiTStvJs) | 3:29 | 2022-09-16 | 2022-11-26 |
 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-17 | 2023-08-05 |
 | [Porte](https://open.spotify.com/track/1XkvgJQShm0CpIWe6UbTHH) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Pour de Vrai](https://open.spotify.com/album/5JcvPcv2DJ51OEdOKrfZrw) | 3:03 | 2022-11-11 | 2023-06-17 |
@@ -497,6 +498,7 @@
 | [Red Flags](https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Red Flags](https://open.spotify.com/album/44utAKHWESMxA5DfRIJEqk) | 2:40 | 2023-06-02 | 2023-11-13 |
 | [Regard menaçant](https://open.spotify.com/track/1CtwzMlNDHv3GjHvRzaaaH) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Regard menaçant](https://open.spotify.com/album/1ST9CdLPLoxoEWbGbmTJmf) | 2:25 | 2022-06-10 | 2022-06-18 |
 | [Respecte](https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Respecte](https://open.spotify.com/album/2yJbi9pizlXc9SOAq4ompU) | 2:24 | 2022-01-07 | 2022-03-26 |
+| [RETOUR AU LOBBY](https://open.spotify.com/track/6wphE7f85VGxehdQcbA7RX) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC), [JoDolo](https://open.spotify.com/artist/67QptzHOolted3fphXuAQi), [Young Dreadz](https://open.spotify.com/artist/5quv0obEMCLFKtkgfmax74) | [RETOUR AU LOBBY](https://open.spotify.com/album/3AP8iAmtqTj9fCeBMwTRaV) | 3:16 | 2024-03-29 |  |
 | [Retour de flamme](https://open.spotify.com/track/2FBGeh8LBjI1YVbUSF1WKk) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Retour de flamme](https://open.spotify.com/album/1aw0j3ZQb1R4tx2WS7zCGA) | 2:40 | 2023-07-07 | 2023-08-26 |
 | [REUSTA](https://open.spotify.com/track/2sEbTjUFs8UhXY0FyWwGKp) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [REUSTA](https://open.spotify.com/album/6RXv5dRkfhCUMjamwZFlZQ) | 2:58 | 2023-11-12 | 2024-03-09 |
 | [Ride Or Die \- Reprise](https://open.spotify.com/track/7iYygd04ltJSykEUFrU9HL) | [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Ride Or Die \(Reprise\)](https://open.spotify.com/album/5qlhltp3zO7yhzdEFO1Rh0) | 3:03 | 2022-02-25 | 2022-06-25 |

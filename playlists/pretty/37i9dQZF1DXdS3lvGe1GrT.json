@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Pem",
-  "num_followers": 64748,
+  "num_followers": 64813,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2U4MGRlNmQ2MDQ2NGE0MGViYWQyZTE5ODZmOGJkYzA5YzQxMmIy",
+  "snapshot_id": "MCw2OTI1ZDM5YmYyOTNlYTU1ZWQzMTYxYTFhY2YxODlmMWIwZWYxMGRh",
   "tracks": [
     {
       "added_at": "2024-03-20 16:00:00",
@@ -87,6 +87,22 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2024-03-29 22:22:50",
+      "album": {
+        "name": "Why Does the Earth Give Us People to Love?",
+        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 422566,
+      "name": "free",
+      "url": "https://open.spotify.com/track/1qWsVMgZZQWTg2XkSja0OU"
     },
     {
       "added_at": "2024-03-27 04:00:00",

@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: TOTALFAT
 
-756 songs - 1 day 16 hr 19 min
+757 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Blooming the Tank\-top](https://open.spotify.com/track/7BYmkuVFNzR0RvSStnZ9W0) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 2:14 | 2023-11-14 | 2023-11-29 |
 | [Blue Dream](https://open.spotify.com/track/5UbyuwQjeGGlRlHlG8Vd26) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv), [KD from UNMASK aLIVE](https://open.spotify.com/artist/0dV28DyMHgaCIwEkD78FEF) | [On Your Mark](https://open.spotify.com/album/4y9G3NBzH1krs7nvDOJ2jF) | 2:17 | 2023-01-17 | 2023-03-14 |
 | [Blue Ink](https://open.spotify.com/track/1LuCnD3kMp1KVT9AffvzDK) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sweet](https://open.spotify.com/album/3Ku32ojOASDbazhWQs2vr5) | 3:02 | 2022-06-07 | 2022-06-26 |
-| [Boarding Time](https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Boarding Time](https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS) | 2:56 | 2024-03-26 |  |
+| [Boarding Time](https://open.spotify.com/track/42lsXb14Nxik4hfeqksL8K) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [PURE 40](https://open.spotify.com/album/3ebUA1TA2F3IMkyFNjJN8E) | 2:56 | 2024-03-26 |  |
+| [Boarding Time](https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Boarding Time](https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS) | 2:56 | 2024-03-26 | 2024-03-30 |
 | [Bond girl Sugushinu](https://open.spotify.com/track/3OEn6CmjNDxskFlVNjyIU6) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [3rd e.p](https://open.spotify.com/album/2tnBhc5J7XZjqf7cAB7Gqf) | 2:38 | 2022-10-18 | 2022-11-09 |
 | [BONES AND ALL](https://open.spotify.com/track/2Xu7GrXNgDRdVTZaZ3wBO4) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [BONES AND ALL](https://open.spotify.com/album/3WpaNdiEpHKaAi19WrLu63) | 3:19 | 2024-02-27 | 2024-03-27 |
 | [Bored Rigid](https://open.spotify.com/track/6zXsdp7du4Y2tQ8fGYPuyk) | [Comeback My Daughters](https://open.spotify.com/artist/7wM7iIMQX2HrJCjASApbWW) | [EXPerience](https://open.spotify.com/album/20BflIUzszY4lTwqsI7dRj) | 4:53 | 2022-05-12 | 2022-07-16 |

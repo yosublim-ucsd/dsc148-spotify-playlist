@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Jacques Brel
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,968 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,007 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 65 | [Tu verras](https://open.spotify.com/track/5jsCb9iTwwY7VVD73PGezb) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Jazz Et Java](https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn) | 3:16 |
 | 66 | [Tout va très bien madame la marquise](https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12) | [Ray Ventura](https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO) | [Du Caf' Conc' au Music Hall](https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe) | 3:25 |
 | 67 | [Paris sera toujours Paris](https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Fleur De Paris](https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc) | 3:14 |
-| 68 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
-| 69 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 |
+| 68 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 |
+| 69 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
 | 70 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
 | 71 | [Chanson pour l'auvergnat](https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:02 |
 | 72 | [Parlez\-moi d'amour](https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Parlez\-moi d'amour](https://open.spotify.com/album/7w5tAsVVbOdWgIEhKkSNzG) | 3:00 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 84 | [Les amoureux des bancs publics](https://open.spotify.com/track/3sySoSz1tI6IDt7qDkecnQ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:00 |
 | 85 | [Les roses blanches](https://open.spotify.com/track/7ydTfhNqTm76kd23L0RJrQ) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Chante](https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt) | 3:26 |
 
-Snapshot ID: `MCwzZjIwNmIxNGI1OGZlN2RlN2I4YWYxMjA1ZjIxNGY1YzUyZTYwYzQ1`
+Snapshot ID: `MCxlN2I1NzViYjQzOTE3YWQ3Y2Y0NmM5NWFkOTIxMzhkOTQ3Yjc2YmNi`

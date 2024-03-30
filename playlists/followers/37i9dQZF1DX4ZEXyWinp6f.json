@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 235728,
+  "2024-03-30": 235769,
   "date_first_scraped": "2020-07-07",
   "description": "Fold time and space through sound to reach imaginary universes.",
   "name": "Sci-Fi Scapes",
@@ -2419,7 +2419,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 136160,
       "name": "In der Stadt und auf dem Land",
       "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
@@ -2791,6 +2791,24 @@
       "duration_ms": 250400,
       "name": "Kompod",
       "url": "https://open.spotify.com/track/0i2IjtW0GaTSAYfmKEGtXB"
+    },
+    {
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
       "album": {

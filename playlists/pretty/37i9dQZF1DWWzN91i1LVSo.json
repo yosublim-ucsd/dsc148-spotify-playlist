@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWVhY2QwZGU1MmRlMDNkNzc3ZTYyMjcyM2RjMWM2ZTU2MTM3N2Rm",
+  "snapshot_id": "MCwzZmUwMzdjNmQ4OGRkM2U3NjU1YWE4YWEwZjQzMDA2OTI3ZDg0YmEy",
   "tracks": [
     {
       "added_at": "2024-02-23 16:54:41",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 252850,
-      "name": "Cedar",
-      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -63,54 +63,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "TRANSPARENCY",
-        "url": "https://open.spotify.com/album/4a5yY8zDi0w5Gpkh0iNwf2"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 179389,
-      "name": "This Time",
-      "url": "https://open.spotify.com/track/3jjHcdAItpgGzikL2iNR0E"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "London",
-        "url": "https://open.spotify.com/album/6ztopxq8V8PtZpwULj1tss"
-      },
-      "artists": [
-        {
-          "name": "Devan",
-          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
-        }
-      ],
-      "duration_ms": 196008,
-      "name": "London",
-      "url": "https://open.spotify.com/track/6ffvsCiyxNdxPzsjxP5q16"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -131,6 +83,38 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "TRANSPARENCY",
+        "url": "https://open.spotify.com/album/1pZieoTmElfzMskczel211"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 179389,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/7gSlbLsvARSvWXls5m5EpH"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/6ztopxq8V8PtZpwULj1tss"
+      },
+      "artists": [
+        {
+          "name": "Devan",
+          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+        }
+      ],
+      "duration_ms": 196008,
+      "name": "London",
+      "url": "https://open.spotify.com/track/6ffvsCiyxNdxPzsjxP5q16"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Until I Found You (Piano Version)",
+        "url": "https://open.spotify.com/album/6126tYz1txFtCrM0pDbEhc"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 184895,
+      "name": "Until I Found You - Piano Version",
+      "url": "https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -191,22 +191,6 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Until I Found You (Piano Version)",
-        "url": "https://open.spotify.com/album/6126tYz1txFtCrM0pDbEhc"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 184895,
-      "name": "Until I Found You - Piano Version",
-      "url": "https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -327,6 +311,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "You Were",
         "url": "https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg"
       },
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "South Dakota",
-        "url": "https://open.spotify.com/album/0DWGKx6P8SrWT1wHH1Yamj"
-      },
-      "artists": [
-        {
-          "name": "gavn!",
-          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "South Dakota",
-      "url": "https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 172202,
       "name": "Acoustic",
       "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "South Dakota",
+        "url": "https://open.spotify.com/album/0DWGKx6P8SrWT1wHH1Yamj"
+      },
+      "artists": [
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "South Dakota",
+      "url": "https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Hurts Like Hell",
+        "url": "https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Hurts Like Hell",
+      "url": "https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Hurts Like Hell",
-        "url": "https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Hurts Like Hell",
-      "url": "https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Chariot",
+        "url": "https://open.spotify.com/album/4IQcmXCLlNwsEyT8sWK17I"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 216755,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/6GRx9KtB1BhKDelUtsxzvT"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 212119,
       "name": "willow",
       "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Chariot",
-        "url": "https://open.spotify.com/album/4IQcmXCLlNwsEyT8sWK17I"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 216755,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/6GRx9KtB1BhKDelUtsxzvT"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/3LN3dLb9gUpanpriaqagMU"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+        "name": "Young Heart",
+        "url": "https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/3LN3dLb9gUpanpriaqagMU"
+      "duration_ms": 206840,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/3QorTmBB8lYdSO9bGglOrb"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Young Heart",
-        "url": "https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "The Otherside",
-      "url": "https://open.spotify.com/track/3QorTmBB8lYdSO9bGglOrb"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Over the Moon",
-        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 256980,
-      "name": "Over the Moon",
-      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1319,6 +1303,22 @@
       "duration_ms": 243093,
       "name": "Rainbow Ashes",
       "url": "https://open.spotify.com/track/1WTDSw85vs3HAkOkyoADq7"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 256980,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Dermot Kennedy",
+        "url": "https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/7kWHR2y33EYRT9Z4SVGWvx"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "Just Yet",
         "url": "https://open.spotify.com/album/74Y0oxEAALKC2zARRBREAI"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 189254,
       "name": "Pink Razor",
       "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Dermot Kennedy",
-        "url": "https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/7kWHR2y33EYRT9Z4SVGWvx"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+        "name": "Devil On My Shoulder",
+        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+      "duration_ms": 212493,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

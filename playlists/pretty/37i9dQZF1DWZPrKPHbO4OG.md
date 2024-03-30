@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,001 likes - 41 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,033 likes - 41 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gulabi Sadi](https://open.spotify.com/track/4ITtnvLQ6SOA8XhiqkLa24) | [Sanju Rathod](https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7), [G\-Spark](https://open.spotify.com/artist/2zExApX8DZoAYwTeIM1fMv) | [Gulabi Sadi](https://open.spotify.com/album/5NDcb02xBpTu752ETxKuGN) | 3:43 |
+| 1 | [Gulabi Sadi](https://open.spotify.com/track/4ITtnvLQ6SOA8XhiqkLa24) | [Sanju Rathod](https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7), [G\-SPXRK](https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll) | [Gulabi Sadi](https://open.spotify.com/album/5NDcb02xBpTu752ETxKuGN) | 3:43 |
 | 2 | [Payee Fufata](https://open.spotify.com/track/4u6Hc5qQ5AxGtJwXIe2LbL) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Payee Fufata](https://open.spotify.com/album/2IE1csSEvpahQmcIhngXK0) | 4:08 |
 | 3 | [Raja Aala](https://open.spotify.com/track/5KgfY2vMoHk26aGvchrr7Q) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Pawankhind](https://open.spotify.com/album/7B7Cjeyo1aavjnCb27LlpU) | 4:20 |
 | 4 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 40 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
 | 41 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
 
-Snapshot ID: `MCxiNzI2NTI2OTg0MzI1NzkzOWY0NmJiNjM5MDk2NmI3MWU4MDgxMjc5`
+Snapshot ID: `MCw0ODhkMTA2YjZmMDJhMTM3NTdjNGE2M2U3YWE2MmI3ZDM3OTA1NDM3`

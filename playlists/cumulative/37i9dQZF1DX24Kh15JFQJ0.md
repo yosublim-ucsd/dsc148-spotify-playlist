@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-268 songs - 15 hr 50 min
+270 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Forever Young](https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Forever Young](https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb) | 4:16 | 2022-04-29 |  |
 | [Friends Again](https://open.spotify.com/track/0jyLP8z6NPLYyM9NDk4Bn3) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Game Changer](https://open.spotify.com/album/2Q06sKwOeZbDrifNmByuk9) | 2:35 | 2023-11-17 |  |
 | [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 | 2024-01-05 |
+| [Get a Little Dirt on Your Hands](https://open.spotify.com/track/5sPuFw4TC0F03xyrkRvgQJ) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Get a Little Dirt on Your Hands](https://open.spotify.com/album/6NF34NE0IsFKt8gUXDPPAy) | 2:54 | 2024-03-29 |  |
 | [Get Me To The Stage On Time](https://open.spotify.com/track/7ltmPNSZmQmykswz99rK2y) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Get Me To The Stage On Time](https://open.spotify.com/album/5V3Wn9hlMLqhQGkSDRL62T) | 3:21 | 2023-10-27 |  |
 | [Getting Good](https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Getting Good](https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd) | 3:21 | 2021-10-15 |  |
 | [Girls Night Out](https://open.spotify.com/track/3EoGwCrxAQ8V0jGgsrHBvq) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:04 | 2023-11-10 |  |
@@ -141,7 +142,7 @@
 | [If You See Him, If You See Her \- Acoustic Version](https://open.spotify.com/track/2BwIm4JJJOv4lbfskscKW1) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [If You See Him, If You See Her \(Acoustic Version\)](https://open.spotify.com/album/0Q2NGzdPFp05YAaLRqudLk) | 3:59 | 2023-04-28 |  |
 | [In My Book](https://open.spotify.com/track/71Em00OWrDMDT3tGJE9YoC) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [In My Book](https://open.spotify.com/album/1MKAux7mx63s3lcRKkyQ8r) | 3:01 | 2023-07-07 |  |
 | [It All Falls Down to the River](https://open.spotify.com/track/5S6Wzgth3a8WfttfEdfRij) | [Suzy Bogguss](https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy) | [Praying' for Sunshine](https://open.spotify.com/album/1DTqHjYNTSswC8OEF0V5VO) | 4:03 | 2023-11-06 |  |
-| [It Could Happen](https://open.spotify.com/track/04V5V2I38y3OTZC8S9pk3Q) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Could Happen](https://open.spotify.com/album/4daNwyxS1NkivnQPI9sY5l) | 4:08 | 2023-06-16 |  |
+| [It Could Happen](https://open.spotify.com/track/04V5V2I38y3OTZC8S9pk3Q) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Could Happen](https://open.spotify.com/album/4daNwyxS1NkivnQPI9sY5l) | 4:08 | 2023-06-16 | 2024-03-30 |
 | [I’ve Gotta Get A Message To You \(feat\. Keith Urban\)](https://open.spotify.com/track/55gWB0E5fwsIVfdGfrydoi) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:14 | 2021-10-15 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Jolene \(feat\. Dolly Parton\)](https://open.spotify.com/track/3HkWhLEBsyKVooHSkxeGW3) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(feat\. Dolly Parton\)](https://open.spotify.com/album/1wzI8J2S16JMAd27k0fMIZ) | 3:14 | 2023-02-21 |  |
@@ -190,6 +191,7 @@
 | [Out of My Mind \(Country\)](https://open.spotify.com/track/1cEM4aYMmGdm6j8SRimVHG) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Out of My Mind \(Country\)](https://open.spotify.com/album/1EuPbXPAp6kO8qQSxvuJmn) | 3:19 | 2023-07-14 |  |
 | [Patsy Cline Crazy](https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Patsy Cline Crazy](https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt) | 3:49 | 2022-02-25 |  |
 | [Plans](https://open.spotify.com/track/243xVaJ0uGwvzFpZS3EXxc) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Plans](https://open.spotify.com/album/6bPToqWK7UeSk6rvI2wEAq) | 3:39 | 2023-08-18 |  |
+| [Pride](https://open.spotify.com/track/6rrGwk0tMib7jcDm4iKTVE) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Pride](https://open.spotify.com/album/5j2EBpH7Ihjnz5ZN9ApSdh) | 3:42 | 2024-03-29 |  |
 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 | 2021-10-15 |  |
 | [Racing The Dark](https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Racing The Dark](https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT) | 3:56 | 2021-11-19 |  |
 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 | 2021-10-15 |  |

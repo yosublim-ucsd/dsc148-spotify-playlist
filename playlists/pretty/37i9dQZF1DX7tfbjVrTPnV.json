@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 204884,
+  "num_followers": 204981,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmY1ZTE4YWZhNzQ5MTQxOThkN2I0YjUyNDMxMzBiNGI3YjQzODI0",
+  "snapshot_id": "MCwwZGNjNmRiOThjZjUxYjM3NmQ4N2RkYjJiMTZjZDViMTBjNzk0NTE3",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "The Tree of Forgiveness",
         "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 187106,
       "name": "If I Had A Boat",
       "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Hell Bent On A Heartache",
-      "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 219108,
       "name": "The Rock and the Hill",
       "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Hell Bent On A Heartache",
+      "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Night Surfer",
-        "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Prophet",
-          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Ford Econoline",
-      "url": "https://open.spotify.com/track/1FuurW58UyXdpxFJaY3dYW"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Stitch of the World",
         "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 227226,
       "name": "Dusty Old Man",
       "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Night Surfer",
+        "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Prophet",
+          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Ford Econoline",
+      "url": "https://open.spotify.com/track/1FuurW58UyXdpxFJaY3dYW"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Django and Jimmie",
-        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
+        "name": "Triage",
+        "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Django and Jimmie",
-      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+      "duration_ms": 241540,
+      "name": "Something Has To Change",
+      "url": "https://open.spotify.com/track/6Pfkj4mOwjQ1FwsCEzpvFh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1739,18 +1735,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Triage",
-        "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
+        "name": "Django and Jimmie",
+        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
       },
       "artists": [
         {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 241540,
-      "name": "Something Has To Change",
-      "url": "https://open.spotify.com/track/6Pfkj4mOwjQ1FwsCEzpvFh"
+      "duration_ms": 173453,
+      "name": "Django and Jimmie",
+      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
-        }
-      ],
-      "duration_ms": 341026,
-      "name": "Way Out West",
-      "url": "https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 175400,
       "name": "Detour (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 341026,
+      "name": "Way Out West",
+      "url": "https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2191,42 +2191,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Live At Budokan",
-        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
-      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -2247,6 +2211,42 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Live At Budokan",
+        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "The Essential Guy Clark",
         "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
       },
@@ -2259,22 +2259,6 @@
       "duration_ms": 272866,
       "name": "Desperados Waiting For A Train",
       "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2295,6 +2279,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Live at the Old Quarter, Houston, Texas",
         "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
       },
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "12 Stories",
-        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 329746,
       "name": "Time After Time - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "12 Stories",
+        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 216906,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 298520,
       "name": "I Shall Not Be Moved (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 165884,
-      "name": "Sweet Lucinda",
-      "url": "https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 237720,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 165884,
+      "name": "Sweet Lucinda",
+      "url": "https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG"
     },
     {
       "added_at": "2023-08-11 04:00:00",

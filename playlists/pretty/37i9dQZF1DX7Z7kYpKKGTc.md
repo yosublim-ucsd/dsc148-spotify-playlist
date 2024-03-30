@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,837 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,329 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 49 | [In a Broken Dream \(feat\. Rod Stewart\)](https://open.spotify.com/track/2Nl8qre4yoWGVrOPPel06S) | [Python Lee Jackson](https://open.spotify.com/artist/7lWPkt4uoVwqSO7QpuYmdN), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [In a Broken Dream \(feat\. Rod Stewart\)](https://open.spotify.com/album/0mItCJapGL32qQvSQULcm3) | 4:14 |
 | 50 | [Dream Until Tomorrow](https://open.spotify.com/track/4fS7UQ9s2Lps0dsWSaEkm7) | [Lynch Mob](https://open.spotify.com/artist/2K3xysAFpeFSH3DG0zIErf) | [Lynch Mob](https://open.spotify.com/album/22oR7qshxEnyYNTWra6NEI) | 6:07 |
 
-Snapshot ID: `MCxiYWNmY2ZhMjliODRjMWE3MWZkZWNjNzMyMmFiYmUyOWJiNWRhZGI4`
+Snapshot ID: `MCw4Mjg4NDdmZWZkZTk4M2M0NmVjNGEwYTAyYTJhMTQyZjI4MDdkMDli`

@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: 49th & Main
 
-128 songs - 8 hr 31 min
+129 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2024-03-01 |  |
 | [Halo Flip](https://open.spotify.com/track/59SaaebqvxHSui4LbocJYI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Halo Flip](https://open.spotify.com/album/7KChHwaCKJLa1DxvXVHjzz) | 6:55 | 2024-03-22 |  |
 | [Hannah \(the sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(the sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-10-28 |  |
-| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 | 2024-03-29 |  |
+| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 | 2024-03-29 |  |
+| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 | 2024-03-29 | 2024-03-30 |
 | [Horizon](https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Horizon](https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2) | 3:19 | 2024-03-22 |  |
 | [I Believe In Love Again \- Jex Opolis Remix Edit](https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [I Believe In Love Again \(Jex Opolis Remix\)](https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g) | 3:19 | 2024-03-01 |  |
 | [I Can Talk \- Myd Remix](https://open.spotify.com/track/2R5N0kDxOKJl3HjxRrxhdl) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [I Can Talk \(Myd Remix\)](https://open.spotify.com/album/7uTq3a6VR9qZpmw4clwXen) | 3:33 | 2021-10-28 |  |

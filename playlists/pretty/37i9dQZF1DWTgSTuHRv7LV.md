@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Nanpa Básico & Pj Sin Suela
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,112 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,139 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 3 | [G\-500](https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:37 |
 | 4 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 | 5 | [Ni Con Money](https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Faker](https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL) | [Ni Con Money](https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA) | 4:06 |
-| 6 | [LA ÚLTIMA](https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [LA ÚLTIMA](https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur) | 2:50 |
+| 6 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
 | 7 | [Ya Ni Se](https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Ya Ni Se](https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO) | 3:38 |
 | 8 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 |
-| 9 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
+| 9 | [LA ÚLTIMA](https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [LA ÚLTIMA](https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur) | 2:50 |
 | 10 | [Caballo De Troya](https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Chente Ydrach](https://open.spotify.com/artist/2P4GSF64Q5QUJziecEFyUN) | [Caballo De Troya](https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL) | 2:01 |
 | 11 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |
 | 12 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 99 | [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 |
 | 100 | [Santo Grial](https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 5:51 |
 
-Snapshot ID: `MCwxNWJlMDIyNzUzODg1ZGEyZTYwMTdhZTMxNDYzZjE1MmY3Njg0ZTZj`
+Snapshot ID: `MCw0M2UwZWIwNDIxYjQ5YTdiY2IyNTNiNjZlMjQ0ODgwMzdmYTJiMTlk`

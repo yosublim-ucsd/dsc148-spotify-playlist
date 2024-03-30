@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Werenoi, Damso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,609 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,616 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 |
-| 2 | [X](https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [X](https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS) | 2:00 |
-| 3 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 |
+| 2 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 |
+| 3 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 |
 | 4 | [Noise](https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [Noise](https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC) | 4:02 |
 | 5 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 |
 | 6 | [Ça mène à rien](https://open.spotify.com/track/2uUYBVQ9EPQeuox1yD5Niw) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ça mène à rien](https://open.spotify.com/album/5J2yAIMQREow94vQwRahxm) | 3:18 |
 | 7 | [CARTIER](https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:49 |
-| 8 | [Real Love](https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 3:34 |
-| 9 | [J'fais plaisir à la zone](https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 3:03 |
-| 10 | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Killemv](https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/album/39BFIcWfCAGva6bjZ7MoUX) | 2:33 |
+| 8 | [X](https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [X](https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS) | 2:00 |
+| 9 | [Real Love](https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 3:34 |
+| 10 | [J'fais plaisir à la zone](https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 3:03 |
 | 11 | [DIS\-MOI \(feat\. SDM\)](https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:55 |
 | 12 | [Dériver](https://open.spotify.com/track/3ftBRDmLdaahjAPfjiZ1UN) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [PRINCE](https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4) | 3:25 |
 | 13 | [Les Flammes](https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:13 |
-| 14 | [Croise les doigts](https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [Croise les doigts](https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t) | 3:30 |
+| 14 | [Facile](https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [BOYZ](https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0) | 3:01 |
 | 15 | [Péroxyde](https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l) | [Trappo officiel](https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE) | [Péroxyde](https://open.spotify.com/album/60KbxzUMRvskEhapoRaEhF) | 2:51 |
 | 16 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 |
 | 17 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [Sosa](https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sosa](https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625) | 2:37 |
 | 50 | [TRISTE & CÉLÈBRE](https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [MAELSTRÖM](https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl) | 1:48 |
 
-Snapshot ID: `MCwwZmE0ZmQ2MGRlMTExNjQzMmU4NmNmNTU1NGVmZTNlNDlmOTkxNmM2`
+Snapshot ID: `MCxmNzE5NmY1NmFmZjhjM2NlN2NjN2RjYmNkOTNmM2ZlZWJjNDc0NDY2`

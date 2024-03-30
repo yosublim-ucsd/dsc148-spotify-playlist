@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 86953,
+  "2024-03-30": 87057,
   "date_first_scraped": "2022-01-02",
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
   "name": "Legendary Country Live",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 194666,
       "name": "9 to 5 (Live)",
       "url": "https://open.spotify.com/track/7tUqFypbLDK6UQ7wZdVTcV"
@@ -4071,7 +4071,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 76853,
       "name": "Swinging Doors - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/41n12hZTZnMPg4iJkDHwoc"

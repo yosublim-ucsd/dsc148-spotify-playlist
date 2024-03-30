@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 214746,
+  "2024-03-30": 214770,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Portugal.",
   "name": "Top 50 - Portugal",
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 221538,
       "name": "Baile do Bruxo",
       "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
@@ -8179,7 +8179,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 150929,
       "name": "Frevo em Prel\u00fadio",
       "url": "https://open.spotify.com/track/6JXzku1W9NP02jXNqvY8Hh"
@@ -9987,6 +9987,24 @@
       "duration_ms": 195700,
       "name": "I Know Places (Taylor's Version)",
       "url": "https://open.spotify.com/track/2f0GI2ZLUtbGqFx8t2Gk6A"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "album": {
@@ -16467,7 +16485,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 202388,
       "name": "PI\u00d1A COLADA",
       "url": "https://open.spotify.com/track/4r4PT8ztky9NfGINelXcxM"
@@ -18287,14 +18305,6 @@
           "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
           "name": "Love Funk",
           "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         },
@@ -18309,6 +18319,14 @@
         {
           "name": "DJ WN",
           "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         }
       ],
       "date_added": "2024-03-22",

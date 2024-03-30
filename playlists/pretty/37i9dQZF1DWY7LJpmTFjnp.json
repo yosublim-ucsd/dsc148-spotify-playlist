@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Julieta Venegas en portada. ",
-  "num_followers": 1006036,
+  "num_followers": 1006111,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmRiMGQ5YTVjYWZmYzdkYTMwMzA5NGFmZmViYTRjMjJkNWQ0Zjk4",
+  "snapshot_id": "MCxiMGM4NzE3YTIwYmJkOWFhN2ExZTZmZWQxZGQ1MDhlNTU2MDQwZjM3",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Repeat After Me",
-        "url": "https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "La Que Me Gusta",
-      "url": "https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 185826,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Repeat After Me",
+        "url": "https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "La Que Me Gusta",
+      "url": "https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "Putita",
-      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 225706,
+      "name": "Putita",
+      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -491,18 +491,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
         }
       ],
-      "duration_ms": 160786,
-      "name": "El Colmo",
-      "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
+      "duration_ms": 249306,
+      "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -543,22 +547,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 249306,
-      "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+      "duration_ms": 160786,
+      "name": "El Colmo",
+      "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Karmadame",
-      "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 233267,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Karmadame",
+      "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
-      },
-      "artists": [
-        {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Apocalypshit",
         "url": "https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 228293,
       "name": "Rastaman- Dita",
       "url": "https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "!!Puro Macanazo!!",
+        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "!!Puro Macanazo!!",
-        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Elemento (Noches De Sal\u00f3n)",
         "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
@@ -1703,22 +1723,6 @@
       "duration_ms": 223990,
       "name": "Elemento - Noches De Sal\u00f3n",
       "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Un Segundo MTV Unplugged",
-        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "La Locomotora - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA"
     }
   ],
   "unique_name": "La + Chingona",

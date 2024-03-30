@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 208124,
+  "num_followers": 208292,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjEzNmFlYjQ2ZDkzZjhkNTBlZjc4MzdhN2JhYTRjYTM5ZGI0MDU1",
+  "snapshot_id": "MCw3OGFiODFiOTgwMDdlYzdiNTY5Yzk1M2M2MDVjZTNiNzc0YWM1ODk4",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -351,6 +351,30 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 273290,
+      "name": "NEURON (with Gaeko & YOON MIRAE)",
+      "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "genre : sadboy",
         "url": "https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY"
       },
@@ -372,7 +396,7 @@
       "added_at": "2024-03-28 23:00:00",
       "album": {
         "name": "Follow the Sound of My Voice",
-        "url": "https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM"
+        "url": "https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu"
       },
       "artists": [
         {
@@ -382,13 +406,13 @@
       ],
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
-      "url": "https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa"
+      "url": "https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv"
     },
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
         "name": "Higher Ground (feat. Roosevelt)",
-        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+        "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
       },
       "artists": [
         {
@@ -400,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 273293,
+      "duration_ms": 273275,
       "name": "Higher Ground (feat. Roosevelt)",
-      "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"
+      "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -535,17 +559,17 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "VIVA LA GUNILLA",
+        "name": "",
         "url": "https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8"
       },
       "artists": [
         {
-          "name": "Gunilla Persson",
-          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 131363,
-      "name": "VIVA LA GUNILLA",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0"
     },
     {
@@ -683,6 +707,26 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "It Only Took A Minute For My Country To Love Country",
         "url": "https://open.spotify.com/album/5qy5IRA4wbhszGPzBvocqg"
       },
@@ -732,7 +776,7 @@
       "added_at": "2024-03-28 23:00:00",
       "album": {
         "name": "Prophecy",
-        "url": "https://open.spotify.com/album/1PlAzDc2xlmK33ykOEA80P"
+        "url": "https://open.spotify.com/album/1Pc3k38rqAL6XPqrIraUeT"
       },
       "artists": [
         {
@@ -742,7 +786,7 @@
       ],
       "duration_ms": 254075,
       "name": "Grand Finale",
-      "url": "https://open.spotify.com/track/0UIYcRAhNjvDrDdo8TCGcH"
+      "url": "https://open.spotify.com/track/6vvOp6NnDwWiXPyq7XorUv"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1076,7 +1120,7 @@
       "added_at": "2024-03-28 23:00:00",
       "album": {
         "name": "Stay Another Night",
-        "url": "https://open.spotify.com/album/5dq9Pr0UlrJbO46kIVy1iM"
+        "url": "https://open.spotify.com/album/5DewFUAZ2xrL50ruh5b7ae"
       },
       "artists": [
         {
@@ -1090,7 +1134,7 @@
       ],
       "duration_ms": 149032,
       "name": "Stay Another Night",
-      "url": "https://open.spotify.com/track/5NyEmwp8Vtqt3D0a4DERdB"
+      "url": "https://open.spotify.com/track/5jhLOkFStVjktugFXBFjR0"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1131,7 +1175,7 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "DENiM",
+        "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
       "artists": [
@@ -1145,7 +1189,7 @@
         }
       ],
       "duration_ms": 177043,
-      "name": "DENiM",
+      "name": "DENiM (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     },
     {

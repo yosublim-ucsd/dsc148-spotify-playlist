@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
+    },
+    {
+      "album": {
         "name": "Blue Voyage",
         "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 275277,
       "name": "Penthouse in The Sky",
       "url": "https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA"

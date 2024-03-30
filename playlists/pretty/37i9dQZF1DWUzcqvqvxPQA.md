@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,930 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,934 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 80 | [Blackout](https://open.spotify.com/track/32QjsWVmD27U1NrVjcP7rj) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Blackout](https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8) | 5:11 |
 | 81 | [¡hola!](https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [¡hola!](https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe) | 3:15 |
 | 82 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 |
-| 83 | [Mercy's Tree](https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw) | [Firma Collective](https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB), [Lexi Jones](https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6) | [Songs for Every Soul](https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk) | 4:17 |
-| 84 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 |
+| 83 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 |
+| 84 | [Mercy's Tree](https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw) | [Firma Collective](https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB), [Lexi Jones](https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6) | [Songs for Every Soul](https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk) | 4:17 |
 | 85 | [Something About You](https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:19 |
 | 86 | [Not Too Far](https://open.spotify.com/track/6YvfFdBKpgYMuV1Q8beFax) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [Not Too Far](https://open.spotify.com/album/0QlOVnfV5mMUYWughwqoP8) | 3:01 |
 | 87 | [Snapshot](https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Snapshot](https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 | 100 | [Walking Out](https://open.spotify.com/track/1lATtWlYXnOVL2ofd4hB3m) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Warren Park](https://open.spotify.com/album/5NbZirwRZH97Q9FooYB2lc) | 2:36 |
 
-Snapshot ID: `MCw1MmVlOTA2YmM0YmZmMDRiNWQ3ZmVmNmNhNzdhMDEzOTU1MDM1MjMz`
+Snapshot ID: `MCwwZTI1N2Y1NjI3NDJkNjA3ZDFlNjk0MDBmYmVhOWEzODEzZWMxNjYz`

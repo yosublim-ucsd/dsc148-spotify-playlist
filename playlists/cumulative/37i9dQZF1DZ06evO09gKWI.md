@@ -4,7 +4,7 @@
 
 > This is Bivolt\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 39 min
+48 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,5 +55,6 @@
 | [Tô Tranquila](https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:01 | 2023-12-30 |  |
 | [Vidaloca](https://open.spotify.com/track/1FTrDJp6ykcw9WTib7pi9v) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao), [Q\. Lord](https://open.spotify.com/artist/0VBReteyPQdfaUvrXTTqzV) | [Venturo](https://open.spotify.com/album/5HDiJyhoxCHgitNfDbCOXk) | 3:17 | 2023-12-30 | 2024-01-05 |
 | [Vista Loka](https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Vista Loka](https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs) | 3:28 | 2023-12-30 |  |
+| [ZSFreestyle](https://open.spotify.com/track/3ps6QiDjiFZ90YFHXZsjra) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr) | [ZSFreestyle](https://open.spotify.com/album/3c1GZ64VCALIxPlygg4OSK) | 3:09 | 2024-03-29 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

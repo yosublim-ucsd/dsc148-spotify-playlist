@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Aisle 6",
+        "url": "https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185390,
+      "name": "Aisle 6",
+      "url": "https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav"
+    },
+    {
+      "album": {
         "name": "ALICE",
         "url": "https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z"
       },
@@ -420,7 +438,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 153620,
       "name": "ALICE",
       "url": "https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1"
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 162556,
       "name": "Good to Know",
       "url": "https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6"
@@ -6140,6 +6158,24 @@
       "duration_ms": 217124,
       "name": "Let Me Be The One",
       "url": "https://open.spotify.com/track/3x8V3QRBYi2CDZYDEoH74G"
+    },
+    {
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO"
+      },
+      "artists": [
+        {
+          "name": "Hana Effron",
+          "url": "https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233610,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
     },
     {
       "album": {

@@ -2669,6 +2669,36 @@
     },
     {
       "album": {
+        "name": "Localiza\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4nHJtZDehFW2uIFVLYMmDy"
+      },
+      "artists": [
+        {
+          "name": "Matheus Caettano",
+          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
+        },
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171269,
+      "name": "Localiza\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL"
+    },
+    {
+      "album": {
         "name": "Louis V, Menina Linda",
         "url": "https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP"
       },

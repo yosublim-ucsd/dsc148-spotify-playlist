@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,192 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,297 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 51 | [I Don't Have Much](https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [I Don't Have Much](https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw) | 5:14 |
 | 52 | [Love On The Line \- Live](https://open.spotify.com/track/29z3ihitUAS0p2QqwNXsyo) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [OPEN HEAVEN / River Wild \(Deluxe/Live\)](https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw) | 4:56 |
 | 53 | [Nothing Else \- Live](https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:30 |
-| 54 | [Overflow \(Live\)](https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 4:18 |
-| 55 | [Your Promises](https://open.spotify.com/track/7toBMKUFYgMqSoG1OnG2Bs) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Wake Up The Wonder](https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob) | 4:58 |
+| 54 | [Your Promises](https://open.spotify.com/track/7toBMKUFYgMqSoG1OnG2Bs) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Wake Up The Wonder](https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob) | 4:58 |
+| 55 | [Overflow \(Live\)](https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 4:18 |
 | 56 | [Wonder \(Spontaneous\) \- Live](https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:31 |
 | 57 | [More Like Jesus \- Live](https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [More Like Jesus \(Live\)](https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC) | 5:38 |
 | 58 | [Forever Amen](https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:30 |
 | 59 | [You're Not Finished Yet \- Live](https://open.spotify.com/track/5P0VnOO7uBkiCAjvS4xJfG) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Maggie Reed](https://open.spotify.com/artist/3a0meM2g0dprjKcoYVDc3C) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 5:17 |
 | 60 | [King Of Kings \- Live](https://open.spotify.com/track/7iK9jPR9LpWUkdwMPMIVnt) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:51 |
 | 61 | [Breathe \- Live](https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Touching Heaven \(Live\)](https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe) | 6:00 |
-| 62 | [Praise Will Be My Song](https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 5:39 |
-| 63 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
+| 62 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
+| 63 | [Praise Will Be My Song](https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 5:39 |
 | 64 | [No Fear in Love](https://open.spotify.com/track/1L7hLhmNgsQ9eMc5C5ej6l) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 3:14 |
 | 65 | [All Hail King Jesus \- Live](https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [SarahBeth Smith](https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi) | [Moments \(Live\)](https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp) | 8:15 |
 | 66 | [Your Love is Strong](https://open.spotify.com/track/5G1cfJXrmxRlxxvunorfWZ) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Get Your Hopes Up](https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:37 |
 | 100 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
 
-Snapshot ID: `MCxkZDQxNmFmYTMwODE3ZWZkNmE5ZjdlNDZjYjU1NDU2YzJmZjExYWY3`
+Snapshot ID: `MCwyNjhmZThjZjZmYmVjNzI3MjUwZDZiYmExYmZhMTNjYjc2Mzg3ZDJj`

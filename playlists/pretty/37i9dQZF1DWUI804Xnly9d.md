@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,405 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,426 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/6br9un9rA9AqqRTSgWq3jJ) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 4:18 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCw4OWI1ZDYzZDUyOWQwOGVjZGVlNjFhY2M5OGZiNWIwZGI4N2Q0MjQw`
+Snapshot ID: `MCxiMTBmNjg5YzVhNmY0NzQ2ZWZiYWYyODU5MjFhY2QxZWQ4NDAyNjM4`

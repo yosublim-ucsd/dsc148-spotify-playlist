@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-265 songs - 18 hr 14 min
+266 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 | 2020-11-13 |  |
 | [Good Luck With That](https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu) | [Wolcott Curran Collective](https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5) | [Good Luck With That](https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK) | 4:10 | 2020-11-13 |  |
 | [Got Ya Movin'](https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy) | [Funky Times](https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV), [Julia Hofer](https://open.spotify.com/artist/42rpmJkLfveqCuH2fh9bdV), [Silas Engel](https://open.spotify.com/artist/4BjlJxkz88UeYje83jgwHf), [André Haaf](https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg) | [Got Ya Movin'](https://open.spotify.com/album/7yfKLZHZRYOr9ersfyaobt) | 3:26 | 2021-05-14 |  |
+| [Grandma's Curtains](https://open.spotify.com/track/72W2lyHmYz3FdR8rmWxtgU) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Grandma's Curtains](https://open.spotify.com/album/3gxETS982YZXODBHT5C9O3) | 8:56 | 2024-03-29 |  |
 | [Gravy Train](https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Unify](https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5) | 5:59 | 2022-03-11 |  |
 | [Gravy Train](https://open.spotify.com/track/5EVROH29vqrj20443u1Ibl) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Gravy Train](https://open.spotify.com/album/7ICjTPunNQA39zrV6Kmcuv) | 5:59 | 2022-03-11 | 2022-07-29 |
 | [Gun Metal Grey](https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 3:16 | 2020-11-13 |  |
@@ -224,7 +225,7 @@
 | [Stand Up](https://open.spotify.com/track/4bJcAfRZWiret0H4aoKAp9) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [Lounge Katz](https://open.spotify.com/album/6C3Cca2c2NJYm9X2msQbJq) | 4:05 | 2023-08-04 |  |
 | [Stay In Your Lane](https://open.spotify.com/track/06rsFCBNsgVgMYXe6il6ZG) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/33xCBK6L6WoFPUVgMLiTaC) | 2:00 | 2020-11-13 | 2022-07-29 |
 | [Stay In Your Lane](https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl) | 2:00 | 2020-11-13 |  |
-| [stones throw](https://open.spotify.com/track/2NtpB7QMuLu4EWm3iYDlFR) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [stones throw](https://open.spotify.com/album/4cLIhzAvIaKRDaBXp2Z4bM) | 2:45 | 2023-08-04 |  |
+| [stones throw](https://open.spotify.com/track/2NtpB7QMuLu4EWm3iYDlFR) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [stones throw](https://open.spotify.com/album/4cLIhzAvIaKRDaBXp2Z4bM) | 2:45 | 2023-08-04 | 2024-03-30 |
 | [Strawberry Mansion](https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:19 | 2020-11-13 |  |
 | [Super Funk](https://open.spotify.com/track/0JWoDGtxgYj1KYBm6fJy77) | [Vern Blair Debate](https://open.spotify.com/artist/4QzD5PsnM0mBTIwJ9ynhTG) | [Texas Funk](https://open.spotify.com/album/3nruGhQNT3tOVyuC3oFjvH) | 3:14 | 2020-11-13 |  |
 | [Tej](https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD) | [The So Ons](https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D) | [Tej b/w Short Shrift](https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu) | 5:28 | 2020-11-13 |  |

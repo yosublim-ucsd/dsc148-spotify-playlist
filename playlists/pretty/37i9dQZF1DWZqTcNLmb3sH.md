@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,416 likes - 74 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,431 likes - 74 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 73 | [Yakovosi Manasu \( From "Mandyahaida"\)](https://open.spotify.com/track/6n5j9ObE6k1fDjjhWetRjV) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Sakshi Kallur](https://open.spotify.com/artist/4XA1eGTPybnNfZtbbyThDt), [Surendranath B R](https://open.spotify.com/artist/1k3zjqPDkTVZELVv2NtCDH), [Venkatesh Kulkarni](https://open.spotify.com/artist/52qbRLr5Z8KfTRl2yb0VTa) | [Yakovosi Manasu \(From "Mandyahaida"\)](https://open.spotify.com/album/4SQEa1xpWF0WfEygse3tYQ) | 3:54 |
 | 74 | [Eerappanu \(From "Captain Miller"\)](https://open.spotify.com/track/1qscQ1xijcC6dBuS4HN4BF) | [Darshan Narayan](https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Pramod Jois](https://open.spotify.com/artist/2df2v0cykufkVCZP0TNn9f) | [Eerappanu \(From "Captain Miller"\)](https://open.spotify.com/album/1BG9etsyWsihGFnVQijeLY) | 3:21 |
 
-Snapshot ID: `MCwxYmE2MzQ1Njg5NzZiYzRhYWVlNzMzNDUxYjY0ODQxNjllMDYwODBh`
+Snapshot ID: `MCw4NWZiNDkzM2E0MzBhMzM5MzBmNmM0NzYxOTdkODhjZDNiNGRiZWFi`

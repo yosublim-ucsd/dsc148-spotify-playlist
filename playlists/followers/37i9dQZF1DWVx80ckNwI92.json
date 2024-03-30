@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 6414,
+  "2024-03-30": 6415,
   "date_first_scraped": "2023-04-05",
   "description": "The future of African Indie and Alternative. Cover: Sio",
   "name": "ALTER-native",
@@ -1229,10 +1229,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 155308,
       "name": "Le Nna",
       "url": "https://open.spotify.com/track/0iITdLlvevSpWBiURJirKN"
+    },
+    {
+      "album": {
+        "name": "The First Kind",
+        "url": "https://open.spotify.com/album/6sY5wuXWehYOW3ysUQjSkg"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155308,
+      "name": "Le Nna",
+      "url": "https://open.spotify.com/track/2G05ApbyxdwaQBnztn8QXU"
     },
     {
       "album": {

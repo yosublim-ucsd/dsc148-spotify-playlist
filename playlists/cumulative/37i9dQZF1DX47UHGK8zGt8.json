@@ -3365,6 +3365,28 @@
     },
     {
       "album": {
+        "name": "Por Que N\u00e3o",
+        "url": "https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA"
+      },
+      "artists": [
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185639,
+      "name": "Por Que N\u00e3o",
+      "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
+    },
+    {
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -3920,7 +3942,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"

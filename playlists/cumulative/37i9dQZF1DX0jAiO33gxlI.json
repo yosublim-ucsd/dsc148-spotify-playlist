@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Kawe, WIU",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Rashid",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 85860,
       "name": "Ajuste",
       "url": "https://open.spotify.com/track/5fZw7tqLL8UXOG9IzPIHGa"
@@ -4277,6 +4277,40 @@
     },
     {
       "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/79cZaharrnC66Lu0ffL6xX"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Neo BXD",
+          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
+        },
+        {
+          "name": "MT",
+          "url": "https://open.spotify.com/artist/3nDDNAa6ObdyNErfT5bv02"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179541,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/4MT2KdPYfTBdKpuZLyU7eC"
+    },
+    {
+      "album": {
         "name": "Entre N\u00f3s Dois (Cita\u00e7\u00e3o: Livre Pra Voar)",
         "url": "https://open.spotify.com/album/09lgfr8t2YZUnctAkneBpB"
       },
@@ -5818,6 +5852,32 @@
       "duration_ms": 143043,
       "name": "Guerra",
       "url": "https://open.spotify.com/track/2ji9WHNU2CXRPb8Zevnnpf"
+    },
+    {
+      "album": {
+        "name": "G\u00eanesis",
+        "url": "https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "G\u00eanesis",
+      "url": "https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4"
     },
     {
       "album": {
@@ -10348,7 +10408,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 232746,
       "name": "Perfil #89 - Sapi\u00eancia",
       "url": "https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z"
@@ -10378,7 +10438,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 144023,
       "name": "Perfil #90 - Real",
       "url": "https://open.spotify.com/track/5lSK1rIyBKdaWizf684qAx"
@@ -10628,7 +10688,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 143283,
       "name": "Platinado",
       "url": "https://open.spotify.com/track/2zZWxrqEjaEBJwUzyEX01S"
@@ -12113,6 +12173,28 @@
     },
     {
       "album": {
+        "name": "Sem Bala Contada",
+        "url": "https://open.spotify.com/album/4WlO7hqFv8sn7QYJ6Dm03S"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167516,
+      "name": "Sem Bala Contada",
+      "url": "https://open.spotify.com/track/2yTuoDzpNuo2hiQvxFrD4f"
+    },
+    {
+      "album": {
         "name": "Sem Deixar de Ser Real",
         "url": "https://open.spotify.com/album/4ZXWHkJYbI3B5iucs1aXGv"
       },
@@ -12136,6 +12218,36 @@
       "duration_ms": 159270,
       "name": "Sem Deixar de Ser Real",
       "url": "https://open.spotify.com/track/69qD7kkAGef6nlwlpOboBi"
+    },
+    {
+      "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Sem Jeito",
+      "url": "https://open.spotify.com/track/4PLi9GQh1cBV44xk3JnzhO"
     },
     {
       "album": {
@@ -12360,7 +12472,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 178869,
       "name": "Sensa\u00e7\u00e3o de Liberdade",
       "url": "https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1"
@@ -13738,7 +13850,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 159673,
       "name": "Tokyo Town",
       "url": "https://open.spotify.com/track/5FMyDVGYTlQiAygTAXLWQr"
@@ -14432,6 +14544,32 @@
       "duration_ms": 197558,
       "name": "Vit\u00f3ria Brindar",
       "url": "https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57"
+    },
+    {
+      "album": {
+        "name": "Viv\u00eancias & Neg\u00f3cios",
+        "url": "https://open.spotify.com/album/18riLkMJy6CmiWT6Wn0XzZ"
+      },
+      "artists": [
+        {
+          "name": "JL",
+          "url": "https://open.spotify.com/artist/6uz5Mq7MWDHlFo6XTKtw8Q"
+        },
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Kiel Mc",
+          "url": "https://open.spotify.com/artist/4JK6yXHA3gPH0j1DTckViZ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Viv\u00eancias & Neg\u00f3cios",
+      "url": "https://open.spotify.com/track/5PGnU2xpp0Xt4TmFiEr9b3"
     },
     {
       "album": {

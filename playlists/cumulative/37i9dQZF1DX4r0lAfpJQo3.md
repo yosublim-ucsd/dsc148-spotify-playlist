@@ -4,7 +4,7 @@
 
 > All bad things must come to an end\. Listen to the music inspired by Breaking Bad, curated by Vince Gilligan and Thomas Golubić.
 
-62 songs - 3 hr 55 min
+63 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Out Of Time Man](https://open.spotify.com/track/4CFJqiSoxO6QCRRJtSFPeu) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Two Of Diamonds](https://open.spotify.com/album/6WgADdwWlwBdJvwkmRXLsM) | 2:57 | 2023-11-14 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/14gEDPQtsTcbZOWs7EXg4V) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:11 | 2023-11-14 |  |
 | [Pollos Hermanos Veneno](https://open.spotify.com/track/1NidlOqOiP0atLVrd0IsG6) | [Chuy Flores](https://open.spotify.com/artist/2rJ3ZSZh8sNeiBYA331JRu) | [Pollos Hermanos Veneno \(From "Breaking Bad"\)](https://open.spotify.com/album/08z5BaIFz7wP1ldy1LHsfq) | 2:24 | 2023-11-14 |  |
-| [Red Moon](https://open.spotify.com/track/7HVkq2dNe3VfueG11Jb7qu) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [You & Me](https://open.spotify.com/album/7GfERejFDqmXppJ5ub2xwV) | 4:02 | 2023-11-14 |  |
+| [Red Moon](https://open.spotify.com/track/36lXrktAAbTcmAsVP9dcGQ) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [You & Me](https://open.spotify.com/album/1ldF9hxaYcrQvvlIl5E4VY) | 4:02 | 2023-11-14 |  |
+| [Red Moon](https://open.spotify.com/track/7HVkq2dNe3VfueG11Jb7qu) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [You & Me](https://open.spotify.com/album/7GfERejFDqmXppJ5ub2xwV) | 4:02 | 2023-11-14 | 2024-03-30 |
 | [Shake a Bone](https://open.spotify.com/track/4GVIoldV96FaVh3CzrkCPN) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Shake a Bone](https://open.spotify.com/album/0QWAmpVpvFhSyncwiG5VWc) | 3:04 | 2023-11-14 |  |
 | [Shambala](https://open.spotify.com/track/6nnSCW41hJIMss2kXEYn7q) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 3:40 | 2023-11-14 |  |
 | [Shimmy Shimmy Ya](https://open.spotify.com/track/2A0wCdXcNJbHUuw4VTq94A) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Horseman](https://open.spotify.com/artist/6072oVyIFCVwPcftVNWF1z) | [Supersize](https://open.spotify.com/album/1NflHHLMKoBxofTCeDSrWz) | 2:56 | 2023-11-14 |  |

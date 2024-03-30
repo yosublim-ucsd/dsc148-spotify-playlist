@@ -4,7 +4,7 @@
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-290 songs - 16 hr 6 min
+291 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-12-15 |  |
 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 | 2023-05-31 | 2023-08-12 |
 | [Golden](https://open.spotify.com/track/5PIxPhOifdCCdJYm6XcEgk) | [Parade of Lights](https://open.spotify.com/artist/5acfZKELBZRBvyhrC0kzG1) | [Golden](https://open.spotify.com/album/3ljGzFXDz7UsxvfdErMf93) | 3:04 | 2020-08-20 | 2022-06-15 |
+| [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/track/41cxe6eOzzQS6odQk6fNdp) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 2:55 | 2024-03-06 |  |
 | [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA) | 2:55 | 2020-08-20 | 2022-07-29 |
 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 | 2020-08-20 | 2022-05-11 |
 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 | 2023-05-31 | 2023-08-12 |
@@ -206,7 +207,7 @@
 | [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-10-05 |  |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-06-23 |  |
 | [Prescription Kid](https://open.spotify.com/track/043IjYujEo3sEDuaBtWzu0) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Prescription Kid](https://open.spotify.com/album/1fR0QXuE9xmQwvQKkYcNpi) | 3:28 | 2020-08-20 | 2022-07-29 |
-| [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-12-15 |  |
+| [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-12-15 | 2024-03-30 |
 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 | 2020-08-20 | 2022-04-21 |
 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 | 2020-08-20 | 2022-04-09 |
 | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT) | 2:57 | 2023-12-15 |  |

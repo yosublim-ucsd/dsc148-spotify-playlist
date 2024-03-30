@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 373834,
+  "num_followers": 373966,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmMwZTA2ZTllZTBjNmFkOWY4ZDZjZjg3MDUyMWQ0YzQ4ZTViMTgw",
+  "snapshot_id": "MCwwMjU5NTNmODI4YzMxMDRmOWQzYjY3NmNiNmIzNTcyZjE0NWQyYTQ5",
   "tracks": [
     {
       "added_at": "2024-03-28 17:45:11",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
         "name": "Tutti Frutti",
         "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 165168,
       "name": "Madness",
       "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 160173,
       "name": "Random I Am",
       "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
-      },
-      "artists": [
-        {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
         "name": "Reggae Hit L.A.",
         "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 199626,
       "name": "Ma and Pa",
       "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
         "name": "In Black And White",
         "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 137960,
       "name": "On and On",
       "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
         "name": "Conscience is Heavy",
         "url": "https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
       },
       "artists": [
         {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
         }
       ],
-      "duration_ms": 219706,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+      "duration_ms": 213217,
+      "name": "Crazy Life",
+      "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Crazy Life",
-        "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
+        "name": "South Somewhere Else",
+        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
       },
       "artists": [
         {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
         }
       ],
-      "duration_ms": 213217,
-      "name": "Crazy Life",
-      "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
+      "duration_ms": 95500,
+      "name": "Future Version",
+      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1523,22 +1539,6 @@
       "duration_ms": 202946,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/1XonzSDpxC7AIkxSKWsNFY"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
-        "name": "South Somewhere Else",
-        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
-      },
-      "artists": [
-        {
-          "name": "Nana Grizol",
-          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "Future Version",
-      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2024-03-28 17:45:11",

@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Back to the Grind",
+        "url": "https://open.spotify.com/album/6MzTGkuB3gv3ZA9xFyq48y"
+      },
+      "artists": [
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Back to the Grind",
+      "url": "https://open.spotify.com/track/2eFudpKhUZAai09n869l2g"
+    },
+    {
+      "album": {
         "name": "Bangerang",
         "url": "https://open.spotify.com/album/1NjtM3sdelZWmjmYIxB6s3"
       },
@@ -1422,7 +1444,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 144469,
       "name": "Chem Dawg",
       "url": "https://open.spotify.com/track/4bAztSeJ6kxFt0R3Ej59J8"
@@ -2571,6 +2593,32 @@
     },
     {
       "album": {
+        "name": "Natural Resolve",
+        "url": "https://open.spotify.com/album/3Cx9pTCk3Mif9TGYCXM1k2"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        },
+        {
+          "name": "Bubby Lewis",
+          "url": "https://open.spotify.com/artist/2foDHsfpet3NNYdYhfK8Fc"
+        },
+        {
+          "name": "Ian Roller",
+          "url": "https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136960,
+      "name": "Exoplanet",
+      "url": "https://open.spotify.com/track/6j1ChNSkJNqz8xgbXCS2xW"
+    },
+    {
+      "album": {
         "name": "Expedition",
         "url": "https://open.spotify.com/album/42rnoZ9GP4PYb31JO4vvd4"
       },
@@ -3426,6 +3474,40 @@
       "duration_ms": 203597,
       "name": "I Love Her",
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
+    },
+    {
+      "album": {
+        "name": "I love Matheus Jardim",
+        "url": "https://open.spotify.com/album/3xr2w7aJ9SoIQZylGnqkS1"
+      },
+      "artists": [
+        {
+          "name": "Niklouds",
+          "url": "https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ"
+        },
+        {
+          "name": "Stephanie Weninger",
+          "url": "https://open.spotify.com/artist/0naw9jdvmNaBSWy0c7gZTl"
+        },
+        {
+          "name": "Lorenz Widauer",
+          "url": "https://open.spotify.com/artist/3GCogPAlzFjPkoi9lLC9jk"
+        },
+        {
+          "name": "Danylo Dmyterko",
+          "url": "https://open.spotify.com/artist/3asJmPYfPALxleeAVRUZ6L"
+        },
+        {
+          "name": "Matheus Jardim",
+          "url": "https://open.spotify.com/artist/5yc5ZDHC1HZna6AARIeoQD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122285,
+      "name": "I love Matheus Jardim",
+      "url": "https://open.spotify.com/track/4HThlhDETUfaEzSwbTlBTD"
     },
     {
       "album": {
@@ -6600,7 +6682,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 130218,
       "name": "Space Waves",
       "url": "https://open.spotify.com/track/3SHF0PVsOLexwZZUnCSnFw"
@@ -7236,7 +7318,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 186414,
       "name": "The Pilot",
       "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"

@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-331 songs - 1 day 0 hr 45 min
+332 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2021-12-17 | 2023-09-14 |
 | [Early Autumn](https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza) | [The Jazz Trio](https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [Early Autumn](https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p) | 3:13 | 2023-08-24 | 2023-11-27 |
 | [East of the Sun and West of the Moon](https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:21 | 2022-03-10 |  |
-| [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 | 2023-12-13 |  |
+| [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 | 2023-12-13 | 2024-03-30 |
 | [Eat It Too](https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d) | 3:46 | 2023-06-08 | 2023-12-10 |
 | [Embraceable You](https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:51 | 2021-12-17 | 2024-01-19 |
 | [Embraceable You](https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable You](https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6) | 4:48 | 2024-01-19 |  |
@@ -334,6 +334,7 @@
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 | 2023-03-23 |
 | [You Fascinate Me So](https://open.spotify.com/track/1Y3kXcTWqJLZZ0JzgX4MNQ) | [Alice Carreri](https://open.spotify.com/artist/2qErnWAGdPnpxE1GmQjloh), [The Sidecar Trio](https://open.spotify.com/artist/2wOhxGipTeYeM9FcbjbF0A) | [You Fascinate Me So](https://open.spotify.com/album/5m5aJtFsnO7fkk4vy6ZSt5) | 4:18 | 2022-05-19 | 2022-07-28 |
 | [You Fascinate Me So](https://open.spotify.com/track/4U4GeHxfnBnVFEUINkrfZn) | [Alice Carreri](https://open.spotify.com/artist/2qErnWAGdPnpxE1GmQjloh), [The Sidecar Trio](https://open.spotify.com/artist/2wOhxGipTeYeM9FcbjbF0A) | [Alice Carreri & The Sidecar Trio](https://open.spotify.com/album/3xBomY6Gc4o0LG0wvssp4V) | 4:18 | 2022-10-11 |  |
+| [You Go To My Head](https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh) | [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [Ryan Hanseler](https://open.spotify.com/artist/524YAzKMvMUURzW34Gtetk), [Lex Warshawsky](https://open.spotify.com/artist/4w8FWjfDaLaHz37ICgCcHV) | [For All We Know](https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP) | 7:24 | 2024-03-20 |  |
 | [You Go to My Head](https://open.spotify.com/track/2pbIJmUuLTgQhiyQxrZYJG) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:39 | 2022-05-19 | 2024-03-15 |
 | [You Go To My Head](https://open.spotify.com/track/7FtvTA5t8yH8UmKs1s4xoT) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:20 | 2022-09-27 | 2023-09-14 |
 | [You Go To My Head](https://open.spotify.com/track/2P6Phi5zCiCnQKyFyjz7Kj) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 4:09 | 2021-12-17 | 2023-09-14 |

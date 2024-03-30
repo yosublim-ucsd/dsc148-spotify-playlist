@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Light Up The Night",
+        "url": "https://open.spotify.com/album/5xvHMriUro6MJdkjCVnEfz"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163480,
+      "name": "Cheap Wine And Cigarettes",
+      "url": "https://open.spotify.com/track/3oiobNGKdbU0ISzLTJH7Lu"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/3scMKfMlTX9zRDAyPKw6ei"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 200907,
       "name": "I Won't Lie",
       "url": "https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z"
@@ -3566,7 +3584,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 169225,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8"

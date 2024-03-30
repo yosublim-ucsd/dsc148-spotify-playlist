@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 230912,
+  "2024-03-30": 231273,
   "date_first_scraped": "2023-02-25",
   "description": "somewhere between with Dylan Gossett ",
   "name": "homegrown",
@@ -929,6 +929,24 @@
       "duration_ms": 234840,
       "name": "Cry Of The Wolves",
       "url": "https://open.spotify.com/track/3MYbVlYRwYfm57adWtfhSY"
+    },
+    {
+      "album": {
+        "name": "Damn Near Normal",
+        "url": "https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224695,
+      "name": "Damn Near Normal",
+      "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
     },
     {
       "album": {

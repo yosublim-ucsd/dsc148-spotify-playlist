@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 919953,
+  "num_followers": 919922,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDYzYmNjNjhhMmM3OTQwOWYyNjliMGQ2NmEwM2MwZTk3NDdmNzhk",
+  "snapshot_id": "MCxhZTczNjAzNTBkODVhYjQ0Y2JiYTI4MzA3NDkxZTIxZDFmZWQ5MTZi",
   "tracks": [
     {
       "added_at": "2023-12-26 18:14:21",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -659,6 +643,22 @@
       "duration_ms": 211413,
       "name": "The Painter",
       "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "Next Thing You Know",
-        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
-    },
-    {
       "added_at": "2024-01-12 05:01:00",
       "album": {
         "name": "I Will (When You Do)",
@@ -919,6 +903,22 @@
       "duration_ms": 207533,
       "name": "I Will (When You Do)",
       "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
+        "name": "Next Thing You Know",
+        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
-        "name": "The Hardest Part (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
+        "name": "The Hardest Part (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 176048,
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
+        "name": "Dirt Femme",
+        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
         "name": "Here\u2019s Your Perfect (with salem ilese)",
         "url": "https://open.spotify.com/album/5GniWbyYasCTUi8UZO6JZA"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 158594,
       "name": "Here\u2019s Your Perfect (with salem ilese)",
       "url": "https://open.spotify.com/track/4Cw1fQBX3TaiZQwOAyddnj"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
     },
     {
       "added_at": "2023-12-26 18:14:21",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-12-26 18:14:21",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
+    },
+    {
+      "added_at": "2023-12-26 18:14:21",
+      "album": {
         "name": "working",
         "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 210219,
       "name": "working",
       "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
-    },
-    {
-      "added_at": "2023-12-26 18:14:21",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2023-12-26 18:14:21",

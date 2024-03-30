@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,781 likes - 80 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,996 likes - 80 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 27 | [Refiner \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 12:12 |
 | 28 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 29 | [The Lion and the Lamb](https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:06 |
-| 30 | [The Blessing \- Live](https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [The Blessing \(Live\)](https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE) | 8:34 |
+| 30 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
 | 31 | [Raise a Hallelujah \- Live](https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 7:50 |
 | 32 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 6:41 |
 | 33 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 35 | [Come Alive \(Dry Bones\)](https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:55 |
 | 36 | [This Is a Move](https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [This Is a Move](https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh) | 3:42 |
 | 37 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
-| 38 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
+| 38 | [The Blessing \- Live](https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [The Blessing \(Live\)](https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE) | 8:34 |
 | 39 | [O Praise The Name \(Anástasis\) \- Live](https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [OPEN HEAVEN / River Wild \(Deluxe/Live\)](https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw) | 5:29 |
 | 40 | [Champion \- Live](https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:46 |
 | 41 | [RATTLE! \(Live\)](https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:12 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 76 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 |
 | 77 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
 | 78 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
-| 79 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
-| 80 | [Faithful God](https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Faithful God](https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7) | 3:30 |
+| 79 | [Faithful God](https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Faithful God](https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7) | 3:30 |
+| 80 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
 
-Snapshot ID: `MCxlNDFkNzMwMDQwNzE2ZDMwNjhjMzQ1NDFmN2NmZmQxNzUwZDcxNDYz`
+Snapshot ID: `MCxmNTY2NmY1ZDFlYTc0NTM0ZWVjNjI3OWNiY2MzMDc5YWJlNGNjNGIx`

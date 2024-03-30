@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mr\. Atlanta](https://open.spotify.com/track/2FpZnYTFkV08iL2cyBf2LU) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 3:36 |
+| 1 | [Mr\. Atlanta](https://open.spotify.com/track/5UclTzWoEZvptwAWQp5Umy) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l) | 3:36 |
 | 2 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 3 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 |
 | 4 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 18 | [Dirty Laundry](https://open.spotify.com/track/5evhsjVuWvgy2yIjzruUkm) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Dirty Laundry](https://open.spotify.com/album/0iugauMckC6uDrok1LO249) | 2:49 |
 | 19 | [Man In Me](https://open.spotify.com/track/6qNtretPY2YmajrAdNQxmP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Man In Me](https://open.spotify.com/album/1wDnYhK35LSEuYIlc7gguF) | 4:48 |
 | 20 | [Crowded Table](https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:29 |
-| 21 | [Good Man](https://open.spotify.com/track/4Nzqf2Fx6oIcJOEsRBnjbI) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:05 |
+| 21 | [Good Man](https://open.spotify.com/track/2yyGpeOpi3GsXwandnuYXw) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l) | 4:05 |
 | 22 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
 | 23 | [Black Jeans](https://open.spotify.com/track/1zHgiJB245RamHyftORKn9) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [E.G.O.](https://open.spotify.com/album/1VVaCcDi6CDJ86XpyGVUQ0) | 5:06 |
 | 24 | [Count On Me](https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 2:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 39 | [All My Worry](https://open.spotify.com/track/1MwEsNbSXgpjmfAN3JMzzS) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [Joe Pisapia](https://open.spotify.com/artist/5b3G440uTn9vamEasYG0eH) | [Kate York & Joe Pisapia](https://open.spotify.com/album/05pNWaK791JPgmURl9kWRc) | 4:16 |
 | 40 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 |
 
-Snapshot ID: `MCxiMDI2MGNlOTJhMjE1OGE3YTI4MzRmODZmM2MxYWE3NGQ2MWNiYWM1`
+Snapshot ID: `MCwzYzkwNWQ2YTNjZmFhYmVhOTVhNDIwNzU5ZmVjOTg4YjBiMDI3M2I1`

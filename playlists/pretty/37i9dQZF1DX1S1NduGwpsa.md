@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Laurent Bardainne
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,391 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,419 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Embraceable You](https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable You](https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6) | 4:48 |
 | 50 | [Les Invisibles Part 2](https://open.spotify.com/track/7AlhYT03kRkweZINvY8hQ8) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Leonardo Montana](https://open.spotify.com/artist/3gDlpPLEXHWNlCZ3CO0Sx7) | [Les Invisibles Part 2](https://open.spotify.com/album/206p3aNz4hcQPHgyBuUxCi) | 3:29 |
 
-Snapshot ID: `MCw3ZTcwZGExNzM0OTRjMWY5ZTcxNzA0M2RlYjAxZjYyNDQxMWI3Y2Nm`
+Snapshot ID: `MCw5NjY2NDI1NmU3OTJhZWI3NTBjMWQ4ZDEzYzI3MWNiZWYwYjE2ZjUz`

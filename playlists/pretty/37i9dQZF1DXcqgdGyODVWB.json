@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 19364,
+  "num_followers": 19414,
   "original_name": "Norte\u00f1o Pa' La Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzk2Zjk2ZjdmM2IwMDFhOTE1MmIzMjUzMDk3NmEyMmI2YTEyNmVm",
+  "snapshot_id": "MCwwZGY2ZDkyYzBmMjQ5YTk2NTRmZTZhMDg2MjgxZTNlNzI1M2Q1OGMw",
   "tracks": [
     {
       "added_at": "2023-12-07 01:18:03",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "En Las Buenas Y En Las Malas",
-        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Con Ese Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 190258,
       "name": "En Silencio",
       "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "En Las Buenas Y En Las Malas",
+        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Con Ese Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Modo Inc\u00f3gnito",
         "url": "https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 250872,
       "name": "Modo Inc\u00f3gnito",
       "url": "https://open.spotify.com/track/7C3ajbwFKs2tThsJfTC9Hf"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Diez",
-        "url": "https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi"
-      },
-      "artists": [
-        {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
-        }
-      ],
-      "duration_ms": 198085,
-      "name": "Los \u00c1ngeles Existen",
-      "url": "https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 221093,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Diez",
+        "url": "https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi"
+      },
+      "artists": [
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "duration_ms": 198085,
+      "name": "Los \u00c1ngeles Existen",
+      "url": "https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Que Nos Paso?",
+        "url": "https://open.spotify.com/album/4hvvrwkfzjZgePbesL0k6d"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/7dMaqgQCxXnAmfHFRYXpNG"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 521690,
       "name": "Popurr\u00ed Cumbias: Se Muri\u00f3 De Amor/Desvelado/Otra Vez - En Vivo",
       "url": "https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "De Cuando Ac\u00e1",
-        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
-      },
-      "artists": [
-        {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
-        }
-      ],
-      "duration_ms": 178474,
-      "name": "De Cuando Ac\u00e1",
-      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Que Nos Paso?",
-        "url": "https://open.spotify.com/album/4hvvrwkfzjZgePbesL0k6d"
+        "name": "De Cuando Ac\u00e1",
+        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
       },
       "artists": [
         {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
         }
       ],
-      "duration_ms": 159519,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/7dMaqgQCxXnAmfHFRYXpNG"
+      "duration_ms": 178474,
+      "name": "De Cuando Ac\u00e1",
+      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/2QkoMdU9Q7pGdRfwgatnAv"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 220479,
+      "name": "Cuando Te Acuerdes De Mi",
+      "url": "https://open.spotify.com/track/5VXIXr4FNQjdHEQJq2jgo1"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/2QkoMdU9Q7pGdRfwgatnAv"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 220479,
-      "name": "Cuando Te Acuerdes De Mi",
-      "url": "https://open.spotify.com/track/5VXIXr4FNQjdHEQJq2jgo1"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Norte\u00f1o, Vol. 2",
         "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Nunca Imagin\u00e9",
-        "url": "https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL"
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
       },
       "artists": [
         {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 232680,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET"
+      "duration_ms": 191173,
+      "name": "A Ver Si Capea",
+      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
         }
       ],
-      "duration_ms": 191173,
-      "name": "A Ver Si Capea",
-      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
+      "duration_ms": 232680,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1547,22 +1547,6 @@
       "duration_ms": 190682,
       "name": "Ando Bien Agusto",
       "url": "https://open.spotify.com/track/5heouRKOr5RdKXWd4tdZZw"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "As\u00ed Somos",
-        "url": "https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Nube",
-          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
-        }
-      ],
-      "duration_ms": 194952,
-      "name": "Tu Forma de Ser",
-      "url": "https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1611,6 +1595,22 @@
       "duration_ms": 208049,
       "name": "Ojala y te animes",
       "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "As\u00ed Somos",
+        "url": "https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "duration_ms": 194952,
+      "name": "Tu Forma de Ser",
+      "url": "https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H"
     },
     {
       "added_at": "2023-12-07 01:18:03",

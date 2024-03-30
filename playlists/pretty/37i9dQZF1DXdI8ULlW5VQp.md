@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Reik y Ha\*Ash en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,198 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,204 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Una Canción Para Los Dos](https://open.spotify.com/track/17K6zR8IDwtwLhFHIrBYs4) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:33 |
 | 75 | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/track/55V2INjfekUKprOLzWb9Q1) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/album/6Zg8f2tHcjjs4Fw2c4VNbG) | 2:53 |
 
-Snapshot ID: `MCxiMzZjNTJlYWY0MjNiNmQyYTE3Mjc0N2Q4YWY5ZmIzMjllYTUzNTEw`
+Snapshot ID: `MCw5MzBiMTFjOWIxYTdhMWY3YzNlZjdmOTFmNGE2MTE3OGI0ZmU1MmM0`

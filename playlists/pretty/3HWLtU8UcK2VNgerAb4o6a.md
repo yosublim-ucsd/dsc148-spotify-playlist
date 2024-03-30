@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 
 > 
 
-[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 0 like - 192 songs - 7 hr 40 min
+[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 0 like - 218 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,5 +200,31 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 | 190 | [Slaughter House](https://open.spotify.com/track/1FlOHhlBsJhfv8K4cttbVE) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Rainbow Bridge](https://open.spotify.com/album/2KSCZ4B1q3YqOKMBKsjA0a) | 3:20 |
 | 191 | [Huntin Wabbits](https://open.spotify.com/track/3Y5nzPEsRjFR6tJtVKhDRh) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Huntin Wabbits](https://open.spotify.com/album/0fhzGvFKAlMONkSzU1JPTa) | 2:57 |
 | 192 | [Bleed A River](https://open.spotify.com/track/6dnrXqiFXJkfFTSlBdWFhu) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bleed A River](https://open.spotify.com/album/0c8HJiI4rTpn8aiXWxoLdh) | 3:49 |
+| 193 | [Mordor](https://open.spotify.com/track/3yfEwKCXp3bz1EquL3dIxw) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 2:40 |
+| 194 | [Wendigo](https://open.spotify.com/track/5OF5WIsTGtbNUBMFOAAA9H) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:28 |
+| 195 | [Benadryl Angyl](https://open.spotify.com/track/6ZrNumZqBM8qMjPyfwziKh) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:30 |
+| 196 | [Bleed A River](https://open.spotify.com/track/6dnrXqiFXJkfFTSlBdWFhu) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bleed A River](https://open.spotify.com/album/0c8HJiI4rTpn8aiXWxoLdh) | 3:49 |
+| 197 | [Slaughter House](https://open.spotify.com/track/1FlOHhlBsJhfv8K4cttbVE) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Rainbow Bridge](https://open.spotify.com/album/2KSCZ4B1q3YqOKMBKsjA0a) | 3:20 |
+| 198 | [Huntin Wabbits](https://open.spotify.com/track/3Y5nzPEsRjFR6tJtVKhDRh) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Huntin Wabbits](https://open.spotify.com/album/0fhzGvFKAlMONkSzU1JPTa) | 2:57 |
+| 199 | [Buryd My Heart](https://open.spotify.com/track/7HcKcozVbBdgovKe1aJ2XW) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:53 |
+| 200 | [Creepin' Thru Da Woods](https://open.spotify.com/track/4QIEsteP8ZRDybShQNuA2J) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Rainbow Bridge 3](https://open.spotify.com/album/5kBxkUFvOgxNHDu0kHEeuS) | 3:24 |
+| 201 | [Headlights](https://open.spotify.com/track/6KsxVunlzU4BMXE0qrPCwG) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 4:01 |
+| 202 | [Hearse Trucks](https://open.spotify.com/track/4R9W3SyDLLsmpBtPlZBjFX) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 2:45 |
+| 203 | [Barrow Wights](https://open.spotify.com/track/2OPtQ7o5M2frQfePdrLPBu) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:22 |
+| 204 | [Bloody Angel](https://open.spotify.com/track/4QAUW9gVlfTUYEgv0vbht4) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:35 |
+| 205 | [Sacrifyce](https://open.spotify.com/track/5Q9a7CrCRkRnvgCWU5GmC4) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:02 |
+| 206 | [Babayaga](https://open.spotify.com/track/6K9aCr6Nwp3RMvOmcQafWZ) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Butcher House](https://open.spotify.com/album/2T1GRKlc7BEVxngyYfUMvT) | 2:45 |
+| 207 | [Demon In Pain](https://open.spotify.com/track/5hHgiC2EuieawT08TRKi42) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:10 |
+| 208 | [Funeral](https://open.spotify.com/track/2IFU58rrImhCyru96m7dYU) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Rainbow Bridge 2](https://open.spotify.com/album/0EWPDuyXs8aFYt2sgzH4eT) | 2:55 |
+| 209 | [Haunted Mound Reapers](https://open.spotify.com/track/27Sv3T9nX7Y3KZuewee3lc) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Hackle](https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO) | [Butcher House](https://open.spotify.com/album/2T1GRKlc7BEVxngyYfUMvT) | 3:47 |
+| 210 | [Parking Lot Scarecrow](https://open.spotify.com/track/72iKGcAIrS6VsPLegPyOZS) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:03 |
+| 211 | [Smoke Machine](https://open.spotify.com/track/0PBX3HkehMdVGSVAT4OWNL) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 2:59 |
+| 212 | [Black Wings My Team](https://open.spotify.com/track/20IKKHHZyQ1FZvZktnuEdp) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Lil Flash](https://open.spotify.com/artist/069qBEK34YGoX7nSIT74Eg) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:43 |
+| 213 | [Wendigo](https://open.spotify.com/track/6twXcof6Q2HB1cKQm6dyWq) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Wendigo](https://open.spotify.com/album/77WnBXLuQTrejRUDfvMYtj) | 3:28 |
+| 214 | [Get Money 'N Die](https://open.spotify.com/track/63mtR5uMGO6u0hzLlsRxnM) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 2:50 |
+| 215 | [Bunny Suit](https://open.spotify.com/track/4W2P5X1qz3RJEQWjo74vL2) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Rainbow Bridge](https://open.spotify.com/album/2KSCZ4B1q3YqOKMBKsjA0a) | 3:01 |
+| 216 | [Headlights](https://open.spotify.com/track/2hHu3HnSdkaU0AQldoClKA) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Headlights](https://open.spotify.com/album/3gFEjZVauOTtoWsu4S38Nr) | 4:01 |
+| 217 | [Hockey Mask 2](https://open.spotify.com/track/72WNi24DxzMNWenBjQR5q9) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Hackle](https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:32 |
+| 218 | [Dead Trees](https://open.spotify.com/track/2l6BbhNSuFtmHqJn1PjA8L) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [Bloody Angel](https://open.spotify.com/album/2Ev6DBJuStxI4ZKLsMgMQs) | 3:23 |
 
-Snapshot ID: `NDg4LGIwZTcyYmE5YTc4YTZlNzdkNDdlOWUzZjUxZmNmZTUyNGJkNmJkMGM=`
+Snapshot ID: `NDg5LDg5ZTU3ZThjZmQ4ZmRiYzgxOWQ3MzY1MmFiNGRmYWIxMzI4YTdkZDk=`

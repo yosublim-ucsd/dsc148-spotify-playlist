@@ -1889,6 +1889,32 @@
     },
     {
       "album": {
+        "name": "Mister Am\u00e9rico / Bolero de M\u00e3e (feat. Thiago Rabello & Salom\u00e3o Soares)",
+        "url": "https://open.spotify.com/album/3v7S75Lv2e02tUHWQpbV6f"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Thiago Rabello",
+          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
+        },
+        {
+          "name": "Salom\u00e3o Soares",
+          "url": "https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237675,
+      "name": "Mister Am\u00e9rico (feat. Thiago Rabello & Salom\u00e3o Soares)",
+      "url": "https://open.spotify.com/track/4r3tvfkc2r0gawvdtvBtIV"
+    },
+    {
+      "album": {
         "name": "Palavra Alada 1",
         "url": "https://open.spotify.com/album/7k4B1RcDhKchDEBccyEuc0"
       },
@@ -2954,7 +2980,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 247683,
       "name": "Sobre a Lua e os Passos",
       "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"

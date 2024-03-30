@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 576982,
+  "2024-03-30": 577168,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Chile.",
   "name": "Top 50 - Chile",
@@ -3463,7 +3463,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 167183,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/2NChmxbTUH01QhspbVOAnu"
@@ -3747,6 +3747,32 @@
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"
+    },
+    {
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/1Ui1zmux8S991ZGLDck5Jh"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2lcRmD1OrJq7PKidfQNb1S"
     },
     {
       "album": {

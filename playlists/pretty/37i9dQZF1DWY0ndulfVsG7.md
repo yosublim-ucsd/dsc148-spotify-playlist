@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,531 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,587 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 39 | [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 |
 | 40 | [My Heart](https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv), [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:33 |
 | 41 | [Seperti Kisah](https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg) | 4:39 |
-| 42 | [Pencinta Wanita](https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:13 |
-| 43 | [Aku dan Dirimu \(feat\. Ari Lasso\)](https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 4:27 |
+| 42 | [Aku dan Dirimu \(feat\. Ari Lasso\)](https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 4:27 |
+| 43 | [Pencinta Wanita](https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:13 |
 | 44 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 |
 | 45 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 |
 | 46 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
 | 47 | [Akhir Cerita Cinta](https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 4:00 |
 | 48 | [Berdua Lebih Baik](https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:41 |
 | 49 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
-| 50 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 |
+| 50 | [Cinta Sejati \- From "Habibie & Ainun"](https://open.spotify.com/track/7zPiwqd1uxBkiHuk2OoBWJ) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \(From "Habibie & Ainun"\)](https://open.spotify.com/album/3cMuELN6TQ1pF5fkOcdhpv) | 5:00 |
 
-Snapshot ID: `MCxhNGQ2NjAyYzExYjBlZDJiNzJhNjMzNTM3NDVkYmVjYjQ4YjA3ZDNl`
+Snapshot ID: `MCwzNjg1NjM3Y2IwYzk0N2RiNDFkNjJhYWFjYWI5NzliOWM5ZjdmN2Y1`

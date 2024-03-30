@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: WOS & Indio Solari
 
-248 songs - 15 hr 30 min
+249 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Es Clara](https://open.spotify.com/track/4qjbWPK08sOcDls6mURNSu) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Clara](https://open.spotify.com/album/01AWewQ88qLqXKxHinZf6y) | 3:47 | 2023-07-28 |  |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-06-24 | 2023-09-27 |
 | [Escapar](https://open.spotify.com/track/5wox6DMRibm9xFZklhWmSZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Escapar](https://open.spotify.com/album/1RIilWLhdLU2dhUvhxx0EQ) | 2:56 | 2022-09-02 | 2022-12-03 |
+| [Ese Lugar de Ninguna Parte](https://open.spotify.com/track/4Ll0B5IkgX3tmuAhNlZD3g) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Ese Lugar de Ninguna Parte](https://open.spotify.com/album/5dqPE0OJqJ37nEXMIj1eTI) | 3:52 | 2024-03-29 |  |
 | [Ese Tren \(feat\. Skay Beilinson\)](https://open.spotify.com/track/0BF8OUoMz4w4EHzqKV5TpY) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Ese Tren \(feat\. Skay Beilinson\)](https://open.spotify.com/album/4kUrH3Fb6Fx7Ps0AkgzQMS) | 3:45 | 2022-09-02 | 2023-06-17 |
 | [Eso no es Amor](https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Día del Trabajador](https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI) | 4:45 | 2023-09-26 | 2023-11-18 |
 | [Esperando Nacer](https://open.spotify.com/track/2Ymx1N04hDeyi0c9V7ckPT) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Esperando Nacer](https://open.spotify.com/album/6nMSnZqmI52qTP0scuf6Kh) | 5:45 | 2022-06-24 | 2022-11-19 |

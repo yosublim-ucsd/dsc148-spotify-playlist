@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "4 The Trouble",
+        "url": "https://open.spotify.com/album/3RnlEPL13M1cxDGzS26U2h"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "4 The Trouble",
+      "url": "https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz"
+    },
+    {
+      "album": {
         "name": "400",
         "url": "https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3"
       },
@@ -238,7 +256,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 196904,
       "name": "444",
       "url": "https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa"
@@ -728,7 +746,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 181875,
       "name": "Aisha",
       "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 161572,
       "name": "Bon Bon",
       "url": "https://open.spotify.com/track/0eZq2EICF4Yf7hFuboxnr2"
@@ -5504,7 +5522,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 167906,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
@@ -5830,7 +5848,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 167619,
       "name": "Dale",
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
@@ -6935,6 +6953,28 @@
     },
     {
       "album": {
+        "name": "Don't Be Afraid",
+        "url": "https://open.spotify.com/album/4TCiAtPP4wUJdpI2nDTMz9"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "KeeQ",
+          "url": "https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210967,
+      "name": "Don't Be Afraid",
+      "url": "https://open.spotify.com/track/0JvzedR9RXOOMcNEAYjWZP"
+    },
+    {
+      "album": {
         "name": "Don't Cha",
         "url": "https://open.spotify.com/album/3sw9bsmTwb1YxKDfVyJ4NM"
       },
@@ -7140,6 +7180,28 @@
       "duration_ms": 215624,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/1pCriEGIU8StrJreMlk23u"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Fall",
+        "url": "https://open.spotify.com/album/5lvZDL4qUTZhOYL0iSxtIW"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Framed Stories",
+          "url": "https://open.spotify.com/artist/0hxIhtwCpZU2Z9bDXc4dCk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171968,
+      "name": "Don't Wanna Fall",
+      "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
     },
     {
       "album": {
@@ -7658,7 +7720,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
@@ -7728,6 +7790,28 @@
       "duration_ms": 198469,
       "name": "Drums (Feat. Kim Petras) - Wh0 Remix",
       "url": "https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ"
+    },
+    {
+      "album": {
+        "name": "Dubplate 99 (VIP EDIT)",
+        "url": "https://open.spotify.com/album/2sLfRUeeAB37YO2Xl00tPf"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/3xZSzWPy81IW706xaB6Yk1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259842,
+      "name": "Dubplate 99 - VIP EDIT",
+      "url": "https://open.spotify.com/track/4H4whJox6zbUy8CoYiynTh"
     },
     {
       "album": {
@@ -10387,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "Get Ur Freak On",
+        "url": "https://open.spotify.com/album/7Kka3jOu0UjsKxk2OOecjS"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/5nUCgy69OvkL4QNuEfMB3l"
+    },
+    {
+      "album": {
         "name": "Ghost - Cloverdale Remix",
         "url": "https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW"
       },
@@ -11210,7 +11312,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 220461,
       "name": "Heard It Like This",
       "url": "https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr"
@@ -17839,6 +17941,28 @@
     },
     {
       "album": {
+        "name": "No Big Deal",
+        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339792,
+      "name": "Motivashun",
+      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
+    },
+    {
+      "album": {
         "name": "Motivate",
         "url": "https://open.spotify.com/album/25J6q42R7zvRoECkz7PGdj"
       },
@@ -18798,7 +18922,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 197812,
       "name": "Never Leave You (Uh Oh) - Club Mix",
       "url": "https://open.spotify.com/track/6vS4QHhODz5P779tfqIzB4"
@@ -19296,7 +19420,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 186299,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
@@ -20016,6 +20140,24 @@
       "duration_ms": 161645,
       "name": "One More Song",
       "url": "https://open.spotify.com/track/6qalunpRPmQN07RT1OmMRx"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/6tQGtE0HMyZrHJe6FVTaLB"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0VPn0rLzjEXQFilpZuITL1"
     },
     {
       "album": {
@@ -24632,7 +24774,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 182920,
       "name": "Sleep When I'm Dead",
       "url": "https://open.spotify.com/track/30yeok7NHCtILGL5MVmcbE"
@@ -26568,6 +26710,28 @@
       "duration_ms": 230078,
       "name": "TALKIN",
       "url": "https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U"
+    },
+    {
+      "album": {
+        "name": "Tarantula (Max Styler Remix)",
+        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201243,
+      "name": "Tarantula - Max Styler Remix",
+      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
       "album": {
@@ -29164,7 +29328,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180000,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE"
@@ -29346,9 +29510,9 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 188538,
-      "name": "Vai Caralho - Do togo",
+      "name": "Vai Caralho (Do togo)",
       "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"
     },
     {
@@ -30793,6 +30957,28 @@
     },
     {
       "album": {
+        "name": "Wildstyle",
+        "url": "https://open.spotify.com/album/1vqZbevQkLOvgu8wHGGeQL"
+      },
+      "artists": [
+        {
+          "name": "Kaysin",
+          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
+        },
+        {
+          "name": "DOUG!",
+          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Wildstyle",
+      "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"
+    },
+    {
+      "album": {
         "name": "Wonder (Jayms Remix)",
         "url": "https://open.spotify.com/album/7e30VE59flBAjdICnTugCq"
       },
@@ -30900,7 +31086,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 167760,
       "name": "Work It",
       "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"

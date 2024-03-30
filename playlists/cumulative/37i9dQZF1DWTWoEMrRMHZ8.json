@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: C\u00e9u",
+  "description": "As belas novidades da MPB. Foto: Joyce Alane",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181169,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
+    },
+    {
+      "album": {
         "name": "Como?",
         "url": "https://open.spotify.com/album/7oKSIPVclBkXq3tlurAzb0"
       },
@@ -4157,6 +4175,32 @@
     },
     {
       "album": {
+        "name": "Love Songs, Vol. I",
+        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "BRUN\u00ca",
+          "url": "https://open.spotify.com/artist/1Xb6QnMiLu7H0IZgMY996F"
+        },
+        {
+          "name": "DeVito Cxrleone",
+          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "eu j\u00e1 n\u00e3o falo de amor",
+      "url": "https://open.spotify.com/track/1tPvz44w6JfROTBwRpUKhp"
+    },
+    {
+      "album": {
         "name": "Eu Nem Ligo",
         "url": "https://open.spotify.com/album/68CiYAj4cMlbSxsIMRkiqi"
       },
@@ -4180,6 +4224,24 @@
       "duration_ms": 183355,
       "name": "Eu Nem Ligo",
       "url": "https://open.spotify.com/track/5hZw6yNbvVIyKaCwX04e6B"
+    },
+    {
+      "album": {
+        "name": "Eu n\u00e3o t\u00f4 bem",
+        "url": "https://open.spotify.com/album/377PD3X26PookRc8iWwcu2"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146560,
+      "name": "Eu n\u00e3o t\u00f4 bem",
+      "url": "https://open.spotify.com/track/05SC9r9wlESAkkxWhzv2aL"
     },
     {
       "album": {
@@ -4834,7 +4896,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 203434,
       "name": "Grand' Hotel",
       "url": "https://open.spotify.com/track/3z0d0L04jSDRHxWItUy0cP"
@@ -6921,6 +6983,24 @@
     },
     {
       "album": {
+        "name": "Neste Contexto",
+        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182757,
+      "name": "Neste Contexto",
+      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
+    },
+    {
+      "album": {
         "name": "Onde?",
         "url": "https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS"
       },
@@ -7801,6 +7881,28 @@
     },
     {
       "album": {
+        "name": "O QUE EXISTE \u00c9 O AGORA",
+        "url": "https://open.spotify.com/album/0LAEuFozh71JAaa6l8z6Cr"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "O QUE EXISTE \u00c9 O AGORA",
+      "url": "https://open.spotify.com/track/7yqGbzywtjCDOvsYz6hl5D"
+    },
+    {
+      "album": {
         "name": "alma doce",
         "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
       },
@@ -8026,7 +8128,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201571,
       "name": "Os Cabelos Dela",
       "url": "https://open.spotify.com/track/4zZw9edlH0A52ldxB9I49Q"
@@ -8901,6 +9003,28 @@
     },
     {
       "album": {
+        "name": "Por Que N\u00e3o",
+        "url": "https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA"
+      },
+      "artists": [
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185639,
+      "name": "Por Que N\u00e3o",
+      "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
+    },
+    {
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -9228,7 +9352,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 163268,
       "name": "Preciso Me Encontrar (Cita\u00e7\u00e3o: Deixe Me Ir)",
       "url": "https://open.spotify.com/track/3AyvCLfKJx3hvzKPLaM1TP"
@@ -10252,7 +10376,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 233459,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
@@ -10518,7 +10642,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170880,
       "name": "Saudade Fez um Samba",
       "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
@@ -13068,7 +13192,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195472,
       "name": "V\u00e9spera",
       "url": "https://open.spotify.com/track/33F9hre8luwI7mkN6bklqw"

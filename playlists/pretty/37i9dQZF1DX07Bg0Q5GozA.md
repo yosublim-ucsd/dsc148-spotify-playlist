@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Purple Disco Machine, Roosevelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,551 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,613 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 |
+| 1 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 |
 | 2 | [Self Sabotage](https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Self Sabotage](https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v) | 2:25 |
 | 3 | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv) | 3:14 |
 | 4 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 |
 | 75 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 |
 
-Snapshot ID: `MCxjYTU0YjIxMWFiNjgyYzgwZGIwZDlhN2Y0MmM3ODkwMWQ4MmNhMDhh`
+Snapshot ID: `MCw5Nzc3YzhlYmFhNTI5ZDczOTBkYTNlNzNlYTVlYzg4M2EwZDE0MTZh`

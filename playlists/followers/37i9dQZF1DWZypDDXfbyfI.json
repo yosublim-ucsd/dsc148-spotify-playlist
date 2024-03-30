@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 241258,
+  "2024-03-30": 241322,
   "date_first_scraped": "2023-08-25",
   "description": "\u00c9xitos de todos los tiempos musicalizan tu cocina.",
   "name": "Cocina de cl\u00e1sicos",
@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
@@ -1693,6 +1693,24 @@
       "duration_ms": 261093,
       "name": "The Man Who Sold The World - Live",
       "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
+    },
+    {
+      "album": {
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162186,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
     },
     {
       "album": {

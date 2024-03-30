@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 42962,
+  "num_followers": 42972,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmI5MzVlODU2Njg0ZDQ1ZGVkNGVhNWYyYjUxN2EwOGI3YmU2ZmY5",
+  "snapshot_id": "MCw4ZTA2MDc4ZTliZmU2YTE2NjNmMWJhNTJlYjhiZmMxMDMxZjQyOTE2",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "Cempas\u00fachil",
-      "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Cuatro Tigres",
         "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 146680,
       "name": "La Danza de los Simpsons",
       "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "Cempas\u00fachil",
+      "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "Arroz Con Frijoles",
+      "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
         "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 158453,
       "name": "Maria Cristina",
       "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 241520,
-      "name": "Arroz Con Frijoles",
-      "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Guapapasea!",
-        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
-      },
-      "artists": [
-        {
-          "name": "Gecko Turner",
-          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
-        }
-      ],
-      "duration_ms": 331293,
-      "name": "Limon En La Cabeza",
-      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Dedicated To Nelson",
         "url": "https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 165626,
       "name": "Mangos",
       "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Guapapasea!",
+        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
+      },
+      "artists": [
+        {
+          "name": "Gecko Turner",
+          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
+        }
+      ],
+      "duration_ms": 331293,
+      "name": "Limon En La Cabeza",
+      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
     },
     {
       "added_at": "2022-01-11 03:10:29",

@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192133,
       "name": "Be Your Love",
       "url": "https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA"
@@ -3304,6 +3304,24 @@
       "duration_ms": 207773,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m"
+    },
+    {
+      "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/1fd8EG7lwkqjs3bRMwyHrx"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261252,
+      "name": "Stand by you",
+      "url": "https://open.spotify.com/track/3D7PTQ1lXl2Ni7dophG4of"
     },
     {
       "album": {

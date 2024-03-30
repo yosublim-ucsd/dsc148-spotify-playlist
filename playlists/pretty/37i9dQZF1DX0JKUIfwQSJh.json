@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 879413,
+  "num_followers": 879520,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmVlYTJlNzI4OThlZTliYWQwZWUwNjVkNDNkMGVjNTdiYzkzNzdh",
+  "snapshot_id": "MCw2M2UwMzAwNTVhOTE1MmM2YzgwNWZhNGUxZjI3NDlkNmQwZjRiNzc1",
   "tracks": [
     {
       "added_at": "2024-03-25 16:59:03",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
         "name": "Gord's Gold",
         "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 229560,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
-        "name": "Acoustic Classics",
-        "url": "https://open.spotify.com/album/7uxBvnydUpDG30TEBponLj"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/0LdHslmYWhOcyr23vUAXxw"
     },
     {
       "added_at": "2024-03-25 16:59:03",
@@ -847,34 +847,18 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+        "name": "Acoustic Classics",
+        "url": "https://open.spotify.com/album/7uxBvnydUpDG30TEBponLj"
       },
       "artists": [
         {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
         }
       ],
-      "duration_ms": 230226,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
-        "name": "Led Zeppelin IV (Remaster)",
-        "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Going to California - Remaster",
-      "url": "https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T"
+      "duration_ms": 309760,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/0LdHslmYWhOcyr23vUAXxw"
     },
     {
       "added_at": "2024-03-25 16:59:03",
@@ -895,6 +879,22 @@
       "duration_ms": 227705,
       "name": "My My, Hey Hey (Out of the Blue) - 2016 Remaster",
       "url": "https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
+        "name": "Led Zeppelin IV (Remaster)",
+        "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Going to California - Remaster",
+      "url": "https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T"
     },
     {
       "added_at": "2024-03-25 16:59:03",

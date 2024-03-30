@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-247 songs - 15 hr 11 min
+248 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 | 2022-04-15 | 2023-05-25 |
 | [Cutty Dub 23](https://open.spotify.com/track/4btfN4wAlOCadvxFztH9bm) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Cutty Dub 23](https://open.spotify.com/album/2GWudukTcN6t7xhMzHigkq) | 4:22 | 2023-12-22 |  |
 | [Da Bomb](https://open.spotify.com/track/2H1R8OwkWuOkwNIDkA9Vcp) | [Guau](https://open.spotify.com/artist/3B09YsVwUYEmbxDAHqJhvs) | [Da Bomb](https://open.spotify.com/album/5C0WDCdIgFf0irvBdtwyUI) | 4:24 | 2022-05-13 | 2022-09-24 |
-| [Dance \- Tengu remix](https://open.spotify.com/track/5wVsRQKP6xt4Z82QQDJA2f) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Dance \(The Remixes\)](https://open.spotify.com/album/21Gn31tVzHqLQwQBrDbKGW) | 4:23 | 2022-05-13 |  |
+| [Dance \- Tengu remix](https://open.spotify.com/track/5wVsRQKP6xt4Z82QQDJA2f) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Dance \(The Remixes\)](https://open.spotify.com/album/21Gn31tVzHqLQwQBrDbKGW) | 4:23 | 2022-05-13 | 2024-03-30 |
 | [Dead To Me](https://open.spotify.com/track/6rFCbfnOPMjICtT8523Ayg) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx) | [Overthink](https://open.spotify.com/album/4E7rDgxZhROpAqyyJlPCtP) | 4:06 | 2022-04-15 | 2022-07-26 |
 | [Dealing Wit](https://open.spotify.com/track/1ih35oQ4ucmBxSM0jiNFLD) | [Sample Junkie](https://open.spotify.com/artist/4wagk05pY90VFn0YfthIPm), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Dealing Wit](https://open.spotify.com/album/6ShDCwUiAW4k8JtdsNCkmn) | 4:20 | 2022-04-15 | 2022-07-29 |
 | [DIY \- Old Skool Mix](https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 3:09 | 2023-12-22 |  |
@@ -126,6 +126,7 @@
 | [I Want You Back](https://open.spotify.com/track/2bnpB2SaoYdnVCAxQbSAuO) | [Mr Virgo](https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU) | [I Want You Back](https://open.spotify.com/album/43TzjTz1lUfZ0J6hPDyu0g) | 2:59 | 2022-04-15 | 2022-07-28 |
 | [Icon](https://open.spotify.com/track/3FzRX9CTMgu2Qn1wHE6ygo) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/2kwFtcaZUVlEK3liC4PywN) | 2:37 | 2022-04-15 | 2022-07-27 |
 | [Icon](https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En) | 2:37 | 2023-04-04 | 2023-12-22 |
+| [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 | 2024-03-01 |  |
 | [In My Head](https://open.spotify.com/track/2yWYceNVmSmTc4XK4GQAsZ) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [In My Head](https://open.spotify.com/album/3x0BpjZvx3VzldV7uEdvU5) | 3:29 | 2022-04-22 | 2022-07-21 |
 | [In The Rave](https://open.spotify.com/track/4pTk5KSXzF68SMACQ1fCyR) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ), [2 Below](https://open.spotify.com/artist/7wponEQgf3A7sgrV6cbSk7) | [In The Rave](https://open.spotify.com/album/65ZW9lhYTBzcqJdHc4q2aB) | 3:16 | 2022-04-15 | 2022-07-24 |
 | [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 | 2023-01-24 |  |

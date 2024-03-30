@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1820867,
+  "num_followers": 1820876,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzQ1NWIwZWVmOTMwYzYyMTMxYTY0NzFlODc2NjlmNTJkZTYwYmQ3",
+  "snapshot_id": "MCxiYmZhNmE5MjRkMzkyNWNiMDNhNWE0YjYzOGU3NDgxM2RlZTIyZWZj",
   "tracks": [
     {
       "added_at": "2024-01-16 15:48:48",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-01-16 15:48:48",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2024-01-16 15:48:48",
-      "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 159665,
       "name": "Agua (with J Balvin)",
       "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
+    },
+    {
+      "added_at": "2024-01-16 15:48:48",
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
     },
     {
       "added_at": "2024-01-16 15:48:48",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-01-16 15:48:48",
       "album": {
+        "name": "BEACHY",
+        "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "BEACHY",
+      "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
+    },
+    {
+      "added_at": "2024-01-16 15:48:48",
+      "album": {
         "name": "A Un Paso De La Luna (Remix)",
         "url": "https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 194262,
       "name": "A Un Paso De La Luna - Remix",
       "url": "https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv"
-    },
-    {
-      "added_at": "2024-01-16 15:48:48",
-      "album": {
-        "name": "BEACHY",
-        "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "BEACHY",
-      "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
     },
     {
       "added_at": "2024-01-16 15:48:48",

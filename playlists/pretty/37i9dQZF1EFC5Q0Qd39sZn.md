@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,646 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,651 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,8 +220,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 210 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
 | 211 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
 | 212 | [Still Here](https://open.spotify.com/track/5OzYchiIV8Jd1AXcvncIHy) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:41 |
-| 213 | [Delete You](https://open.spotify.com/track/5LXEgus3zxYYBruGDy14tx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Guilty Pleasure](https://open.spotify.com/album/4iKfmBKXuzPROAXBuZKAVM) | 3:33 |
-| 214 | [Exceptional](https://open.spotify.com/track/7nqKm8Nj4GXmvknMjjc9vf) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:43 |
+| 213 | [Exceptional](https://open.spotify.com/track/7nqKm8Nj4GXmvknMjjc9vf) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:43 |
+| 214 | [Delete You](https://open.spotify.com/track/5LXEgus3zxYYBruGDy14tx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Guilty Pleasure](https://open.spotify.com/album/4iKfmBKXuzPROAXBuZKAVM) | 3:33 |
 | 215 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
 | 216 | [Nic Nás Nezastaví](https://open.spotify.com/track/027HCxtutlZLuErAbNKOoi) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM), [Gabriela Gunčíková](https://open.spotify.com/artist/1hP5sHxrXXIEoobF4EGcie) | [Dotek Lásky](https://open.spotify.com/album/4xLycbbzp5p1gxGR7YZMtd) | 3:51 |
 | 217 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 |
@@ -347,8 +347,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 337 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
 | 338 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
 | 339 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
-| 340 | [Shine](https://open.spotify.com/track/0v2Qw3hhGhpK07yHYtCaVf) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:40 |
-| 341 | [Show Me The Way Back To Your Heart](https://open.spotify.com/track/55pJM8TMefpyEBnuzoViIU) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 3:57 |
+| 340 | [Show Me The Way Back To Your Heart](https://open.spotify.com/track/55pJM8TMefpyEBnuzoViIU) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 3:57 |
+| 341 | [Shine](https://open.spotify.com/track/0v2Qw3hhGhpK07yHYtCaVf) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:40 |
 | 342 | [All Your Attention](https://open.spotify.com/track/6rUQWAQuY5gFMNcltJVbdF) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/3RmAP5v4xev7yl3r0mjJPV) | 3:46 |
 | 343 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 |
 | 344 | [Never Gonna Break My Heart Again](https://open.spotify.com/track/7BEg23J2vdnoAbQ46styWQ) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Deborah Cox \(Expanded\)](https://open.spotify.com/album/2SM60rNc5lbJXIxe7Ru4Xd) | 4:10 |
@@ -467,8 +467,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 457 | [Too Many Tears, Too Many Times](https://open.spotify.com/track/23ZGF47GSg8tiHQrVyjgM6) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:30 |
 | 458 | [Remind My Heart](https://open.spotify.com/track/1UErZtDiUZExWAgFclSGH2) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [Passion](https://open.spotify.com/album/34HsSHnByRffyHCOWTt8CE) | 4:29 |
 | 459 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 |
-| 460 | [Save Me Tonight](https://open.spotify.com/track/18T30dIaan4ETXksSfpCJQ) | [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX) | [Mick Jones](https://open.spotify.com/album/5geCRg9dV7n6cYTtVtbtr0) | 3:51 |
-| 461 | [Little Too Much, Little Too Late](https://open.spotify.com/track/6p4yXipO2RNsb9IuJbHnCA) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring \(Deluxe\)](https://open.spotify.com/album/7hbEvzk6T3oVLJXw1mNoix) | 3:24 |
+| 460 | [Little Too Much, Little Too Late](https://open.spotify.com/track/6p4yXipO2RNsb9IuJbHnCA) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring \(Deluxe\)](https://open.spotify.com/album/7hbEvzk6T3oVLJXw1mNoix) | 3:24 |
+| 461 | [Save Me Tonight](https://open.spotify.com/track/18T30dIaan4ETXksSfpCJQ) | [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX) | [Mick Jones](https://open.spotify.com/album/5geCRg9dV7n6cYTtVtbtr0) | 3:51 |
 | 462 | [Last Kiss](https://open.spotify.com/track/4D0l7NpJuwNSkxbneDRsvT) | [Anita Cochran](https://open.spotify.com/artist/5LDnSV99gbDSsMX3Dcer2b) | [Anita](https://open.spotify.com/album/2FKzhcXcjWQoo94d7E6QwT) | 3:47 |
 | 463 | [One Less Lonely Heart](https://open.spotify.com/track/1VuOHhfq5IMKolMQP9nms3) | [Smokey Mountain](https://open.spotify.com/artist/4kqsp7WTMpLUKe9GDJfY97) | [Know You Will](https://open.spotify.com/album/0aQ3iPqAB5roQwAqF4t4bf) | 4:33 |
 | 464 | [Earthbound](https://open.spotify.com/track/7ehWiVnECZg3Xt8CACblJ1) | [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Earthbound](https://open.spotify.com/album/64eLQm7TkEZtowHYwDqIVG) | 4:23 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1Mjc5NzAsMDAwMDAwMDA5ZGM2YTFkOGJiNTk3M2U1MTYyZjcwYzdkMWNlOTZlNQ==`
+Snapshot ID: `Mjg1Mjk0MTAsMDAwMDAwMDA1MzRkMDBlMjYyMjVmNWRiM2ZhOGVmOTQzMDAwNGU5NQ==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 5003,
+  "2024-03-30": 5389,
   "date_first_scraped": "2022-05-23",
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
   "name": "Puras Pa' Pistear",
@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 167893,
       "name": "As\u00ed Nac\u00ed",
       "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
@@ -2623,7 +2623,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 198533,
       "name": "El Borrego",
       "url": "https://open.spotify.com/track/2ypDwYTfpbAgj4ocOWvgwZ"

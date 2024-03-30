@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: The Dead South",
+  "description": "Keep your finger on the pulse of Americana. Cover: Waxahatchee",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -2170,6 +2170,24 @@
     {
       "album": {
         "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
+    },
+    {
+      "album": {
+        "name": "Cowboy Gangster Politician",
         "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
       },
       "artists": [
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 232000,
       "name": "Cowboy Gangster Politician",
       "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
@@ -5222,6 +5240,24 @@
     {
       "album": {
         "name": "Broken Sky / It Takes Me Back",
+        "url": "https://open.spotify.com/album/3nhcBw2SxTvniBtW5xk9rp"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221449,
+      "name": "It Takes Me Back",
+      "url": "https://open.spotify.com/track/2Ww0ujVhOMsHFCwDfXZWAr"
+    },
+    {
+      "album": {
+        "name": "Broken Sky / It Takes Me Back",
         "url": "https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD"
       },
       "artists": [
@@ -5232,7 +5268,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 221449,
       "name": "It Takes Me Back",
       "url": "https://open.spotify.com/track/473SyXmf9C9w4CbIak2nM6"

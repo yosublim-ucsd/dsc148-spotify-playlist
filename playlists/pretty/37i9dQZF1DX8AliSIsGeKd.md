@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Betoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,203 likes - 90 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,321 likes - 90 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 54 | [Focus](https://open.spotify.com/track/5BqoenxBDt7GS31nB7ONfi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Focus](https://open.spotify.com/album/2hx11bniHH12W8UZihSMov) | 3:46 |
 | 55 | [Cracked](https://open.spotify.com/track/013SmQdgEWW9d6k0BK0kmL) | [Jan René Lai](https://open.spotify.com/artist/1pgb4RslhEd3pNEyP9NV2n) | [Cracked](https://open.spotify.com/album/2fqr2oZpKLkYAdfgvqsQNT) | 3:46 |
 | 56 | [Good To Me](https://open.spotify.com/track/7hYhl1w4KqYLenCzZ27hZ2) | [Daniel Blade](https://open.spotify.com/artist/7K7GXOZHg29V3L6xcdfZU1) | [Good To Me](https://open.spotify.com/album/3Q45KvoHANSOIh0aE23lAb) | 5:30 |
-| 57 | [Faces \- Radeckt Remix](https://open.spotify.com/track/3ppkY6KwpVpCvscf6i5KGa) | [Ebmath](https://open.spotify.com/artist/3NFKWhstN9hCqjnWJULb7d), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Faces \(Radeckt Remix\)](https://open.spotify.com/album/6PEaU3SM6eoRWDObtzACGo) | 6:49 |
+| 57 | [Faces \- Radeckt Remix](https://open.spotify.com/track/3ayDyY3GA2f7Y3Dzk01TOj) | [Ebmath](https://open.spotify.com/artist/3NFKWhstN9hCqjnWJULb7d), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Faces](https://open.spotify.com/album/772KaR8hxFRpFNUhBuwV11) | 6:49 |
 | 58 | [Running](https://open.spotify.com/track/4zw3xwoXdGw50VKlHGDF6H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/3mR3Wi3c4sI64d1rkKllEL) | 5:03 |
 | 59 | [Fool Me](https://open.spotify.com/track/42ZLMnloQhuzrURQcvKF1f) | [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4) | [Fool Me](https://open.spotify.com/album/6lvngxohsD2wVLDvnkvlVq) | 4:06 |
 | 60 | [Toot Tales](https://open.spotify.com/track/6DpWedhY3ZNBrPWw4YLyL7) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72) | [Toot Tales](https://open.spotify.com/album/7lcbV559SRtxM6R9RsN6GA) | 4:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [BEEFA](https://open.spotify.com/track/2kJURQDtx17wSCNnMDjVxb) | [ESH](https://open.spotify.com/artist/6rXMet89uui55tWrcEz7ma) | [BEEFA](https://open.spotify.com/album/1JfmkqlqQ55PK8HmD4bq1D) | 2:16 |
 | 90 | [Bottlepop](https://open.spotify.com/track/3iysa7RxuIFnYQPbEfE9IG) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Ghungroo](https://open.spotify.com/album/0WfAGokfkZ2t4Z528nJl0g) | 4:30 |
 
-Snapshot ID: `MCxiMDg5Njk1YzcyMzVhMDE2ZDYzYTQ0MGZhZjA1NzYzNjg3Yzc1ZmNi`
+Snapshot ID: `MCw5ZjdlZTZmODJjNDUxODcxNTkwZGNmMGY2N2ZkNWQ1ODRmNDg3NmVl`

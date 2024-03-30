@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 305112,
+  "2024-03-30": 305183,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Hot Mulligan",
+  "description": "The best new music from the wide world of punk. Cover: Sum 41",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1535,7 +1535,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 321766,
       "name": "An Optimist's Dilemma",
       "url": "https://open.spotify.com/track/4D09RCu6vkP24faRNgETXS"
@@ -1805,7 +1805,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 163079,
       "name": "apathy",
       "url": "https://open.spotify.com/track/4OadM4JTmSLwhzlfIl0cAS"
@@ -5737,7 +5737,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 163399,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/6HCdVYec93AUCTk2NrpRSr"
@@ -7972,6 +7972,24 @@
     },
     {
       "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+    },
+    {
+      "album": {
         "name": "DOUBT",
         "url": "https://open.spotify.com/album/41jsygAosEU6edZ06LFBNo"
       },
@@ -9978,6 +9996,24 @@
     },
     {
       "album": {
+        "name": "burnout",
+        "url": "https://open.spotify.com/album/0EjRe8ujcm3JPajilErjMj"
+      },
+      "artists": [
+        {
+          "name": "VIAL",
+          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137840,
+      "name": "friendship bracelet",
+      "url": "https://open.spotify.com/track/09OUTvnZ5LtMnkqPCKTtUd"
+    },
+    {
+      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ"
       },
@@ -10849,7 +10885,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 135681,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
@@ -11213,7 +11249,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 148533,
       "name": "Got Sold",
       "url": "https://open.spotify.com/track/4wv3g8OBf23VKjKlO0OWsb"
@@ -11289,6 +11325,24 @@
       "duration_ms": 173040,
       "name": "Gravitation",
       "url": "https://open.spotify.com/track/5gJlbXcrjLhk7n4cAnrFbC"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
     },
     {
       "album": {
@@ -13565,7 +13619,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 146065,
       "name": "I'm A Mess",
       "url": "https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp"
@@ -14874,6 +14928,24 @@
     },
     {
       "album": {
+        "name": "KILL ALL THE MEN IN THE GOVERNMENT",
+        "url": "https://open.spotify.com/album/2EE5ZbjdvKwa18jEf2KoBQ"
+      },
+      "artists": [
+        {
+          "name": "BIFF",
+          "url": "https://open.spotify.com/artist/1MZ46jOkEg0Yz8I6AAiTCf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165908,
+      "name": "KILL ALL THE MEN IN THE GOVERNMENT",
+      "url": "https://open.spotify.com/track/0ed6XbyzBbz1AMoNsMjHfU"
+    },
+    {
+      "album": {
         "name": "Kill to Be Heard",
         "url": "https://open.spotify.com/album/5U6WPf9eTW0ImDXqzDNNWJ"
       },
@@ -15593,6 +15665,24 @@
       "duration_ms": 181225,
       "name": "Letterman",
       "url": "https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH"
+    },
+    {
+      "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/63YZiViTBsGpNT25ZCz4FK"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/1WpML49J52wtI6B7cEfoRP"
     },
     {
       "album": {
@@ -18021,6 +18111,24 @@
       "duration_ms": 172120,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/24y1XFeOlxc3O2AEkoeYt8"
+      },
+      "artists": [
+        {
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241675,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/72sD1izeWWCbeD9mao5PXz"
     },
     {
       "album": {
@@ -20551,7 +20659,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 199553,
       "name": "Petty Enemy",
       "url": "https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa"
@@ -20841,6 +20949,24 @@
       "duration_ms": 196773,
       "name": "Plus One",
       "url": "https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq"
+    },
+    {
+      "album": {
+        "name": "PMS Police",
+        "url": "https://open.spotify.com/album/5sAEnRwKGLH5bBI5eb3FUI"
+      },
+      "artists": [
+        {
+          "name": "Sailor Honeymoon",
+          "url": "https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124965,
+      "name": "PMS Police",
+      "url": "https://open.spotify.com/track/0O0GhdAcMZsprSzwsDVi4x"
     },
     {
       "album": {
@@ -23101,7 +23227,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 255613,
       "name": "Scrapbook",
       "url": "https://open.spotify.com/track/4Jz7wnOkNBozJVyiee2fM1"
@@ -23953,7 +24079,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 161000,
       "name": "shut up & kiss me",
       "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
@@ -25350,6 +25476,24 @@
     },
     {
       "album": {
+        "name": "Still Seeing Red",
+        "url": "https://open.spotify.com/album/5rzKJQvAXqDv3q7BaaoiZi"
+      },
+      "artists": [
+        {
+          "name": "Kharma",
+          "url": "https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Still Seeing Red",
+      "url": "https://open.spotify.com/track/2gfp5JssoZeZz9JvUsxeRs"
+    },
+    {
+      "album": {
         "name": "Common Grief",
         "url": "https://open.spotify.com/album/74P1BOFZGOxKgtaXnO7NJw"
       },
@@ -26284,6 +26428,24 @@
     },
     {
       "album": {
+        "name": "Talk2Much",
+        "url": "https://open.spotify.com/album/2BoYzJIkCtjKyn4tTDnruP"
+      },
+      "artists": [
+        {
+          "name": "Cawston",
+          "url": "https://open.spotify.com/artist/2zvDvBSCVtiDsp6llMQ2L9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Talk2Much",
+      "url": "https://open.spotify.com/track/5l03K5o4pAErSFFcdxcLGC"
+    },
+    {
+      "album": {
         "name": "Talkin' On The Internet",
         "url": "https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay"
       },
@@ -26865,7 +27027,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 176213,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw"
@@ -27499,7 +27661,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 164185,
       "name": "The Show Must Go On",
       "url": "https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B"
@@ -28207,6 +28369,24 @@
       "duration_ms": 145367,
       "name": "Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83"
+    },
+    {
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/32HLALhFpSlyLSVMWYAaMc"
+      },
+      "artists": [
+        {
+          "name": "Native Sun",
+          "url": "https://open.spotify.com/artist/4brVz68WvAaXknF2qhCjOm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189111,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/4GdkBsqaIopybSiKDnuUSH"
     },
     {
       "album": {
@@ -31269,7 +31449,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"

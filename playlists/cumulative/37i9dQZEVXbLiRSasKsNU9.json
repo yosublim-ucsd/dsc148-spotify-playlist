@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/51IJ7laS1nxqDfjTz8xDfH"
@@ -6468,7 +6468,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -13904,7 +13904,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 160496,
       "name": "Eva (feat. Tedua)",
       "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"
@@ -17092,8 +17092,8 @@
           "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
         },
         {
-          "name": "G-Spark",
-          "url": "https://open.spotify.com/artist/2zExApX8DZoAYwTeIM1fMv"
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
         }
       ],
       "date_added": "2024-03-21",
@@ -39052,6 +39052,28 @@
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5"
+    },
+    {
+      "album": {
+        "name": "Sialan",
+        "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
+      },
+      "artists": [
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        },
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241088,
+      "name": "Sialan",
+      "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
     },
     {
       "album": {

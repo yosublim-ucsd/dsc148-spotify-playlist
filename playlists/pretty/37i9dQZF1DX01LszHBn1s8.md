@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm just a girl updating a playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,587 likes - 918 songs - 2 day 0 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,516 likes - 918 songs - 2 day 0 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 20 | [Lemonade](https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lemonade](https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH) | 2:26 |
 | 21 | [As Long As You’re Here \- Young Royals Remix](https://open.spotify.com/track/29HY0czVeZzgSUvdF4VSPu) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [As Long As You’re Here \(Young Royals Remix\)](https://open.spotify.com/album/2LxgqfXXCD8qJJm1yIRzXQ) | 3:30 |
 | 22 | [I'm Just Ken](https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 3:42 |
-| 23 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
+| 23 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 24 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
 | 25 | [Pärlor](https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 3:55 |
 | 26 | [Unforgettable](https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob) | 2:48 |
@@ -342,7 +342,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 332 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
 | 333 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 334 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
-| 335 | [Her Way \(Sped Up\)](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
+| 335 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
 | 336 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
 | 337 | [Shake That](https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL) | 2:59 |
 | 338 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
@@ -927,4 +927,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 917 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 918 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCw3MTZjOWFmNWVkNmUzY2Y0MTVhYWUyYWVlNTU1NjFmNTE3YThlMGE4`
+Snapshot ID: `MCxmNDVhMDgyNWU5MjkxYjk1MzljMTZlMzRiYzJhMjk2YTkzYWQ2ODVj`

@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Lacrimosa (Arr. Piano)",
+        "url": "https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233386,
+      "name": "Lacrimosa (Arr. Piano)",
+      "url": "https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm"
+    },
+    {
+      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },

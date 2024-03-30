@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: SPINALL",
-  "num_followers": 99932,
+  "num_followers": 100021,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFjZmU4M2FkZTNkMGE1YTJlYzI1NmQ1ODdhMDdkNjA0YTU1Mzk0",
+  "snapshot_id": "MCxiY2ExYTI4OTQwNWVhZmRkNjBhZWY0MTcwOWE0YzFjZWFjOGUzYjI0",
   "tracks": [
     {
       "added_at": "2024-03-29 00:01:00",
@@ -243,26 +243,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "OHEMA (with Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 205714,
       "name": "OHEMA (with Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -443,22 +459,6 @@
       "duration_ms": 233571,
       "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
       "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 197000,
       "name": "Kolomental",
       "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
     },
     {
       "added_at": "2024-03-29 00:01:00",

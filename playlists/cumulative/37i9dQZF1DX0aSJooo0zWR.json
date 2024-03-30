@@ -1863,6 +1863,60 @@
     },
     {
       "album": {
+        "name": "LUA",
+        "url": "https://open.spotify.com/album/3BSlZ8TJHd7PjFhjBGdErn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Rosset",
+          "url": "https://open.spotify.com/artist/35w950duS41GbEsWV2DQEq"
+        },
+        {
+          "name": "benjamin francis",
+          "url": "https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB"
+        },
+        {
+          "name": "Noah Denton",
+          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+        },
+        {
+          "name": "phonon",
+          "url": "https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y"
+        },
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Dave Eggar",
+          "url": "https://open.spotify.com/artist/76H3P1c4PIomESKq0JDiLn"
+        },
+        {
+          "name": "Michael Wang",
+          "url": "https://open.spotify.com/artist/5WBi8jHnllY29gnOGltewV"
+        },
+        {
+          "name": "Ben Sutin",
+          "url": "https://open.spotify.com/artist/5U6QYt1Lx7JNVbeg2zkgdz"
+        },
+        {
+          "name": "Dan Hitchcock",
+          "url": "https://open.spotify.com/artist/2PsETi89TqApSKLwVY50mq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351283,
+      "name": "LUA",
+      "url": "https://open.spotify.com/track/327ApgUIoKw0KAe9CSmJzY"
+    },
+    {
+      "album": {
         "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
         "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
       },

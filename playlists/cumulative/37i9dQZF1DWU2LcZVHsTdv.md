@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-229 songs - 14 hr 4 min
+231 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Here On Earth](https://open.spotify.com/track/66uk542Puhd7IrTNofH1uO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Father's Day Country 2022](https://open.spotify.com/album/2EfKugkDEM0SzeSbyXXZsY) | 4:21 | 2022-11-04 | 2022-11-14 |
 | [Here On Earth](https://open.spotify.com/track/6oARVUWXiWceOYeijMwcvw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 4:21 | 2022-07-15 |  |
 | [Hey Girl](https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Hey Girl](https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv) | 3:08 | 2022-03-04 |  |
+| [Higher Ground](https://open.spotify.com/track/7Gc6AtqoehihaLJAKDR1s6) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Higher Ground](https://open.spotify.com/album/0R7iwes3g0B3yABKayGPgl) | 4:26 | 2024-03-29 |  |
 | [Hold On \(feat\. Lauren Weintraub\)](https://open.spotify.com/track/1HkOYPY5Gx4CPYbCd6leKb) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Hold On \(feat\. Lauren Weintraub\)](https://open.spotify.com/album/2CXIMjsdCGnMQQbodq2ZmB) | 3:18 | 2021-12-10 |  |
 | [Hold Together](https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Hold Together](https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk) | 3:32 | 2022-08-26 |  |
 | [How I Learned to Pray](https://open.spotify.com/track/1zy9Ypjqd8TTxYsYEQOCy7) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Rubberband](https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b) | 4:20 | 2021-12-10 |  |
@@ -165,6 +166,7 @@
 | [Prodigal Son's Prayer](https://open.spotify.com/track/5yVesQH1l8bOgjuWN0ub2a) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 2:51 | 2021-12-10 |  |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-01-07 |  |
 | [Real Men Love Jesus](https://open.spotify.com/track/4PUd2AwQAWY05WWR5qxig9) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Michael Ray](https://open.spotify.com/album/1JBo2GmY1NskygCzWzGqHF) | 3:11 | 2021-12-10 |  |
+| [Red Letter Blueprint](https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Red Letter Blueprint](https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0) | 3:52 | 2024-03-29 |  |
 | [River Of Life](https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [River Of Life](https://open.spotify.com/album/6vF3ktUVSaC3IEtZHZwU3b) | 2:49 | 2021-12-10 |  |
 | [Seven Minutes In Heaven](https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Not That Fancy](https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ) | 4:24 | 2023-10-06 |  |
 | [She Loves Jesus](https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [She Loves Jesus](https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs) | 4:00 | 2022-10-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Carnival Sounds getting you ready for Miami Carnival 2023 curated by DJ JEL.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,621 likes - 47 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,632 likes - 47 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 25 | [Bag Ah Sugar](https://open.spotify.com/track/4vPXWwTTxFJDx6ze8ocf8s) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Slam Bang Riddim](https://open.spotify.com/album/0JgpoUoUMf9GnHfBudgAzo) | 2:39 |
 | 26 | [All the Wine](https://open.spotify.com/track/66BSLhzGVYcUUI8fTA6mbl) | [Jab King](https://open.spotify.com/artist/0nsOQqZ8QYvEgw2zirjmAF) | [Slam Bang Riddim](https://open.spotify.com/album/0JgpoUoUMf9GnHfBudgAzo) | 2:39 |
 | 27 | [Wet Her Down](https://open.spotify.com/track/7dx8Z81E84h6XR7utcDZr8) | [Slatta](https://open.spotify.com/artist/0ttT7g5UHw4nhRlXbcCLxE) | [Slam Bang Riddim](https://open.spotify.com/album/0JgpoUoUMf9GnHfBudgAzo) | 2:38 |
-| 28 | [Fuh Spite](https://open.spotify.com/track/6LwbLdUGrzO2BLjJu4nz7v) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Fuh Spite](https://open.spotify.com/album/32VuD7Ugc4pEHPSGhrgt0G) | 4:17 |
+| 28 | [Fuh Spite](https://open.spotify.com/track/6LwbLdUGrzO2BLjJu4nz7v) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Fuh Spite](https://open.spotify.com/album/32VuD7Ugc4pEHPSGhrgt0G) | 4:17 |
 | 29 | [Do What Yuh Want](https://open.spotify.com/track/5zhsPGBmNDFQtjhsziS0t1) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq), [Asa Bantan](https://open.spotify.com/artist/08P70oWV1awf4w5I5ofhoT) | [Do What Yuh Want](https://open.spotify.com/album/3qgJjoCnV20wKZqRAJBs69) | 2:34 |
-| 30 | [Banga](https://open.spotify.com/track/3r5fGWOFozVnOPW4FSdjzP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Banga](https://open.spotify.com/album/24dNsKnZXTFyyw2QzwRek1) | 2:57 |
+| 30 | [Banga](https://open.spotify.com/track/3r5fGWOFozVnOPW4FSdjzP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Banga](https://open.spotify.com/album/24dNsKnZXTFyyw2QzwRek1) | 2:57 |
 | 31 | [All My Love](https://open.spotify.com/track/5UE2ij3ca8bF3iWP5Kdt6q) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [All My Love](https://open.spotify.com/album/47sdbQ1s6UieWF0zc1GnFa) | 2:45 |
 | 32 | [Nat U](https://open.spotify.com/track/7l6HLS77xO676yIOveWq9a) | [Claudette Peters](https://open.spotify.com/artist/1NhV6sKqhceJBPzldr8Cnv) | [Nat U](https://open.spotify.com/album/63zelq9SbPGWRVZqIPNomO) | 3:19 |
 | 33 | [16 Oz\. \- Big Cup Riddim Version](https://open.spotify.com/track/2plWOd8BgfD86Dx3o7Cwc9) | [DJ Avalanche](https://open.spotify.com/artist/7eazF7mIVJt706b4zicfHx) | [16 Oz\. \(Big Cup Riddim Version\)](https://open.spotify.com/album/4yIFDYoHv1aRUEEHb16OGA) | 4:29 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 46 | [Sexy Lady](https://open.spotify.com/track/5VKLvoBIU8nJJwqWo2mQyG) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Sexy Lady](https://open.spotify.com/album/5pfuWbu38Rnbfbdzv4ZB0G) | 3:10 |
 | 47 | [DREAM](https://open.spotify.com/track/6Yb7jQk2hbILD9kHQnpoaH) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Mela Caribe](https://open.spotify.com/artist/2LFBTJOnPZ8rQDGEgthh7r) | [DREAM](https://open.spotify.com/album/6mn9DaFLP61AJWjRohApNA) | 3:36 |
 
-Snapshot ID: `MCxkZmMzMTZjNWE1ZDQ2Yjg5OWQwMWYxMGIwZDY1NzBhNmIxNjc5Y2Zl`
+Snapshot ID: `MCw1YTg5YTc1MGJmNDEzZTBiMzRjMjQ2YjY3Y2U0NDA3OWFiNjIzZmVk`

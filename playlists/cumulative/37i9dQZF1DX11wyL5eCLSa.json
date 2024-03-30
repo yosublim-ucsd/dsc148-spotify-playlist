@@ -3979,6 +3979,28 @@
     },
     {
       "album": {
+        "name": "Bulberizer / Bulbo Raqu\u00eddeo",
+        "url": "https://open.spotify.com/album/6cD7ZctaLWVlsN8eUfxEmD"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        },
+        {
+          "name": "Bulberizer",
+          "url": "https://open.spotify.com/artist/1EfQ2xkvSqlF2e86zK0xQc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192020,
+      "name": "Maldito",
+      "url": "https://open.spotify.com/track/01S2FhxrnSBavSoDb5NH6p"
+    },
+    {
+      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
@@ -4396,7 +4418,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 222994,
       "name": "MELANCOL\u00cdA",
       "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
@@ -4588,7 +4610,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 189654,
       "name": "Mochi",
       "url": "https://open.spotify.com/track/0XLV0vWarC3F92iCN9NP7k"
@@ -6796,7 +6818,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180421,
       "name": "Tema de Adri\u00e1n",
       "url": "https://open.spotify.com/track/2x9hAIqH7yQiAdGWutAI1S"
@@ -6844,6 +6866,24 @@
       "duration_ms": 174727,
       "name": "Thunderdome [W.T.A.] (feat. Black Thought & Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y"
+    },
+    {
+      "album": {
+        "name": "Tiempo al Tiempo",
+        "url": "https://open.spotify.com/album/6aPh6HYOL8rpNQol6FETo9"
+      },
+      "artists": [
+        {
+          "name": "Javier Blake",
+          "url": "https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287168,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3ktdoW2ABePbS3PQ4drxaD"
     },
     {
       "album": {
@@ -7518,6 +7558,24 @@
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
+    },
+    {
+      "album": {
+        "name": "Jay de la Cueva",
+        "url": "https://open.spotify.com/album/5dfTVYkcLYbCCHvU0qC88j"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Volver A Ser",
+      "url": "https://open.spotify.com/track/2TxFDH4yoIdUNg3DHAB3BF"
     },
     {
       "album": {

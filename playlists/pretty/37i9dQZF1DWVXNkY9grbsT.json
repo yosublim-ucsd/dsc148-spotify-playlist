@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 91557,
+  "num_followers": 91595,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRmNjhmZmZhY2VjMzBhNDgyZWQ1ZjQ0OTYzY2VhODg3MTgyNDAy",
+  "snapshot_id": "MCxjZjgwMWYyZGQwYWZkZWIzMTc4MjFjYzY2MDViMzIwYWM0NWM5MzMy",
   "tracks": [
     {
       "added_at": "2023-12-01 18:01:27",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ikata - 1",
-      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Metallic Spheres In Colour: Movement 2 - Excerpt",
         "url": "https://open.spotify.com/album/54OHjqMfotsJPkVWnRqkts"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 218973,
       "name": "Metallic Spheres In Colour: Movement 2 - Excerpt",
       "url": "https://open.spotify.com/track/1fpuphYAwKaoVxYGWkNaV7"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ikata - 1",
+      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
-      },
-      "artists": [
-        {
-          "name": "Otto Taimela",
-          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "The Prettiest Pearl",
-      "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Unknown Tokyo",
         "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 245008,
       "name": "Unknown Tokyo",
       "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
+      },
+      "artists": [
+        {
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "The Prettiest Pearl",
+      "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -471,18 +487,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+        "name": "Metallic Spheres In Colour",
+        "url": "https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+      "duration_ms": 547920,
+      "name": "Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4",
+      "url": "https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -507,26 +527,6 @@
       "duration_ms": 488706,
       "name": "Contain (In Key)",
       "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Metallic Spheres In Colour",
-        "url": "https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        },
-        {
-          "name": "David Gilmour",
-          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
-        }
-      ],
-      "duration_ms": 547920,
-      "name": "Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4",
-      "url": "https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Fate Deluxe",
+        "url": "https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/4IIo7qJZkfUIDJJWK3PjdJ"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Consumed In Key",
         "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
       },
@@ -699,38 +715,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Fate Deluxe",
-        "url": "https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/4IIo7qJZkfUIDJJWK3PjdJ"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Melting Hazard",
         "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Martes + Utop\u00eda",
-        "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 399893,
-      "name": "Mir",
-      "url": "https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Martes + Utop\u00eda",
+        "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 399893,
+      "name": "Mir",
+      "url": "https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Information - EP",
+        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
+      },
+      "artists": [
+        {
+          "name": "Synkro",
+          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+        }
+      ],
+      "duration_ms": 447847,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Lovotic",
         "url": "https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 347784,
       "name": "Blessed Are The Lovers",
       "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Information - EP",
-        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
-      },
-      "artists": [
-        {
-          "name": "Synkro",
-          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
-        }
-      ],
-      "duration_ms": 447847,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1195,38 +1195,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "HYbr:ID II",
-        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 474155,
-      "name": "HYbr:ID Ectopia Elastic 2",
-      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Cast Remixes Part III",
         "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "HYbr:ID II",
+        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 474155,
+      "name": "HYbr:ID Ectopia Elastic 2",
+      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1307,22 +1307,6 @@
       "duration_ms": 184240,
       "name": "Clear",
       "url": "https://open.spotify.com/track/63xYYVpQ8fMihQxAsv4Bn1"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "HYbr:ID Ectopia Field 1",
-        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 245407,
-      "name": "HYbr:ID Ectopia Field 1",
-      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1407,6 +1391,22 @@
       "duration_ms": 286283,
       "name": "Adagio I - Mut",
       "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "HYbr:ID Ectopia Field 1",
+        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 245407,
+      "name": "HYbr:ID Ectopia Field 1",
+      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "L'attente",
+        "url": "https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi"
+      },
+      "artists": [
+        {
+          "name": "Eskadet",
+          "url": "https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG"
+        }
+      ],
+      "duration_ms": 326362,
+      "name": "Apparences",
+      "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Made In Silence",
         "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
       },
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "L'attente",
-        "url": "https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi"
-      },
-      "artists": [
-        {
-          "name": "Eskadet",
-          "url": "https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG"
-        }
-      ],
-      "duration_ms": 326362,
-      "name": "Apparences",
-      "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Springtime in Croatia",
         "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
@@ -1639,38 +1639,6 @@
       "duration_ms": 242000,
       "name": "Springtime in Croatia",
       "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Balmy Evening",
-        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
-      },
-      "artists": [
-        {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
-        }
-      ],
-      "duration_ms": 183672,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 283673,
-      "name": "White Carnations",
-      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1691,6 +1659,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 283673,
+      "name": "White Carnations",
+      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Atlas der Gedanken",
         "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 306122,
       "name": "Sinnessprung",
       "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
     },
     {
       "added_at": "2023-12-01 18:01:27",

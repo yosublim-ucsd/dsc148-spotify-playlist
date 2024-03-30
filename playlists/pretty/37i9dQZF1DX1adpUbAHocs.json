@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 669359,
+  "num_followers": 669363,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjQzYzlkZjQ3ZDgxNTQ5ZWU2ODhkZDg0Mzg4N2Y5OGZmYzBmNWZl",
+  "snapshot_id": "MCw2MmJjZTU4ZGQ4YjQ2ZDk0MGVjMTQ5NzJkYjhmOGRkMmE0N2E3MTZk",
   "tracks": [
     {
       "added_at": "2023-12-27 17:00:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Strangers No More",
         "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 237626,
       "name": "Shark Smile",
       "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Until You",
-        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Until You",
+        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 212142,
-      "name": "Devil I Know",
-      "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 317413,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 212142,
+      "name": "Devil I Know",
+      "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2023-12-27 17:00:21",

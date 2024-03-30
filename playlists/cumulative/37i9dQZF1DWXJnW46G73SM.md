@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي صبري
 
-903 songs - 2 day 3 hr 9 min
+904 songs - 2 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Malek Elsahar](https://open.spotify.com/track/35VD9PmXoX7nJyZVEu9C0o) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Malek Elsahar](https://open.spotify.com/album/3jBkDbiVGtA7nd2kGp9pBo) | 1:39 | 2023-07-20 | 2023-08-17 |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2021-12-23 | 2022-01-21 |
 | [Malena Leh](https://open.spotify.com/track/5E96Ex09RlVHskQfsZVjfo) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Malena Leh](https://open.spotify.com/album/46nBeCCXZtYYIeljz9QdJ3) | 3:31 | 2023-01-26 | 2023-01-28 |
+| [Malnash Gher Ba3dna](https://open.spotify.com/track/1rxBgFaKG1X27in26OEC2c) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Malnash Gher Ba3dna](https://open.spotify.com/album/7wpvaS3EV2phb8CEfHEnly) | 3:13 | 2024-03-29 |  |
 | [Manga](https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:19 | 2023-10-01 | 2024-01-09 |
 | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/album/1rZN80PcHL3z8cS9X0RyAx) | 4:00 | 2023-04-20 | 2023-05-20 |
 | [Manstghnash](https://open.spotify.com/track/6tiAvjptfjuV1itslVeR5K) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Manstghnash](https://open.spotify.com/album/6YgGZaFXO9BSoK5MTE9Q24) | 3:52 | 2021-12-23 | 2022-02-18 |
@@ -462,7 +463,7 @@
 | [Mood Gahed](https://open.spotify.com/track/2KJfvsq3xNhaVWNVIOo4w1) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [Mood Gahed](https://open.spotify.com/album/5vNgfn5DeseZGYUkaZbS93) | 3:05 | 2024-01-25 | 2024-02-16 |
 | [Moody Aali](https://open.spotify.com/track/1JIeyLYiovSeXrj3EONekE) | [Dalida Khalil](https://open.spotify.com/artist/43frAQLY3YdRaaGTt2Jobb) | [Moody Aali](https://open.spotify.com/album/7nZflWlZjFWWwY3iL864hh) | 2:48 | 2021-12-23 | 2022-03-03 |
 | [MSH 3AYZAK](https://open.spotify.com/track/0WDz7KOiwEdORLIo92ByWx) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MSH 3AYZAK](https://open.spotify.com/album/1UhM55r4MlBnSV2RYSXTkm) | 2:23 | 2024-02-29 | 2024-03-07 |
-| [Msh Hawasek](https://open.spotify.com/track/5QWusjaFjFTZRF38SMPicd) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [Msh Hawasek](https://open.spotify.com/album/02nHvDyL80P6WsXhqLJEPz) | 2:41 | 2024-02-09 |  |
+| [Msh Hawasek](https://open.spotify.com/track/5QWusjaFjFTZRF38SMPicd) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [Msh Hawasek](https://open.spotify.com/album/02nHvDyL80P6WsXhqLJEPz) | 2:41 | 2024-02-09 | 2024-03-30 |
 | [Mvp](https://open.spotify.com/track/3b21MKsXitsDlZDE8VFLn8) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Mvp](https://open.spotify.com/album/7yHNAHKMirKVYOWG9l9kTF) | 2:28 | 2023-05-04 | 2023-06-09 |
 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 | 2024-03-12 |  |
 | [Nafs Tobak](https://open.spotify.com/track/74Job1dH07IyWcdsqXlWJX) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Nafs Tobak](https://open.spotify.com/album/0C2jVCGwXfQa1phCodEk3e) | 2:31 | 2024-01-18 | 2024-02-16 |

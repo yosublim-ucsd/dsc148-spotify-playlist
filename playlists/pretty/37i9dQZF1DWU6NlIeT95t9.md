@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future\.  Cover: Annural Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,157 likes - 67 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,160 likes - 67 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 14 | [JOGI](https://open.spotify.com/track/6KO2ptwXLvr8JiGxk2rFHl) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [JOGI](https://open.spotify.com/album/42ul4c3YVf87TWk7u2d2oG) | 2:07 |
 | 15 | [Nishana](https://open.spotify.com/track/5yyS3rLURpzQBHZ5yIZQIU) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 2:31 |
 | 16 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 |
-| 17 | [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 |
+| 17 | [Bandhan](https://open.spotify.com/track/1iWFL5RkNnvm5qJtqqWEOA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/0dPpLOrNoGOBqq3qyztbdG) | 4:50 |
 | 18 | [Melancholic](https://open.spotify.com/track/2J6ehazUCGusP0YqK31fjL) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Melancholic](https://open.spotify.com/album/3v76zS849Cf1r2M1j9vuPX) | 3:42 |
 | 19 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 |
 | 20 | [Kali Raat](https://open.spotify.com/track/74UHCurjieq16JY1saeasF) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 34 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 |
 | 35 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 |
 | 36 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 |
-| 37 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 |
+| 37 | [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 |
 | 38 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
 | 39 | [Ranjheya Ve](https://open.spotify.com/track/4uxuqSSwxaN1HDKWm3Qx7P) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/54NHimWyJ1NFHKQUxyFalk) | 4:38 |
 | 40 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 66 | [Shuru Karein](https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Shuru Karein](https://open.spotify.com/album/1MxsE2k1buYRltVVXfcivf) | 2:26 |
 | 67 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 |
 
-Snapshot ID: `MCw3N2FlMDEwMDIyYjM1ZTVjNjYzZWI0YzUyNmVkYzQ2ZTRiZTU3YTQ0`
+Snapshot ID: `MCxjODgxMDI3OWI5ZmQ0YTc0NjNhNzUxMmJhMGUzNzg0ODY3Y2ExNWY5`

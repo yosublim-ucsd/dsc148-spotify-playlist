@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 233433,
+  "2024-03-30": 233487,
   "date_first_scraped": "2023-07-29",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Teddy Swims",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Benson Boone",
   "name": "Nouveaut\u00e9s Pop",
   "tracks": [
     {
@@ -846,6 +846,24 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240254,
+      "name": "BODYGUARD",
+      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
+    },
+    {
+      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/40eOtSpXZRNJDZ2MR7oN3K"
       },
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
@@ -2350,6 +2368,24 @@
     },
     {
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179561,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+    },
+    {
+      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -2517,6 +2553,28 @@
       "duration_ms": 162146,
       "name": "if you only knew",
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
+    },
+    {
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208521,
+      "name": "II MOST WANTED",
+      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     },
     {
       "album": {
@@ -5649,7 +5707,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 130860,
       "name": "Will I Ever Love?",
       "url": "https://open.spotify.com/track/1h42H229e4oEo0BxfwIb4r"
@@ -5993,7 +6051,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 144031,
       "name": "\u00c0 La Parisienne",
       "url": "https://open.spotify.com/track/37b5lKCSA1N4RjtoHI5r0D"

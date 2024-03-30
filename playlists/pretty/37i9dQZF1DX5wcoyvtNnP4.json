@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 491735,
+  "num_followers": 491719,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzQwYjg3ZGRjOWNlOTc5ODgyNDNhMDM1MGE3OWU1N2ZhZmEzYzc0",
+  "snapshot_id": "MCwzYTIwZjBkZWFmNmMwODE5ZDNkMjFlNDJhNTE1ZGQ1YmM0N2E5MTQ2",
   "tracks": [
     {
       "added_at": "2024-03-27 08:58:57",
@@ -163,26 +163,6 @@
     {
       "added_at": "2024-03-27 08:58:57",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2024-03-27 08:58:57",
-      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
+    },
+    {
+      "added_at": "2024-03-27 08:58:57",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2024-03-27 08:58:57",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-03-27 08:58:57",
       "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+    },
+    {
+      "added_at": "2024-03-27 08:58:57",
+      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
-    },
-    {
-      "added_at": "2024-03-27 08:58:57",
-      "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2024-03-27 08:58:57",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-03-27 08:58:57",
       "album": {
+        "name": "You again",
+        "url": "https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 168281,
+      "name": "You again",
+      "url": "https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj"
+    },
+    {
+      "added_at": "2024-03-27 08:58:57",
+      "album": {
         "name": "Better Me",
         "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2024-03-27 08:58:57",
       "album": {
-        "name": "You again",
-        "url": "https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL"
+        "name": "All Stand Together",
+        "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 168281,
-      "name": "You again",
-      "url": "https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj"
+      "duration_ms": 195480,
+      "name": "All Stand Together",
+      "url": "https://open.spotify.com/track/21PF64NXwKLq60rpAYgrnb"
     },
     {
       "added_at": "2024-03-27 08:58:57",
@@ -1403,38 +1419,22 @@
     {
       "added_at": "2024-03-27 08:58:57",
       "album": {
-        "name": "All Stand Together",
-        "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "All Stand Together",
-      "url": "https://open.spotify.com/track/21PF64NXwKLq60rpAYgrnb"
-    },
-    {
-      "added_at": "2024-03-27 08:58:57",
-      "album": {
-        "name": "All Good Things",
-        "url": "https://open.spotify.com/album/0Wl4Yf9g9gYZtABnPEz4KH"
-      },
-      "artists": [
-        {
-          "name": "AVA CROWN",
-          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
         },
         {
-          "name": "LUCA (DE)",
-          "url": "https://open.spotify.com/artist/30qKpLi7U8MxZyEy3HEW26"
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
         }
       ],
-      "duration_ms": 163137,
-      "name": "All Good Things",
-      "url": "https://open.spotify.com/track/1sjliewWkSOKKvEVYHPqUk"
+      "duration_ms": 182750,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
     }
   ],
   "unique_name": "Wochenende",

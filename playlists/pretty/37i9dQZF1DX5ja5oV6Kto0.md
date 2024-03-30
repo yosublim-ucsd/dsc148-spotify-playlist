@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Tim Lyre & BOJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,995 likes - 85 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,043 likes - 85 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 84 | [Not Safe in the West](https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [Not Safe in the West](https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic) | 2:58 |
 | 85 | [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 |
 
-Snapshot ID: `MCxiOGI0MDQ5OTc1ODkyNjIxYTRlYzBiOGNmNDMyMmI2ZDcyOWFhOTc2`
+Snapshot ID: `MCwyNmI4NzE0NDMyOTdlZjBiMzYwZmNhNmI2NGM2NjY2MDIyNWJiODBm`

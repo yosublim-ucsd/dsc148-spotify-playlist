@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 304211,
+  "num_followers": 304245,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTBkYTNiYzY1ODY5ZTgzMDI3MDkyODM5NmVjZWIyZTc2NDhmZjYx",
+  "snapshot_id": "MCxiMjVmYmJhYTdiNTcxMmU1YWQwNTE0YWM3NTY5NTY3MzRmOGMwOGM1",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 180033,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Love Song",
@@ -487,6 +471,22 @@
       "duration_ms": 171563,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 180033,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 400037,
       "name": "Earth To Sea",
       "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Leviosa",
         "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 196985,
       "name": "De ma Tour",
       "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Cellar",
         "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 245998,
       "name": "Cellar",
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -1203,6 +1187,38 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
+    },
+    {
+      "added_at": "2024-02-21 11:35:46",
+      "album": {
+        "name": "the mould",
+        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "everything to die for",
+      "url": "https://open.spotify.com/track/5w7pIkf7juDYcl6ejrSvzQ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1235,22 +1251,6 @@
       "duration_ms": 198767,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
-    },
-    {
-      "added_at": "2024-02-21 11:35:46",
-      "album": {
-        "name": "the mould",
-        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "everything to die for",
-      "url": "https://open.spotify.com/track/5w7pIkf7juDYcl6ejrSvzQ"
     },
     {
       "added_at": "2023-07-21 10:37:28",

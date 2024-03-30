@@ -2,7 +2,7 @@
 
 ### [Afro Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV)
 
-> Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rawayana, Mr Eazi & Micro TDH
+> Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Becky G & Tyla
 
 138 songs - 7 hr 25 min
 

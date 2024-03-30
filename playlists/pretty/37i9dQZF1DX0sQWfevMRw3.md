@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VEM FAN E DU!?
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,863 likes - 96 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,059 likes - 96 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 11 | [HEY BABY](https://open.spotify.com/track/56yXFAt1OptPnMTcaP4do2) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [HEY BABY](https://open.spotify.com/album/42Y3E4CrRFONZ6Ji6WhMgf) | 2:12 |
 | 12 | [WEED I RAGGARBIL \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/track/4MNNNChXrBYwSZIl1DUSg0) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Emilush](https://open.spotify.com/artist/5nRpThqM28nrzaCdE5kInp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [WEED I RAGGARBIL \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/album/4r7QRYb4x92pOMCjRgewkz) | 1:58 |
 | 13 | [FÖRSTA BIRAN](https://open.spotify.com/track/34I35RpgRDa8sTtjwwZdZs) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [FÖRSTA BIRAN](https://open.spotify.com/album/5MNOaQbAz2PmkeGeGK6Nu9) | 3:05 |
-| 14 | [VIVA LA GUNILLA](https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [VIVA LA GUNILLA](https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8) | 2:11 |
+| 14 | [](https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8) | 0:00 |
 | 15 | [VILD](https://open.spotify.com/track/4RwM47Kh338hORY4T0FXrp) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [VILD](https://open.spotify.com/album/2Vm0VZsYH3T46MHreLjm0k) | 1:52 |
 | 16 | [REBOUND](https://open.spotify.com/track/1dJrKfAg3nFwNAE6I7I9hh) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [SED](https://open.spotify.com/artist/0miDgiQWeCMWEBdJD9uZCt) | [REBOUND](https://open.spotify.com/album/2dfL5UmETTrShf8ECrM9Tw) | 1:50 |
 | 17 | [Raggen igjen \- Mozby Remix](https://open.spotify.com/track/2JsYjAxEeeIGdp2gREOzPu) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Raggen igjen](https://open.spotify.com/album/4pPonmtLjz7tFkXbLLMp1y) | 1:45 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 95 | [Hon vill ha mig](https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Hon vill ha mig](https://open.spotify.com/album/1e1V1uzBnslJr81ZrPcXAq) | 2:19 |
 | 96 | [En birra har aldrig](https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En birra har aldrig](https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r) | 2:27 |
 
-Snapshot ID: `MCw4ODI4YjAwMDRmYWE2NWQ1YzJkOTY2M2FjNzA2MWUyNmFkYmI1ZWVh`
+Snapshot ID: `MCxhNjA5ZTg4N2JkNGQxNmFiNGE1MDY5Yjc3MTcwNzYwNzVjZGEzOTFi`

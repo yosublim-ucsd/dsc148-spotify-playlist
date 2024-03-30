@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,218 likes - 216 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,262 likes - 216 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,30 +19,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 9 | [Terminus](https://open.spotify.com/track/0BbrZBVVUqCoTmXqVuu51Z) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS) | [Terminus](https://open.spotify.com/album/6nVqW8PZWP65AcP7j3MDB0) | 2:34 |
 | 10 | [Rewind](https://open.spotify.com/track/1X3ZacDFsFxqwWJud95Iah) | [Mandy Mars](https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9) | [Rewind](https://open.spotify.com/album/7y38qm3CFyQNWJdo8xb2zm) | 2:53 |
 | 11 | [Fuggedaboutit](https://open.spotify.com/track/1GYPW10V7bZUUqD1RihtYl) | [Burlywood](https://open.spotify.com/artist/0pan20E0tRAnijsV2FHB92) | [Fuggedaboutit](https://open.spotify.com/album/0HXUkkzQZL4o4tFUQxHn3f) | 2:53 |
-| 12 | [Il Mondriano](https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Il Mondriano](https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG) | 3:27 |
-| 13 | [lighting](https://open.spotify.com/track/2MRALsAuVvzfUAHP0RT2er) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [lighting](https://open.spotify.com/album/5f3JBcC6rK8b7pieUCPHsE) | 2:54 |
-| 14 | [dreams and demons](https://open.spotify.com/track/6GbdSYeYEYETm019Lou7cX) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [dreams and demons](https://open.spotify.com/album/3n246J1Sjq9xfplFJFBlFU) | 2:26 |
-| 15 | [Humbling](https://open.spotify.com/track/1kcX7g54f1TW6JtzIXJI6F) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Window Shades](https://open.spotify.com/album/5Yh3xIKw4VK04mSZXPLIyN) | 2:30 |
-| 16 | [The Dome](https://open.spotify.com/track/5wH6kAf9biVp1MSGuHku3v) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [The Dome](https://open.spotify.com/album/7DkFLfITAjSI3fRzKcWr2T) | 2:06 |
-| 17 | [Blue Flame](https://open.spotify.com/track/7lqiHYSx2uqlKKeHCa4zRP) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [Blue Flame](https://open.spotify.com/album/71y8evCIrRvKHW2TpiQQrv) | 2:12 |
-| 18 | [pink cloud](https://open.spotify.com/track/5U9SYC8B9IXMxncy0wBD2a) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [pink cloud](https://open.spotify.com/album/72DsWYTv72GHU6pkfsWpPt) | 2:13 |
-| 19 | [sky high](https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [sky high](https://open.spotify.com/album/4TqJqYVe8HofzsoX9WFOAi) | 2:13 |
-| 20 | [synthetic](https://open.spotify.com/track/08kj1mLiwnc4X4S2gC6HYO) | [dillyphone](https://open.spotify.com/artist/3MjBxFThZFerMrfiHYl5kT) | [synthetic](https://open.spotify.com/album/5FLvrmW24QH7cCM8Xj7dNY) | 2:31 |
-| 21 | [Everything Fun In The Way You Dance](https://open.spotify.com/track/5KJe3Lh1UYFfZqrns2mN8w) | [Madbank](https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI), [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Soul Endeavors](https://open.spotify.com/album/1uHUfHUvN8aN5S43XeBZVu) | 3:03 |
-| 22 | [Early Morning Hours](https://open.spotify.com/track/390Nqebjl51P4LyEJTfoew) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Early Morning Hours](https://open.spotify.com/album/759K8y3BqHdAAgDJWx0Hf9) | 3:30 |
-| 23 | [To Be Here](https://open.spotify.com/track/54GvvO3gB5aW6tcwT2IvpJ) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [To Be Here](https://open.spotify.com/album/68ciTSRU84Bu3jHlLlCPgx) | 3:09 |
-| 24 | [loving](https://open.spotify.com/track/6KlU7wdqB6FuYzdr2nG8tl) | [Dancing Mittens](https://open.spotify.com/artist/0X1U4UpoYDcQKr28oNEgQe) | [loving](https://open.spotify.com/album/7bRrqZ9yNKXnd0uKhzlx9G) | 2:38 |
-| 25 | [You'll Be Arriving Soon](https://open.spotify.com/track/0mszVO9oXAvXyY2zHGqbNK) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [You'll Be Arriving Soon](https://open.spotify.com/album/5NNJdefoYCAD0nlr8uzMfU) | 2:19 |
-| 26 | [Valleys](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Valleys](https://open.spotify.com/album/5NvJf9r979kBnvwVCEfEFx) | 2:35 |
-| 27 | [Speak to the Gods](https://open.spotify.com/track/7wpz85aP80cXOCTFhzS5HO) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Speak to the Gods](https://open.spotify.com/album/3ykAV6bhL88p5kFvu8Dzfe) | 2:44 |
-| 28 | [I Call You](https://open.spotify.com/track/45h1MEiWX3VKcxSCQLW0Vk) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [I Call You](https://open.spotify.com/album/677Xq1hTwIcyl7zkVxbuY4) | 3:12 |
-| 29 | [Take a Breather](https://open.spotify.com/track/6rZT5UZgYh6j57HgTZbK8x) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Take a Breather](https://open.spotify.com/album/5HumVeclR4kLqN2oy38KPk) | 2:32 |
-| 30 | [Vacation](https://open.spotify.com/track/4OxrNowK5VDQzcstmh0lXs) | [Pascal Marcel](https://open.spotify.com/artist/33NKN9m9zscNEiDcHoqvkW) | [Vacation](https://open.spotify.com/album/4f7tC6G41h7QXEvLsJDXEO) | 2:11 |
-| 31 | [Relax](https://open.spotify.com/track/7mv5cFn0qM2Mlx3BLqy3Zp) | [Yavuz Grill](https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA) | [Relax](https://open.spotify.com/album/6WE2SguoidmTrZtYXrEAoU) | 2:16 |
-| 32 | [In unison](https://open.spotify.com/track/17GYUIV3rj9iZqahdnAs7U) | [Jay Groovi](https://open.spotify.com/artist/2ntoj1OhqFatrjAGvAdlMn) | [Up n runnin](https://open.spotify.com/album/02vcNzVx4gOvSHsaZgq41R) | 2:26 |
-| 33 | [Boardwalk](https://open.spotify.com/track/1shjpWCrYP6ExIpgCpaf3P) | [Lagonda](https://open.spotify.com/artist/3snpwtqBUGw0TDTmdq2IyI) | [Boardwalk](https://open.spotify.com/album/5OtHbV551CLGJthd8s9C0G) | 2:23 |
-| 34 | [Brainwaves](https://open.spotify.com/track/1upsUbZSRONTmWYq8iXTvR) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Brainwaves](https://open.spotify.com/album/337H8IQR3KiJLmdFTaX8T4) | 2:31 |
-| 35 | [fly away](https://open.spotify.com/track/51srHVilMntmFnywwVVVOU) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [fly away](https://open.spotify.com/album/09f24SbWyHCIGvJIbIBJsR) | 2:18 |
+| 12 | [dreams and demons](https://open.spotify.com/track/6GbdSYeYEYETm019Lou7cX) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [dreams and demons](https://open.spotify.com/album/3n246J1Sjq9xfplFJFBlFU) | 2:26 |
+| 13 | [Blue Flame](https://open.spotify.com/track/7lqiHYSx2uqlKKeHCa4zRP) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [Blue Flame](https://open.spotify.com/album/71y8evCIrRvKHW2TpiQQrv) | 2:12 |
+| 14 | [sky high](https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [sky high](https://open.spotify.com/album/4TqJqYVe8HofzsoX9WFOAi) | 2:13 |
+| 15 | [synthetic](https://open.spotify.com/track/08kj1mLiwnc4X4S2gC6HYO) | [dillyphone](https://open.spotify.com/artist/3MjBxFThZFerMrfiHYl5kT) | [synthetic](https://open.spotify.com/album/5FLvrmW24QH7cCM8Xj7dNY) | 2:31 |
+| 16 | [Everything Fun In The Way You Dance](https://open.spotify.com/track/5KJe3Lh1UYFfZqrns2mN8w) | [Madbank](https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI), [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Soul Endeavors](https://open.spotify.com/album/1uHUfHUvN8aN5S43XeBZVu) | 3:03 |
+| 17 | [To Be Here](https://open.spotify.com/track/54GvvO3gB5aW6tcwT2IvpJ) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [To Be Here](https://open.spotify.com/album/68ciTSRU84Bu3jHlLlCPgx) | 3:09 |
+| 18 | [You'll Be Arriving Soon](https://open.spotify.com/track/0mszVO9oXAvXyY2zHGqbNK) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [You'll Be Arriving Soon](https://open.spotify.com/album/5NNJdefoYCAD0nlr8uzMfU) | 2:19 |
+| 19 | [Valleys](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Valleys](https://open.spotify.com/album/5NvJf9r979kBnvwVCEfEFx) | 2:35 |
+| 20 | [Speak to the Gods](https://open.spotify.com/track/7wpz85aP80cXOCTFhzS5HO) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Speak to the Gods](https://open.spotify.com/album/3ykAV6bhL88p5kFvu8Dzfe) | 2:44 |
+| 21 | [I Call You](https://open.spotify.com/track/45h1MEiWX3VKcxSCQLW0Vk) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [I Call You](https://open.spotify.com/album/677Xq1hTwIcyl7zkVxbuY4) | 3:12 |
+| 22 | [fly away](https://open.spotify.com/track/51srHVilMntmFnywwVVVOU) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [fly away](https://open.spotify.com/album/09f24SbWyHCIGvJIbIBJsR) | 2:18 |
+| 23 | [The Dome](https://open.spotify.com/track/5wH6kAf9biVp1MSGuHku3v) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [The Dome](https://open.spotify.com/album/7DkFLfITAjSI3fRzKcWr2T) | 2:06 |
+| 24 | [Il Mondriano](https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Il Mondriano](https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG) | 3:27 |
+| 25 | [Vacation](https://open.spotify.com/track/4OxrNowK5VDQzcstmh0lXs) | [Pascal Marcel](https://open.spotify.com/artist/33NKN9m9zscNEiDcHoqvkW) | [Vacation](https://open.spotify.com/album/4f7tC6G41h7QXEvLsJDXEO) | 2:11 |
+| 26 | [Humbling](https://open.spotify.com/track/1kcX7g54f1TW6JtzIXJI6F) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Window Shades](https://open.spotify.com/album/5Yh3xIKw4VK04mSZXPLIyN) | 2:30 |
+| 27 | [Take a Breather](https://open.spotify.com/track/6rZT5UZgYh6j57HgTZbK8x) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Take a Breather](https://open.spotify.com/album/5HumVeclR4kLqN2oy38KPk) | 2:32 |
+| 28 | [lighting](https://open.spotify.com/track/2MRALsAuVvzfUAHP0RT2er) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [lighting](https://open.spotify.com/album/5f3JBcC6rK8b7pieUCPHsE) | 2:54 |
+| 29 | [Early Morning Hours](https://open.spotify.com/track/390Nqebjl51P4LyEJTfoew) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Early Morning Hours](https://open.spotify.com/album/759K8y3BqHdAAgDJWx0Hf9) | 3:30 |
+| 30 | [Relax](https://open.spotify.com/track/7mv5cFn0qM2Mlx3BLqy3Zp) | [Yavuz Grill](https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA) | [Relax](https://open.spotify.com/album/6WE2SguoidmTrZtYXrEAoU) | 2:16 |
+| 31 | [loving](https://open.spotify.com/track/6KlU7wdqB6FuYzdr2nG8tl) | [Dancing Mittens](https://open.spotify.com/artist/0X1U4UpoYDcQKr28oNEgQe) | [loving](https://open.spotify.com/album/7bRrqZ9yNKXnd0uKhzlx9G) | 2:38 |
+| 32 | [pink cloud](https://open.spotify.com/track/5U9SYC8B9IXMxncy0wBD2a) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [pink cloud](https://open.spotify.com/album/72DsWYTv72GHU6pkfsWpPt) | 2:13 |
+| 33 | [In unison](https://open.spotify.com/track/17GYUIV3rj9iZqahdnAs7U) | [Jay Groovi](https://open.spotify.com/artist/2ntoj1OhqFatrjAGvAdlMn) | [Up n runnin](https://open.spotify.com/album/02vcNzVx4gOvSHsaZgq41R) | 2:26 |
+| 34 | [Boardwalk](https://open.spotify.com/track/1shjpWCrYP6ExIpgCpaf3P) | [Lagonda](https://open.spotify.com/artist/3snpwtqBUGw0TDTmdq2IyI) | [Boardwalk](https://open.spotify.com/album/5OtHbV551CLGJthd8s9C0G) | 2:23 |
+| 35 | [Brainwaves](https://open.spotify.com/track/1upsUbZSRONTmWYq8iXTvR) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Brainwaves](https://open.spotify.com/album/337H8IQR3KiJLmdFTaX8T4) | 2:31 |
 | 36 | [Lightning](https://open.spotify.com/track/0Zl59CK613Aeb6TEoqVTNA) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Lightning](https://open.spotify.com/album/2v1ZMg2udU7qXEsZEsZVWn) | 2:14 |
 | 37 | [All In](https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [All In](https://open.spotify.com/album/0ypQJe3UArCxJJKP1DJWw8) | 2:37 |
 | 38 | [In a Spiral](https://open.spotify.com/track/7KDcV9eKswsB91nljXgzDY) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [In a Spiral](https://open.spotify.com/album/1ECJmnZDM4Gpj7Q1FPt5WO) | 2:22 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 215 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
 | 216 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
 
-Snapshot ID: `MCwyODc1ZWU2MTBjOTI5YjczMGI4N2NjZWNhM2Y2Mjc0MGJiZjgxMzRh`
+Snapshot ID: `MCxhMzcyYWZkMmI2Y2FmOWFlYmQ2ZjcxMzAzNjIwZjFmODA4NDMxNDU5`

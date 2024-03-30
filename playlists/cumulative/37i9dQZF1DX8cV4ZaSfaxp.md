@@ -2,9 +2,9 @@
 
 ### [City Pop Korea \(한국 씨티팝\)](https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp)
 
-> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: YUQI\(우기\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
+> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Taeha\(태하\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-318 songs - 19 hr 42 min
+319 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Coconut Love](https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love](https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx) | 3:14 | 2022-07-22 | 2022-11-04 |
 | [Coconut Love 코코넛 러브](https://open.spotify.com/track/6ZhbadBT9PnNEuDjW4YV3M) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love 코코넛 러브](https://open.spotify.com/album/3mo2rZgIxhEpNa0cIlkAY9) | 3:14 | 2022-05-11 | 2022-07-29 |
 | [Color Me](https://open.spotify.com/track/0PjVjxtWhAUnaRYBWHWdFa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Lucky](https://open.spotify.com/album/6sky0eX7g7zrikM2zPqf7h) | 3:40 | 2022-05-11 | 2022-07-03 |
-| [Come With Me](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 | 2023-07-13 |  |
+| [Come With Me](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 | 2023-07-13 | 2024-03-30 |
 | [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF) | 3:11 | 2022-05-11 | 2022-12-16 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2022-05-11 | 2023-11-03 |
 | [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-21 | 2023-04-16 |
@@ -86,6 +86,7 @@
 | [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 | 2022-07-22 | 2022-11-03 |
 | [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 | 2022-09-05 |  |
 | [Dive](https://open.spotify.com/track/71YHNeT3TMUnV1165mgRbO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4gn113ACCBiiIr6XtCV3Mc) | 3:41 | 2022-05-11 | 2022-07-29 |
+| [Dive in Love](https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Dive in Love](https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7) | 3:39 | 2024-03-29 |  |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2023-05-05 | 2024-03-02 |
 | [Dolls](https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [DOLLS](https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m) | 3:26 | 2022-05-11 |  |
 | [Dreams Come True](https://open.spotify.com/track/3HW8GYMIa1h7LjcOmOKVEg) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [2020](https://open.spotify.com/album/2ivll4rHB5TPCVSrRDYfAo) | 3:54 | 2022-05-11 | 2022-07-20 |
@@ -215,7 +216,7 @@
 | [Orange Road](https://open.spotify.com/track/4OIGXQkYgOhaiyGmP8Vvhp) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 4:30 | 2022-05-11 | 2022-07-29 |
 | [Orange Road \(with YUKIKA\)](https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 4:30 | 2022-07-22 |  |
 | [Our love like tonight](https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb) | [Our love like tonight](https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x) | 4:00 | 2022-05-11 | 2022-07-29 |
-| [Paradise](https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:14 | 2022-05-11 |  |
+| [Paradise](https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:14 | 2022-05-11 | 2024-03-30 |
 | [Passing Light](https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Passing](https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3) | 2:59 | 2022-05-11 | 2022-07-05 |
 | [Pixel](https://open.spotify.com/track/3cuofWllYn8kBdMGVrvPTI) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Pixel](https://open.spotify.com/album/3smEGBtxcckJh80i2BA3Ml) | 3:28 | 2022-05-11 | 2022-07-29 |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-11-02 |  |
@@ -236,7 +237,7 @@
 | [Scent](https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Scent](https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G) | 3:31 | 2022-07-04 | 2022-08-12 |
 | [Seaside 깊은 밤 깊은 바다](https://open.spotify.com/track/4n7cF3CwbFpW4m3HwS9kEO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/0OK6BqDE5hyHR3zSI2POWr) | 3:42 | 2022-05-11 | 2022-07-26 |
 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 | 2023-05-05 | 2023-06-12 |
-| [SEOUL CITY POP](https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23) | 3:22 | 2023-02-14 | 2024-03-23 |
+| [SEOUL CITY POP](https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23) | 3:22 | 2023-02-14 |  |
 | [SEOUL CITY POP](https://open.spotify.com/track/3CtGzaZ6XGzDDRQi3QbaoC) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/1iGX1LXCxtFyhskgXcx1qs) | 3:22 | 2022-05-11 | 2022-07-29 |
 | [Seven Breeze \(Feat\. Ldy\)](https://open.spotify.com/track/6WHEV4TkWE2XlMC0ZoByoi) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Ldy](https://open.spotify.com/artist/2MAu2oPXgklWH93ogCNEiy) | [New Edition 22](https://open.spotify.com/album/0Wi4E0M5Jy5z8BIMayUByQ) | 3:40 | 2022-05-11 | 2022-07-27 |
 | [SHADE](https://open.spotify.com/track/1w4p96v9sOAQAXbsVH98rs) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 4:16 | 2022-05-11 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: IVYSON",
+  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 155000,
       "name": "Absorvendo Tudo",
       "url": "https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 204935,
       "name": "Amanheceu Assim",
       "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 175200,
       "name": "Ana Rosa",
       "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 155822,
       "name": "Brincando De Amor",
       "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 174873,
       "name": "colorida",
       "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
@@ -2799,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "desacostumar (special edition)",
+        "url": "https://open.spotify.com/album/4nuZLiikdYgkvWjitxOvVF"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166698,
+      "name": "desacostumar",
+      "url": "https://open.spotify.com/track/5RrmeusRde00J2jHjXKtyj"
+    },
+    {
+      "album": {
         "name": "Desapaixonar",
         "url": "https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv"
       },
@@ -2920,7 +2942,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 157565,
       "name": "Desfa\u00e7o",
       "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
@@ -5674,7 +5696,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 175471,
       "name": "mentalmente",
       "url": "https://open.spotify.com/track/1hQa4ceXHdS41cYqHCv5M9"
@@ -5880,7 +5902,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 214676,
       "name": "Morena Surreal",
       "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
@@ -6126,6 +6148,24 @@
       "duration_ms": 187838,
       "name": "nem gosto tanto assim de voc\u00ea",
       "url": "https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00"
+    },
+    {
+      "album": {
+        "name": "Neste Contexto",
+        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182757,
+      "name": "Neste Contexto",
+      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
     },
     {
       "album": {
@@ -6417,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
       },
@@ -6690,7 +6748,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 145131,
       "name": "O Que Eu Devia Ter Vivido",
       "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
@@ -7246,7 +7304,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 204586,
       "name": "Pedra Preciosa",
       "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
@@ -9604,7 +9662,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 164594,
       "name": "Tento Decifrar",
       "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
@@ -11158,6 +11216,24 @@
       "duration_ms": 166153,
       "name": "Vou Fugir",
       "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
+    },
+    {
+      "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "album": {

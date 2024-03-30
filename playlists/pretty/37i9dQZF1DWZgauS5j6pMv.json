@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: TWRP\n",
-  "num_followers": 318476,
+  "num_followers": 318547,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2QxOTIwMWE4NDQ5NWYwMjY3ZWMyMWU1ZmQ3ZDVjOTMyZmFlOGJk",
+  "snapshot_id": "MCxhMTFhNTlkNzUwMWI1ZDU0OTVkMTVkY2ZmMmY1YjQwNmM1Y2I0YTEz",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e"
+      },
+      "artists": [
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS"
+    },
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
@@ -129,6 +145,26 @@
       "url": "https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s"
     },
     {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Current",
+        "url": "https://open.spotify.com/album/6XxJvm6Bct3nwwNo9Df6Xq"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo"
+        },
+        {
+          "name": "Jack Howard",
+          "url": "https://open.spotify.com/artist/4HSvWWbFUwMhNCCxPeFAtR"
+        }
+      ],
+      "duration_ms": 141684,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/1pOMyqOEI7dSDWuLFbu6Na"
+    },
+    {
       "added_at": "2024-03-15 04:01:00",
       "album": {
         "name": "Atlanta",
@@ -143,6 +179,26 @@
       "duration_ms": 183076,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "No Way Around It",
+        "url": "https://open.spotify.com/album/3K9GvH6NNuohRjrKHFfqmB"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "RoneyBoys",
+          "url": "https://open.spotify.com/artist/6Udsi9z7n5Ucvf781MzgjY"
+        }
+      ],
+      "duration_ms": 191886,
+      "name": "No Way Around It",
+      "url": "https://open.spotify.com/track/65AYAfDtAXpEx3AYgdobPK"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -567,22 +623,6 @@
       "duration_ms": 220435,
       "name": "I'm Gonna Break Through The Minneapolis Sound",
       "url": "https://open.spotify.com/track/3NquVqpiNefjlWzj83ljbd"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Rich Bi$h",
-        "url": "https://open.spotify.com/album/0o4WhCKx2QnKqV0mkv0uDm"
-      },
-      "artists": [
-        {
-          "name": "Kossisko",
-          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
-        }
-      ],
-      "duration_ms": 224434,
-      "name": "Rich Bi$h",
-      "url": "https://open.spotify.com/track/67gscz0VqtlCjgVzlzxPAA"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1601,26 +1641,6 @@
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Jammin' Tonight",
-        "url": "https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7"
-      },
-      "artists": [
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 247973,
-      "name": "Jammin' Tonight",
-      "url": "https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Boys Don't Sob",
@@ -1635,30 +1655,6 @@
       "duration_ms": 176017,
       "name": "Boys Don't Sob",
       "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Shin Sakiura",
-          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "BREAKTHROUGH",
-      "url": "https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1825,30 +1821,6 @@
       "url": "https://open.spotify.com/track/5a1NRRfQvTMlvZ3rwO259B"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Rock With Me (Jafunk Remix)",
-        "url": "https://open.spotify.com/album/20c9jp8MnyiEDthWVCsDYm"
-      },
-      "artists": [
-        {
-          "name": "Sparkee",
-          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
-        },
-        {
-          "name": "Liinks",
-          "url": "https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 125703,
-      "name": "Rock With Me - Jafunk Remix",
-      "url": "https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Like, Maybe",
@@ -1879,26 +1851,6 @@
       "duration_ms": 210840,
       "name": "LOVE IN A GROOVE",
       "url": "https://open.spotify.com/track/46mbePiv2oTh4VfNcQpjjd"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "lockdown",
-        "url": "https://open.spotify.com/album/6ZgBNr3doJZ1IIWjB9snwZ"
-      },
-      "artists": [
-        {
-          "name": "GARDENA",
-          "url": "https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB"
-        },
-        {
-          "name": "Ethan Dufault",
-          "url": "https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ"
-        }
-      ],
-      "duration_ms": 201391,
-      "name": "lockdown",
-      "url": "https://open.spotify.com/track/6JvM4RyaFmEdiV58dpv1Jr"
     },
     {
       "added_at": "2023-03-03 05:01:00",

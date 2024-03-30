@@ -4,7 +4,7 @@
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-103 songs - 6 hr 28 min
+104 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Hot Stepper](https://open.spotify.com/track/3lcNT3qDqs1teAkuLERgSR) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:44 | 2020-10-19 | 2022-07-28 |
 | [I Am Not A Substitute Lover](https://open.spotify.com/track/0VEM1OY21jskZupMY6iNpU) | [Half Pint](https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:48 | 2020-10-19 | 2022-07-29 |
 | [I Am Not Afraid](https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [The Strong One](https://open.spotify.com/album/0Ypu0QySaX7HxWhzRBBjGZ) | 3:54 | 2020-10-19 | 2024-03-24 |
+| [I Am Not Afraid](https://open.spotify.com/track/3NAG0oX0P3JfYfenhwH8B5) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Riddim Driven: Rub\-A\-Dub](https://open.spotify.com/album/234jmscb3ksPv73HxM9I38) | 4:00 | 2020-10-19 |  |
 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 | 2020-10-19 |  |
 | [I'm Missing You](https://open.spotify.com/track/7d2gr7qoBXzybhUGscD03H) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [One In A Million](https://open.spotify.com/album/0Xc31I7ncsYzDIH6TVBIi7) | 3:21 | 2020-10-19 | 2022-07-29 |
 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 4:33 | 2020-10-19 | 2023-01-21 |
@@ -102,7 +103,7 @@
 | [Temperature](https://open.spotify.com/track/2BDTYAe51lKG7w5XMCVeyg) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Reggae Gold 2012](https://open.spotify.com/album/6ZETpi6qYuaLSvgs57jbVS) | 3:38 | 2020-10-19 | 2022-07-07 |
 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 | 2020-10-19 |  |
 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 | 2020-10-19 |  |
-| [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 | 2020-10-19 |  |
+| [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 | 2020-10-19 | 2024-03-30 |
 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 | 2020-10-19 | 2024-01-04 |
 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 | 2020-10-19 |  |
 | [Unity We Need \(feat\. Chronixx\)](https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Together We Stand](https://open.spotify.com/album/1eUOFuDvLbju6Dbqj2KqlK) | 4:25 | 2020-10-19 | 2022-07-28 |

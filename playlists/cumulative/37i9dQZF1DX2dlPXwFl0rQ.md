@@ -2,9 +2,9 @@
 
 ### [Mujeres Bravías](https://open.spotify.com/playlist/37i9dQZF1DX2dlPXwFl0rQ)
 
-> Estas son las indomables de la Música Mexicana\. Marian Oviedo, Laraim en portada.
+> Estas son las indomables de la Música Mexicana\. Chiquis en portada.
 
-382 songs - 20 hr 30 min
+384 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Desierto](https://open.spotify.com/track/6NbmwBCJd1K9GBu4kE0sOy) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Eduardo Perez](https://open.spotify.com/artist/2VJLOaGQ35FZnSBWs5sWlr) | [Desierto](https://open.spotify.com/album/0ThunE3MLebOEpHB76UtP3) | 3:34 | 2022-02-25 | 2022-03-02 |
 | [Después De Ti ¿Quien?](https://open.spotify.com/track/6FejHPAGo8xZe4Q6xLqqjA) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Después De Ti ¿Quien?](https://open.spotify.com/album/4IdUwHfvUe6SxF7xBsBVuA) | 3:32 | 2021-12-17 | 2022-03-09 |
 | [Después de Unas Horas](https://open.spotify.com/track/3lY5qWx1aQYavwEYV68i4E) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Después de Unas Horas](https://open.spotify.com/album/2Qu47XObvHFpFRZ6gvN88d) | 2:53 | 2022-03-18 | 2023-04-15 |
+| [Diamante](https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamante](https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il) | 2:38 | 2024-03-29 |  |
 | [Directito A Mi Herida \- En Vivo](https://open.spotify.com/track/0tNPaiYXFUoobqPWHucQ3E) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Directito A Mi Herida \(En Vivo\)](https://open.spotify.com/album/0n6N4SDyj0WsINr9V05TLT) | 2:55 | 2023-08-04 |  |
 | [Dos Botellas De Mezcal](https://open.spotify.com/track/28QfOZ6Z3ozknIq5g1Tf5C) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Dos Botellas De Mezcal](https://open.spotify.com/album/1GreuGxkG2mQaEqkU5w4Yg) | 3:23 | 2022-09-23 | 2023-07-01 |
 | [Dos Locos](https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Locos De Amor](https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8) | 3:26 | 2021-12-17 | 2023-04-15 |
@@ -137,7 +138,7 @@
 | [Hoy Me Voy A Emborrachar](https://open.spotify.com/track/3O6AIhv3Byai1T9U0bwaat) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Hoy Me Voy A Emborrachar](https://open.spotify.com/album/46eaEef4bHoYLaVLj9iqLc) | 3:21 | 2023-10-27 | 2024-02-24 |
 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 | 2021-12-17 | 2022-04-09 |
 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 | 2024-01-12 |  |
-| [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 | 2021-12-17 |  |
+| [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 | 2021-12-17 | 2024-03-30 |
 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 | 2021-12-17 |  |
 | [Instinto Animal](https://open.spotify.com/track/2vbfgWG5Jc0jv6h4nVyO8b) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Instinto](https://open.spotify.com/album/7myOOiCNgD8ciBKoqqbVQo) | 4:31 | 2021-12-17 | 2022-09-24 |
 | [Jabón De Olor](https://open.spotify.com/track/1Bqux8vSIgwoRycpC0eLcV) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Jabón De Olor](https://open.spotify.com/album/4DYJkXgntQ3lFLzNkWEOk5) | 4:07 | 2021-12-17 | 2022-03-03 |
@@ -150,7 +151,7 @@
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/3SsJ5CTzlCjkdT50TnsdcL) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [A Tu Salud](https://open.spotify.com/album/2gOqmt3eRAfyhBfRUb5pjf) | 3:26 | 2021-12-17 | 2022-03-18 |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:23 | 2021-12-17 | 2022-03-18 |
 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 | 2023-06-16 |  |
-| [La Historia Al Revés](https://open.spotify.com/track/3iF002Z7f68vsbwrVKTWWG) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [La Historia Al Revés](https://open.spotify.com/album/1I7VntMT4xGSSlPxqGiQEK) | 2:46 | 2024-03-22 |  |
+| [La Historia Al Revés](https://open.spotify.com/track/3iF002Z7f68vsbwrVKTWWG) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [La Historia Al Revés](https://open.spotify.com/album/1I7VntMT4xGSSlPxqGiQEK) | 2:46 | 2024-03-22 | 2024-03-30 |
 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 | 2021-12-17 | 2022-09-24 |
 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 | 2022-09-23 | 2023-01-21 |
 | [La Muerte No Es el Olvido](https://open.spotify.com/track/7h62f2DDObGo0B7FOoyAan) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [La Muerte No Es el Olvido](https://open.spotify.com/album/2Naj6u36xiUj5BPqSuM7Ip) | 3:40 | 2023-10-27 | 2024-02-24 |
@@ -167,6 +168,7 @@
 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 | 2022-09-02 |  |
 | [Le Gusta](https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Le Gusta](https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf) | 2:35 | 2023-08-22 | 2024-02-24 |
 | [Les Molesta](https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Les Molesta](https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90) | 2:43 | 2022-12-09 | 2023-07-01 |
+| [Libro Abierto \- En Vivo](https://open.spotify.com/track/5xsTkci1YsuBTB9Sa5xiSS) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7), [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Libro Abierto \(En Vivo\)](https://open.spotify.com/album/3PRLiYQLtdK5k4FXeRyMsL) | 2:39 | 2024-03-29 |  |
 | [Lindo Güerito \- En Vivo](https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 3:32 | 2024-02-23 |  |
 | [Llevarte al Cielo](https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [ANTOLOGÍA 20 AÑOS](https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9) | 4:08 | 2023-10-27 | 2024-02-24 |
 | [Llévate](https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Llévate](https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD) | 3:10 | 2023-10-27 |  |

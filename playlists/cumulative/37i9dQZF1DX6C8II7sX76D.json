@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 125178,
       "name": "Makeba - Ian Asher Remix",
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
@@ -4249,6 +4249,28 @@
     },
     {
       "album": {
+        "name": "Tarantella",
+        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145553,
+      "name": "Tarantella",
+      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
+    },
+    {
+      "album": {
         "name": "TECHNO + TEQUILA",
         "url": "https://open.spotify.com/album/19neklOWap4kYaLlVQQTba"
       },
@@ -4647,6 +4669,24 @@
     },
     {
       "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
       },
@@ -4938,7 +4978,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"

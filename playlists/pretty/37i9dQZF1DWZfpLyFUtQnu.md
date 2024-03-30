@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,127 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,210 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Pas toi \- au New Morning 1994 \(concert acoustique\)](https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN) | [Carole Fredericks](https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Fredericks, Goldman, Jones : Du New Morning au Zénith \(Live\)](https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S) | 5:23 |
 | 75 | [Je fais de toi mon essentiel \- Version acoustique](https://open.spotify.com/track/5XdHsf9N5sRLAoGZA46wzn) | [La Troupe Du Roi Soleil](https://open.spotify.com/artist/7AoFoZPx5shtWCUqgaMFeT) | [Le Roi Soleil \(Le spectacle original\) \[L'intégrale\]](https://open.spotify.com/album/3KKatIB0im80KRXGD0vh6g) | 3:34 |
 
-Snapshot ID: `MCw3MTljMDM2YzJmM2ZkYTZkN2I1ZmY5MzI5NmJlMWJjNjhiYzllMWMy`
+Snapshot ID: `MCw5YWJjNDI5MTg5NTUxNzY1MGY2NWJjMzNjYTM4YmRkMDYyOWU3YWJk`

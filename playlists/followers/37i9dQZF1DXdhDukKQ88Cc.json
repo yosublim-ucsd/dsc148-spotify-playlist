@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 145652,
+  "2024-03-30": 145678,
   "date_first_scraped": "2023-09-26",
   "description": "okayy hop lige p\u00e5 <a href=\"spotify:album:4oExjnLMuvThxFs2UR80R8\">Noahs Ark</a> \u26f5\ufe0f",
   "name": "100 DK",
@@ -1933,6 +1933,24 @@
       "duration_ms": 160753,
       "name": "North Face (feat. Lamin)",
       "url": "https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3"
+    },
+    {
+      "album": {
+        "name": "OT",
+        "url": "https://open.spotify.com/album/6fqud5SMiWILs4EQIJtgjQ"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/1erc6T5ojSwOiuNc7i2AFA"
     },
     {
       "album": {

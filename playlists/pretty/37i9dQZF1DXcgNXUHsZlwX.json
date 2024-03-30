@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 118916,
+  "num_followers": 118930,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTgwZjIwNDUxZGFiOWYyMzMwODJkY2U4NjkwODVjYmVkZmEyYzk0",
+  "snapshot_id": "MCxjZjkyZWRlZGExYzc0OGZhNTJkZjY1YjI2MTkzY2U4MjU1M2QwZDVh",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Bright Green Vibrant Gray",
         "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Sun and Time",
-        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
-      },
-      "artists": [
-        {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
-        }
-      ],
-      "duration_ms": 250747,
-      "name": "Sun and Time",
-      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -447,6 +431,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Sun and Time",
+        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 250747,
+      "name": "Sun and Time",
+      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Sprint!",
         "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 204400,
       "name": "Frisbee & marmelade",
       "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Inuktitut",
-        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 253090,
-      "name": "Taimangalimaaq (Time After Time)",
-      "url": "https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -523,6 +507,22 @@
       "duration_ms": 173515,
       "name": "C'est tout, c'est rien",
       "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 253090,
+      "name": "Taimangalimaaq (Time After Time)",
+      "url": "https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Les choses ext\u00e9rieures",
-        "url": "https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00e9 Leclerc",
-          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Ton \u00e9quilibre",
-      "url": "https://open.spotify.com/track/1PktdmpT9r2gAOQtASLK4z"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Pers\u00e9ides",
         "url": "https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA"
       },
@@ -783,54 +767,6 @@
       "duration_ms": 175746,
       "name": "Lost River",
       "url": "https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Inuktitut",
-        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 243756,
-      "name": "Qimatsilunga (I Want to Break Free)",
-      "url": "https://open.spotify.com/track/3XVqCl47UQ7kWTXN1HAgvZ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bazini",
-          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
-        }
-      ],
-      "duration_ms": 315733,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5rebri0zyAov1vW9faM3wy"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Life as It Comes",
-      "url": "https://open.spotify.com/track/2ri1XBMIOJLnCMzuzQyUml"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -855,18 +791,66 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Du temps",
-        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Du temps",
-      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+      "duration_ms": 243756,
+      "name": "Qimatsilunga (I Want to Break Free)",
+      "url": "https://open.spotify.com/track/3XVqCl47UQ7kWTXN1HAgvZ"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Les choses ext\u00e9rieures",
+        "url": "https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00e9 Leclerc",
+          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "Ton \u00e9quilibre",
+      "url": "https://open.spotify.com/track/1PktdmpT9r2gAOQtASLK4z"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Life as It Comes",
+      "url": "https://open.spotify.com/track/2ri1XBMIOJLnCMzuzQyUml"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5rebri0zyAov1vW9faM3wy"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+        "name": "Du temps",
+        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Antigone",
-      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
+      "duration_ms": 222586,
+      "name": "Du temps",
+      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -931,6 +915,22 @@
       "duration_ms": 197111,
       "name": "Les joailliers (piano, voix)",
       "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Antigone",
+      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -967,22 +967,6 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Dans la lune",
         "url": "https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND"
       },
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Feeling Like A Plant",
-        "url": "https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5"
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
         }
       ],
-      "duration_ms": 179551,
-      "name": "Feeling Like A Plant",
-      "url": "https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu"
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 191280,
       "name": "Le vent se l\u00e8ve",
       "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Feeling Like A Plant",
+        "url": "https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "Feeling Like A Plant",
+      "url": "https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+        "name": "Dormir dans l'auto",
+        "url": "https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl"
       },
       "artists": [
         {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
+      "duration_ms": 208573,
+      "name": "Dormir dans l'auto",
+      "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1283,22 +1283,6 @@
       "duration_ms": 238969,
       "name": "L'\u00e9t\u00e9 indien de ta vie",
       "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Dormir dans l'auto",
-        "url": "https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl"
-      },
-      "artists": [
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Dormir dans l'auto",
-      "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "\u00c9coute",
         "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "SESSION LIVE H2T",
-        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "Beaut\u00e9 baroque - Session live H2T",
-      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Mitshuap",
-        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
-      },
-      "artists": [
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        }
-      ],
-      "duration_ms": 173083,
-      "name": "Grande fille",
-      "url": "https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Dans la for\u00eat num\u00e9rique",
         "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
@@ -1411,6 +1379,22 @@
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "SESSION LIVE H2T",
+        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 211002,
+      "name": "Beaut\u00e9 baroque - Session live H2T",
+      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 205386,
       "name": "Californie",
       "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "duration_ms": 173083,
+      "name": "Grande fille",
+      "url": "https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Fables (The Garden Version)",
+        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 176536,
+      "name": "Fables - The Garden Version",
+      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Tu ne seras jamais l\u00e0",
         "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 187800,
       "name": "Tu ne seras jamais l\u00e0",
       "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Fables (The Garden Version)",
-        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 176536,
-      "name": "Fables - The Garden Version",
-      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+      },
+      "artists": [
+        {
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+        }
+      ],
+      "duration_ms": 149015,
+      "name": "Elle danse",
+      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Elle vit dans les bois",
         "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
-      },
-      "artists": [
-        {
-          "name": "Mimi O'Bonsawin",
-          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
-        }
-      ],
-      "duration_ms": 149015,
-      "name": "Elle danse",
-      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

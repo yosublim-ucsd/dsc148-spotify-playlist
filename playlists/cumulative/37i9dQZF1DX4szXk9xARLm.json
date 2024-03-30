@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 114215,
       "name": "Bel ba2i leban",
       "url": "https://open.spotify.com/track/0mjqrOGKJg8HYkDGyaXLrs"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 218526,
       "name": "El Omr",
       "url": "https://open.spotify.com/track/0b7LojaglTKiRajPGjfsiP"
@@ -418,6 +418,24 @@
       "duration_ms": 185280,
       "name": "Hat7areb Meen (From Selat Rahem Series)",
       "url": "https://open.spotify.com/track/7fP0vL4oUUlysez0UEna9k"
+    },
+    {
+      "album": {
+        "name": "Hbiba Qalbi Ante",
+        "url": "https://open.spotify.com/album/5V1ldeCf8Pm7JL8zXAe43V"
+      },
+      "artists": [
+        {
+          "name": "Husam Al Rassam",
+          "url": "https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188597,
+      "name": "Hbiba Qalbi Ante",
+      "url": "https://open.spotify.com/track/7Eh0tJqbYlpTnqpzg0fN3f"
     },
     {
       "album": {
@@ -1142,6 +1160,24 @@
       "duration_ms": 168392,
       "name": "\u0636\u0639\u0641 \u0646\u0638\u0631",
       "url": "https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku"
+    },
+    {
+      "album": {
+        "name": "\u063a\u064a\u0645\u0629 \u062c\u0646\u0648\u0628\u064a\u0629",
+        "url": "https://open.spotify.com/album/4zpj8yX66T7NOOKaFp2gcM"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142720,
+      "name": "\u063a\u064a\u0645\u0629 \u062c\u0646\u0648\u0628\u064a\u0629",
+      "url": "https://open.spotify.com/track/0u3OlqWffSlVYua3uk6CYp"
     },
     {
       "album": {

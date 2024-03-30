@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,913 likes - 47 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,915 likes - 47 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 46 | [FLOATING](https://open.spotify.com/track/6dH6sNqJ0V70apdyR7mMSZ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Floating](https://open.spotify.com/album/2VRJeL1urQDxXkIvPCCa6s) | 3:11 |
 | 47 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
 
-Snapshot ID: `MCxiNzk2Y2UwZjAwMTMwMjkxYjg3ZWU5ZDE2YjlkNWUxMDI3NDcxYWU0`
+Snapshot ID: `MCwwNWY1Zjg0OTYwNzQ2ZjRlMDRiOTY3N2ZkOWM3MzQwZDdlNTUyOTMx`

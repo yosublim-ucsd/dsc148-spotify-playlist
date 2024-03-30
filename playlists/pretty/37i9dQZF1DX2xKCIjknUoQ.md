@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Skip The Use
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,459 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,494 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 38 | [Stand As One](https://open.spotify.com/track/1RgcWiVrG3QwkqftEvrfBV) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8) | 3:18 |
 | 39 | [Soledad](https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:08 |
 | 40 | [Du courage](https://open.spotify.com/track/3hRk4KJ2m6Xy3PU2vAH4fz) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [Et Si C'Etait Moi](https://open.spotify.com/album/0ay1TfTJyalcp5AUUoEaAK) | 3:36 |
-| 41 | [Tchi Cum Bah](https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aeromusical](https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF) | 2:23 |
-| 42 | [L'Amour à la française](https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Pamplemousse Mécanique \(Edition Eurovision + 1 titre bonus\)](https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu) | 2:42 |
+| 41 | [L'Amour à la française](https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Pamplemousse Mécanique \(Edition Eurovision + 1 titre bonus\)](https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu) | 2:42 |
+| 42 | [Tchi Cum Bah](https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aeromusical](https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF) | 2:23 |
 | 43 | [Les Bières Aujourd'hui S'Ouvrent Manuellement](https://open.spotify.com/track/2qYLsESysxAVVaIKxVoEKC) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Deportivo](https://open.spotify.com/album/02e6UTnOgWukRXD4l9nv9q) | 2:12 |
 | 44 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
 | 45 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
 | 50 | [1000 Moi\-même](https://open.spotify.com/track/78FoiGR1ca78sN0KeQvYvq) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Parmi Eux](https://open.spotify.com/album/4hTfu8ttvLuVzVaJ41EU4a) | 2:10 |
 
-Snapshot ID: `MCw3YWY1N2YxYmQ2ZDAxOWMxMzNiZDExMTZjOTdmM2U3MTczNzMwNzZm`
+Snapshot ID: `MCxlZjE5YjBiZTU2OTEyZTRmYjI4MzlhZDg3MjM1NGEwZjg4MDQ4ZDY1`

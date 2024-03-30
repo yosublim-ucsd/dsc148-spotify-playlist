@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 465899,
+  "num_followers": 465922,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzllOGI4MjMyZDNhMWFmZTVmNTQwMGY2ZTI0OGZiNTg4YzEwMTU3",
+  "snapshot_id": "MCw5MDQ0OTUwNGQwZWZhNTRlYTMwYmMyNmJmZDY4ZWYzYmQzNzgwY2Ez",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Pine Hollow (Live)",
-        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Jolene - Live",
-      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
         "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 417533,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Pine Hollow (Live)",
+        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Jolene - Live",
+      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Don't Dream It's Over / Everything Is Free",
-        "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
+        "name": "Saint Cloud +3",
+        "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
       },
       "artists": [
         {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 257755,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U"
+      "duration_ms": 278456,
+      "name": "Light of a Clear Blue Morning",
+      "url": "https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Saint Cloud +3",
-        "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
+        "name": "Don't Dream It's Over / Everything Is Free",
+        "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 278456,
-      "name": "Light of a Clear Blue Morning",
-      "url": "https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn"
+      "duration_ms": 257755,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Free Fallin'",
         "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 291930,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 183226,
       "name": "Harvest (feat. Andrew Bird & Chris Stills)",
       "url": "https://open.spotify.com/track/2FeUjUEnlUdnrN9sEzYYMY"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 257941,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "The Bridge School Concerts 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 223133,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Unknown Legend",
+        "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Unknown Legend",
+      "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine",
         "url": "https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Unknown Legend",
-        "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Unknown Legend",
-      "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I Will Follow You Into The Dark",
         "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
       },
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "All We Grow (Ten Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ"
+        "name": "The Music Is You: A Tribute to John Denver",
+        "url": "https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2"
       },
       "artists": [
         {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
         }
       ],
-      "duration_ms": 299199,
-      "name": "Take It With Me",
-      "url": "https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ"
+      "duration_ms": 236546,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Music Is You: A Tribute to John Denver",
-        "url": "https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2"
+        "name": "All We Grow (Ten Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ"
       },
       "artists": [
         {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 236546,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
+      "duration_ms": 299199,
+      "name": "Take It With Me",
+      "url": "https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1875,26 +1875,6 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Alynda Segarra",
-          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1927,22 +1907,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Girl From The North Country",
-      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Mr. Bojangles",
         "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
       },
@@ -1955,6 +1919,42 @@
       "duration_ms": 243448,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Alynda Segarra",
+          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     },
     {
       "added_at": "2024-03-15 04:00:00",

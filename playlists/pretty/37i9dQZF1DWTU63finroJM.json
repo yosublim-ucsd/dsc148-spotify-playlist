@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Ege Can Sal.",
-  "num_followers": 59680,
+  "num_followers": 59703,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGM2OGI0MzFiMzQ0YzhjZGJjNjAwOTA0MTk4YzkyYTI0MGM2YzVi",
+  "snapshot_id": "MCxkMGE2Nzk0Y2QwMjI1ZDZmMDMzODRmYmI0MjJjM2E2MzQyMWVhMGYw",
   "tracks": [
     {
       "added_at": "2024-03-17 21:01:15",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Snow Angel (Deluxe)",
-        "url": "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 143233,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Snow Angel (Deluxe)",
+        "url": "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "vier aufnahmen",
-        "url": "https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 145063,
-      "name": "\\ sympathisch",
-      "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL"
       },
@@ -395,22 +379,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Jadoo",
-        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "Jadoo",
-      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Itu Aku - Spotify Singles",
         "url": "https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 254337,
       "name": "Itu Aku - Spotify Singles",
       "url": "https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -583,6 +567,26 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Also was jetzt?",
         "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
       },
@@ -627,26 +631,6 @@
       "duration_ms": 208907,
       "name": "CAN YOU UNDERSTAND ME?",
       "url": "https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
-      },
-      "artists": [
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -699,38 +683,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "OIK",
-        "url": "https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1"
-      },
-      "artists": [
-        {
-          "name": "163 braces",
-          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "OIK",
-      "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "F\u00fchrerschein",
-        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 242671,
-      "name": "F\u00fchrerschein",
-      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "BINBO",
         "url": "https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai"
       },
@@ -759,6 +711,22 @@
       "duration_ms": 197712,
       "name": "Discord-disco",
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "F\u00fchrerschein",
+        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 242671,
+      "name": "F\u00fchrerschein",
+      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -811,6 +779,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 203011,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Born To Lose",
         "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+        "name": "The Whole Story",
+        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
         }
       ],
-      "duration_ms": 203011,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+      "duration_ms": 258560,
+      "name": "Beautiful Everything",
+      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -859,26 +843,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        },
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 187487,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "oh boi",
         "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
       },
@@ -891,22 +855,6 @@
       "duration_ms": 160333,
       "name": "oh boi",
       "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "The Whole Story",
-        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
-      },
-      "artists": [
-        {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Beautiful Everything",
-      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -959,22 +907,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Unpredictable",
-        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Unpredictable",
-      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/36RBvUCtqxCicTxGnOqD2X"
       },
@@ -991,18 +923,34 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Krishna sang Radha",
-        "url": "https://open.spotify.com/album/2uUFXxGxjpBw5A554xP2Ll"
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
       },
       "artists": [
         {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
         }
       ],
-      "duration_ms": 222500,
-      "name": "Krishna sang Radha",
-      "url": "https://open.spotify.com/track/3qo3osfNpgjILcztncqWPX"
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1023,18 +971,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+        "name": "Krishna sang Radha",
+        "url": "https://open.spotify.com/album/2uUFXxGxjpBw5A554xP2Ll"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
         }
       ],
-      "duration_ms": 191160,
-      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
+      "duration_ms": 222500,
+      "name": "Krishna sang Radha",
+      "url": "https://open.spotify.com/track/3qo3osfNpgjILcztncqWPX"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1139,22 +1087,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Alta Tensione",
-        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
-      },
-      "artists": [
-        {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Alta Tensione",
-      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Two Moon",
         "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
@@ -1203,18 +1135,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
+        "name": "Alta Tensione",
+        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
       },
       "artists": [
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
         }
       ],
-      "duration_ms": 184795,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
+      "duration_ms": 153200,
+      "name": "Alta Tensione",
+      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1235,6 +1167,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 184795,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Bad Timing",
         "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
       },
@@ -1251,22 +1199,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "VENERE",
-        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
-      },
-      "artists": [
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "VENERE",
-      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "My Dream",
         "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
       },
@@ -1279,6 +1211,22 @@
       "duration_ms": 199200,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1351,26 +1299,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "GENNAIO 24 (feat. Caffellatte)",
-        "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
+        "name": "Ud Ke Chali",
+        "url": "https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f"
       },
       "artists": [
         {
-          "name": "piazzabologna",
-          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
-        },
-        {
-          "name": "Gorbaciof",
-          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
-        },
-        {
-          "name": "Caffellatte",
-          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
         }
       ],
-      "duration_ms": 130039,
-      "name": "GENNAIO 24 (feat. Caffellatte)",
-      "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
+      "duration_ms": 235172,
+      "name": "Ud Ke Chali",
+      "url": "https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1395,18 +1335,26 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Ud Ke Chali",
-        "url": "https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f"
+        "name": "GENNAIO 24 (feat. Caffellatte)",
+        "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
       },
       "artists": [
         {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        },
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
         }
       ],
-      "duration_ms": 235172,
-      "name": "Ud Ke Chali",
-      "url": "https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT"
+      "duration_ms": 130039,
+      "name": "GENNAIO 24 (feat. Caffellatte)",
+      "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1549,6 +1497,22 @@
       "url": "https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO"
     },
     {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "it's all good, kid",
+        "url": "https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "it's all good, kid",
+      "url": "https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA"
+    },
+    {
       "added_at": "2024-03-17 21:01:15",
       "album": {
         "name": "Antes",
@@ -1583,38 +1547,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "it's all good, kid",
-        "url": "https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq"
-      },
-      "artists": [
-        {
-          "name": "DellaXOZ",
-          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "it's all good, kid",
-      "url": "https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "WE STILL YOUNG",
-        "url": "https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "PLAYLIST (ROCK DA BOAT)",
-      "url": "https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/5hkOTZ6DIF7ywDsXSnkI6H"
       },
@@ -1631,22 +1563,6 @@
       "duration_ms": 186550,
       "name": "Wind",
       "url": "https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Prepare Yourself!",
-        "url": "https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 125887,
-      "name": "Exclamation Mark",
-      "url": "https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1667,6 +1583,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "duration_ms": 125887,
+      "name": "Exclamation Mark",
+      "url": "https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "A Good Life",
         "url": "https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ"
       },
@@ -1679,22 +1611,6 @@
       "duration_ms": 240773,
       "name": "A Good Life",
       "url": "https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Unhappier",
-        "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
-      },
-      "artists": [
-        {
-          "name": "laye",
-          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
-        }
-      ],
-      "duration_ms": 197219,
-      "name": "Unhappier",
-      "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1711,6 +1627,22 @@
       "duration_ms": 184005,
       "name": "When It's Over",
       "url": "https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Unhappier",
+        "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "duration_ms": 197219,
+      "name": "Unhappier",
+      "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1745,22 +1677,6 @@
       "url": "https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "The Whole Story",
-        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
-      },
-      "artists": [
-        {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
-        }
-      ],
-      "duration_ms": 152920,
-      "name": "The Whole Story",
-      "url": "https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k"
-    },
-    {
       "added_at": "2024-03-22 06:00:00",
       "album": {
         "name": "Kaleidoscope",
@@ -1783,6 +1699,38 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "The Whole Story",
+        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "duration_ms": 152920,
+      "name": "The Whole Story",
+      "url": "https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Accelerator",
+        "url": "https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 171705,
+      "name": "Accelerator",
+      "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/51oLr3DGob1mhKVtDfDYq4"
       },
@@ -1795,22 +1743,6 @@
       "duration_ms": 202360,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "tbh",
-        "url": "https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Yen",
-          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
-        }
-      ],
-      "duration_ms": 161612,
-      "name": "idk",
-      "url": "https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1835,8 +1767,8 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "BUTCHER'S BIN",
-        "url": "https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R"
+        "name": "DUST OFF / START AGAIN",
+        "url": "https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O"
       },
       "artists": [
         {
@@ -1844,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
         }
       ],
-      "duration_ms": 240630,
-      "name": "BUTCHER'S BIN",
-      "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
+      "duration_ms": 224000,
+      "name": "DUST OFF / START AGAIN",
+      "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1895,6 +1827,70 @@
       "duration_ms": 216389,
       "name": "Acto Final",
       "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "nobori",
+        "url": "https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 130220,
+      "name": "Assaji",
+      "url": "https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Knock, Knock (Extended Version)",
+        "url": "https://open.spotify.com/album/1OyYinHCauMPSic0CuCBeE"
+      },
+      "artists": [
+        {
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+        }
+      ],
+      "duration_ms": 209751,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/1McaBph49HIifhnGMg4a1f"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "daughter",
+        "url": "https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE"
+      },
+      "artists": [
+        {
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+        }
+      ],
+      "duration_ms": 203702,
+      "name": "daughter",
+      "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "BUTCHER'S BIN",
+        "url": "https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 240630,
+      "name": "BUTCHER'S BIN",
+      "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
     }
   ],
   "unique_name": "RADAR Global ",

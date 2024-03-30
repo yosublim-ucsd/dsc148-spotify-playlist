@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,920 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,942 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 18 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
 | 19 | [A Wonderful Life \- Version](https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM) | 6:55 |
 | 20 | [Track Ten](https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh) | [Back To Basics \(Part 1\)](https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf) | 6:01 |
-| 21 | [Desire](https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [The Legendary Adventures Of A Filter King](https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO) | 6:27 |
-| 22 | [Tedra](https://open.spotify.com/track/0LXrOoeTSHbDF4gsxZXRSD) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X) | 5:41 |
+| 21 | [Tedra](https://open.spotify.com/track/0LXrOoeTSHbDF4gsxZXRSD) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X) | 5:41 |
+| 22 | [Desire](https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [The Legendary Adventures Of A Filter King](https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO) | 6:27 |
 | 23 | [World Of Deep](https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:28 |
-| 24 | [The Golden Ratio \(Version\)](https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z) | 4:42 |
-| 25 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
+| 24 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
+| 25 | [The Golden Ratio \(Version\)](https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z) | 4:42 |
 | 26 | [Low Life](https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Clocks / Low Life / Go](https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1) | 5:34 |
 | 27 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
 | 28 | [Oombah \- Kevin Saunderson & Justin Cholewski Remix](https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Virus J](https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw) | [Oombah \(Kevin Saunderson & Justin Cholewski Remix\)](https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD) | 3:10 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 46 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
 | 47 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
 | 48 | [The Curse Breaker](https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Curse Breaker / What You Need](https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6) | 3:39 |
-| 49 | [The Bearer \(feat\. Karina Mia\) \- Brother's Burden Pt1](https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Karina Mia](https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu) | [The Bearer \(feat\. Karina Mia\)](https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd) | 6:00 |
-| 50 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
+| 49 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
+| 50 | [The Bearer \(feat\. Karina Mia\) \- Brother's Burden Pt1](https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Karina Mia](https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu) | [The Bearer \(feat\. Karina Mia\)](https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd) | 6:00 |
 
-Snapshot ID: `MCw4NTNhYzM5ODEyNzAzNzk2OWFhMzg0MjljZDcwYzc3NDBlNTI3NDdi`
+Snapshot ID: `MCxkZWRlNGYyYzIxMmQ2MDA4YjdiMzRiMzVkN2FkNmEzMTM0MmNlZTQ2`

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Lizz Wright",
-  "num_followers": 444086,
+  "num_followers": 444159,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODQzYjhmMjNiMmU4MmFlMzAzYTE3NWNhM2RmYjk2NWVmZjE5NDU5",
+  "snapshot_id": "MCwyMDBhODBlYmMyMjUzZGUyZWFmNzZhNmM4OTQ5NWE0YzhlOThiMmNk",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 295696,
       "name": "Stealing A Kiss",
       "url": "https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 179397,
+      "name": "ALLIIGATOR TEARS",
+      "url": "https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 306533,
-      "name": "This Man",
-      "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -1699,22 +1699,6 @@
       "duration_ms": 248590,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Roll With Me",
-        "url": "https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7"
-      },
-      "artists": [
-        {
-          "name": "Davie",
-          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "Roll With Me",
-      "url": "https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3"
     },
     {
       "added_at": "2023-10-06 04:00:00",

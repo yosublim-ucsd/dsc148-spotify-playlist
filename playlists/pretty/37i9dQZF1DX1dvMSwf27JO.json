@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft Zendaya ",
-  "num_followers": 525848,
+  "num_followers": 525862,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjA5MmFjNzJlMmNmMzgzZDMwY2JiZmM4NWIzODFlNzk1NzA1NzBl",
+  "snapshot_id": "MCxkM2QxOTIzMzNjMmYzNTE5YjRiNGY2YTIyMWE3YzM4NGJjYWQzNDA3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Biking (Solo)",
-        "url": "https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 212494,
-      "name": "Biking (Solo)",
-      "url": "https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Lately EP",
         "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 157303,
       "name": "Lava",
       "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Biking (Solo)",
+        "url": "https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 212494,
+      "name": "Biking (Solo)",
+      "url": "https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Far Rockaway",
-        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        }
-      ],
-      "duration_ms": 142566,
-      "name": "Far Rockaway",
-      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Chrome Bull",
         "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 181016,
       "name": "11:30",
       "url": "https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Far Rockaway",
+        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "duration_ms": 142566,
+      "name": "Far Rockaway",
+      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Protect My Energy",
-      "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 255760,
       "name": "M79",
       "url": "https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Protect My Energy",
+      "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 209108,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 318917,
-      "name": "Dancing Elephants",
-      "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Sexy",
-        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        },
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Be With U (feat. DETO BLACK)",
-      "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Be the One You Love",
         "url": "https://open.spotify.com/album/4vnVALee891bV599C0I6rI"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 223601,
       "name": "Wake up Jacob",
       "url": "https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Be With U (feat. DETO BLACK)",
+      "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
     },
     {
       "added_at": "2024-02-16 05:00:00",

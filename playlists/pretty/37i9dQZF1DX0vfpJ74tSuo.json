@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 68370,
+  "num_followers": 68409,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGFlOTMxNzEzYzhjNDg0MTgwYzNmMmNlMGZiYzI5MTI0NzBlOTZi",
+  "snapshot_id": "MCxkOWUzZjlhMDNiMjMxODYyNjA3ZDIzZTgyNTUwNzJjOWI3MmZkZTZh",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:41",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 330893,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 295613,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Rediscovered",
-        "url": "https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "Coffee Blues",
-      "url": "https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Mississippi Blues",
         "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 152076,
       "name": "Jumper Hanging Out On the Line",
       "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Rediscovered",
+        "url": "https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Coffee Blues",
+      "url": "https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "First Recordings",
-        "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
-      },
-      "artists": [
-        {
-          "name": "Junior Kimbrough",
-          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
-        }
-      ],
-      "duration_ms": 120920,
-      "name": "Feels so Good #2",
-      "url": "https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Letter from Bluewater Man",
         "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 144000,
       "name": "Letter from Bluewater Man",
       "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "duration_ms": 120920,
+      "name": "Feels so Good #2",
+      "url": "https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
-      },
-      "artists": [
-        {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "I Must Be In A Good Place Now",
         "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 187265,
       "name": "I Must Be In A Good Place Now",
       "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "The Midnight Broadcast",
+        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
+      },
+      "artists": [
+        {
+          "name": "Peter Case",
+          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -971,18 +971,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The 1928 Sessions",
-        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
+        "name": "I Know the Blues",
+        "url": "https://open.spotify.com/album/3ZKQp9QDr7bdj7AZRy4wrw"
       },
       "artists": [
         {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+          "name": "Marco Descontus",
+          "url": "https://open.spotify.com/artist/2w7qGk2290BWS3LWrxvuPQ"
+        },
+        {
+          "name": "The Italian Connection",
+          "url": "https://open.spotify.com/artist/4R1OrT7otEReliIBrMMekn"
         }
       ],
-      "duration_ms": 263319,
-      "name": "Avalon Blues",
-      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
+      "duration_ms": 244506,
+      "name": "I Know the Blues",
+      "url": "https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "I Know the Blues",
-        "url": "https://open.spotify.com/album/3ZKQp9QDr7bdj7AZRy4wrw"
+        "name": "The 1928 Sessions",
+        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
       },
       "artists": [
         {
-          "name": "Marco Descontus",
-          "url": "https://open.spotify.com/artist/2w7qGk2290BWS3LWrxvuPQ"
-        },
-        {
-          "name": "The Italian Connection",
-          "url": "https://open.spotify.com/artist/4R1OrT7otEReliIBrMMekn"
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 244506,
-      "name": "I Know the Blues",
-      "url": "https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX"
+      "duration_ms": 263319,
+      "name": "Avalon Blues",
+      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Complete Studio Recordings",
-        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/2jmS1jYAeh5mpl7DSfZS0B"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 249806,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/6LfPMqwKz9h4Vs3Lf2hMDz"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
+      },
+      "artists": [
+        {
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "GET ON BOARD",
         "url": "https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 182826,
       "name": "Pick a Bale of Cotton",
       "url": "https://open.spotify.com/track/4gcbDSXk4EU0UWGDPbQfcp"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2035,38 +2035,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Teach Me How to Stay (Live)",
-        "url": "https://open.spotify.com/album/5KnOlJerBisARbyK4AAijY"
-      },
-      "artists": [
-        {
-          "name": "Boneshakers",
-          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
-        }
-      ],
-      "duration_ms": 323040,
-      "name": "Teach Me How to Stay - Live",
-      "url": "https://open.spotify.com/track/2KXTHCc7NbLlR57VVaVxEN"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Preachin' the Blues",
-      "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Keep On Walkin'",
         "url": "https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu"
       },
@@ -2095,6 +2063,38 @@
       "duration_ms": 224186,
       "name": "75-71",
       "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Preachin' the Blues",
+      "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Teach Me How to Stay (Live)",
+        "url": "https://open.spotify.com/album/5KnOlJerBisARbyK4AAijY"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Teach Me How to Stay - Live",
+      "url": "https://open.spotify.com/track/2KXTHCc7NbLlR57VVaVxEN"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Grey Sky Blue",
+        "url": "https://open.spotify.com/album/4clzWU8Hi3Xd3xftWH5pER"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Kasbah",
+      "url": "https://open.spotify.com/track/61QnpQqwH3F3HtvgZguOQW"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Homecookin' Mama",
         "url": "https://open.spotify.com/album/6kw3VuKvowP7pjnfBSwWkD"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 180775,
       "name": "Homecookin' Mama",
       "url": "https://open.spotify.com/track/5UYCzsjfLS29GfWlccU0yQ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Grey Sky Blue",
-        "url": "https://open.spotify.com/album/4clzWU8Hi3Xd3xftWH5pER"
-      },
-      "artists": [
-        {
-          "name": "Kyla Brox",
-          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "Kasbah",
-      "url": "https://open.spotify.com/track/61QnpQqwH3F3HtvgZguOQW"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Agnes Water Blues",
-        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
-      },
-      "artists": [
-        {
-          "name": "Maynard Heap",
-          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
-        }
-      ],
-      "duration_ms": 236655,
-      "name": "Agnes Water Blues",
-      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Raging Moon",
         "url": "https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy"
       },
@@ -2475,18 +2459,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Huldenberg Blues (Remastered)",
-        "url": "https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM"
+        "name": "Agnes Water Blues",
+        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
       },
       "artists": [
         {
-          "name": "Wizz Jones",
-          "url": "https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG"
+          "name": "Maynard Heap",
+          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Dallas Blues - Remastered",
-      "url": "https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh"
+      "duration_ms": 236655,
+      "name": "Agnes Water Blues",
+      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2503,6 +2487,22 @@
       "duration_ms": 273301,
       "name": "Howlin For Justice",
       "url": "https://open.spotify.com/track/3OlKTolvyJodbI3nFrzGNR"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Huldenberg Blues (Remastered)",
+        "url": "https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM"
+      },
+      "artists": [
+        {
+          "name": "Wizz Jones",
+          "url": "https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Dallas Blues - Remastered",
+      "url": "https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh"
     }
   ],
   "unique_name": "Morning Blues",

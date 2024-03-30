@@ -5202,7 +5202,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 200200,
       "name": "help me out o kill me not",
       "url": "https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7"
@@ -13950,6 +13950,28 @@
       "duration_ms": 205134,
       "name": "Work Work (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/7uMk5EMgwtYjiGoshyhBsh"
+    },
+    {
+      "album": {
+        "name": "Workaholic (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "Workaholic (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
     },
     {
       "album": {

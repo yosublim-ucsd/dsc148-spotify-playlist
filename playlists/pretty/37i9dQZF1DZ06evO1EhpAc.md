@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,163 likes - 31 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,162 likes - 31 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,6 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 28 | [Therapy](https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Therapy](https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU) | 3:16 |
 | 29 | [Drink Redux](https://open.spotify.com/track/4sX1Kyk2p8tS7PffqH6qjw) | [DJ OG Uncle Skip](https://open.spotify.com/artist/3BbyKFr0ezUecGOTFkaEUL), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EAST Vs\. WEST](https://open.spotify.com/album/68wu3CBa3CvLooOkAahxbV) | 3:46 |
 | 30 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
-| 31 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
+| 31 | [MY IMAGINATION 상상](https://open.spotify.com/track/2WWtQEsjxl7cVKx352Z40D) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:20 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDAxMTU3NTM3NTUyNDhhZjExZWY1ZDg0NTQ0ZjljOTRmOQ==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDBkNWYyNGQ4YmRiN2Y3NWU0MzFmYTQ1ZWQwNTlmYjJiMw==`

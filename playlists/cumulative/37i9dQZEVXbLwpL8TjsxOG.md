@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-839 songs - 2 day 1 hr 21 min
+840 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2023-07-14 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-08-03 | 2021-08-08 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-25 | 2023-12-30 |
-| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 |  |
+| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 | 2024-03-30 |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-09 | 2023-09-22 |
 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 | 2024-03-23 |  |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-02-20 | 2024-03-24 |
@@ -611,7 +611,7 @@
 | [半](https://open.spotify.com/track/1QP9ug2pxr20UmbgyUlTA8) | [Jeremy Lee 李駿傑](https://open.spotify.com/artist/3aNQDIayeN5QYwx42wk9VF) | [半](https://open.spotify.com/album/1KISSK3yeJRExrmoVZVN1E) | 4:03 | 2022-02-23 | 2022-05-15 |
 | [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 | 2022-01-28 | 2022-06-01 |
 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 | 2022-06-01 | 2023-02-16 |
-| [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 | 2024-03-29 |
+| [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 |  |
 | [另一個諾貝爾](https://open.spotify.com/track/56Aal9B8gurDIRmlw4y74a) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [另一個諾貝爾](https://open.spotify.com/album/3zlC4E72LhS3svz4GFWvTR) | 4:14 | 2021-07-07 | 2021-08-24 |
 | [只收一半](https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:18 | 2021-09-01 | 2021-09-02 |
 | [只要你不尷尬](https://open.spotify.com/track/1UdxSRCOnftG6I2dVBkHXH) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [只要你不尷尬](https://open.spotify.com/album/0ryBp7G4CRi53am6Hy65IM) | 4:03 | 2023-10-04 | 2023-10-29 |
@@ -846,6 +846,7 @@
 | [騷靈情歌](https://open.spotify.com/track/5MH9JHCKH1Hm3ih9m9ljy8) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [笑忘書](https://open.spotify.com/album/1p7eFSD6iJI0RqtpYXjKbT) | 4:09 | 2022-05-31 | 2022-06-05 |
 | [鯨落](https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鯨落](https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC) | 4:02 | 2021-03-27\* | 2023-03-19 |
 | [黑月](https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [黑月](https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X) | 3:25 | 2024-01-13 |  |
-| [黑玻璃](https://open.spotify.com/track/6eK3D9wcJhv7RDtpsqPBXs) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [黑玻璃](https://open.spotify.com/album/6GcBM6GjAMgYo83TGzuviv) | 3:39 | 2024-01-05 |  |
+| [黑玻璃](https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Inner \| Child](https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds) | 3:39 | 2024-03-29 |  |
+| [黑玻璃](https://open.spotify.com/track/6eK3D9wcJhv7RDtpsqPBXs) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [黑玻璃](https://open.spotify.com/album/6GcBM6GjAMgYo83TGzuviv) | 3:39 | 2024-01-05 | 2024-03-30 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

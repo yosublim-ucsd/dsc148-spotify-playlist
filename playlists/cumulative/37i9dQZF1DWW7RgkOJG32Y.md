@@ -4,15 +4,16 @@
 
 > Top trending country tracks from the last few months\. Cover: Gavin Adcock
 
-386 songs - 20 hr 39 min
+387 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2021-12-17 | 2022-02-05 |
 | [11 Beers \(feat\. Jake Owen\)](https://open.spotify.com/track/6R7nxAdrHuQXHGRrDc9Rit) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [11 Beers \(feat\. Jake Owen\)](https://open.spotify.com/album/0NMpxcd0QLTrDqJ9bb58Qw) | 3:24 | 2022-04-08 | 2022-11-19 |
-| [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 | 2024-02-23 |  |
+| [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:47 | 2024-02-23 |  |
 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 | 2021-12-17 | 2022-05-07 |
 | [24](https://open.spotify.com/track/520NKSFkKbELWUV5XQfIG9) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [24](https://open.spotify.com/album/5T9VoZ9HYeDUhlr7NTjHfH) | 3:03 | 2021-12-17 | 2022-05-14 |
+| [28th of June](https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [28th of June](https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX) | 3:45 | 2024-03-29 |  |
 | [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 | 2022-08-12 | 2023-04-15 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-03 | 2022-08-13 |
 | [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 | 2024-02-09 |  |
@@ -99,7 +100,7 @@
 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 | 2021-12-17 | 2022-05-28 |
 | [Drinkin' It Wrong](https://open.spotify.com/track/4DSVCVCTwLElQGgS1fr3ix) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Drinkin' It Wrong](https://open.spotify.com/album/53mdg0kzOIHfb2ez48NEUY) | 3:24 | 2022-02-11 | 2022-05-14 |
 | [Drinking to the Broken Hearts](https://open.spotify.com/track/58FFAwPYDGarcBP2hNHzUK) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts](https://open.spotify.com/album/1wGzChizEpSj0gZG2S5lRs) | 3:30 | 2022-02-04 | 2022-12-03 |
-| [Everleave](https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 4:05 | 2023-12-15 |  |
+| [Everleave](https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 4:05 | 2023-12-15 | 2024-03-30 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-07-07 | 2023-06-02 |
 | [Everybody Needs a Song](https://open.spotify.com/track/75vHaYeWPXNSEytZzxIFXw) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Everybody Needs a Song](https://open.spotify.com/album/4CHsfVCrAwEr2FXe9RLweB) | 3:03 | 2022-05-06 | 2022-12-17 |
 | [Everyone She Knows](https://open.spotify.com/track/0OURixtwzJF8pON5JpMHKv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:24 | 2022-06-17 | 2022-10-02 |
@@ -318,7 +319,7 @@
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-16 | 2023-05-08 |
 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 | 2023-05-05 | 2023-12-16 |
 | [Tequila Talkin'](https://open.spotify.com/track/2aQp76uccAVLEM9jUlvPap) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Tequila Talkin'](https://open.spotify.com/album/3mFgRtQQYZ4lTVayUqHgqs) | 3:21 | 2021-12-17 | 2022-03-26 |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3) | 3:55 | 2024-02-16 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3) | 3:53 | 2024-02-16 |  |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-23 | 2023-04-15 |
 | [That Was Us](https://open.spotify.com/track/10Aj75ID8Rkuq62hUmEsZy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:28 | 2021-12-17 | 2022-02-05 |
 | [That's Why](https://open.spotify.com/track/1l1quVPNxgMLUPQSS8lIFC) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Just Kids](https://open.spotify.com/album/56l79VQBjn3ro34d2ZLP9Z) | 3:01 | 2022-11-02 | 2022-12-17 |

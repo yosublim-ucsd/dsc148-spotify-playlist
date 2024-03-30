@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 135010,
+  "num_followers": 135047,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTllZTE3NjJkNjZkMjMxYjFlNDg1NjlmZGVmOGI2ZDExMTVhNGMz",
+  "snapshot_id": "MCwyMWJlZDJhODZlN2IzOGNjZTQ4Yzg4NmU3Y2EzMTg0OTQwNzI0ZWE2",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Cabrioli",
-        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
-      },
-      "artists": [
-        {
-          "name": "Moussa",
-          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
-        }
-      ],
-      "duration_ms": 152631,
-      "name": "Cabrioli",
-      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Profite (Remixes)",
         "url": "https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Cabrioli",
+        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
+      },
+      "artists": [
+        {
+          "name": "Moussa",
+          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
+        }
+      ],
+      "duration_ms": 152631,
+      "name": "Cabrioli",
+      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Burning Bright",
         "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 304654,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "MOOD",
-        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "MOVEMENTS",
-      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -811,6 +795,22 @@
       "duration_ms": 171622,
       "name": "nice 2 me",
       "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "MOVEMENTS",
+      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Way to Go (Club Soda Mix)",
-        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
-      },
-      "artists": [
-        {
-          "name": "Soda State",
-          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "Way to Go - Club Soda Mix",
-      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Remix Crusades",
         "url": "https://open.spotify.com/album/4GKIgPXABhsfzTRoi1f36b"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
+      },
+      "artists": [
+        {
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Si Te Portas Bonito",
         "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 301850,
       "name": "Si Te Portas Bonito",
       "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Akousmatikous",
-        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 152691,
-      "name": "Propaganda",
-      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -967,6 +947,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Akousmatikous",
+        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 152691,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Juniore",
         "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Chronologic",
-        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3Pjj0X0F6TVP6RaQTRX8rR"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Black Catbird",
         "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 165593,
       "name": "Black Catbird",
       "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3Pjj0X0F6TVP6RaQTRX8rR"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "You Knew",
-        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Mon Cheri",
         "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        }
-      ],
-      "duration_ms": 205948,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/6HZfuAb9iEuSTvx2GQ3hkE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 297857,
       "name": "Walk with the Dreamers",
       "url": "https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        }
+      ],
+      "duration_ms": 205948,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Kitsun\u00e9 Parisien 4",
-        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
-      },
-      "artists": [
-        {
-          "name": "MonteRosso",
-          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Huacachina",
-      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "El Sabor del Viejo Mar",
         "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Kitsun\u00e9 Parisien 4",
+        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
+      },
+      "artists": [
+        {
+          "name": "MonteRosso",
+          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Huacachina",
+      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1803,22 +1803,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lindstrom & Prins Thomas",
-        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
+        "name": "Voodoo? (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
       "artists": [
         {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         },
         {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
         }
       ],
-      "duration_ms": 229386,
-      "name": "Boney M Down",
-      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
+      "duration_ms": 386443,
+      "name": "Voodoo? - Lazywax Remix",
+      "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

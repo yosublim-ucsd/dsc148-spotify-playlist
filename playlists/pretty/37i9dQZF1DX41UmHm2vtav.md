@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,072 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,112 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Hoje Caminhei \- Remix](https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO) | [Cazt](https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg), [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [ØNEhead](https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT) | [Hoje Caminhei \(Remix\)](https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap) | 2:20 |
 | 70 | [O Amor é o Segredo \- Dre Guazelli Remix Radio Edit](https://open.spotify.com/track/3AUwUpkVKa1gQ74gxxV49z) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Dre Guazzelli](https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl) | [O Amor é o Segredo \(Dre Guazelli Remix Radio Edit\)](https://open.spotify.com/album/4Ed15mSBTFC3isoPAijpcR) | 2:48 |
 
-Snapshot ID: `MCw1M2NjZjAyYTM3N2ZmNTY2MTE0MWU5OTg0MTA1NzJkMDUxZDE0NWM2`
+Snapshot ID: `MCw5NjcxMWYxY2E1MDI5Mzc3NmZhNTk4Mzk3MzFhYTFlYmY0M2MwMTU3`

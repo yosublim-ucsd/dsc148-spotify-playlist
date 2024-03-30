@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,928 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,959 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 | 23 | [Let Me Down](https://open.spotify.com/track/5XEV3ZFUeXH1un9UhcVTAK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [All Eyes On U](https://open.spotify.com/album/4TmkappxQVraXApJvbXhLK) | 2:28 |
 | 24 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
 | 25 | [Can't Let You Go](https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Can't Let You Go](https://open.spotify.com/album/3x7XvqGzt8oR9Gm0x4r2wV) | 3:14 |
-| 26 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
+| 26 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
 | 27 | [Money Call](https://open.spotify.com/track/4GOHRjfZXRZDHkv6RRMNcq) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/2wIVGAaTdqqc7OsOkCUfih) | 3:54 |
 | 28 | [Is It Because I'm Black \(Extended\)](https://open.spotify.com/track/4u73Jz0oUWodHCW4HIqJo2) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [B\. Trenton](https://open.spotify.com/artist/61MrlHthfjJXkkdegGOrvh) | [Black On Purpose](https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E) | 4:44 |
 | 29 | [Overcome](https://open.spotify.com/track/6UhuL6GiU6A24AS7uZwogh) | [Liquid](https://open.spotify.com/artist/17PIlp8xsXQf0w2bCQbeqd) | [Liquid Sunshine Riddim](https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 | 49 | [Mood Forever](https://open.spotify.com/track/5O66ltnew3GTXTvMFaK3tv) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever EP](https://open.spotify.com/album/6sIctZXhBIDn7yG3kgwzD9) | 2:54 |
 | 50 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
 
-Snapshot ID: `MCxiY2Y4MWVmN2Y0ODhiOTFhY2JjMWVhMGViZmQyMDdiZmUwNWE0ZDg2`
+Snapshot ID: `MCxkMWIyYTY3ZGIxNDMyMjIzMmFlYzgxYjFlOWEzNThkZjIxMTc1MmE5`

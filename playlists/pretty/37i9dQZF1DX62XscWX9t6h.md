@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,347 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,444 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 40 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
 | 41 | [Carry Me Home](https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ) | 5:27 |
 | 42 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 |
-| 43 | [Rio Grande](https://open.spotify.com/track/174aZteQew30wcq8sPzlW6) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO) | 3:50 |
-| 44 | [The Link Is About to Die](https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO) | 3:48 |
+| 43 | [The Link Is About to Die](https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO) | 3:48 |
+| 44 | [Rio Grande](https://open.spotify.com/track/174aZteQew30wcq8sPzlW6) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO) | 3:50 |
 | 45 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 |
 | 46 | [Achinkad](https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk) | 4:16 |
 | 47 | [Break Away](https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:06 |
 | 48 | [Fire By The River](https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 3:34 |
 | 49 | [Automation](https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 3:29 |
-| 50 | [Cha Cha](https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Inspiration Information 3](https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP) | 4:35 |
-| 51 | [Unathi](https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:33 |
+| 50 | [Unathi](https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:33 |
+| 51 | [Cha Cha](https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Inspiration Information 3](https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP) | 4:35 |
 | 52 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 |
 | 53 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
 | 54 | [Under No Nation \- Radio Edit](https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Under No Nation \(Radio Edit\)](https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm) | 3:04 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 65 | [Zerzura Theme II](https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 4:23 |
 | 66 | [Newcastle](https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 5:43 |
 | 67 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
-| 68 | [As\-tu été à Tahiti?](https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Racines](https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx) | 1:13 |
-| 69 | [Hana Mash Hu Al Yaman](https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO) | [A\-WA](https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX) | [Bayti Fi Rasi](https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6) | 4:11 |
+| 68 | [Hana Mash Hu Al Yaman](https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO) | [A\-WA](https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX) | [Bayti Fi Rasi](https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6) | 4:11 |
+| 69 | [As\-tu été à Tahiti?](https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Racines](https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx) | 1:13 |
 | 70 | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T) | 2:38 |
 | 71 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 |
 | 72 | [Khobs](https://open.spotify.com/track/6xjIrx0kE96n5OQvj9oZmO) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4) | 3:31 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 94 | [Solstício](https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Núñez](https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30) | [Solstício](https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R) | 4:25 |
 | 95 | [Hustle](https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Black To The Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B) | 5:18 |
 | 96 | [Yüce Dag Basinda](https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k) | 4:18 |
-| 97 | [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Hagata](https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp) | 4:04 |
-| 98 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 |
-| 99 | [L'homme félin](https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY) | [Labelle](https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS) | [NOIR ANIMA](https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna) | 4:36 |
-| 100 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
+| 97 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 |
+| 98 | [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Hagata](https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp) | 4:04 |
+| 99 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
+| 100 | [L'homme félin](https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY) | [Labelle](https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS) | [NOIR ANIMA](https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna) | 4:36 |
 
-Snapshot ID: `MCwwNzM5OWNlMTk0MDk2NTA3MTczYjQ4YzQ1M2M1YmQzNzJjOTMzYTI3`
+Snapshot ID: `MCxmZGMwZDE0YmJmNmRjNjkyNjNiODdhMTQ5NTc1NjRkYzU4YWNiZDNl`

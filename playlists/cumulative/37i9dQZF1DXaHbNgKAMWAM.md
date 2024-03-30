@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-251 songs - 14 hr 58 min
+252 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 | 2022-05-11 |  |
 | [Be there](https://open.spotify.com/track/7k9sKYkyH1wLeOVC3C5zsa) | [Ikki](https://open.spotify.com/artist/1PbvNmIOnL1ZJgNvxUpomb) | [Be there](https://open.spotify.com/album/7AWQVSj3AYCK7kBdrf5ICJ) | 3:19 | 2022-07-04 | 2022-07-26 |
 | [Be With Me \(Duet\. 10cm\)](https://open.spotify.com/track/4mXANk6U0t0NbrMQCoRNEs) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Be With Me \(Duet\. 10cm\)](https://open.spotify.com/album/0ly98tyVLAitL5zpHF8SAF) | 3:36 | 2022-05-11 | 2022-07-21 |
-| [Be Your Love](https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN) | 3:12 | 2023-11-03 |  |
+| [Be Your Love](https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN) | 3:12 | 2023-11-03 | 2024-03-30 |
 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 | 2022-05-11 | 2024-03-09 |
 | [Beautiful \(Feat\. Gaho, Moti, Jung Jin Woo\)](https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [Moti](https://open.spotify.com/artist/2douezlnzbINNdpIBZoYWT), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:31 | 2022-05-11 |  |
 | [Beautiful \(feat\. Hankyul Kim, Yeonhee\)](https://open.spotify.com/track/04J6gmJm4Pa4R3inTJmxtL) | [EUNJI](https://open.spotify.com/artist/2IHZ8x0ukUpGjzHqxFzUHc), [Hankyul Kim](https://open.spotify.com/artist/6mOGOlzmhO2tjAZLxtmAwM), [Yeonhee 연희](https://open.spotify.com/artist/6xsQ8SQfovk9UWyeSKpM27) | [Beautiful](https://open.spotify.com/album/3yekjX5tOlz4dfFLw1UnHA) | 3:53 | 2022-06-20 | 2022-06-27 |
@@ -181,6 +181,7 @@
 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 | 2022-10-13 |  |
 | [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-20 | 2022-07-27 |
 | [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 | 2022-05-11 | 2022-07-29 |
+| [Stand by you](https://open.spotify.com/track/3D7PTQ1lXl2Ni7dophG4of) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Stand By You](https://open.spotify.com/album/1fd8EG7lwkqjs3bRMwyHrx) | 4:21 | 2024-03-08 |  |
 | [Stand by you](https://open.spotify.com/track/10U69KqbjO3IuQ375CoYZ8) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 4:21 | 2022-05-11 | 2022-07-28 |
 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-09 |  |
 | [Stay](https://open.spotify.com/track/4XWyhO9TJeXdmyhRdbGPfI) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/3OG247ZpvgEx93sC5Szv7d) | 2:41 | 2022-05-11 | 2022-07-25 |

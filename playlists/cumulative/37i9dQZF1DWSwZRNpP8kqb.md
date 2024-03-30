@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-156 songs - 9 hr 12 min
+157 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 | 2022-01-14 |  |
 | [La Jardinera](https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz) | [Silvia Iriondo](https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7), [Carlos Aguirre & Quinteto de Guitarras](https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5) | [Pasionarias](https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m) | 3:55 | 2022-01-14 |  |
 | [La Llorona \(Zamba\)](https://open.spotify.com/track/6Bf4pzA5VozuflkSxWAdmS) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Hasta El Cielo Mi Alma](https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4) | 3:21 | 2022-09-06 |  |
+| [La Luminosa](https://open.spotify.com/track/3Grrk14Wz7ALdaH6EBYoFT) | [Don Olimpio](https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9), [Agustín Lumerman](https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE), [Juan Pablo Di Leone](https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9) | [Mi Fortuna](https://open.spotify.com/album/6OMsoHIODcqEoZ6wPt74KE) | 3:37 | 2023-12-22 |  |
 | [La Luminosa](https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0) | [Don Olimpio](https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9), [Agustín Lumerman](https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE), [Juan Pablo Di Leone](https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9) | [Mi Fortuna](https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP) | 3:37 | 2022-01-14 | 2024-03-14 |
 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 | 2022-01-14 |  |
 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 | 2022-09-06 |  |
@@ -99,7 +100,7 @@
 | [La Olvidada](https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Olvidada](https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ) | 2:34 | 2023-07-14 |  |
 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [Las Tres Marias](https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:00 | 2022-01-14 |  |
-| [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 | 2022-01-14 |  |
+| [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 | 2022-01-14 | 2024-03-30 |
 | [Lavanderas de Rio Chico](https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [Lorena Canta al Cuchi](https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0) | 4:20 | 2022-09-06 |  |
 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 | 2022-02-25 |  |
 | [Lo Que Estalla](https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Lo Que Estalla](https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE) | 2:15 | 2022-01-14 | 2022-09-07 |

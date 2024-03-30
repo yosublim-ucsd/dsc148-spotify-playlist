@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 13152,
+  "2024-03-30": 13206,
   "date_first_scraped": "2022-06-26",
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA\">Christina Shusho</a> ",
   "name": "Swahili Praise",
@@ -1505,6 +1505,24 @@
       "duration_ms": 165537,
       "name": "Nikumbushe Yehova",
       "url": "https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO"
+    },
+    {
+      "album": {
+        "name": "Nimefichwa",
+        "url": "https://open.spotify.com/album/6y2am1XRqcxkvDi9RCogrr"
+      },
+      "artists": [
+        {
+          "name": "Enock Jonas",
+          "url": "https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212532,
+      "name": "Nimefichwa",
+      "url": "https://open.spotify.com/track/1itH2yw2j8YpoqyVodTC2s"
     },
     {
       "album": {

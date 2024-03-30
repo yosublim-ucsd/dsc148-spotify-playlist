@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Carol Biazin
 
-271 songs - 12 hr 38 min
+272 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [AGRIDOCE](https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE \(PARTE 1\)](https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn) | 3:46 | 2024-03-22 |  |
 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2edjshjBUtVkfILZP3ATDR) | 3:03 | 2024-03-06 |  |
 | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 | 2023-07-15 |
-| [Alinhamento Milenar](https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:21 | 2024-01-22 |  |
+| [Alinhamento Milenar](https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:21 | 2024-01-22 | 2024-03-30 |
 | [AMEIANOITE](https://open.spotify.com/track/3JeFqRhhI27DitFmQmdSzL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/5D5BwY5BCQSV296xzalpXk) | 2:45 | 2023-02-09 | 2023-02-16 |
 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2022-10-21 | 2023-02-10 |
 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 | 2023-02-13 |  |
@@ -195,6 +195,7 @@
 | [Ponto de Brasa](https://open.spotify.com/track/34dog9xj3M5dcUcpcMyCNf) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Ponto de Brasa](https://open.spotify.com/album/50JIAfAwNqPWVIzuYwgFPh) | 2:40 | 2023-04-14 | 2023-06-10 |
 | [Ponto de Brasa](https://open.spotify.com/track/6uMrqQArCIGXuvdp9J8ymE) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:40 | 2023-06-09 | 2023-07-22 |
 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 | 2022-01-14 | 2023-01-28 |
+| [Posturado e Calmo \(feat\. Anitta\)](https://open.spotify.com/track/5Goi3tmKtsXhqm875FBGbD) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 2:56 | 2024-03-29 |  |
 | [Potência](https://open.spotify.com/track/4hjUqN9S84dPLGdlUufp0c) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Potência](https://open.spotify.com/album/1CwQPBAAD3xos4HZemsZvf) | 2:59 | 2022-07-29 | 2022-11-12 |
 | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/track/3iNjNUUuuF5Mjk7tYWAI9N) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Suku Ward](https://open.spotify.com/artist/11mHQVYCOp3dbhqezMJDGq) | [Pra Te Machucar \(feat\. Suku Ward\)](https://open.spotify.com/album/6aK9Rcd0QztU0jRIoqJaN5) | 2:37 | 2022-01-14 | 2022-02-05 |
 | [Pra Você e pra Mim](https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY) | [Pra Você e pra Mim](https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X) | 2:25 | 2023-02-13 | 2023-02-18 |

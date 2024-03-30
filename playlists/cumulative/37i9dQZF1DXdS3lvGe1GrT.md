@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Pem
 
-1,144 songs - 2 day 20 hr 34 min
+1,145 songs - 2 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Found the Time](https://open.spotify.com/track/61RESMbaaexcSU0hIes4Q3) | [Laith](https://open.spotify.com/artist/7I69Hf2YCyrMgIszyfyhXH) | [Lightning](https://open.spotify.com/album/6KyB6lDdoq97OmiQkPmXH3) | 3:44 | 2023-06-14 | 2023-08-17 |
 | [Fractures](https://open.spotify.com/track/5us0uyxr3qappFS77afK3n) | [Tina da Rocha](https://open.spotify.com/artist/0IsejSkw5U3IJKbKCnbghh) | [Fractures](https://open.spotify.com/album/3JyoZQeTgOFmv2dcciBp3b) | 3:13 | 2022-08-03 | 2022-10-27 |
 | [Frandship Song](https://open.spotify.com/track/2o8eORg7cVQnJly8TWxqx3) | [Batty Jr.](https://open.spotify.com/artist/2VYqve4kXlLX4OCB2xypHY) | [Do A U E!](https://open.spotify.com/album/3zKB9tOgVPJvww8ASi86UP) | 1:55 | 2023-07-19 | 2023-09-21 |
+| [free](https://open.spotify.com/track/1qWsVMgZZQWTg2XkSja0OU) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 7:02 | 2024-03-29 |  |
 | [Friends](https://open.spotify.com/track/3hjmwXyfWcOVw6koezqigf) | [Mariah Odyssey](https://open.spotify.com/artist/1wU7DUkNXSRCM5jvO5mthV) | [Friends](https://open.spotify.com/album/4n1WUNNrO4IFiAve2AzXZl) | 2:57 | 2023-08-02 | 2023-10-05 |
 | [Friends on the Internet](https://open.spotify.com/track/7aYKCCeORfNzrMOzPgPSdi) | [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Big in the USA](https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY) | 2:56 | 2023-06-14 | 2023-08-10 |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-05-03 | 2024-01-11 |

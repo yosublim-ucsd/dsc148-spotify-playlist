@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Tori Kelly",
+  "description": "Pop music driving the current, every week.  Cover: Myles Smith",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -162,6 +162,24 @@
       "duration_ms": 172966,
       "name": "alone",
       "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
+    },
+    {
+      "album": {
+        "name": "American High",
+        "url": "https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "American High",
+      "url": "https://open.spotify.com/track/0dfBhD0Cp8PvrScwz7DqNa"
     },
     {
       "album": {
@@ -1084,6 +1102,24 @@
       "duration_ms": 193455,
       "name": "Deserve It",
       "url": "https://open.spotify.com/track/7CgPnaIjzpMpM5cbeJPKnI"
+    },
+    {
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143669,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft"
     },
     {
       "album": {
@@ -2100,6 +2136,28 @@
       "duration_ms": 182000,
       "name": "Guitar",
       "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
+    },
+    {
+      "album": {
+        "name": "HARDC0RE DR3AMZ",
+        "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155685,
+      "name": "H.O.T.",
+      "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
     },
     {
       "album": {
@@ -4823,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "Stealin' Love",
+        "url": "https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140768,
+      "name": "Stealin' Love",
+      "url": "https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq"
+    },
+    {
+      "album": {
         "name": "Stop This Feeling",
         "url": "https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF"
       },
@@ -4928,6 +5004,24 @@
       "duration_ms": 226960,
       "name": "Sweet Adetola",
       "url": "https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU"
+    },
+    {
+      "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
     },
     {
       "album": {

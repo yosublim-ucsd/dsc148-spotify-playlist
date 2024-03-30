@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,557 likes - 85 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,183 likes - 85 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 25 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
 | 26 | [ブルースター](https://open.spotify.com/track/63Inh89k5OmQRLaQlMdDgw) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [ブルースター](https://open.spotify.com/album/7dm61RWHQFUhP1Lyqv8Bul) | 3:54 |
 | 27 | [シャドウボクサー](https://open.spotify.com/track/6xUK2D8MbFsMCmwtWAQ4HN) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [シャドウボクサー](https://open.spotify.com/album/1TnGuOJjTwoqDqDcAAdc7c) | 4:13 |
-| 28 | [Magnet](https://open.spotify.com/track/3PPYJUWuuV3ezNaQsqWEYN) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Magnet](https://open.spotify.com/album/3Qby5b5433xma3rFRsCapw) | 3:18 |
+| 28 | [Magnet](https://open.spotify.com/track/7sH4gaA8hxCghtgNMeNLzK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Magnet](https://open.spotify.com/album/6NNP3pfDlJvZQSjBlAgYEW) | 3:18 |
 | 29 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 |
 | 30 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 |
 | 31 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [because](https://open.spotify.com/track/6A7ApLuakiDmKHtVn6Alpi) | [Tei](https://open.spotify.com/artist/0rDC7Y5wGmOdqS7JVaZpYI) | [because](https://open.spotify.com/album/3X5S24GPW8hFTfmR8QVyRG) | 4:32 |
 | 85 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 |
 
-Snapshot ID: `MCw1ZmViOTE3N2M1YmI1ZTVhZjZkNDRhYTE5ODA3YjVjOWZkNmQ5N2Q1`
+Snapshot ID: `MCw4Y2M1MWUzNjczMDY4NGY4YmVjMzk1NTdjZWQ4MTdjZDc3MDFiN2U4`

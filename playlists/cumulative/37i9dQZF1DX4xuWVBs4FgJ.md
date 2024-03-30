@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-395 songs - 23 hr 22 min
+396 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2023-04-28 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-07-28 | 2024-01-01 |
 | [It Must Have Been Love](https://open.spotify.com/track/78cPgtQsHjDfkZBGkKuugS) | [RÅNDA](https://open.spotify.com/artist/4id5VIPgURo2I3SYw1ApFa) | [It Must Have Been Love](https://open.spotify.com/album/03HdS1SaT04uHe7Rr185bp) | 3:12 | 2021-06-22 | 2022-05-18 |
+| [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 | 2024-03-29 |  |
 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 | 2023-05-26 |  |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2023-04-28 |  |
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-06-22 | 2022-07-29 |
@@ -251,7 +252,7 @@
 | [Most Times](https://open.spotify.com/track/3ySxFBVXkrrRJ9v1AWR9Yu) | [Shoos Off](https://open.spotify.com/artist/6hS6xIhVWdR6BBTMPYSAvQ) | [Most Times EP](https://open.spotify.com/album/3lEIshh1F5T3XR71jVGdqV) | 5:01 | 2022-05-17 | 2022-07-23 |
 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-08-04 | 2023-09-11 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-10-28 |  |
-| [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 | 2022-07-22 |  |
+| [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 | 2022-07-22 | 2024-03-30 |
 | [Nervous](https://open.spotify.com/track/6Y9x1HQGZU0SY7tgv9xtCt) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Nervous](https://open.spotify.com/album/5caUaq7Sdp4B1UkJiSFrLB) | 3:58 | 2022-05-27 | 2022-07-03 |
 | [Never Let Me Down Again](https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM) | [Jessica Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 3:29 | 2023-03-10 | 2023-04-29 |
 | [Nightswimming](https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:18 | 2022-07-22 | 2023-05-27 |

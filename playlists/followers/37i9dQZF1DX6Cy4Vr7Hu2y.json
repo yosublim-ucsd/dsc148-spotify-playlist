@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 958220,
+  "2024-03-30": 958224,
   "date_first_scraped": "2021-12-21",
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: (G)I-DLE) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "EQUAL K-Pop",
@@ -407,7 +407,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 158066,
       "name": "BAD",
       "url": "https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J"
@@ -6183,6 +6183,24 @@
       "duration_ms": 210374,
       "name": "U & ME - Between you and me (feat. Woozys, Seohyun)",
       "url": "https://open.spotify.com/track/7CP73ItjVwzcxsglLg4chS"
+    },
+    {
+      "album": {
+        "name": "Re:Scene",
+        "url": "https://open.spotify.com/album/1C78MdRvc88435lTnGxGUF"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "UhUh",
+      "url": "https://open.spotify.com/track/7DLH6I3RzLhMEiaOfahwbm"
     },
     {
       "album": {

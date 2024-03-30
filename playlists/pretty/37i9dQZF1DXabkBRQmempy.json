@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 307275,
+  "num_followers": 307551,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjVjOGEyZTQ2N2MwNTU3NTlhM2ZmYWU0NmZjNjY3ZTA3OGQ3MDlk",
+  "snapshot_id": "MCw4NGU0YWNmY2E2OWU3YmQ0NmNkYjU1YTMwNzY4OGM1YThkZmZjNzYy",
   "tracks": [
     {
       "added_at": "2024-03-12 17:57:23",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-12 17:57:23",
       "album": {
-        "name": "Corazones",
-        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 336933,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv"
-    },
-    {
-      "added_at": "2024-03-12 17:57:23",
-      "album": {
         "name": "Circo Beat",
         "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 222346,
       "name": "Mariposa tecknicolor",
       "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+    },
+    {
+      "added_at": "2024-03-12 17:57:23",
+      "album": {
+        "name": "Corazones",
+        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 336933,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv"
     },
     {
       "added_at": "2024-03-12 17:57:23",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-12 17:57:23",
       "album": {
-        "name": "El Mar No Cesa- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "H\u00e9roe de leyenda",
-      "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
-    },
-    {
-      "added_at": "2024-03-12 17:57:23",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 268600,
       "name": "Mi Primer Dia Sin Ti",
       "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
+    },
+    {
+      "added_at": "2024-03-12 17:57:23",
+      "album": {
+        "name": "El Mar No Cesa- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "H\u00e9roe de leyenda",
+      "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
     },
     {
       "added_at": "2024-03-12 17:57:23",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-03-12 17:57:23",
       "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Entre Can\u00edbales - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9"
+    },
+    {
+      "added_at": "2024-03-12 17:57:23",
+      "album": {
         "name": "Rey Az\u00facar",
         "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
-    },
-    {
-      "added_at": "2024-03-12 17:57:23",
-      "album": {
-        "name": "Canci\u00f3n Animal (Remastered)",
-        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Entre Can\u00edbales - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9"
     },
     {
       "added_at": "2024-03-12 17:57:23",

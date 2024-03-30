@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-315 songs - 16 hr 5 min
+316 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Create Yourself](https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3) | [Oskah](https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk) | [Create Yourself](https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk) | 2:54 | 2023-08-11 |  |
 | [Crystal Clear](https://open.spotify.com/track/5x6klKhKveWNJvg4n9iWPZ) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Anthony Meyer](https://open.spotify.com/artist/1vy2gxHoaHJhUQgQaJjHKh) | [Crystal Clear](https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj) | 3:44 | 2022-07-29 | 2022-09-10 |
 | [Curura](https://open.spotify.com/track/2qrEyfQgY9KsKx7haqzo5S) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Curura](https://open.spotify.com/album/5ownYiFYYBZXWGQJ4txRKf) | 2:22 | 2023-08-21 | 2023-10-14 |
+| [Dance All Night](https://open.spotify.com/track/6xfQjv4RvP5DVaxYYZCRTV) | [Jeckyll & Hyde](https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1) | [Dance All Night](https://open.spotify.com/album/1NZMme5AXFMvl8lxsbwPk6) | 2:46 | 2024-03-29 |  |
 | [Dance Monkey](https://open.spotify.com/track/2jSgV3fYu5HdgrIDkFp8xU) | [Machine Made](https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB) | [Dance Monkey](https://open.spotify.com/album/56cP0Lsv4FEo86w095msUN) | 2:58 | 2023-07-05 | 2023-09-23 |
 | [Dancing](https://open.spotify.com/track/44x1qfLCPkSgEvzzqXSrnr) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Vicman Romero & Mike Sildavia](https://open.spotify.com/artist/1wAZ4sU7fRc00JC3zs6XXg), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Dancing](https://open.spotify.com/album/1lu4GB49fN2Mn29qgcqwbx) | 2:54 | 2022-08-23 | 2023-11-11 |
 | [Dancing With Tears In My Eyes](https://open.spotify.com/track/4rNuVWdkLkT6x175WXMteB) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Dancing With Tears In My Eyes](https://open.spotify.com/album/68zbIj55wIO2jErFc060Wr) | 3:08 | 2022-07-29 | 2023-09-09 |

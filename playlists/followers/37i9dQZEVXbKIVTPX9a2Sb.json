@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 21077,
+  "2024-03-30": 21075,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Slovakia.",
   "name": "Top 50 - Slovakia",
@@ -10619,7 +10619,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5VEXEXffwn8Tc4o45GDznd"
@@ -11179,7 +11179,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 142083,
       "name": "Hejtklub 11",
       "url": "https://open.spotify.com/track/1Ts222mGd174xN3ClQRzSw"
@@ -12559,7 +12559,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -19027,7 +19027,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 156803,
       "name": "M\u00f4j typ \u017eeny",
       "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
@@ -29629,7 +29629,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -30289,6 +30289,24 @@
       "duration_ms": 206211,
       "name": "TU\u0160",
       "url": "https://open.spotify.com/track/27O2Nh0HqiPAzs0VmtBCWQ"
+    },
+    {
+      "album": {
+        "name": "Tvoje ru\u017ee",
+        "url": "https://open.spotify.com/album/6HVBYrSbqoxqqdKa6mJ3HD"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167154,
+      "name": "Tvoje ru\u017ee",
+      "url": "https://open.spotify.com/track/5H11d1uZ08z5gEb7xMPnUq"
     },
     {
       "album": {

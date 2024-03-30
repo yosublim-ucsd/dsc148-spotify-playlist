@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,212 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,239 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 46 | [Pablo Echenique](https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Mucho Asco \(Casi\) Todo](https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af) | 1:34 |
 | 47 | [Don Vito y la Revuelta en el Frenopático](https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 1:52 |
 | 48 | [Dispárame](https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc), [BOXINBOX](https://open.spotify.com/artist/6kn7LhH5siatL0X1kefy0r) | [Dispárame](https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD) | 2:32 |
-| 49 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 |
-| 50 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 |
+| 49 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 |
+| 50 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 |
 | 51 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
 | 52 | [Otra Vez en Tus Manos](https://open.spotify.com/track/2cLQLHwrwwE1eljpXdDyRQ) | [Gérmenes](https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me) | [Mar Etílico](https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB) | 2:33 |
 | 53 | [Sols El Poble Salva Al Poble](https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK) | [KOP](https://open.spotify.com/artist/1vqWasHYiv7zecRAqZvvoO), [Berri Txarrak](https://open.spotify.com/artist/4us4jlCknYAd9OSkLSu82e) | [Nostrat](https://open.spotify.com/album/0F9wDYDPBi8rlGrSiG0xK7) | 3:12 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 61 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 |
 | 62 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
 | 63 | [Somos Revolución](https://open.spotify.com/track/0B9vyHN45CnhRShpNOx5Bq) | [AlaDeMoska](https://open.spotify.com/artist/1ekttoTgjC4AhaG3r4eaMT) | [Revolución](https://open.spotify.com/album/4puu04REkxY8b9E3OXfNyo) | 4:07 |
-| 64 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 |
-| 65 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
+| 64 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
+| 65 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 |
 | 66 | [La Bandera de la Libertad](https://open.spotify.com/track/2CIt4yfEZhOdPszvm2DjpW) | [Banda Jachís](https://open.spotify.com/artist/4SmWLsvGKAetIfP8PgKrPc) | [Intereses Creados](https://open.spotify.com/album/3BLJYjL2IK4xCrvdHS1rsY) | 2:22 |
 | 67 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
 | 68 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 90 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 |
 
-Snapshot ID: `MCwyNDMxM2Q4Mjg4M2Y4ZDE2YWVlNmFiZmQzMzg5MDY4NTMxYzBlNjk4`
+Snapshot ID: `MCw3MGU4Yjg2NDM5MjYzNjdhMjVjNmU1MjNiNGQyNWI1MTY4MzYyMDVm`

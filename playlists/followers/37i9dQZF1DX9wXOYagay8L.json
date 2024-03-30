@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 137913,
+  "2024-03-30": 137999,
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=T-z6iThfTF2C-0r8mzFEcw\">Zo\u00eb Modiga</a>",
+  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=7gMdc4znRe-FsvrV9ncWSg\">The Joy</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -11521,6 +11521,24 @@
       "duration_ms": 92727,
       "name": "Yitshoni",
       "url": "https://open.spotify.com/track/7C1c8Epr55mrNcj4y89y8i"
+    },
+    {
+      "album": {
+        "name": "You Complete Me",
+        "url": "https://open.spotify.com/album/59uox6bthXBgB0sXHMuDSw"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146826,
+      "name": "You Complete Me",
+      "url": "https://open.spotify.com/track/18nTfySfK4zRZU9ZPk6BAi"
     },
     {
       "album": {

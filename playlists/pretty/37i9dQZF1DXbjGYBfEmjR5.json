@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 315664,
+  "num_followers": 315763,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzNkNDU5NjkwYzU1ZmNlNDFhOTFiYjQ4MzY3NTlmYTc0Nzc1NjNi",
+  "snapshot_id": "MCxhMjE0ODA5MDY4NDUyYThhZGQ3NzRkZTYxYmNjMjM5OWIxMDRlNDkx",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "HANDZ",
+        "url": "https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu"
+      },
+      "artists": [
+        {
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+        }
+      ],
+      "duration_ms": 280975,
+      "name": "NOTFAIR",
+      "url": "https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Sendagi Collection",
         "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 223255,
       "name": "Selfish Earrings",
       "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "HANDZ",
-        "url": "https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu"
-      },
-      "artists": [
-        {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
-        }
-      ],
-      "duration_ms": 280975,
-      "name": "NOTFAIR",
-      "url": "https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -875,26 +875,6 @@
       "duration_ms": 210586,
       "name": "Bounce Is Back",
       "url": "https://open.spotify.com/track/3Vw8ibvQbEfmUCwXpPeC6X"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "I Found You (feat. Benjamin Ingrosso)",
-        "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "I Found You (feat. Benjamin Ingrosso)",
-      "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -967,6 +947,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "I Found You (feat. Benjamin Ingrosso)",
+        "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "I Found You (feat. Benjamin Ingrosso)",
+      "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Now That I Have You",
         "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 153103,
       "name": "Sweet Baby!",
       "url": "https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Welcome To The Alley",
-        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
-      },
-      "artists": [
-        {
-          "name": "Tsundere Alley",
-          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
-        }
-      ],
-      "duration_ms": 161959,
-      "name": "Like My Love",
-      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Metro City",
-        "url": "https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv"
+        "name": "Welcome To The Alley",
+        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
       },
       "artists": [
         {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+          "name": "Tsundere Alley",
+          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9"
+      "duration_ms": 161959,
+      "name": "Like My Love",
+      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Metro City",
+        "url": "https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Disco's Revenge",
         "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 80098,
       "name": "Disco's Revenge",
       "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "I Chose Wrong",
+        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "I Chose Wrong",
+      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Chose Wrong",
-        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "I Chose Wrong",
-      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Sessions: Star Guardian Taliyah",
         "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 138666,
       "name": "keep down flyday",
       "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
-      },
-      "artists": [
-        {
-          "name": "NNTYTUU",
-          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
-        }
-      ],
-      "duration_ms": 132485,
-      "name": "Funk Dust",
-      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1311,6 +1295,22 @@
       "duration_ms": 164000,
       "name": "Sailor Saturn",
       "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "NNTYTUU",
+          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
+        }
+      ],
+      "duration_ms": 132485,
+      "name": "Funk Dust",
+      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Summer 99",
+        "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
+      },
+      "artists": [
+        {
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        }
+      ],
+      "duration_ms": 151265,
+      "name": "Shall We Dance?",
+      "url": "https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Now That I Have You",
         "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Summer 99",
-        "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
-      },
-      "artists": [
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 151265,
-      "name": "Shall We Dance?",
-      "url": "https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "SAILORSATURDAYS",
         "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 164647,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Tropical Feeling",
-        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 292939,
-      "name": "Tropical Feeling",
-      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Pok\u00e9wave III",
         "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
       },
@@ -1599,6 +1583,38 @@
       "duration_ms": 208840,
       "name": "Rainbow Badge",
       "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Tropical Feeling",
+        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 292939,
+      "name": "Tropical Feeling",
+      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1619,22 +1635,6 @@
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
-      },
-      "artists": [
-        {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
-        }
-      ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "The Sweetest Dream",
+        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
+      },
+      "artists": [
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        }
+      ],
+      "duration_ms": 220055,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 210731,
       "name": "Dance Tonite",
       "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "The Sweetest Dream",
-        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
-      },
-      "artists": [
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        }
-      ],
-      "duration_ms": 220055,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
     },
     {
       "added_at": "2023-07-18 02:21:29",

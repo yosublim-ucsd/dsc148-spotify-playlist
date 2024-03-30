@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-177 songs - 11 hr 5 min
+178 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [Deferred Gratification](https://open.spotify.com/track/0z0KuKYsE0rYmdS7gedm4O) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Binary](https://open.spotify.com/album/40K1wGwuWJcj6KAFjRcoUT) | 3:05 | 2022-06-10 |  |
 | [Deferred Gratification](https://open.spotify.com/track/1eTCDqoxv4hMLPrMEnTlrl) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Binary](https://open.spotify.com/album/21EZKiGPUG8xYt79LMbtmv) | 3:05 | 2021-06-01 | 2022-07-29 |
 | [Deferred Gratification](https://open.spotify.com/track/7b4LkbAhZGeKtcELdS0QdL) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Binary](https://open.spotify.com/album/1Tqd51JYWBX9hQ1uTQYlu9) | 3:05 | 2022-06-10 | 2022-11-03 |
-| [Departures](https://open.spotify.com/track/3pkyGQVfdP0xI1evK7Efq6) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/3m2LYhF9CGykcn6akFTPJH) | 5:39 | 2022-06-10 |  |
+| [Departures](https://open.spotify.com/track/3pkyGQVfdP0xI1evK7Efq6) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/3m2LYhF9CGykcn6akFTPJH) | 5:39 | 2022-06-10 | 2024-03-30 |
 | [Departures](https://open.spotify.com/track/3waMUJe2almPXjftYmzOFX) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/0NAkb64BiT1AGPy6pcS4n1) | 5:39 | 2021-06-01 | 2022-07-29 |
+| [Departures](https://open.spotify.com/track/4Wt8u15d8Zz9Rgl3wtUigi) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer as Folk](https://open.spotify.com/album/7IhytbgAgFQmSgtaPTHyhH) | 5:39 | 2024-03-08 |  |
 | [Don't Die in Me](https://open.spotify.com/track/0XQbRdBTT3fQfBr9we2b5N) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/78f7dEVdMqJq0KTNiwqS8k) | 3:48 | 2022-06-10 | 2023-04-30 |
 | [Don't Die In Me](https://open.spotify.com/track/3Y674nWz029sfAgKfDSlas) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/0Fc0lUEKhhNCXL2l79u0Kn) | 3:48 | 2021-06-01 | 2022-07-29 |
 | [Don't Die in Me](https://open.spotify.com/track/57YeVOuSrJE4ripwSJRXXa) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/1XbwRI38fsb8VcZrQvWItf) | 3:48 | 2023-04-04 |  |

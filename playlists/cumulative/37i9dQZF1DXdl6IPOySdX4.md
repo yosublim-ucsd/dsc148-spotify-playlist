@@ -4,7 +4,7 @@
 
 > you up?
 
-449 songs - 1 day 1 hr 14 min
+450 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2022-11-09 | 2022-11-14 |
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 | 2022-02-08 | 2023-01-01 |
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0XO2hckt5aHvvwH7FFdVYF) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 4:11 | 2023-01-20 | 2023-03-27 |
-| [Drama \(feat\. Drake\)](https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drama \(feat\. Drake\) \[Sped Up\]](https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv) | 4:11 | 2024-01-26 |  |
+| [Drama \(feat\. Drake\)](https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drama \(feat\. Drake\) \[Sped Up\]](https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv) | 4:11 | 2024-01-26 | 2024-03-30 |
 | [Drew Barrymore](https://open.spotify.com/track/0JvUjekRwmDcQq4S0Sxocf) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/2ellIuTAeZqsBDVqGpNe9R) | 3:11 | 2022-03-25 | 2022-04-21 |
 | [Drive](https://open.spotify.com/track/09pBww2I1sjGcHac0KvC2M) | [Dxvn.](https://open.spotify.com/artist/3UzhllIYKcLay5xslYF85U) | [Drive](https://open.spotify.com/album/5Rswkdm3qCP7C1X0iRpP9d) | 4:30 | 2022-07-15 | 2022-09-29 |
 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/3Bi3ws3uigvFSmfTcSLjnp) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/album/4OjG23scCW1EvILkMk0syB) | 3:18 | 2022-02-04 | 2022-07-17 |
@@ -139,6 +139,7 @@
 | [Fantasy](https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:28 | 2022-02-04 | 2023-07-04 |
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-03 | 2023-08-05 |
 | [FATE'S INTERLUDE](https://open.spotify.com/track/4GAhhBILnUQEJwHWpUbEQJ) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [INFLUX](https://open.spotify.com/album/7gyXPwZd6f7Hn22gxtwdeD) | 3:09 | 2023-03-03 | 2023-03-31 |
+| [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-03-29 |  |
 | [Favorite Part](https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:26 | 2022-05-06 | 2022-07-27 |
 | [February 3rd](https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:02 | 2022-03-25 | 2022-04-20 |
 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-10-25 |

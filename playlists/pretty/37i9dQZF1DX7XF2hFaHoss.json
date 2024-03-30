@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Aoife O\u2019Donovan",
-  "num_followers": 151745,
+  "num_followers": 151760,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTZiMWU4MTNjYzUyZGQ3YWMyYzg3YmFkOWJmZDg2YzE5NzM4MTgx",
+  "snapshot_id": "MCxjMDQzZDdkMGExYTcxYzUyNzJkNDlhNzU2N2RiODA0N2Q3Y2I3YzEy",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "On Your Own Love Again",
-        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 93253,
-      "name": "On Your Own Love Again",
-      "url": "https://open.spotify.com/track/1UOEwcIsv696Gaq8ZA6NUu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 208382,
       "name": "Hannah Sun",
       "url": "https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "On Your Own Love Again",
+        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 93253,
+      "name": "On Your Own Love Again",
+      "url": "https://open.spotify.com/track/1UOEwcIsv696Gaq8ZA6NUu"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -863,18 +863,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+      "duration_ms": 232827,
+      "name": "Crooked Tree",
+      "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -895,22 +899,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 232827,
-      "name": "Crooked Tree",
-      "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Crying in Cars",
-        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
-      },
-      "artists": [
-        {
-          "name": "Emily Rowed",
-          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
-        }
-      ],
-      "duration_ms": 222024,
-      "name": "Let Me Hurt (Acoustic)",
-      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Crying in Cars",
+        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
+      },
+      "artists": [
+        {
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+        }
+      ],
+      "duration_ms": 222024,
+      "name": "Let Me Hurt (Acoustic)",
+      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "the sum of the in-between",
-        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "eight hours",
-      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Old Country",
         "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 228500,
       "name": "Portland",
       "url": "https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "the sum of the in-between",
+        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "eight hours",
+      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Memories Are Now",
-        "url": "https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo"
+        "name": "Such Love Does",
+        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
       },
       "artists": [
         {
-          "name": "Jesca Hoop",
-          "url": "https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u"
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
         }
       ],
-      "duration_ms": 213503,
-      "name": "Pegasi",
-      "url": "https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g"
+      "duration_ms": 200333,
+      "name": "Such Love Does",
+      "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
     }
   ],
   "unique_name": "Women of Acoustic",

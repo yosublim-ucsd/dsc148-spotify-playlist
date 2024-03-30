@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,724 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,830 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 43 | [Can't Take That Away \(Mariah's Theme\)](https://open.spotify.com/track/2Epqce6wM48J6Wnlmhn42c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:32 |
 | 44 | [My Love](https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:24 |
 | 45 | [Someday](https://open.spotify.com/track/6TSM5vkz0WzyZsNAKKYDcw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:06 |
-| 46 | [Can't Let Go](https://open.spotify.com/track/0ikbcCJIJaY9sKEivAXJ4I) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:26 |
-| 47 | [Forever](https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:00 |
+| 46 | [Forever](https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:00 |
+| 47 | [Can't Let Go](https://open.spotify.com/track/0ikbcCJIJaY9sKEivAXJ4I) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:26 |
 | 48 | [Breakdown \(feat\. Bone Thugs\-n\-Harmony\) \- The Mo' Thugs Remix](https://open.spotify.com/track/5XK0dMccjLSG1oVrEzN6Fz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Breakdown EP](https://open.spotify.com/album/6PfEOXBX3iiNNsDbhGTBlT) | 4:56 |
 | 49 | [I Don't Wanna Cry](https://open.spotify.com/track/1hFtJ5rV3aAm58ErijHdFO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:48 |
-| 50 | [Make It Happen](https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:07 |
+| 50 | [The Prince Of Egypt \(When You Believe\)](https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 5:01 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDAyMGE4OWQ5OWVmYTc0N2UyYTkwNjJmMWFkYTM5NzY5Mw==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDBhMjEwYWE5MjY1YmZkMDY4NmFmNWZjNjVhNWM4NmMzMw==`

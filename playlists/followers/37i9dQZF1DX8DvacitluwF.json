@@ -1,9 +1,31 @@
 {
-  "2024-03-29": 10616,
+  "2024-03-30": 10633,
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB?si=5bh4QtisQReUTmiq4LW7cw\">Shekhinah</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf?si=-K7t4-FuSmK22E74drnYrQ>Mikhal\u00e9 Jones</a>",
   "name": "R&Beats",
   "tracks": [
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/59mclmdFtn44CNaWzsDEON"
+      },
+      "artists": [
+        {
+          "name": "Mikhal\u00e9 Jones",
+          "url": "https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf"
+        },
+        {
+          "name": "Hersh",
+          "url": "https://open.spotify.com/artist/5dAvLMQBZsRlXgFvzOI3C2"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/5y93qwHuziDlh2cD9Cnk5S"
+    },
     {
       "album": {
         "name": "4am",
@@ -269,6 +291,24 @@
       "duration_ms": 200250,
       "name": "beb\u00e9",
       "url": "https://open.spotify.com/track/1VzRSPZngDzfXHZNFtKYsW"
+    },
+    {
+      "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/1tbzDVXgaVVE4PsM9uEOEy"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150522,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/1Jy2MJzzfP6FHF9TeeMHtd"
     },
     {
       "album": {
@@ -1973,7 +2013,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 225974,
       "name": "Lets Get Away",
       "url": "https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL"
@@ -2925,7 +2965,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 245210,
       "name": "Roboto",
       "url": "https://open.spotify.com/track/6kGuzD6SGSCjMzpgNHX6Eu"

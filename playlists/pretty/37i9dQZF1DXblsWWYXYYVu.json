@@ -1,13 +1,29 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 79452,
+  "num_followers": 79461,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDBiZmE2OTY5NmM4MGYwZGMzNzUyM2ZiYzA4ZjFkYzkwN2I1ZjYz",
+  "snapshot_id": "MCwxZTFjZjc4NzU1MTliNTE0YzY5ZGU5NjAzNjAwOWM0NzhjMDIxMjUy",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Be Free (Pachamama)",
+        "url": "https://open.spotify.com/album/22AxdDMZ2HmUCamX3TTKFE"
+      },
+      "artists": [
+        {
+          "name": "RIVVRS",
+          "url": "https://open.spotify.com/artist/5T3N5ks9c3L7D4aXw54DVs"
+        }
+      ],
+      "duration_ms": 163514,
+      "name": "Be Free (Pachamama)",
+      "url": "https://open.spotify.com/track/1Hzt9NmZQ1eHYCUWrnC88F"
+    },
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
@@ -1563,22 +1579,6 @@
       "duration_ms": 192080,
       "name": "Jealous of Birds",
       "url": "https://open.spotify.com/track/5A6k7MKg3gUMwT1Z9TCRKb"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Love Shouldn't Be so Hard",
-        "url": "https://open.spotify.com/album/5LT7V0tguPUv9AWIjXZ8E1"
-      },
-      "artists": [
-        {
-          "name": "Holly Auna",
-          "url": "https://open.spotify.com/artist/2aefoxhYo07rsDSSWgPUO1"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/09JkoxugEb7f647ZOYJWKr"
     },
     {
       "added_at": "2021-04-19 17:11:28",

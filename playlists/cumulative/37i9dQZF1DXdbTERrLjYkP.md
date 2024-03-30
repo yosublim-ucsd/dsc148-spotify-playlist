@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sabrina Sterling
 
-645 songs - 1 day 10 hr 13 min
+647 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Again and Again](https://open.spotify.com/track/2ZvlfOqzdSDPpXFJL6ETNj) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Again and Again](https://open.spotify.com/album/3wxJOOmjsc7CMeCHnjo20b) | 3:27 | 2023-08-11 | 2023-12-14 |
 | [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 | 2023-06-12 | 2023-12-14 |
 | [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 | 2023-06-12 | 2023-06-18 |
-| [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-11-10 |  |
+| [Aisle 6](https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Aisle 6](https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve) | 3:05 | 2024-03-29 |  |
+| [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-11-10 | 2024-03-30 |
 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 | 2023-09-22 | 2023-12-14 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-11 | 2022-04-29 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 | 2022-06-25 |
@@ -224,7 +225,7 @@
 | [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2022-01-14 | 2022-07-09 |
 | [gone for good](https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [gone for good](https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509) | 2:53 | 2024-01-05 | 2024-02-24 |
 | [Good For Me](https://open.spotify.com/track/0Yf0jgTPenhgWIYgbOh4EL) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Good For Me](https://open.spotify.com/album/3x7E0B0uw3dDz3XOKYdtoX) | 3:30 | 2022-11-11 | 2023-01-28 |
-| [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 | 2023-12-01 |  |
+| [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 | 2023-12-01 | 2024-03-30 |
 | [Google Translate / poppies](https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 4:23 | 2022-02-25 | 2022-10-08 |
 | [gray](https://open.spotify.com/track/0zGBgmHIxDT7nxt7w4hxOE) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [gray](https://open.spotify.com/album/5wfZA3LL0GrFgjmfqjDWPE) | 2:54 | 2022-12-16 | 2023-02-11 |
 | [Greek Street](https://open.spotify.com/track/3FOMG322NEExR04jEubVTW) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Greek Street](https://open.spotify.com/album/4LBia6KZZJg2K4qlJyYC22) | 2:42 | 2023-02-24 | 2023-08-19 |
@@ -347,6 +348,7 @@
 | [Let Her Remember](https://open.spotify.com/track/7LbREuDqWJlMqgkBYSz3Co) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Let Her Remember](https://open.spotify.com/album/0uh5hvOaSsrGsTu6kDBJbv) | 3:32 | 2022-03-18 | 2022-07-29 |
 | [Let Me](https://open.spotify.com/track/3j8h9Eu2R3JSbJdMQSGbZM) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Let Me](https://open.spotify.com/album/4I9CdA8S8MgpXAtMJ35zdb) | 3:23 | 2022-01-14 | 2022-03-12 |
 | [Let Me Be The One](https://open.spotify.com/track/3x8V3QRBYi2CDZYDEoH74G) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Let Me Be The One](https://open.spotify.com/album/7biN9Lam2gbmUND7Tn9qPj) | 3:37 | 2022-10-28 | 2022-12-03 |
+| [Let's Talk](https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO) | 3:53 | 2024-03-29 |  |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2022-01-14 | 2022-03-12 |
 | [letters from god](https://open.spotify.com/track/0kRxV8iHIHqqf1LEpfb2F5) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [imago](https://open.spotify.com/album/6RbKEgraiwLLeSrEdCSje6) | 4:19 | 2022-11-11 | 2022-12-24 |
 | [Liability](https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Liability](https://open.spotify.com/album/3zFIcNN4VJ4W4UzWiaqxpV) | 4:31 | 2023-01-27 | 2023-05-27 |

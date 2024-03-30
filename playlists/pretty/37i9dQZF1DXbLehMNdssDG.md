@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,430 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,493 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 31 | [528 Hz Ethereal Wavelengths](https://open.spotify.com/track/0IYdJWqE3sZ0joQRolqwJb) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [528 Hz Ethereal Wavelengths](https://open.spotify.com/album/41RMfX1OGZLfG820A7Wvz6) | 3:00 |
 | 32 | [Distant 528 Hz](https://open.spotify.com/track/6ECIrwN9QtDtIoU30fq0GN) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Distant 528 Hz](https://open.spotify.com/album/1tvvuIdNDoUwZvAUedbzmw) | 3:03 |
 | 33 | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/track/5oACdFokhUeyN4N7ogNqPy) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/album/1H0w7aY1HddegPYkkcb09E) | 2:35 |
-| 34 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 |
-| 35 | [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 |
+| 34 | [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 |
+| 35 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 |
 | 36 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 |
 | 37 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 |
 | 38 | [432 Hz Delta](https://open.spotify.com/track/1N4hq8aaeNpp6f6Q2MPwb4) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Binaural Waves](https://open.spotify.com/album/7ocLgwnXM4M2ugl89K9Rxj) | 2:40 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 41 | [432 Hz Foreverness](https://open.spotify.com/track/5r9GeLzmAvxVi8kUrYeIWN) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [432 Hz New Horizon](https://open.spotify.com/album/5rx3l1qJDAajbBzNv2A833) | 3:19 |
 | 42 | [Morning ‘I am’ Affirmations](https://open.spotify.com/track/5djRWx3GupMvfbbBRJORjn) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [Morning Affirmations](https://open.spotify.com/album/3ov2t8Tjj4KuQLiAsG1fl7) | 2:32 |
 | 43 | [Breathing](https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Breathing](https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW) | 2:30 |
-| 44 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 |
-| 45 | [Dream Spheres](https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Dream Spheres](https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD) | 4:25 |
-| 46 | [432 Hz Solfeggio Reset](https://open.spotify.com/track/3hzTLp11Cdl5y4BNnlO1bk) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [432 Hz Solfeggio Reset](https://open.spotify.com/album/6CB1dAXdottNbT9IORe9JI) | 2:36 |
+| 44 | [432 Hz Solfeggio Reset](https://open.spotify.com/track/3hzTLp11Cdl5y4BNnlO1bk) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [432 Hz Solfeggio Reset](https://open.spotify.com/album/6CB1dAXdottNbT9IORe9JI) | 2:36 |
+| 45 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 |
+| 46 | [Dream Spheres](https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Dream Spheres](https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD) | 4:25 |
 | 47 | [Vibrant Energy \- 174 Hz](https://open.spotify.com/track/7zYi5z2q3YlvGgGY4ldY4w) | [Tristão T](https://open.spotify.com/artist/6eLJZ8lP3vwQmeq4lgJbNZ) | [Vibrant Energy](https://open.spotify.com/album/0upFaesBpyaa1WSmeVRxLU) | 1:55 |
 | 48 | [Emotional Resilience \- 174 Hz](https://open.spotify.com/track/3ofc1ailmJ8I8eD6M4ayrn) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Emotional Resilience \- 174 Hz](https://open.spotify.com/album/423zRtEyaDMv90lQDd6hF2) | 2:53 |
 | 49 | [Blue Skies \(174 Hz\)](https://open.spotify.com/track/2gXD7eSRbKOQgwggkcSsuB) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Blue Skies \(174 Hz\)](https://open.spotify.com/album/4EVCcEzQekL26my2vfBuis) | 3:03 |
 | 50 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
 
-Snapshot ID: `MCw3MzIxYjdmYmIyNjUwOWYwOTYwODU3ZjNmOTEyZTE1ZWRkZWVkNWNk`
+Snapshot ID: `MCw0OTUxODM4MzI3MTQ2Njg5MjM0N2I3ODdjMzQ4NjkyZmVmMzFkZmQz`

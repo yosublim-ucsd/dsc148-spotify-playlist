@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 131980,
+  "num_followers": 132059,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODM3YWQ2NWViMGMwNWVhOWEwNTk5ZmIxZWJkZWMyOTM3YTI2OWE0",
+  "snapshot_id": "MCxhYTQ1MjI3MDJhNzdiZjBkODcyNmZjODRhZDU0NzAxNGY4MzRiNDJl",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -115,18 +115,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
       "artists": [
         {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
         }
       ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -319,18 +319,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Las Retro Chingonas",
-        "url": "https://open.spotify.com/album/0fMAtWzhCFU9f50MQPaAqB"
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 106413,
-      "name": "El 24 - Corrido",
-      "url": "https://open.spotify.com/track/0drX7yWD6MSa2G82wqmVJk"
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -367,22 +371,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+        "name": "Las Retro Chingonas",
+        "url": "https://open.spotify.com/album/0fMAtWzhCFU9f50MQPaAqB"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
         }
       ],
-      "duration_ms": 180047,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+      "duration_ms": 106413,
+      "name": "El 24 - Corrido",
+      "url": "https://open.spotify.com/track/0drX7yWD6MSa2G82wqmVJk"
     },
     {
       "added_at": "2023-06-16 06:00:00",

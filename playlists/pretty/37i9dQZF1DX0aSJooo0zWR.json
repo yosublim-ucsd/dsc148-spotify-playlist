@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 197708,
+  "num_followers": 197775,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjcwYzJlOGFiZWI1M2VkZDY4NmUyNTM2Y2MwMzk2MmRhMzcyYzcy",
+  "snapshot_id": "MCxkMDRiM2ZiNWUzYzZlZWNmY2Y4MTI3YmJiN2IzNGQxN2VlMDkxOTZk",
   "tracks": [
     {
       "added_at": "2023-08-14 15:11:22",
@@ -87,6 +87,58 @@
       "duration_ms": 390920,
       "name": "#9 Venus The Living Myth",
       "url": "https://open.spotify.com/track/5vA1ZAu2uVXoUbaK1fid2N"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "LUA",
+        "url": "https://open.spotify.com/album/3BSlZ8TJHd7PjFhjBGdErn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Rosset",
+          "url": "https://open.spotify.com/artist/35w950duS41GbEsWV2DQEq"
+        },
+        {
+          "name": "benjamin francis",
+          "url": "https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB"
+        },
+        {
+          "name": "Noah Denton",
+          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+        },
+        {
+          "name": "phonon",
+          "url": "https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y"
+        },
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Dave Eggar",
+          "url": "https://open.spotify.com/artist/76H3P1c4PIomESKq0JDiLn"
+        },
+        {
+          "name": "Michael Wang",
+          "url": "https://open.spotify.com/artist/5WBi8jHnllY29gnOGltewV"
+        },
+        {
+          "name": "Ben Sutin",
+          "url": "https://open.spotify.com/artist/5U6QYt1Lx7JNVbeg2zkgdz"
+        },
+        {
+          "name": "Dan Hitchcock",
+          "url": "https://open.spotify.com/artist/2PsETi89TqApSKLwVY50mq"
+        }
+      ],
+      "duration_ms": 351283,
+      "name": "LUA",
+      "url": "https://open.spotify.com/track/327ApgUIoKw0KAe9CSmJzY"
     },
     {
       "added_at": "2023-12-15 05:01:00",

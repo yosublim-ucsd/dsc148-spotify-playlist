@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 25337,
+  "2024-03-30": 25345,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Datcha Mandala",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Fences \\\\\\\\",
   "name": "Volume France",
   "tracks": [
     {
@@ -107,7 +107,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 196177,
       "name": "Aha (it's ok)",
       "url": "https://open.spotify.com/track/25hjwH9ePERli6DDv8x7Kf"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 181964,
       "name": "Autorisation",
       "url": "https://open.spotify.com/track/3ni2TkTPh9TlAI9jdrOB63"
@@ -727,6 +727,24 @@
       "duration_ms": 173017,
       "name": "De l'aventure - Single Version",
       "url": "https://open.spotify.com/track/7Gf7bWdlp2RE79kJAlSszu"
+    },
+    {
+      "album": {
+        "name": "Desires Never Die",
+        "url": "https://open.spotify.com/album/3JjzAUR9gttR7TojchskCo"
+      },
+      "artists": [
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192116,
+      "name": "Desires Never Die",
+      "url": "https://open.spotify.com/track/6sUNt22AmoTlv445X7tCZt"
     },
     {
       "album": {
@@ -1440,6 +1458,24 @@
     },
     {
       "album": {
+        "name": "Koda",
+        "url": "https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222920,
+      "name": "Koda",
+      "url": "https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ"
+    },
+    {
+      "album": {
         "name": "La vie est belle",
         "url": "https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh"
       },
@@ -1775,7 +1811,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 210253,
       "name": "New Career",
       "url": "https://open.spotify.com/track/5ALHNp45uN1jpPypqcHhHf"
@@ -2045,7 +2081,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 150592,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/2rYwrGzzu9p1t6TKZI5WF2"
@@ -2391,6 +2427,24 @@
       "duration_ms": 221419,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/6Qq8s0eASiHcvgbzsMTTo6"
+    },
+    {
+      "album": {
+        "name": "La Flemme",
+        "url": "https://open.spotify.com/album/5oLX4GqQKttUQ5SlMTND15"
+      },
+      "artists": [
+        {
+          "name": "La Flemme",
+          "url": "https://open.spotify.com/artist/5a3pyEb34YV5TyHDnprIxp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Somnif\u00e8res",
+      "url": "https://open.spotify.com/track/2g6FtAu3jBbQxbaLzqgfGi"
     },
     {
       "album": {
@@ -3137,6 +3191,24 @@
       "duration_ms": 161004,
       "name": "WELCOME TO AMERICA",
       "url": "https://open.spotify.com/track/3zgrOmeYSZsn3K6WKjr7ih"
+    },
+    {
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/2XQGjToeh7CxcEKZQ2tCMu"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Carwash",
+          "url": "https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150650,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/23g7JXPRidvXvuPTsetgwI"
     },
     {
       "album": {

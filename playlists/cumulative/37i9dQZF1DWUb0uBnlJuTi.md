@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-400 songs - 1 day 6 hr 35 min
+401 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Banana](https://open.spotify.com/track/3lWMxUaH99svmD3GnuMZJb) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL) | [Punk Funk](https://open.spotify.com/album/6GRKvJCdPxrexuUO9nUPAC) | 4:06 | 2021-10-01 | 2022-07-27 |
 | [Be on the Lookout](https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Be on the Lookout](https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA) | 3:13 | 2021-06-04 | 2023-03-11 |
 | [Better Day's Are Coming](https://open.spotify.com/track/6mJlNbnQL5hlwmAVI56nfS) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD) | [Better Day's Are Coming](https://open.spotify.com/album/3qNRh6bl4LpSgMfT4owJSE) | 4:14 | 2022-02-04 |  |
-| [Biff](https://open.spotify.com/track/2BUFIIwxakMPTvQAJTjV8D) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Biff](https://open.spotify.com/album/2AVASYr7bkRFHrlKE4rjjp) | 4:02 | 2023-03-24 |  |
+| [Biff](https://open.spotify.com/track/2BUFIIwxakMPTvQAJTjV8D) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Biff](https://open.spotify.com/album/2AVASYr7bkRFHrlKE4rjjp) | 4:02 | 2023-03-24 | 2024-03-30 |
 | [Big Brother](https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Daniel Wytanis](https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln) | [Big Brother](https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n) | 6:01 | 2024-03-01 | 2024-03-23 |
 | [Big Building's Walk](https://open.spotify.com/track/0CfoP8Zf68u2E0JegB0S2F) | [Maison Vivante](https://open.spotify.com/artist/5Lz6ExpF0sdy6fn8vMm0rg) | [Big Building's Walk](https://open.spotify.com/album/4730bSWMAEVpVOcbNQwzSO) | 2:56 | 2021-07-16 |  |
 | [Bird Brain](https://open.spotify.com/track/1Sm4vXzi88nMcWE392dd8R) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Pressure](https://open.spotify.com/album/0WKSzJyXImkaywd2c9esMG) | 2:48 | 2021-10-01 | 2023-11-11 |
@@ -59,6 +59,7 @@
 | [Cherub](https://open.spotify.com/track/6rl1zyb30Edxrhz4QvRDUK) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr) | [Cherub](https://open.spotify.com/album/5ZZb8AqL7XxKeZRtYR1OPt) | 3:45 | 2022-05-20 | 2023-03-18 |
 | [Chromazone](https://open.spotify.com/track/5Ti3lJQt3sdPYlfUCsbODl) | [Elegant People](https://open.spotify.com/artist/0nLfAz1vNeKkFVkt89hMyL), [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY) | [Chromazone](https://open.spotify.com/album/62qDJ7bZ6kQNpF1ZNbRj1u) | 4:59 | 2022-04-08 | 2023-05-27 |
 | [Chum City](https://open.spotify.com/track/2zdWHYYe0aqqzBjOKEvE8k) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [WRD Trio](https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM), [Nick Gerlach](https://open.spotify.com/artist/2uoITnBqKWeWlBsYk3tC1t) | [The Hit](https://open.spotify.com/album/4loBAN5ILsy8FFl4xcaALe) | 4:30 | 2021-04-30 | 2023-07-22 |
+| [Cincy Kid](https://open.spotify.com/track/5dEYKPx9UaRZsmeYGVNPmU) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Cincy Kid](https://open.spotify.com/album/50sB8VrdMPW41rCyE2n8B1) | 3:44 | 2024-03-29 |  |
 | [Cineramascope](https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Corey Henry](https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 3:14 | 2020-10-09 |  |
 | [Cissy Strut](https://open.spotify.com/track/4eqo4WYx13P7DcyAy0umUN) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Cissy Strut](https://open.spotify.com/album/0xMtRJhjKWjIX6cD9s35WN) | 4:30 | 2023-01-27 |  |
 | [Closer](https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Closer](https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0) | 4:55 | 2023-08-18 | 2023-10-30 |

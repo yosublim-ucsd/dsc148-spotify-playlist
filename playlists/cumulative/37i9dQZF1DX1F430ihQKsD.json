@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: En St\u00e9r\u00e9o",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Rau_Ze",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Virer nos vies",
+        "url": "https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162106,
+      "name": "Cinq minutes pile",
+      "url": "https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS"
+    },
+    {
+      "album": {
         "name": "Cin\u00e9ma Paradiso",
         "url": "https://open.spotify.com/album/3AVGGrhhe8A256seUvvhhL"
       },
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 230866,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
@@ -3484,7 +3502,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 157265,
       "name": "It's The Life",
       "url": "https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP"
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 204186,
       "name": "Je n'habite pas chez moi",
       "url": "https://open.spotify.com/track/7q9auzxcNfbzqRwILxqNVF"
@@ -3708,6 +3726,24 @@
       "duration_ms": 184946,
       "name": "Juillet",
       "url": "https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP"
+    },
+    {
+      "album": {
+        "name": "Just Like",
+        "url": "https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z"
+      },
+      "artists": [
+        {
+          "name": "Yuki Dreams Again",
+          "url": "https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172085,
+      "name": "Just Like",
+      "url": "https://open.spotify.com/track/1deniAR9BR8JhNG1679O63"
     },
     {
       "album": {
@@ -3798,7 +3834,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 178720,
       "name": "L'Habitude",
       "url": "https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk"
@@ -6221,6 +6257,24 @@
     },
     {
       "album": {
+        "name": "Rails",
+        "url": "https://open.spotify.com/album/0TuEEF4rhHkFw8ujHtD8Jf"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Rails",
+      "url": "https://open.spotify.com/track/6xuHolNYGcbB7L20L7mOfW"
+    },
+    {
+      "album": {
         "name": "Rappelle-moi ton nom",
         "url": "https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t"
       },
@@ -6518,6 +6572,24 @@
       "duration_ms": 255395,
       "name": "RRSP/Grosse pi\u00e8ce",
       "url": "https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO"
+    },
+    {
+      "album": {
+        "name": "R\u00eave le fun",
+        "url": "https://open.spotify.com/album/5C7d50ode6n6laOBx2w775"
+      },
+      "artists": [
+        {
+          "name": "Larynx",
+          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196128,
+      "name": "R\u00eave le fun",
+      "url": "https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu"
     },
     {
       "album": {
@@ -7106,6 +7178,24 @@
       "duration_ms": 191666,
       "name": "Stuck Here",
       "url": "https://open.spotify.com/track/3Y0No5lXAS30OlN84b6NWv"
+    },
+    {
+      "album": {
+        "name": "Virer nos vies",
+        "url": "https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222746,
+      "name": "Sumerset",
+      "url": "https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ"
     },
     {
       "album": {
@@ -7926,7 +8016,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"

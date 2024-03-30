@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 56891,
+  "num_followers": 56932,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmIxZjcyMmU4YmZhODk2OTEwMjFjMWI4OTk4ZDA0MDQ2MWM1YzAz",
+  "snapshot_id": "MCw3ODc0YjA0NjBjNDQ3Mjg4YzM5YzVjZDQ2ZTQ3NTk2YzM3NmFiZDIy",
   "tracks": [
     {
       "added_at": "2023-09-01 15:14:04",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "La Siguiente",
-        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 202176,
-      "name": "La Siguiente",
-      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 228493,
       "name": "Entre t\u00fa y mil mares",
       "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 222383,
+      "name": "quiero sentirme bien",
+      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 222383,
-      "name": "quiero sentirme bien",
-      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -563,22 +563,6 @@
       "duration_ms": 261360,
       "name": "Amante Bandido",
       "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -643,6 +627,22 @@
       "duration_ms": 269120,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-09-01 15:14:04",

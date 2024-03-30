@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,516 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,521 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 78 | [Sweat](https://open.spotify.com/track/6pULE9MZf21WIsVi3fKlOq) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:59 |
 | 79 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 |
 | 80 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
-| 81 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
-| 82 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
+| 81 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
+| 82 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
 | 83 | [viernes 13 ii](https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 ii](https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu) | 3:17 |
 | 84 | [Nada Es Igual](https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Nada Es Igual](https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw) | 4:11 |
 | 85 | [desamarte](https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:58 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 87 | [Te Perdí](https://open.spotify.com/track/6l9PUb0ZwPNHTQTbCwHE71) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [TE PERDI](https://open.spotify.com/album/6YNIkPiYZTbn08p4aANvHh) | 2:25 |
 | 88 | [Por Si Apareces](https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Por Si Apareces](https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU) | 4:33 |
 | 89 | [Venecia \- Acústico](https://open.spotify.com/track/2Q4iEmSiDVEenNSGk2rmoZ) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Venecia \(Acústico\)](https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl) | 3:59 |
-| 90 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 |
-| 91 | [Bolsas \- C\. Tangana](https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk) | [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [Bolsas \- C\. Tangana](https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5) | 3:56 |
+| 90 | [Bolsas \- C\. Tangana](https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk) | [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [Bolsas \- C\. Tangana](https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5) | 3:56 |
+| 91 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 |
 | 92 | [T la Sudo \(Demo\)](https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [T la Sudo \(Demo\)](https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz) | 3:05 |
 | 93 | [No Estoy](https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 2:21 |
 | 94 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [Se que te iras](https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK) | [Jordano](https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW) | [Amor Insustancial](https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX) | 3:25 |
 | 100 | [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 |
 
-Snapshot ID: `MCw5Y2JhMTlmYWVlNTQ0MzA2ZTc3Y2YxYWFhNmFjZDEyMWU4MzUxYTZj`
+Snapshot ID: `MCw3ZmQyNjJhZWZhNTBlNDgxOGZmZDM1NTdlYjk1NjEzNDRhYTRkMWJl`

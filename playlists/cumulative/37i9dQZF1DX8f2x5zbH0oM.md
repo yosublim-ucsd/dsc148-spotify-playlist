@@ -4,7 +4,7 @@
 
 > La playlist au\-delà des genres\. Photo : Artemas
 
-82 songs - 4 hr 51 min
+83 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Paradisio](https://open.spotify.com/track/3EO5VAVMkKCDHW31QHd1P9) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Ataheva](https://open.spotify.com/album/7361gJ17DZkovNEBrUGUM6) | 4:17 | 2023-12-07 | 2024-03-23 |
 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 | 2023-12-07 |  |
 | [plongereuse](https://open.spotify.com/track/5CxyocTOjwHedHdarG0sLF) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [plongereuse](https://open.spotify.com/album/2DcQQrutkeb4pdjo1XGh9j) | 5:00 | 2024-01-12 |  |
-| [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 | 2024-03-08 |  |
+| [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 | 2024-03-08 | 2024-03-30 |
 | [sapon](https://open.spotify.com/track/5hNK7NeURb8ZVYBD2vZuiU) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [sapon](https://open.spotify.com/album/1Dlo15YbEjGlLb0vTAfMBV) | 3:10 | 2023-12-07 |  |
 | [Shelter](https://open.spotify.com/track/4lNw3j77c9G4YuZp7QlPWb) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 6:25 | 2023-12-07 | 2024-02-10 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 |  |
@@ -81,6 +81,7 @@
 | [The Shoe Fits](https://open.spotify.com/track/2Mph2Rvl5kVg0MYtfV60wZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 6:14 | 2023-12-07 |  |
 | [Ticket Holder](https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Ticket Holder](https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw) | 2:35 | 2024-03-08 |  |
 | [To The Moon](https://open.spotify.com/track/64afY5YbFg33CjQHymnjs4) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [To The Moon](https://open.spotify.com/album/170hwizy890e0aJDe0iqSO) | 3:38 | 2023-12-07 | 2024-02-24 |
+| [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-03-29 |  |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-12-07 | 2024-02-10 |
 | [U & I](https://open.spotify.com/track/1uGIHeoKcetmxF5KOPmz5d) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [U & I \(HOUSE OF GROOVE\)](https://open.spotify.com/album/0SjMBNfPvXjfxoYxEWrwfU) | 3:36 | 2023-12-07 |  |
 | [Under Control](https://open.spotify.com/track/2KAzwdelj9xrFPB7N2cjxh) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Under Control](https://open.spotify.com/album/7ALOMTi9XZl7iVBlK0Bjd4) | 3:27 | 2023-12-07 |  |

@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: ZEBRA 93
+> Todo el sonido indie de Chile\. Foto: El Cómodo Silencio De Los Que Hablan Poco
 
-456 songs - 1 day 3 hr 23 min
+457 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2023-01-28 |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
 | [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 | 2023-07-07 |
-| [Tengo una Herida](https://open.spotify.com/track/24TDfDfRjOk7yIrP8JQaq5) | [El Árbol Que Contiene Todos Los Tiempos](https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG), [Acuario](https://open.spotify.com/artist/5aKV7icKkyzyLgZaWKoX7j) | [Tengo una Herida](https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs) | 2:40 | 2024-03-01 |  |
+| [Tengo una Herida](https://open.spotify.com/track/24TDfDfRjOk7yIrP8JQaq5) | [El Árbol Que Contiene Todos Los Tiempos](https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG), [Acuario](https://open.spotify.com/artist/5aKV7icKkyzyLgZaWKoX7j) | [Tengo una Herida](https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs) | 2:40 | 2024-03-01 | 2024-03-30 |
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-04-15 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-14 |  |
 | [Tercera](https://open.spotify.com/track/38FMeqQyEl8zqvMIbrTU0c) | [Novedades Matutinas](https://open.spotify.com/artist/3mFy5nL1nhpNq2QyNNFWVt) | [Tercera](https://open.spotify.com/album/3TvWm67mHJhkVgzVjcSB9D) | 3:52 | 2022-05-27 | 2022-07-29 |
@@ -436,6 +436,7 @@
 | [Una Mitad de Mí](https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Una Mitad de Mí](https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8) | 3:41 | 2023-01-27 | 2023-11-25 |
 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 |  |
 | [Vamos a Almorzar](https://open.spotify.com/track/1Exy9Y5em8PcfNIDs41nS5) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Flores Como Gato](https://open.spotify.com/album/2qQjsD0f7yHuRHoVj1LX4B) | 3:12 | 2022-04-15 | 2022-07-21 |
+| [Vamos Muchacho](https://open.spotify.com/track/22FQvFZHnHhbE0fKsX3e8x) | [El Cómodo Silencio De Los Que Hablan Poco](https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk) | [Vamos Muchacho](https://open.spotify.com/album/0KfCleWSlHpNYQc4ouhJcL) | 1:45 | 2024-03-29 |  |
 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 | 2023-05-26 | 2023-07-07 |
 | [Venenos](https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 3:49 | 2023-03-31 | 2023-09-30 |
 | [Venus](https://open.spotify.com/track/485YGGmmfVXoURU9WePNPk) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/3O1CEge2yagoOo3ufClQ8n) | 4:00 | 2022-07-22 | 2022-12-10 |

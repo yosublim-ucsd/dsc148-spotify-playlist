@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,921 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,924 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Fefe Ne Fefe](https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fefe Ne Fefe](https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc) | 2:26 |
 | 50 | [Tony Montana](https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tony Montana](https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL) | 2:33 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBjMTcwZWQ0ODJmM2FiNDQ4YmNlZmQ2ZmQ1YzlkNDY4Ng==`
+Snapshot ID: `Mjg1Mjg1ODMsMDAwMDAwMDA2NWFmYTQ5ODYxOWUyMDU5MzcwYjM1ZWMzMWEyMjMxMQ==`

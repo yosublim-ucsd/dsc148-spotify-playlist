@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-90 songs - 5 hr 32 min
+91 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Sitting In Limbo](https://open.spotify.com/track/5kkT3J5trC533eXfZRxcaI) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Countryman](https://open.spotify.com/album/77pIdRuNu9xRYk6BB6l9nI) | 2:41 | 2021-04-20 |  |
 | [Smoke A Little Smoke](https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 3:11 | 2022-04-20 |  |
 | [Smoke A Little Smoke](https://open.spotify.com/track/2uZhNjlUQ9mnt0rS7hcAgF) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw) | 3:11 | 2021-04-20 | 2022-07-29 |
+| [SMOKE HOUR ★ WILLIE NELSON](https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 0:50 | 2024-03-29 |  |
 | [Smoke It \- Demo](https://open.spotify.com/track/5nNvU45Ngzvm29gNChh7mq) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Smoke It \(Demo\)](https://open.spotify.com/album/3JLtWB0tw1aMnqO9zaMtaY) | 3:03 | 2022-09-02 |  |
 | [Smokin' A Doobie](https://open.spotify.com/track/6tzknxnekWR1cs7aT165Ow) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:55 | 2022-09-02 |  |
 | [Stoned At The Jukebox](https://open.spotify.com/track/4LzwAHl0qQJkfECwhmwj3Y) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Lone Wolf](https://open.spotify.com/album/67FryHZj95IDkBAanbBMFc) | 2:59 | 2021-04-20 |  |

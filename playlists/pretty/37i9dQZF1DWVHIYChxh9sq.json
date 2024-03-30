@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 71555,
+  "num_followers": 71592,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzgxYTBlYTBjOTU5MzgwM2U1NjhiOGNjN2Q4NzhhZGZkNDYzN2Zi",
+  "snapshot_id": "MCxlYmFhNzM2NTQ2ZmQzN2I5YmFiYjRkNzUzYzhjMDFkYzM0YWVjNmE0",
   "tracks": [
     {
       "added_at": "2023-09-26 05:23:38",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 173890,
-      "name": "La Novena Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 180047,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 173890,
+      "name": "La Novena Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156597,
+      "name": "Pasado Pisado (En Vivo)",
+      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "Lo Logramos (En Vivo)",
         "url": "https://open.spotify.com/album/7hU8Jhc2fl2f9P7vndvf5a"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 216960,
       "name": "El Del Ice - Live",
       "url": "https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado (En Vivo)",
-      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "Desde Las Vegas",
         "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 194253,
       "name": "F\u00e1cil Criticar - En Vivo",
       "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245183,
-      "name": "Due\u00f1o De Ti - En vivo",
-      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "En Vivo, Vol. 3",
-        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
-      },
-      "artists": [
-        {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
-        }
-      ],
-      "duration_ms": 156501,
-      "name": "Margarita, Margarita",
-      "url": "https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "Flor Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
       },
@@ -2511,6 +2495,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "En Vivo, Vol. 3",
+        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
+      },
+      "artists": [
+        {
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+        }
+      ],
+      "duration_ms": 156501,
+      "name": "Margarita, Margarita",
+      "url": "https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "A Cada Rato (En Vivo)",
-        "url": "https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185983,
-      "name": "A Cada Rato (En Vivo)",
-      "url": "https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "En Vivo: Desde Los Cabos",
         "url": "https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 151579,
       "name": "Alma Enamorada - En Vivo",
       "url": "https://open.spotify.com/track/75zniuVinswzFhlxBZNndT"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "A Cada Rato (En Vivo)",
+        "url": "https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 185983,
+      "name": "A Cada Rato (En Vivo)",
+      "url": "https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks"
     },
     {
       "added_at": "2023-09-26 05:23:38",

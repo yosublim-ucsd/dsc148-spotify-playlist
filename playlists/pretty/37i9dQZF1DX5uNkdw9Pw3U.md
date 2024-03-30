@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,269 likes - 94 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,529 likes - 94 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Worst Way](https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [themes](https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Worst Way](https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz) | 2:52 |
 | 94 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
 
-Snapshot ID: `MCw4YzNiZDRkZWRlZDZmYjk4NzAzOTE5NDNmMjE5ZjlmNDE0OWQ2Mjk2`
+Snapshot ID: `MCxmMThhYTQ2ZmRiYTk5MGE0ZDJmNDRhYmQ2ZGIyZTI1NzE4YzM1Mjk1`

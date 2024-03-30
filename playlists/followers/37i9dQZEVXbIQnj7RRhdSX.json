@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 1069301,
+  "2024-03-30": 1069425,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -5645,7 +5645,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -19953,7 +19953,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 127200,
       "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj"
@@ -26934,6 +26934,28 @@
     },
     {
       "album": {
+        "name": "PRAY 4 ME",
+        "url": "https://open.spotify.com/album/7h44WKPfAyPmnbNlXVBHoe"
+      },
+      "artists": [
+        {
+          "name": "Zafman",
+          "url": "https://open.spotify.com/artist/2LhNXgU8dHT5OWlczFLj50"
+        },
+        {
+          "name": "Y\u00f8da",
+          "url": "https://open.spotify.com/artist/27LZAiyw2HCgbAgJn6iSWx"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194184,
+      "name": "PRAY 4 ME",
+      "url": "https://open.spotify.com/track/0U4Er8rdeiZ6oSvwc8KkL3"
+    },
+    {
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -33537,7 +33559,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 144864,
       "name": "TUNNEL",
       "url": "https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM"

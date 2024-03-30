@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Faye Webster 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,072 likes - 141 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,160 likes - 141 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 13 | [Oh, Gemini](https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Oh, Gemini](https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9) | 2:44 |
 | 14 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
 | 15 | [Stay](https://open.spotify.com/track/5wTnei9CxGTNVn8vgH1Yhj) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Stay](https://open.spotify.com/album/2cC5M33uZRseQLHhEUK3lW) | 3:17 |
-| 16 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 |
+| 16 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:47 |
 | 17 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 |
 | 18 | [June 9th Nighttime](https://open.spotify.com/track/0NvYcEGXXoLabFZARKmb0U) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 2:54 |
 | 19 | [\(dream\)](https://open.spotify.com/track/17YNmMy03QLPirmBzWxFa6) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 1:24 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 31 | [Turn Red](https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 3:56 |
 | 32 | [Carthage](https://open.spotify.com/track/0e0T3WcSL0IvHFc2CqMLIy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 5:30 |
 | 33 | [Baby I Love You](https://open.spotify.com/track/0OZUOHveCKcJ0QDDA5NAfP) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Baby I Love You](https://open.spotify.com/album/0x1A7vjuUSkQUqMd0ziPrr) | 3:45 |
-| 34 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 |
+| 34 | [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 |
 | 35 | [Right Side of My Neck](https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 2:33 |
 | 36 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 |
 | 37 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 87 | [gold ring \(flounder bonus track\)](https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder \(deluxe\)](https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM) | 3:03 |
 | 88 | [Amy](https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Amy](https://open.spotify.com/album/3St5d6fnFu6CkkWOiN4pCv) | 3:36 |
 | 89 | [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 |
-| 90 | [Good Ol Days](https://open.spotify.com/track/2eXfiLRUIMoxykbZICeOyc) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:54 |
+| 90 | [Good Ol Days](https://open.spotify.com/track/5vRWfHVWcKncaW7WYNdKyJ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/4YrL4gc7GACAqnKomXuvGk) | 4:54 |
 | 91 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
 | 92 | [Acolyte](https://open.spotify.com/track/2h0O3uXZW6ClktlgHWGpjy) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 5:16 |
 | 93 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 131 | [Radio Silence](https://open.spotify.com/track/4InyDtnc3LXJQ7IQb5gDe7) | [Jacqueline Hackett](https://open.spotify.com/artist/3sHKu82LxYjIMCXoHpgalZ) | [As the Summer Let You Down](https://open.spotify.com/album/1H9QibUtGZNncjJogzadcR) | 7:33 |
 | 132 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
 | 133 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
-| 134 | [All My Thoughts](https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu) | 3:45 |
+| 134 | [All My Thoughts](https://open.spotify.com/track/1tOdpTjRfTuDiM330DCKDD) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/6iKPa0KYi9BmKjhfYiRvS1) | 3:45 |
 | 135 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 |
 | 136 | [Difficult](https://open.spotify.com/track/3QdiRF15PNChelOgBPIaT5) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/0XOOpplduQwdpw2uMGCvJE) | 2:56 |
 | 137 | [Cool God](https://open.spotify.com/track/0nJkRTWpbpTYxHVNk4bMlb) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Songs for Moms](https://open.spotify.com/album/4tIlizlhNok4XGEXjrSVp6) | 4:11 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 140 | [Bury The Hatchet \- Radio Edit](https://open.spotify.com/track/731pNkRH6bnlhDGZQLRWJs) | [Mol Sullivan](https://open.spotify.com/artist/3oYFKaeq39nYQsW6z6LX3T) | [Bury The Hatchet \(Radio Edit\)](https://open.spotify.com/album/6nWAsgxghVFT7xXP0EY4aF) | 3:38 |
 | 141 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 |
 
-Snapshot ID: `MCxjZDkzMzY2ZGIwMjBjYzNhNjEwMTViNTlmMjYzNWE1YWU4NDgxMzMx`
+Snapshot ID: `MCw3ZjRmY2QwODEzMjE0NTg4MjM1OTNjZjk5ZjlmNmI0YTM0MWM3ZDRj`

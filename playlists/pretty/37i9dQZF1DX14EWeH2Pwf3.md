@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Elmatadormc7
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,633 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,894 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 |
 | 50 | [07:34](https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [07:34](https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f) | 3:11 |
 
-Snapshot ID: `MCwwMjFkY2E1YzRkYTY1YTY3NmFjY2Q1OGQ4M2QwMjY1OWM4ZGYwOTM3`
+Snapshot ID: `MCxhYTgxMjRhNzY0ZTQ0NGM3ZGY2YzM4MzBlNDkzZmVhZDUyOTgwMWI3`

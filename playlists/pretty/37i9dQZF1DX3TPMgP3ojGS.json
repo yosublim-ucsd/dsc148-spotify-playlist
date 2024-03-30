@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 411520,
+  "num_followers": 411642,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGU4MzhlZjUwM2MyZWMzZmIxNDU5MTMxMTkyOGM4YmIwOTgzYjQ1",
+  "snapshot_id": "MCwyNTg5Mjc2OWU0MDE4NTY2NGEzNTE5NTU4MTllMjU3ZDE3OTI3Y2E3",
   "tracks": [
     {
       "added_at": "2024-02-22 05:36:01",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Fall a hundred times",
-        "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 136658,
-      "name": "Fall a hundred times",
-      "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Arbor",
         "url": "https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 155500,
       "name": "Arbor",
       "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Fall a hundred times",
+        "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 136658,
+      "name": "Fall a hundred times",
+      "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
-      },
-      "artists": [
-        {
-          "name": "Domi Nova",
-          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Dreamt, far hope...",
         "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 142582,
       "name": "Before You",
       "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Countryside Mansion",
-        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
-      },
-      "artists": [
-        {
-          "name": "Joanne Gardiner",
-          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Countryside Mansion",
-      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "The swan",
         "url": "https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 157000,
       "name": "The swan",
       "url": "https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Countryside Mansion",
+        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
+      },
+      "artists": [
+        {
+          "name": "Joanne Gardiner",
+          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Countryside Mansion",
+      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Calm Wind",
-        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
-      },
-      "artists": [
-        {
-          "name": "Elfrieda",
-          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
-        }
-      ],
-      "duration_ms": 140102,
-      "name": "Calm Wind",
-      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Luce",
         "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 199119,
       "name": "Aspres",
       "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Calm Wind",
+        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
+      },
+      "artists": [
+        {
+          "name": "Elfrieda",
+          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
+        }
+      ],
+      "duration_ms": 140102,
+      "name": "Calm Wind",
+      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Peace flow",
-        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
-      },
-      "artists": [
-        {
-          "name": "Jon Albreit",
-          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Peace flow",
-      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Through The Blue (Piano Version)",
         "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 225494,
       "name": "Through The Blue - Piano Version",
       "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Air from Air",
         "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 199428,
       "name": "Air from Air",
       "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Stille Sj\u00f8",
-        "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
-      },
-      "artists": [
-        {
-          "name": "Ole-Bj\u00f8rn Talstad",
-          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
-        }
-      ],
-      "duration_ms": 151829,
-      "name": "Stille Sj\u00f8",
-      "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Kalmte",
         "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 141736,
       "name": "Languor",
       "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Stille Sj\u00f8",
+        "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "duration_ms": 151829,
+      "name": "Stille Sj\u00f8",
+      "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
     },
     {
       "added_at": "2024-02-22 05:36:01",

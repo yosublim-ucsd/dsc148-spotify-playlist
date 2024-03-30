@@ -1,12 +1,12 @@
 {
   "description": "The best new hip-hop music by independent artists and labels. Cover: Anycia\n",
-  "num_followers": 236725,
+  "num_followers": 236812,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzU5NzBhYjBkOWU3NzRiMDk4ZDJkN2JkNmNkOGNmOThhN2UxNzQx",
+  "snapshot_id": "MCw4MDNmYzQ3NmM5NmE2ZDgwOTJjYTdkZjcwNmQyMTBmOTg2OTVhYWMz",
   "tracks": [
     {
       "added_at": "2024-03-27 16:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 148994,
       "name": "TAKE TIME FOR MYSELF",
       "url": "https://open.spotify.com/track/483fOSKLspJj5Lk7X7EKt8"
+    },
+    {
+      "added_at": "2024-03-29 22:24:12",
+      "album": {
+        "name": "girls like drugs",
+        "url": "https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 174434,
+      "name": "girls like drugs",
+      "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
     },
     {
       "added_at": "2024-03-27 16:00:00",

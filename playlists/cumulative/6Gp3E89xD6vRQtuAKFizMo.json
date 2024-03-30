@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "Badman Calling (feat. XO Man)",
+        "url": "https://open.spotify.com/album/6BFUj811bQcvESYVevPKPy"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        },
+        {
+          "name": "Xo Man",
+          "url": "https://open.spotify.com/artist/5FY5CvkIgbORCgqPr1FsMG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162519,
+      "name": "Badman Calling (feat. XO Man)",
+      "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
+    },
+    {
+      "album": {
         "name": "Badman Riddim (feat. Sweetie Irie)",
         "url": "https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK"
       },
@@ -3502,6 +3524,28 @@
       "duration_ms": 149838,
       "name": "My Room",
       "url": "https://open.spotify.com/track/4TZqdDTRiGuWSWMy9xIGPO"
+    },
+    {
+      "album": {
+        "name": "My Room (Remixes)",
+        "url": "https://open.spotify.com/album/6efb70DGUPyC36qBqmLI1h"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        },
+        {
+          "name": "Makla",
+          "url": "https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183764,
+      "name": "My Room - Makla Remix",
+      "url": "https://open.spotify.com/track/1eupUP0KyIxklOmWSe0PO1"
     },
     {
       "album": {

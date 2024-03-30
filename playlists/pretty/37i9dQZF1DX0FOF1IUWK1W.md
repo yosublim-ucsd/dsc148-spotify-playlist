@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > DENNIS, Ana Castela, Mc Gw e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,248,168 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,251,455 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:55 |
 | 50 | [Devia Ser Proibido \- Ao Vivo Em Brasília](https://open.spotify.com/track/0QcKkN8b4iVkmVsbaze8OS) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4KanzzLcDoiraz456AUvEl) | 2:53 |
 
-Snapshot ID: `MCxhNmVkZDY2MTlhNzZlZmQ0MTYwNGQ5OWQzNzFkYWNhNjA0Yzc4ZWEw`
+Snapshot ID: `MCwxMmMzMTIzM2UxMTFmMjc5OTg0NjMwZGZjNmZkY2QzYTllNTJhYTgz`

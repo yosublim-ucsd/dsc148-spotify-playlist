@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Mahmut Orhan
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gesaffelstein
 
-564 songs - 1 day 5 hr 21 min
+567 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Didn't Know Lonely](https://open.spotify.com/track/1TVRKXD6RkBNTE7F11Pexm) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Didn't Know Lonely](https://open.spotify.com/album/64iN3YbIdjSCLIimrNAdHZ) | 3:10 | 2022-06-10 | 2023-07-29 |
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-27 | 2023-02-05 |
 | [Different Worlds](https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Different Worlds](https://open.spotify.com/album/68X6n6zNWQtHzJfSmMb64k) | 3:35 | 2024-03-15 |  |
+| [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-29 |  |
 | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF) | 3:58 | 2022-10-28 | 2022-11-19 |
 | [Diva \- Ninajirachi Remix](https://open.spotify.com/track/4NfXNOil3k5Foo948cVNqF) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Diva \(Ninajirachi Remix\)](https://open.spotify.com/album/1V4tD6UwnvWMyponaetidr) | 3:00 | 2022-10-28 | 2022-11-19 |
 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 | 2023-12-08 |  |
@@ -211,6 +212,7 @@
 | [Hiding](https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hiding](https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3) | 3:40 | 2023-07-14 |  |
 | [High \- Don Diablo Remix](https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [High \(Don Diablo Remix\)](https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p) | 4:01 | 2022-06-03 | 2023-07-29 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-25 | 2023-06-10 |
+| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 | 2024-03-29 |  |
 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 | 2023-07-14 |  |
 | [Higher Than Ever Before \- yunè pinku Remix](https://open.spotify.com/track/6datYMoOV1Zq1yUJbFQuDw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Higher Than Ever Before \(yunè pinku Remix\)](https://open.spotify.com/album/3ru4z9AhYi5cNUoUHG8T4A) | 3:37 | 2023-12-08 |  |
 | [Highway Lover \(feat\. Lost Boy\)](https://open.spotify.com/track/1dFzqNtBPKusMemgTIdg3j) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Highway Lover \(feat\. Lost Boy\)](https://open.spotify.com/album/5gO5phQuCxKfGFq5ivCLCF) | 4:23 | 2023-06-16 |  |
@@ -494,6 +496,7 @@
 | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 | 2023-01-27 | 2023-07-29 |
 | [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 | 2023-05-26 | 2023-12-14 |
 | [Thinking About You](https://open.spotify.com/track/77YkavTzHlKyJ71au9cQa4) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Thinking About You](https://open.spotify.com/album/2a0K1R2ZXXIUD1AQBDVCdo) | 2:58 | 2023-06-02 | 2023-12-14 |
+| [Thinking About You](https://open.spotify.com/track/1plwk3UFlq3P4SW5PVAFKh) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ) | [Thinking About You](https://open.spotify.com/album/1rf3GUpNhGp9cLq2BvKg0J) | 2:45 | 2024-03-29 |  |
 | [This Moment](https://open.spotify.com/track/2kM9z0qXLXvUjb4MqIn1U8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [This Moment](https://open.spotify.com/album/4Yohw2SkANTgUSmCruXeKX) | 2:16 | 2023-12-08 |  |
 | [Tighten Up](https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Tighten Up](https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp) | 2:53 | 2024-01-26 |  |
 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:51 | 2023-08-25 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,601 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,615 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 59 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 |
 | 60 | [Vivre dans la nuit \- Version Microsillon](https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh) | [Nuance](https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl) | [Vivre dans la nuit](https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4) | 4:45 |
 | 61 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
-| 62 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
-| 63 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
-| 64 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
+| 62 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
+| 63 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
+| 64 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
 | 65 | [Un souvenir heureux](https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs) | [Les grands succès de Diane Dufresne](https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV) | 2:53 |
 | 66 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
 | 67 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Pied De Poule](https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2) | [Geneviève Lapointe](https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey) | [Pied De Poule](https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha) | 4:05 |
 | 75 | [Tu t'en vas](https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc) | [Aucun Regret](https://open.spotify.com/artist/7uPhAd69hpKEPkQ72IVCQ6) | [Mixmania](https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl) | 3:26 |
 
-Snapshot ID: `MCwxOGY3M2U4ZDVlYzc1MDhhNmVmNjg2YzY3NjFkNDM0YjdiYWMzMDVm`
+Snapshot ID: `MCw0MDkxNDM4MDg2ODg3ODZhNjJkNjY0ZGY5OWM0MmFjNjJiYmEwZjEy`

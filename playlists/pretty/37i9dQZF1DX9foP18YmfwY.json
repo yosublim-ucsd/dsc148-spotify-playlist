@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 323436,
+  "num_followers": 323611,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDM2YmRjZjc4ZDI3MDU1ZDAwNmYwMTU0YTgzNGM3YjJlZGQzMWRh",
+  "snapshot_id": "MCxmYmE1NTBhOTViNmJhMTY5M2JjMTA5OWQ2NTAxYWRjZDY1ZTBjMzlm",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -403,22 +403,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "In Concert (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
+        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
         }
       ],
-      "duration_ms": 303096,
-      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
-      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
+      "duration_ms": 262232,
+      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -455,18 +451,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
+        "name": "In Concert (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
       },
       "artists": [
         {
-          "name": "Padre Reginaldo Manzotti",
-          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
         }
       ],
-      "duration_ms": 262232,
-      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
+      "duration_ms": 303096,
+      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
+      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        }
-      ],
-      "duration_ms": 309660,
-      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Yeshua (feat. Eliana Ribeiro)",
         "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 287562,
       "name": "Yeshua (feat. Eliana Ribeiro)",
       "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        }
+      ],
+      "duration_ms": 309660,
+      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 449016,
-      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Acalma Minha Tempestade",
         "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 322512,
       "name": "Acalma Minha Tempestade",
       "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 449016,
+      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Serei Tudo",
-        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Laura Salvador",
-          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
-        }
-      ],
-      "duration_ms": 264566,
-      "name": "Serei Tudo",
-      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Maria, M\u00e3e e Rainha",
         "url": "https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 225152,
       "name": "Maria, M\u00e3e e Rainha",
       "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Serei Tudo",
+        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Laura Salvador",
+          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
+        }
+      ],
+      "duration_ms": 264566,
+      "name": "Serei Tudo",
+      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -931,6 +931,26 @@
       "duration_ms": 264891,
       "name": "Quero Ouvir Tua Voz",
       "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Inflama-Me",
+        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 401500,
+      "name": "Inflama-Me",
+      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -979,26 +999,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Inflama-Me",
-        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 401500,
-      "name": "Inflama-Me",
-      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
         "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
       },
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Gba Stage, Vol. 11",
-        "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
+        "name": "Pra Frente",
+        "url": "https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft"
       },
       "artists": [
         {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Suely Fa\u00e7anha",
-          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
         }
       ],
-      "duration_ms": 302794,
-      "name": "Maria de Minha Inf\u00e2ncia",
-      "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
+      "duration_ms": 229401,
+      "name": "Pra Frente",
+      "url": "https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Pra Frente",
-        "url": "https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft"
+        "name": "Gba Stage, Vol. 11",
+        "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
       },
       "artists": [
         {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Suely Fa\u00e7anha",
+          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
         }
       ],
-      "duration_ms": 229401,
-      "name": "Pra Frente",
-      "url": "https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV"
+      "duration_ms": 302794,
+      "name": "Maria de Minha Inf\u00e2ncia",
+      "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Minha Voca\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
-      },
-      "artists": [
-        {
-          "name": "Juliana de Paula",
-          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
-        },
-        {
-          "name": "Pitter",
-          "url": "https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2"
-        },
-        {
-          "name": "Ana L\u00facia",
-          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
-        }
-      ],
-      "duration_ms": 254964,
-      "name": "Minha Voca\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 224000,
       "name": "Bom \u00c9 Estarmos Aqui",
       "url": "https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Minha Voca\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
+      },
+      "artists": [
+        {
+          "name": "Juliana de Paula",
+          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
+        },
+        {
+          "name": "Pitter",
+          "url": "https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2"
+        },
+        {
+          "name": "Ana L\u00facia",
+          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
+        }
+      ],
+      "duration_ms": 254964,
+      "name": "Minha Voca\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
     },
     {
       "added_at": "2023-12-22 03:00:00",

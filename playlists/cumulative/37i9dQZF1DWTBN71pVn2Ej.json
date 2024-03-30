@@ -9479,6 +9479,24 @@
     },
     {
       "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/2rnjPeQAtqf4PpTHg3fZen"
+      },
+      "artists": [
+        {
+          "name": "Distressor",
+          "url": "https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266160,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/5Q0WzHDGAzdxkKIO4xP2To"
+    },
+    {
+      "album": {
         "name": "Tramlines",
         "url": "https://open.spotify.com/album/0PUA4ZxX3CkJCeryebqYzo"
       },

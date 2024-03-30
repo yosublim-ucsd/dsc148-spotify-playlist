@@ -4,7 +4,7 @@
 
 > Delicate digital expressions of the heart.
 
-195 songs - 14 hr 43 min
+196 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Faith in Strangers](https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:29 | 2022-02-03 |  |
 | [Fine Match](https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Come To Canada You Will Like It](https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9) | 4:05 | 2022-02-03 |  |
 | [Fine Match](https://open.spotify.com/track/7x2E99ZJ2TzZAfUAcfLpQS) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Come To Canada You Will Like It](https://open.spotify.com/album/5BwxI98XgdBwFPEeaJ0Zj2) | 4:05 | 2022-02-03 | 2022-07-29 |
+| [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 |  |
 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 | 2022-02-03 | 2023-03-29 |
 | [Four Horsemen](https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc) | [Jacober](https://open.spotify.com/artist/5qqAJRq2z4M9IOULr4JtQu) | [Sketch for Winter X: Immortal Word](https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv) | 3:12 | 2022-02-03 | 2023-02-16 |
 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 | 2022-02-03 | 2024-02-13 |
@@ -174,7 +175,7 @@
 | [The Kiss](https://open.spotify.com/track/18oa7BOnHF8Y3YItQ8rV3e) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 3:17 | 2022-02-03 | 2022-07-29 |
 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 | 2022-02-03 | 2023-11-17 |
 | [the place](https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 3:41 | 2022-02-03 | 2024-01-05 |
-| [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 | 2022-02-03 |  |
+| [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 | 2022-02-03 | 2024-03-30 |
 | [The Way You Talk](https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:50 | 2022-02-03 | 2023-02-03 |
 | [The Way You Talk](https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:50 | 2022-02-03 |  |
 | [Thru U \(feat\. Bklava\)](https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 2:57 | 2023-11-13 |  |

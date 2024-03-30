@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,235 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,397 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 32 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 |
 | 33 | [The Frost](https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
 | 34 | [Flip a Coin](https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:38 |
-| 35 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 |
+| 35 | [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 |
 | 36 | [Winter's Come and Gone \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:49 |
 | 37 | [Keep The Wolves Away](https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo) | 4:35 |
 | 38 | [Till I Return](https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:36 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 47 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 |
 | 48 | [Movin'](https://open.spotify.com/track/5mwr49vu0RI3RJG8NLiJ1z) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines \(Deluxe\)](https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae) | 2:41 |
 | 49 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
-| 50 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
+| 50 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 |
 | 51 | [West Of Tulsa](https://open.spotify.com/track/30CTixQQMXTkbBUKrLQpbe) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [West Of Tulsa](https://open.spotify.com/album/42B5HibLdk0bbfsG8atoOU) | 3:23 |
 | 52 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 |
 | 53 | [Paradise](https://open.spotify.com/track/03oJ08eFsEOll82tHJNAY3) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Quite Like You](https://open.spotify.com/track/0KVeQWIL6r8ALPy6Lxjlx6) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Coast](https://open.spotify.com/album/3Q6idrlnc5UQwg1RKKIglL) | 4:12 |
 | 100 | [You Asked Me To](https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Live Forever: A Tribute To Billy Joe Shaver](https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4) | 2:51 |
 
-Snapshot ID: `MCw4ZTAwNjllNzBiYzQxNDYzMzg0ZjdmMDk0NzVjYzUyOGJhZTFmNzQ2`
+Snapshot ID: `MCxjNTUzODJhMjM3ZDA1NzBjYjU1MzE0MjhlNWE2YjdkM2RhMDk1MjBm`

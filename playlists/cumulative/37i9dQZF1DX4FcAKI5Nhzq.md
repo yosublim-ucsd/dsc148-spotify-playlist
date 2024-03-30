@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: Dynamicduo
 
-1,018 songs - 2 day 7 hr 54 min
+1,020 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [I Can't](https://open.spotify.com/track/2EWCsvpeHNI51WFhW97ItO) | [CITI](https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE) | [I Can't](https://open.spotify.com/album/0hsZZHekDyDGi0MRnmaQKk) | 3:05 | 2021-08-05 | 2021-11-12 |
 | [I can't make you love me](https://open.spotify.com/track/1QcQ79sEzmEbUG1oR8iNM6) | [KINDA BLUE](https://open.spotify.com/artist/264XvBSD6pFn1eDvWSWMI8), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I can't make you love me](https://open.spotify.com/album/5IXPrB8V5bV6tl9Eh09jxa) | 2:38 | 2021-08-11 | 2021-10-13 |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-10-26 | 2021-03-25 |
+| [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 | 2024-03-29 |  |
 | [I Don't Know You Anymore](https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Know You Anymore](https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP) | 2:46 | 2021-10-16 | 2022-01-05 |
 | [I Don't Love You \(Feat\. Coogie\)](https://open.spotify.com/track/3U7bYD9n4QP0P3LITLgLkc) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [I Don't Love You](https://open.spotify.com/album/1WHtJ18aMLsWdxak99t7Bh) | 3:17 | 2021-08-14 | 2021-10-13 |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2021-06-18 | 2021-08-25 |
@@ -445,6 +446,7 @@
 | [I WANT](https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I WANT](https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe) | 3:00 | 2023-07-21 | 2023-12-08 |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-27 | 2023-10-20 |
 | [I Want U Around \(Feat\. DeVita\)](https://open.spotify.com/track/5zI721DtTDWjLbDvZoWKGZ) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [I Want U Around](https://open.spotify.com/album/0NCuf8EjsH0z06AdgzmQxi) | 3:11 | 2021-06-12 | 2021-07-28 |
+| [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-03-29 |  |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-02-06 | 2023-06-09 |
 | [I&credible](https://open.spotify.com/track/3UrYzeFR2wVIk2SAInaiDJ) | [I\-LAND](https://open.spotify.com/artist/4VbAtGhXMJr2AGXa8fkcRu) | [I&credible](https://open.spotify.com/album/4jce6LUukJOpLie3J5NxkD) | 3:44 | 2020-10-13\* | 2021-01-18 |
 | [I'm Cold](https://open.spotify.com/track/1FYhB2gHR2VLnQm81RKpqx) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [3rd Mini Album \`INSIDE ME\`](https://open.spotify.com/album/5yuZu6XJEDSa32pxd3svgH) | 3:49 | 2020-12-14 | 2021-03-01 |

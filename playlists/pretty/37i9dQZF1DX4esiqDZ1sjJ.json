@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 372568,
+  "num_followers": 372619,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjkzZDVjMzQyZGY1MmE4MDExODBjODFlYWM3ODU1ZDJhYmNkY2Zk",
+  "snapshot_id": "MCxlMjU1OTdiNjc2MmJhNDE4MDFjY2U0YWFmZjg1ZjUyMWY0MWE5NjYx",
   "tracks": [
     {
       "added_at": "2024-03-22 15:26:42",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-03-22 15:26:42",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
-    },
-    {
-      "added_at": "2024-03-22 15:26:42",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "added_at": "2024-03-22 15:26:42",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2024-03-22 15:26:42",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-03-22 15:26:42",
       "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 325506,
+      "name": "Shook Ones, Pt. II",
+      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "added_at": "2024-03-22 15:26:42",
+      "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 205426,
       "name": "Money In The Grave (Drake ft. Rick Ross)",
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
-    },
-    {
-      "added_at": "2024-03-22 15:26:42",
-      "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 325506,
-      "name": "Shook Ones, Pt. II",
-      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
       "added_at": "2024-03-22 15:26:42",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-03-22 15:26:42",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
-    },
-    {
-      "added_at": "2024-03-22 15:26:42",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2024-03-22 15:26:42",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "added_at": "2024-03-22 15:26:42",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-03-22 15:26:42",
       "album": {
-        "name": "Hell: The Sequel (Deluxe)",
-        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
       },
       "artists": [
         {
-          "name": "Bad Meets Evil",
-          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
         }
       ],
-      "duration_ms": 249560,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
+      "duration_ms": 250746,
+      "name": "Right Thurr",
+      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
     }
   ],
   "unique_name": "Jock Jams",

@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 189267,
+  "num_followers": 189471,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWE4MDcxYzYxMjUzMjJiOWRhNGNjYTkyOGJmZDFlNzQxOGQ5MTY1",
+  "snapshot_id": "MCxlODMyZGI2Yzc1Y2NmY2VhYjRlYmMzYzA5MmY4NWRlMjYxMzYwMjQx",
   "tracks": [
     {
       "added_at": "2024-03-17 23:18:17",
@@ -375,18 +375,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+        "name": "Alucin",
+        "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+      "duration_ms": 197114,
+      "name": "Alucin",
+      "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -431,26 +439,18 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Alucin",
-        "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
       "artists": [
         {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 197114,
-      "name": "Alucin",
-      "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Hey Lil Mama",
-      "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "X'CLUSIVO (REMIX)",
         "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 208133,
       "name": "X'CLUSIVO - REMIX",
       "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Hey Lil Mama",
+      "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "VVS Switch",
+        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "duration_ms": 168178,
+      "name": "VVS Switch",
+      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 228750,
       "name": "MEMORIAS",
       "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "VVS Switch",
-        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        }
-      ],
-      "duration_ms": 168178,
-      "name": "VVS Switch",
-      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1399,30 +1399,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "LOS MARCIANOS Vol.1: Dei V Version",
-        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Gaby Music",
-          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "PERREO LENTO",
-      "url": "https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Triple S",
         "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
       },
@@ -1443,6 +1419,30 @@
       "duration_ms": 192746,
       "name": "Triple S",
       "url": "https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "LOS MARCIANOS Vol.1: Dei V Version",
+        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "PERREO LENTO",
+      "url": "https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1471,18 +1471,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+        "name": "DESATAAA",
+        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 168210,
-      "name": "YW&F - Versi\u00f3n Reggaeton",
-      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
+      "duration_ms": 197383,
+      "name": "DESATAAA",
+      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1511,26 +1519,18 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "DESATAAA",
-        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 197383,
-      "name": "DESATAAA",
-      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
+      "duration_ms": 168210,
+      "name": "YW&F - Versi\u00f3n Reggaeton",
+      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Brattiputy",
         "url": "https://open.spotify.com/album/2jmAx9Pl6bp05KnJvBNV1f"
       },
@@ -1679,6 +1659,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "R\u00c1PIDO",
         "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
       },
@@ -1691,6 +1691,26 @@
       "duration_ms": 182857,
       "name": "R\u00c1PIDO",
       "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1719,54 +1739,18 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
       },
       "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
-        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
         {
           "name": "Hades66",
           "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 346000,
-      "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
-      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+      "duration_ms": 124374,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1807,18 +1791,58 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
+        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
+        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
       },
       "artists": [
         {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
           "name": "Hades66",
           "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 124374,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
+      "duration_ms": 346000,
+      "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
+      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "BONNIE AND CLYDE (REMIX)",
+        "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 286265,
+      "name": "BONNIE AND CLYDE - REMIX",
+      "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1851,30 +1875,6 @@
       "duration_ms": 235146,
       "name": "BAD BOY",
       "url": "https://open.spotify.com/track/3Zm9ZCH5iQcpp1tdvU9rb7"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "BONNIE AND CLYDE (REMIX)",
-        "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 286265,
-      "name": "BONNIE AND CLYDE - REMIX",
-      "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
+      },
+      "artists": [
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "duration_ms": 211969,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/3OA4b7KyqgX26a6r7XZWE3"
       },
@@ -1975,26 +1995,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Maquillaje",
-        "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
-      },
-      "artists": [
-        {
-          "name": "Renn",
-          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
-        },
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
-        }
-      ],
-      "duration_ms": 211969,
-      "name": "Maquillaje",
-      "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -2011,6 +2011,22 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "LUCES DE COLORES",
+        "url": "https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "LUCES DE COLORES",
+      "url": "https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -2035,22 +2051,6 @@
       "duration_ms": 187200,
       "name": "Dale Bogueto",
       "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "LUCES DE COLORES",
-        "url": "https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "LUCES DE COLORES",
-      "url": "https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn"
     },
     {
       "added_at": "2024-03-17 23:18:17",

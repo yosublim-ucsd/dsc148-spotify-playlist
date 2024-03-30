@@ -1,13 +1,113 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Terminal Nation",
-  "num_followers": 8461,
+  "num_followers": 8471,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MzAzNiw3YTBlZTc3MGM4OWI0MGVjODI3NzIyYTQxNGI0MzNkZjM3ODdhNzMw",
+  "snapshot_id": "MzA0Niw0ODg1NzE5MTBkNmQ0ZTU2YzYwOWRjZDcxMzczMzc0NGM1N2U3YTk2",
   "tracks": [
+    {
+      "added_at": "2024-03-29 18:56:36",
+      "album": {
+        "name": "God Under Fingernails",
+        "url": "https://open.spotify.com/album/1Q4UfATj3O0UhjFoAXmpId"
+      },
+      "artists": [
+        {
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "God Under Fingernails",
+      "url": "https://open.spotify.com/track/6rTiRiuhMjowousSPe4Bhu"
+    },
+    {
+      "added_at": "2024-03-29 18:56:15",
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/4b7umga2fV53gHwZOaStRn"
+      },
+      "artists": [
+        {
+          "name": "Mistress",
+          "url": "https://open.spotify.com/artist/7dPgJHYnZTqDgXU6JZl0Im"
+        }
+      ],
+      "duration_ms": 216530,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/42dwOAbjSpbXlh28eXFgRe"
+    },
+    {
+      "added_at": "2024-03-29 18:56:52",
+      "album": {
+        "name": "To The Dance Floor For Shelter (feat. Courtney LaPlante)",
+        "url": "https://open.spotify.com/album/5S9zh1BaFjgNq1TdDNH1Se"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "To The Dance Floor For Shelter",
+      "url": "https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5"
+    },
+    {
+      "added_at": "2024-03-29 18:57:05",
+      "album": {
+        "name": "Skante",
+        "url": "https://open.spotify.com/album/1ArsSpxLf7pOUZeP1B4oJo"
+      },
+      "artists": [
+        {
+          "name": "Bodybox",
+          "url": "https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q"
+        }
+      ],
+      "duration_ms": 112547,
+      "name": "Skante",
+      "url": "https://open.spotify.com/track/7ix0dWaQaKHWY9TfJrETXg"
+    },
+    {
+      "added_at": "2024-03-29 18:57:23",
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 225097,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/5LRSgPo7BKrhIBYrX1mL8z"
+    },
+    {
+      "added_at": "2024-03-29 19:21:27",
+      "album": {
+        "name": "Death Is Little More",
+        "url": "https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 139222,
+      "name": "Turning Hate Into Rage",
+      "url": "https://open.spotify.com/track/0JmFNORLiAQwtz48DsqeD0"
+    },
     {
       "added_at": "2024-03-22 20:15:50",
       "album": {

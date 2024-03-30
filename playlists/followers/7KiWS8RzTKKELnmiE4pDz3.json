@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 1,
+  "2024-03-30": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -1459,6 +1459,24 @@
       "duration_ms": 119418,
       "name": "bfo2",
       "url": "https://open.spotify.com/track/1A60dNMbkartuzixGZt2Rc"
+    },
+    {
+      "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167314,
+      "name": "Big Ston\u00ebz",
+      "url": "https://open.spotify.com/track/6vmRtsvnmfABDSE7eqeNgW"
     },
     {
       "album": {
@@ -10795,6 +10813,24 @@
       "duration_ms": 124187,
       "name": "Take It To Trial",
       "url": "https://open.spotify.com/track/5oIc9JH730QeKxjtjkXv2y"
+    },
+    {
+      "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Talk 2 God",
+      "url": "https://open.spotify.com/track/5dA0iENzuQGYKZpCKU4nnN"
     },
     {
       "album": {

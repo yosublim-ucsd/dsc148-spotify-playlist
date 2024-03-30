@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1OuLNm4mvRAZK11eefmj9Z">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-229 songs - 13 hr 32 min
+230 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Perdón](https://open.spotify.com/track/44dkhB684HPxosPgaGNndR) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Guía Para la Acción](https://open.spotify.com/album/0D89PelnUR4nfJttKuvdIx) | 5:12 | 2022-07-09 | 2023-06-23 |
 | [Perdón](https://open.spotify.com/track/0OPiWyMTSed9KfusCHwuDe) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:53 | 2022-06-04 | 2022-12-16 |
 | [Perdón \(feat\. Yandel\)](https://open.spotify.com/track/4Pe8xNpIPm0Wx8M8QW5Nn7) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:00 | 2023-12-13 |  |
+| [PERREO LENTO](https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 2:36 | 2024-03-29 |  |
 | [Pide Lo Que Tú Quieras](https://open.spotify.com/track/7IteHlPcwD5mzvkXZmimLI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 | 2022-06-04 | 2023-06-23 |
 | [Piel Con Piel](https://open.spotify.com/track/6mbYWxhUE1ZR1nI0CNjfpU) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 3:30 | 2022-06-04 |  |
 | [Pierde Los Modales](https://open.spotify.com/track/4HGDI0rQi1DtLgmt1x8tX3) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:21 | 2022-06-04 |  |

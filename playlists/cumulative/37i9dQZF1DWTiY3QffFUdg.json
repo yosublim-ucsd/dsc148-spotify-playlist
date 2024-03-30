@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223248,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
+    },
+    {
+      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/4FjkGcjCasHkfTJjkBnCfA"
       },
@@ -920,6 +938,28 @@
       "duration_ms": 248888,
       "name": "Gam Gam - 2023",
       "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
+    },
+    {
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193218,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
     },
     {
       "album": {
@@ -2216,7 +2256,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 144004,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/441rdYPewU5Ky9FsMJkZQH"
@@ -2312,7 +2352,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"

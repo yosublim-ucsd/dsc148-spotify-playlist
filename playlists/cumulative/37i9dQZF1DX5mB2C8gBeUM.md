@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-444 songs - 22 hr 8 min
+445 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [LEGENDS](https://open.spotify.com/track/15x3Tsc72Wjspe8DlsIRp2) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [LEGENDS](https://open.spotify.com/album/2NEROO6mBjK1Xcv1Sr6vXU) | 2:24 | 2021-12-10 | 2022-05-20 |
 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 | 2023-10-06 |  |
 | [Lets Go!](https://open.spotify.com/track/4TlFm4IsztCzL26COpgOcw) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN) | [Lets Go!](https://open.spotify.com/album/440CLUzPDP9fm53GgsKBHu) | 2:34 | 2022-09-16 |  |
+| [LEVII'S JEANS](https://open.spotify.com/track/2UDARQiksl207HcSduDpov) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:17 | 2024-03-29 |  |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-12-10 | 2022-02-26 |
 | [Lighter](https://open.spotify.com/track/2gbS682ibVEMXlzRdC1rT2) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Lighter](https://open.spotify.com/album/33xPs7wlbzfrw5blbL63Ez) | 2:13 | 2023-05-19 |  |
 | [Living Fast](https://open.spotify.com/track/7fuO3mniCpm9g3LjOxjuRn) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Living Fast](https://open.spotify.com/album/3bokND5ICwjoHUtsonPu4v) | 3:04 | 2024-03-08 |  |

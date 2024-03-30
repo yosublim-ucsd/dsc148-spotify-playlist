@@ -2743,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "I Am Me",
+        "url": "https://open.spotify.com/album/7vTGbvxPtww79iawl8YCqk"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248933,
+      "name": "I Am Me",
+      "url": "https://open.spotify.com/track/6LeKTJ0WenhrE9iNLJxQBB"
+    },
+    {
+      "album": {
         "name": "Welcome To The Monkey House",
         "url": "https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF"
       },

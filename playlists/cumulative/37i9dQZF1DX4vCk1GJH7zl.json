@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195053,
       "name": "Carta pro Passado",
       "url": "https://open.spotify.com/track/4WnXJEmktIas3NyqVJLepw"
@@ -700,6 +700,24 @@
       "duration_ms": 257209,
       "name": "Dois Mundos",
       "url": "https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX"
+    },
+    {
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "album": {

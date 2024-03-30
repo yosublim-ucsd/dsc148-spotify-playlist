@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 59890,
+  "num_followers": 59935,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODM4MDIzYzRkN2QzZTRiNDdjNGI3ZDJiNjFlOTU5ZjhmYWIxOWFm",
+  "snapshot_id": "MCxmNjY3Mzg3OWMwZjllMTk3YWI1YTg2ZWI1MDFhMGJiMzU3ZTUyMTlk",
   "tracks": [
     {
       "added_at": "2023-11-24 19:21:59",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Adobe",
+        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        }
+      ],
+      "duration_ms": 146653,
+      "name": "West Texas",
+      "url": "https://open.spotify.com/track/2kuzkVRpOyQntaeTR2OOPG"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Leave This House",
         "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Adobe",
-        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
-      },
-      "artists": [
-        {
-          "name": "Greyhounds",
-          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
-        }
-      ],
-      "duration_ms": 146653,
-      "name": "West Texas",
-      "url": "https://open.spotify.com/track/2kuzkVRpOyQntaeTR2OOPG"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "I Am The Moon: II. Ascension",
         "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 159427,
       "name": "So Long Savior",
       "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Sheepdogs | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/1ULvFLOv6RuLpR1xudAKf4"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+        }
+      ],
+      "duration_ms": 173674,
+      "name": "Find the Truth (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/6l7401iZemL0HxoIZollVi"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -791,26 +811,6 @@
       "duration_ms": 214733,
       "name": "The Blues Had a Baby and They Named It Rock and Roll",
       "url": "https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "The Sheepdogs | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/1ULvFLOv6RuLpR1xudAKf4"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
-        }
-      ],
-      "duration_ms": 173674,
-      "name": "Find the Truth (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/6l7401iZemL0HxoIZollVi"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The High Cost Of Low Living",
-        "url": "https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N"
-      },
-      "artists": [
-        {
-          "name": "Nick Moss Band",
-          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
-        },
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Get Right Before You Get Left",
-      "url": "https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Mighty Love",
         "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
       },
@@ -1375,18 +1355,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Upstate",
-        "url": "https://open.spotify.com/album/6nySaFGbYGGVcR2CKGs64l"
+        "name": "The High Cost Of Low Living",
+        "url": "https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N"
       },
       "artists": [
         {
-          "name": "TrackTribe",
-          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
         }
       ],
-      "duration_ms": 210260,
-      "name": "Put It",
-      "url": "https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7"
+      "duration_ms": 231800,
+      "name": "Get Right Before You Get Left",
+      "url": "https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1407,6 +1391,22 @@
       "duration_ms": 335226,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Upstate",
+        "url": "https://open.spotify.com/album/6nySaFGbYGGVcR2CKGs64l"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "Mellow Down Easy",
-      "url": "https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Rumpshaker",
         "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 203250,
       "name": "Rumpshaker",
       "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Mellow Down Easy",
+      "url": "https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "You Move Me So",
-      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "You Move Me So",
+      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "She Moved On",
         "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 250970,
-      "name": "Sounds Like The Road",
-      "url": "https://open.spotify.com/track/3Q2fXEwlK6x4nNPlGAZuzn"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Brand New Girl / I Got Some, Pt. 1",
         "url": "https://open.spotify.com/album/02lUPEvrMZtgN60vb4TawW"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 173371,
       "name": "I Got Some, Pt. 1",
       "url": "https://open.spotify.com/track/1voI9W1aIo4AgAhzdYMfI6"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 250970,
+      "name": "Sounds Like The Road",
+      "url": "https://open.spotify.com/track/3Q2fXEwlK6x4nNPlGAZuzn"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "I Cry For You (Live)",
-        "url": "https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 132358,
-      "name": "I Cry For You - Live",
-      "url": "https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "No Sleep Blues",
         "url": "https://open.spotify.com/album/7JP7FEGR6XE6mYUTMsoYqQ"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 209368,
       "name": "No Sleep Blues",
       "url": "https://open.spotify.com/track/4ttmYxuXXcJR4aFzpEzXOB"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "I Cry For You (Live)",
+        "url": "https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 132358,
+      "name": "I Cry For You - Live",
+      "url": "https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Packing My Bags",
-        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
-      },
-      "artists": [
-        {
-          "name": "Errol Linton",
-          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
-        }
-      ],
-      "duration_ms": 241678,
-      "name": "Break Em' Down",
-      "url": "https://open.spotify.com/track/1YziwYBC0cVkWQ9JWcji5Q"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6"
       },
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Packing My Bags",
+        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "duration_ms": 241678,
+      "name": "Break Em' Down",
+      "url": "https://open.spotify.com/track/1YziwYBC0cVkWQ9JWcji5Q"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "They Call Me Mud",
         "url": "https://open.spotify.com/album/3BAjDAf2GWUYnpIebugxyP"
       },
@@ -1919,6 +1919,26 @@
       "duration_ms": 240098,
       "name": "They Call Me Mud",
       "url": "https://open.spotify.com/track/4RA6mNzd1GmecXAlQaZ6GK"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Greybird",
+        "url": "https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        },
+        {
+          "name": "T Bird and the Breaks",
+          "url": "https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Syracuse Boots",
+      "url": "https://open.spotify.com/track/60wLkHNSDcXE3iCtNxmWmr"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1951,26 +1971,6 @@
       "duration_ms": 217213,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Greybird",
-        "url": "https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD"
-      },
-      "artists": [
-        {
-          "name": "Greyhounds",
-          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
-        },
-        {
-          "name": "T Bird and the Breaks",
-          "url": "https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Syracuse Boots",
-      "url": "https://open.spotify.com/track/60wLkHNSDcXE3iCtNxmWmr"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "I Shouldn\u2019t Care (Bonus Track)",
-        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "I Shouldn't Care - Bonus Track",
-      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Ooh Poo Pah Do",
         "url": "https://open.spotify.com/album/0nPsjgUeJCi31GD8yJggXL"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 137627,
       "name": "Ooh Poo Pah Do (Pt. 1)",
       "url": "https://open.spotify.com/track/02v6Ie89lZ4bArlzp9MKzi"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "I Shouldn\u2019t Care (Bonus Track)",
+        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "I Shouldn't Care - Bonus Track",
+      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Who Is He?",
-        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
-      },
-      "artists": [
-        {
-          "name": "Dylan Triplett",
-          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "Feels Good Doin' Bad",
-      "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "May Be the Last Time",
         "url": "https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK"
       },
@@ -2215,22 +2199,6 @@
       "duration_ms": 233653,
       "name": "Shake Your Hips",
       "url": "https://open.spotify.com/track/2vb1sXfQJ3WsmevEvfnKeo"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Golden Girl Blues",
-        "url": "https://open.spotify.com/album/1iArO8gjyaE6y0MUW9H8QQ"
-      },
-      "artists": [
-        {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
-        }
-      ],
-      "duration_ms": 307320,
-      "name": "Golden Girl Blues",
-      "url": "https://open.spotify.com/track/6Zrmhv80Oc3ASwhRtjXDPF"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2255,18 +2223,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Goldfish Blues",
-        "url": "https://open.spotify.com/album/37ch8gg8aeKqab8LwgCPO4"
+        "name": "Who Is He?",
+        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
       },
       "artists": [
         {
-          "name": "Will Jacobs",
-          "url": "https://open.spotify.com/artist/7tzNAqDlMV5KlC7vRcSeN1"
+          "name": "Dylan Triplett",
+          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
         }
       ],
-      "duration_ms": 222733,
-      "name": "Dirty Dog",
-      "url": "https://open.spotify.com/track/0ndUl4xQ5DRt9yEVDV0I0s"
+      "duration_ms": 210946,
+      "name": "Feels Good Doin' Bad",
+      "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2287,6 +2255,38 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Golden Girl Blues",
+        "url": "https://open.spotify.com/album/1iArO8gjyaE6y0MUW9H8QQ"
+      },
+      "artists": [
+        {
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+        }
+      ],
+      "duration_ms": 307320,
+      "name": "Golden Girl Blues",
+      "url": "https://open.spotify.com/track/6Zrmhv80Oc3ASwhRtjXDPF"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Goldfish Blues",
+        "url": "https://open.spotify.com/album/37ch8gg8aeKqab8LwgCPO4"
+      },
+      "artists": [
+        {
+          "name": "Will Jacobs",
+          "url": "https://open.spotify.com/artist/7tzNAqDlMV5KlC7vRcSeN1"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Dirty Dog",
+      "url": "https://open.spotify.com/track/0ndUl4xQ5DRt9yEVDV0I0s"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Movin' On",
         "url": "https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6"
       },
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "I'm Slippin' In",
-      "url": "https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Chicago/The Blues/Today!",
         "url": "https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 144933,
       "name": "Hey, Hey",
       "url": "https://open.spotify.com/track/19gGTp7TUX1GaWw05Ji1IR"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "I'm Slippin' In",
+      "url": "https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51"
     },
     {
       "added_at": "2023-11-24 19:21:59",

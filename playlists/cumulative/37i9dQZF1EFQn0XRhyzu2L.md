@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-491 songs - 1 day 3 hr 3 min
+492 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 | 2024-02-27 |  |
 | [More To Learn](https://open.spotify.com/track/6aznIyz45o0yYLvMEHxRTj) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:46 | 2024-02-27 |  |
 | [Moving Along](https://open.spotify.com/track/4UQajPk0EPvbwWTl0fYi4C) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:17 | 2024-02-27 |  |
+| [Moxie](https://open.spotify.com/track/3mt2AxuyKl3sXsNL84XW6L) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 3:15 | 2024-03-29 |  |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2024-02-27 |  |
 | [Mrs\. Claus](https://open.spotify.com/track/0POWy59GCBJQjw6tcQVYxE) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:55 | 2024-02-27 |  |
 | [Music.](https://open.spotify.com/track/5wtEspIZ7Ox4KwmjeVsjee) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:35 | 2024-02-27 |  |

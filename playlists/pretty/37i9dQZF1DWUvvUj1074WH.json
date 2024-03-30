@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 177596,
+  "num_followers": 177686,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Q5ZTUyMjUyOTRmOTQwOWJmODg5ZjkyYjYyOTE4NjFiMGEyYThj",
+  "snapshot_id": "MCwyYjMyZTczMWIyZjY2YmM0NDUwZWQ2YzY5NjUwY2ZhNzIzZDEzNzEw",
   "tracks": [
     {
       "added_at": "2023-11-10 17:30:38",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 208400,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -167,22 +167,6 @@
       "duration_ms": 274706,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -295,6 +279,22 @@
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Canci\u00f3n Animal (Remastered)",
-        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "De M\u00fasica Ligera - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "The Man Who Sold The World - Live",
-      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "The Man Who Sold The World - Live",
+      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 110093,
-      "name": "Fell In Love With a Girl",
-      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 449160,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 110093,
+      "name": "Fell In Love With a Girl",
+      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -1551,18 +1535,34 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
       "artists": [
         {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+      "duration_ms": 213360,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "url": "https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Bohemian Like You",
+      "url": "https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Thirteen Tales From Urban Bohemia",
-        "url": "https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak"
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
       "artists": [
         {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
         }
       ],
-      "duration_ms": 211706,
-      "name": "Bohemian Like You",
-      "url": "https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF"
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Descanso Dominical / Une Femme Avec Une Femme",
-        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 310346,
-      "name": "La Fuerza del Destino (Live)",
-      "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "A Flock Of Seagulls (Deluxe)",
         "url": "https://open.spotify.com/album/4PBrFxguHrtne9aVbwWTh1"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 221798,
       "name": "I Ran (So Far Away) - Single Edit",
       "url": "https://open.spotify.com/track/0nIDF0qdk5iAIla7rZxxys"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Descanso Dominical / Une Femme Avec Une Femme",
+        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 310346,
+      "name": "La Fuerza del Destino (Live)",
+      "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2124,9 +2124,9 @@
           "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
+      "duration_ms": 238747,
+      "name": "Ch\u00fantaros Style",
+      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 206600,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2252,9 +2252,25 @@
           "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 238747,
-      "name": "Ch\u00fantaros Style",
-      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Chilanga banda",
+      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2295,38 +2311,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Chilanga banda",
-      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Caja de Canciones",
-        "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Amplified Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 236293,
       "name": "Missing - Todd Terry Remix",
       "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Caja de Canciones",
+        "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ"
     },
     {
       "added_at": "2023-11-10 17:30:38",

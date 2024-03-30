@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 86591,
+  "2024-03-30": 86689,
   "date_first_scraped": "2021-12-29",
   "description": "African dance party music from Paris to Abidjan. Photo : Tam Sir",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
@@ -665,7 +665,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 158654,
       "name": "CHINOISERIE",
       "url": "https://open.spotify.com/track/5kH3FDNKaeiABMm8lUlIWq"
@@ -1425,6 +1425,40 @@
       "duration_ms": 169730,
       "name": "Faut d\u00e9poser (Dingriii !!)",
       "url": "https://open.spotify.com/track/3eytZrHoUMaUjvV7bulqW0"
+    },
+    {
+      "album": {
+        "name": "Fimbu",
+        "url": "https://open.spotify.com/album/2jyl8R6S0zxmO240mNhG4R"
+      },
+      "artists": [
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        },
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
+        },
+        {
+          "name": "3xdavs",
+          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177632,
+      "name": "Fimbu",
+      "url": "https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV"
     },
     {
       "album": {

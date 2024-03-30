@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 1360182,
+  "2024-03-30": 1360477,
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nemzzz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Jimmy",
   "name": "Rap UK",
   "tracks": [
     {
@@ -3899,6 +3899,24 @@
       "duration_ms": 186555,
       "name": "Bedroom Bully",
       "url": "https://open.spotify.com/track/5Gzql3vS0WNfJtMNhXJF9n"
+    },
+    {
+      "album": {
+        "name": "Been A Minute",
+        "url": "https://open.spotify.com/album/0OzEJkpwtapBQPuYlPcOvy"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215973,
+      "name": "Been A Minute",
+      "url": "https://open.spotify.com/track/6XLhGACqeNj0WR1kCRc2po"
     },
     {
       "album": {
@@ -15124,6 +15142,28 @@
     },
     {
       "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/32ssgZlHoCbooKfrlctDbL"
+      },
+      "artists": [
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        },
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "How You Feeling?",
+      "url": "https://open.spotify.com/track/76i9UMCv33W5yX9U0n160A"
+    },
+    {
+      "album": {
         "name": "Hugo Boss",
         "url": "https://open.spotify.com/album/2tbwRNR171RhDxkeOpGop8"
       },
@@ -24221,7 +24261,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 202221,
       "name": "PARK CHINOIS",
       "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
@@ -25537,6 +25577,44 @@
       "duration_ms": 164357,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
+    },
+    {
+      "album": {
+        "name": "Where Should I Start?",
+        "url": "https://open.spotify.com/album/2KYh0FFlMpBWJ6d0lPUtc6"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Billy Billions",
+          "url": "https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8"
+        },
+        {
+          "name": "HitMan",
+          "url": "https://open.spotify.com/artist/5VHXV84wckS4wkzzPvSfqa"
+        },
+        {
+          "name": "Kay-O",
+          "url": "https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN"
+        },
+        {
+          "name": "Alchubbino",
+          "url": "https://open.spotify.com/artist/33oHR1Xi4O5sUl3iMo2VI4"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269787,
+      "name": "Prevail (with Unknown T, Billy Billions, HitMan, Kay-O & Alchubbino)",
+      "url": "https://open.spotify.com/track/43gzPI0Rii5GiLgimBVfDi"
     },
     {
       "album": {
@@ -29947,7 +30025,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -30347,7 +30425,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"

@@ -4,7 +4,7 @@
 
 > Hits virales, tendencias y challenges del futuro.
 
-301 songs - 15 hr 59 min
+302 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 | 2023-09-29 | 2023-12-20 |
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 | 2024-02-23 |  |
 | [MANDA BALA](https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [MANDA BALA](https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl) | 1:40 | 2024-01-16 | 2024-01-30 |
-| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-19 |  |
+| [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-22 |  |
+| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-19 | 2024-03-30 |
 | [MARIA MARIAH](https://open.spotify.com/track/4rvhvKePtR2c08LvALVLXV) | [AN0S 2002](https://open.spotify.com/artist/1cZBcvGgea6U5diHP9jdpi), [VISIXN](https://open.spotify.com/artist/0O5ZiaqbQiMFrYfjiyRihX), [codependency](https://open.spotify.com/artist/79Q0IhoK1JMM0c3jQrNvtF) | [2 hot 4 u](https://open.spotify.com/album/5Qdw3s4xfnB4MDug6NGIL1) | 1:58 | 2024-01-16 | 2024-01-19 |
 | [Maria Mariah](https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Maria Mariah](https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1) | 1:58 | 2024-01-05 | 2024-01-25 |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2023-09-29 | 2023-12-20 |

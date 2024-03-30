@@ -196,10 +196,28 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183554,
       "name": "Cop Car",
       "url": "https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn"
+    },
+    {
+      "album": {
+        "name": "Cop Car",
+        "url": "https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188672,
+      "name": "Cop Car",
+      "url": "https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF"
     },
     {
       "album": {

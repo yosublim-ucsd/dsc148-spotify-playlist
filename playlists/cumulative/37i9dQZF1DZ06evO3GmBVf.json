@@ -339,6 +339,32 @@
     },
     {
       "album": {
+        "name": "El Rey de la Kumbia",
+        "url": "https://open.spotify.com/album/45nzMcJJDoGA1zRIaKaIVq"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227347,
+      "name": "El Rey de la Kumbia",
+      "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
+    },
+    {
+      "album": {
         "name": "En El Avi\u00f3n",
         "url": "https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta"
       },

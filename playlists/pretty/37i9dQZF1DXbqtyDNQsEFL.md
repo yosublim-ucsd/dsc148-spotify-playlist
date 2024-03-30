@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,170 likes - 80 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,242 likes - 80 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 34 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
 | 35 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
 | 36 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 |
-| 37 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
-| 38 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 |
+| 37 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 |
+| 38 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
 | 39 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 |
-| 40 | [Lion of Judah](https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 5:16 |
-| 41 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 |
+| 40 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 |
+| 41 | [Lion of Judah](https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 5:16 |
 | 42 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 | 43 | [Ka Anyi Bulie \(feat\. Don Moen\)](https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Frankincense](https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh) | 3:29 |
 | 44 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Wayε Me Yie](https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Wayε Me Yie](https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr) | 5:03 |
 | 80 | [Great Are You Lord \- Live in Concert](https://open.spotify.com/track/5KPbQ8ZihfroeSeBsk4i9v) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 10:26 |
 
-Snapshot ID: `MCw3NjRjOWMwMTBmNTEyMTZiNWE0N2ZmMTQzYmNjMzJlYzAxOTgxOTg0`
+Snapshot ID: `MCxkZGJlZTI3ZTFlNzUyMjZjOTljNDkzMmRlZmNiN2MxMjAyMjA1Mzll`

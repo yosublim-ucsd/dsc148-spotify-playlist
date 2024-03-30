@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Purple Disco Machine, Roosevelt
 
-694 songs - 2 day 0 hr 6 min
+695 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Hideout](https://open.spotify.com/track/2rtJvndkVq6OnbDx8dvEvC) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Hideout](https://open.spotify.com/album/4QTeQy8YnR4XtFbcFBpzzy) | 4:06 | 2024-01-11 | 2024-03-18 |
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-15 | 2023-01-20 |
 | [High Speed](https://open.spotify.com/track/3pZRNzVrubYhMEEFnsxwVN) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [One More City](https://open.spotify.com/album/36B9hGfl53tY0tXhpAnzA5) | 4:32 | 2023-10-27 | 2024-01-19 |
-| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 | 2024-03-28 |  |
+| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 | 2024-03-28 |  |
+| [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 | 2024-03-28 | 2024-03-30 |
 | [Highlight \- Edit](https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Highlight](https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP) | 3:39 | 2023-07-20 | 2023-08-25 |
 | [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 | 2023-06-22 | 2023-07-07 |
 | [Hip Neck Spine \- Hercules & Love Affair Remix \(Radio Edit\)](https://open.spotify.com/track/7xt5cSFtWjQa7BKp0UX5kl) | [Daphne Guinness](https://open.spotify.com/artist/1jWYbHqxagu177jUkwbz5P), [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hip Neck Spine \(Hercules & Love Affair Remixes\)](https://open.spotify.com/album/4br5yMUiI1naPRE1zTC7ge) | 3:32 | 2023-08-24 | 2023-09-15 |

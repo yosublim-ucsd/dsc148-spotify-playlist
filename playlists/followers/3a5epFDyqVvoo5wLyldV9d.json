@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 39,
+  "2024-03-30": 39,
   "date_first_scraped": "2023-10-18",
   "description": "",
   "name": "Worldly",
@@ -11755,6 +11755,24 @@
       "duration_ms": 255734,
       "name": "Suplica Cearese",
       "url": "https://open.spotify.com/track/49vp8LnUSCJpZfS5wWiJfb"
+    },
+    {
+      "album": {
+        "name": "Beach Diggin', Vol. 5",
+        "url": "https://open.spotify.com/album/02vc1cQFePDzOSzt2YeFhh"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Marie Tala",
+          "url": "https://open.spotify.com/artist/7zoESCAeVJ8h0e1k62snyS"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276670,
+      "name": "Sweet Dole",
+      "url": "https://open.spotify.com/track/6R2XalnX5HjwhIhMSkxLM4"
     },
     {
       "album": {

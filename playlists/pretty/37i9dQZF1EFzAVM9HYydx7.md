@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,462 likes - 275 songs - 16 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463 likes - 275 songs - 16 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,16 +139,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 129 | [This is My Time](https://open.spotify.com/track/0NuO1kL7vrWOX8P63qsCsb) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [This is My Time](https://open.spotify.com/album/6nJWaWQT89YyRS9juVAvO0) | 2:15 |
 | 130 | [Draft Day](https://open.spotify.com/track/3W3FVHEDetkiRkkGKDmdir) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:26 |
 | 131 | [Serial Lover](https://open.spotify.com/track/5ftR963YlX88OeCAPnXG2Z) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:25 |
-| 132 | [Just Like You](https://open.spotify.com/track/1QDcKeZQcAdF6vnYqGqAjJ) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:16 |
-| 133 | [Duck Duck Goose](https://open.spotify.com/track/3pnSl76sUiuy1kEBiftn36) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Duck Duck Goose](https://open.spotify.com/album/63hKh0W6ASqIYDAxd2FTN1) | 3:00 |
+| 132 | [Duck Duck Goose](https://open.spotify.com/track/3pnSl76sUiuy1kEBiftn36) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Duck Duck Goose](https://open.spotify.com/album/63hKh0W6ASqIYDAxd2FTN1) | 3:00 |
+| 133 | [Just Like You](https://open.spotify.com/track/1QDcKeZQcAdF6vnYqGqAjJ) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:16 |
 | 134 | [Konclusions](https://open.spotify.com/track/5SON8GFVi5chitOTgM8QIe) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Konclusions](https://open.spotify.com/album/5rEVXMNutJcI3IR8uISsek) | 2:51 |
 | 135 | [Traumatized](https://open.spotify.com/track/3MhauDni0SoCRSfv3eSrts) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:10 |
 | 136 | [M.F.T.R.](https://open.spotify.com/track/4eeFwDF1OjhZtvPwhqhcr5) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [King Push – Darkest Before Dawn: The Prelude](https://open.spotify.com/album/4OoNqHBpbgDoqtN3u1IdiC) | 4:07 |
 | 137 | [Remedy \(feat\. Stevie Nicks\)](https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:29 |
 | 138 | [Where We Come From](https://open.spotify.com/track/2IjthaptX4H9KQwEj52Bqx) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [Where We Come From](https://open.spotify.com/album/66iVSYAzkm2gqBAvaBgaGj) | 2:29 |
 | 139 | [Grindin](https://open.spotify.com/track/5xghqAlCLGE8K8kzp76ZqL) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Loosing Myself](https://open.spotify.com/album/1MROip7w49w3Rlokn2gmXJ) | 5:06 |
-| 140 | [Win Some, Lose Some](https://open.spotify.com/track/35wGuOS7f10WZ3yfmbAzjD) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:04 |
-| 141 | [Dark Sky \(Skyscrapers\)](https://open.spotify.com/track/6ltwanTt7xjvZ3rPayPppS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 2:58 |
+| 140 | [Dark Sky \(Skyscrapers\)](https://open.spotify.com/track/6ltwanTt7xjvZ3rPayPppS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 2:58 |
+| 141 | [Win Some, Lose Some](https://open.spotify.com/track/35wGuOS7f10WZ3yfmbAzjD) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:04 |
 | 142 | [Get Like](https://open.spotify.com/track/466nTkRePUO44ptVwsvGYJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 2:50 |
 | 143 | [Dope Game](https://open.spotify.com/track/5QHiWzDN9z3qkLyvM1w7JK) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:39 |
 | 144 | [The Bloodiest](https://open.spotify.com/track/3eEMeaaT3otIimFCcYcS7i) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:03 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 274 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 275 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Mjg1Mjc5ODAsMDAwMDAwMDAzYjdjNWY0MTIyN2RmMjA1OTlhMzJlYTY5NDE4MWM2Zg==`
+Snapshot ID: `Mjg1Mjk0MjAsMDAwMDAwMDAwNzM1MWFhMTkwODg4OWNlNWJiNzI1MmU5ZDc5MDk2Yw==`

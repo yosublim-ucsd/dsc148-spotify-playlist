@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 2830,
+  "2024-03-30": 2902,
   "date_first_scraped": "2024-03-28",
   "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Dunsin Oyekan",
   "name": "Come Alive",
@@ -371,6 +371,24 @@
       "duration_ms": 433773,
       "name": "Haleluyah Mdumiseni (Live)",
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
+    },
+    {
+      "album": {
+        "name": "Hlala nami Jesu (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/4vET4sXpDK2XZpSTzBqm2V"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316096,
+      "name": "Hlala nami Jesu (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m"
     },
     {
       "album": {

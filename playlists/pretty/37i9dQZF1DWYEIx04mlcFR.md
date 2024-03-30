@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Noa Sainz en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,491 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,498 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 47 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 |
 | 48 | [Ahí Estaré](https://open.spotify.com/track/1HDSpp1hQxCuUloQCS7GcD) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Ahí Estaré](https://open.spotify.com/album/2XVv6MnogPJ1bOt298SqpX) | 4:00 |
 | 49 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 |
-| 50 | [mE vALe maDRE :\)](https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE vALe maDRE :\)](https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP) | 2:30 |
-| 51 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
+| 50 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
+| 51 | [mE vALe maDRE :\)](https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE vALe maDRE :\)](https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP) | 2:30 |
 | 52 | [¿Qué Me Dices?](https://open.spotify.com/track/3cnxEc8YNPt82RjqaUXPu8) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De Lo Normal](https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh) | 2:33 |
 | 53 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
 | 54 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 60 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 61 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
 | 62 | [Palabras De Papel \(Veneno\)](https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Felicidad y Otros Mitos](https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI) | 3:21 |
-| 63 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
+| 63 | [DIME X FAVOR](https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Angie](https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm) | [DIME X FAVOR](https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb) | 2:59 |
 | 64 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
 | 65 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
-| 66 | [Mala Suerte](https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Mala Suerte](https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte) | 3:00 |
-| 67 | [DIME X FAVOR](https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Angie](https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm) | [DIME X FAVOR](https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb) | 2:59 |
+| 66 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
+| 67 | [Mala Suerte](https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Mala Suerte](https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte) | 3:00 |
 | 68 | [La Lista](https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP) | 3:44 |
 | 69 | [Linda](https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Linda](https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx) | 2:21 |
 | 70 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
-| 71 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
-| 72 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
-| 73 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
+| 71 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
+| 72 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
+| 73 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
 | 74 | [Inhabitable](https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo) | 2:47 |
 | 75 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
 
-Snapshot ID: `MCwzMGNjMjA1MGFjNjRjYmUwNjAyNjE2NzZiMDU3MGVlYmRmY2M4NWY0`
+Snapshot ID: `MCw2NmMwYzkzNGUyNjBhYTZhOTVkYWNjMTQ0YTY5OWFiMDdjMzJmZjFl`

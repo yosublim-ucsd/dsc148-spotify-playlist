@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Matt Champion",
+  "description": "Genre-less. Quality first always. Cover: Saya Gray",
   "name": "POLLEN",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 230163,
       "name": "'ever do you want",
       "url": "https://open.spotify.com/track/6EOhtoZa8JRw4fP7TkjOZ1"
@@ -510,6 +510,24 @@
       "duration_ms": 217060,
       "name": "2",
       "url": "https://open.spotify.com/track/4wQ8fEI8BJyKD2V3So5yl0"
+    },
+    {
+      "album": {
+        "name": "QWERTY II",
+        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289760,
+      "name": "2 2 BOOTLEG",
+      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
     },
     {
       "album": {
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 140933,
       "name": "4eva",
       "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
@@ -2742,6 +2760,24 @@
       "duration_ms": 165752,
       "name": "AM/FM",
       "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
+    },
+    {
+      "album": {
+        "name": "AMAMA",
+        "url": "https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "AMAMA",
+      "url": "https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D"
     },
     {
       "album": {
@@ -6801,6 +6837,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+    },
+    {
+      "album": {
         "name": "Build Me a Way",
         "url": "https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4"
       },
@@ -7589,6 +7643,24 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/7cXfZiLW7cRc0Yc00FG1du"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4nqlGW7mq3SAOLkz2LSJIh"
+    },
+    {
+      "album": {
         "name": "Candy / How many miles",
         "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
       },
@@ -7666,6 +7738,24 @@
       "duration_ms": 80000,
       "name": "canine teeth",
       "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
     },
     {
       "album": {
@@ -11845,6 +11935,32 @@
     },
     {
       "album": {
+        "name": "Don't Check 4 Me",
+        "url": "https://open.spotify.com/album/45YCAdhDcais6gYe6cDIks"
+      },
+      "artists": [
+        {
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Don't Check 4 Me",
+      "url": "https://open.spotify.com/track/3MJhp4duKazKhnp0Of1mom"
+    },
+    {
+      "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/1513Yt291Vh9Di4lCEzKjS"
       },
@@ -13944,7 +14060,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 235500,
       "name": "Ezekiel's Wheel",
       "url": "https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0"
@@ -21388,7 +21504,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
@@ -32436,7 +32552,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 139130,
       "name": "Perfect Warning",
       "url": "https://open.spotify.com/track/4trl2Rd73t04VMnMDKbodO"
@@ -35258,7 +35374,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
@@ -37410,7 +37526,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 110842,
       "name": "Signs",
       "url": "https://open.spotify.com/track/46WV8PRXuffo5wdjUyBK9m"
@@ -38432,6 +38548,28 @@
       "duration_ms": 237240,
       "name": "So I Lie",
       "url": "https://open.spotify.com/track/1erZEUKhZ03cHHD0vOr8aQ"
+    },
+    {
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211846,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
     },
     {
       "album": {

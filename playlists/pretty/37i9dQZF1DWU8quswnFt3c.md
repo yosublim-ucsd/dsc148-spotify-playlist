@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,316 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,791 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 10 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 11 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 12 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
-| 13 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
-| 14 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
-| 15 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:55 |
+| 13 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
+| 14 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
+| 15 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:53 |
 | 16 | [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 |
 | 17 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
 | 18 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
 | 41 | [lavender salt](https://open.spotify.com/track/2zK2DTRbhHUYc7YpOlTZbk) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.1](https://open.spotify.com/album/1MiGKANNh5p67l9C8dRMh9) | 4:01 |
 | 42 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 |
-| 43 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 |
-| 44 | [In Denial](https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 4:25 |
+| 43 | [In Denial](https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 4:25 |
+| 44 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 |
 | 45 | [Black Car](https://open.spotify.com/track/4j6xtutAW62JXJemFchwyG) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Bye Bye Blue](https://open.spotify.com/album/5PNpLHVKnvb3qvQ20t7x6O) | 3:37 |
 | 46 | [Jiwa Raga](https://open.spotify.com/track/0H1SerRzt4EhRQjKyI9MYV) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Jiwa Raga](https://open.spotify.com/album/2OyOdqcclX9N968numajYc) | 3:36 |
-| 47 | [NEREDE](https://open.spotify.com/track/4kSvVBHYY1wiUahtT3WlRq) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [HABİBİ](https://open.spotify.com/album/5afjh5RhtYiKybYw9GzJl7) | 3:10 |
-| 48 | [Best Of Me](https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Best Of Me](https://open.spotify.com/album/2Zc3sdoMNkKC2O3Vlu6geL) | 3:16 |
+| 47 | [Best Of Me](https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Best Of Me](https://open.spotify.com/album/2Zc3sdoMNkKC2O3Vlu6geL) | 3:16 |
+| 48 | [NEREDE](https://open.spotify.com/track/4kSvVBHYY1wiUahtT3WlRq) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [HABİBİ](https://open.spotify.com/album/5afjh5RhtYiKybYw9GzJl7) | 3:10 |
 | 49 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
 | 50 | [My Theme Song](https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 
-Snapshot ID: `MCw4NWM1NmQxZTFlOTZhNWM3MTg0ZTFiYjA3ODkxM2YwYjhmMmYyYzhj`
+Snapshot ID: `MCxiNjU4YmI2YTZkNDJlYmRkZTY4ZDQwMGYzY2E2ZDE4Y2MzMjZkNjEw`

@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-261 songs - 15 hr 25 min
+262 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Christmas C’mon](https://open.spotify.com/track/60fWsdGYfKDNkNitrk1DIW) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 3:49 | 2021-12-24 |  |
 | [Christmas Day](https://open.spotify.com/track/58ePGDlx3W3o9sh8N1HLh3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:23 | 2021-12-24 |  |
 | [Christmas Dreamin'](https://open.spotify.com/track/18bB4dKdUBeLBsxT9DJFf6) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Christmas Dreamin'](https://open.spotify.com/album/5KzguAF3siR3o1tjXnVLjZ) | 3:14 | 2021-12-24 |  |
+| [Christmas Eve](https://open.spotify.com/track/4MNCKUrCsv7VDNabmXCAnv) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Christmas Eve](https://open.spotify.com/album/6MIp6XJV6GWHaVoJ0G1bY8) | 2:51 | 2023-12-15 |  |
 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 | 2023-11-03 | 2023-11-27 |
 | [Christmas Hits Different](https://open.spotify.com/track/2waUZdv6NOCZwUfUFCIJis) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Christmas Hits Different](https://open.spotify.com/album/3yZQBoubh5fwN1gFHI8f7m) | 3:28 | 2023-12-02 |  |
 | [Christmas in Hawaii](https://open.spotify.com/track/21Dnu9VPtg1qymVH0J9Xke) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Christmas In Hawaii](https://open.spotify.com/album/5NAheJ9w5wWNYhgoRzQkeU) | 4:03 | 2023-12-02 |  |
@@ -121,7 +122,7 @@
 | [Jesus You Come \- Acoustic](https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Jesus You Come \(Acoustic\)](https://open.spotify.com/album/5mGAL4sMvLRUEVjGMQ4ImI) | 4:38 | 2021-12-24 |  |
 | [Jingle Bells](https://open.spotify.com/track/5AmTQfek3YeRdUs1VejixX) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Jingle Bells](https://open.spotify.com/album/6gy8MNjcOIif0yaGrU6191) | 2:00 | 2023-11-17 |  |
 | [Jingle Bells](https://open.spotify.com/track/2kvXnUbRUnHS5195eyQp4a) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 1:49 | 2021-12-24 |  |
-| [Jingle Bells](https://open.spotify.com/track/0P6xicvZnvVwRCPv3307HM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:18 | 2022-12-11 |  |
+| [Jingle Bells](https://open.spotify.com/track/0P6xicvZnvVwRCPv3307HM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:18 | 2022-12-11 | 2024-03-30 |
 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2022-12-11 | 2023-08-31 |
 | [Joy \(To the World\)](https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Joy \(To the World\)](https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd) | 3:00 | 2021-12-24 | 2024-03-19 |
 | [Joy \(To the World\) \(feat\. Ryan Ellis\) \- \[Live\]](https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gloria \(Live\)](https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd) | 3:21 | 2022-12-11 | 2023-11-27 |

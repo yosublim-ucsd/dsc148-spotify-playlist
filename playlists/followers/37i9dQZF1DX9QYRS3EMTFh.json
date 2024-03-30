@@ -1,7 +1,7 @@
 {
-  "2024-03-29": 145838,
+  "2024-03-30": 145887,
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "description": "Les hits dancehall du moment. Photo : Maureen",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -163,7 +163,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 172970,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/22LdVB5ygfxXiaAJuStP2s"
@@ -1978,6 +1978,24 @@
     },
     {
       "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143669,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft"
+    },
+    {
+      "album": {
         "name": "DIRTY DANCE",
         "url": "https://open.spotify.com/album/5v27uyZL7mrN2hWUojOwg2"
       },
@@ -3303,7 +3321,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 209275,
       "name": "Is It Real?",
       "url": "https://open.spotify.com/track/4L5Gj9HqAEKMfCofzlAcMz"
@@ -4807,7 +4825,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 165446,
       "name": "Nintendo",
       "url": "https://open.spotify.com/track/21OaI5XKCWB7hZbcawR4eW"
@@ -4933,6 +4951,32 @@
       "duration_ms": 240119,
       "name": "Noumonss",
       "url": "https://open.spotify.com/track/7ay0AQpTnJaJUKrhAGFkJ4"
+    },
+    {
+      "album": {
+        "name": "NUMBA 1",
+        "url": "https://open.spotify.com/album/6vsqF5uWNdWr8xkUUHJvtJ"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "NUMBA 1",
+      "url": "https://open.spotify.com/track/37cfWnwQVm7vES4DrQOz9n"
     },
     {
       "album": {
@@ -5450,6 +5494,32 @@
     },
     {
       "album": {
+        "name": "Position",
+        "url": "https://open.spotify.com/album/3hjz0n4uH86XEROsOuuJsC"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Mafio House",
+          "url": "https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140834,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3VrKl2d7BARsapf9IELR6x"
+    },
+    {
+      "album": {
         "name": "Pretty Girl",
         "url": "https://open.spotify.com/album/6XblstmcRBD1twvqIpM0zY"
       },
@@ -5753,7 +5823,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 166857,
       "name": "Rayken X T-way (Badman)",
       "url": "https://open.spotify.com/track/4v4zQRI0LARHVF4qeY8X94"
@@ -6053,6 +6123,24 @@
       "duration_ms": 151475,
       "name": "Sammy Sosa",
       "url": "https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr"
+    },
+    {
+      "album": {
+        "name": "san vou",
+        "url": "https://open.spotify.com/album/3yBObEH8bc3RTLkFQNKOtX"
+      },
+      "artists": [
+        {
+          "name": "Daly",
+          "url": "https://open.spotify.com/artist/3f9kMCz94xuAamS24WbmGL"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "san vou",
+      "url": "https://open.spotify.com/track/0BAt71mdZWvonzQmHjE5HS"
     },
     {
       "album": {

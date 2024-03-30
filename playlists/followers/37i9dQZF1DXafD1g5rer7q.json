@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 394653,
+  "2024-03-30": 394768,
   "date_first_scraped": "2022-04-20",
   "description": "Create the new vibe by mixing in the retro sounds.",
   "name": "EDM Samplings",
@@ -1709,6 +1709,28 @@
       "duration_ms": 260509,
       "name": "High On You - dEVOLVE Remix",
       "url": "https://open.spotify.com/track/3saz9bCErSnjxUtebvPuqH"
+    },
+    {
+      "album": {
+        "name": "Higher Ground (feat. Roosevelt)",
+        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273293,
+      "name": "Higher Ground (feat. Roosevelt)",
+      "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"
     },
     {
       "album": {
@@ -3493,7 +3515,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 134516,
       "name": "Stuck In Limbo",
       "url": "https://open.spotify.com/track/7H5jEUSvLTATbZNsmQJup0"

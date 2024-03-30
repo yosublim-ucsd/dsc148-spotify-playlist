@@ -2,9 +2,9 @@
 
 ### [Ska Latino ](https://open.spotify.com/playlist/37i9dQZF1DXdNw9eeM3mpo)
 
-> 100% ska en español\. Las Víctimas del Dr\. Caligaris/El Gábinete del Dr\. Cerebro en portada.
+> 100% ska en español\. Tomo Como Rey en portada.
 
-325 songs - 19 hr 42 min
+326 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Como Te Voy a Olvidar \- Edit](https://open.spotify.com/track/1vNuHEbQONnN0DJUBKeUXJ) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Como Te Voy a Olvidar](https://open.spotify.com/album/0Z03xjCkEIUUBLi1Wtd1mA) | 4:14 | 2021-12-21 | 2023-04-21 |
 | [Confesión](https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [King Changó](https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ) | 5:40 | 2021-12-21 | 2023-04-22 |
 | [Contigo Me Encontré](https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Contigo Me Encontré](https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0) | 3:22 | 2023-06-02 |  |
-| [Contra A Chuva](https://open.spotify.com/track/0bphWBmRAlrtaHSn8RkKiw) | [Caos Lúdico](https://open.spotify.com/artist/1a0MjpF7cbE9CLRTg1xqR6) | [Contra A Chuva](https://open.spotify.com/album/2Og5XdEZ02QniorHJprnT7) | 4:07 | 2024-03-15 |  |
+| [Contra A Chuva](https://open.spotify.com/track/0bphWBmRAlrtaHSn8RkKiw) | [Caos Lúdico](https://open.spotify.com/artist/1a0MjpF7cbE9CLRTg1xqR6) | [Contra A Chuva](https://open.spotify.com/album/2Og5XdEZ02QniorHJprnT7) | 4:07 | 2024-03-15 | 2024-03-30 |
 | [Contrato Limosna](https://open.spotify.com/track/5Y71YQqU245tclgCxQvKpH) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Tiempos Difíciles](https://open.spotify.com/album/1PuQkJit26qRzAZkfhb3Oa) | 3:15 | 2021-12-21 | 2022-11-13 |
 | [Convaleciente](https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Convaleciente](https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th) | 3:26 | 2021-12-21 | 2022-07-29 |
 | [Corrupción Ska](https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Revolusound Contra Sistema](https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH) | 3:04 | 2021-12-21 |  |
@@ -321,6 +321,7 @@
 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 | 2021-12-21 |  |
 | [Vete Por Donde Viniste](https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Vete Por Donde Viniste](https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n) | 3:07 | 2024-03-04 |  |
 | [Vicio](https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV) | [Sonora de Llegar](https://open.spotify.com/album/1giTHiLOSaaB8TqchemtJf) | 2:46 | 2021-12-21 | 2023-03-02 |
+| [Vida de locos](https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Baile Infinito](https://open.spotify.com/album/1zmmya1G0UWUrDVyZ2MssT) | 3:15 | 2024-03-29 |  |
 | [Vira\-Lata](https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz) | [Buena Onda Reggae Club](https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz) | [Vira\-Lata](https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z) | 3:30 | 2023-09-29 | 2024-02-13 |
 | [Viviendo en Otro Lugar](https://open.spotify.com/track/6MfLxPLAUvcUsghmk8NRej) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Viviendo en Otro Lugar](https://open.spotify.com/album/6LvML7neTPNAsS5LakMI2h) | 3:39 | 2023-09-08 | 2024-01-20 |
 | [Voy a Volver](https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Voy a Volver](https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb) | 3:55 | 2021-12-21 | 2023-07-08 |

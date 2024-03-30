@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-246 songs - 13 hr 57 min
+247 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Poemas Que Colori](https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:30 | 2024-01-12 |  |
 | [Poemas Que Colori](https://open.spotify.com/track/7iTYig7zBQPrKj1Es9bBF5) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/5RtrcaolwWLZEvQccZMkfI) | 3:30 | 2022-04-01 | 2022-04-18 |
 | [Poeta](https://open.spotify.com/track/36Q1ny8Cn49aCcapMYZFO5) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Sessions \- Deb Ribeiro](https://open.spotify.com/album/5eJqY1VFQE7z7BsVKm1yOC) | 3:13 | 2022-04-01 | 2022-04-21 |
+| [Por Que Não](https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA) | [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Por Que Não](https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA) | 3:05 | 2024-03-29 |  |
 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 | 2022-02-18 |  |
 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 | 2023-08-18 | 2023-12-10 |
 | [Prova dos Nove](https://open.spotify.com/track/7KXjiSy1p54I0EIxW1zcwx) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/3hXXMdT2z0lunHoz5KalQY) | 4:32 | 2022-04-01 | 2022-04-13 |
@@ -206,7 +207,7 @@
 | [Some](https://open.spotify.com/track/0lKXNXRcX25Zklg0OHpqBQ) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Some](https://open.spotify.com/album/0igq8To2LQ8LhCI4dUgMCM) | 3:13 | 2022-04-01 | 2022-04-19 |
 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 4:01 | 2023-10-23 | 2023-10-25 |
 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 | 2023-10-02 |  |
-| [Sozinho \- Ao Vivo](https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco Do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK) | 3:55 | 2024-03-18 |  |
+| [Sozinho \- Ao Vivo](https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco Do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK) | 3:55 | 2024-03-18 | 2024-03-30 |
 | [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 | 2024-02-23 | 2024-03-24 |
 | [Só Vem](https://open.spotify.com/track/4OcpqJY4RHMa2BniHjrVqC) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 3:00 | 2023-10-13 | 2023-10-24 |
 | [Talvez](https://open.spotify.com/track/4DTttAJhLbK1BgDGkkt4mz) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Talvez](https://open.spotify.com/album/3PUFPJuGMM6r5l2XpovLTz) | 3:38 | 2022-04-01 | 2022-04-21 |

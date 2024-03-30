@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-607 songs - 1 day 12 hr 10 min
+609 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Drowning](https://open.spotify.com/track/30OdCACTnFCX3JeYfE6rva) | [Jay Statham](https://open.spotify.com/artist/4cf5GKzX208ouwqBzyaWu2) | [Drowning](https://open.spotify.com/album/1zkuFL6IoUYXDZDyCyjot8) | 3:13 | 2023-06-23 | 2023-09-16 |
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2022-02-04 | 2023-06-22 |
 | [Dust](https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu) | 3:06 | 2023-06-16 | 2023-12-13 |
-| [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-07-22 |  |
+| [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-07-22 | 2024-03-30 |
 | [Easy on the Eyes](https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:35 | 2022-05-27 | 2023-01-20 |
 | [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 | 2023-01-20 |  |
 | [El Paso](https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [El Paso](https://open.spotify.com/album/5MKHbKywea52kWXdbB78PD) | 3:21 | 2022-05-06 | 2022-07-29 |
@@ -298,7 +298,7 @@
 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 | 2021-12-17 | 2022-06-18 |
 | [jackson](https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 3:54 | 2022-08-19 | 2023-09-16 |
 | [January](https://open.spotify.com/track/4l7frKzWhjH6jPtBm99hcy) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [January](https://open.spotify.com/album/0Dxsw5DUGrP4qb1cQE0bV2) | 4:13 | 2022-02-04 | 2022-07-10 |
-| [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 |  |
+| [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 | 2024-03-30 |
 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 | 2022-04-22 | 2024-03-01 |
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2021-12-17 | 2022-03-19 |
 | [Keep up with a Cowgirl](https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Keep Up With A Cowgirl](https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg) | 3:33 | 2022-10-14 | 2023-07-08 |
@@ -405,6 +405,7 @@
 | [Priorities](https://open.spotify.com/track/6uUehOfuEUy1vQmkL8AwaE) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Priorities](https://open.spotify.com/album/6DFYfdqLixWqjs3JN23YgC) | 3:57 | 2022-10-14 | 2023-01-06 |
 | [Psycho](https://open.spotify.com/track/1ZdUYbLbavoymKh89vrQQ6) | [Holly Beth](https://open.spotify.com/artist/2HAdIEMUdYvHfSlWVmGexv) | [Psycho](https://open.spotify.com/album/49oLXMPHyB2lA89QvN3pI0) | 3:30 | 2022-02-18 | 2022-07-17 |
 | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG) | 3:15 | 2023-09-01 |  |
+| [Rainin On Me](https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Rainin On Me](https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt) | 4:12 | 2024-03-29 |  |
 | [Raised On Shotgun](https://open.spotify.com/track/2rAqSJk5tc42whU5nwnXZ1) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Raised On Shotgun](https://open.spotify.com/album/1mH6Gu1iYPpGQagJAAVLqT) | 3:36 | 2022-01-21 | 2022-03-19 |
 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2021-12-17 | 2022-03-19 |
 | [Real Damn Good](https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:02 | 2022-07-22 | 2023-09-02 |
@@ -495,6 +496,7 @@
 | [Terrifying Nature \- Radio Edit](https://open.spotify.com/track/3mZmMGoGqyVjjLRkR9ZP1l) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1) | 3:47 | 2022-04-01 | 2022-07-09 |
 | [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-08-05 | 2022-09-16 |
 | [Texas & You](https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas & You](https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ) | 3:41 | 2022-03-04 | 2022-10-18 |
+| [Texas Hold 'Em](https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas Hold 'Em](https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL) | 3:02 | 2024-03-29 |  |
 | [Texas Is My Home](https://open.spotify.com/track/0caKs7RDt6nIwdvkkXFnPD) | [Rich O'Toole](https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0) | [Texas Is My Home](https://open.spotify.com/album/7GEOpsPQMd9DIKQHIJcTRs) | 3:24 | 2023-04-28 | 2023-06-17 |
 | [Texas Moon](https://open.spotify.com/track/3W5rOs2jB7R3H0PEBxIiJ1) | [Caden Gillard](https://open.spotify.com/artist/0Aql1V8loJKhIE3fQuqKdK) | [Love & Heartbreak](https://open.spotify.com/album/7hPYGbGuvnijMDFS70BQHK) | 3:53 | 2022-10-14 | 2023-02-25 |
 | [That Ain't No Way To Go](https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [That Ain't No Way To Go](https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6) | 3:33 | 2023-02-17 | 2023-05-13 |

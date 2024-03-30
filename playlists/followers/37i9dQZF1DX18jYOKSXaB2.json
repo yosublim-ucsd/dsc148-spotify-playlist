@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 4009,
+  "2024-03-30": 4016,
   "date_first_scraped": "2022-08-06",
   "description": "consider this an RSVP to littest wedding parties ",
   "name": "Small Chops ",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-29",
       "duration_ms": 192000,
       "name": "14:02",
       "url": "https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6"
@@ -2047,6 +2047,28 @@
       "duration_ms": 198058,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
+    },
+    {
+      "album": {
+        "name": "Voice of the East",
+        "url": "https://open.spotify.com/album/6vf8dgYzchJ7Fk3ZIhWavR"
+      },
+      "artists": [
+        {
+          "name": "Ugoccie",
+          "url": "https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN"
+        },
+        {
+          "name": "Umu Obiligbo",
+          "url": "https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173209,
+      "name": "\u1ee4wa",
+      "url": "https://open.spotify.com/track/1kUzzhUpK7SbcJSaby03OD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX18jYOKSXaB2"

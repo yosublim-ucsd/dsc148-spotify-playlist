@@ -2,9 +2,9 @@
 
 ### [Volume Máximo](https://open.spotify.com/playlist/37i9dQZF1DX4908CEYEdlz)
 
-> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Kings of Leon
+> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Twenty One Pilots
 
-328 songs - 19 hr 59 min
+329 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-07-29 |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 | 2022-01-21 | 2023-01-28 |
 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 | 2023-06-23 | 2023-08-08 |
+| [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-03-29 |  |
 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-04-08 | 2022-04-29 |
 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 | 2022-07-29 | 2023-05-04 |
 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 | 2023-05-02 |  |
@@ -269,7 +270,7 @@
 | [Talk Sick](https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Talk Sick](https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5) | 4:34 | 2023-08-18 | 2023-11-05 |
 | [Talk Sick](https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:34 | 2023-11-03 |  |
 | [Talking To Ourselves \- Nowhere Sessions](https://open.spotify.com/track/5xY9w82ln57yAxtwNEU7ha) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Talking To Ourselves \(Nowhere Sessions\)](https://open.spotify.com/album/0cojTDESsFKop7BaFCdL8L) | 3:25 | 2022-01-14 | 2022-03-05 |
-| [Tear in My Heart \- MTV Unplugged Live](https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd) | 4:42 | 2023-04-21 |  |
+| [Tear in My Heart \- MTV Unplugged Live](https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd) | 4:42 | 2023-04-21 | 2024-03-30 |
 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 | 2022-01-14 | 2022-08-13 |
 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 | 2022-01-14 |  |
 | [The Antidote](https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Antidote](https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl) | 3:15 | 2022-01-14 | 2022-02-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,216 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,293 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 20 | [Vienes y Te Vas](https://open.spotify.com/track/188wTON3SZIoUVG39rINeq) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 3:05 |
 | 21 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Sole](https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok) | 3:13 |
 | 22 | [Zamba de Mi Esperanza \(feat\. Jorge Cafrune\)](https://open.spotify.com/track/5L0QkgiZv1k6KjIk4Aptms) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw), [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Todos Somos Chalchaleros](https://open.spotify.com/album/7LWRJuP4iXgbOH1Gt98GiO) | 3:54 |
-| 23 | [La Chicharra Cantora](https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1) | [Las Voces De Orán](https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8) | [Las Voces de Orán](https://open.spotify.com/album/6kzs4QXD6lHK3ZzuGbU5Zi) | 2:10 |
+| 23 | [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 |
 | 24 | [Chacarera del Olvido](https://open.spotify.com/track/1TsrW24N0hgAlOWNCTjIlL) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:08 |
-| 25 | [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 |
+| 25 | [La Chicharra Cantora](https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1) | [Las Voces De Orán](https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8) | [Las Voces de Orán](https://open.spotify.com/album/6kzs4QXD6lHK3ZzuGbU5Zi) | 2:10 |
 | 26 | [El Corralero](https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Hernan Figueroa Reyes El Unico](https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7) | 2:48 |
 | 27 | [Mi Luna Cautiva](https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Este Destino Cantor](https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3) | 3:34 |
 | 28 | [Para los Ojos Más Bellos](https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [30 Años Con el Canto](https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x) | 2:53 |
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 40 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan, Vol\. 2](https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU) | 3:38 |
 | 41 | [Todo Está en Vos](https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [La Llave](https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6) | 3:50 |
 | 42 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG) | [Cuti y Roberto Carabajal](https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc) | [Ahora](https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF) | 2:59 |
-| 43 | [El Pastor](https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:49 |
-| 44 | [La Flor Azul](https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 2:42 |
+| 43 | [La Flor Azul](https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 2:42 |
+| 44 | [El Pastor](https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:49 |
 | 45 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Zambas Inolvidables Y Una Canción Al Vino](https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz) | 2:57 |
 | 46 | [Cuando Llora Mi Guitarra](https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:40 |
 | 47 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 |
 | 48 | [Canto Nochero](https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 3:22 |
 | 49 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 |
-| 50 | [Agitando Pañuelos](https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Paisaje](https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a) | 4:15 |
-| 51 | [Anoche No Dormi](https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:41 |
-| 52 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
+| 50 | [Anoche No Dormi](https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:41 |
+| 51 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
+| 52 | [Agitando Pañuelos](https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Paisaje](https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a) | 4:15 |
 | 53 | [Canción Para Una Mentira](https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Canción Para Una Mentira](https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX) | 3:11 |
 | 54 | [Candombe del Olvido](https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru) | [Alfredo Zitarrosa](https://open.spotify.com/artist/4xQFKlQXtzYxfZOnk799m2) | [Antología III 1936\-1989](https://open.spotify.com/album/2sjqPvxZ3VVKgF5iaRVU6E) | 6:56 |
 | 55 | [El Que Toca Nunca Baila](https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:43 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Candombe para José](https://open.spotify.com/track/5EW32jbF3QnZWQHOQZaO4L) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Por Siempre....](https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T) | 2:57 |
 | 90 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 
-Snapshot ID: `MCw1YjA5Y2ZjMWQ5MmZkZGU2OGQ1YTQyZDEyNWQ5MjBiMmY0YTliOTYz`
+Snapshot ID: `MCwzMDg5MjA4ZmIxNTNkMmExZWIyNzVkYjNlYjY4Y2Y1MWQ2MTJhODY1`

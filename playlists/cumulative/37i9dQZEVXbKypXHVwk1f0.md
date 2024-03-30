@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,093 songs - 2 day 13 hr 32 min
+1,094 songs - 2 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,12 +104,13 @@
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-09-16 | 2021-09-20 |
 | [badtrip :\(](https://open.spotify.com/track/3t2ANh6j5JnTCDkVRBsukB) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:11 | 2022-04-02 | 2022-04-06 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-07-11 |
-| [Baja Lento](https://open.spotify.com/track/4lLTnC6yZGddintzDpHg1L) | [Alti Cardioking](https://open.spotify.com/artist/2UL4FCPglQSPnBUEt4OckP), [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Baja Lento](https://open.spotify.com/album/4lLhQ9iQCFW4JknPntrTFB) | 3:23 | 2024-03-11 |  |
+| [Baja Lento](https://open.spotify.com/track/4lLTnC6yZGddintzDpHg1L) | [Alti Cardioking](https://open.spotify.com/artist/2UL4FCPglQSPnBUEt4OckP), [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Baja Lento](https://open.spotify.com/album/4lLhQ9iQCFW4JknPntrTFB) | 3:23 | 2024-03-11 | 2024-03-30 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-09 | 2022-03-13 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-21 | 2022-05-08 |
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-03-27\* | 2021-12-29 |
 | [Barco de Papel](https://open.spotify.com/track/4Xv8GKn2YSnIWYFyBJji3S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Barco de Papel](https://open.spotify.com/album/1teao9NhhnP8BsAJQKBy7l) | 2:54 | 2023-11-11 | 2023-12-01 |
 | [BATICANO](https://open.spotify.com/track/5qzLdvRViHUrRNdkpakG7C) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:16 | 2023-10-14 | 2023-10-24 |
+| [BBY BOO \- REMIX](https://open.spotify.com/track/43PiEypaceH339CSNiggyj) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BBY BOO \(REMIX\)](https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9) | 4:35 | 2024-03-29 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-28 |  |
 | [BeBe](https://open.spotify.com/track/5ErzIyy0LikutXh8F7NUuH) | [Ferrillo](https://open.spotify.com/artist/4J1FnGr5MFc9SDRvylqomw) | [BeBe](https://open.spotify.com/album/22qIEYZXXobZ0KhiRypfbm) | 2:18 | 2023-09-07 | 2023-09-20 |
 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 | 2023-04-19 | 2023-04-21 |

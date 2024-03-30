@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Madvillain
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,418 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,753 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 38 | [Get Dis Money](https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
 | 39 | [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 |
 | 40 | [Peruvian Cocaine](https://open.spotify.com/track/3UFQM2oW4KXP3ZZ3jtBx2P) | [Immortal Technique](https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa), [Tonedeff](https://open.spotify.com/artist/6tJRz44hifa2rNseM7RoTt), [Pumpkinhead](https://open.spotify.com/artist/6DlRKPBLhSYo0KbxVPljBk), [Poison Pen](https://open.spotify.com/artist/5Pm1ivc6SEmNCl6Z8oXVGi), [Loucipher](https://open.spotify.com/artist/54rUhWtGTfR3GMKNyGXyRW), [Diabolic](https://open.spotify.com/artist/32syImTOvzksQre9uRT2L8), [C\-Rayz Walz](https://open.spotify.com/artist/1l4hfWLBSaYjCO8E0lzASA) | [Revolutionary Vol\. 2](https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0) | 4:48 |
-| 41 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
-| 42 | [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 |
+| 41 | [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 |
+| 42 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
 | 43 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
 | 44 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 |
 | 45 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Little Brother](https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 4:01 |
 | 50 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
 
-Snapshot ID: `MCw0YzYzMzMwNzUzNjlhMDYxNDI0MzhlNzUwZTZmYTc1MTFkMzEzYTc2`
+Snapshot ID: `MCwxZGMyZjRiMGQxMmQxM2U4YjJkYzEzOTJmNjViYzA5NGEwY2IyMTk0`

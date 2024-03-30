@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Guyon Waton
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Vadesta
 
-303 songs - 1 day 0 hr 49 min
+306 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Janji Temani](https://open.spotify.com/track/6JLmc1SXTnF79K8pSiiPCL) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Janji Temani](https://open.spotify.com/album/2cXVW2AxCA8kZqJD2UlqgN) | 4:16 | 2023-06-09 | 2024-03-09 |
 | [Janji Tok!](https://open.spotify.com/track/3DPoVLhW3Av9Esa3yMjYju) | [Cita Amelia](https://open.spotify.com/artist/71LNVQpsM6kpHm93kvAj40) | [Janji Tok!](https://open.spotify.com/album/1Me22JDZU4Plyp83MigBEW) | 3:54 | 2023-08-31 | 2023-10-08 |
 | [Juragan Empang](https://open.spotify.com/track/4oukOCxXwfaRx4Rqait0OE) | [Lala Widy](https://open.spotify.com/artist/39oBUORQAdXhOUCSABsmQK) | [Juragan Empang](https://open.spotify.com/album/0EYQcmzHvpQt38ztwlhjQr) | 3:50 | 2024-01-25 |  |
+| [Kabeh Nggo Koe](https://open.spotify.com/track/209P8tFH0UxWDP3MZ3Sbfg) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Kabeh Nggo Koe](https://open.spotify.com/album/3f42ksw5ZefYGVfMjuF41D) | 5:12 | 2024-03-29 |  |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 | 2022-08-26 |
 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 | 2023-11-09 |  |
 | [Kalah 2](https://open.spotify.com/track/1CHQEzT8SY3pPoBz9FuSgb) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Kalah 2](https://open.spotify.com/album/2XDM13lSNzlB3eIz1wJGoO) | 5:10 | 2024-02-29 |  |
@@ -101,8 +102,9 @@
 | [Kangen Bali Ndeso](https://open.spotify.com/track/1hr1xhmLrwPKee1YT5Z9US) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0sp7XtTa4O9BqJIDBi8FhQ) | 3:19 | 2023-05-04 | 2023-07-29 |
 | [Kangen Bali Ndeso](https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0hFBIgQMYvU0blNCEkoPGU) | 3:19 | 2022-09-01 | 2023-05-08 |
 | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/track/4YQ5EKOsHCNKZLIuUQkDAM) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv), [Ajeng Yulia Abdilla](https://open.spotify.com/artist/6KNevSfPmGyAXGulaz95Hl) | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/album/0YLvl6OFE7wBC1uFRQgNPY) | 5:39 | 2023-12-08 | 2024-02-09 |
-| [Kapang \- Acoustic Version](https://open.spotify.com/track/6f7p0FiKZsMyXF3kN8ZfQd) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Kapang \(Acoustic Version\)](https://open.spotify.com/album/6eLiJGKbsoNWGlByJ3CM40) | 4:39 | 2024-02-16 |  |
+| [Kapang \- Acoustic Version](https://open.spotify.com/track/6f7p0FiKZsMyXF3kN8ZfQd) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Kapang \(Acoustic Version\)](https://open.spotify.com/album/6eLiJGKbsoNWGlByJ3CM40) | 4:39 | 2024-02-16 | 2024-03-30 |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2022-05-26 |  |
+| [Kawanen Saur](https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu) | [Kawanen Saur](https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U) | 3:17 | 2024-03-29 |  |
 | [Kebacut Nyaman](https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Kebacut Nyaman](https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL) | 5:05 | 2023-08-11 |  |
 | [Kelangan 3](https://open.spotify.com/track/4sKISuQb1KssjLUu1BagA1) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan 3](https://open.spotify.com/album/1vf8SZEJNP0SBArwBW32pd) | 6:52 | 2022-05-26 | 2023-06-16 |
 | [Kelangan 3](https://open.spotify.com/track/5w6iYFIAy1jdixBCc3G0Eo) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan 3](https://open.spotify.com/album/7Cy5X87O5ago19SzaT353S) | 6:52 | 2023-09-07 | 2024-03-15 |
@@ -139,7 +141,7 @@
 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2022-07-28 | 2023-08-11 |
 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2022-05-26 | 2022-07-29 |
 | [Lintang Sewengi](https://open.spotify.com/track/4qYRw5qEaofw25P36WWfSR) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lintang Sewengi](https://open.spotify.com/album/5lgBjIdAiFNjBsw01LRqQe) | 5:05 | 2022-05-26 | 2023-08-11 |
-| [LINTANG TRESNO](https://open.spotify.com/track/2SaWykWk6mlPziz1jSJgvr) | [Intan Chacha](https://open.spotify.com/artist/5SpXroFYbrLLG5fgOBkTVk) | [LINTANG TRESNO](https://open.spotify.com/album/7pePOgLJLUMctA667qpAKi) | 5:09 | 2023-12-08 |  |
+| [LINTANG TRESNO](https://open.spotify.com/track/2SaWykWk6mlPziz1jSJgvr) | [Intan Chacha](https://open.spotify.com/artist/5SpXroFYbrLLG5fgOBkTVk) | [LINTANG TRESNO](https://open.spotify.com/album/7pePOgLJLUMctA667qpAKi) | 5:09 | 2023-12-08 | 2024-03-30 |
 | [Loro Ati](https://open.spotify.com/track/15kqYvm1FS9BbbYoRvLy5q) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Loro Ati](https://open.spotify.com/album/3U6Hsi4q8qxTbzwcLsLyVM) | 5:22 | 2023-02-09 | 2023-07-07 |
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 | 2023-06-01 | 2023-08-11 |
 | [Los Dol](https://open.spotify.com/track/4CQdZW0qvq4MqvilSGScEk) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Los Dol](https://open.spotify.com/album/0w5TDBNCSj2aasUNDFbhPv) | 4:48 | 2022-05-26 |  |
@@ -151,6 +153,7 @@
 | [MakSet \- Official Acoustic Version](https://open.spotify.com/track/5q6686dr84F47gxBwRNrSR) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [MakSet \(Official Acoustic Version\)](https://open.spotify.com/album/3wP5k8njLNMAeuNBwOC0H0) | 5:48 | 2023-11-09 |  |
 | [MANGSA OBAH](https://open.spotify.com/track/29wLB4HBboFcB4AtS0VqKf) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [MANGSA OBAH](https://open.spotify.com/album/1KgJqmdZ78QwkWvZj7VRuH) | 4:50 | 2023-10-06 | 2023-12-09 |
 | [Manot](https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [Manot](https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E) | 5:48 | 2023-09-15 |  |
+| [Manot](https://open.spotify.com/track/3D8qYZcWTMp93TCimjrjwO) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Manot](https://open.spotify.com/album/0HXJWLhewQ46fsmG2XbZrS) | 6:31 | 2024-03-29 |  |
 | [Mbok Sarijem](https://open.spotify.com/track/0oUW3yW2eADBRGTOpUGe1H) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Mbok Sarijem](https://open.spotify.com/album/0mLRi97B3aVyS9aTkcyUIR) | 6:35 | 2023-09-15 |  |
 | [Melas](https://open.spotify.com/track/1QtDIr6rKYTbK0aJ02BQi2) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Melas](https://open.spotify.com/album/7w6VPtAY5BAzaw4YvjrSPD) | 4:59 | 2024-01-18 |  |
 | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/track/6LKFSmhIt0htvIWjAgjr8R) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/album/6ui8Tm4QJu7qhf2bCgd3ZI) | 4:36 | 2022-05-26 | 2023-01-06 |
@@ -220,7 +223,7 @@
 | [Piye Kabare \- Keroncong](https://open.spotify.com/track/2NQtWhnnrkvlqmIGoZ0RSl) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Piye Kabare \(Keroncong\)](https://open.spotify.com/album/3ZDTkBf67dCJgwuDVZmgxP) | 5:39 | 2023-01-06 | 2023-08-11 |
 | [Piye Kabarmu](https://open.spotify.com/track/0Xwy9IezFUwQhOXDDaVPhs) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Piye Kabarmu](https://open.spotify.com/album/35g5oR2BuklU5XMQ7LBlNZ) | 5:36 | 2022-06-16 | 2023-08-11 |
 | [Prei Kanan Kiri](https://open.spotify.com/track/6P8sNmw5rUZaSrcF3SUTFT) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Prei Kanan Kiri](https://open.spotify.com/album/64EKhd4vAGVqGy4an2MKoC) | 5:20 | 2022-05-26 | 2022-08-19 |
-| [Pungkas](https://open.spotify.com/track/4sVArZtZaWWyAa1uRhuDtw) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Pungkas](https://open.spotify.com/album/2ZjIMz1UN6S7uQxMeX1pKi) | 4:36 | 2024-02-16 |  |
+| [Pungkas](https://open.spotify.com/track/4sVArZtZaWWyAa1uRhuDtw) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Pungkas](https://open.spotify.com/album/2ZjIMz1UN6S7uQxMeX1pKi) | 4:36 | 2024-02-16 | 2024-03-30 |
 | [Putri Shanghai](https://open.spotify.com/track/3WXVIA4xWlWVHgKQ7BzA1n) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Putri Shanghai](https://open.spotify.com/album/1XEzXnnc6uPNV3a7OkXzX5) | 3:00 | 2024-03-08 | 2024-03-22 |
 | [Putri Shanghai](https://open.spotify.com/track/5SDMXIi9qDUhFeAwkWiQus) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Putri Shanghai](https://open.spotify.com/album/63UvRwzqEhOIWgqGu5ZFig) | 3:00 | 2024-03-14 |  |
 | [Putusen Isun](https://open.spotify.com/track/0BOqquPAmK8CQfAakY2era) | [Suci Tacik](https://open.spotify.com/artist/3TKvWnJYLr7jadsDJkyNod) | [Putusen Isun](https://open.spotify.com/album/4FIbk7xS83FyEBDaoP0YV5) | 4:32 | 2022-07-29 | 2023-06-16 |
@@ -255,7 +258,7 @@
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2022-05-26 | 2022-08-26 |
 | [Sanes](https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sanes](https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf) | 5:01 | 2023-04-12 |  |
 | [Sanes](https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sanes](https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5) | 5:04 | 2023-04-13 |  |
-| [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2022-05-26 |  |
+| [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2022-05-26 | 2024-03-30 |
 | [Satru 2](https://open.spotify.com/track/1lYE7sWxl6fBUJejyubpSv) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/2tqDHQURR2zMy5Pb6eOQRN) | 4:48 | 2022-05-26 | 2023-05-08 |
 | [Satru 2](https://open.spotify.com/track/6iKnMyr7TkZxlHZD8ILew9) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/3PTPnXKrRbEtMIDuqTQd4c) | 4:48 | 2023-05-04 | 2023-12-09 |
 | [satru 2](https://open.spotify.com/track/06mmODvS7e6gFPoz0Y52Gj) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [satru 2](https://open.spotify.com/album/575vP6DZdLtJiMBTPMo5Hq) | 4:45 | 2022-07-01 | 2023-08-11 |

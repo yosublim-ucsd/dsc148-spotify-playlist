@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,094 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,098 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 89 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
 | 90 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 |
 
-Snapshot ID: `MCxiZjU4YzA3YmNkOGZiZTRjOTlmMWMwZTU5Y2NkY2Y4MjM0NWExN2Ji`
+Snapshot ID: `MCxiN2I1N2Y1YzZmNTI5OWJiYTE1YTRmMDdmZTY2ODA2NTIyOWZjYjk4`

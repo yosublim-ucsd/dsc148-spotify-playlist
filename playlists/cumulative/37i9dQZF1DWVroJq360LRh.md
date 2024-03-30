@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVroJq360LRh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVroJq360LRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVroJq360LRh)
 
-### [Pilates Acústico](https://open.spotify.com/playlist/37i9dQZF1DWVroJq360LRh)
+### [Acoustic Pilates \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWVroJq360LRh)
 
-> Músicas acústicas para acompanhar sua sessão de pilates.
+> Acoustic covers to accompany your pilates session.
 
 253 songs - 14 hr 4 min
 

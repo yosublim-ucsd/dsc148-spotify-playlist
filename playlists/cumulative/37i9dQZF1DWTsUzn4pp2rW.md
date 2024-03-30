@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-306 songs - 19 hr 47 min
+307 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,8 @@
 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 | 2021-11-19 |  |
 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 | 2022-11-24 | 2023-05-06 |
 | [When The Stars Align](https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [When The Stars Align](https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash) | 3:21 | 2021-11-19 |  |
-| [Wherever You're Going](https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Wherever You're Going](https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb) | 4:07 | 2024-01-19 |  |
+| [Wherever You're Going](https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Wherever You're Going](https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb) | 4:07 | 2024-01-19 | 2024-03-30 |
+| [Wherever You're Going](https://open.spotify.com/track/718bdRzYYMdIyu5FHunumv) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stealing Moments](https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt) | 4:07 | 2024-03-29 |  |
 | [Why Am I Doubting](https://open.spotify.com/track/1QJS8rCr4SvVunqh9fGTQw) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [Aspects](https://open.spotify.com/album/0JDjSDgxKY0HkKKpY11H1Q) | 4:12 | 2024-03-29 |  |
 | [Will you still love me tomorrow](https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 4:47 | 2022-11-24 | 2023-05-06 |
 | [Wintertime](https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:48 | 2022-07-14 | 2024-01-19 |

@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-96 songs - 5 hr 31 min
+97 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 | 2023-07-14 |  |
 | [Deixa o Amanhã pra Amanhã](https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Várias Ondas](https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam) | 3:13 | 2023-09-01 |  |
 | [Deixa O Amor Fluir](https://open.spotify.com/track/7B5LFKQJZkI1Vh82dIMSW7) | [MARCEL](https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Deixa O Amor Fluir](https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo) | 2:56 | 2023-07-03 | 2023-11-11 |
+| [Doce Amor \(Dulce Amor\)](https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd) | 5:12 | 2024-03-22 |  |
 | [Donavi](https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk) | [Msário](https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az), [Karina Buhr](https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm) | [Donavi](https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD) | 4:10 | 2023-08-04 | 2023-10-03 |
 | [Eleva](https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00) | [Refinaria](https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ), [Chico Martins](https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw) | [Eleva](https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA) | 3:34 | 2023-08-18 |  |
 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 | 2024-02-23 |  |
@@ -32,7 +33,7 @@
 | [Fica um Pouco Mais](https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr) | 2:43 | 2023-10-13 |  |
 | [Fica um Pouco Mais](https://open.spotify.com/track/3bN4uISvzllUNUQT9vtRtr) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/2nAtRgvDgHMnDGn2DVEtra) | 2:43 | 2023-07-03 | 2023-09-22 |
 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 | 2023-07-03 |  |
-| [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 | 2023-07-03 |  |
+| [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 | 2023-07-03 | 2024-03-30 |
 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 | 2023-07-03 |  |
 | [Fugir Com o Sol \- Acústico](https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Fugir Com o Sol \(Acústico\)](https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP) | 3:15 | 2023-07-03 |  |
 | [Garapuá \(Menina Linda\)](https://open.spotify.com/track/5ImZprMpF5w0sgaJpl3acM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Não Deixe Esse Instante Passar](https://open.spotify.com/album/3HqqzoqC8Es80AQAfcxsNn) | 3:04 | 2023-07-03 | 2023-07-13 |

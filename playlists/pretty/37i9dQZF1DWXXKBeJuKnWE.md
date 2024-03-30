@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,315 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,281 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 20 | [MAGNETIC](https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [MAGNETIC](https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy) | 3:12 |
 | 21 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
 | 22 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 |
-| 23 | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hate Me \(feat\. Loveless\)](https://open.spotify.com/album/77saHZy6WPP1JjEVPr4e74) | 3:41 |
+| 23 | [Hate Me](https://open.spotify.com/track/4iAS1uaOYUqLimqOwKMELn) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Hard Reset](https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm) | 3:41 |
 | 24 | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
 | 25 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 |
 | 26 | [Black Sheep](https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 |
 | 100 | [Break](https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:23 |
 
-Snapshot ID: `MCxmZGJkNGUzZjA1NjM0ZTMxNjQxNDlkM2JmYWE2ZGFlNmJkMzVjYzJi`
+Snapshot ID: `MCw5MzVkNjI1ZWZiZWExZmMwMjRmODY1MTdiMjEyZDZlZGI2NzQ1NDgw`

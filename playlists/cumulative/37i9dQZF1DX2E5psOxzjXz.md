@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Hasan Raheem
 
-256 songs - 14 hr 31 min
+257 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Bachi Patakhi](https://open.spotify.com/track/7h0YOhIsuPAf3SPh6n1N3Z) | [Yung Pakei](https://open.spotify.com/artist/1oXF5VeAEmTvXK4OwDLWdA) | [Bachi Patakhi](https://open.spotify.com/album/6yuIow8n4wJBOsgLYAuH1w) | 2:47 | 2021-12-06 | 2022-09-06 |
 | [Bachpan](https://open.spotify.com/track/1FWjCuVn0NslGCQdFXqCyH) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Bachpan](https://open.spotify.com/album/3aqdbJB0cwbGzxuYvwoc4U) | 3:35 | 2021-12-06 | 2023-04-09 |
 | [Bad](https://open.spotify.com/track/6M9vyiF3atXtfdYLHCYmx4) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bad](https://open.spotify.com/album/2N9Mjygl1Va2746JAslIqL) | 3:22 | 2021-12-06 | 2022-03-05 |
-| [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 | 2023-04-07 |  |
+| [Bandhan](https://open.spotify.com/track/1iWFL5RkNnvm5qJtqqWEOA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/0dPpLOrNoGOBqq3qyztbdG) | 4:50 | 2024-02-23 |  |
+| [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 | 2023-04-07 | 2024-03-30 |
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2023-03-12 |  |
 | [Beware](https://open.spotify.com/track/6d7ql8wBys4QN9BnIFPNwH) | [Gintaara](https://open.spotify.com/artist/2lyI6zXkfdsRwSjaihQkYa) | [Beware](https://open.spotify.com/album/6YBFth7Mtul3V9hDV7HkGF) | 5:10 | 2021-12-06 | 2022-06-11 |
 | [Bezaar Nahi](https://open.spotify.com/track/5LojDGdQJ21H1dJXgAJuXX) | [Honeyjamn](https://open.spotify.com/artist/1nZvrjuAjn0d1LHzoOjjUi), [Nadir Shahzad](https://open.spotify.com/artist/31POWkRUIfTWjL5QEmiGTS) | [Bezaar Nahi](https://open.spotify.com/album/4z23FFAXCBYUb9RDhO2CXF) | 3:25 | 2021-12-06 | 2022-06-04 |

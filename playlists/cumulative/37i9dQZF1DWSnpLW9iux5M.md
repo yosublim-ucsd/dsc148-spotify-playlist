@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-143 songs - 9 hr 40 min
+144 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [His Name Is Jesus](https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 4:32 | 2021-12-24 |  |
 | [Holiday Love \- Radio Edit](https://open.spotify.com/track/4zo7m7O0dB9oGaqp3Oixqh) | [Ted Winn](https://open.spotify.com/artist/0c86qGuVZWOdEl7Wdr6g4f) | [Holiday Love \(Radio Edit\)](https://open.spotify.com/album/74W9K9aGmaTKAlwhwYqE0C) | 2:50 | 2023-12-15 |  |
 | [Holy \(The Crispell Legacy\) \(feat\. Melvin Crispell III\)](https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Maranda Presents A Holy Christmas](https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN) | 6:49 | 2021-12-24 |  |
+| [Holy, Holy, Holy](https://open.spotify.com/track/39JZLgNvHP6jypN5PiW66J) | [Kurt Carr Singers](https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs) | [COME LET US WORSHIP](https://open.spotify.com/album/0WXjh791JiMVmWUWJ64YhU) | 4:58 | 2023-12-15 |  |
 | [Holy, Holy, Holy](https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y) | [Kurt Carr Singers](https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs) | [Gospel Heritage Christmas Vol\. 2](https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p) | 4:58 | 2021-12-24 | 2023-12-23 |
 | [Home for Christmas \(feat\. Joe\) \(feat\. Joe\)](https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Christmas Card](https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU) | 4:00 | 2021-12-24 |  |
 | [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 | 2022-11-26 |  |
@@ -73,7 +74,7 @@
 | [Jesus Is The Reason For The Season](https://open.spotify.com/track/1uIZzIYJFm7HpWMSZYvH1h) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 5:45 | 2021-12-24 |  |
 | [Jesus Oh What a Wonderful Child](https://open.spotify.com/track/6F6mzjDsaDHYxxFyWtMwTt) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT) | [Jesus Oh What a Wonderful Child](https://open.spotify.com/album/4MRqalm1uAT8EohleX3W9O) | 3:44 | 2023-11-03 |  |
 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 | 2021-12-24 |  |
-| [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/5ZSUJnyWR4cLijXtIdsuvY) | [The Collective](https://open.spotify.com/artist/4VJFjCxnsUyDyHdKGrxJIn), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0WovQO1a1e8ZUEIFKA9oGK) | 4:41 | 2023-12-15 |  |
+| [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/5ZSUJnyWR4cLijXtIdsuvY) | [The Collective](https://open.spotify.com/artist/4VJFjCxnsUyDyHdKGrxJIn), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0WovQO1a1e8ZUEIFKA9oGK) | 4:41 | 2023-12-15 | 2024-03-30 |
 | [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO) | [The Collective](https://open.spotify.com/artist/1MxfqwWO3lgJpvQuTxVTna), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0U8IUFHq5HDnMOTpH5HeVj) | 4:41 | 2021-12-24 | 2023-12-24 |
 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 | 2021-12-24 |  |
 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 | 2022-11-26 |  |

@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "All In One",
+        "url": "https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306866,
+      "name": "All In One",
+      "url": "https://open.spotify.com/track/7ycbGYrE2GMshCIiv2I33j"
+    },
+    {
+      "album": {
         "name": "All Of My Cryin'",
         "url": "https://open.spotify.com/album/2ioED6y5stjjXJYdRzkYLY"
       },
@@ -4578,7 +4596,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 238130,
       "name": "Chemtrails",
       "url": "https://open.spotify.com/track/7qdrwipeDyJ0rFsabJt310"
@@ -6393,6 +6411,24 @@
     },
     {
       "album": {
+        "name": "Your Mother's Name",
+        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139086,
+      "name": "Die Your Daughter",
+      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
+    },
+    {
+      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ"
       },
@@ -6566,7 +6602,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180512,
       "name": "Diving in After You",
       "url": "https://open.spotify.com/track/3EDpOGFvsriOrCQ9P8DJbj"
@@ -6624,6 +6660,28 @@
       "duration_ms": 224840,
       "name": "Do You Remember The Times",
       "url": "https://open.spotify.com/track/54MoFn8dZpwraIs6k4gqtR"
+    },
+    {
+      "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     },
     {
       "album": {
@@ -7865,6 +7923,24 @@
     },
     {
       "album": {
+        "name": "Everyone Out",
+        "url": "https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Everyone Out",
+      "url": "https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f"
+    },
+    {
+      "album": {
         "name": "Coloured Pills",
         "url": "https://open.spotify.com/album/6PAQidIQCcGE837tJGmE2M"
       },
@@ -8856,7 +8932,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 206533,
       "name": "Fly",
       "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
@@ -11007,6 +11083,24 @@
     },
     {
       "album": {
+        "name": "Huperzine Dreams",
+        "url": "https://open.spotify.com/album/2bZCSjKfyQKZ3bP3z8eQ25"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197157,
+      "name": "Huperzine Dreams",
+      "url": "https://open.spotify.com/track/3BhFoNMOqS7QZ3vhvxXlAj"
+    },
+    {
+      "album": {
         "name": "Hurting Kind",
         "url": "https://open.spotify.com/album/0q9OGda1zYFeTDKqEfa4HR"
       },
@@ -12488,7 +12582,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 177631,
       "name": "It Was Not A Beautiful Night",
       "url": "https://open.spotify.com/track/3vIgkoS6GYppSgmKH2btkn"
@@ -13309,6 +13403,24 @@
     },
     {
       "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/4YnYmg51rAmk9HVjTkg8yx"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315331,
+      "name": "Laugh",
+      "url": "https://open.spotify.com/track/1KFiQ4QHDouaNd0Yo5Qq7S"
+    },
+    {
+      "album": {
         "name": "Laura (feat. Remo Drive)",
         "url": "https://open.spotify.com/album/0fsIKo7CKxRxzR34aDeQhS"
       },
@@ -13689,6 +13801,24 @@
     },
     {
       "album": {
+        "name": "Like A Lesson",
+        "url": "https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199376,
+      "name": "Like A Lesson",
+      "url": "https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe"
+    },
+    {
+      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs"
       },
@@ -13740,6 +13870,24 @@
       "duration_ms": 119620,
       "name": "Live it Up",
       "url": "https://open.spotify.com/track/69T4LVwrEv0QNGHmlGaPnd"
+    },
+    {
+      "album": {
+        "name": "Live Today",
+        "url": "https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Live Today",
+      "url": "https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8"
     },
     {
       "album": {
@@ -14394,6 +14542,24 @@
       "duration_ms": 143493,
       "name": "Make Out",
       "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
+    },
+    {
+      "album": {
+        "name": "Make Ya Proud",
+        "url": "https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Make Ya Proud",
+      "url": "https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy"
     },
     {
       "album": {
@@ -15108,7 +15274,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180694,
       "name": "Millionaires",
       "url": "https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5"
@@ -15144,7 +15310,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 217320,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
@@ -15364,7 +15530,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 162969,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
@@ -18772,7 +18938,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 241447,
       "name": "River",
       "url": "https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu"
@@ -20325,6 +20491,24 @@
     },
     {
       "album": {
+        "name": "Mundane Pleasure",
+        "url": "https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143819,
+      "name": "Soak it In",
+      "url": "https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ"
+    },
+    {
+      "album": {
         "name": "Soak Up The Sun",
         "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
       },
@@ -20632,7 +20816,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 264933,
       "name": "Soul-net",
       "url": "https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz"
@@ -22400,7 +22584,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 156733,
       "name": "The Fringe",
       "url": "https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR"
@@ -22624,6 +22808,24 @@
       "duration_ms": 201200,
       "name": "The Thief",
       "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
+    },
+    {
+      "album": {
+        "name": "The Things We Say",
+        "url": "https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "The Things We Say",
+      "url": "https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q"
     },
     {
       "album": {
@@ -23804,7 +24006,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 200898,
       "name": "under your tongue",
       "url": "https://open.spotify.com/track/1gygvAVCrvf8UvM14yCnvh"
@@ -25718,6 +25920,24 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
+    },
+    {
+      "album": {
+        "name": "What's For Breakfast?",
+        "url": "https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3"
+      },
+      "artists": [
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191552,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/2MlEl6w75UpaclM13eiBzy"
     },
     {
       "album": {

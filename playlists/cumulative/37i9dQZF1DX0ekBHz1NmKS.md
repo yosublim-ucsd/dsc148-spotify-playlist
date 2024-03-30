@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,122 songs - 2 day 10 hr 51 min
+1,123 songs - 2 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-21 | 2023-10-06 |
 | [Dirt](https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dirt](https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB) | 3:38 | 2023-11-09 | 2024-02-09 |
 | [Dirty Words](https://open.spotify.com/track/3EPkZ3xV2ZmqkZ04m7GVp2) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Being the girl](https://open.spotify.com/album/5pe9tPuqHpPnThwNfVCPpf) | 3:13 | 2021-12-16 | 2022-03-11 |
+| [DNA](https://open.spotify.com/track/2Mf5xOPBxNKWaGuq2hQbEM) | [William Stridh](https://open.spotify.com/artist/5xDae0zB3YLr6lYvlMdpbR) | [DNA](https://open.spotify.com/album/22y2KgB85sd5ST2MkFIckw) | 3:10 | 2024-03-28 |  |
 | [Do I Make Sense](https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf) | [Helly](https://open.spotify.com/artist/3QGI6lFDEJq5o2yxhEtT16) | [Side Effects](https://open.spotify.com/album/0APh33IURQVK8qhsKVxq7g) | 3:24 | 2024-01-25 | 2024-02-25 |
 | [Do Yourself A Favor](https://open.spotify.com/track/3z6JKCqhbQn3ugsudRGYvj) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Do Yourself A Favor](https://open.spotify.com/album/2600bCiDKk5STWQQAjiU5Y) | 2:35 | 2021-12-16 | 2021-12-22 |
 | [Dom Kallar Mig För…](https://open.spotify.com/track/6RCOwKoJ4FFnPTT4cAoHWl) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Dom Kallar Mig För…](https://open.spotify.com/album/5E2K65cY1XssPNMQjPQrwZ) | 3:26 | 2021-12-16 | 2022-03-11 |
@@ -405,7 +406,7 @@
 | [Heartstrings](https://open.spotify.com/track/2pohuzN9EF18O5cFEi0qaW) | [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Heartstrings](https://open.spotify.com/album/328NMDlL1I9SemrTEUTQOw) | 2:40 | 2023-11-16 | 2024-02-09 |
 | [Heaven med dig](https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:03 | 2022-07-28 | 2023-10-06 |
 | [Heaven med dig](https://open.spotify.com/track/787m7kcyC5KB6IQ87jkwbX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Heaven med dig](https://open.spotify.com/album/2vzCnj1pPXHhvobiWvRFtK) | 3:03 | 2022-05-12 | 2022-07-29 |
-| [HEJDÅ\(:](https://open.spotify.com/track/0KGlp2zt6TB11PyaEIObiG) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [HEJDÅ\(:](https://open.spotify.com/album/14LyqJeiLSbRfRl3ZX52HG) | 3:11 | 2024-03-21 | 2024-03-29 |
+| [HEJDÅ\(:](https://open.spotify.com/track/0KGlp2zt6TB11PyaEIObiG) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [HEJDÅ\(:](https://open.spotify.com/album/14LyqJeiLSbRfRl3ZX52HG) | 3:11 | 2024-03-21 |  |
 | [Hela Vägen Upp](https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp](https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP) | 3:01 | 2022-10-15 | 2023-02-07 |
 | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/track/5PfBWTtklToHiwR6ykNfmE) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/album/7KTvVRwWzKe85EDEdMBrsl) | 3:01 | 2022-09-22 | 2022-10-13 |
 | [Hela världen väntar](https://open.spotify.com/track/72qqClHy6Qf9Thi58pc4lX) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Hela världen väntar](https://open.spotify.com/album/4xi6g2rx9wsMe4cz5zT6Av) | 3:18 | 2021-12-16 | 2022-03-11 |
@@ -653,7 +654,7 @@
 | [Misstag & Tragedier](https://open.spotify.com/track/3z44bQwmDknmAK6KEAeDoZ) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Misstag & Tragedier](https://open.spotify.com/album/53Mw4ZudvKcURPwGALAsUS) | 3:01 | 2024-03-14 |  |
 | [Misstag i Moskva](https://open.spotify.com/track/0cbBsBCCLSgUYJfqxeW2qJ) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Misstag i Moskva](https://open.spotify.com/album/36IuR33vblBXxjSHw6rcYK) | 3:26 | 2021-12-16 | 2022-04-01 |
 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 | 2021-12-16 | 2022-03-11 |
-| [Mitt inre barn](https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mitt inre barn](https://open.spotify.com/album/3CkzxQQdxTUmLLWbBkH7oq) | 4:00 | 2024-02-24 |  |
+| [Mitt inre barn](https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mitt inre barn](https://open.spotify.com/album/3CkzxQQdxTUmLLWbBkH7oq) | 4:00 | 2024-02-24 | 2024-03-30 |
 | [Mon amour](https://open.spotify.com/track/5ZTdySod7Vo16k6TH0qD31) | [RASK](https://open.spotify.com/artist/20WH7ULuCsW9nUtPh0lWxl) | [Mon amour](https://open.spotify.com/album/3Q9l5MLWf8dW7JO7rJHEZb) | 2:34 | 2024-02-24 | 2024-03-18 |
 | [Mood Swings](https://open.spotify.com/track/5G9FmeUt32pdxoO5Rk5ck4) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mood Swings](https://open.spotify.com/album/3JELtHOEOf6dDIJQCmar1O) | 2:15 | 2021-12-16 | 2022-01-11 |
 | [Moon Eyes](https://open.spotify.com/track/408rMnVFcIlyrme7bc1Ma0) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Moon Eyes](https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex) | 3:34 | 2023-10-06 | 2024-01-26 |
@@ -1128,7 +1129,7 @@
 | [är du galen](https://open.spotify.com/track/2KzhjUBXBUuyWVyBg08f5N) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [är du galen](https://open.spotify.com/album/7yJoazERY15lwxUdZCBSaN) | 2:42 | 2024-02-08 |  |
 | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI) | 2:59 | 2022-05-05 | 2022-11-14 |
 | [Åh maj](https://open.spotify.com/track/5ybpiXNHx0H2FqAEOeUrwU) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL) | [Åh maj](https://open.spotify.com/album/6g02MYlKBLLsOPQVsELSVP) | 2:50 | 2022-05-30 | 2022-07-27 |
-| [ÅNGRA](https://open.spotify.com/track/396pTsIds5nlqE93IZhFp7) | [INTI](https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D) | [ÅNGRA](https://open.spotify.com/album/7gpSlaLkiMoED5EvYBNgS9) | 2:02 | 2024-02-15 |  |
+| [ÅNGRA](https://open.spotify.com/track/396pTsIds5nlqE93IZhFp7) | [INTI](https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D) | [ÅNGRA](https://open.spotify.com/album/7gpSlaLkiMoED5EvYBNgS9) | 2:02 | 2024-02-15 | 2024-03-30 |
 | [Överdos](https://open.spotify.com/track/3Ty4UGx4epTWK3Yt1IFHRV) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Överdos](https://open.spotify.com/album/0GkO6ZGHN2mFjshFAGvphH) | 2:25 | 2021-12-16 | 2022-02-04 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

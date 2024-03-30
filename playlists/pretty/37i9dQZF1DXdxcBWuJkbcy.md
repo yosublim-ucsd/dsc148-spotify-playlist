@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,698,306 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,698,733 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 |
 | 80 | [Prada \(feat\. D\-Block Europe & Hypaton\) \- David Guetta & Hypaton Remix](https://open.spotify.com/track/5zfmr8f3jcnQSTX4sSbqks) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Prada \(feat\. D\-Block Europe & Hypaton\) \[David Guetta & Hypaton Remix\]](https://open.spotify.com/album/4kH630EFDyIlW8AH1yeDaQ) | 2:52 |
 
-Snapshot ID: `MCwxMThkOTA3ODQyNmNhYTc5MmNhNDgyMDA0M2U5NzYwMGM2MTI2NDY5`
+Snapshot ID: `MCw4MjAxNDI1ODAyOGMyZWQzNzJmMjYyNDJmM2Y0YjJkMDQ0ZjhiOGYy`

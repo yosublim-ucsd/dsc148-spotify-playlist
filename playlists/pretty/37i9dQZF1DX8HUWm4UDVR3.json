@@ -1,12 +1,12 @@
 {
   "description": "La pop fran\u00e7aise annonce la couleur. Photo : Louisette & Amaury",
-  "num_followers": 27766,
+  "num_followers": 27796,
   "original_name": "Couleur Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWUwNDlmNmJjMmJiM2NiZjJjN2IxOTgyNzg2ZmViNGRjYWY0ZmMx",
+  "snapshot_id": "MCwxMTE3ZjFjZDNhMDYwZjE5ODk4YjIwNWQ1MmMwMjRkMzE4MWJkNDA3",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -287,6 +287,22 @@
       "duration_ms": 223386,
       "name": "Les silences",
       "url": "https://open.spotify.com/track/7ohHHewIJczp32oPYHl6wv"
+    },
+    {
+      "added_at": "2024-03-29 07:55:41",
+      "album": {
+        "name": "Le pas",
+        "url": "https://open.spotify.com/album/2kizAvObb16TiKr4G2y6Yz"
+      },
+      "artists": [
+        {
+          "name": "Esken",
+          "url": "https://open.spotify.com/artist/6YASQSJPMeUFm0rpMXY0p1"
+        }
+      ],
+      "duration_ms": 156050,
+      "name": "Le Pas",
+      "url": "https://open.spotify.com/track/52N5YwXgVCV9dHWAOegiPr"
     },
     {
       "added_at": "2024-03-28 23:00:00",

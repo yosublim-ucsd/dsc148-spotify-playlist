@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,349 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,353 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [LE GUSTA QUE LA VEAN](https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [LE GUSTA QUE LA VEAN](https://open.spotify.com/album/52tk7FBtVA5xgzLfnzQ4jn) | 2:49 |
 | 50 | [Ronca](https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ronca](https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw) | 2:25 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDAxMDZjNGNjOThmMTBmZTZmOTc4NDgyOGQ5MGZiYzJjZg==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDBlZmM1ODI1MzBmYmFhYTUxYWEwMGM3NjljNDg2YWY1ZA==`

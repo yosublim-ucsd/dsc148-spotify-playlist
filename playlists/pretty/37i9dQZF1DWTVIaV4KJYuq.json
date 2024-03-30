@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 685559,
+  "num_followers": 685633,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzJiZTViNDM2ZjkwZmMxMzE0MjM2N2MwYTA4YTk3NWNmZjlmOGZj",
+  "snapshot_id": "MCw4NDE5MzBiZTZjZTBjYTBjZTY5MTRiZjQzN2MwZDU0MDhhMWIxNTUw",
   "tracks": [
     {
       "added_at": "2024-01-09 15:49:37",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
-        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 241960,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
+        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
+        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
+      "duration_ms": 241960,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "I Remember Everything",
         "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 207240,
       "name": "What's up",
       "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Judah & The Lion (Live)",
+        "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "I Won't Back Down - Live",
+      "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 162907,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "Judah & The Lion (Live)",
-        "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "I Won't Back Down - Live",
-      "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
     },
     {
       "added_at": "2024-01-09 15:49:37",

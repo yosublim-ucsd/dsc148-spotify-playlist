@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 50264,
+  "2024-03-30": 50288,
   "date_first_scraped": "2022-05-30",
   "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: dori)",
   "name": "K-R&B Now",
@@ -3535,6 +3535,24 @@
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "album": {
+        "name": "LOVE SONG",
+        "url": "https://open.spotify.com/album/4XUwu4Mka4jhAKHCCD2pKT"
+      },
+      "artists": [
+        {
+          "name": "HENSHE",
+          "url": "https://open.spotify.com/artist/2ZpgYd3xJrQDio2L4doyFY"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "LOVE SONG",
+      "url": "https://open.spotify.com/track/3c7lasFy0dwQCGsx0Bd3wp"
     },
     {
       "album": {

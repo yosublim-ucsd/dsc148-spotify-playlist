@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Conociendo Rusia
 
-590 songs - 1 day 8 hr 44 min
+591 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Liberado por un sueño](https://open.spotify.com/track/0YiyRdU3egpWq0ULQxKAA4) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:28 | 2023-05-19 | 2023-06-03 |
 | [Life](https://open.spotify.com/track/6mGhjylKtwyqiyaEhO5CB3) | [bearly](https://open.spotify.com/artist/4XKXIcyfPHauW8KznG2isn), [Christine Noel](https://open.spotify.com/artist/7K2Yw6RepVJb82r3mK93sB), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Life](https://open.spotify.com/album/5H3owcMi5LPfGvZUaD4ek3) | 4:00 | 2021-11-18 | 2022-07-29 |
 | [limpiando](https://open.spotify.com/track/3ROsbWQt2rWuKhzLfMpT0V) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [limpiando](https://open.spotify.com/album/09UrDdQC1evpCorbWSrPvR) | 2:45 | 2024-03-15 |  |
+| [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 | 2024-03-29 |  |
 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 | 2021-11-18 | 2022-11-25 |
 | [lo que el viento se llevó](https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [lo que el viento se llevó](https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG) | 3:18 | 2022-12-30 | 2023-02-13 |
 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 | 2021-11-18 | 2022-11-25 |
@@ -353,7 +354,7 @@
 | [Naufragar](https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Naufragar](https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc) | 4:03 | 2023-06-16 | 2024-02-10 |
 | [Nena, dime algo.](https://open.spotify.com/track/3arnuYBuNFads3xhmztypA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nena, dime algo.](https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY) | 2:36 | 2023-03-31 | 2024-01-27 |
 | [NIÑO ETERNO](https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:41 | 2023-01-13 | 2023-08-05 |
-| [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 | 2023-10-13 |  |
+| [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 | 2023-10-13 | 2024-03-30 |
 | [no hace falta saber](https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [no hace falta saber](https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW) | 2:48 | 2023-06-23 | 2023-08-25 |
 | [NO HAY SEÑAL](https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [NO HAY SEÑAL](https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph) | 2:41 | 2024-01-26 |  |
 | [No Huí](https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [El Individuo](https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O) | [No Huí](https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm) | 3:33 | 2023-09-22 | 2024-01-15 |

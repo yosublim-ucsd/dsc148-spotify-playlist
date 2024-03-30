@@ -2,9 +2,9 @@
 
 ### [Pop Frequency](https://open.spotify.com/playlist/37i9dQZF1DX1UnoGuyf388)
 
-> Pop music driving the current, every week\.  Cover: Tori Kelly
+> Pop music driving the current, every week\.  Cover: Myles Smith
 
-312 songs - 15 hr 44 min
+317 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 | 2023-12-08 | 2024-03-02 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2023-01-27 | 2023-04-01 |
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-03-01 |  |
+| [American High](https://open.spotify.com/track/0dfBhD0Cp8PvrScwz7DqNa) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [American High](https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV) | 2:58 | 2024-03-29 |  |
 | [Angel](https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Angel](https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz) | 3:39 | 2023-08-04 |  |
 | [Angel](https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Forever, Yours](https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG) | 2:46 | 2022-02-04 | 2023-01-28 |
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-16 | 2023-09-16 |
@@ -63,6 +64,7 @@
 | [Deep End](https://open.spotify.com/track/6HlE9t71z9DjGi7KqSyEpA) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Deep End](https://open.spotify.com/album/2HICqd0ltMKNrkhfmWSuKy) | 2:21 | 2022-02-04 | 2023-01-28 |
 | [Deserve It](https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Deserve It](https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO) | 3:13 | 2022-03-04 | 2022-07-29 |
 | [Deserve It](https://open.spotify.com/track/7CgPnaIjzpMpM5cbeJPKnI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 3:13 | 2022-04-22 | 2023-01-28 |
+| [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:23 | 2024-03-29 |  |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-24 | 2024-03-02 |
 | [Do Better](https://open.spotify.com/track/0exKvNvCeofzXEVlPIebaN) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Do Better](https://open.spotify.com/album/05FP2EnloDbiVO8nQBrf90) | 2:42 | 2022-02-11 | 2023-01-28 |
 | [do it all](https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3) | 1:36 | 2023-10-17 | 2024-03-02 |
@@ -115,6 +117,7 @@
 | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/track/4XflKK88OP3lWpwrQxg3ll) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/album/2lRF5yXvrn9obPYMbsH2ho) | 3:04 | 2023-12-15 |  |
 | [Growing Up](https://open.spotify.com/track/29cIUh0a7WpoW6ktRdlR0W) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Growing Up](https://open.spotify.com/album/55v3pVo041pTZ4NHJh7VAI) | 3:07 | 2024-01-26 |  |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-14 |  |
+| [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 | 2024-03-29 |  |
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-02-24 | 2023-10-28 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-02-04 | 2023-01-28 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:18 | 2022-02-04 | 2022-02-26 |
@@ -255,12 +258,14 @@
 | [STADIUMS](https://open.spotify.com/track/5ECoEOMNN2hUqNnwPOlOFa) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [STADIUMS](https://open.spotify.com/album/7bAb9vITHec88etTMsngoM) | 3:01 | 2023-02-10 | 2023-05-20 |
 | [Stand Up Eight](https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stand Up Eight](https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N) | 3:07 | 2023-04-07 | 2024-02-17 |
 | [Starting To Get To You](https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Starting To Get To You](https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO) | 2:41 | 2022-03-25 | 2023-01-28 |
+| [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 | 2024-03-29 |  |
 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2023-01-27 | 2023-05-06 |
 | [stranger danger!](https://open.spotify.com/track/1nyLZYAeEVQaTM0KMGJous) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2I7SwNPGo5QQupmfiXKE5d) | 3:41 | 2023-05-19 | 2023-07-08 |
 | [stranger danger!](https://open.spotify.com/track/4yk0t3ZG8vkoligoo7iAQB) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2AaauDVv5L5MJE7Teus6xh) | 3:41 | 2023-01-27 | 2023-05-26 |
 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 | 2023-09-16 |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2023-01-27 | 2023-08-19 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2022-02-04 | 2022-03-26 |
+| [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-03-29 |  |
 | [Symphony](https://open.spotify.com/track/72SK3g6dMnNTttykalnyeb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Symphony](https://open.spotify.com/album/5AdRhol1OoCKxwg1Eg0Z7S) | 2:41 | 2023-10-17 |  |
 | [Syrup](https://open.spotify.com/track/1ocLSTOw9RNTMmHfxkhc7t) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2BUrp7pIF6OTVS2Tu8JMpy) | 2:25 | 2022-02-04 | 2022-02-26 |
 | [Tainted Love](https://open.spotify.com/track/4ZGtGVsSemEMqVXU3cox7m) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Banish The Banshee](https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk) | 3:21 | 2023-01-27 | 2023-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Swastik The Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,832 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,914 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 67 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 68 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 |
 | 69 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 |
-| 70 | [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:19 |
+| 70 | [Noor](https://open.spotify.com/track/5LFYRTZ5bL1ErM2Kjvpu4W) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/3vUOmgB7uT9hSU3FESC5fX) | 3:19 |
 | 71 | [Khoya](https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM) | [Khoya](https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1) | 2:58 |
 | 72 | [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 |
 | 73 | [Sajna](https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Sajna](https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw) | 4:26 |
 | 74 | [Aaina](https://open.spotify.com/track/4qCfgOX1ggMp6D0rGWFUfQ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Aaina](https://open.spotify.com/album/6Ujs8343i3KHRv91qvUdAY) | 3:44 |
 | 75 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 |
 
-Snapshot ID: `MCxkZDQ4N2VjYTAzMGQ1NGJkNWZjMDgzZmI3N2Q3ZDJjNTZhNTMyM2Fh`
+Snapshot ID: `MCwzOWFlODQ4MGIxNGZhNjgxOWFhMGY3ZmUxNTQwOGU3NjEwY2MyYjIx`

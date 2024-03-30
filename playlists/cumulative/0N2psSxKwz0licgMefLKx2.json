@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Dylan Gossett",
+  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Bury Me In This Bar",
+        "url": "https://open.spotify.com/album/3RsL1OzH1QCe2sEco77786"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186413,
+      "name": "Bury Me In This Bar",
+      "url": "https://open.spotify.com/track/5yOZMG6WpXxrsiJldKI5EJ"
+    },
+    {
+      "album": {
         "name": "But I Got A Beer In My Hand",
         "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
       },
@@ -366,6 +384,24 @@
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
       "album": {
@@ -936,7 +972,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 191826,
       "name": "Hold On To It",
       "url": "https://open.spotify.com/track/5qteRK6fo4KC2DbJOP5uW6"
@@ -1248,7 +1284,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180181,
       "name": "Matching Tattoos",
       "url": "https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd"
@@ -1805,6 +1841,36 @@
     },
     {
       "album": {
+        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
+        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224456,
+      "name": "Ships That Don\u2019t Come In",
+      "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
+    },
+    {
+      "album": {
         "name": "Shoulda Known Better",
         "url": "https://open.spotify.com/album/4r7S8KMxwyEbtEGblQBZzG"
       },
@@ -2176,7 +2242,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 193133,
       "name": "Trucks, Ducks, Bucks & Beer",
       "url": "https://open.spotify.com/track/57cI63EBY6FqAhgzQxMSCT"

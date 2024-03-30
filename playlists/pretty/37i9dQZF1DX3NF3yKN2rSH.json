@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53372,
+  "num_followers": 53453,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGVmYmQ2NTIyMTdiMzdkZTc0OWIwYTVmZWE0NjdmYWJmM2Y3MmRh",
+  "snapshot_id": "MCxmZGQxZTgzZTdkMDg1MzU1ZWU2ZTc0NjMyMDdjZTlhOTFlMTMyYjk2",
   "tracks": [
     {
       "added_at": "2024-03-20 11:34:13",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 500453,
-      "name": "Waymaker - Bonus Track, Live",
-      "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 500453,
+      "name": "Waymaker - Bonus Track, Live",
+      "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
       },
       "artists": [
         {
-          "name": "Karima",
-          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
         }
       ],
-      "duration_ms": 317607,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1115,6 +1099,22 @@
       "duration_ms": 417160,
       "name": "Now Behold the Lamb - Live",
       "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
+      },
+      "artists": [
+        {
+          "name": "Karima",
+          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
+        }
+      ],
+      "duration_ms": 317607,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1151,22 +1151,30 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+        "name": "Cross Music",
+        "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
       "artists": [
         {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Dorinda Clark-Cole",
+          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
+        },
+        {
+          "name": "Sean Tillery",
+          "url": "https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3"
+        },
+        {
+          "name": "Changed",
+          "url": "https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm"
         }
       ],
-      "duration_ms": 240000,
-      "name": "He Paid It All",
-      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
+      "duration_ms": 338354,
+      "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
+      "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1203,30 +1211,22 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Cross Music",
-        "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
       "artists": [
         {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
         },
         {
-          "name": "Dorinda Clark-Cole",
-          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
-        },
-        {
-          "name": "Sean Tillery",
-          "url": "https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3"
-        },
-        {
-          "name": "Changed",
-          "url": "https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 338354,
-      "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
-      "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
+      "duration_ms": 240000,
+      "name": "He Paid It All",
+      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "My Very OWN Easter - EP",
         "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 467130,
       "name": "The Blood Will Never Lose Its Power",
       "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
+        "name": "Common Hymnal (Live)",
+        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Justin Gray",
+          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
+        }
+      ],
+      "duration_ms": 471217,
+      "name": "The Cross Made the Change - Live",
+      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
         "name": "Then Sings My Soul",
         "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
       },
@@ -1391,30 +1411,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Unproduced",
-        "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        },
-        {
-          "name": "Kierre Bjorn",
-          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
-        }
-      ],
-      "duration_ms": 290432,
-      "name": "Heaven's Here - Live",
-      "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "The Essential Fred Hammond",
         "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
       },
@@ -1443,6 +1439,30 @@
       "duration_ms": 127466,
       "name": "Oh Happy Day",
       "url": "https://open.spotify.com/track/4lUt7TEoHgt9zkCjhgzdnP"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Unproduced",
+        "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        },
+        {
+          "name": "Kierre Bjorn",
+          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
+        }
+      ],
+      "duration_ms": 290432,
+      "name": "Heaven's Here - Live",
+      "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1507,6 +1527,26 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
+        "name": "Live At Azusa 3",
+        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
+      },
+      "artists": [
+        {
+          "name": "Carlton Pearson",
+          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
+        },
+        {
+          "name": "Beverly Crawford",
+          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
+        }
+      ],
+      "duration_ms": 436960,
+      "name": "He Lives - Live",
+      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
         "name": "Conqueror",
         "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
       },
@@ -1539,26 +1579,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Live At Azusa 3",
-        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
-      },
-      "artists": [
-        {
-          "name": "Carlton Pearson",
-          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
-        },
-        {
-          "name": "Beverly Crawford",
-          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
-        }
-      ],
-      "duration_ms": 436960,
-      "name": "He Lives - Live",
-      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Classic Gold: We're Waiting",
         "url": "https://open.spotify.com/album/3NTA5iKL3O6gCkxyKRWEVC"
       },
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Common Hymnal (Live)",
-        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Justin Gray",
-          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
-        }
-      ],
-      "duration_ms": 471217,
-      "name": "The Cross Made the Change - Live",
-      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 207706,
       "name": "Grace",
       "url": "https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1643,22 +1659,6 @@
       "duration_ms": 297040,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Joshua's Troop",
-        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
-      },
-      "artists": [
-        {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "God Is Not Dead",
-      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Sing A Nu Song",
         "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 370826,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Joshua's Troop",
+        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
+      },
+      "artists": [
+        {
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "God Is Not Dead",
+      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
     },
     {
       "added_at": "2024-03-20 11:34:13",

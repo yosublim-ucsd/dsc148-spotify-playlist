@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Nicky Elisabeth. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Selena Faider. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -4796,7 +4796,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 188000,
       "name": "Brokenheart",
       "url": "https://open.spotify.com/track/4GpH27fAAp8PduSs9kB6CL"
@@ -5390,6 +5390,24 @@
       "duration_ms": 333622,
       "name": "Can't Stop The Night",
       "url": "https://open.spotify.com/track/7hPZUHWSGG5Kn9ZI50HvIx"
+    },
+    {
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/7cXfZiLW7cRc0Yc00FG1du"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4nqlGW7mq3SAOLkz2LSJIh"
     },
     {
       "album": {
@@ -6252,7 +6270,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 291555,
       "name": "Closer To",
       "url": "https://open.spotify.com/track/0Qgf2ph6bYXC0qqrNBdySz"
@@ -9330,7 +9348,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 257799,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/4iys0HYI3fyp5kkNBHOPt0"
@@ -13339,6 +13357,24 @@
     },
     {
       "album": {
+        "name": "FUKUMEAN - VIP",
+        "url": "https://open.spotify.com/album/7aAjTtiChV4b5ZNFFWi63m"
+      },
+      "artists": [
+        {
+          "name": "HMWME",
+          "url": "https://open.spotify.com/artist/6iUsKG741oVA0KXtElIpOo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155163,
+      "name": "FUKUMEAN - VIP",
+      "url": "https://open.spotify.com/track/2KWiozG67VXI7AF71mp4yV"
+    },
+    {
+      "album": {
         "name": "Fumble / Kinder Days",
         "url": "https://open.spotify.com/album/4VFrwqoE1VLX7H2LKSYZIb"
       },
@@ -16768,7 +16804,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192000,
       "name": "i feel alone, and it's cold outside",
       "url": "https://open.spotify.com/track/4uC8raOxBslxb2dK8nQhy8"
@@ -17888,6 +17924,24 @@
       "duration_ms": 174231,
       "name": "Insurrection - Mixed",
       "url": "https://open.spotify.com/track/2bLbC9cUYN1RA3QdWnED8G"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Sitdown",
+        "url": "https://open.spotify.com/album/3LoFgU9NAEJTOmtfMGLRxh"
+      },
+      "artists": [
+        {
+          "name": "Luzi Tudor",
+          "url": "https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396326,
+      "name": "Intergalactic Sitdown",
+      "url": "https://open.spotify.com/track/4JoCdrZ7cMCTPKAxL1hvNJ"
     },
     {
       "album": {
@@ -19616,7 +19670,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 139354,
       "name": "let me go*",
       "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
@@ -33893,6 +33947,24 @@
     },
     {
       "album": {
+        "name": "The Pressures of the Heart",
+        "url": "https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe"
+      },
+      "artists": [
+        {
+          "name": "Annie-Dog",
+          "url": "https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174178,
+      "name": "The Pressures of the Heart",
+      "url": "https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ"
+    },
+    {
+      "album": {
         "name": "EMOTIONS WE TELL OURSELVES IT IS NOT OK TO FEEL",
         "url": "https://open.spotify.com/album/5UyW47VQ7MS3PmKcHbCvEN"
       },
@@ -35657,6 +35729,24 @@
     },
     {
       "album": {
+        "name": "Under My Feet",
+        "url": "https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174588,
+      "name": "Under My Feet",
+      "url": "https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y"
+    },
+    {
+      "album": {
         "name": "Under the Sun EP",
         "url": "https://open.spotify.com/album/18UianFgcKByeelb2c1lWN"
       },
@@ -36910,7 +37000,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 204750,
       "name": "We Are The Risers",
       "url": "https://open.spotify.com/track/4fmjMZProIFigMcvyOILs6"

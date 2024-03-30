@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Tiësto x MOGUAI
 
-1,300 songs - 2 day 14 hr 9 min
+1,301 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,8 @@
 | [Gam Gam \(feat\. SMACK\) \- Slowed](https://open.spotify.com/track/0BIQan6lhyaH5TvUnSt6sR) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Gam Gam \(feat\. SMACK\) \[Slowed\]](https://open.spotify.com/album/1cnGtRbSpP5SKvQtuWru2u) | 4:13 | 2023-03-30 | 2023-04-14 |
 | [Gam Gam \(feat\. SMACK\) \- Sped Up Nightcore](https://open.spotify.com/track/4hFfL76BI1rcRWNlHTBWzJ) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Gam Gam \(feat\. SMACK\) \[Sped Up Nightcore\]](https://open.spotify.com/album/6JOJ844OUaNkeuObUYhtfS) | 2:59 | 2023-03-30 | 2023-04-14 |
 | [GANG GANG](https://open.spotify.com/track/7BerPxtzf632guxMa5EMXi) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [GANG GANG](https://open.spotify.com/album/3jlhWL3WyEtQxfSMphuhna) | 2:27 | 2023-08-17 | 2023-09-01 |
-| [GANGSTERS](https://open.spotify.com/track/7vlqXYFJ3RVRNQazTfdrb9) | [Emmett Zetto](https://open.spotify.com/artist/78r2aT2PaclPLTyNb3rel7), [Talentless](https://open.spotify.com/artist/5vjPH4JK9haGzLIa4C7snZ) | [GANGSTERS](https://open.spotify.com/album/3pVx5PG5rYsF3svebTGsHk) | 3:07 | 2024-03-28 |  |
+| [GANGSTERS](https://open.spotify.com/track/7vlqXYFJ3RVRNQazTfdrb9) | [Emmett Zetto](https://open.spotify.com/artist/78r2aT2PaclPLTyNb3rel7), [Talentless](https://open.spotify.com/artist/5vjPH4JK9haGzLIa4C7snZ) | [GANGSTERS](https://open.spotify.com/album/3pVx5PG5rYsF3svebTGsHk) | 3:07 | 2024-03-28 | 2024-03-30 |
+| [GANGSTERS](https://open.spotify.com/track/76sB1t6rkdYj1pSWHqQz8a) | [Emmett Zetto](https://open.spotify.com/artist/78r2aT2PaclPLTyNb3rel7), [Talentless](https://open.spotify.com/artist/5vjPH4JK9haGzLIa4C7snZ), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [GANGSTERS](https://open.spotify.com/album/1Y4XQ4bzDt9PSOx6RRR2p0) | 2:31 | 2024-03-29 |  |
 | [GASOLINA & COCAINA](https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [GASOLINA & COCAINA](https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az) | 3:12 | 2023-06-08 | 2023-06-23 |
 | [Get After It](https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get After It](https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI) | 2:58 | 2022-06-17 | 2022-07-02 |
 | [Get Back](https://open.spotify.com/track/1Nn3HZUQsvfMyjecb6aNwT) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7) | [Get Back](https://open.spotify.com/album/07V1UaiXDhGiz2NswDxzOx) | 2:04 | 2024-03-22 | 2024-03-29 |

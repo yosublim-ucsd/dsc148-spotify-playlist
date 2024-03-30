@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: STE
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,407 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,417 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Stand by](https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Stand by](https://open.spotify.com/album/29S37owZPBfL0m5qjcCM7H) | 3:05 |
 | 65 | [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 |
 
-Snapshot ID: `MCxjZmVlNGJkZDg4ZGUyOTNkM2Q1YjY1OGI4MTcxMTk0ZWQ4MDA3MDA2`
+Snapshot ID: `MCw0MTgwNGRkYmZhMjVlNmRjNGM1OTQ3YzVkN2I4YjJiYjcxZDZlNGE3`

@@ -1,5 +1,5 @@
 {
-  "2024-03-29": 0,
+  "2024-03-30": 0,
   "date_first_scraped": "2024-01-09",
   "description": "",
   "name": "Gemder",
@@ -21,6 +21,24 @@
       "duration_ms": 274166,
       "name": "10 Feet Tall",
       "url": "https://open.spotify.com/track/12GIjt8ykuIg50ERWM9DRI"
+    },
+    {
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164312,
+      "name": "Alien Boy",
+      "url": "https://open.spotify.com/track/58GydyrmBCL2dSAQWbTDHE"
     },
     {
       "album": {

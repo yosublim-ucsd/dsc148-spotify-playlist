@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=nzQVsr2cSGiH5obcgbfZ5w">Monaze</a>
 
-618 songs - 1 day 11 hr 44 min
+619 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 | 2024-03-01 |  |
 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2023-06-16 |  |
 | [We Worship You](https://open.spotify.com/track/1x2XWjn4AAeFTLZLfhbQf0) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Ruby Steph](https://open.spotify.com/artist/7d96r4QJVhTeZFHnDZDOG2) | [We Worship You](https://open.spotify.com/album/1nQfQaeAcEudQFq4OdvezF) | 6:36 | 2023-07-28 | 2023-09-08 |
+| [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 |  |
 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 | 2023-08-11 |  |
 | [What He Says](https://open.spotify.com/track/6K5t19OfWRrRTsvBk5u8Od) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [What He Says](https://open.spotify.com/album/1jJ1jrDmtORosDh9Uc3XY9) | 2:11 | 2023-09-01 | 2023-11-17 |
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-18 | 2023-09-15 |

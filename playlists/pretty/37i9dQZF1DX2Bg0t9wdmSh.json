@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 10628,
+  "num_followers": 10650,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTU2YzBmNjMyMjFhMmI4NWZkMTdjOTJlMTFiYzAyYTBhMDgxN2M3",
+  "snapshot_id": "MCw3YWE2ZTcyNTMwZWIzN2M1MTRiYTg3ZmIwYzA4YTVjNjQwMzYzNzBi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Collection One",
+        "url": "https://open.spotify.com/album/1VYRUsEjoHAnE1NNa0Tj3z"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/47MhyGA0XUtF9lZJtny3Pd"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Hit Bout It",
         "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 177158,
       "name": "Hit Bout It",
       "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Collection One",
-        "url": "https://open.spotify.com/album/1VYRUsEjoHAnE1NNa0Tj3z"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/47MhyGA0XUtF9lZJtny3Pd"
     },
     {
       "added_at": "2022-10-01 16:09:56",

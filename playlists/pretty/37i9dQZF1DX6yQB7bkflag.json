@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Camila Cabello",
-  "num_followers": 117121,
+  "num_followers": 117143,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGQzNWI3ZWFmOWEwYzRhMDU3NThmMzMzZTA4NGQxYWUwOWFkNDJm",
+  "snapshot_id": "MCw5OWJhN2RhZjU3N2YyOTQ1Y2RjMjUyYTNjODFlNDQ3ZDRjOGFhMTI5",
   "tracks": [
     {
       "added_at": "2024-03-28 17:58:59",
@@ -27,6 +27,30 @@
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
+    },
+    {
+      "added_at": "2024-03-28 17:58:59",
+      "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 273290,
+      "name": "NEURON (with Gaeko & YOON MIRAE)",
+      "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
     },
     {
       "added_at": "2024-03-28 17:58:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,067 likes - 45 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,245 likes - 45 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 38 | [Working for the Knife](https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:38 |
 | 39 | [Pearl Diver](https://open.spotify.com/track/6jaD8oGpAkZRvJaZ76amtb) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:44 |
 | 40 | [Humpty](https://open.spotify.com/track/1F0BkspIdyq3N7EyZ94Bfa) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:21 |
-| 41 | [Cop Car](https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd) | 3:03 |
+| 41 | [Cop Car](https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC) | 3:08 |
 | 42 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 |
 | 43 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 |
-| 44 | [Heat Lightning](https://open.spotify.com/track/01vuMD0IeeHeQTSUk0f7iK) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:51 |
-| 45 | [Valentine, Texas](https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:35 |
+| 44 | [Valentine, Texas](https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:35 |
+| 45 | [Heat Lightning](https://open.spotify.com/track/01vuMD0IeeHeQTSUk0f7iK) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:51 |
 
-Snapshot ID: `Mjg1MjcxNjAsMDAwMDAwMDBjMGUwYzE3OWQ3YWY2ZjA1NmE0OWU5MThlYzQzMzgwYQ==`
+Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDA2Yzg4MzkxNjhkOWVmMDllODc0N2Y0NWY3ZWIyYWI4OA==`

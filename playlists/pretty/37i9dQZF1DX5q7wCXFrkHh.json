@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 91401,
+  "num_followers": 91484,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGRhMDJmODU5Yjc2OTJhZWNjZTdlZjZjZjEyMzg5OGQ0NWM0MTFi",
+  "snapshot_id": "MCxiNDIyN2E5MDQ3MGYwMTgyZTliNGExZTAyOWM3YjA3Y2IyMzlhNjkz",
   "tracks": [
     {
       "added_at": "2024-03-20 12:33:31",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Dave Brubeck's Greatest Hits",
-        "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "I'm in a Dancing Mood",
-      "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Kenny Drew And His Progressive Piano",
         "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 204506,
       "name": "52nd Street Theme",
       "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Dave Brubeck's Greatest Hits",
+        "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "I'm in a Dancing Mood",
+      "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Gee Baby, Ain't I Good To You",
-      "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Breakin' It Up",
         "url": "https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 236000,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Gee Baby, Ain't I Good To You",
+      "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
+        "name": "The Shearing Piano",
+        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 301773,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
-        "name": "The Shearing Piano",
-        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+        "name": "Jazz Impressions Of Black Orpheus",
+        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 392840,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w"
+      "duration_ms": 318400,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus",
-        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 318400,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
+      "duration_ms": 392840,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Profile",
-        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
-      },
-      "artists": [
-        {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "The Art of the Trio, Vol. 1",
         "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 391426,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Profile",
+        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24"
-      },
-      "artists": [
-        {
-          "name": "Bobby Timmons Trio",
-          "url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda"
-        }
-      ],
-      "duration_ms": 407306,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 278640,
       "name": "\u00datviklingssang",
       "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24"
+      },
+      "artists": [
+        {
+          "name": "Bobby Timmons Trio",
+          "url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda"
+        }
+      ],
+      "duration_ms": 407306,
+      "name": "They Didn't Believe Me",
+      "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"
     },
     {
       "added_at": "2024-03-20 12:33:31",
