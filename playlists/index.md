@@ -1,4 +1,4 @@
-## Playlists \(7683\)
+## Playlists \(7684\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7432,6 +7432,7 @@
 - [soft life](/playlists/pretty/37i9dQZF1DX5biIUI9J7lF.md)
 - [solo para almas retro](/playlists/pretty/37i9dQZF1DX4XgoRkwyon9.md)
 - [something](/playlists/pretty/0PYCUHkc4UoXrxzNRu59az.md)
+- [sonder](/playlists/pretty/37i9dQZF1DX5inthBIooNX.md)
 - [songs to fall in love to](/playlists/pretty/3wI0prya1veVHKQOtLbmxB.md)
 - [songs to scream in the car](/playlists/pretty/37i9dQZF1DX4mWCZw6qYIw.md)
 - [soundbeams](/playlists/pretty/37i9dQZF1DWWpPDyGY7zGd.md)
