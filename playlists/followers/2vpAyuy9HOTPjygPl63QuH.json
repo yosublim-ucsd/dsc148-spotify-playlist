@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 9682,
+  "2024-03-31": 9697,
   "date_first_scraped": "2022-05-02",
   "description": "The freshest tech house &amp; techno music \ud83d\udd25\ud83d\udd0a | tech house - house - techno - rave - party - bangers - tiktok techno - dance | Submit via Instagram: @subshiftmusic",
   "name": "Tech House Shifters",
@@ -189,6 +189,24 @@
       "duration_ms": 192755,
       "name": "365",
       "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
+    },
+    {
+      "album": {
+        "name": "4 The Trouble",
+        "url": "https://open.spotify.com/album/3RnlEPL13M1cxDGzS26U2h"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "4 The Trouble",
+      "url": "https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz"
     },
     {
       "album": {
@@ -515,7 +533,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 179076,
       "name": "Addicted To The Game",
       "url": "https://open.spotify.com/track/4jjoLrYnw6vkNStklLARp0"
@@ -841,6 +859,28 @@
       "duration_ms": 274687,
       "name": "All Day Dancing",
       "url": "https://open.spotify.com/track/3R1ZfO0TSbHR5TR4zKQQPv"
+    },
+    {
+      "album": {
+        "name": "All For You (feat. Joanna Cooke)",
+        "url": "https://open.spotify.com/album/69zSGQrpqTFVZFswAorvLu"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        },
+        {
+          "name": "Joanna Cooke",
+          "url": "https://open.spotify.com/artist/7EyKy53TsVFLJFZFyYzBZQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "All For You (feat. Joanna Cooke)",
+      "url": "https://open.spotify.com/track/1lsDLxEZdtd2EgpN3j7kGZ"
     },
     {
       "album": {
@@ -2739,7 +2779,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 169302,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3tjTIM2vBk6zm0L5249ugM"
@@ -5965,7 +6005,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 196875,
       "name": "Dale",
       "url": "https://open.spotify.com/track/5ZScfMuHGy2Z8Ryc3B0pXo"
@@ -6605,7 +6645,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 173809,
       "name": "Deepest Of Desires",
       "url": "https://open.spotify.com/track/21obyeTlbvvROLG7v90mbn"
@@ -7511,7 +7551,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 135426,
       "name": "Don't Depend On You",
       "url": "https://open.spotify.com/track/6RsE33wpnew2MrBhmInRcl"
@@ -7551,7 +7591,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 199694,
       "name": "Don't Phunk With My Heart",
       "url": "https://open.spotify.com/track/4XGX7p8nhCJwtGsM5XEvtm"
@@ -8305,7 +8345,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 229438,
       "name": "East Bounce",
       "url": "https://open.spotify.com/track/6RwZ2HhlgX1MDo3l5ek0a4"
@@ -10790,6 +10830,28 @@
     },
     {
       "album": {
+        "name": "Frikitona (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191718,
+      "name": "Frikitona - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY"
+    },
+    {
+      "album": {
         "name": "Front Row People",
         "url": "https://open.spotify.com/album/115kw5wV0K6sneZJrr24b7"
       },
@@ -10805,6 +10867,28 @@
       "duration_ms": 208333,
       "name": "Front Row People",
       "url": "https://open.spotify.com/track/59Cn95A0yDjJ9wNcmVnjKN"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        },
+        {
+          "name": "Moonage",
+          "url": "https://open.spotify.com/artist/3IA8v0laMEfTiVfDPekUDX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i"
     },
     {
       "album": {
@@ -11089,6 +11173,28 @@
       "duration_ms": 183318,
       "name": "Gas Pedal - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
+    },
+    {
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193218,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
     },
     {
       "album": {
@@ -12029,6 +12135,24 @@
       "duration_ms": 165758,
       "name": "Goin",
       "url": "https://open.spotify.com/track/0aTEPIRV4B5iOrylV8FFcH"
+    },
+    {
+      "album": {
+        "name": "Going Higher",
+        "url": "https://open.spotify.com/album/5gZowHgzqTuvLWw5Qj29Ix"
+      },
+      "artists": [
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199606,
+      "name": "Going Higher",
+      "url": "https://open.spotify.com/track/5Dolr1aejlhKLdqEczaa6e"
     },
     {
       "album": {
@@ -13135,6 +13259,28 @@
       "duration_ms": 216000,
       "name": "Hijos De La Noche",
       "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
+    },
+    {
+      "album": {
+        "name": "Hit The Dancefloor",
+        "url": "https://open.spotify.com/album/0KRuehOfIzHzTRCZvBd6LZ"
+      },
+      "artists": [
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        },
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Hit The Dancefloor",
+      "url": "https://open.spotify.com/track/4MVBd78v5QSkGV2vrKUARQ"
     },
     {
       "album": {
@@ -15433,7 +15579,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201928,
       "name": "Jamming - FISHER Rework",
       "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
@@ -15942,6 +16088,24 @@
     },
     {
       "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/1vgL9oPn4HIi62mPSntLBP"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG"
+    },
+    {
+      "album": {
         "name": "Amazons",
         "url": "https://open.spotify.com/album/6OqbMo65FexUwWTcwmVAZU"
       },
@@ -16326,6 +16490,28 @@
     },
     {
       "album": {
+        "name": "Le Negra",
+        "url": "https://open.spotify.com/album/2FvrOZF3pfi3kG5BrKKRE7"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Justo Valdes",
+          "url": "https://open.spotify.com/artist/0t4tk9VrtbCUF4CNyjPDbj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "La Negra",
+      "url": "https://open.spotify.com/track/4By7hTwSzN65FT3wfgDUCp"
+    },
+    {
+      "album": {
         "name": "La Ni\u00f1a",
         "url": "https://open.spotify.com/album/0vWbeg0nOXr1TUIi7jMRym"
       },
@@ -16640,6 +16826,24 @@
     },
     {
       "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/4x5HF1Lqn62Ho9UX4cldfl"
+      },
+      "artists": [
+        {
+          "name": "Adapter",
+          "url": "https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157968,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/1T5LUkkRznYT02rXkK0yHT"
+    },
+    {
+      "album": {
         "name": "Left To Right",
         "url": "https://open.spotify.com/album/61od84WRFRHI9wql8xX1b2"
       },
@@ -16833,7 +17037,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 184761,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/6fiQRSsYBRrRY8E2aF4OsJ"
@@ -18400,6 +18604,24 @@
     },
     {
       "album": {
+        "name": "Luv U",
+        "url": "https://open.spotify.com/album/5WBCq4QKa4peXD8ukBidjd"
+      },
+      "artists": [
+        {
+          "name": "Lowdown",
+          "url": "https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157560,
+      "name": "Luv U",
+      "url": "https://open.spotify.com/track/6VzBbDQFQD4YrdxppnTFoU"
+    },
+    {
+      "album": {
         "name": "Ma Boogie",
         "url": "https://open.spotify.com/album/0uKvspx1QMjWriiIsiWBxX"
       },
@@ -18739,7 +18961,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 202500,
       "name": "Make You Sweat - Radio-Edit",
       "url": "https://open.spotify.com/track/1XRyZ29XZygcWE44rwxX0j"
@@ -19733,7 +19955,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 200307,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
@@ -19923,6 +20145,28 @@
       "duration_ms": 179047,
       "name": "Morenita - Matroda Remix",
       "url": "https://open.spotify.com/track/4Qa9y4SXsLBAhcRZUdtpOw"
+    },
+    {
+      "album": {
+        "name": "No Big Deal",
+        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339792,
+      "name": "Motivashun",
+      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
     },
     {
       "album": {
@@ -24560,6 +24804,28 @@
     },
     {
       "album": {
+        "name": "Rave Is The Weapon",
+        "url": "https://open.spotify.com/album/34sqVY63xSSYwizUAjiLTp"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "Rave Is The Weapon",
+      "url": "https://open.spotify.com/track/7kCGuVumIpjWec9aexfCLU"
+    },
+    {
+      "album": {
         "name": "Rave W U",
         "url": "https://open.spotify.com/album/4d4kanxcEjZMbpr83g9UDs"
       },
@@ -27321,7 +27587,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180952,
       "name": "Snare Thing",
       "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
@@ -27953,7 +28219,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 235833,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2wSA5eZnTCjZer0f4dxZch"
@@ -28656,6 +28922,42 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/1KKSoZJYVNx9DCEOtgG8nP"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151458,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/1rlSCPVYbtfi2t2dG5VFHU"
+    },
+    {
+      "album": {
+        "name": "Sweat Shirt",
+        "url": "https://open.spotify.com/album/5u8AUr6UQufXMYlVRyDoPp"
+      },
+      "artists": [
+        {
+          "name": "DJEAU",
+          "url": "https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213984,
+      "name": "Sweat Shirt",
+      "url": "https://open.spotify.com/track/01loFcPneAjybb8zuJK487"
+    },
+    {
+      "album": {
         "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
         "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
       },
@@ -29287,7 +29589,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201243,
       "name": "Tarantula - Max Styler Remix",
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
@@ -34410,6 +34712,28 @@
     },
     {
       "album": {
+        "name": "Wildstyle",
+        "url": "https://open.spotify.com/album/1vqZbevQkLOvgu8wHGGeQL"
+      },
+      "artists": [
+        {
+          "name": "Kaysin",
+          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
+        },
+        {
+          "name": "DOUG!",
+          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Wildstyle",
+      "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"
+    },
+    {
+      "album": {
         "name": "Will You For Love",
         "url": "https://open.spotify.com/album/7o6K22nJoYWfOQI1zgakuQ"
       },
@@ -35245,7 +35569,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 184615,
       "name": "You On My Mind A Lot",
       "url": "https://open.spotify.com/track/1J4H1G61STqSy3G6gQ1M0r"

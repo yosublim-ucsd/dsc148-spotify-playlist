@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Following the successful release of her album, Over Whelming Victory, <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=1H0hFBy5RLiC2JGpgdNzGQ>Mercy Chinwo </a> takes over our Testify playlist with songs of testimony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,218 likes - 49 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,380 likes - 49 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 48 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
 | 49 | [Not The Same](https://open.spotify.com/track/66tUEMwPlkZrFmhlxByWX0) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:15 |
 
-Snapshot ID: `MCw1NWQ4NTk0MDNiNzhiOWNhODE2ZDdlYjFjNzY2NTYwYjMzYWJmODZl`
+Snapshot ID: `MCw3OWEzM2NjYjk2NzNjZTdmYjZlMjE0NzZlOTUyOGQxMWI4ZWE2NDlk`

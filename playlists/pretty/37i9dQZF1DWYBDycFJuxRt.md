@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/327444?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,289 likes - 72 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,340 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 29 | [Sayin’ No \- ft\. Kenzo Martini](https://open.spotify.com/track/1cp7fVl4nL69r0q9Wrj24t) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Kenzo Martini](https://open.spotify.com/artist/1fc1p9LVZ3HHdCcq87JYvQ) | [Sayin’ No \(ft\. Kenzo Martini\)](https://open.spotify.com/album/2clKd5gpmXSuUgK9AJPjJF) | 3:29 |
 | 30 | [森の怪獣](https://open.spotify.com/track/2GNJHfxIL7EdXzHLBQ9ZTH) | [いちやなぎ](https://open.spotify.com/artist/6yhBmNNa8y5tZegkOQLLPB) | [森の怪獣 / ラッタウル](https://open.spotify.com/album/4z0vwMAjzK9SZcd7Iu1QjN) | 4:17 |
 | 31 | [tones \(NHK Drama 「KENOHINO KEKEKE」 MAIN THEME\)](https://open.spotify.com/track/7ISWYB75IrtEGPMn9HHfVm) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [KENOHINO KEKEKE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7H6iWojLuSPLuVllLg0MWG) | 3:21 |
-| 32 | [Cannonball \(feat\. Reiya Terakubo\)](https://open.spotify.com/track/6px8PzhPDwqGS0ylbdwSR7) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW), [Reiya Terakubo](https://open.spotify.com/artist/4Hrq5Odji2nZTZuogbHte5) | [Verse of the Kool](https://open.spotify.com/album/5aAMjTUWa4HnKx75ZaW1bu) | 4:03 |
+| 32 | [Cannonball \(feat\. Reiya Terakubo\)](https://open.spotify.com/track/6px8PzhPDwqGS0ylbdwSR7) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Verse of the Kool](https://open.spotify.com/album/5aAMjTUWa4HnKx75ZaW1bu) | 4:03 |
 | 33 | [BUCHINUKERU](https://open.spotify.com/track/0wwNHoW0cocUiNw8ULMgpr) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [BUCHINUKERU](https://open.spotify.com/album/3dNldcT6rr3YF24ULEsIru) | 3:02 |
 | 34 | [5G \(feat\. MARONI\)](https://open.spotify.com/track/0nsvNmJuNuAc4ypsix8CYY) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MARONI](https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM) | [5G \(feat\. MARONI\)](https://open.spotify.com/album/3Dj6BQqyIX6ElTPyp2QIZp) | 2:48 |
 | 35 | [CHAOS](https://open.spotify.com/track/0zeE7GWhYlWink9gQgAsQ6) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [CHAOS](https://open.spotify.com/album/7jo87kWPoxGUeoBCYxTztz) | 3:39 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [花絨毯](https://open.spotify.com/track/7rwNT8cfHhVJ8I9M9nFy14) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [花絨毯](https://open.spotify.com/album/7yRMzg6GoHaB9EGHVGpo17) | 1:52 |
 | 72 | [Rest in Peace](https://open.spotify.com/track/6rTKps8lhair8dtsjuZprw) | [後藤正文](https://open.spotify.com/artist/7z6bGLRzEf48d1km5BU4sn) | [Recent Report I](https://open.spotify.com/album/14ce4M35YFCSo52cQARpqD) | 12:31 |
 
-Snapshot ID: `MCwyYTgxOGU3ODA2MTQ3YzA3NDI3ZTRjODdhNTRjNjVhZmQ1MDc2OTdi`
+Snapshot ID: `MCwwMDM5YzI3YzgyZDQzMmVhMjk4YzEwZjQxZTkxMmVkNjU1MWY2ZGI3`

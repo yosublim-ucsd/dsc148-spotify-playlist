@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 166772,
+  "2024-03-31": 166827,
   "date_first_scraped": "2022-03-24",
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
   "name": "Gospel Flow",
@@ -1309,6 +1309,36 @@
       "duration_ms": 122193,
       "name": "Cora\u00e7\u00e3o Quebrado",
       "url": "https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt"
+    },
+    {
+      "album": {
+        "name": "Cordeiro",
+        "url": "https://open.spotify.com/album/5pySYiNZgW3G9hsbzHZM4i"
+      },
+      "artists": [
+        {
+          "name": "Jana Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
+        },
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "Cordeiro",
+      "url": "https://open.spotify.com/track/3Rvmkv36zo0y3yqLyCvVB5"
     },
     {
       "album": {
@@ -6285,7 +6315,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 236962,
       "name": "Sem Cruz, Sem Gl\u00f3ria",
       "url": "https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm"

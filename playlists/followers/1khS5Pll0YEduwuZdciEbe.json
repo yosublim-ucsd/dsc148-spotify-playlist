@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 8575,
+  "2024-03-31": 8575,
   "date_first_scraped": "2023-11-08",
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Mustafa",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Hovvdy",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -363,7 +363,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 342133,
       "name": "Awful Lightning",
       "url": "https://open.spotify.com/track/0IEFpjJF5MuURYFL4CAJd0"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
@@ -880,6 +880,28 @@
     },
     {
       "album": {
+        "name": "All I Ever Want Is Everything",
+        "url": "https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        },
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200366,
+      "name": "Disappearing (feat. Magdalena Bay)",
+      "url": "https://open.spotify.com/track/0nxPeolI7FlljJ3SnNYDmj"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX"
       },
@@ -971,6 +993,24 @@
       "duration_ms": 204777,
       "name": "Edith",
       "url": "https://open.spotify.com/track/0RLOqj3jq878w5UMg7tjp6"
+    },
+    {
+      "album": {
+        "name": "Everyone Out",
+        "url": "https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Everyone Out",
+      "url": "https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f"
     },
     {
       "album": {
@@ -1339,7 +1379,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 181416,
       "name": "Jean",
       "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
@@ -1451,6 +1491,24 @@
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
+    },
+    {
+      "album": {
+        "name": "Make Ya Proud",
+        "url": "https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Make Ya Proud",
+      "url": "https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy"
     },
     {
       "album": {

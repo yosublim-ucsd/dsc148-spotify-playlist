@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "A Father's Lullaby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2wMu9rUX2LwtYyY7qm9cjt"
+      },
+      "artists": [
+        {
+          "name": "Nick Lachey",
+          "url": "https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Dreamland",
+      "url": "https://open.spotify.com/track/5XW3N712ZKk671xYEKKBtf"
+    },
+    {
+      "album": {
         "name": "What We Did On Our Holidays",
         "url": "https://open.spotify.com/album/39BUQxMN2WPLvdivLIyrk5"
       },

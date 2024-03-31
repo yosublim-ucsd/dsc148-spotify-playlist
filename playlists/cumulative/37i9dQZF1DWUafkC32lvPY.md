@@ -4,7 +4,7 @@
 
 > lofi beats by Latinxs.
 
-88 songs - 3 hr 30 min
+89 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 | 2023-06-26 |  |
 | [Bossa De Flauta](https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Bossa De Flauta](https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e) | 1:54 | 2023-06-26 |  |
 | [Brazilian Flavor](https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Brazilian Flavor](https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR) | 1:58 | 2023-06-26 |  |
-| [Break](https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK) | [Anto Pla](https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee) | [Break](https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ) | 1:56 | 2023-09-14 |  |
+| [Break](https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK) | [Anto Pla](https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee) | [Break](https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ) | 1:56 | 2023-09-14 | 2024-03-31 |
 | [Callejón de las Catrinas](https://open.spotify.com/track/1YFdN7uDnEGZWj1aRoOiLr) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Callejón de las Catrinas](https://open.spotify.com/album/5Up7bwvarctNUb6TE70fDT) | 1:15 | 2023-10-27 | 2023-11-04 |
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2023-06-26 |  |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-06-26 |  |
@@ -55,6 +55,7 @@
 | [Ipanema Sunset](https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK) | [Praia Sur](https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf), [LaidSisters](https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj), [Müx](https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo) | [Ipanema Sunset](https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7) | 2:02 | 2023-09-14 |  |
 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 | 2023-07-14 |  |
 | [La Diabla \- lofi edit](https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG) | [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX), [LatinoFi](https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo), [lofi.remixes](https://open.spotify.com/artist/1p1HSX8hrWa7vUAhKW76W0) | [La Diabla \(lofi edit\)](https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp) | 1:38 | 2024-01-26 |  |
+| [LA FALDA \- LoFi](https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u) | [LoFi HITS](https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7), [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA FALDA \(LoFi\)](https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ) | 2:51 | 2024-03-29 |  |
 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 | 2023-06-26 |  |
 | [La Tierra del Pan y del Café](https://open.spotify.com/track/3IUyr9sPr453ymdfGA6NjB) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Autorretrato](https://open.spotify.com/album/4KxqWP1Cs5JbSbebfUXWRP) | 2:50 | 2023-09-14 | 2023-11-04 |
 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 | 2023-07-14 | 2023-09-15 |

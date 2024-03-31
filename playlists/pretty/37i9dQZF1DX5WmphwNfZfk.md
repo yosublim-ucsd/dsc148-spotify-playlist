@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,052 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,057 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 19 | [Control](https://open.spotify.com/track/4zdONINrUEuRIGNBJFhA6e) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [Faces](https://open.spotify.com/album/1ymWtxJyW1kPxPtXN79KWp) | 1:36 |
 | 20 | [Last Words](https://open.spotify.com/track/0rFhcT9vhJUJtfQAMCB1Kt) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Last Words](https://open.spotify.com/album/77t6uPKOEDSh3gGeAtYwr9) | 3:27 |
 | 21 | [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 |
-| 22 | [I Feel Like James Brown](https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/5S30960H0VHeb4bjch8MY3) | 3:37 |
+| 22 | [I Feel Like James Brown](https://open.spotify.com/track/76BgzEP4ia2GuxSIlyN8si) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/1uYydzjjdrzWBtiJplbx3k) | 3:37 |
 | 23 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 |
 | 24 | [Style](https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Style](https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm) | 3:43 |
 | 25 | [Pull Up Riicch Mix \(feat\. Bryson Tiller\)](https://open.spotify.com/track/2FLovmWARz08hNAJ9pV8Zd) | [Riicch](https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ), [SHA\-G](https://open.spotify.com/artist/3p4OQzNJ8zLp0vBMS3WDfu), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Pull Up Riicch Mix \(feat\. Bryson Tiller\)](https://open.spotify.com/album/55G2vsc20LUyW6XPe17FIq) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Pigeons](https://open.spotify.com/track/1M75A3TMxBDylvdDaVcOxB) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Pigeons](https://open.spotify.com/album/49iqGoYEjX33snub1aSOEr) | 1:52 |
 | 50 | [Madone](https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Madone](https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO) | 2:55 |
 
-Snapshot ID: `MCxkZTc2ZjZjNDJmODhhYTQ2Zjk3ZDhmNmQ5Nzk0NTk0ZDY1NzgyMGY5`
+Snapshot ID: `MCxkYzY0ZTYxODI2NDA3YjBlMDQzMWJlZGU5MTcwZmFlMDc2ZTdkN2Zk`

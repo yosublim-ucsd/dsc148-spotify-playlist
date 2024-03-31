@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 50530,
+  "2024-03-31": 50555,
   "date_first_scraped": "2021-12-29",
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
   "name": "Legendary Labels: VP Records",
@@ -723,6 +723,24 @@
       "duration_ms": 234720,
       "name": "I Am Not Afraid",
       "url": "https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy"
+    },
+    {
+      "album": {
+        "name": "Riddim Driven: Rub-A-Dub",
+        "url": "https://open.spotify.com/album/234jmscb3ksPv73HxM9I38"
+      },
+      "artists": [
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "I Am Not Afraid",
+      "url": "https://open.spotify.com/track/3NAG0oX0P3JfYfenhwH8B5"
     },
     {
       "album": {
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 227933,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"

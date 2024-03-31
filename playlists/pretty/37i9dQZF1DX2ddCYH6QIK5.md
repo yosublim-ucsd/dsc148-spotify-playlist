@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: KÄSSY, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,635 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,639 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Lange her](https://open.spotify.com/track/3o1g9quk4CP1Zf36CsyjUk) | [Skatch](https://open.spotify.com/artist/3N1D35YkG9RefRmyD614CS) | [Lange her](https://open.spotify.com/album/6xkzcojzbpqLmMIJI7CE54) | 2:31 |
 | 80 | [Murderer in the Moonlight](https://open.spotify.com/track/48p0uLjnXC25DW1ulg4eQ0) | [MERIT](https://open.spotify.com/artist/7tBhBEIKZznYE8CI618tNv) | [Murderer in the Moonlight](https://open.spotify.com/album/68PX6TsfxjHyEAf5pcJWmm) | 3:17 |
 
-Snapshot ID: `MCxkOGJjNGVhMzRmOWVjZTI5NjA0OGJiYTBiNmQzMzEyZDExZjBiNzhh`
+Snapshot ID: `MCw3NTY3ZjMxMmVkNmI4OTE3NTc3MWU2MGNmZGQ4NmMzZTFhZTc0YzJl`

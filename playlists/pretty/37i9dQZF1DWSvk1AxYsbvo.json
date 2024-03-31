@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13596,
+  "num_followers": 13599,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjZmMTlmYWEzMjMyZTE2MmZmZWM1ODhhMjkwZDNhOGE2N2I3MmQ5",
+  "snapshot_id": "MCw4YjZmMTlmMDdiYTAyMWJkNzY0MDdkZGQ3NTMyNDk0NzAyYzI3MjA1",
   "tracks": [
     {
       "added_at": "2024-03-08 06:34:29",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "Sapporo",
-        "url": "https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk"
-      },
-      "artists": [
-        {
-          "name": "Kim Pil Sun",
-          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
-        }
-      ],
-      "duration_ms": 224736,
-      "name": "Sapporo",
-      "url": "https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 224000,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "Sapporo",
+        "url": "https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk"
+      },
+      "artists": [
+        {
+          "name": "Kim Pil Sun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
+        }
+      ],
+      "duration_ms": 224736,
+      "name": "Sapporo",
+      "url": "https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ"
     },
     {
       "added_at": "2024-03-08 06:34:29",

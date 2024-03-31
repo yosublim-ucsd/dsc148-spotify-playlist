@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Los Pibes Chorros.",
-  "num_followers": 569498,
+  "num_followers": 569543,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdmOTBiZDhkZmVjMjFjNGU2MmNkNmI1NTNiYWRlZDQwOTNmZmI4",
+  "snapshot_id": "MCwyMjM5NjRmNDdiZjcxZWY5MjNkMmMwZDliZjQ1NzMzYzk3ZWVlODAx",
   "tracks": [
     {
       "added_at": "2024-03-29 15:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 178464,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 178464,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Los Maleantes",
+        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 164780,
+      "name": "Sentado en la Esquina",
+      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "LATI2",
         "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 204146,
       "name": "LATI2",
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Los Maleantes",
-        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 164780,
-      "name": "Sentado en la Esquina",
-      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Nunca Se Acaba",
+        "url": "https://open.spotify.com/album/5sN0cr5TIs5sm29m0FfOCY"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Cosas Del Amor",
+      "url": "https://open.spotify.com/track/5NLQrrvnWFrwbtl5Li3AuB"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "EXCUSAS",
         "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
@@ -1287,38 +1303,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Nunca Se Acaba",
-        "url": "https://open.spotify.com/album/5sN0cr5TIs5sm29m0FfOCY"
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Cosas Del Amor",
-      "url": "https://open.spotify.com/track/5NLQrrvnWFrwbtl5Li3AuB"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Session en el Barrio #4",
-        "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         },
         {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "Melodia Kallejera",
+          "url": "https://open.spotify.com/artist/0E36ZeuCI1sTkXy8Vol6pL"
         }
       ],
-      "duration_ms": 152176,
-      "name": "Session en el Barrio #4",
-      "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
+      "duration_ms": 218070,
+      "name": "Hoy Te Vi",
+      "url": "https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+        "name": "Session en el Barrio #4",
+        "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         },
         {
-          "name": "Melodia Kallejera",
-          "url": "https://open.spotify.com/artist/0E36ZeuCI1sTkXy8Vol6pL"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 218070,
-      "name": "Hoy Te Vi",
-      "url": "https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP"
+      "duration_ms": 152176,
+      "name": "Session en el Barrio #4",
+      "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "La Vanda M\u00e1s Loca",
+        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Sos Bot\u00f3n",
+      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Vanda M\u00e1s Loca",
-        "url": "https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE"
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
       },
       "artists": [
         {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Sos Bot\u00f3n",
-      "url": "https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK"
+      "duration_ms": 167053,
+      "name": "Amigos en la Distancia",
+      "url": "https://open.spotify.com/track/5l6mbeyJZ9duDg73T7pxFp"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 167053,
-      "name": "Amigos en la Distancia",
-      "url": "https://open.spotify.com/track/5l6mbeyJZ9duDg73T7pxFp"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "A Pura Magia",
         "url": "https://open.spotify.com/album/5nq0qwygH9AzxkSRZVzGWR"
       },
@@ -1687,6 +1687,26 @@
       "duration_ms": 196311,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/5J4KDaSTQVmzRVFcGozoFi"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Sin Rivales",
+        "url": "https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+        }
+      ],
+      "duration_ms": 238341,
+      "name": "Amor de Chat",
+      "url": "https://open.spotify.com/track/0bMqpzZyG55EGV6v1DdTQr"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1731,22 +1751,38 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Sin Rivales",
-        "url": "https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP"
+        "name": "Remake",
+        "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         },
         {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "El Pesa 9",
+          "url": "https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0"
         }
       ],
-      "duration_ms": 238341,
-      "name": "Amor de Chat",
-      "url": "https://open.spotify.com/track/0bMqpzZyG55EGV6v1DdTQr"
+      "duration_ms": 332000,
+      "name": "Remake",
+      "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1799,42 +1835,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Remake",
-        "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "John C",
-          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "El Pesa 9",
-          "url": "https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Remake",
-      "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Homenaje a Colombia",
         "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
       },
@@ -1847,22 +1847,6 @@
       "duration_ms": 232760,
       "name": "La Pollera de Jimmy",
       "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "La Marca de la Gorra",
-      "url": "https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1883,6 +1867,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "La Marca de la Gorra",
+      "url": "https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1895,22 +1895,6 @@
       "duration_ms": 233247,
       "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
       "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 186644,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/7F6i3fwkcbP0y853HwGFgU"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1963,6 +1947,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 186644,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/7F6i3fwkcbP0y853HwGFgU"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Corriendo La Coneja",
         "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
       },
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Tranka",
-        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 164323,
-      "name": "Tranka",
-      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Tu Pr\u00edncipe",
         "url": "https://open.spotify.com/album/5OW5e7iibePYVkyJ2TvqJS"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 249431,
       "name": "La Luna y Las Estrellas",
       "url": "https://open.spotify.com/track/2HIDzNVi4d3JRyPklMNpnW"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Tranka",
+        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 164323,
+      "name": "Tranka",
+      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
     },
     {
       "added_at": "2024-03-29 15:00:00",

@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Asal
 
-929 songs - 1 day 23 hr 53 min
+930 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,8 @@
 | [I Don't Wanna Fall In Love](https://open.spotify.com/track/4gPU2XtNaEh8VJ16e6tyOO) | [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP), [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [I Don't Wanna Fall In Love](https://open.spotify.com/album/7ctL43gyTKBcqLvzZvGD9F) | 2:55 | 2023-09-20 | 2023-10-05 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 | 2024-01-17 |  |
 | [I Feel Good](https://open.spotify.com/track/7pBJOcn2NFoppZlXo5kpsr) | [Teebee](https://open.spotify.com/artist/4aNxKsHJPOLxJS6uTsdW5t) | [In a Loop](https://open.spotify.com/album/3KR0sus0X5ofhI9FHcFQJt) | 3:32 | 2023-11-08 | 2023-11-23 |
-| [I Feel Like James Brown](https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/5S30960H0VHeb4bjch8MY3) | 3:37 | 2024-01-24 |  |
+| [I Feel Like James Brown](https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/5S30960H0VHeb4bjch8MY3) | 3:37 | 2024-01-24 | 2024-03-31 |
+| [I Feel Like James Brown](https://open.spotify.com/track/76BgzEP4ia2GuxSIlyN8si) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/1uYydzjjdrzWBtiJplbx3k) | 3:37 | 2024-03-27 |  |
 | [I Got Roses for You](https://open.spotify.com/track/6iLKLTHkdqetktzFnqf8Ov) | [Ky Empty](https://open.spotify.com/artist/7e0vNJvZJuiwAk1vGN46kR), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [I Got Roses for You](https://open.spotify.com/album/5cLRgc6SRgIXNn3wvw2mUu) | 2:16 | 2024-02-28 | 2024-03-14 |
 | [I Like Big Trucks](https://open.spotify.com/track/4Br1OPEqim9i6HQXMZMgEI) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [I Like Big Trucks](https://open.spotify.com/album/1hMaCa5rG67ztGrn5VsdyF) | 2:49 | 2024-03-13 |  |
 | [i think i like your girlfriend](https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [i think i like your girlfriend](https://open.spotify.com/album/4V9hYFIzK5hLLmxNEjyu2t) | 2:46 | 2023-08-09 | 2024-01-11 |

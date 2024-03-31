@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
-  "num_followers": 895432,
+  "num_followers": 895581,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjY5MDM5ZjQzNTQ3NzBjNWU4OTMzYTMwMWJjNDQ0ZDNjMGQyYTZj",
+  "snapshot_id": "MCwxZmMyNzVhNTVlYTgyY2E0MzA2NTVjZTZhMmM3OWM4Mjg5NmMzYzQ1",
   "tracks": [
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "LION: Live From The Loft",
+        "url": "https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 393010,
+      "name": "LION (feat. Chris Brown & Brandon Lake) - Live",
+      "url": "https://open.spotify.com/track/1yf10nEj6SqEUoyOuB7ywL"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "Jesus, My Brother + Like Jesus (Live)",
         "url": "https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN"
       },
@@ -1091,30 +1115,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "LION: Live From The Loft",
-        "url": "https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 393010,
-      "name": "LION (feat. Chris Brown & Brandon Lake) - Live",
-      "url": "https://open.spotify.com/track/1yf10nEj6SqEUoyOuB7ywL"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Completely Abandoned (Live)",
         "url": "https://open.spotify.com/album/4tLMwE7fO06VvpkiyvTTVC"
       },
@@ -1131,26 +1131,6 @@
       "duration_ms": 288840,
       "name": "My Help - Live",
       "url": "https://open.spotify.com/track/2zlLDO531NsDSY2zqqB8fg"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Still God (Live)",
-        "url": "https://open.spotify.com/album/0fMlKN8de4zcIG9PXa6zdA"
-      },
-      "artists": [
-        {
-          "name": "Metro Collective Worship",
-          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
-        },
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        }
-      ],
-      "duration_ms": 238982,
-      "name": "Still God (Live)",
-      "url": "https://open.spotify.com/track/5Tudz46wDPEKifYilxXZTq"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1187,6 +1167,26 @@
       "duration_ms": 539916,
       "name": "Christ Is The Center - Live",
       "url": "https://open.spotify.com/track/3BmnZfapXOFmWSfNcj740D"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Still God (Live)",
+        "url": "https://open.spotify.com/album/0fMlKN8de4zcIG9PXa6zdA"
+      },
+      "artists": [
+        {
+          "name": "Metro Collective Worship",
+          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
+        },
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        }
+      ],
+      "duration_ms": 238982,
+      "name": "Still God (Live)",
+      "url": "https://open.spotify.com/track/5Tudz46wDPEKifYilxXZTq"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1527,22 +1527,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "All To Jesus (Live)",
-        "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
+        "name": "Yes He Lives",
+        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
       "artists": [
         {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
         },
         {
-          "name": "Michael Monroe",
-          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
         }
       ],
-      "duration_ms": 360690,
-      "name": "Abide - Live",
-      "url": "https://open.spotify.com/track/3WbMGg3SExCmKhDSFCinFg"
+      "duration_ms": 285773,
+      "name": "Yes He Lives - Live",
+      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Yes He Lives",
-        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Yes He Lives - Live",
-      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Easy to Worship (Live in New Orleans)",
         "url": "https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 349560,
       "name": "Easy to Worship (Live in New Orleans)",
       "url": "https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "All To Jesus (Live)",
+        "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        },
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+        }
+      ],
+      "duration_ms": 360690,
+      "name": "Abide - Live",
+      "url": "https://open.spotify.com/track/3WbMGg3SExCmKhDSFCinFg"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Take Me to the River (I Will Swim) [Live]",
+        "url": "https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr"
+      },
+      "artists": [
+        {
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
+        },
+        {
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Take Me to the River (I Will Swim) - Live",
+      "url": "https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "Steady Light (Live from LO Conference) [Deluxe]",
         "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 625955,
       "name": "Open (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Take Me to the River (I Will Swim) [Live]",
-        "url": "https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr"
-      },
-      "artists": [
-        {
-          "name": "Alex Yurkiv",
-          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
-        },
-        {
-          "name": "Thelma Costolo",
-          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Take Me to the River (I Will Swim) - Live",
-      "url": "https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "All I Have is Christ (Live at WorshipGod)",
+        "url": "https://open.spotify.com/album/0MWJBYfY1Vp7G2b96vsCKj"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 286027,
+      "name": "All I Have is Christ - Live at WorshipGod",
+      "url": "https://open.spotify.com/track/5oA5yi2SX3CmZEYGITvqz5"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "Pursuit (As The Deer) [Live]",
         "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "All I Have is Christ (Live at WorshipGod)",
-        "url": "https://open.spotify.com/album/0MWJBYfY1Vp7G2b96vsCKj"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 286027,
-      "name": "All I Have is Christ - Live at WorshipGod",
-      "url": "https://open.spotify.com/track/5oA5yi2SX3CmZEYGITvqz5"
     },
     {
       "added_at": "2024-01-12 07:43:13",

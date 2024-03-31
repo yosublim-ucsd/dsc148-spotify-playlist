@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 251926,
+  "2024-03-31": 251961,
   "date_first_scraped": "2022-01-10",
   "description": "Lo nuevo del mundo tropical. Cover: Luis Fonsi & Omar Montes",
   "name": "el nuevo tropical",
@@ -39,6 +39,24 @@
       "duration_ms": 260702,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/6pQiERfIQAdfX6w1UFdlE7"
+    },
+    {
+      "album": {
+        "name": "100 Suspiros",
+        "url": "https://open.spotify.com/album/64AoCGdOJmoJbvYyKwbRM4"
+      },
+      "artists": [
+        {
+          "name": "Gus Ormo",
+          "url": "https://open.spotify.com/artist/1UwYKOt6E0pj3bzIhbTqFh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210967,
+      "name": "100 Suspiros",
+      "url": "https://open.spotify.com/track/0yiCnQ65sTPbDIthfuEwAf"
     },
     {
       "album": {
@@ -319,7 +337,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
@@ -2296,6 +2314,32 @@
     },
     {
       "album": {
+        "name": "El Rey de la Kumbia",
+        "url": "https://open.spotify.com/album/45nzMcJJDoGA1zRIaKaIVq"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227347,
+      "name": "El Rey de la Kumbia",
+      "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
+    },
+    {
+      "album": {
         "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
         "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
       },
@@ -3249,7 +3293,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 210960,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr"
@@ -5318,6 +5362,24 @@
     },
     {
       "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/44fVYZRa7mQ4K1XRphPsTU"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213235,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/45OE3HPAa4ljCet2aEsjYN"
+    },
+    {
+      "album": {
         "name": "desAMORfosis",
         "url": "https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG"
       },
@@ -6135,7 +6197,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 137967,
       "name": "SIN CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"

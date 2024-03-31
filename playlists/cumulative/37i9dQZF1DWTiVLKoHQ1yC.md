@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-149 songs - 10 hr 59 min
+150 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Masina](https://open.spotify.com/track/1iIfC5kyhIN0ny0X6NtjIY) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Masina](https://open.spotify.com/album/7km063WgmtcvuzwrguShQy) | 4:00 | 2022-01-14 | 2022-11-17 |
 | [Maybe, It's Possible](https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Maybe, It's Possible](https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5) | 3:49 | 2022-11-25 | 2024-03-11 |
 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2022-01-14 | 2024-02-23 |
-| [Mwaki \- Franky Wah Remix](https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Franky Wah Remix\)](https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3) | 3:37 | 2024-02-02 |  |
+| [Mwaki \- Franky Wah Remix](https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Franky Wah Remix\)](https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3) | 3:37 | 2024-02-02 | 2024-03-31 |
 | [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 | 2022-01-14 |  |
 | [Nea Skioni](https://open.spotify.com/track/2CNG3J4eRJ4A7faeYcyB7K) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Nea Skioni](https://open.spotify.com/album/6V3ktB7Qb1gTdGUCD49re0) | 6:38 | 2022-01-14 | 2022-11-26 |
 | [Need You By My Side](https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You by My Side](https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s) | 3:20 | 2022-11-25 | 2024-02-25 |
@@ -130,6 +130,7 @@
 | [Subjection](https://open.spotify.com/track/4AyAH1LveAELiQcNinLjWq) | [Submelody](https://open.spotify.com/artist/2V3yQTh4W2YjBedZfmJHu3) | [Subjection](https://open.spotify.com/album/1faSbiHil2yg9zBzUhL5EP) | 6:38 | 2022-01-14 | 2022-07-28 |
 | [Suitcase](https://open.spotify.com/track/6Y2u5I0oHgnF71oxPsrtqO) | [Gai Barone](https://open.spotify.com/artist/6ITKskiAcS4w9egVKClT7e) | [Suitcase](https://open.spotify.com/album/0q0Tg8vDvfhKzhCZaDlOU7) | 7:02 | 2022-01-14 | 2022-08-10 |
 | [Sunlight \- Rodriguez Jr\. Remix](https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Sunlight \(Rodriguez Jr\. Remix\)](https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq) | 3:19 | 2024-02-23 | 2024-03-29 |
+| [Take Me Home](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Take Me Home](https://open.spotify.com/album/0XDch3owENNks3bapuFjAs) | 3:31 | 2024-03-29 |  |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-11-25 |  |
 | [The Blame \- Single Edit](https://open.spotify.com/track/3587LxhYAfR3UK9YvuF0F9) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [The Blame](https://open.spotify.com/album/4wLmGWfnd4tKtsn8qkXoxk) | 4:25 | 2022-01-14 | 2023-09-06 |
 | [The Old You](https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [The Old You](https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh) | 3:15 | 2022-01-14 | 2024-02-04 |

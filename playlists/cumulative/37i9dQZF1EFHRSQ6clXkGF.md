@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-288 songs - 18 hr 29 min
+289 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Down to You](https://open.spotify.com/track/3eH95cySq82dDtpwrGCCfQ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 5:38 | 2024-03-21 |  |
 | [Dr\. Junk](https://open.spotify.com/track/4eRGJCflCflwWIkShl6vHq) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:19 | 2024-03-21 |  |
 | [Dreamland](https://open.spotify.com/track/0ZnpmJgyvMS7o1EZ5yuYBv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 4:38 | 2024-03-21 |  |
+| [Dreamland](https://open.spotify.com/track/5XW3N712ZKk671xYEKKBtf) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [A Father's Lullaby \(Deluxe Edition\)](https://open.spotify.com/album/2wMu9rUX2LwtYyY7qm9cjt) | 4:38 | 2024-03-30 |  |
 | [Eastern Rain](https://open.spotify.com/track/0ByksfVpE3YeltkOWkr8Pz) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [What We Did On Our Holidays](https://open.spotify.com/album/39BUQxMN2WPLvdivLIyrk5) | 3:34 | 2024-01-29 |  |
 | [Edith and the Kingpin](https://open.spotify.com/track/7CD5VhE2AWbCxqYHmpYoSi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:35 | 2024-03-21 |  |
 | [Electricity](https://open.spotify.com/track/3hQgE0k10kcyQaz3V4XjuD) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:01 | 2024-03-21 |  |

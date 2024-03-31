@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1524520,
+  "num_followers": 1524608,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDc5NDM5MmIyNDAxZTgyMDhkYTM3ZGE4MThhYjI0OTA4MjVhMWFm",
+  "snapshot_id": "MCxiZTQzZTMzN2Q5YjEyYzAyOGIwODI3MTVlZjNmNDE2OTMxNjBiMmFj",
   "tracks": [
     {
       "added_at": "2024-03-18 13:00:14",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 252789,
+      "name": "Sentimento - Ao vivo",
+      "url": "https://open.spotify.com/track/0vaISMFBEhY4ssii1zCGUQ"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Praia do Rosa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 256523,
       "name": "Praia do Rosa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 252789,
-      "name": "Sentimento - Ao vivo",
-      "url": "https://open.spotify.com/track/0vaISMFBEhY4ssii1zCGUQ"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Terra do Nunca (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 205408,
-      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Saideira Ac\u00fastico Sessions",
         "url": "https://open.spotify.com/album/25dOkXZ3uEjF6lamqU3qRC"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 267333,
       "name": "Todas as Janelas",
       "url": "https://open.spotify.com/track/6BO1F7s14ZehAecywx99G6"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Terra do Nunca (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 205408,
+      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Espera a Primavera (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 254878,
+      "name": "Espera a Primavera - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Alto Mar (Sessions)",
         "url": "https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 200658,
       "name": "Alto Mar - Sessions",
       "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Espera a Primavera (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 254878,
-      "name": "Espera a Primavera - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
     },
     {
       "added_at": "2024-03-18 13:00:14",

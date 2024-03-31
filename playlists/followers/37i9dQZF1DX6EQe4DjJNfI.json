@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 167465,
+  "2024-03-31": 167501,
   "date_first_scraped": "2022-12-01",
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: IZRRA",
   "name": "R&B Brasil",
@@ -531,6 +531,32 @@
       "duration_ms": 248000,
       "name": "Brigas Demais",
       "url": "https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL"
+    },
+    {
+      "album": {
+        "name": "Bunda Irada",
+        "url": "https://open.spotify.com/album/5Lss9IXevp7XKdMeEzpkks"
+      },
+      "artists": [
+        {
+          "name": "Khris",
+          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
+        },
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147130,
+      "name": "Bunda Irada",
+      "url": "https://open.spotify.com/track/2gV1NayptOesaBhCGm1rzT"
     },
     {
       "album": {
@@ -1093,7 +1119,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 158571,
       "name": "D\u00f3i Tanto",
       "url": "https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j"
@@ -1295,6 +1321,24 @@
       "duration_ms": 175488,
       "name": "Fala, Fala",
       "url": "https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX"
+    },
+    {
+      "album": {
+        "name": "Farei",
+        "url": "https://open.spotify.com/album/2RTRWw4hiYWbnz0ww1Gumu"
+      },
+      "artists": [
+        {
+          "name": "Abayomi",
+          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186437,
+      "name": "Farei",
+      "url": "https://open.spotify.com/track/1AwqQGjNSlPN9X7Iu4Yx30"
     },
     {
       "album": {
@@ -3335,10 +3379,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 141714,
       "name": "Santa Melanina",
       "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
+    },
+    {
+      "album": {
+        "name": "Fases Vol. 1",
+        "url": "https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG"
+      },
+      "artists": [
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Santa Melanina",
+      "url": "https://open.spotify.com/track/0NJsI7WZrZtuCyuxkU4tjc"
     },
     {
       "album": {
@@ -3361,7 +3427,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 224680,
       "name": "se voc\u00ea quiser",
       "url": "https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,877 songs - 4 day 5 hr 16 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,880 songs - 4 day 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1885,5 +1885,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1875 | [Liquorice](https://open.spotify.com/track/3LmlegS3av5opwiIMVDbgI) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:16 |
 | 1876 | [Heavy Metal and Reflective](https://open.spotify.com/track/57vU19otI0eWzcotGdi091) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 2:36 |
 | 1877 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 |
+| 1878 | [Antpile](https://open.spotify.com/track/4Xg8YbCGzuLPOdZ2ILVLmU) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Nomad](https://open.spotify.com/album/7gUtqEa1sDelvBvNyNvFHt) | 1:11 |
+| 1879 | [Eyeless](https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 3:56 |
+| 1880 | [Spit It Out \- Hyper Version](https://open.spotify.com/track/6ftph4VaiX6aG2NwZUWd3q) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:24 |
 
-Snapshot ID: `NzM3LGUwMzk5YmUzOTJmYWQyNTJmOGM5YjdkZjA4ODAyMzYwMDUzNGRkNDc=`
+Snapshot ID: `NzQwLGNkZmJjYWVlNDE4ZGEwYjQzN2YxMDFkOWYyYWEwYTM3OTk3NDI2YWI=`

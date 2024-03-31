@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 111889,
+  "num_followers": 111933,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yzg4N2NiNGFjN2ZmMjM0NDgyNWMyNGU2N2IzMDMyYjYzN2VlMDNj",
+  "snapshot_id": "MCxlYTczY2FiZDhkM2I0YmZjYTQ0ODMyZmVhZGMzYThjNzExZmE5MWMw",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Wretched and Divine: The Story Of The Wild Ones",
-        "url": "https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 319946,
-      "name": "Lost It All",
-      "url": "https://open.spotify.com/track/1wfZKFKzBDRl1wTK7TvYQe"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 283528,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Wretched and Divine: The Story Of The Wild Ones",
+        "url": "https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 319946,
+      "name": "Lost It All",
+      "url": "https://open.spotify.com/track/1wfZKFKzBDRl1wTK7TvYQe"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "If You Ever Want To Be In Love",
-      "url": "https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Strangeland (Deluxe Version)",
         "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 196466,
       "name": "Silenced By The Night",
       "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "If You Ever Want To Be In Love",
+      "url": "https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3"
     },
     {
       "added_at": "2023-01-11 18:02:14",

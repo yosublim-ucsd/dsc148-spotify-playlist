@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 33548,
+  "2024-03-31": 33548,
   "date_first_scraped": "2021-12-21",
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
   "name": "Wide Awake",
@@ -739,10 +739,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 119590,
       "name": "Hey Julia",
       "url": "https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO"
+    },
+    {
+      "album": {
+        "name": "Hey Julia",
+        "url": "https://open.spotify.com/album/4pLagd0VHyYyVc1daB8ELM"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119590,
+      "name": "Hey Julia",
+      "url": "https://open.spotify.com/track/7DCYDSGbWgYEMNtXYAAroM"
     },
     {
       "album": {

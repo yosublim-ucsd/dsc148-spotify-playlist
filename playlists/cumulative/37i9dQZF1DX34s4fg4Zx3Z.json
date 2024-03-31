@@ -18436,8 +18436,8 @@
       },
       "artists": [
         {
-          "name": "Tu\u1ea5n Vi\u1ec7t",
-          "url": "https://open.spotify.com/artist/2ktk9fgK40wg3lEiId4LM6"
+          "name": "tu\u1ea5n vi\u1ec7t",
+          "url": "https://open.spotify.com/artist/0hAwpZIS6AwuTGkkIBMWZB"
         },
         {
           "name": "C\u1ea7m",
@@ -31762,6 +31762,28 @@
       "duration_ms": 215910,
       "name": "\u0110\u1ee3i Ch\u1edd",
       "url": "https://open.spotify.com/track/4IK9GS4nl3arE1REhZMQuq"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1ee3i \u0111\u1ebfn th\u00e1ng 13",
+        "url": "https://open.spotify.com/album/3BW5tbEH70QWUyoYSp69P5"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 Th\u1ecbnh",
+          "url": "https://open.spotify.com/artist/5CmaKrKVwzQ6iQnJx2cGAm"
+        },
+        {
+          "name": "ViAM",
+          "url": "https://open.spotify.com/artist/6uD33IUwz8hLdIjz6Afcrm"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208258,
+      "name": "\u0110\u1ee3i \u0111\u1ebfn th\u00e1ng 13",
+      "url": "https://open.spotify.com/track/63sss8NjI2cmUWe1D3WwnS"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 363820,
+  "2024-03-31": 363818,
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Ananda",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Clau",
   "name": "Palco POP",
   "tracks": [
     {
@@ -2169,7 +2169,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 128507,
       "name": "Boa de Beber",
       "url": "https://open.spotify.com/track/1lWQQaQZQAFKG0HYxspHXI"
@@ -4205,6 +4205,24 @@
       "duration_ms": 179130,
       "name": "Do Alto do Morro",
       "url": "https://open.spotify.com/track/44a9EQmtpgKgy5MmGvOGSI"
+    },
+    {
+      "album": {
+        "name": "Doce Desejo",
+        "url": "https://open.spotify.com/album/4JzQuAXdVXTJ6Il8AsHeGP"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Doce Desejo",
+      "url": "https://open.spotify.com/track/3CcP7KUiVSnuI3MEtRarkS"
     },
     {
       "album": {
@@ -7824,6 +7842,32 @@
     },
     {
       "album": {
+        "name": "Love Songs, Vol. I",
+        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "BRUN\u00ca",
+          "url": "https://open.spotify.com/artist/1Xb6QnMiLu7H0IZgMY996F"
+        },
+        {
+          "name": "DeVito Cxrleone",
+          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "me chama de sua",
+      "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
+    },
+    {
+      "album": {
         "name": "Me Deixa",
         "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
       },
@@ -9701,7 +9745,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 135892,
       "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
       "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
@@ -11465,7 +11509,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 108307,
       "name": "putz",
       "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
@@ -11631,6 +11675,24 @@
       "duration_ms": 259672,
       "name": "Quase uma Semana",
       "url": "https://open.spotify.com/track/4a5YIaK7qFu6T63GeYx1Ih"
+    },
+    {
+      "album": {
+        "name": "Pagode Urbano #01",
+        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179820,
+      "name": "Quatro Da Manh\u00e3",
+      "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
     },
     {
       "album": {
@@ -13569,7 +13631,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195115,
       "name": "Tbt",
       "url": "https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL"
@@ -14543,6 +14605,24 @@
       "duration_ms": 161377,
       "name": "Turks (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf"
+    },
+    {
+      "album": {
+        "name": "TIPO EU",
+        "url": "https://open.spotify.com/album/6fTzBsH32Wej4G8f2tq5iM"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162053,
+      "name": "TUTTI FRUTTI",
+      "url": "https://open.spotify.com/track/366M6e4Op9utgKbXF15npV"
     },
     {
       "album": {

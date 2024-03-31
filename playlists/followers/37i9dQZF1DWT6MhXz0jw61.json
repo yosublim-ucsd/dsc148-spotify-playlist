@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 1313069,
+  "2024-03-31": 1313897,
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Erick The Architect",
+  "description": "Chillout hip-hop vibes. Cover: Buddy",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -439,7 +439,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 156000,
       "name": "85",
       "url": "https://open.spotify.com/track/2IpMq7qCaN2YETvMEE8V5y"
@@ -891,6 +891,24 @@
       "duration_ms": 186562,
       "name": "All Night Long (feat. Topaz Jones)",
       "url": "https://open.spotify.com/track/0fxRDt2MBXFPJSScpgrzSC"
+    },
+    {
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/1I4zlFuNyJD2xPvZ52geF4"
     },
     {
       "album": {
@@ -2570,6 +2588,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+    },
+    {
+      "album": {
         "name": "Build a Foundation",
         "url": "https://open.spotify.com/album/4lPyRjs7DJ6x53CD6DoO7t"
       },
@@ -4164,6 +4200,28 @@
     },
     {
       "album": {
+        "name": "DENiM (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177043,
+      "name": "DENiM (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
+    },
+    {
+      "album": {
         "name": "HOW MUCH DOES A PEACE OF MIND COST?",
         "url": "https://open.spotify.com/album/3GLkzBAaCGXEpvOT8aMUr5"
       },
@@ -4488,6 +4546,32 @@
     },
     {
       "album": {
+        "name": "Don't Check 4 Me",
+        "url": "https://open.spotify.com/album/45YCAdhDcais6gYe6cDIks"
+      },
+      "artists": [
+        {
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Don't Check 4 Me",
+      "url": "https://open.spotify.com/track/3MJhp4duKazKhnp0Of1mom"
+    },
+    {
+      "album": {
         "name": "Spaceships on the Blade",
         "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
       },
@@ -4675,7 +4759,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 168096,
       "name": "Double Down",
       "url": "https://open.spotify.com/track/3gTCBSXCy9wzDfoZkhaO2R"
@@ -8569,7 +8653,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 174083,
       "name": "KEYS TO MY LIFE",
       "url": "https://open.spotify.com/track/7hVb3OyFkgxDgpTdrOX6dT"
@@ -9227,6 +9311,32 @@
       "duration_ms": 129565,
       "name": "Lil Secret",
       "url": "https://open.spotify.com/track/29SR6SFfjQJoddfmimHbQh"
+    },
+    {
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/32GFoKBWjhZ4947Iz8ER62"
+      },
+      "artists": [
+        {
+          "name": "Jalen Santoy",
+          "url": "https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS"
+        },
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "KAMAE",
+          "url": "https://open.spotify.com/artist/3OZ93p3KH47vZorLi7mVvk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149770,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/14oVsXL6F5OJ9jNIfXEcCx"
     },
     {
       "album": {
@@ -11679,7 +11789,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 168296,
       "name": "Pearly Gates Playlist",
       "url": "https://open.spotify.com/track/6U0KMQbFzIUuGg1Di3ydn2"
@@ -12617,7 +12727,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 144961,
       "name": "Reload (feat. Zombie Juice)",
       "url": "https://open.spotify.com/track/2VDU8KTzDosrmbWLjTNwWj"
@@ -13455,6 +13565,32 @@
       "duration_ms": 156000,
       "name": "Shook Up",
       "url": "https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA"
+    },
+    {
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Cedxric",
+          "url": "https://open.spotify.com/artist/4BevWbXTBfZaF4T7yFDtOI"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "Should've Known (feat. Smino & Cedxric)",
+      "url": "https://open.spotify.com/track/6OQcMkQ8Kuc4wFlhaxvoTO"
     },
     {
       "album": {
@@ -16475,7 +16611,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 239266,
       "name": "Wet Dreamz",
       "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"

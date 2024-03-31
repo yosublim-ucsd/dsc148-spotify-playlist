@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 195696,
+  "num_followers": 195831,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWY2MmUxMWUwOTdlYjIxOGE0ZTcwZGQxMDhlY2Q0MzBjNDlmYjg2",
+  "snapshot_id": "MCxlNjNhM2E3ZDlhNjFiOGYzY2U0ZGE2NWU4MGU2NjE5OGE4NWQwNzgz",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Celebrity",
-        "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "Celebrity",
-      "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Offset",
         "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 212136,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Celebrity",
+        "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Celebrity",
+      "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "SEE SEA",
-        "url": "https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe"
-      },
-      "artists": [
-        {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "SEE SEA",
-      "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Blooming Blue",
         "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 190920,
       "name": "Love U",
       "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "SEE SEA",
+        "url": "https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "SEE SEA",
+      "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1443,38 +1443,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "The Road : Keep on Going - The 11th Album Vol.1",
-        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Waves (feat. Simon Dominic & Jamie)",
         "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
@@ -1499,6 +1467,38 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "The Road : Keep on Going - The 11th Album Vol.1",
+        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "HEART*IZ",
         "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
       },
@@ -1511,6 +1511,26 @@
       "duration_ms": 192851,
       "name": "Up",
       "url": "https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "duration_ms": 198420,
+      "name": "Why Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1547,26 +1567,6 @@
       "duration_ms": 189720,
       "name": "Baby",
       "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "Hands on Me",
-        "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        },
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
-        }
-      ],
-      "duration_ms": 198420,
-      "name": "Why Don\u2019t You Know",
-      "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"
     },
     {
       "added_at": "2023-09-14 10:27:59",

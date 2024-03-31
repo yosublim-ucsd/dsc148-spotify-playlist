@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Amira Elfeky
 
-2,259 songs - 4 day 23 hr 21 min
+2,260 songs - 4 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [As Good As It Gets](https://open.spotify.com/track/4oCnOkIt7a8qYUVolUcYSh) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [As Good As It Gets](https://open.spotify.com/album/6EhH3b4zsmiv0xmglCsojA) | 2:44 | 2023-08-04 | 2023-09-02 |
 | [As Long As You're Not You](https://open.spotify.com/track/36JQojRrNQmi6su2OQo2Ia) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [As Long As You're Not You](https://open.spotify.com/album/6Tu6BpzDtDGonHe5UMz6BM) | 3:40 | 2022-10-21 | 2022-11-12 |
 | [As The Sun Sets](https://open.spotify.com/track/6dShePyBjmnkk2WPJZdTMF) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [As The Sun Sets](https://open.spotify.com/album/7Mr3tKvuOYt6H5ethLM1nh) | 3:20 | 2022-07-29 | 2022-09-17 |
-| [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-16 |  |
+| [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-16 | 2024-03-31 |
+| [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 | 2024-03-29 |  |
 | [Asleep](https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Asleep](https://open.spotify.com/album/2Vflu6dPQKpU7KHo3wAicp) | 3:13 | 2023-12-15 | 2024-01-11 |
 | [Assassin](https://open.spotify.com/track/6e9rjIDM1bDeWNdro7hLce) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Assassin](https://open.spotify.com/album/2Pm4dNCkvZRVMZhVvCPeaw) | 3:09 | 2022-06-01 | 2022-07-16 |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-10-21 | 2022-12-03 |

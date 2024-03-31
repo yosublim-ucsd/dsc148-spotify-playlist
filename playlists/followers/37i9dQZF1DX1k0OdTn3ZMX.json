@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 37312,
+  "2024-03-31": 37448,
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with P.O.D.",
+  "description": "n\u00fc-metal revival is happening here and now with Alpha Wolf and ICE-T.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -391,7 +391,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 225278,
       "name": "Creature",
       "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
@@ -806,6 +806,24 @@
     },
     {
       "album": {
+        "name": "FR33K",
+        "url": "https://open.spotify.com/album/6Vd7IA4uDGtYBgsOJlztjc"
+      },
+      "artists": [
+        {
+          "name": "Gnarlah",
+          "url": "https://open.spotify.com/artist/5PWdH4Kq3yHxP0CwaDFBB4"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179322,
+      "name": "FR33K",
+      "url": "https://open.spotify.com/track/1yto0d4mniW3a58qiOQZ2S"
+    },
+    {
+      "album": {
         "name": "Fractured",
         "url": "https://open.spotify.com/album/70CjNkRxogynvPUn3pJgya"
       },
@@ -925,7 +943,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192748,
       "name": "Hellstar",
       "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
@@ -1124,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/3Lqp6tQk7nVxVqIkLM1SHi"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217363,
+      "name": "Live It Up - Live",
+      "url": "https://open.spotify.com/track/7D1liRVqgIYfj9CXAV9Ygw"
+    },
+    {
+      "album": {
         "name": "Look Alive (Netic)",
         "url": "https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1"
       },
@@ -1175,6 +1211,24 @@
       "duration_ms": 126600,
       "name": "LOST!",
       "url": "https://open.spotify.com/track/7AOe2bLNTnBt09RkfrRudU"
+    },
+    {
+      "album": {
+        "name": "Modern Error",
+        "url": "https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8"
+      },
+      "artists": [
+        {
+          "name": "Defects",
+          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269786,
+      "name": "Modern Error",
+      "url": "https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL"
     },
     {
       "album": {
@@ -1247,7 +1301,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 211009,
       "name": "Old School Sound",
       "url": "https://open.spotify.com/track/3ozOUkF7LFjtE8nx9CR5ih"
@@ -1512,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191439,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
+    },
+    {
+      "album": {
         "name": "SELF HELL",
         "url": "https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW"
       },
@@ -1577,7 +1649,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 221465,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot"
@@ -1913,7 +1985,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
@@ -1953,6 +2025,24 @@
       "duration_ms": 264167,
       "name": "V\\P (V\\CT\\M \\ PL\\Y)",
       "url": "https://open.spotify.com/track/3q7aZ7dslj9e1uUmSMzu85"
+    },
+    {
+      "album": {
+        "name": "Veins",
+        "url": "https://open.spotify.com/album/6j3kvraFynifFVVNwiDvs1"
+      },
+      "artists": [
+        {
+          "name": "Splutter",
+          "url": "https://open.spotify.com/artist/7gLhHWy22zWmhRSbmDuPsG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195242,
+      "name": "Veins",
+      "url": "https://open.spotify.com/track/1BWQNAch1SIeTWz0RLvc1O"
     },
     {
       "album": {

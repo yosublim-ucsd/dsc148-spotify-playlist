@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 1190440,
+  "2024-03-31": 1190619,
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Nestor En Bloque.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Flor Alvarez & Dj Tao.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -21,6 +21,28 @@
       "duration_ms": 245967,
       "name": "#23 / Chance / Tal Vez / Nena Maldici\u00f3n / Plan A",
       "url": "https://open.spotify.com/track/3L7e4eL7O9w7yxbpseSx4w"
+    },
+    {
+      "album": {
+        "name": "+ Bonita",
+        "url": "https://open.spotify.com/album/1svxcA2f2Gt1FEPKk2QsNl"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "+ Bonita",
+      "url": "https://open.spotify.com/track/5sDnyMzwiG4TiH6kUeZu8D"
     },
     {
       "album": {
@@ -289,7 +311,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 178230,
       "name": "Ahora est\u00e1 soltera",
       "url": "https://open.spotify.com/track/0aeRFAZGNdfC7MaAIEyTKF"
@@ -758,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/7c5LkkBI6QQTKiQNXUytJp"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144345,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/53D4LKmwqSpHQWA0NE17mn"
+    },
+    {
+      "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
@@ -1077,7 +1117,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 175909,
       "name": "Cachorro",
       "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
@@ -1911,7 +1951,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 138589,
       "name": "Cumbia De Rolo",
       "url": "https://open.spotify.com/track/20Z0rJrkMZK17YvZeNPvHY"
@@ -2863,7 +2903,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 169102,
       "name": "Ella Se Fue",
       "url": "https://open.spotify.com/track/1KmeygoCEnh8koLeLhgUVU"
@@ -3275,6 +3315,28 @@
       "duration_ms": 175263,
       "name": "Flasheaste Amor",
       "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
+    },
+    {
+      "album": {
+        "name": "FLOR ALVAREZ | DJ TAO Turreo Sessions #23",
+        "url": "https://open.spotify.com/album/6B2yceSshBoqkEDo8hY0F0"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "FLOR ALVAREZ | DJ TAO Turreo Sessions #23",
+      "url": "https://open.spotify.com/track/2gaRESK3Gi4hEumz8oThJz"
     },
     {
       "album": {
@@ -4101,7 +4163,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 190635,
       "name": "La Miel de tus Labios",
       "url": "https://open.spotify.com/track/3EDxQ3gLqiwZ8huUV7C7iw"
@@ -4339,6 +4401,24 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
+    },
+    {
+      "album": {
+        "name": "Las Esferas del Dragon",
+        "url": "https://open.spotify.com/album/0dtYzI0VqlpfIXE2qb4YPt"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132415,
+      "name": "Las Esferas del Dragon",
+      "url": "https://open.spotify.com/track/0e7KKj1T0PsvWqirDSOI6O"
     },
     {
       "album": {
@@ -4693,7 +4773,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
@@ -5279,7 +5359,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 177786,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
@@ -5459,7 +5539,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 142697,
       "name": "Mi cuerito",
       "url": "https://open.spotify.com/track/7sXobLTbBGKQvhh7dYiMra"
@@ -5759,6 +5839,28 @@
       "duration_ms": 188749,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/5lMKndDQ8MLFYdhLETzIcg"
+    },
+    {
+      "album": {
+        "name": "Ni Kabida",
+        "url": "https://open.spotify.com/album/61woauVtlQadidhw0hz304"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montana",
+          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
+        },
+        {
+          "name": "Diamante Ayala",
+          "url": "https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200209,
+      "name": "Ni Kabida",
+      "url": "https://open.spotify.com/track/1Ya5OWL59xjXiRFEO2b6sR"
     },
     {
       "album": {
@@ -6103,7 +6205,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 131596,
       "name": "No Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/7L6jqdb3t04uzyw115lkGG"
@@ -6129,7 +6231,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 140790,
       "name": "No Te Vas a Olvidar",
       "url": "https://open.spotify.com/track/6RwAPBAOhvyS3BTK5JaSq2"
@@ -6287,7 +6389,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
@@ -6893,7 +6995,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 168703,
       "name": "Piel a Piel - Remix",
       "url": "https://open.spotify.com/track/6TzePE4PaJ07FRja73kd6x"
@@ -7426,6 +7528,28 @@
     },
     {
       "album": {
+        "name": "Quiere Volver",
+        "url": "https://open.spotify.com/album/03bIhPXPEvVlGgOfDY4EZ2"
+      },
+      "artists": [
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        },
+        {
+          "name": "Jorgito Barrionuevo",
+          "url": "https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139008,
+      "name": "Quiere Volver",
+      "url": "https://open.spotify.com/track/44fA5XdSQrJa9ah8YI6a57"
+    },
+    {
+      "album": {
         "name": "Quiero Bailar Contigo",
         "url": "https://open.spotify.com/album/33DLlIsjIEMMUwHIZ4eIJW"
       },
@@ -7555,7 +7679,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180434,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4hh40MiXaBdNnWHa0iyDzU"
@@ -8065,7 +8189,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 186215,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/42dTTfG0WowJxuuRTePqxN"
@@ -8441,6 +8565,28 @@
       "duration_ms": 155878,
       "name": "S\u00f3lo con un Beso",
       "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "album": {
+        "name": "Tal Vez (Remix)",
+        "url": "https://open.spotify.com/album/6AAV2t7WjOue7PvPpNGKZW"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Tal Vez - Remix",
+      "url": "https://open.spotify.com/track/0pzh7NqiJH9ETXAWaNMM4b"
     },
     {
       "album": {
@@ -9071,7 +9217,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 187852,
       "name": "Tramposa",
       "url": "https://open.spotify.com/track/1lLTyKsX4IDBYtAiRWnJEQ"
@@ -9311,7 +9457,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 164806,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/1ySHxAgUvYb6EIZCcGK48s"
@@ -10231,7 +10377,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 120638,
       "name": "Ya No Llora",
       "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"

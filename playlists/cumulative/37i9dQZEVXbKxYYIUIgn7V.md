@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-239 songs - 11 hr 54 min
+241 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Call Me Yours](https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/3BPC42nOK14EoviiHP71Wg) | 2:31 | 2024-01-29 | 2024-01-31 |
 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 | 2024-03-05 | 2024-03-07 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-27 |  |
+| [Carnival x Fein](https://open.spotify.com/track/1PjFe5afpVknL7VEsnXZQA) | [offtopic](https://open.spotify.com/artist/6fhVncKweuRwp1oucBCjj9), [afex](https://open.spotify.com/artist/5qsOlAmrk4gDtJYlDzEbuG) | [Carnival x Fein](https://open.spotify.com/album/4bq61NqMQbxRji67qzdXeF) | 2:06 | 2024-03-30 |  |
 | [Carnival x Fein](https://open.spotify.com/track/6ebisdLbW0S0nFTxY0LO0X) | [offtopic](https://open.spotify.com/artist/6fhVncKweuRwp1oucBCjj9), [afex](https://open.spotify.com/artist/5qsOlAmrk4gDtJYlDzEbuG) | [Carnival x Fein](https://open.spotify.com/album/1YCnrW19PcbQ6hMrkXwi01) | 2:07 | 2024-03-19 | 2024-03-27 |
-| [Carnival x Fein](https://open.spotify.com/track/3E1YgNCLJn3GQ5tySGphHi) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Carnival x Fein](https://open.spotify.com/album/0LBF7VLpsKhkjAAyoBKIgF) | 2:06 | 2024-03-26 |  |
+| [Carnival x Fein](https://open.spotify.com/track/3E1YgNCLJn3GQ5tySGphHi) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Carnival x Fein](https://open.spotify.com/album/0LBF7VLpsKhkjAAyoBKIgF) | 2:06 | 2024-03-26 | 2024-03-31 |
 | [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 | 2024-02-06 | 2024-02-15 |
 | [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 | 2024-01-29 | 2024-02-28 |
 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 | 2024-01-30 | 2024-02-07 |
@@ -219,7 +220,8 @@
 | [Tekk Стиль 175](https://open.spotify.com/track/1UNnuTemNJp1ejfSuWFmm1) | [Russian Village Boys](https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD) | [Tekk Стиль](https://open.spotify.com/album/0DJa3eO8LEL6ZwE4MimP3Z) | 2:25 | 2024-01-29 | 2024-03-22 |
 | [tempo](https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [tempo](https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7) | 2:44 | 2024-03-05 | 2024-03-23 |
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-03-07 | 2024-03-12 |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:53 | 2024-02-27 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:53 | 2024-02-27 | 2024-03-31 |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2024-03-30 |  |
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2024-01-29 | 2024-02-14 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-03-19 | 2024-03-21 |
 | [The Sound Of Silence](https://open.spotify.com/track/5Cw1C3iQUquhH2gehdqqj8) | [CYREES](https://open.spotify.com/artist/10bmjPGhgwYvRis3pjAAmL) | [The Sound Of Silence](https://open.spotify.com/album/2mG2BCrq18dPuqyXluFAD5) | 2:13 | 2024-01-29 | 2024-02-04 |

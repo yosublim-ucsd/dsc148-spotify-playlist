@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,522 likes - 184 songs - 11 hr 54 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,521 likes - 184 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 160 | [Liquid 95 \- Edit](https://open.spotify.com/track/7u4xEIziZLobQHPyxmk2Vp) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Liquid 95](https://open.spotify.com/album/2FMAiusjZXZvYun4IGKUHv) | 3:33 |
 | 161 | [Pegao](https://open.spotify.com/track/3ofd1gmyPfysQWrgSDP7BW) | [Andre Salmon](https://open.spotify.com/artist/0rbp6yLBKp9HFyF3TRy157), [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31), [Jorge Andrade](https://open.spotify.com/artist/1Z9mrmdgnKrSxsXipVIRnl) | [Pegao EP](https://open.spotify.com/album/57vgNE0zN8oGPJXVjMAGRp) | 6:00 |
 | 162 | [The Inside](https://open.spotify.com/track/1WUfZV1VUPCLQiATnJ11E9) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD) | [The Inside](https://open.spotify.com/album/1qu4VgY15fuhhdY2HOzeek) | 3:10 |
-| 163 | [Asi](https://open.spotify.com/track/6gvss2BhzkoeQpCu2Pfc27) | [Toyzz](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Asi](https://open.spotify.com/album/0yJ4UqNO4ipDkAV69q4wKo) | 2:57 |
+| 163 | [Asi](https://open.spotify.com/track/6gvss2BhzkoeQpCu2Pfc27) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Asi](https://open.spotify.com/album/0yJ4UqNO4ipDkAV69q4wKo) | 2:57 |
 | 164 | [Release Your Mind \- Oscar L Grooves Remix](https://open.spotify.com/track/5kIuT2uCEDEdBxOLEbDORd) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Release Your Mind](https://open.spotify.com/album/6WqhYTfrCoDYjzabqiGKvJ) | 7:07 |
 | 165 | [Don't You Want Me \- Purple Disco Machine Remix](https://open.spotify.com/track/3BTzwW4PLNDtREjesuYy03) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Don't You Want Me \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6PyR3pcLILu7KgE7axImpq) | 3:30 |
 | 166 | [Afrikaa](https://open.spotify.com/track/2NTrfGXcS2zhrAXsm0gDGz) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Afrikaa](https://open.spotify.com/album/57n7DbBFBEbqcXQ22xBfrK) | 3:04 |

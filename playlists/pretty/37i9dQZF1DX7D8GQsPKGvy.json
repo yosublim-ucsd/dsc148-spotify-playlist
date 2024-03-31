@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 842010,
+  "num_followers": 842460,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzQ5ZTk1ZWMwMzNlMTE4NTY1NjdlYzU4MjM0MmM3YjFkNzczNTg5",
+  "snapshot_id": "MCw5ZTI4ZTk3Y2E2NmRhMTc1ODdiNjg2ZjNhYjE1Mjk1OGUxMDQ5ODE2",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -623,30 +623,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
-        "url": "https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Emilee",
-          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
-      "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
+        "url": "https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
+      "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -875,26 +875,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
-        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+        "name": "Doggumentary",
+        "url": "https://open.spotify.com/album/6Hnr6UcLxnEadWQ70bZqGS"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 162081,
-      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
-      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+      "duration_ms": 195453,
+      "name": "Wet - Remix",
+      "url": "https://open.spotify.com/track/2alijxLnR0RCiJ5JvzhDuT"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -923,22 +919,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Doggumentary",
-        "url": "https://open.spotify.com/album/6Hnr6UcLxnEadWQ70bZqGS"
+        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
+        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         }
       ],
-      "duration_ms": 195453,
-      "name": "Wet - Remix",
-      "url": "https://open.spotify.com/track/2alijxLnR0RCiJ5JvzhDuT"
+      "duration_ms": 162081,
+      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
+      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Best Day Of My Life (Gazzo Remix)",
+        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Best Day Of My Life - Gazzo Remix",
+      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Body (Dzeko Remix)",
         "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 165714,
       "name": "Body - Dzeko Remix",
       "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Best Day Of My Life (Gazzo Remix)",
-        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Best Day Of My Life - Gazzo Remix",
-      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Love Myself (Remixes)",
+        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Ian Spurrier",
+          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "Love Myself - KREAM Remix",
+      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Ocean (feat. Khalid) [David Guetta Remix]",
         "url": "https://open.spotify.com/album/2lYxgMaJP2bGy4dhIToqzS"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 195832,
       "name": "Ocean (feat. Khalid) - David Guetta Remix",
       "url": "https://open.spotify.com/track/2Ceq5Ty6rJqazoZIWyS0Vc"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Love Myself (Remixes)",
-        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Ian Spurrier",
-          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Love Myself - KREAM Remix",
-      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Insomnia (King Topher Remix)",
+        "url": "https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "King Topher",
+          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Insomnia - King Topher Remix",
+      "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Scared To Be Lonely Remixes Vol. 1",
         "url": "https://open.spotify.com/album/5dwSRV6U5oyxplujp17RQQ"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 200624,
       "name": "Scared To Be Lonely - Brooks Remix",
       "url": "https://open.spotify.com/track/389MC596K4IN35zaHAyuYz"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Insomnia (King Topher Remix)",
-        "url": "https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Insomnia - King Topher Remix",
-      "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Castles (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Castles - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Youngblood (R3HAB Remix)",
         "url": "https://open.spotify.com/album/2RMSI4zHlR5bSVuFnOr9MH"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 150528,
       "name": "Youngblood - R3HAB Remix",
       "url": "https://open.spotify.com/track/2vIzH4NfFGoJHA5rn1dFWT"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Castles (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Castles - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
-        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
-      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "FRIENDS (R3hab Remix)",
         "url": "https://open.spotify.com/album/2KBVjOOFq54CcaHTxItDhl"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 157142,
       "name": "FRIENDS - R3hab Remix",
       "url": "https://open.spotify.com/track/18YRKiIZO4qDEc5Ik0Cry6"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
+      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
     },
     {
       "added_at": "2023-07-03 13:15:34",

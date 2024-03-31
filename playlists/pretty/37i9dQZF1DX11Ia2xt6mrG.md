@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Bzars en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,567 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,580 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 |
 | 90 | [Brake Test](https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI) | 2:17 |
 
-Snapshot ID: `MCxlY2QxMWEzYWRkYmY3M2M2N2MyMDg5ZDc1MGJiNzJkZjZhMWQzM2Rk`
+Snapshot ID: `MCxiNGQxOTM0YzA5ZDhmODQxODhjOWNiOWQzN2FlNDI2MWYxYTVmYmM2`

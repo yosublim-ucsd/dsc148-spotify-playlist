@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 129763,
+  "2024-03-31": 129812,
   "date_first_scraped": "2022-04-22",
-  "description": "\u2728\u2764\ufe0f\ud83c\udf39",
+  "description": "\u2728\u2764\ufe0f\ud83c\udf39Para Rocanlovers ",
   "name": "Brillas",
   "tracks": [
     {
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 251080,
       "name": "Era Primavera",
       "url": "https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj"
@@ -2233,7 +2233,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 239034,
       "name": "Los Seres Queridos",
       "url": "https://open.spotify.com/track/6yrqeQ1YDhzhuJFOd1uphJ"
@@ -3111,7 +3111,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 239533,
       "name": "Polvo De Estrellas",
       "url": "https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX"
@@ -3590,6 +3590,24 @@
     },
     {
       "album": {
+        "name": "Tiempo al Tiempo",
+        "url": "https://open.spotify.com/album/6aPh6HYOL8rpNQol6FETo9"
+      },
+      "artists": [
+        {
+          "name": "Javier Blake",
+          "url": "https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287168,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3ktdoW2ABePbS3PQ4drxaD"
+    },
+    {
+      "album": {
         "name": "Tiernos",
         "url": "https://open.spotify.com/album/5I47XfGh6TwfXjMFTlu10o"
       },
@@ -3793,6 +3811,24 @@
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
+    },
+    {
+      "album": {
+        "name": "Jay de la Cueva",
+        "url": "https://open.spotify.com/album/5dfTVYkcLYbCCHvU0qC88j"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Volver A Ser",
+      "url": "https://open.spotify.com/track/2TxFDH4yoIdUNg3DHAB3BF"
     },
     {
       "album": {

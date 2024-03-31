@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 68116,
+  "num_followers": 68135,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTFiOGQyYWYyMWYzNjNhNDZlMmNmMDgyYjA0NzdmMDBhZDZkYTVl",
+  "snapshot_id": "MCxjZTJhNTk2YmZjMGM2YjYxNmZhN2MyMjczYTRjMzZlMTk5NWM4ZWEz",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Two Shoes",
+        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
+      },
+      "artists": [
+        {
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+        }
+      ],
+      "duration_ms": 313053,
+      "name": "Two Shoes",
+      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Changa",
         "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 189092,
       "name": "Go Bang",
       "url": "https://open.spotify.com/track/5XYXgYQJvY87aCFxK5sOnp"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Two Shoes",
-        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
-      },
-      "artists": [
-        {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
-        }
-      ],
-      "duration_ms": 313053,
-      "name": "Two Shoes",
-      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -979,22 +979,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Changa",
-        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
+        "name": "We Run The Night",
+        "url": "https://open.spotify.com/album/5sXFvaw0RB34LqKvJYQcaI"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Havana Brown",
+          "url": "https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM"
         },
         {
-          "name": "Kira Divine",
-          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 198020,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
+      "duration_ms": 228200,
+      "name": "We Run The Night",
+      "url": "https://open.spotify.com/track/0mtPNQl5vePVwiI9Vykp7L"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1031,22 +1031,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "We Run The Night",
-        "url": "https://open.spotify.com/album/5sXFvaw0RB34LqKvJYQcaI"
+        "name": "Changa",
+        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
       },
       "artists": [
         {
-          "name": "Havana Brown",
-          "url": "https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Kira Divine",
+          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
         }
       ],
-      "duration_ms": 228200,
-      "name": "We Run The Night",
-      "url": "https://open.spotify.com/track/0mtPNQl5vePVwiI9Vykp7L"
+      "duration_ms": 198020,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
     },
     {
       "added_at": "2022-04-18 02:03:22",

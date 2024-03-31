@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Francis of Delirium
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,797 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,806 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 100 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
 | 101 | [Tin Man](https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:11 |
 
-Snapshot ID: `MCxiMDM3YTA0MTgyMTRhYTVjZWYxNDY0Y2VhNTU5OTc2ZDM1YWE0MGNi`
+Snapshot ID: `MCw3M2ZiMTU5Y2JmNWE2Y2QyYzY3N2NmZGVmZDU3ZWVlZTIwZTU4NWIx`

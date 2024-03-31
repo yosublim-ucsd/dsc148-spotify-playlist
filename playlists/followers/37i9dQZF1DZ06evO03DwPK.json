@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 3794290,
+  "2024-03-31": 3794696,
   "date_first_scraped": "2024-01-21",
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
   "name": "This Is Bruno Mars",
@@ -475,7 +475,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 207560,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/2tCPIp83mRXvVTytTAf1W4"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"

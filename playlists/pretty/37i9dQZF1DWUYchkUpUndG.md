@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h?si=bQVOO23uRpSjmhTSUg1Svg>TESTIMONY JAGA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,578 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,604 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 9 | [Waters](https://open.spotify.com/track/6FLJnQt5vRIc4KxSXSSfA8) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy](https://open.spotify.com/album/72rRqESVlk8mDkUUq9ZZch) | 2:18 |
 | 10 | [I Surrender \- Live](https://open.spotify.com/track/7m29ckDAp2aKU8qQRmWz85) | [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN) | [I Surrender \(Live\)](https://open.spotify.com/album/0fMopgYEHvqBBTUooLYwuM) | 18:04 |
 | 11 | [Good Life \(Impilo Emnande\) \(Drumetic Boyz Remix\)](https://open.spotify.com/track/23snllF8CMSehxyDrTAGhA) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB) | [Good Life \(Remixes\)](https://open.spotify.com/album/2SzPbcOmiDbVcXiL5UD1bx) | 4:44 |
-| 12 | [Kukhon'Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhon'Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 |
+| 12 | [Kukhona Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhona Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 |
 | 13 | [Belong to you](https://open.spotify.com/track/4B9KUBV2XQPzTvkdoYReaf) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Belong to you](https://open.spotify.com/album/6EXqgIsvGRQVqpOhuTXE7T) | 2:13 |
 | 14 | [ZOE](https://open.spotify.com/track/4AfqsdZ0s4x32ne3iaT9GQ) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [ZOE](https://open.spotify.com/album/3vRboDjYhyk0q5wjlOuSGr) | 7:29 |
 | 15 | [So Much](https://open.spotify.com/track/4CjqtTd0dVi42TChkVcYiT) | [SalmistGee](https://open.spotify.com/artist/1BVBYR6moHg5nmcArmkH12), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [So Much](https://open.spotify.com/album/6oLhpkD3I0wLTeHGOuMwon) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Onitooto \(The Truthful One\)](https://open.spotify.com/track/7uMVU2QvAU6eLHSnY1Ty8k) | [The Resurrection Movement](https://open.spotify.com/artist/4FHmaNql8g0yLUBJqVLKZ1) | [Truthful One](https://open.spotify.com/album/7MYta9Px7npJGFZx8p1QeW) | 4:37 |
 | 100 | [Solid Rock](https://open.spotify.com/track/7uVr9obMaWNOmUSoAj70eX) | [Nimi Stix](https://open.spotify.com/artist/39jgj6aYzq1eltNM1IcEwm), [Odianose](https://open.spotify.com/artist/7lTDouO7ug3ETSmO5QnAnG) | [Solid Rock](https://open.spotify.com/album/6OO6O3tWK2GtU2nPyVcdpt) | 2:44 |
 
-Snapshot ID: `MCw0YzExNWI2ZmQ5YzA0ZmJlMzExYzA4YjEyYzAwMTJjY2QzZjRjNmIy`
+Snapshot ID: `MCxiZjg5NmQyYzZhMGJjNTk5NTYxNTE4YzYzNjY5OTU3NDY3MTQ3MGRi`

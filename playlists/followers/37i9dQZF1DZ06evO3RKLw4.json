@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 45733,
+  "2024-03-31": 45746,
   "date_first_scraped": "2022-09-17",
   "description": "This is Rancid. The essential tracks, all in one playlist.",
   "name": "This Is Rancid",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 99733,
       "name": "Adina",
       "url": "https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha"
@@ -1270,6 +1270,42 @@
     },
     {
       "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101600,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/3JK7WvNg0cO9FDV8E5UcLK"
+    },
+    {
+      "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144653,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/6lreQj4PTDoDvWTREDd4ie"
+    },
+    {
+      "album": {
         "name": "Trouble Maker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
@@ -1479,7 +1515,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 176733,
       "name": "Who Would've Thought",
       "url": "https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj"

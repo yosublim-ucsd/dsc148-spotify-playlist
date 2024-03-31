@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Beyoncé \(pictured\), Becky Hill, Sainté and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,454 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,539 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 81 | [one more night](https://open.spotify.com/track/6c8gf4UJ2Od8uKUiCYdf5a) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [one more night](https://open.spotify.com/album/1bCBw01bSi46xYzhpp0hRG) | 2:42 |
 | 82 | [Hey You](https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Hey You](https://open.spotify.com/album/0ef4O5dEVqdhZ2q4nHMnnp) | 3:36 |
 | 83 | [Another Dimension](https://open.spotify.com/track/6bu9yE3D2FUamqfXpd8VPD) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Brittles](https://open.spotify.com/artist/4AatAhtKlfnbdMwlxdTwwr), [Ghost MC](https://open.spotify.com/artist/7j76GJFqlZOeVe7Sgdlmab) | [Another Dimension](https://open.spotify.com/album/5F8ZSBIcPgssjylamnByil) | 2:55 |
-| 84 | [RUN](https://open.spotify.com/track/48SLtlqkpzphc7cA7EnA5j) | [8syn](https://open.spotify.com/artist/22cS2GQ6sD8okBFC1sMjoC), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [RUN](https://open.spotify.com/album/1wKXzUEWCpslMXdFWtmqyo) | 2:29 |
+| 84 | [Run](https://open.spotify.com/track/48SLtlqkpzphc7cA7EnA5j) | [8syn](https://open.spotify.com/artist/22cS2GQ6sD8okBFC1sMjoC), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Run](https://open.spotify.com/album/1wKXzUEWCpslMXdFWtmqyo) | 2:29 |
 | 85 | [pool party](https://open.spotify.com/track/4QrjOSssjsxQyo2LjLhXl9) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [FRESHMAN](https://open.spotify.com/album/67tXGWH52ijkKRucAmycd5) | 2:53 |
 | 86 | [You're The One](https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Together](https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU) | 3:20 |
 | 87 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [You And Me](https://open.spotify.com/track/6NUkc09aUDJlcI9tpyVA93) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [You And Me](https://open.spotify.com/album/70xSP8TK9birRbKoubAbV4) | 3:34 |
 | 100 | [Queen](https://open.spotify.com/track/4fidflpyukTVL9kPG0f1xj) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Queen](https://open.spotify.com/album/4clewFmbeplurLGqTVcoVT) | 3:01 |
 | 101 | [Second Best](https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [The Garden Dream](https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R) | 2:50 |
-| 102 | [Active](https://open.spotify.com/track/4ksECTL0J2QSMs18UaaOBy) | [Operate](https://open.spotify.com/artist/60j2M5PC8KpsahjNL6T2OO), [Rizzle](https://open.spotify.com/artist/4iRIqU5BgvJ14Q3qQntvyH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w) | [Active](https://open.spotify.com/album/5fR0FI9XMFyFMadRtPpWWN) | 2:17 |
+| 102 | [Active \- Radio Edit](https://open.spotify.com/track/4ksECTL0J2QSMs18UaaOBy) | [Operate](https://open.spotify.com/artist/60j2M5PC8KpsahjNL6T2OO), [Rizzle](https://open.spotify.com/artist/4iRIqU5BgvJ14Q3qQntvyH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w) | [Active](https://open.spotify.com/album/5fR0FI9XMFyFMadRtPpWWN) | 2:17 |
 | 103 | [Hard To Tell](https://open.spotify.com/track/4sBWulG7PURITdKhVVnjPJ) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Problem Child](https://open.spotify.com/album/3SPGrcBIFHW9tLgmq2Xoq5) | 3:14 |
 | 104 | [Don't Talk To Me](https://open.spotify.com/track/3d6RjLR03SKtW1e7837W9v) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [Don't Talk To Me](https://open.spotify.com/album/1sdvsKwd65kP2RCmgA9x4I) | 2:33 |
 | 105 | [All In One](https://open.spotify.com/track/7ycbGYrE2GMshCIiv2I33j) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [All In One](https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg) | 5:06 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 124 | [Two Minds](https://open.spotify.com/track/2UN6XV2SoVeNCnfPPwM9VN) | [NNAOMI](https://open.spotify.com/artist/090EWlBj3AVmlXIcHaNPpW) | [Two Minds](https://open.spotify.com/album/2f6ZN6pK2cKYhw5QIUY5a8) | 1:58 |
 | 125 | [Bite The Bridle](https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Yellow Roses](https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0) | 4:16 |
 
-Snapshot ID: `MCxmZDA0ZTg3NjY3MjdmOTU0YWU4Y2FiNmU4ZmFiYjkzMGExNDg1YzIy`
+Snapshot ID: `MCw1NjI4MTQxNTM5YzczZTQ0M2MwNDQ2MWUxMDE3MWJhYWIwMmU2Yzk5`

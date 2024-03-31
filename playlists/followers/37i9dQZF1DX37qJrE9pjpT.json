@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 2524,
+  "2024-03-31": 2528,
   "date_first_scraped": "2022-10-01",
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Country Wizzy",
   "name": "Bongo Bars",
@@ -297,7 +297,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 341314,
       "name": "Bigman Circle",
       "url": "https://open.spotify.com/track/07oekwVYSeP83rz0uKTfJS"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 179142,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/2pF3kr4LYju9dBNZz5cnNo"
@@ -1542,6 +1542,32 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2cJXPh9c0qV8Wej730ypmg"
+      },
+      "artists": [
+        {
+          "name": "Siyaahi",
+          "url": "https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb"
+        },
+        {
+          "name": "ACHARYA",
+          "url": "https://open.spotify.com/artist/4Dx7ozJLYPppMxZBdIAsHa"
+        },
+        {
+          "name": "whoisksh",
+          "url": "https://open.spotify.com/artist/5GMxtj6JgADJ0w6mlvK7lY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/144nZKc5hqgdY5f0BoLP4r"
+    },
+    {
+      "album": {
         "name": "Mkombozi",
         "url": "https://open.spotify.com/album/1mR4CK7GYeg5ge0KjJkdXT"
       },
@@ -1649,6 +1675,24 @@
       "duration_ms": 413306,
       "name": "Mr Xmas III",
       "url": "https://open.spotify.com/track/3UIKevjNLmMIAMIQ6gqaJb"
+    },
+    {
+      "album": {
+        "name": "Msanii Bora Wa HipHop",
+        "url": "https://open.spotify.com/album/0qvVDp2cgoajYtLicW2oLh"
+      },
+      "artists": [
+        {
+          "name": "Stamina Shorwebwenzi",
+          "url": "https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206094,
+      "name": "Msanii Bora Wa HipHop",
+      "url": "https://open.spotify.com/track/1Es37yRzabfGiil1SOikVd"
     },
     {
       "album": {
@@ -1807,6 +1851,24 @@
       "duration_ms": 216097,
       "name": "Mzee Mbuzi",
       "url": "https://open.spotify.com/track/6q3XDuxrOftN7gb5ONJTt8"
+    },
+    {
+      "album": {
+        "name": "Nakaba Koo",
+        "url": "https://open.spotify.com/album/6NwoAKwmJk3jRb80PS2Apa"
+      },
+      "artists": [
+        {
+          "name": "Izzo Bizness",
+          "url": "https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266520,
+      "name": "Nakaba Koo",
+      "url": "https://open.spotify.com/track/4aOcwNkD3CRHHCtQ3h8D5x"
     },
     {
       "album": {
@@ -2221,7 +2283,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 206994,
       "name": "Rose Coco",
       "url": "https://open.spotify.com/track/7AfWc9YqcP4GnehFoSL3W1"
@@ -2343,7 +2405,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 325925,
       "name": "Sessions 5",
       "url": "https://open.spotify.com/track/1NSGCNsfJHFKRl702IXYDK"
@@ -2759,6 +2821,24 @@
       "duration_ms": 200388,
       "name": "Threesome",
       "url": "https://open.spotify.com/track/7mzo7b3xVY0nWdQKOEIHNz"
+    },
+    {
+      "album": {
+        "name": "50 SHADES, Pt. 1",
+        "url": "https://open.spotify.com/album/1HwLiJDkK3m0CSWtAaVql7"
+      },
+      "artists": [
+        {
+          "name": "Tonee C",
+          "url": "https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "TO THE MOON",
+      "url": "https://open.spotify.com/track/5PKCKlTE4JoINtXddc1p4k"
     },
     {
       "album": {

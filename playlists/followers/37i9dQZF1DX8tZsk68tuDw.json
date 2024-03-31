@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 1976328,
+  "2024-03-31": 1976396,
   "date_first_scraped": "2020-10-13",
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Azzecca.",
   "name": "Dance Rising",
@@ -2793,6 +2793,24 @@
       "duration_ms": 155714,
       "name": "Amor",
       "url": "https://open.spotify.com/track/160zbysYKia7DpELpVS0DW"
+    },
+    {
+      "album": {
+        "name": "And 1",
+        "url": "https://open.spotify.com/album/5qO7TlsQmMhQ5LomtBrKlT"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "And 1",
+      "url": "https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn"
     },
     {
       "album": {
@@ -7085,6 +7103,24 @@
     {
       "album": {
         "name": "Breathe",
+        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223248,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
+    },
+    {
+      "album": {
+        "name": "Breathe",
         "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
       },
       "artists": [
@@ -10837,6 +10873,32 @@
       "duration_ms": 202000,
       "name": "Convo",
       "url": "https://open.spotify.com/track/34ol7Eg0ZMHBlBYlz6oeFO"
+    },
+    {
+      "album": {
+        "name": "Corpo e Can\u00e7\u00e3o (Club Mix)",
+        "url": "https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275409,
+      "name": "Corpo e Can\u00e7\u00e3o - Club Mix",
+      "url": "https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh"
     },
     {
       "album": {
@@ -19270,6 +19332,28 @@
     },
     {
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193218,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
+    },
+    {
+      "album": {
         "name": "Gassed Up",
         "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
       },
@@ -23701,7 +23785,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195100,
       "name": "I Don't Remember",
       "url": "https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF"
@@ -33159,7 +33243,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 185039,
       "name": "Moment",
       "url": "https://open.spotify.com/track/7wNKtCzafd3om6QKiub1Js"
@@ -33365,6 +33449,28 @@
       "duration_ms": 126511,
       "name": "Monkey Mind",
       "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "album": {
@@ -33857,7 +33963,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 145454,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
@@ -34991,7 +35097,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180985,
       "name": "Never Felt (So Good)",
       "url": "https://open.spotify.com/track/2qRdBCPYR2mP8ve2kmgxHn"
@@ -35851,7 +35957,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 158906,
       "name": "No Guest List",
       "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
@@ -36923,6 +37029,24 @@
       "duration_ms": 333870,
       "name": "Oh, Miles",
       "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
+    },
+    {
+      "album": {
+        "name": "ok :/",
+        "url": "https://open.spotify.com/album/6GHR4Qrtr4GXc7RfGVh8Qv"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "ok :/",
+      "url": "https://open.spotify.com/track/7ELz2ls9JCvT5DyVL8aWRh"
     },
     {
       "album": {
@@ -43219,10 +43343,32 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 215417,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
+    },
+    {
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186713,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
     },
     {
       "album": {
@@ -44593,7 +44739,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 254032,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX"
@@ -45595,6 +45741,24 @@
       "duration_ms": 228661,
       "name": "So Hypnotic",
       "url": "https://open.spotify.com/track/3C7notXz5L0t5EbaJVfubp"
+    },
+    {
+      "album": {
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "album": {
@@ -47767,7 +47931,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -48911,6 +49075,28 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
     },
     {
       "album": {
@@ -53479,7 +53665,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
@@ -53497,7 +53683,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 177261,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
@@ -54896,6 +55082,28 @@
     },
     {
       "album": {
+        "name": "We Like To Party (Rework)",
+        "url": "https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "ForgiveMeTommy!",
+          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144052,
+      "name": "We Like To Party - Rework",
+      "url": "https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J"
+    },
+    {
+      "album": {
         "name": "We Like To Wuki",
         "url": "https://open.spotify.com/album/5gVIZpWenjQfrJXV7XZi5B"
       },
@@ -55743,7 +55951,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 213582,
       "name": "When I Push - Edit",
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
@@ -56401,6 +56609,24 @@
       "duration_ms": 174193,
       "name": "Why Do I?",
       "url": "https://open.spotify.com/track/55ziPFBXH9Uzp3m8tyat9g"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "album": {

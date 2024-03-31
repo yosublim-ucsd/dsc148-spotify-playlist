@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 164150,
+  "2024-03-31": 164230,
   "date_first_scraped": "2021-12-30",
   "description": "lay back. chill out. ",
   "name": "floating",
@@ -141,7 +141,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 297525,
       "name": "Ain't for Nobody Else - Wind & Wire Sessions",
       "url": "https://open.spotify.com/track/3BkrgGNF6eZtsUN5W0C1MK"
@@ -372,6 +372,40 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        },
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        },
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131949,
+      "name": "BLACKBIIRD",
+      "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
+    },
+    {
+      "album": {
         "name": "Ciara",
         "url": "https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG"
       },
@@ -550,6 +584,24 @@
     },
     {
       "album": {
+        "name": "LSTN!",
+        "url": "https://open.spotify.com/album/0aKJSf1a160L3KRDnLqu70"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114166,
+      "name": "CARE4ME",
+      "url": "https://open.spotify.com/track/0LwecaHvWZJ6ZXKxKKydoh"
+    },
+    {
+      "album": {
         "name": "We Are KING",
         "url": "https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7"
       },
@@ -565,6 +617,32 @@
       "duration_ms": 233097,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf"
+    },
+    {
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/0TOJO823upXQeMIpT4GgZV"
+      },
+      "artists": [
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168244,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam"
     },
     {
       "album": {
@@ -753,7 +831,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV"
@@ -815,6 +893,24 @@
       "duration_ms": 306306,
       "name": "Dangerously In Love",
       "url": "https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP"
+    },
+    {
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203851,
+      "name": "DAUGHTER",
+      "url": "https://open.spotify.com/track/0hWCzWl04zT7P6vMy63XCN"
     },
     {
       "album": {
@@ -1555,7 +1651,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 288066,
       "name": "Inside My Love - Remastered",
       "url": "https://open.spotify.com/track/7yngji6ogBXvAJdeOSBHAP"
@@ -1877,6 +1973,24 @@
       "duration_ms": 332080,
       "name": "Luxury: Cococure - Remastered 2018",
       "url": "https://open.spotify.com/track/2M8tI5gnzbtV2Cy4jejI7e"
+    },
+    {
+      "album": {
+        "name": "Make Friends",
+        "url": "https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248975,
+      "name": "Make Friends - Pocket Size Radio Edit",
+      "url": "https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic"
     },
     {
       "album": {
@@ -2259,7 +2373,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 202451,
       "name": "PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)",
       "url": "https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz"
@@ -2433,6 +2547,28 @@
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
+    },
+    {
+      "album": {
+        "name": "RETRO",
+        "url": "https://open.spotify.com/album/45GDcZlo4VqOO4dS7rcuhE"
+      },
+      "artists": [
+        {
+          "name": "Mo\u00ebl",
+          "url": "https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa"
+        },
+        {
+          "name": "Nasim Asgari",
+          "url": "https://open.spotify.com/artist/3Ha4pQdxfE4l63EuZUrCDE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202152,
+      "name": "RETRO",
+      "url": "https://open.spotify.com/track/7qL0Z6HZKGjcWX6JiracpX"
     },
     {
       "album": {
@@ -2781,7 +2917,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 318666,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
@@ -3569,7 +3705,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 200958,
       "name": "won't make it",
       "url": "https://open.spotify.com/track/5fm2hA6xErpIpankZuyokX"

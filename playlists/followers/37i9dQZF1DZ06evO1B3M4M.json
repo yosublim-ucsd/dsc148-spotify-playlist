@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 13224,
+  "2024-03-31": 13229,
   "date_first_scraped": "2023-11-11",
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
   "name": "This Is James Newton Howard",
@@ -195,7 +195,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 44413,
       "name": "Coryo in the Capitol",
       "url": "https://open.spotify.com/track/1ccJ18uqMEaEMgbgzjVKT3"
@@ -1391,6 +1391,24 @@
       "duration_ms": 123026,
       "name": "Three Solos for Yuja: II. Rue's Farewell",
       "url": "https://open.spotify.com/track/0YU9VaL1wt2jI4L7byfz9F"
+    },
+    {
+      "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116189,
+      "name": "Tina Takes Newt In / Macusa Headquarters",
+      "url": "https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr"
     },
     {
       "album": {

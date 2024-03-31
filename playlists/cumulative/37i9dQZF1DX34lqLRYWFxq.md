@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: St\. Vincent
 
-994 songs - 2 day 7 hr 8 min
+995 songs - 2 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,7 +893,8 @@
 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 | 2023-11-17 | 2024-01-06 |
 | [Too Close / Too Late](https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:41 | 2023-11-03 | 2023-11-18 |
 | [Too Slow](https://open.spotify.com/track/3WLlV0VSN58XV0CQGc5Gou) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Too Slow](https://open.spotify.com/album/7KuDTDQQGfC5rVqt9J23rw) | 2:07 | 2024-01-19 | 2024-03-02 |
-| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-22 |  |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-29 |  |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-22 | 2024-03-31 |
 | [Tossed Out](https://open.spotify.com/track/5vbEut9UQ45NlN0HCsNvTi) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Tossed Out](https://open.spotify.com/album/2rYl6AIIhLPuapSmYN1fs5) | 2:35 | 2023-04-28 | 2023-08-12 |
 | [touching myself](https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [touching myself](https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t) | 2:39 | 2023-05-05 | 2023-07-15 |
 | [Tough Love](https://open.spotify.com/track/62O4kLoFoWtXDIQhdrxXk5) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Never Before Seen, Never Again Found](https://open.spotify.com/album/3myqn4myBolKFhGs0s7lM7) | 3:17 | 2023-02-10 | 2023-02-18 |

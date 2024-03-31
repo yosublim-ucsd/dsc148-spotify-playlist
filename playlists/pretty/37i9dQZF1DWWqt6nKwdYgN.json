@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13536,
+  "num_followers": 13546,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWExOTIwYmY2YzlmZmZhNDE4MWNlOTM0MjYxY2QyNmM0Y2ZlZDhi",
+  "snapshot_id": "MCw0OGI1YmEwOTE5NWQwZDMxNDhiOGExNDIyZjEzYzlhYzQ4ZjM1YzNj",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -119,22 +119,26 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Cuatro 44",
-        "url": "https://open.spotify.com/album/39CQpGgsU5LTagewDPB1lN"
+        "name": "PINK FLOYD",
+        "url": "https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
         },
         {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Cuatro 44",
-      "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
+      "duration_ms": 171882,
+      "name": "PINK FLOYD",
+      "url": "https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -163,6 +167,26 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Cuatro 44",
+        "url": "https://open.spotify.com/album/39CQpGgsU5LTagewDPB1lN"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Cuatro 44",
+      "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "MELANCOL\u00cdA",
         "url": "https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8"
       },
@@ -179,26 +203,6 @@
       "duration_ms": 222994,
       "name": "MELANCOL\u00cdA",
       "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Medellificaci\u00f3n",
-        "url": "https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Jeronimo",
-          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Medellificaci\u00f3n",
-      "url": "https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -223,6 +227,26 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Medellificaci\u00f3n",
+        "url": "https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Jeronimo",
+          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Medellificaci\u00f3n",
+      "url": "https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "HOMENAJE",
         "url": "https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts"
       },
@@ -243,22 +267,6 @@
       "duration_ms": 215869,
       "name": "HOMENAJE",
       "url": "https://open.spotify.com/track/02qsYZznhFSX0psInKC7st"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Cuentas Claras\u2026",
-        "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 237391,
-      "name": "Cuentas Claras\u2026",
-      "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -303,6 +311,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Cuentas Claras\u2026",
+        "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "duration_ms": 237391,
+      "name": "Cuentas Claras\u2026",
+      "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Por La Familia",
         "url": "https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 177902,
       "name": "Cypher MND #16 v.1 : Duki",
       "url": "https://open.spotify.com/track/2AxzQded8FgpiikNxP2dDc"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "PINK FLOYD",
-        "url": "https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG"
-      },
-      "artists": [
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "PINK FLOYD",
-      "url": "https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Patrullando",
-        "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Patrullando",
-      "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Viendo el Sol",
         "url": "https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 97953,
       "name": "Viendo el Sol",
       "url": "https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Patrullando",
+        "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Patrullando",
+      "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-        "url": "https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-      "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+        "url": "https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+      "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "DE POR VIDA",
+        "url": "https://open.spotify.com/album/5imAOsZHY1dRpPkezBf1ml"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Una Leyenda Nunca Muere",
         "url": "https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg"
       },
@@ -1103,30 +1127,6 @@
       "duration_ms": 303093,
       "name": "Entre Tiburones",
       "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "DE POR VIDA",
-        "url": "https://open.spotify.com/album/5imAOsZHY1dRpPkezBf1ml"
-      },
-      "artists": [
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "M\u00e9tricas Fr\u00edas",
-          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "De Por Vida",
-      "url": "https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Kaeve",
+          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "BOURDAIN",
         "url": "https://open.spotify.com/album/2QEtBF7Ulcg7TyqgttMEa4"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 201372,
       "name": "BOURDAIN",
       "url": "https://open.spotify.com/track/6t7woVzUeTVRpXHP4Xxa4N"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
-        },
-        {
-          "name": "Kaeve",
-          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "F\u00e9 De M\u00e1s",
         "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 140930,
       "name": "F\u00e9 De M\u00e1s",
       "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1663,6 +1663,22 @@
       "duration_ms": 333403,
       "name": "Arrogancia",
       "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Home Made Mix Vol.7",
+        "url": "https://open.spotify.com/album/1hgBSeVHIMjGoJzyIJIRsX"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        }
+      ],
+      "duration_ms": 105494,
+      "name": "Home Made Mix Vol.7",
+      "url": "https://open.spotify.com/track/4oCvop2zO6ogq1u6DqRSl4"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1727,34 +1743,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Bendecida Y Afortunada",
-        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
+        "name": "Callejones",
+        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
       },
       "artists": [
         {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "Bendecida Y Afortunada",
-      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Home Made Mix Vol.7",
-        "url": "https://open.spotify.com/album/1hgBSeVHIMjGoJzyIJIRsX"
-      },
-      "artists": [
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
         {
-          "name": "Mike Lamadrid",
-          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
         }
       ],
-      "duration_ms": 105494,
-      "name": "Home Made Mix Vol.7",
-      "url": "https://open.spotify.com/track/4oCvop2zO6ogq1u6DqRSl4"
+      "duration_ms": 192000,
+      "name": "Callejones",
+      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1779,22 +1783,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Callejones",
-        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
+        "name": "Bendecida Y Afortunada",
+        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
       },
       "artists": [
         {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Callejones",
-      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
+      "duration_ms": 159836,
+      "name": "Bendecida Y Afortunada",
+      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 242419,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "La Gracia De Dios",
         "url": "https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv"
       },
@@ -1923,22 +1939,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Perdido",
-        "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 242419,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Oscura Ciudad",
         "url": "https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Ol\u00e9",
-        "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
-      },
-      "artists": [
-        {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
-        }
-      ],
-      "duration_ms": 163910,
-      "name": "Ol\u00e9",
-      "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Si La Ven",
         "url": "https://open.spotify.com/album/6OLFc5kzAcbi6QhzzUCyzk"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 160941,
       "name": "Si La Ven",
       "url": "https://open.spotify.com/track/15IyQ1s3AMYpEFyYKjqzko"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Ol\u00e9",
+        "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "duration_ms": 163910,
+      "name": "Ol\u00e9",
+      "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "CUBA (Buena y Mala)",
+        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
+      },
+      "artists": [
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        }
+      ],
+      "duration_ms": 108217,
+      "name": "CUBA (Buena y Mala)",
+      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Pr\u00f3ximo Diciembre",
         "url": "https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 224000,
       "name": "Pr\u00f3ximo Diciembre",
       "url": "https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "CUBA (Buena y Mala)",
-        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
-      },
-      "artists": [
-        {
-          "name": "Akim 88",
-          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
-        }
-      ],
-      "duration_ms": 108217,
-      "name": "CUBA (Buena y Mala)",
-      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
     },
     {
       "added_at": "2024-03-29 06:00:00",

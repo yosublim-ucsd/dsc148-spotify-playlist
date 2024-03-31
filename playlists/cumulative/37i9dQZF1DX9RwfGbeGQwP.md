@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,386 songs - 2 day 4 hr 13 min
+1,387 songs - 2 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [DRS Train](https://open.spotify.com/track/7qX1RxZ0kLJ225EyXsCC8v) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [DRS Train](https://open.spotify.com/album/4zH6GmLfiVbrk36Ab0MyvG) | 1:50 | 2022-06-10 |  |
 | [Dry\-Cleaning Repairman](https://open.spotify.com/track/3ZLv7L1kZvNe4AIBdEcxnH) | [ViVi Lollypop](https://open.spotify.com/artist/4scLC6BXWEIHbcgJYPFVtw) | [Dry\-Cleaning Repairman](https://open.spotify.com/album/0Qcc3EOTW67V0WHxBSBQQS) | 2:45 | 2023-08-03 |  |
 | [Du Bon Pain](https://open.spotify.com/track/2ZTZ2Wi5D6EbFbkF4Gtn3D) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Du Bon Pain](https://open.spotify.com/album/7bsFmQLW9EBELlsTWOTJrN) | 1:50 | 2022-06-10 |  |
-| [Dumbo and the Great Glass Elevator](https://open.spotify.com/track/43JOtLoHhl0HM5mIOOIfLW) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [One For the Money](https://open.spotify.com/album/65VYYokDPiarCUQS5WWapo) | 2:16 | 2023-11-17 |  |
+| [Dumbo and the Great Glass Elevator](https://open.spotify.com/track/43JOtLoHhl0HM5mIOOIfLW) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [One For the Money](https://open.spotify.com/album/65VYYokDPiarCUQS5WWapo) | 2:16 | 2023-11-17 | 2024-03-31 |
 | [Dusk to Dawn](https://open.spotify.com/track/5wlySlVfANH9gbYJ6MhbtQ) | [Yugi](https://open.spotify.com/artist/5gKSmbeqGuqoj0uPIDoTbJ), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [Dusk to Dawn](https://open.spotify.com/album/5JH6dHkYYejgN4wWIc3mLZ) | 2:05 | 2022-09-16 | 2022-09-23 |
 | [Dusty Conscience](https://open.spotify.com/track/3FXTtPNNAXOgUiOtkSfAdW) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:26 | 2022-01-27 | 2022-06-10 |
 | [Earth](https://open.spotify.com/track/6NyXnrxqnsbJYqe64YUGt7) | [Little Green Dot](https://open.spotify.com/artist/0Tuzcf3XyorC725ZtcQRoK) | [Glo\-Fi](https://open.spotify.com/album/17vTmYvfvLzHGHEaAFsvkC) | 3:13 | 2022-01-27 | 2022-10-15 |
@@ -719,6 +719,7 @@
 | [Magic Hour](https://open.spotify.com/track/0NNVD0Py1o7aMJLyX12swP) | [ondol](https://open.spotify.com/artist/2gCP5uIoV0Ux8sqUB9qyi3), [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Magic Hour](https://open.spotify.com/album/18yKaIaZ3kXr6RrznMeERb) | 2:38 | 2023-08-03 | 2023-10-13 |
 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 | 2022-03-18 | 2023-06-06 |
 | [Magical Dreams](https://open.spotify.com/track/1IJ6kStfmEO702IvVLNQcN) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Magical Dreams](https://open.spotify.com/album/6NxXFjCTLS3PbzGucGOAM5) | 1:39 | 2022-09-09 | 2023-04-28 |
+| [Make a Wish](https://open.spotify.com/track/05SkefJZoT2gKvIuzdvCEn) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Make a Wish](https://open.spotify.com/album/1d7zcjhUURKwUtPlHBIwqy) | 2:48 | 2024-03-22 |  |
 | [Makeshift](https://open.spotify.com/track/5QLqKnaiL8qaAxiudjShMg) | [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Makeshift](https://open.spotify.com/album/6C9EiBaQNCe3hdiMs6nVS6) | 2:30 | 2022-10-28 | 2023-09-29 |
 | [Man At Heart](https://open.spotify.com/track/36obvzkBpCzXGP0cohkZlZ) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Man At Heart](https://open.spotify.com/album/7I95wqu9JjuOepQI5zqlQ0) | 2:14 | 2023-01-06 | 2023-10-06 |
 | [mango and strawberries](https://open.spotify.com/track/1D0lFM7EgG31Ew697rfQRd) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [mango and strawberries](https://open.spotify.com/album/7vbbI83S7N05GUX6baD6tS) | 2:15 | 2022-09-02 |  |

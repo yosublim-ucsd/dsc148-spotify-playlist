@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 35750,
+  "num_followers": 35819,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWNiZmEyNzAzNTRhMWI2MzI2YjM0MWE0ODMxNDcyM2JjZTkzNDA0",
+  "snapshot_id": "MCw3ZjcyYTdlZWVhYzY4ODZiOWM5ZjFmOWJkNjgwODQzYmFhODNhN2U3",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 208875,
-      "name": "La Mujer del Pelotero",
-      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Puras De Viento En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 179063,
       "name": "El Son De La Rabia - En Vivo",
       "url": "https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "La Mujer del Pelotero",
+      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Justo a Tiempo",
+        "url": "https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc"
+      },
+      "artists": [
+        {
+          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
+          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Pavido Navido",
+      "url": "https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Nuestra Historia Musical (Volumen 1)",
         "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 193053,
       "name": "Un Angel No Debe Llorar",
       "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "A Bailar a la Quebradita",
-        "url": "https://open.spotify.com/album/7zvrBGuNn6N0iLqYLFtsqe"
-      },
-      "artists": [
-        {
-          "name": "Banda Saucillos",
-          "url": "https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -259,18 +259,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Justo a Tiempo",
-        "url": "https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc"
+        "name": "A Bailar a la Quebradita",
+        "url": "https://open.spotify.com/album/7zvrBGuNn6N0iLqYLFtsqe"
       },
       "artists": [
         {
-          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
-          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
+          "name": "Banda Saucillos",
+          "url": "https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK"
         }
       ],
-      "duration_ms": 164186,
-      "name": "Pavido Navido",
-      "url": "https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY"
+      "duration_ms": 162051,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 145103,
-      "name": "Arriba Pichataro - En Vivo",
-      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
+      "duration_ms": 175934,
+      "name": "La Conga Roja - En Vivo",
+      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 175934,
-      "name": "La Conga Roja - En Vivo",
-      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
+      "duration_ms": 145103,
+      "name": "Arriba Pichataro - En Vivo",
+      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 128224,
+      "name": "Las Calandrias",
+      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 164087,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 128224,
-      "name": "Las Calandrias",
-      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -883,38 +883,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Son de la Raza",
-        "url": "https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk"
-      },
-      "artists": [
-        {
-          "name": "Banda La Mera Mera",
-          "url": "https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Son de la Raza",
-      "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "El Ahualoca",
-      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "La Trayectoria! (De Arturo Camarillo)",
         "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
       },
@@ -935,6 +903,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Son de la Raza",
+        "url": "https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk"
+      },
+      "artists": [
+        {
+          "name": "Banda La Mera Mera",
+          "url": "https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Son de la Raza",
+      "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Bailando Ando",
         "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 261712,
       "name": "El Sonao",
       "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "El Ahualoca",
+      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -983,18 +983,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Me Hac\u00edan Falta Huevos",
-        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Qu\u00edtate El Zapato",
-      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
+      "duration_ms": 166269,
+      "name": "Cinco Trancazos",
+      "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1011,6 +1015,22 @@
       "duration_ms": 288072,
       "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
       "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Me Hac\u00edan Falta Huevos",
+        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Qu\u00edtate El Zapato",
+      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1035,42 +1055,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4XNAcJHIkjMeV634pBtTY5"
-      },
-      "artists": [
-        {
-          "name": "Banda Ola Azul de Zirahuen",
-          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
-        }
-      ],
-      "duration_ms": 273031,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0b9MLh70Nx7Ix3Nn3Azs0E"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
-      },
-      "artists": [
-        {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
-        }
-      ],
-      "duration_ms": 166269,
-      "name": "Cinco Trancazos",
-      "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Puras De Viento",
         "url": "https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 325346,
       "name": "El Pato Asado, El Ahualulco - En Vivo",
       "url": "https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4XNAcJHIkjMeV634pBtTY5"
+      },
+      "artists": [
+        {
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
+        }
+      ],
+      "duration_ms": 273031,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/0b9MLh70Nx7Ix3Nn3Azs0E"
     },
     {
       "added_at": "2022-08-02 22:31:47",

@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 101 | [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:36 |
 | 102 | [Policia](https://open.spotify.com/track/2xlkajdBhNjU5E3eraBTtC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:36 |
 | 103 | [Too Late To Love](https://open.spotify.com/track/7Cd8vj4os8g7d1jgymry0R) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Would I Lie To You](https://open.spotify.com/album/0P6xcRS8cRFlUDcXtt75Yi) | 3:04 |
-| 104 | [Venus & Mars](https://open.spotify.com/track/4AOFs0CEAYUK4FbGAxVwic) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu), [Rola](https://open.spotify.com/artist/6htMzIeVHLO2pKFENGWq5p) | [Hallo Monaco](https://open.spotify.com/album/3SVxcnywXfBRGwt1uyWrcu) | 3:47 |
-| 105 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 |
+| 104 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 |
+| 105 | [Venus & Mars](https://open.spotify.com/track/4AOFs0CEAYUK4FbGAxVwic) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu), [Rola](https://open.spotify.com/artist/6htMzIeVHLO2pKFENGWq5p) | [Hallo Monaco](https://open.spotify.com/album/3SVxcnywXfBRGwt1uyWrcu) | 3:47 |
 | 106 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
 | 107 | [I Heart U](https://open.spotify.com/track/4EDUeuv5MEUkE9LXoIabFg) | [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt) | [I Heart U \(feat\. Mimoza\)](https://open.spotify.com/album/0pP2TH966jSunaWJaiLQGi) | 3:05 |
 | 108 | [Irgendwann](https://open.spotify.com/track/3UK9tCRXD4icuyiegXTy5A) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei](https://open.spotify.com/album/5pKFqWVE4YFUINqUeRPypU) | 3:11 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 134 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 135 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `Mjg1Mjk0MTAsMDAwMDAwMDBkYmZjMWE2ZWFjODEwMWQ2N2JlOTY4YTIyMjM0ZjAwMQ==`
+Snapshot ID: `Mjg1MzA4NTAsMDAwMDAwMDBhODZkNDcwZDAxMjZlN2U5MDI1N2Q3ODYxMGRhYzIyMg==`

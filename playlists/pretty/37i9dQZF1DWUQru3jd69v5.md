@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Tony 2Milli in cover 🐍 🏒
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,774 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,783 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 17 | [Dafalgan](https://open.spotify.com/track/3XGsMvnIirV7ICCWAh7v7L) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Dafalgan](https://open.spotify.com/album/4omxez8JEcqaSwiDCtGm8O) | 3:24 |
 | 18 | [+++!](https://open.spotify.com/track/0Uicbmb213nXrOHCC16aTU) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [+++!](https://open.spotify.com/album/0jzdt56THDyYB8jTxeL5hl) | 2:59 |
 | 19 | [Amigo \(feat\. Néza\)](https://open.spotify.com/track/3noL2g1plR2OC4fSk4Wu5m) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Ninho De La Calle](https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB) | 2:11 |
-| 20 | [MILANO SOUTHSIDE](https://open.spotify.com/track/1WY3T37bYhwn10b48ocrNp) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [MILANO SOUTHSIDE](https://open.spotify.com/album/2TZWPvp6aIfBatsfEZez6m) | 2:28 |
+| 20 | [MILANO SOUTHSIDE](https://open.spotify.com/track/1WY3T37bYhwn10b48ocrNp) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [MILANO SOUTHSIDE](https://open.spotify.com/album/2TZWPvp6aIfBatsfEZez6m) | 2:28 |
 | 21 | [CORVIALE TESTACCIO \(feat\. Side Baby\)](https://open.spotify.com/track/7qKkElxxnWyuTDZsDdG5Tm) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [CORVIALE TESTACCIO \(feat\. Side Baby\)](https://open.spotify.com/album/04l5q5CxrXJnM3UfAPUdFQ) | 3:02 |
 | 22 | [Addosso](https://open.spotify.com/track/6q40i1kf85LSF35cadTAw9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/4r1T5CWIHeIER0eRZdl2A6) | 2:41 |
 | 23 | [Night](https://open.spotify.com/track/2Bvyca0aDAMdryhprXWLtb) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [HOOD LOVE EP](https://open.spotify.com/album/6Kfl6xvN8rcTKcZdlz2z5T) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Ekip](https://open.spotify.com/track/7158jz8FPmq8DkrqDjIDB6) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Ekip](https://open.spotify.com/album/1u94zj4rvh7F7pRTKkNC81) | 2:35 |
 | 50 | [Chicago Freestyle](https://open.spotify.com/track/4PyJpuibdpUIjPFbMKw4sH) | [Joe Scacchi](https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R), [Tommy Toxxic](https://open.spotify.com/artist/6K9Uwn6aqWqDEYrbOIu6RO), [Prince](https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI), [Yang Pava](https://open.spotify.com/artist/5cDK2syFcjpSdd4qn9nnon) | [Billy Da Kid](https://open.spotify.com/album/6j2EBqnRLvuAANH6SguMAi) | 3:46 |
 
-Snapshot ID: `MCxjODExMDA5NmM1ZmZkMjJlZmJjZTFhOGIzYzZhNWEyM2M4OGNjMGE1`
+Snapshot ID: `MCw4NzRiZmUyMmIwMTZhZjVlMWEyODg0NzY3ODQ1MzM3Y2QyMGI3MTQ2`

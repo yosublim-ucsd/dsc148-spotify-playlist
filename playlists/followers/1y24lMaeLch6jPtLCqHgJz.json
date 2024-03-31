@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 85803,
+  "2024-03-31": 85800,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -1625,6 +1625,24 @@
       "duration_ms": 142004,
       "name": "Curura",
       "url": "https://open.spotify.com/track/2qrEyfQgY9KsKx7haqzo5S"
+    },
+    {
+      "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/1NZMme5AXFMvl8lxsbwPk6"
+      },
+      "artists": [
+        {
+          "name": "Jeckyll & Hyde",
+          "url": "https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/6xfQjv4RvP5DVaxYYZCRTV"
     },
     {
       "album": {

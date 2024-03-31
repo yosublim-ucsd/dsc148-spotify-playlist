@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65536,
+  "num_followers": 65537,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Njc4M2UzYTI4MzdiZTA2ZTgyYTIwOTUzMmJiMWFhY2ZhMzM0Yjk1",
+  "snapshot_id": "MCw0NGU2YmY5N2RjYzY2NGZmOWMyZWM2ZDExNDY5ZTAwYjQyZDc4NjEy",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "OKTA",
+        "url": "https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT"
+      },
+      "artists": [
+        {
+          "name": "KEiiNO",
+          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
+        }
+      ],
+      "duration_ms": 185157,
+      "name": "Spirit In The Sky",
+      "url": "https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 174626,
       "name": "Always - Single Version",
       "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "OKTA",
-        "url": "https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT"
-      },
-      "artists": [
-        {
-          "name": "KEiiNO",
-          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
-        }
-      ],
-      "duration_ms": 185157,
-      "name": "Spirit In The Sky",
-      "url": "https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy"
     },
     {
       "added_at": "2023-05-05 17:20:54",

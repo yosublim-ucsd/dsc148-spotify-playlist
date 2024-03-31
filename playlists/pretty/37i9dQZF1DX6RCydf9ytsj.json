@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 616443,
+  "num_followers": 616769,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDFkZjFkMGUzNTFmM2UzMzRkNDIzOGM1MWIzNzBiNDY3YmQyYTYz",
+  "snapshot_id": "MCwzMDZmZjA5NmVlY2Q1M2IwY2RlOGE4NTQ2YzFmZTQwOWRjNzgzMWI5",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Friendship",
         "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 231026,
       "name": "Seven Spanish Angels (with Ray Charles)",
       "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Forrest Gump - The Soundtrack",
+        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "The Best Of Kenny Rogers: Through The Years",
         "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 262079,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
-      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Forrest Gump - The Soundtrack",
-        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 148106,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+      "duration_ms": 253293,
+      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
+      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Friday Night Blues",
-        "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Friday Night Blues",
-      "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Dukes Of Hazzard",
         "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 126586,
       "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
       "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Friday Night Blues",
+        "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
+      },
+      "artists": [
+        {
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Friday Night Blues",
+      "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "Ten Years Of Hits",
+        "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Mickey Gilley",
+          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
         }
       ],
-      "duration_ms": 185573,
-      "name": "My Favorite Memory",
-      "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
+      "duration_ms": 215106,
+      "name": "Stand By Me - Single Version",
+      "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Ten Years Of Hits",
-        "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Mickey Gilley",
-          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 215106,
-      "name": "Stand By Me - Single Version",
-      "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
+      "duration_ms": 185573,
+      "name": "My Favorite Memory",
+      "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Best Of Terri Gibbs",
-        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
-      },
-      "artists": [
-        {
-          "name": "Terri Gibbs",
-          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Somebody's Knockin'",
-      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Still The Same Ole Me",
         "url": "https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 170733,
       "name": "Same Ole Me",
       "url": "https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Best Of Terri Gibbs",
+        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
+      },
+      "artists": [
+        {
+          "name": "Terri Gibbs",
+          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Somebody's Knockin'",
+      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Essential Earl Thomas Conley",
-        "url": "https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW"
-      },
-      "artists": [
-        {
-          "name": "Earl Thomas Conley",
-          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Holding Her and Loving You",
-      "url": "https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 239440,
       "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
       "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Essential Earl Thomas Conley",
+        "url": "https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW"
+      },
+      "artists": [
+        {
+          "name": "Earl Thomas Conley",
+          "url": "https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Holding Her and Loving You",
+      "url": "https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI"
     },
     {
       "added_at": "2023-08-21 19:29:52",

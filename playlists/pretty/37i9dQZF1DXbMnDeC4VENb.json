@@ -1,12 +1,12 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.",
-  "num_followers": 169654,
+  "num_followers": 169686,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzM1MDE2ZTczM2RjYTlmOGYxMGFlOWZhMmNiODg0ZGE0YTVkM2U4",
+  "snapshot_id": "MCwzODJjNzM5NzAxNzY0MDk5ZTQ0NmUyMWRiMjNjOWM5ODNkOTA4MGEx",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "T\u00fa, Mija",
-        "url": "https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "T\u00fa, Mija",
-      "url": "https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Loco Enamorado",
         "url": "https://open.spotify.com/album/7zR6tG73BWnHml3UjZbFCn"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 160449,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/6oHceJfgSlVAGAD8n4cQcR"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "T\u00fa, Mija",
+        "url": "https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "T\u00fa, Mija",
+      "url": "https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1915,6 +1915,30 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Tar",
+        "url": "https://open.spotify.com/album/3T9Bipb4RjCKC5hcVmIn84"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "Elijah Parrish",
+          "url": "https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui"
+        },
+        {
+          "name": "Lil Benjas",
+          "url": "https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP"
+        }
+      ],
+      "duration_ms": 211302,
+      "name": "Tenemos Que Admitirlo",
+      "url": "https://open.spotify.com/track/0OaUt0opN99WQlxameVoUf"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "A Solas",
         "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
       },
@@ -1931,22 +1955,6 @@
       "duration_ms": 176170,
       "name": "A Solas",
       "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Sonr\u00edes Como Nadie",
-        "url": "https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 196057,
-      "name": "Sonr\u00edes Como Nadie",
-      "url": "https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f"
     }
   ],
   "unique_name": "Rimas Pa'l Cora",

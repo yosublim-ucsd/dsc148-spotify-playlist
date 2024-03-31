@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 472543,
+  "num_followers": 472971,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmYyNzhhNmMxODg4MGM0NDRhNDA4NGY2NWEyZjBlMTc4MWJjNTQ2",
+  "snapshot_id": "MCw5MTQ4M2EyOTdiY2ViODFlMGU5MzBiZjI0NTA3NDM4NDExYTMyNDIz",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Hot",
-        "url": "https://open.spotify.com/album/1BykQV2nA2F8zXzsUJ6DQ2"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 217036,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/7F1lHcpnTycnimQrCxDFI5"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Love Generation (Radio Edit)",
         "url": "https://open.spotify.com/album/65crznT6OSNgS5riyglAKu"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 204105,
       "name": "Love Generation - Radio Edit",
       "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/1BykQV2nA2F8zXzsUJ6DQ2"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 217036,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/7F1lHcpnTycnimQrCxDFI5"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -335,6 +335,38 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Rock This Party (Everybody Dance Now)",
+        "url": "https://open.spotify.com/album/57mlkm7WBwmoT0DZ6EDYpH"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Cutee B.",
+          "url": "https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO"
+        },
+        {
+          "name": "DollarMan",
+          "url": "https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ"
+        },
+        {
+          "name": "Big Ali",
+          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
+        },
+        {
+          "name": "Makedah",
+          "url": "https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Rock This Party (Everybody Dance Now)",
+      "url": "https://open.spotify.com/track/5qiIxojpo8YTFgOOcDuOaB"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Pjanoo",
         "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
       },
@@ -379,38 +411,6 @@
       "duration_ms": 176453,
       "name": "All I Ever Wanted - Radio Edit",
       "url": "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Rock This Party (Everybody Dance Now)",
-        "url": "https://open.spotify.com/album/57mlkm7WBwmoT0DZ6EDYpH"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Cutee B.",
-          "url": "https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO"
-        },
-        {
-          "name": "DollarMan",
-          "url": "https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ"
-        },
-        {
-          "name": "Big Ali",
-          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
-        },
-        {
-          "name": "Makedah",
-          "url": "https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Rock This Party (Everybody Dance Now)",
-      "url": "https://open.spotify.com/track/5qiIxojpo8YTFgOOcDuOaB"
     },
     {
       "added_at": "2021-10-06 04:50:26",
@@ -535,6 +535,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Encore - Live And Direct",
+        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Now You're Gone - The Album",
         "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 148186,
       "name": "Now You're Gone (feat. DJ Mental Theo's Bazzheadz) - Video Edit",
       "url": "https://open.spotify.com/track/5Nr1ZcH9PGTiQdGl9HCCS1"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Encore - Live And Direct",
-        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
     },
     {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "In Silico",
+        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 313346,
+      "name": "Propane Nightmares",
+      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
+    },
+    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
@@ -1219,22 +1235,6 @@
       "duration_ms": 281080,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "In Silico",
-        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 313346,
-      "name": "Propane Nightmares",
-      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
     },
     {
       "added_at": "2021-04-29 18:40:15",

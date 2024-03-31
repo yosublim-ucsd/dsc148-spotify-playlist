@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > co\-curadoria com IZA em celebração ao Mês Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,113 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,105 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 46 | [Passione](https://open.spotify.com/track/75rWUt2aqjGj2qKLD7hFcY) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Passione](https://open.spotify.com/album/3cGGvKieKWwGfqB3LJJAP0) | 2:34 |
 | 47 | [De Volta Ao Sol](https://open.spotify.com/track/7J4u6mdK4MIv7to3Q50THx) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [De Volta ao Sol](https://open.spotify.com/album/2cevQTzHrOFoBwJECGZDT7) | 2:54 |
 | 48 | [Todo Todo](https://open.spotify.com/track/5Jzo0zaXPQM7Zo6Dld3yip) | [Bia Maia](https://open.spotify.com/artist/3JWRPvTKuPzGYNjELUvQ5S) | [Todo Todo](https://open.spotify.com/album/534Fl2g5FpAPlJYhkhvTpH) | 3:09 |
-| 49 | [A BRABA É ELA](https://open.spotify.com/track/0jCVZPKATio2VCF37Jf6O6) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA](https://open.spotify.com/album/1sLRI3xGm5m0Hf1gj5dWQc) | 2:22 |
-| 50 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
+| 49 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
+| 50 | [A BRABA É ELA](https://open.spotify.com/track/0jCVZPKATio2VCF37Jf6O6) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA](https://open.spotify.com/album/1sLRI3xGm5m0Hf1gj5dWQc) | 2:22 |
 
-Snapshot ID: `MCxkM2Y2YTgzNTI0ZTFiNWNkOGU2Yjg1N2FlMjYwNGFkYTQyMmE4Yzc0`
+Snapshot ID: `MCwwMWFkZDEwZTZjNTYxNjlkN2E3NjcyNzIyODRkZDIyYTBhNzcyMjIx`

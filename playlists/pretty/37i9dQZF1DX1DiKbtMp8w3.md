@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,865 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,868 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 82 | [가을목이](https://open.spotify.com/track/6EGAM4UTKM6yr5sMFJE5KM) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [그때는 왜 몰랐을까](https://open.spotify.com/album/2nveIkdVfDd3IlO1g0W4sy) | 2:57 |
 | 83 | [SORAN\(소란\) \- Stage Comment 6](https://open.spotify.com/track/7ERcDQq97keaQP0Cjlzknl) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:29 |
 | 84 | [Prince](https://open.spotify.com/track/0tcsDZ43YgMJQGL8uBBziF) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Prince](https://open.spotify.com/album/1qp1JzVgo7prqBw5mhEla2) | 3:44 |
-| 85 | [Minsu is confused](https://open.spotify.com/track/26OCm1BoM09I3jIXYQhVsx) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Minsu is confused](https://open.spotify.com/album/7iQarceFKVFWHCXTOLPcqi) | 3:46 |
+| 85 | [Minsu Is Confused](https://open.spotify.com/track/26OCm1BoM09I3jIXYQhVsx) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Minsu Is Confused](https://open.spotify.com/album/7iQarceFKVFWHCXTOLPcqi) | 3:46 |
 | 86 | [MINSU\(민수\) \- Stage Comment 1](https://open.spotify.com/track/50lRtCCyp5IeIU4sHWxxU7) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:16 |
 | 87 | [Time Out](https://open.spotify.com/track/3NW79QWH1WCQdIofrvM1Ph) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:44 |
 | 88 | [MINSU\(민수\) \- Stage Comment 2](https://open.spotify.com/track/2SwnmgZ4EWSY1qb3Eq0zvM) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:33 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCxiMDIxNTA2ZmJkMTBlMTExYzdkMWY4M2Y5ODhiNzYzNmFjZWM1YjBj`
+Snapshot ID: `MCw0YjQ0ZjZhODVjN2I4YjlmZTFkYzBiYzk4ZjIwNDE0MWIzY2IzMjI0`

@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 27796,
+  "2024-03-31": 27815,
   "date_first_scraped": "2023-07-29",
   "description": "La pop fran\u00e7aise annonce la couleur. Photo : Louisette & Amaury",
   "name": "Couleur Pop",
@@ -1495,6 +1495,24 @@
       "duration_ms": 204325,
       "name": "Le Mythe de Jesse James",
       "url": "https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z"
+    },
+    {
+      "album": {
+        "name": "Le pas",
+        "url": "https://open.spotify.com/album/2kizAvObb16TiKr4G2y6Yz"
+      },
+      "artists": [
+        {
+          "name": "Esken",
+          "url": "https://open.spotify.com/artist/6YASQSJPMeUFm0rpMXY0p1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156050,
+      "name": "Le Pas",
+      "url": "https://open.spotify.com/track/52N5YwXgVCV9dHWAOegiPr"
     },
     {
       "album": {

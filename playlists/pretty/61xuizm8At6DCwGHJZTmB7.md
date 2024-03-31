@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Celebrate Easter season with your favorite worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,477 likes - 163 songs - 15 hr 39 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,486 likes - 163 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 23 | [Empty](https://open.spotify.com/track/35Q1G0MzRyg2NV0gqZvt85) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Empty](https://open.spotify.com/album/5NgFVX1Nopfkfh8MpSXTa4) | 4:28 |
 | 24 | [Another In The Fire](https://open.spotify.com/track/2Wh5hmw4afibksDICDu2ge) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [\(in the meantime\)](https://open.spotify.com/album/4Slh7GOXCskT0v8WDe7pjo) | 4:21 |
 | 25 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [The Lord Will Provide \(Live From Passion 2024\)](https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ) | 5:36 |
-| 26 | [Jesus Christ Over Everything \- Live](https://open.spotify.com/track/6hfULoWn9n0TGFQWDOWzkw) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/5DO9wuneObB0e6vNxFSJVi), [Ellisha Carter](https://open.spotify.com/artist/2vEOfYrqqx0Crq1UH7joYE) | [Jesus Christ Over Everything](https://open.spotify.com/album/5azL2XOS9gjemX9IT5ij2E) | 5:35 |
+| 26 | [Jesus Christ Over Everything \- Live](https://open.spotify.com/track/6hfULoWn9n0TGFQWDOWzkw) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/5DO9wuneObB0e6vNxFSJVi) | [Jesus Christ Over Everything](https://open.spotify.com/album/5azL2XOS9gjemX9IT5ij2E) | 5:35 |
 | 27 | [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 |
 | 28 | [Yeshua \- Live](https://open.spotify.com/track/4lu2i1XcWo1zze2vealWlB) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [JESUS \(Live\)](https://open.spotify.com/album/6rbdumL4FK82VrbBPj1jyg) | 11:57 |
 | 29 | [The Love Of God](https://open.spotify.com/track/3Ob3WKmAMAmG4enBpdKkME) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [The Love Of God](https://open.spotify.com/album/2BodOXnFjOG6sxKZ1AbCSm) | 3:35 |

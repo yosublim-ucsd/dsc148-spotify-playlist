@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 573854,
+  "2024-03-31": 573937,
   "date_first_scraped": "2022-01-10",
-  "description": "Rap from hell. Cover: 1nonly",
+  "description": "Rap from hell. Cover: $uicideboy$",
   "name": "TIRADE",
   "tracks": [
     {
@@ -1679,7 +1679,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 277338,
       "name": "Bloody 98 (Feat. Ghostemane)",
       "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
@@ -2729,7 +2729,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 149461,
       "name": "COWBELL WARRIORS!",
       "url": "https://open.spotify.com/track/21N4kygnrmdLUmQ27DE9Lu"
@@ -7452,6 +7452,28 @@
     },
     {
       "album": {
+        "name": "MARMADUKE",
+        "url": "https://open.spotify.com/album/0dhNOPuRXG34XjGKpJrlce"
+      },
+      "artists": [
+        {
+          "name": "99zed",
+          "url": "https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9"
+        },
+        {
+          "name": "Saliva Grey",
+          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "MARMADUKE",
+      "url": "https://open.spotify.com/track/5d9imY4am4ijdLDFnh82xK"
+    },
+    {
+      "album": {
         "name": "lonely boy",
         "url": "https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB"
       },
@@ -9207,7 +9229,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 236032,
       "name": "Provolone & Heroin (Feat. Freddie Dredd)",
       "url": "https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH"
@@ -10578,6 +10600,24 @@
     },
     {
       "album": {
+        "name": "Spoiled Dogs, Sleeping Belly Up",
+        "url": "https://open.spotify.com/album/7nIcjGtTgPKGjN8FBcQS2l"
+      },
+      "artists": [
+        {
+          "name": "Warlord Colossus",
+          "url": "https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143973,
+      "name": "Spoiled Dogs, Sleeping Belly Up",
+      "url": "https://open.spotify.com/track/6KqheHUHGIRKze9HBBAj3u"
+    },
+    {
+      "album": {
         "name": "Staring At The Stars",
         "url": "https://open.spotify.com/album/53WdsNNa7sAHZcymBMDIpb"
       },
@@ -11681,6 +11721,24 @@
       "duration_ms": 151249,
       "name": "UP LIKE AN INSOMNIAC - Freestyle",
       "url": "https://open.spotify.com/track/5UJ3N25ukIruG4Do8RDHra"
+    },
+    {
+      "album": {
+        "name": "Us Vs. Them",
+        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184633,
+      "name": "Us Vs. Them",
+      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
     },
     {
       "album": {

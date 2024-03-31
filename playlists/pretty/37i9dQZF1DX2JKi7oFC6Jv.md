@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,997 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,008 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 29 | [Timbao](https://open.spotify.com/track/1jbha5KqgpV5qH4A4kZDnu) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/3bKvBimZKZhXnnpfTT9awr) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/5nlOnRGgf46AmVzyAPDPyh) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [3 x 2 EP](https://open.spotify.com/album/4dvYDMor2bCeiyQh7hK4dJ) | 5:08 |
 | 31 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
-| 32 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
-| 33 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
+| 32 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
+| 33 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
 | 34 | [Bongo Jam \- Club Mix](https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Bongo Jam](https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN) | 7:41 |
 | 35 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
 | 36 | [Sentah](https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Sentah](https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2) | 3:08 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 56 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
 | 57 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
 | 58 | [Red Devil](https://open.spotify.com/track/0uEprpXfrUkQoa9pPK7G0F) | [DJ Motu](https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx) | [Red Devil](https://open.spotify.com/album/6up4KMMrMWCoNq6qqMFMeK) | 4:12 |
-| 59 | [Cheerio](https://open.spotify.com/track/0l2gSY0Ehe9GoCTQTVs1DK) | [Isagen](https://open.spotify.com/artist/0ibLC9VfGqZkhehokX2v1v) | [Cheerio](https://open.spotify.com/album/7blZV8xPGG3e1oymgkH7PD) | 4:37 |
-| 60 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
+| 59 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
+| 60 | [Cheerio](https://open.spotify.com/track/0l2gSY0Ehe9GoCTQTVs1DK) | [Isagen](https://open.spotify.com/artist/0ibLC9VfGqZkhehokX2v1v) | [Cheerio](https://open.spotify.com/album/7blZV8xPGG3e1oymgkH7PD) | 4:37 |
 
-Snapshot ID: `MCxmMjE5YjYzYzMyNjIyZTQ3NGUxOWNlZmY3OGYzMDUzMDc0MWZkODBi`
+Snapshot ID: `MCxmZmUzOGYxZDQ3ZWJhNTk1NDVhMzE4NjBhNTlhYTQzMTc0ODE3MWNh`

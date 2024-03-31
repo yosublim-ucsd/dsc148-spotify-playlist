@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: Saba Sister \(サバシスター\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,393 songs - 3 day 15 hr 19 min
+1,394 songs - 3 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,8 @@
 | [Nichijo no Sukosi Saki e](https://open.spotify.com/track/2XFgux5P8xq6JwgFImat2W) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [Nichijo no Sukosi Saki e](https://open.spotify.com/album/0XhWJADP1qlTKGyaRU31AH) | 3:20 | 2024-01-16 | 2024-01-31 |
 | [Nimby](https://open.spotify.com/track/4Gfy00cHRDU1u1uJdbOYqf) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Nimby](https://open.spotify.com/album/7gZGcOXNKumRKcSOxc1qzy) | 4:23 | 2023-08-31 | 2023-10-04 |
 | [nitari](https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [nitari](https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE) | 2:43 | 2024-01-16 | 2024-02-21 |
-| [No Crime](https://open.spotify.com/track/2H3n7IXXc2nSOyJNxxpraj) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [No Crime](https://open.spotify.com/album/5km22Frrq8HaLJjdsrlCsw) | 2:58 | 2024-03-21 |  |
+| [No Crime](https://open.spotify.com/track/2H3n7IXXc2nSOyJNxxpraj) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [No Crime](https://open.spotify.com/album/5km22Frrq8HaLJjdsrlCsw) | 2:58 | 2024-03-21 | 2024-03-31 |
+| [No Crime](https://open.spotify.com/track/7mZ2l20ga1cwVw7WVZWWkI) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [PURE 40](https://open.spotify.com/album/3ebUA1TA2F3IMkyFNjJN8E) | 2:59 | 2024-03-26 |  |
 | [No Gravity](https://open.spotify.com/track/2rlj5ywKI8pjdnZiJg4cpQ) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [No Gravity](https://open.spotify.com/album/5HmKiqg7uDMGtE5etxKVug) | 3:35 | 2023-10-31 | 2023-12-13 |
 | [No more cry](https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [No more cry](https://open.spotify.com/album/6zpFA9iNwQHkV4xSXzIQEK) | 4:38 | 2023-10-10 | 2023-11-08 |
 | [No.11](https://open.spotify.com/track/2HDoip3pYuJujlJ6r0Cyq7) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Toy box](https://open.spotify.com/album/0qQYB8pHRbWRoKD2IgIYSo) | 3:50 | 2023-10-03 | 2023-10-18 |

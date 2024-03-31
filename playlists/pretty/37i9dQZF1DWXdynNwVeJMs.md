@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: De Beren Gieren
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,767 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,768 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 6 | [Yiri Yiri Boum](https://open.spotify.com/track/6iICxNg56nU4HLLNCRi1DU) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Yiri Yiri Boum](https://open.spotify.com/album/7eQPW7QK3AGerQXqtr9B3O) | 6:11 |
 | 7 | [Abyssal Wandering](https://open.spotify.com/track/4NMNkomvSRGBmUc2ifC7kN) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Maelström](https://open.spotify.com/album/2tg20LGxMn7y2GW651dFDJ) | 6:42 |
 | 8 | [Yupla](https://open.spotify.com/track/4Bu8wvlZWNu1OdCpXFyZ3t) | [mòs ensemble](https://open.spotify.com/artist/6oqHDzHvWhsmPOt22n3wQX) | [Yupla](https://open.spotify.com/album/65PAdAMM9EtDP2WC0fT4en) | 3:48 |
-| 9 | [Papir Freedom](https://open.spotify.com/track/2nzwfCyZOhw8Svbc6h5Ams) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Papir Freedom](https://open.spotify.com/album/6ffk58AJ2lwlSylw02IYR6) | 4:25 |
+| 9 | [Papir Freedom](https://open.spotify.com/track/6OzARRJLlPeRB2ICpY0ftR) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [What Eludes Us](https://open.spotify.com/album/17GR5WsqNpR9IKYquLCY4R) | 4:25 |
 | 10 | [Amulet](https://open.spotify.com/track/6MksNP1yBT38UMVBt1Daqk) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 4:01 |
 | 11 | [Little Ghost](https://open.spotify.com/track/5DRpk9OOJBbT9alKCqCud1) | [OOOTOKO](https://open.spotify.com/artist/4h2TjjbpGgzYjn4ovwB52c) | [Little Ghost](https://open.spotify.com/album/45HbdPoqL1ctz87ghrhuDz) | 4:11 |
 | 12 | [Holy Bee](https://open.spotify.com/track/6583TUNTEEgIeTB5M7NpYr) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [Propolis For The People](https://open.spotify.com/album/3qdAcFsTEriSmezw5jX5HM) | 6:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 49 | [Maryward](https://open.spotify.com/track/3DUcCDY04fWN1qv9OB46cN) | [Grand Picture Palace](https://open.spotify.com/artist/1nw3i2K0N8XZi916gV0E4l) | [Maryward](https://open.spotify.com/album/6ZIDG4fFZLYKLNHkqAYQt8) | 6:07 |
 | 50 | [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 |
 
-Snapshot ID: `MCw1OWQwODFlYWE5MTJmZDlmMGRiNTFhMjk0ZGM1ZDQ5NDhjMmQzZDNj`
+Snapshot ID: `MCw0NmM1MTVjODJiYTZmMjE3YmJlNjNjNGZmZDU2N2MyY2FkYzlkZGM4`

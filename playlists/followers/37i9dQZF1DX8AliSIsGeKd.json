@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 636321,
+  "2024-03-31": 636443,
   "date_first_scraped": "2022-04-20",
   "description": "The best new electronic music. Cover: Betoko",
   "name": "Electronic Rising",
@@ -18858,6 +18858,28 @@
     },
     {
       "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/772KaR8hxFRpFNUhBuwV11"
+      },
+      "artists": [
+        {
+          "name": "Ebmath",
+          "url": "https://open.spotify.com/artist/3NFKWhstN9hCqjnWJULb7d"
+        },
+        {
+          "name": "Radeckt",
+          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409672,
+      "name": "Faces - Radeckt Remix",
+      "url": "https://open.spotify.com/track/3ayDyY3GA2f7Y3Dzk01TOj"
+    },
+    {
+      "album": {
         "name": "Faces (Radeckt Remix)",
         "url": "https://open.spotify.com/album/6PEaU3SM6eoRWDObtzACGo"
       },
@@ -18873,7 +18895,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 409672,
       "name": "Faces - Radeckt Remix",
       "url": "https://open.spotify.com/track/3ppkY6KwpVpCvscf6i5KGa"

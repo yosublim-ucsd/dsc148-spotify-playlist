@@ -4,7 +4,7 @@
 
 > We outside\. Cover: Valiant
 
-287 songs - 15 hr 15 min
+288 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bicycle](https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Hero Raw: Deluxe](https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs) | 2:17 | 2023-11-17 |  |
 | [Big Chune](https://open.spotify.com/track/1IjPlLjheWe899ounTjCby) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Big Chune](https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs) | 2:43 | 2023-03-03 | 2023-08-04 |
 | [Bitcoin](https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [TroyBoss](https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr) | [Bitcoin](https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp) | 3:16 | 2023-08-03 | 2023-11-18 |
-| [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/6EC5tQ5QBc35eRL06PYcOR) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:45 | 2023-05-14 |  |
+| [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/6EC5tQ5QBc35eRL06PYcOR) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:45 | 2023-05-14 | 2024-03-31 |
 | [Bong Bing](https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Bong Bing](https://open.spotify.com/album/1jrrIPwjrDSsnx7Ciaqge6) | 2:48 | 2022-08-18 | 2022-09-10 |
 | [Boom Bang](https://open.spotify.com/track/437B7MVyS4cRTtwIBCDp39) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Boom Bang \(with Davido\)](https://open.spotify.com/album/0HRvp6uFFEX8fbALXV3ten) | 2:41 | 2021-07-19 | 2023-05-15 |
 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 | 2023-11-17 |  |
@@ -212,6 +212,7 @@
 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 | 2023-05-14 |  |
 | [Rum & Redbull](https://open.spotify.com/track/2MJof9aFrAmLyQjyEp4VXR) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI) | [Rum & Redbull](https://open.spotify.com/album/6d7teuEYNA6pWYK6vDZIBW) | 2:15 | 2021-07-19 | 2022-07-29 |
 | [Rum & Redbull](https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Rum & Redbull](https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR) | 2:15 | 2022-09-09 | 2022-11-13 |
+| [Rum & RedBull](https://open.spotify.com/track/2J49g2pq8WG0PP6m2GtzKU) | [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI) | [One Day Riddim](https://open.spotify.com/album/42WPGk6CaSkXm0iDBnRzGM) | 2:15 | 2023-11-17 |  |
 | [Rum Behavior](https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Rum Behavior](https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI) | 2:35 | 2023-11-17 |  |
 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 | 2021-07-19 | 2023-08-04 |
 | [Rushing](https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Rushing](https://open.spotify.com/album/3MgOPLcWZFCtmCSQPtmMaa) | 2:34 | 2022-08-18 | 2022-09-10 |

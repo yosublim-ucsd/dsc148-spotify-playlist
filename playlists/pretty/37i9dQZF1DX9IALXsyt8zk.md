@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,044 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,040 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Kiss Me Now](https://open.spotify.com/track/4peJedknibnj2QZMmb1e2c) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Kiss Me Now](https://open.spotify.com/album/2BuIQbe2kvN5FPlv4YWkma) | 2:50 |
 | 50 | [and you \(Feat\. ZICO\)](https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [and you](https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3) | 3:24 |
 
-Snapshot ID: `MCw0YWMxOGU0YzA0NjhlYjU4YzE4MDE2ODJiOGI0MDgwZjE5ZDI3NDJl`
+Snapshot ID: `MCwyNzg1YTM4ZTU5YTMwYmE5ZTU5MjI0NTk5MmE1MmM1NmJiYWIwYTBh`

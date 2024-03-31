@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 984631,
+  "2024-03-31": 984646,
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Kai Wachi",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Borgore",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 181655,
       "name": "Be Kind, Rewind - Calcium Remix",
       "url": "https://open.spotify.com/track/4etrVnSVgvnd9lzyLtNc4m"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 163200,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g"
@@ -1417,6 +1417,24 @@
       "duration_ms": 167176,
       "name": "BOSS FIGHT",
       "url": "https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR"
+    },
+    {
+      "album": {
+        "name": "Brain Rot",
+        "url": "https://open.spotify.com/album/4zKDr1BE6sbBncvG4etINM"
+      },
+      "artists": [
+        {
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Brain Rot",
+      "url": "https://open.spotify.com/track/4jImN6SNlhfQr6QJ0YuTyg"
     },
     {
       "album": {
@@ -1686,6 +1704,32 @@
     },
     {
       "album": {
+        "name": "CHIAROSCURO",
+        "url": "https://open.spotify.com/album/4WZZKZdnofkrCK6oKVGM0h"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Careless Castle",
+          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275200,
+      "name": "BURN UP",
+      "url": "https://open.spotify.com/track/7mo99X14j5mkgbYXjaH7WW"
+    },
+    {
+      "album": {
         "name": "Bussin Bussin (feat. JV Rhymes)",
         "url": "https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX"
       },
@@ -1829,6 +1873,28 @@
       "duration_ms": 172800,
       "name": "Carbonara",
       "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
+    },
+    {
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/1nbOlxFDqQJYI1FcXJn4JX"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Red Hood Squad",
+          "url": "https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/6a1KogheIeQ34Y1ZwN2q34"
     },
     {
       "album": {
@@ -2572,6 +2638,24 @@
     },
     {
       "album": {
+        "name": "Decimate",
+        "url": "https://open.spotify.com/album/0LcvAMk0yY5fYuiUDzRMCS"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210167,
+      "name": "Decimate",
+      "url": "https://open.spotify.com/track/58nKKLokxvBiFcpnhBd3Jz"
+    },
+    {
+      "album": {
         "name": "Decomposed (feat. TVBUU)",
         "url": "https://open.spotify.com/album/39jpXJv2tcnolZ0Ch67D94"
       },
@@ -3055,7 +3139,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 258082,
       "name": "Don't Let Me Let Go (with ILLENIUM & EVAN GIIA) \u2013 Zomboy Remix",
       "url": "https://open.spotify.com/track/6ZQHhBaGgwX2zourh1J5Ie"
@@ -3085,6 +3169,28 @@
       "duration_ms": 220800,
       "name": "Don't Look Down - Slippy Remix",
       "url": "https://open.spotify.com/track/0rg4wm7N51dWAFZ6gPbtjy"
+    },
+    {
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5oKMHgS24Ikp9APo5xi1lr"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
     },
     {
       "album": {
@@ -4620,6 +4726,24 @@
     },
     {
       "album": {
+        "name": "GRAVE ALTAR",
+        "url": "https://open.spotify.com/album/1fnpzYF0ABwrorU7MXHW7P"
+      },
+      "artists": [
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251586,
+      "name": "GRAVEL IN YOUR HEART",
+      "url": "https://open.spotify.com/track/1SRVpSqjRfQVxPj49q10Y6"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD"
       },
@@ -4895,7 +5019,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 154400,
       "name": "Headshot (feat. Mikey Ceaser)",
       "url": "https://open.spotify.com/track/4ZImeX5bzp2EFkN2ClFBMo"
@@ -8189,7 +8313,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 169714,
       "name": "Premier League",
       "url": "https://open.spotify.com/track/1UJdnazAX240LtuwBA2wcY"
@@ -8969,7 +9093,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 160271,
       "name": "ROBOTS",
       "url": "https://open.spotify.com/track/4vlTbBs0C5Q0oqRMz2UZqa"
@@ -9929,6 +10053,24 @@
       "duration_ms": 222315,
       "name": "Smoak & Sip",
       "url": "https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA"
+    },
+    {
+      "album": {
+        "name": "Sol Killer",
+        "url": "https://open.spotify.com/album/2J0VNg4RIWQWsPbeYgjoo5"
+      },
+      "artists": [
+        {
+          "name": "Lit Lords",
+          "url": "https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Sol Killer",
+      "url": "https://open.spotify.com/track/5Od72I4IcCFxKJjmp8FSaj"
     },
     {
       "album": {
@@ -10965,7 +11107,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 145714,
       "name": "Ten Toad Anthem",
       "url": "https://open.spotify.com/track/6KSJxsRPs4Q3Feaqyt4ZRZ"
@@ -10987,7 +11129,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 216000,
       "name": "Terror Dome",
       "url": "https://open.spotify.com/track/1HZhbhXx5ptbaGKohqEWu3"
@@ -11035,6 +11177,24 @@
       "duration_ms": 247266,
       "name": "The Depths",
       "url": "https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx"
+    },
+    {
+      "album": {
+        "name": "WASTELANDER",
+        "url": "https://open.spotify.com/album/2327TYefFwVxDozxtYmF58"
+      },
+      "artists": [
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "THE DRIFTER",
+      "url": "https://open.spotify.com/track/6ziO7ZwGmUCjnUTDru2Ioq"
     },
     {
       "album": {

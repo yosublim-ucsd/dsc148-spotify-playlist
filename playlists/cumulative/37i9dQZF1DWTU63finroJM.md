@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Ege Can Sal.
 
-1,281 songs - 2 day 22 hr 42 min
+1,284 songs - 2 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Buenos Días](https://open.spotify.com/track/56h6nyrgG2guJPgdTRdju1) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:12 | 2022-03-24 | 2022-04-15 |
 | [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-29 | 2023-09-23 |
 | [Busted](https://open.spotify.com/track/1Kc00Xx45rcJVdpFhHaxMc) | [Soulstice](https://open.spotify.com/artist/2EGJbNf0Hva2C2N6hvhMXD) | [Busted](https://open.spotify.com/album/1FiYlmq6TULRuhcZSlf59V) | 3:50 | 2022-02-10 | 2022-02-19 |
-| [BUTCHER'S BIN](https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BUTCHER'S BIN](https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R) | 4:00 | 2024-03-17 |  |
+| [BUTCHER'S BIN](https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BUTCHER'S BIN](https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R) | 4:00 | 2024-03-17 | 2024-03-31 |
 | [bye bye](https://open.spotify.com/track/12bz9ZB91ONuwiZt1NaUMK) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:18 | 2022-03-24 | 2022-04-21 |
 | [C.C.G](https://open.spotify.com/track/0neY86dLQyT6FPYbpdizTT) | [Lorena Santos](https://open.spotify.com/artist/4joarc2IPqP1ZvWfcbZ52C) | [C.C.G](https://open.spotify.com/album/4J8TjKFG6ZIOjRjYHSwlIR) | 2:04 | 2022-03-24 | 2022-06-20 |
 | [Cachemire](https://open.spotify.com/track/4oKvj7JpbW6YDoC9lVF1MK) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Toujours pas rappeur.](https://open.spotify.com/album/4KStzhPjqdg6DsBvz8HWQu) | 3:15 | 2022-03-24 | 2022-08-05 |
@@ -246,7 +246,7 @@
 | [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 | 2022-03-24 | 2022-04-17 |
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-17 | 2023-03-04 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-04-12 | 2022-04-18 |
-| [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 |  |
+| [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 | 2024-03-31 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-03-24 | 2022-08-02 |
 | [De la Cueva a los Olivos](https://open.spotify.com/track/5HxlKgVbbQqSfoXYB72Gq3) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Pureza](https://open.spotify.com/album/3hTQf3Mj4ty2N69RCZ07D8) | 3:37 | 2023-02-08 | 2023-10-06 |
 | [dear abbey](https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [dear abbey](https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9) | 3:54 | 2023-05-30 | 2023-09-16 |
@@ -296,7 +296,8 @@
 | [Egal \(was passiert\)](https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Egal \(was passiert\)](https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe) | 3:18 | 2023-09-15 | 2023-10-06 |
 | [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 | 2022-08-26 | 2022-09-16 |
 | [El Barrio](https://open.spotify.com/track/1C99AXjM9atPNIgm3JwE3t) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/7e6QkedF9KH6dsW8McP29w) | 2:35 | 2022-03-24 | 2022-04-11 |
-| [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 | 2024-02-09 |  |
+| [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 | 2024-02-09 | 2024-03-31 |
+| [El Disfraz](https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [El Disfraz](https://open.spotify.com/album/3mGHU6Au7nS9rOZoDlCvAP) | 2:44 | 2024-03-17 |  |
 | [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 | 2022-03-24 | 2022-09-16 |
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2022-08-04 | 2022-09-16 |
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2022-03-24 | 2022-09-16 |
@@ -595,6 +596,7 @@
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-03-21 | 2022-05-20 |
 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 | 2022-03-24 | 2022-04-14 |
 | [Little Bit of This](https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Little Bit of This](https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN) | 3:00 | 2022-03-24 | 2022-09-16 |
+| [Live Forever](https://open.spotify.com/track/0f8vJ5TNG54ymfv7b70NF7) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Live Forever](https://open.spotify.com/album/7JIW8bW2IvO0cSmrPMth3z) | 3:13 | 2024-03-29 |  |
 | [Llamadas Perdidas](https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 4:21 | 2022-03-24 | 2022-09-16 |
 | [Loading](https://open.spotify.com/track/4vzJrkfHbCGaodPA5RY5BV) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:53 | 2022-03-24 | 2022-09-16 |
 | [Locker](https://open.spotify.com/track/43rGeSTINiWovwNPiQGAXl) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Locker](https://open.spotify.com/album/6Z4hEV3oVdbCiJd4yYJqu7) | 2:29 | 2022-02-03 | 2022-08-02 |
@@ -1100,6 +1102,7 @@
 | [What?](https://open.spotify.com/track/1evZendZnEe8a8eXjd1Bcn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 4:30 | 2022-02-03 | 2022-03-17 |
 | [When It's Over](https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [When It's Over](https://open.spotify.com/album/2irzSmx5N2QvP3YLJXkRHD) | 3:04 | 2024-03-22 |  |
 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 | 2022-02-03 | 2022-03-18 |
+| [When You Call](https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [When You Call](https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz) | 3:05 | 2024-03-29 |  |
 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 | 2023-10-13 |  |
 | [Who Do I Call?](https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Who Do I Call?](https://open.spotify.com/album/7245tBW17hLcjSaOsn5k8n) | 1:54 | 2022-03-24 | 2022-08-02 |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-09-01 | 2023-12-02 |

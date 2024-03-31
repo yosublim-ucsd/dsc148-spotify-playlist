@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 935156,
+  "num_followers": 935330,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzNlOWVkNDMzOGIyNTI0OGQ1NzcyNTU3OGRmZDYzZjIxYWMzZjVi",
+  "snapshot_id": "MCw3NmQxZDNhMmViMjMwY2Y2YTc2MDhjYjdlOWNlMTM1NDE3NmQ2NTRm",
   "tracks": [
     {
       "added_at": "2023-11-27 18:33:25",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
       "artists": [
         {
-          "name": "Chris Luno",
-          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
-        },
-        {
-          "name": "Exit Coda",
-          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 227987,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -531,18 +527,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        },
+        {
+          "name": "Exit Coda",
+          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
         }
       ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+      "duration_ms": 227987,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Designer Love",
-        "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
-      },
-      "artists": [
-        {
-          "name": "MARIA Die RUHE",
-          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Designer Love - Short Version",
-      "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "Keep Going",
         "url": "https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 224516,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "Designer Love",
+        "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
+      },
+      "artists": [
+        {
+          "name": "MARIA Die RUHE",
+          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Designer Love - Short Version",
+      "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Dreamcast",
-        "url": "https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 325744,
-      "name": "Dreamcast",
-      "url": "https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "Alone (Stephan Jolk Remix)",
         "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
+        "name": "Dreamcast",
+        "url": "https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 325744,
+      "name": "Dreamcast",
+      "url": "https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
         "name": "Domino (David Guetta Remix)",
         "url": "https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 329670,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Les Orangers",
-        "url": "https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 402040,
-      "name": "Les Orangers",
-      "url": "https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "Holocene, Pt. II",
         "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 414600,
       "name": "Holocene, Pt. II",
       "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "Les Orangers",
+        "url": "https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 402040,
+      "name": "Les Orangers",
+      "url": "https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -1095,22 +1095,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Plastic (Scheinizzl Remix)",
-        "url": "https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq"
+        "name": "Bloom In The Cold",
+        "url": "https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX"
       },
       "artists": [
         {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
         },
         {
-          "name": "Scheinizzl",
-          "url": "https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV"
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
         }
       ],
-      "duration_ms": 407000,
-      "name": "Plastic (Scheinizzl Remix)",
-      "url": "https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP"
+      "duration_ms": 263575,
+      "name": "Bloom In The Cold",
+      "url": "https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed"
     }
   ],
   "unique_name": "Lowkey Tech",

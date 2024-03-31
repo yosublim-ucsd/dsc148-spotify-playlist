@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-430 songs - 1 day 14 hr 10 min
+431 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Lari](https://open.spotify.com/track/0YQog7ps2U7PStHTlCmnd8) | [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Lari](https://open.spotify.com/album/6NAnaNHTtMCqQbetNKQYXJ) | 4:18 | 2024-02-16 |  |
 | [Last Steps, First](https://open.spotify.com/track/2swNlkpmNkfR9Nm7EzCrcR) | [Jeff Cosgrove](https://open.spotify.com/artist/3cA8XbbTFynWY8ea883RE8), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [William Parker](https://open.spotify.com/artist/5r65V3tfKsDc3nHfpIl7D0) | [Near Disaster](https://open.spotify.com/album/4bSGDwliZR4IVskpHldJUE) | 9:02 | 2022-02-10 | 2022-07-24 |
 | [Late Lament](https://open.spotify.com/track/6Yq7c4xi4og0panpqWtonR) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [Late Lament](https://open.spotify.com/album/2WHn7qSpz125SHdgwZK2eL) | 5:58 | 2022-02-10 | 2022-09-03 |
+| [Leblon](https://open.spotify.com/track/6K0kJA5XRwNpm8Vb0u54gf) | [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Leblon](https://open.spotify.com/album/3a2LOCX08NqtEJQxCcuW1r) | 3:32 | 2024-03-27 |  |
 | [Lennie's Pennies](https://open.spotify.com/track/5r7NKvWM2bobLktnfXAc0u) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [Trio in Motion](https://open.spotify.com/album/6EdM2mnZFUUtBWsgcHMMGY) | 3:05 | 2022-02-10 | 2022-09-03 |
 | [Let's Go Home](https://open.spotify.com/track/5PolOxhF0X14s1gFshlJhI) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP) | [Let's Go Home](https://open.spotify.com/album/34PHs2lBBeXgBrwOwWxDbp) | 5:16 | 2022-12-02 |  |
 | [Letter to Evan](https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Letter to Evan](https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM) | 4:30 | 2022-02-10 | 2023-09-28 |
@@ -269,7 +270,7 @@
 | [Played Twice](https://open.spotify.com/track/7vDWT3NsfVoey6aSoTTM2v) | [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8) | [Power of Love](https://open.spotify.com/album/1mHFzljp8Gd2m90wVgwqNL) | 5:44 | 2022-02-10 | 2022-07-25 |
 | [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2022-02-10 | 2022-09-03 |
 | [Pray](https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4) | [Marc van Roon Trio](https://open.spotify.com/artist/0LVkl4BXWGA8QcjS6dIkaf) | [Quantum Stories](https://open.spotify.com/album/6erjfrUNgfkIZ41rEoI7Z5) | 4:01 | 2022-02-10 | 2022-09-03 |
-| [Prayer](https://open.spotify.com/track/0WmpQB4hLFPIgyqszz8Iwk) | [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo), [Jerad Lippi](https://open.spotify.com/artist/6f0ul5oNqpBr2Cfk2GohbZ), [Rick Rosato](https://open.spotify.com/artist/3HKWvinOyxbprcbgmbycY4) | [Prayer](https://open.spotify.com/album/0XnndbE42PHM9HoEVYdgeT) | 10:11 | 2022-02-10 |  |
+| [Prayer](https://open.spotify.com/track/0WmpQB4hLFPIgyqszz8Iwk) | [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo), [Jerad Lippi](https://open.spotify.com/artist/6f0ul5oNqpBr2Cfk2GohbZ), [Rick Rosato](https://open.spotify.com/artist/3HKWvinOyxbprcbgmbycY4) | [Prayer](https://open.spotify.com/album/0XnndbE42PHM9HoEVYdgeT) | 10:11 | 2022-02-10 | 2024-03-31 |
 | [Prelude to a Kiss](https://open.spotify.com/track/5utG7gaVcIMMDJbJQ09q1L) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Prelude to a Kiss](https://open.spotify.com/album/7EzWxXhnVRz8iTm2y0keaQ) | 5:20 | 2022-02-10 | 2022-07-29 |
 | [Prelude to a Kiss](https://open.spotify.com/track/04GQoL73mzVbe6GX7cwSKB) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 5:20 | 2022-02-10 |  |
 | [Promise of Spring](https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 4:29 | 2022-03-25 |  |

@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 284294,
+  "2024-03-31": 284298,
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: ELENA ROSE",
+  "description": "Fresh Latin pop on the rise. Cover: Be\u00e9le & Kany Garc\u00eda",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -415,7 +415,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 171279,
       "name": "aguardiente",
       "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
@@ -3757,7 +3757,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 157375,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
@@ -6191,6 +6191,28 @@
       "duration_ms": 192320,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "album": {
+        "name": "Me Arriesgo Contigo",
+        "url": "https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Me Arriesgo Contigo",
+      "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
     },
     {
       "album": {
@@ -11751,6 +11773,28 @@
       "duration_ms": 207426,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    },
+    {
+      "album": {
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "album": {

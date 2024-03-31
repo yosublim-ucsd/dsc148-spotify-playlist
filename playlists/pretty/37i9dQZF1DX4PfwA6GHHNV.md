@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,469 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,467 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [Teimosa e Ciumenta](https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Fases Vol\. 1](https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG) | 2:26 |
 | 50 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
 
-Snapshot ID: `MCxlNTVmNTA4NDAzNTU5OWViMTIzMGFkZDBiM2FmMjI2YWM0Y2ZlOTQ0`
+Snapshot ID: `MCxhYWJjYTdkMGI5MWQ2Y2E4ODdmOWM5Y2FlNWNmOWZhMGQ0MWFmOWQ3`

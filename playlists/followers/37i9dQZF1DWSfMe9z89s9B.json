@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 1382811,
+  "2024-03-31": 1382807,
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Cruza",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Casper Sage",
   "name": "Vanguard",
   "tracks": [
     {
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 163614,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/7hW1ZGSfjSEW7cxwZKO7Ig"
@@ -3563,7 +3563,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 173377,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
@@ -7787,7 +7787,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 194285,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5dowGWYR5uTqaAtpofvZs6"
@@ -11864,6 +11864,24 @@
     },
     {
       "album": {
+        "name": "Make Friends",
+        "url": "https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248975,
+      "name": "Make Friends - Pocket Size Radio Edit",
+      "url": "https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic"
+    },
+    {
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/3uEoo2ginP8FqunYyoml1S"
       },
@@ -13323,6 +13341,24 @@
       "duration_ms": 312104,
       "name": "Nothing & Everything",
       "url": "https://open.spotify.com/track/21olzr6m9aB9ZvfquKzdFh"
+    },
+    {
+      "album": {
+        "name": "Nothings Into Signs",
+        "url": "https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157318,
+      "name": "Nothings Into Signs",
+      "url": "https://open.spotify.com/track/31kpgadjTib4K74PRKec0s"
     },
     {
       "album": {
@@ -15645,6 +15681,24 @@
       "duration_ms": 165186,
       "name": "Rider",
       "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
+    },
+    {
+      "album": {
+        "name": "Right now!",
+        "url": "https://open.spotify.com/album/7IGXZOVyp9uiiR1fCIkIUz"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114056,
+      "name": "Right now!",
+      "url": "https://open.spotify.com/track/1lZlW5sarv3iIRluQGcFYj"
     },
     {
       "album": {
@@ -17986,6 +18040,24 @@
     },
     {
       "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd"
+    },
+    {
+      "album": {
         "name": "supernova",
         "url": "https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq"
       },
@@ -19607,7 +19679,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 217846,
       "name": "TRAVELIN'",
       "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"

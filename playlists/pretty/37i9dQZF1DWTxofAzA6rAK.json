@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 63194,
+  "num_followers": 63250,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDFiNjFlOTA1MzhiMzkyMTRlYzQxMTZhMzYyNzgwZGYzZWVkMzJj",
+  "snapshot_id": "MCw4YjRmNDM3NzRkNTliMDNmNjg0YzE2NzNkN2I4YWU5NTFlNzQ4YmJj",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
       "artists": [
         {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Twinkle",
-      "url": "https://open.spotify.com/track/4G08pUaQ5frf1o1WMT7D4L"
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
         }
       ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+      "duration_ms": 196235,
+      "name": "Twinkle",
+      "url": "https://open.spotify.com/track/4G08pUaQ5frf1o1WMT7D4L"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Roll Deep",
-        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
       },
       "artists": [
         {
-          "name": "10Tik",
-          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 207856,
-      "name": "Roll Deep",
-      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -499,34 +499,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+        "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Top Tier",
-        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 141696,
-      "name": "Top Tier",
-      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -547,6 +531,22 @@
       "duration_ms": 145794,
       "name": "Bwoii Affi\" Watch Eh Style",
       "url": "https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Top Tier",
+        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 141696,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Ambala",
-        "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Ambala",
-      "url": "https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "WiFi",
         "url": "https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 213840,
       "name": "WiFi",
       "url": "https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Ambala",
+        "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Ambala",
+      "url": "https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Glock 40",
         "url": "https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 186723,
-      "name": "Cree",
-      "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Brrrp",
         "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
       },
       "artists": [
         {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
         }
       ],
-      "duration_ms": 193170,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
+      "duration_ms": 186723,
+      "name": "Cree",
+      "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        },
-        {
-          "name": "Black Shadow",
-          "url": "https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z"
-        }
-      ],
-      "duration_ms": 156951,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "GPP",
         "url": "https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 172552,
       "name": "Clip Tall",
       "url": "https://open.spotify.com/track/75x8qpBoEV0A6joMaU6jBw"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        },
+        {
+          "name": "Black Shadow",
+          "url": "https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z"
+        }
+      ],
+      "duration_ms": 156951,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Try Dat Riddim, Vol.2",
+        "url": "https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 192156,
+      "name": "Try Dat",
+      "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Moca",
         "url": "https://open.spotify.com/album/2BbdZLSx9ZxqRK8NlCrmmw"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 183092,
       "name": "Moca",
       "url": "https://open.spotify.com/track/25gAArCPkbQRxgb7HXYqrP"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Try Dat Riddim, Vol.2",
-        "url": "https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 192156,
-      "name": "Try Dat",
-      "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Know Weh Ya Do",
-        "url": "https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz"
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
       },
       "artists": [
         {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        },
-        {
-          "name": "Weekday",
-          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 177957,
-      "name": "Know Weh Ya Do",
-      "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
+      "duration_ms": 157628,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
+        "name": "Know Weh Ya Do",
+        "url": "https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Weekday",
+          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
         }
       ],
-      "duration_ms": 157628,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
+      "duration_ms": 177957,
+      "name": "Know Weh Ya Do",
+      "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "21 Psalm",
+        "url": "https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "21 Psalm",
+      "url": "https://open.spotify.com/track/5omLQJya4umViap9GwViw8"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "WSTRN Season 3",
         "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 233225,
       "name": "Influence (feat. Dexta Daps)",
       "url": "https://open.spotify.com/track/6QC19cMrtbLNrZMH2bVl7w"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "21 Psalm",
-        "url": "https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "21 Psalm",
-      "url": "https://open.spotify.com/track/5omLQJya4umViap9GwViw8"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Guzu Bunx (Fada Rock)",
         "url": "https://open.spotify.com/album/3BkkaOV017yFknzAZzQ8By"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 188041,
       "name": "Guzu Bunx (Fada Rock)",
       "url": "https://open.spotify.com/track/0aypZqcK5pDscPH5SyOTbw"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Bufu",
-        "url": "https://open.spotify.com/album/3POrnMWEQ0nGLTjZqtEwA6"
-      },
-      "artists": [
-        {
-          "name": "Boy Boy",
-          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
-        }
-      ],
-      "duration_ms": 198716,
-      "name": "Bufu",
-      "url": "https://open.spotify.com/track/1nRg4wYz5qbayok2YFYUrG"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 202600,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Bufu",
+        "url": "https://open.spotify.com/album/3POrnMWEQ0nGLTjZqtEwA6"
+      },
+      "artists": [
+        {
+          "name": "Boy Boy",
+          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
+        }
+      ],
+      "duration_ms": 198716,
+      "name": "Bufu",
+      "url": "https://open.spotify.com/track/1nRg4wYz5qbayok2YFYUrG"
     },
     {
       "added_at": "2023-05-24 08:21:37",

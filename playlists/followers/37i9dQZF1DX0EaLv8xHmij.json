@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 27381,
+  "2024-03-31": 27397,
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Jovem MK",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Big Bllakk",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -1963,6 +1963,28 @@
     {
       "album": {
         "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/7lMFatQPwalyHw51AOYWPp"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Xizoh",
+          "url": "https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118285,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/0bGMCEoexnziCVqev7r2au"
+    },
+    {
+      "album": {
+        "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/1wI62kfrg6KQCK79ukw2Es"
       },
       "artists": [
@@ -1977,7 +1999,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 118285,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/4PfqsdrU6sLm9o5mQyL3Ab"
@@ -2653,6 +2675,32 @@
       "duration_ms": 123733,
       "name": "Evoque",
       "url": "https://open.spotify.com/track/1BvHPr0BvtUwtnpARfRXqs"
+    },
+    {
+      "album": {
+        "name": "O Retrato Falado da Minha Face",
+        "url": "https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "Exagerado (B\u00f4nus)",
+      "url": "https://open.spotify.com/track/1z1tnfN2YICyM9Exmh6IKy"
     },
     {
       "album": {
@@ -4375,7 +4423,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 136383,
       "name": "Naipe Vagabundo",
       "url": "https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9"
@@ -5696,6 +5744,28 @@
     },
     {
       "album": {
+        "name": "Sem Bala Contada",
+        "url": "https://open.spotify.com/album/4WlO7hqFv8sn7QYJ6Dm03S"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167516,
+      "name": "Sem Bala Contada",
+      "url": "https://open.spotify.com/track/2yTuoDzpNuo2hiQvxFrD4f"
+    },
+    {
+      "album": {
         "name": "Sem Ind\u00edcios",
         "url": "https://open.spotify.com/album/2qdVlvKiOxwsMKwBxxokoT"
       },
@@ -6823,7 +6893,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 152348,
       "name": "ZIG ZAG",
       "url": "https://open.spotify.com/track/26aP5eXvDcnxdtpHCVl0Jh"

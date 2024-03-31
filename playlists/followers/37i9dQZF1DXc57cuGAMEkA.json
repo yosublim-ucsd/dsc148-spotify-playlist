@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 104234,
+  "2024-03-31": 104293,
   "date_first_scraped": "2023-02-01",
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Beyonce, Camila Cabello, j-hope, \u91ce\u7530\u6d0b\u6b21\u90ce & kZm and more! cover: Beyonce\n",
   "name": "New Music Friday Japan",
@@ -3873,6 +3873,28 @@
       "duration_ms": 203311,
       "name": "Alstroemeria",
       "url": "https://open.spotify.com/track/6b4vKVAIEiIUYBBPj60nCw"
+    },
+    {
+      "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
       "album": {
@@ -17898,7 +17920,7 @@
     },
     {
       "album": {
-        "name": "DENiM",
+        "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
       "artists": [
@@ -17915,7 +17937,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177043,
-      "name": "DENiM",
+      "name": "DENiM (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     },
     {
@@ -25651,7 +25673,7 @@
     {
       "album": {
         "name": "Follow the Sound of My Voice",
-        "url": "https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM"
+        "url": "https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu"
       },
       "artists": [
         {
@@ -25662,6 +25684,24 @@
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv"
+    },
+    {
+      "album": {
+        "name": "Follow the Sound of My Voice",
+        "url": "https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-30",
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
       "url": "https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa"
@@ -45267,7 +45307,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 248975,
-      "name": "Make Friends - Edit",
+      "name": "Make Friends - Pocket Size Radio Edit",
       "url": "https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic"
     },
     {
@@ -50335,6 +50375,32 @@
       "duration_ms": 194245,
       "name": "Nervous - Piano Version",
       "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
+    },
+    {
+      "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273290,
+      "name": "NEURON (with Gaeko & YOON MIRAE)",
+      "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
     },
     {
       "album": {
@@ -68373,10 +68439,32 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 149032,
       "name": "Stay Another Night",
       "url": "https://open.spotify.com/track/5NyEmwp8Vtqt3D0a4DERdB"
+    },
+    {
+      "album": {
+        "name": "Stay Another Night",
+        "url": "https://open.spotify.com/album/5DewFUAZ2xrL50ruh5b7ae"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Stay Another Night",
+      "url": "https://open.spotify.com/track/5jhLOkFStVjktugFXBFjR0"
     },
     {
       "album": {
@@ -70719,6 +70807,24 @@
     {
       "album": {
         "name": "sweet sweat sweets",
+        "url": "https://open.spotify.com/album/2pllw5IgqYznlCXCHVOxZV"
+      },
+      "artists": [
+        {
+          "name": "Ikkyu Nakajima",
+          "url": "https://open.spotify.com/artist/6k2sSE14muOoOAv0dZ5soM"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266923,
+      "name": "sweet sweat sweets",
+      "url": "https://open.spotify.com/track/3KG3o12XniiYfOVeKDM3F5"
+    },
+    {
+      "album": {
+        "name": "sweet sweat sweets",
         "url": "https://open.spotify.com/album/6bAL6YhCOAXhth1GVFp856"
       },
       "artists": [
@@ -70729,7 +70835,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 266923,
       "name": "sweet sweat sweets",
       "url": "https://open.spotify.com/track/54unc0q8tOUAJasqOLQuky"
@@ -85768,6 +85874,28 @@
     },
     {
       "album": {
+        "name": "YUMENO TSUZUKI",
+        "url": "https://open.spotify.com/album/1V7pP6ZOx1v3uDYu8e8Bs5"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256017,
+      "name": "YUMENO TSUZUKI",
+      "url": "https://open.spotify.com/track/1iLgBip9901XeDLjnm74Xd"
+    },
+    {
+      "album": {
         "name": "Yusha no Hata",
         "url": "https://open.spotify.com/album/1fmuY1D0CJmLgw7ZSAh3AN"
       },
@@ -89759,7 +89887,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 256017,
       "name": "\u5922\u306e\u7d9a\u304d",
       "url": "https://open.spotify.com/track/0963vvFaqFtmxBSTz9mUnT"

@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 157919,
+  "2024-03-31": 157937,
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest rock songs of the moment. Cover: The Beaches",
+  "description": "The biggest rock songs of the moment. Cover: Sum41",
   "name": "Rock Now",
   "tracks": [
     {
@@ -3142,6 +3142,24 @@
     },
     {
       "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+    },
+    {
+      "album": {
         "name": "The Maine",
         "url": "https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM"
       },
@@ -4233,6 +4251,24 @@
       "duration_ms": 194767,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/1TB6VEurAmNzFmgKCml86F"
+    },
+    {
+      "album": {
+        "name": "Flea",
+        "url": "https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226578,
+      "name": "Flea",
+      "url": "https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z"
     },
     {
       "album": {
@@ -8797,7 +8833,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
@@ -9647,6 +9683,24 @@
       "duration_ms": 170293,
       "name": "Power To Undo",
       "url": "https://open.spotify.com/track/0DgGr62ntCpgmjV2yDTOtI"
+    },
+    {
+      "album": {
+        "name": "Good Kid 4",
+        "url": "https://open.spotify.com/album/20F08ugoumkxgU03ly7gMh"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212543,
+      "name": "Premier Inn",
+      "url": "https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9"
     },
     {
       "album": {
@@ -10709,7 +10763,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 207849,
       "name": "Shiner In The Dark",
       "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
@@ -11589,7 +11643,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 147031,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4Y2uEMxni1MDrcJBDSWULX"
@@ -11925,6 +11979,24 @@
       "duration_ms": 259173,
       "name": "Temple Of Ekur",
       "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
+    },
+    {
+      "album": {
+        "name": "that b*tch don't even kno my name...",
+        "url": "https://open.spotify.com/album/2fzAi6TqQrDhv6heenILWU"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138384,
+      "name": "that b*tch don't even kno my name...",
+      "url": "https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"
     },
     {
       "album": {
@@ -12547,6 +12619,24 @@
       "duration_ms": 236216,
       "name": "These Are the Ways",
       "url": "https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ"
+    },
+    {
+      "album": {
+        "name": "AUDIO VERTIGO",
+        "url": "https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Things I've Been Telling Myself for Years",
+      "url": "https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung"
     },
     {
       "album": {
@@ -13389,7 +13479,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 166844,
       "name": "Waiting On A Twist Of Fate",
       "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
@@ -13991,7 +14081,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 182197,
       "name": "When The Devil Speaks\u2026",
       "url": "https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR"

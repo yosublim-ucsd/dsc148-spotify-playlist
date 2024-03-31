@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX?si=lI0sVvQFRrCSmKVXKyfmjw"> Leo Waters </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,998 likes - 212 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,066 likes - 212 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That's Tough](https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [That's Tough](https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V) | 2:24 |
 | 2 | [Pray For You](https://open.spotify.com/track/7LzSqk3OR3tsphAFlQOdXE) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [Leave You Have My Blessing](https://open.spotify.com/album/68rBZiD0gpBzLIE7P8Zgv7) | 3:00 |
-| 3 | [Sending Your Love \(Remix\)](https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Send Your Loving \(Remix\)](https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4) | 3:41 |
+| 3 | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4) | 3:41 |
 | 4 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 |
 | 5 | [KYOTO](https://open.spotify.com/track/53Bt5wpZYAqRvtpqID5OxK) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [hdnroots.](https://open.spotify.com/artist/79nYBIUkfdh2KsqMBqHIAP) | [LSTN!!!](https://open.spotify.com/album/5N9OrPMq2eHKwNq2sLYCjY) | 2:32 |
 | 6 | [Icarus](https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:30 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 211 | [palisades](https://open.spotify.com/track/0PLzy8TCh6YQ48WsPbtecP) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [palisades](https://open.spotify.com/album/7K9SJdOpY6C4QuvxmJ5jh6) | 3:57 |
 | 212 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 
-Snapshot ID: `MCxiNDFlMDEyNWE4ZmQwNWEzZjJjYzIyYzc3ODU2YWY4MmFhNjU1ODdm`
+Snapshot ID: `MCwxYjFkOWI2NmQ2ZDc3YjYzODgzMGE3MzI0ZjdjOWFlNGNhMTJjOWI2`

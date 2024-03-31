@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Reggie Becton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,497 likes - 191 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,716 likes - 191 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 8 | [Do4Me \- They Have The Range Remix](https://open.spotify.com/track/3T69ZOsHOeRpYS8n1Z46Bb) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM), [They Have The Range](https://open.spotify.com/artist/6p60lJ3biZarPpQ1ncN3Xv) | [Do4Me \(They Have The Range Remix\)](https://open.spotify.com/album/5pXQeGSJJEnjfdGs4P3tNL) | 3:18 |
 | 9 | [Superficial](https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superficial](https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea) | 2:44 |
 | 10 | [Alone With You](https://open.spotify.com/track/4qOJorQ4s6GXLbChKSIhzP) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Alone With You](https://open.spotify.com/album/3cCbOPhkQHY2CEtowc1qMw) | 4:53 |
-| 11 | [Sending Your Love \(Remix\)](https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Send Your Loving \(Remix\)](https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4) | 3:41 |
+| 11 | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4) | 3:41 |
 | 12 | [Bad Habits](https://open.spotify.com/track/7muGpdwkkyfQEyi0EXngzs) | [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) | [Bad Habits](https://open.spotify.com/album/1jQ1Ecyi60q03i0MpLKMy4) | 4:18 |
 | 13 | [RIDIN 4 U](https://open.spotify.com/track/4YrCMmKendEc0HTGmTQR84) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU STILL MISS ME](https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl) | 3:50 |
 | 14 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 190 | [Only One](https://open.spotify.com/track/205vIudEsOhPEozChgIv03) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [Only One](https://open.spotify.com/album/3PJTM9AZNAMKSpSPx0p6Ne) | 2:49 |
 | 191 | [Safe Word](https://open.spotify.com/track/4i3h8s1fqTDYfSfd86T5It) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Safe Word](https://open.spotify.com/album/5JRVoGHRmvZbcajnXfZTHp) | 2:46 |
 
-Snapshot ID: `MCxhZjQyNzU5NzkxNDU5ZTIyYjZjNjVmZTQ4NDRhZjNiNTIyNTU3N2M5`
+Snapshot ID: `MCxiZjA1ZjQ5YTRiYmVjODIzZWEzNDgxNGY4MjgwMTllOTczMjY2NjFm`

@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 1266615,
+  "2024-03-31": 1267212,
   "date_first_scraped": "2022-02-11",
   "description": "Entering my reputation era...",
   "name": "Villain Mode",
@@ -1755,7 +1755,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 158666,
       "name": "Emperor's New Clothes",
       "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
@@ -3783,6 +3783,24 @@
       "duration_ms": 219773,
       "name": "Potential Breakup Song",
       "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
+    },
+    {
+      "album": {
+        "name": "Pretty Enough",
+        "url": "https://open.spotify.com/album/5XvgXtDZVXu0ELRxUXLQcj"
+      },
+      "artists": [
+        {
+          "name": "Maiah Manser",
+          "url": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214982,
+      "name": "Pretty Enough",
+      "url": "https://open.spotify.com/track/6SIoCr3GhnJaZovyfaCYcN"
     },
     {
       "album": {

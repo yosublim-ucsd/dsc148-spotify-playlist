@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-165 songs - 9 hr 18 min
+166 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Things I Thought Were Mine](https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:13 | 2023-10-19 | 2024-02-09 |
 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 | 2023-09-28 |  |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2023-09-28 | 2023-10-06 |
-| [Time Flies When You're Having Fun](https://open.spotify.com/track/09ezRBFOwVroGhwKry8SvI) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Time Flies When You're Having Fun](https://open.spotify.com/album/2EyVmooUGFRDpI5mhvs2s6) | 3:22 | 2024-03-07 |  |
+| [Time Flies When You're Having Fun](https://open.spotify.com/track/09ezRBFOwVroGhwKry8SvI) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Time Flies When You're Having Fun](https://open.spotify.com/album/2EyVmooUGFRDpI5mhvs2s6) | 3:22 | 2024-03-07 | 2024-03-31 |
+| [Time Flies When You're Having Fun](https://open.spotify.com/track/0Q2uKnI1v4jhTjiDVaheYV) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [What's For Breakfast?](https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3) | 3:22 | 2024-03-29 |  |
 | [Together Forever](https://open.spotify.com/track/4NvAaATU1bX5ITqGBIxB5b) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Together Forever](https://open.spotify.com/album/4DR3YxUK7YUuPuLBfYrQX7) | 4:37 | 2024-01-18 | 2024-03-01 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-18 |  |
 | [Turn The World On](https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:30 | 2023-09-28 | 2023-10-20 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 191410,
+  "2024-03-31": 191456,
   "date_first_scraped": "2021-12-28",
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
   "name": "Creative Focus",
@@ -501,7 +501,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 337000,
       "name": "Adagio in F, H.XVII No. 9",
       "url": "https://open.spotify.com/track/59Ym3OL08DzJHzsdqvzRQZ"
@@ -1917,6 +1917,32 @@
       "duration_ms": 407700,
       "name": "Deux Arabesques, L. 66: I. Andantino con moto",
       "url": "https://open.spotify.com/track/7DXc54rtHRhCIViAy4s5VW"
+    },
+    {
+      "album": {
+        "name": "Henry Purcell: Dido's Lament",
+        "url": "https://open.spotify.com/album/5HYTwkC9c2JrNW0WQwicQe"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "United Strings of Europe",
+          "url": "https://open.spotify.com/artist/06LENZ42CaYKdcxfzaCrul"
+        },
+        {
+          "name": "Julian Azkoul",
+          "url": "https://open.spotify.com/artist/1S66SaZZamHWwVHDaG0SHc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Dido and Aeneas, Z. 626 (Arr. for String Orchestra by Leopold Stokowski): When I Am Laid in Earth",
+      "url": "https://open.spotify.com/track/1nI9G1fS1JigiuGOYyOnwf"
     },
     {
       "album": {

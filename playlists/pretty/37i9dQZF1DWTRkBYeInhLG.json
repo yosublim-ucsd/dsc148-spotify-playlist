@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 470849,
+  "num_followers": 470930,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDFkZTdkYWNjMWE2Y2U0OTNiMjE1YzliZTJiNjIxNjgzYjA0ZGVl",
+  "snapshot_id": "MCw0NGIyZWFhMmJhZTgyNzU3MTM4OTY2NDQxYmZhYjhmYTc3MTAyN2Fk",
   "tracks": [
     {
       "added_at": "2024-03-05 21:47:18",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
         "name": "Badai Telah Berlalu",
         "url": "https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 295542,
       "name": "Badai Telah Berlalu",
       "url": "https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Lebih Indah",
-        "url": "https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x"
+        "name": "RAN For Your Life",
+        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
       },
       "artists": [
         {
-          "name": "Adera",
-          "url": "https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC"
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         }
       ],
-      "duration_ms": 258426,
-      "name": "Lebih Indah",
-      "url": "https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO"
+      "duration_ms": 300693,
+      "name": "Pandangan Pertama",
+      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
+        "name": "Lebih Indah",
+        "url": "https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x"
+      },
+      "artists": [
+        {
+          "name": "Adera",
+          "url": "https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Lebih Indah",
+      "url": "https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
         "name": "Tempat Aku Pulang",
         "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 223500,
       "name": "Film Favorit",
       "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
-        "name": "RAN For Your Life",
-        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Pandangan Pertama",
-      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
+        "name": "Konspirasi Alam Semesta",
+        "url": "https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Garis Terdepan",
+      "url": "https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
         "name": "Kesempurnaan Cinta",
         "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 284988,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
-        "name": "Konspirasi Alam Semesta",
-        "url": "https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Garis Terdepan",
-      "url": "https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Mesin Waktu",
-        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 262734,
-      "name": "Mesin Waktu",
-      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
         "name": "Renung Resah",
         "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
@@ -1007,22 +991,6 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Air & Api",
-      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 262734,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Air & Api",
+      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 261746,
+      "name": "April",
+      "url": "https://open.spotify.com/track/7acA8bnDcifMEolySXKOz8"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
         "name": "Harapan",
         "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 241631,
       "name": "Tentang Rindu",
       "url": "https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 261746,
-      "name": "April",
-      "url": "https://open.spotify.com/track/7acA8bnDcifMEolySXKOz8"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Chrisye \"Untukku\"",
-        "url": "https://open.spotify.com/album/3UDpNv0SOmaemdASkAtxO8"
-      },
-      "artists": [
-        {
-          "name": "Chrisye",
-          "url": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
-        }
-      ],
-      "duration_ms": 320760,
-      "name": "Kala Cinta Menggoda",
-      "url": "https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
         "name": "Peace, Love And Respect",
         "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212026,
       "name": "11 Januari",
       "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "Chrisye \"Untukku\"",
+        "url": "https://open.spotify.com/album/3UDpNv0SOmaemdASkAtxO8"
+      },
+      "artists": [
+        {
+          "name": "Chrisye",
+          "url": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+        }
+      ],
+      "duration_ms": 320760,
+      "name": "Kala Cinta Menggoda",
+      "url": "https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW"
     },
     {
       "added_at": "2024-03-05 21:47:18",

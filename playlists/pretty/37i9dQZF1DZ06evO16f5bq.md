@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,160 likes - 48 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,204 likes - 48 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 44 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
 | 45 | [Labirinto](https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Labirinto](https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y) | 3:04 |
 | 46 | [GOTHAM](https://open.spotify.com/track/415dld79DDW9drRA3luAqf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:50 |
-| 47 | [Não Demora](https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Demora](https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH) | 3:02 |
-| 48 | [Saudade](https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:27 |
+| 47 | [Vamo Marolar](https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:01 |
+| 48 | [Não Demora](https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Demora](https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH) | 3:02 |
 
-Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDBlYjA3Y2YwNmUxMTYyMGFkMTFlNGQxOGVkZmQzNmM2ZQ==`
+Snapshot ID: `Mjg1MzAwMjksMDAwMDAwMDAzYWMxMGY5NzZjOGQ4ZTI3ZjhhMWFmYjVmMGQ3MGIyOQ==`

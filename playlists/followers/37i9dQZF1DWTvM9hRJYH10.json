@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 35657,
+  "2024-03-31": 35719,
   "date_first_scraped": "2022-01-02",
   "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Jenna Davis",
   "name": "Young Nashville",
@@ -4819,6 +4819,24 @@
       "duration_ms": 205714,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO"
+    },
+    {
+      "album": {
+        "name": "Tears In The River",
+        "url": "https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB"
+      },
+      "artists": [
+        {
+          "name": "Maddox Batson",
+          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190619,
+      "name": "Tears In The River",
+      "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
     },
     {
       "album": {

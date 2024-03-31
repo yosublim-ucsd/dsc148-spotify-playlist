@@ -1,8 +1,8 @@
 {
-  "2024-03-30": 466010,
+  "2024-03-31": 466541,
   "date_first_scraped": "2023-05-16",
-  "description": "aqui tem tacac\u00e1 pizza com ketchup bai\u00e3o de dois hot dog cm pur\u00ea e feijoada DE NADA / Jo\u00e3o Gomes",
-  "name": "PURO CALDO DO VER\u00c3O",
+  "description": "aqui tem tacac\u00e1 pizza com ketchup feijoada e hot dog cm pur\u00ea  DE NADA / Luan Pereira, Mc Daniel",
+  "name": "PURO SUCO DO BRASIL",
   "tracks": [
     {
       "album": {
@@ -267,7 +267,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183713,
       "name": "Ai Ai Ai Mega Pr\u00edncipe",
       "url": "https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q"
@@ -761,6 +761,28 @@
       "duration_ms": 154701,
       "name": "Bombonzinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
+    },
+    {
+      "album": {
+        "name": "paGGodin (Ao Vivo / Parte 2)",
+        "url": "https://open.spotify.com/album/6zOscwhlPpJrKdn2BiwfGO"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202020,
+      "name": "Bota F\u00e9 Na Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6aHYkviNrb5JLhtFm2Vav5"
     },
     {
       "album": {
@@ -1757,7 +1779,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 179599,
       "name": "ELA PIROU NA DODGE RAM",
       "url": "https://open.spotify.com/track/60uJdOohyohJqZhST7lij3"
@@ -1839,6 +1861,28 @@
       "duration_ms": 176000,
       "name": "ENSAIO DAS MARAVILHAS",
       "url": "https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr"
+    },
+    {
+      "album": {
+        "name": "Entra Na Defender",
+        "url": "https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174727,
+      "name": "Entra Na Defender",
+      "url": "https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3"
     },
     {
       "album": {
@@ -2456,6 +2500,28 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208521,
+      "name": "II MOST WANTED",
+      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
+    },
+    {
+      "album": {
         "name": "Joga Pra Lua",
         "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
       },
@@ -2475,7 +2541,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 125108,
       "name": "Joga Pra Lua",
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
@@ -3136,6 +3202,28 @@
     },
     {
       "album": {
+        "name": "Mexidinha",
+        "url": "https://open.spotify.com/album/6JKrUyBmm973bw01DdRyet"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        },
+        {
+          "name": "Parangol\u00e9",
+          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113752,
+      "name": "Mexidinha",
+      "url": "https://open.spotify.com/track/55oAqoQMvXFP6ityuEwdgQ"
+    },
+    {
+      "album": {
         "name": "Mil Vezes (Remix)",
         "url": "https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1"
       },
@@ -3265,6 +3353,32 @@
       "duration_ms": 212884,
       "name": "Mo\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/66KlcaDo2PlaFpumUHVG0W"
+    },
+    {
+      "album": {
+        "name": "Mtg Erro Que da Certo",
+        "url": "https://open.spotify.com/album/6OmofDihqFRfpQKoOz6fsq"
+      },
+      "artists": [
+        {
+          "name": "Dj Biel Sb",
+          "url": "https://open.spotify.com/artist/4Kvt1rOUIVkaCmIf02K2lN"
+        },
+        {
+          "name": "Dj Mike Mix",
+          "url": "https://open.spotify.com/artist/4QNTLdI9vFnXG9Sz8m9QcN"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110700,
+      "name": "Mtg Erro Que da Certo",
+      "url": "https://open.spotify.com/track/79uC02F4C3eiWuu50YrYMM"
     },
     {
       "album": {
@@ -3685,7 +3799,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 182640,
       "name": "Onde Tu Vai Sentar - Ao Vivo",
       "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
@@ -4338,6 +4452,24 @@
     },
     {
       "album": {
+        "name": "Pagode Urbano #01",
+        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179820,
+      "name": "Quatro Da Manh\u00e3",
+      "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
+    },
+    {
+      "album": {
         "name": "Quer Ser Minha Atriz [Remix Funk RJ]",
         "url": "https://open.spotify.com/album/61bnAZo53stAlV7Moq5pEM"
       },
@@ -4527,6 +4659,48 @@
       "duration_ms": 169002,
       "name": "Safado",
       "url": "https://open.spotify.com/track/37OIusjSUFvt0uqEE6r2Ux"
+    },
+    {
+      "album": {
+        "name": "Samba de Malandro",
+        "url": "https://open.spotify.com/album/45IHFpwPgHPvjQHsZHURSu"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Mc Piedro",
+          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300842,
+      "name": "Samba de Malandro",
+      "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"
     },
     {
       "album": {
@@ -4900,6 +5074,28 @@
     },
     {
       "album": {
+        "name": "Nosso Flow (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        },
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150119,
+      "name": "Sonhei Com Voc\u00ea (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1EM4KXYMgqm6Md4F8ko3Ke"
+    },
+    {
+      "album": {
         "name": "Sugar Papi",
         "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
       },
@@ -5165,7 +5361,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank"
@@ -5223,6 +5419,28 @@
       "duration_ms": 186228,
       "name": "Todo Amor do Mundo",
       "url": "https://open.spotify.com/track/1M9JZXjz6GCUH7VbFFBmJx"
+    },
+    {
+      "album": {
+        "name": "Torre Eiffel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202678,
+      "name": "Torre Eiffel - Ao Vivo",
+      "url": "https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO"
     },
     {
       "album": {
@@ -5703,7 +5921,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 288764,
       "name": "Wonderful Pagode Rmx",
       "url": "https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4"

@@ -6684,10 +6684,28 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 217173,
       "name": "I Feel Like James Brown",
       "url": "https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa"
+    },
+    {
+      "album": {
+        "name": "I Feel Like James Brown",
+        "url": "https://open.spotify.com/album/1uYydzjjdrzWBtiJplbx3k"
+      },
+      "artists": [
+        {
+          "name": "Ruben Young",
+          "url": "https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "I Feel Like James Brown",
+      "url": "https://open.spotify.com/track/76BgzEP4ia2GuxSIlyN8si"
     },
     {
       "album": {

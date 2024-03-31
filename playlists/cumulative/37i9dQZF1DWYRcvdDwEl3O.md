@@ -4,7 +4,7 @@
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-132 songs - 5 hr 42 min
+133 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Paint](https://open.spotify.com/track/6PC9beJbKsb3PMIBPbHtc7) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf) | [Paint & Dance](https://open.spotify.com/album/6R3DQm91XrjzIX1X0VnyLF) | 2:09 | 2022-11-07 |  |
 | [Palm](https://open.spotify.com/track/3mMTPVmRgk5uNAqCiCBL9E) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Stratus](https://open.spotify.com/album/5o3tKLcpeMARceG12j6lwv) | 2:50 | 2022-07-29 | 2022-11-08 |
 | [Patsy \- Instrumental](https://open.spotify.com/track/38pwFb1yj7CS2JUaLVyQ01) | [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9) | [The Way Forth \(Instrumentals\)](https://open.spotify.com/album/2GJmOoinJpsmNcnqaIiBc6) | 2:10 | 2022-11-07 |  |
-| [Pattern of Water](https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB) | 2:43 | 2022-11-07 |  |
+| [Pattern of Water](https://open.spotify.com/track/0ErDq5zZU1hdvZtKoq4uJ7) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/3oSrsdpTbsx0UcfnCLP17Q) | 2:43 | 2022-11-18 |  |
+| [Pattern of Water](https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB) | 2:43 | 2022-11-07 | 2024-03-31 |
 | [Pendulum](https://open.spotify.com/track/0kQZcp9q1i3Cg1EfsqXGbf) | [Clearius Ensemble](https://open.spotify.com/artist/14MEzH0WXErAIVtRpQitLW) | [Pendulum](https://open.spotify.com/album/4m9nsk0a4Xcfhv5uePHb8x) | 2:23 | 2022-07-29 | 2022-11-08 |
 | [Placid Minds](https://open.spotify.com/track/62NuL99XSrl7IC1lEAAtKi) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Minds](https://open.spotify.com/album/0SGfPPdJ7Azwx3rSDv6Z1f) | 2:42 | 2022-07-29 |  |
 | [Prélude](https://open.spotify.com/track/6CIVHlBDakr82sbXYweF8x) | [Massimo Romanza](https://open.spotify.com/artist/6n1878S9P9QD4u959fAZeM) | [Prélude](https://open.spotify.com/album/0Q5sbKw0dl9z7ANapFmIHL) | 2:01 | 2022-07-29 | 2022-11-08 |

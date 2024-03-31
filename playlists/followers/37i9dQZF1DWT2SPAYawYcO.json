@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 372424,
+  "2024-03-31": 372471,
   "date_first_scraped": "2023-06-18",
   "description": "The best new songs of the week! Cover: Beyonce",
   "name": "New Music Friday AU & NZ",
@@ -3297,6 +3297,28 @@
       "duration_ms": 282630,
       "name": "ALTAR",
       "url": "https://open.spotify.com/track/59TXQmj1oNcaqEA9hPlgM4"
+    },
+    {
+      "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
       "album": {
@@ -14532,7 +14554,7 @@
     },
     {
       "album": {
-        "name": "DENiM",
+        "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
       "artists": [
@@ -14549,7 +14571,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177043,
-      "name": "DENiM",
+      "name": "DENiM (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     },
     {
@@ -21019,7 +21041,7 @@
     {
       "album": {
         "name": "Follow the Sound of My Voice",
-        "url": "https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM"
+        "url": "https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu"
       },
       "artists": [
         {
@@ -21030,6 +21052,24 @@
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv"
+    },
+    {
+      "album": {
+        "name": "Follow the Sound of My Voice",
+        "url": "https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-30",
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
       "url": "https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa"
@@ -26539,7 +26579,7 @@
     {
       "album": {
         "name": "Higher Ground (feat. Roosevelt)",
-        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+        "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
       },
       "artists": [
         {
@@ -26554,6 +26594,28 @@
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 273275,
+      "name": "Higher Ground (feat. Roosevelt)",
+      "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
+    },
+    {
+      "album": {
+        "name": "Higher Ground (feat. Roosevelt)",
+        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-30",
       "duration_ms": 273293,
       "name": "Higher Ground (feat. Roosevelt)",
       "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"
@@ -37111,7 +37173,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 248975,
-      "name": "Make Friends - Edit",
+      "name": "Make Friends - Pocket Size Radio Edit",
       "url": "https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic"
     },
     {
@@ -65556,7 +65618,7 @@
     },
     {
       "album": {
-        "name": "Where You At These Days",
+        "name": "Where You At These Days?",
         "url": "https://open.spotify.com/album/0k4HBFskBFl4l2OZMNmXGv"
       },
       "artists": [
@@ -65573,7 +65635,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220799,
-      "name": "Where You At These Days",
+      "name": "Where You At These Days?",
       "url": "https://open.spotify.com/track/3blt8WKj0x4dJ5sgc7y1nK"
     },
     {

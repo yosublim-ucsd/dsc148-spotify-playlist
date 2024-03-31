@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 2308,
+  "2024-03-31": 2309,
   "date_first_scraped": "2022-06-10",
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
   "name": "Independent Music Friday",
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 308967,
       "name": "All we're waiting for",
       "url": "https://open.spotify.com/track/2UbkzHrX8APhWaAc2EIwqI"
@@ -4074,6 +4074,24 @@
     },
     {
       "album": {
+        "name": "Buzzkill",
+        "url": "https://open.spotify.com/album/385UxbbSBpT63EgVvH1Cbl"
+      },
+      "artists": [
+        {
+          "name": "Thermate",
+          "url": "https://open.spotify.com/artist/685hjZFXJCEh3vDlLmKgZz"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322386,
+      "name": "Buzzkill",
+      "url": "https://open.spotify.com/track/2Z4SmAYLk6zOQyDZPJAMX4"
+    },
+    {
+      "album": {
         "name": "By The Void",
         "url": "https://open.spotify.com/album/17FO7FTknDtB68yFaZogKy"
       },
@@ -6838,6 +6856,24 @@
     },
     {
       "album": {
+        "name": "Det Stora Ov\u00e4sendet",
+        "url": "https://open.spotify.com/album/5WLm1NawdYC2vCSzXSmp5P"
+      },
+      "artists": [
+        {
+          "name": "DR\u00d6\u00d6G",
+          "url": "https://open.spotify.com/artist/7eRcVh608qJnnIiYzbUYQv"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390416,
+      "name": "Det Stora Ov\u00e4sendet",
+      "url": "https://open.spotify.com/track/6OYHpGbyOkPqRpplTOOD5D"
+    },
+    {
+      "album": {
         "name": "Devil in Disguise",
         "url": "https://open.spotify.com/album/0XF7oVZ6ltuh2659QoPifc"
       },
@@ -8706,6 +8742,24 @@
     },
     {
       "album": {
+        "name": "Emma",
+        "url": "https://open.spotify.com/album/1iZbst6CBhsbZMk2PvtFU0"
+      },
+      "artists": [
+        {
+          "name": "Behind The Lions",
+          "url": "https://open.spotify.com/artist/2MAVONfYrWZY3pYhEY1keZ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Emma",
+      "url": "https://open.spotify.com/track/4znjOY3DZZnpJUU5fN4rys"
+    },
+    {
+      "album": {
         "name": "T Time",
         "url": "https://open.spotify.com/album/0qZiamY7aYezo3cEpNW0li"
       },
@@ -9297,7 +9351,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 157246,
       "name": "Ett halvt liv",
       "url": "https://open.spotify.com/track/77jxUqMtHQVq5sztYS3mp5"
@@ -10381,6 +10435,24 @@
       "duration_ms": 203613,
       "name": "FLINGOR AV TID",
       "url": "https://open.spotify.com/track/69mNKfuAvWF1DrQHMtq7Oi"
+    },
+    {
+      "album": {
+        "name": "Flippa Ur",
+        "url": "https://open.spotify.com/album/1UVFwrP0xBrwSss7CxAZa6"
+      },
+      "artists": [
+        {
+          "name": "Videov\u00e5ld",
+          "url": "https://open.spotify.com/artist/1CdNrPt086j8wJ0PVNWb61"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Flippa Ur",
+      "url": "https://open.spotify.com/track/76JfklMy3xosbpTWTuDtDa"
     },
     {
       "album": {
@@ -12407,7 +12479,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 331000,
       "name": "Grandma's Old Thoroughfare",
       "url": "https://open.spotify.com/track/1fol935pFusk9n8yT3hhbG"
@@ -13505,7 +13577,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 200000,
       "name": "Heroes are calling",
       "url": "https://open.spotify.com/track/4viYLYCUnf3MbY5m5ZzqSb"
@@ -13599,7 +13671,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 222370,
       "name": "High Value Male",
       "url": "https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6"
@@ -13853,6 +13925,24 @@
       "duration_ms": 221416,
       "name": "Hold ut",
       "url": "https://open.spotify.com/track/7bmolmPiBDsxRGIzgA5Gyz"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2TJRmLHtRJO1kgKHcdyd5q"
+      },
+      "artists": [
+        {
+          "name": "Synthetik Blonde",
+          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323560,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/22y2UrtogXTojWEAotw03L"
     },
     {
       "album": {
@@ -14155,7 +14245,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 175526,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/7hg4pXOh7vp45GIZaLBKeL"
@@ -14595,7 +14685,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 356018,
       "name": "I go back home",
       "url": "https://open.spotify.com/track/2gyIII5rcMRQ3iueRJncHL"
@@ -14785,6 +14875,24 @@
       "duration_ms": 190056,
       "name": "I really like it",
       "url": "https://open.spotify.com/track/1cwiDhX6SJp0aWNqDyrEgK"
+    },
+    {
+      "album": {
+        "name": "I sk\u00f6na maj vill jag va naiv",
+        "url": "https://open.spotify.com/album/65hpjd6ylhT3EbzwfoGLw0"
+      },
+      "artists": [
+        {
+          "name": "Jonas Tegn\u00e9r",
+          "url": "https://open.spotify.com/artist/2WOouZH4O5FGgrM0PypZIy"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "I sk\u00f6na maj vill jag va naiv",
+      "url": "https://open.spotify.com/track/14oZTQXGSuOqcgcc31qVQG"
     },
     {
       "album": {
@@ -15739,6 +15847,24 @@
       "duration_ms": 242998,
       "name": "Into The Water",
       "url": "https://open.spotify.com/track/6pYz9wqWb7EKXzBjrPQ8zp"
+    },
+    {
+      "album": {
+        "name": "is it weird? or is it me?",
+        "url": "https://open.spotify.com/album/7FVXJFylQtN2vCQcJmZu98"
+      },
+      "artists": [
+        {
+          "name": "Wasuremono",
+          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252292,
+      "name": "is it weird? or is it me?",
+      "url": "https://open.spotify.com/track/0NBAaL0Rp1cTjzzsz9VA1s"
     },
     {
       "album": {
@@ -16991,6 +17117,24 @@
       "duration_ms": 218096,
       "name": "Knip die Tou",
       "url": "https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl"
+    },
+    {
+      "album": {
+        "name": "Know Better",
+        "url": "https://open.spotify.com/album/7qaXekHg3Q8KwWXuaeae9p"
+      },
+      "artists": [
+        {
+          "name": "Tessa Joy",
+          "url": "https://open.spotify.com/artist/3WSZEZTfIFRO6TfPIHJ5aJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163703,
+      "name": "Know Better",
+      "url": "https://open.spotify.com/track/5o6o0WHqUmRiW3xLEFQjHL"
     },
     {
       "album": {
@@ -19288,6 +19432,28 @@
     },
     {
       "album": {
+        "name": "Maiyario",
+        "url": "https://open.spotify.com/album/6pd2dCuHqfd5GPV78BsuEO"
+      },
+      "artists": [
+        {
+          "name": "the YONA",
+          "url": "https://open.spotify.com/artist/4wMvFWVKuMnnddvaMsGquv"
+        },
+        {
+          "name": "Zulu Mageba",
+          "url": "https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400677,
+      "name": "Maiyario - Zulu Mageba Remix",
+      "url": "https://open.spotify.com/track/6pdDEVSwfEEMSPzF92cgMe"
+    },
+    {
+      "album": {
         "name": "Make Me Blue",
         "url": "https://open.spotify.com/album/1Llf7xWTssnAzwRI9PzeE6"
       },
@@ -20865,7 +21031,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 187500,
       "name": "MY WAY!",
       "url": "https://open.spotify.com/track/5GMZMXT0V7l6PG7EvoPR4u"
@@ -21121,6 +21287,24 @@
       "duration_ms": 290106,
       "name": "Neon Buffalo",
       "url": "https://open.spotify.com/track/2scClkejK5omikPcQmcl8i"
+    },
+    {
+      "album": {
+        "name": "Neon nights",
+        "url": "https://open.spotify.com/album/4MwewtVZcOQr2m0OBbPVen"
+      },
+      "artists": [
+        {
+          "name": "The Rochits",
+          "url": "https://open.spotify.com/artist/59d6B6bCAsxzero17YkBA8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198246,
+      "name": "Neon nights",
+      "url": "https://open.spotify.com/track/1CZ3rdzV1udXxecT4FH5GT"
     },
     {
       "album": {
@@ -22320,6 +22504,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4r Alla Har G\u00e5tt Hem",
+        "url": "https://open.spotify.com/album/0pah3hAEErqNhYUIzmEGyH"
+      },
+      "artists": [
+        {
+          "name": "Adam Englund",
+          "url": "https://open.spotify.com/artist/2pRdhZWccsEj0SPf0eHvdo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132673,
+      "name": "N\u00e4r Alla Har G\u00e5tt Hem",
+      "url": "https://open.spotify.com/track/3w9tK78piJ7nPwwwQz9yaF"
+    },
+    {
+      "album": {
         "name": "N\u00e4r du sj\u00f6ng Summertime blues",
         "url": "https://open.spotify.com/album/3WrwJ5ve31jZgATzpp3Eux"
       },
@@ -23199,7 +23401,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 222773,
       "name": "Out Of The Dark Into The Light",
       "url": "https://open.spotify.com/track/76hpTbNIzB713pTAmMAwKR"
@@ -24719,6 +24921,24 @@
       "duration_ms": 134450,
       "name": "Purple",
       "url": "https://open.spotify.com/track/3qq7OngYS7zAwM5UxVesTj"
+    },
+    {
+      "album": {
+        "name": "Push Forward",
+        "url": "https://open.spotify.com/album/4vnG4hzGVaeIi9bZWGgAwq"
+      },
+      "artists": [
+        {
+          "name": "commuter",
+          "url": "https://open.spotify.com/artist/5nwD9VBfiq4HYFpPEC2y6b"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256226,
+      "name": "Push Forward",
+      "url": "https://open.spotify.com/track/3O71wEZJWds3NtuqZ0oq5O"
     },
     {
       "album": {
@@ -26277,7 +26497,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 308554,
       "name": "Sakari",
       "url": "https://open.spotify.com/track/37NipVHV7tBv0dCWkjaGZB"
@@ -26874,6 +27094,24 @@
     },
     {
       "album": {
+        "name": "Setting In",
+        "url": "https://open.spotify.com/album/38CQLWvc2qVuFyMM0E69rW"
+      },
+      "artists": [
+        {
+          "name": "Brenton",
+          "url": "https://open.spotify.com/artist/51kngJ1RTNgIvFfbV9bQEv"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Setting In",
+      "url": "https://open.spotify.com/track/09pgQKhwgUvUCaeclvdjsc"
+    },
+    {
+      "album": {
         "name": "Set\u00e4mies",
         "url": "https://open.spotify.com/album/6cePF3GvKNthdC8bSGOrKM"
       },
@@ -26975,7 +27213,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 151250,
       "name": "She's Coming Over",
       "url": "https://open.spotify.com/track/3EkFr72iewkb9Z12WTTXZz"
@@ -29552,6 +29790,24 @@
     },
     {
       "album": {
+        "name": "Svag",
+        "url": "https://open.spotify.com/album/2j1ITjZw0GlsW6tSvi8Cpj"
+      },
+      "artists": [
+        {
+          "name": "Dra en banjo",
+          "url": "https://open.spotify.com/artist/61zcTZ9WrWmmQYL86z4nA1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Svag",
+      "url": "https://open.spotify.com/track/69Pn89KwVvMjr17qZoSQiw"
+    },
+    {
+      "album": {
         "name": "Sweeping Terror",
         "url": "https://open.spotify.com/album/3D51RQkPioJ0eilLBomK9d"
       },
@@ -29979,7 +30235,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 230635,
       "name": "TALK",
       "url": "https://open.spotify.com/track/5gifqNERFpFwpdYBBjibvr"
@@ -31437,7 +31693,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 188764,
       "name": "These Wars",
       "url": "https://open.spotify.com/track/0QICsuFtmK4KmHqrNIwoiA"
@@ -31589,6 +31845,28 @@
       "duration_ms": 148526,
       "name": "Through Days and Nights",
       "url": "https://open.spotify.com/track/232YwrG6MmZ4ayItwQ8EYF"
+    },
+    {
+      "album": {
+        "name": "Through The Motions (Branded James Remix)",
+        "url": "https://open.spotify.com/album/5V7G4CaYAQfC6HtwfzCgSW"
+      },
+      "artists": [
+        {
+          "name": "Heartracer",
+          "url": "https://open.spotify.com/artist/0aJJxKQmV9ALSM6kPWzBS4"
+        },
+        {
+          "name": "Branded James",
+          "url": "https://open.spotify.com/artist/2OHPiqiDzkcI4uPQdOOmRm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256782,
+      "name": "Through The Motions - Branded James Remix",
+      "url": "https://open.spotify.com/track/7D1Ptb2cQaF6IHwRbhxnLB"
     },
     {
       "album": {
@@ -32861,7 +33139,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 217873,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/2ycfGyiv0DDP0xQqdHYEjh"
@@ -33887,7 +34165,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 291375,
       "name": "V\u00e4rmen Du ger",
       "url": "https://open.spotify.com/track/6zI9ryG2fSVQMEMmwpJzpg"
@@ -34499,7 +34777,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 246000,
       "name": "We're Beyond That",
       "url": "https://open.spotify.com/track/6gGn8OUGnRUx5BwRmNMHlS"

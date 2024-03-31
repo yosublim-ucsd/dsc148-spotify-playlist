@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 140 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 141 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,10 +143,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 133 | [sometimes christmas is hard](https://open.spotify.com/track/5937xcBaUz5xu38I2HloR2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:03 |
 | 134 | [Shine](https://open.spotify.com/track/5hmTQFtqfDapaSqWY3arU3) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:48 |
 | 135 | [another song about love](https://open.spotify.com/track/7gY9Ck93TNxekSqH1A2oFR) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:15 |
-| 136 | [Looking For Love](https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB) | [Carlos Vara](https://open.spotify.com/artist/42hROq8g0GtFMMYaHHQmrq) | [Have You Ever Seen a Boy Break Down?](https://open.spotify.com/album/6h8TTXMZFnJADFw5Ilf44o) | 2:36 |
-| 137 | [Bad Together](https://open.spotify.com/track/46fchGtcxeWEm1Fw5bI8Fe) | [Knight Club A Cappella](https://open.spotify.com/artist/6dpp4QazrpGBqOeypsA59Z) | [Bad Together](https://open.spotify.com/album/2SDtmGStLqOhcL9tBAxfu4) | 4:03 |
-| 138 | [I'm Coming Around](https://open.spotify.com/track/0mwQdW5pZ0tofcvrYvUJTl) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [52 \| ATL x BNA](https://open.spotify.com/album/2IkLJf736V5DXV2Xt23TNH) | 3:39 |
-| 139 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
-| 140 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
+| 136 | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/track/7JqjKFamcUmaT5YcctWKZX) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/album/3frSVSjPe9Nuk3jFabhYYm) | 2:01 |
+| 137 | [Looking For Love](https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB) | [Carlos Vara](https://open.spotify.com/artist/42hROq8g0GtFMMYaHHQmrq) | [Have You Ever Seen a Boy Break Down?](https://open.spotify.com/album/6h8TTXMZFnJADFw5Ilf44o) | 2:36 |
+| 138 | [Bad Together](https://open.spotify.com/track/46fchGtcxeWEm1Fw5bI8Fe) | [Knight Club A Cappella](https://open.spotify.com/artist/6dpp4QazrpGBqOeypsA59Z) | [Bad Together](https://open.spotify.com/album/2SDtmGStLqOhcL9tBAxfu4) | 4:03 |
+| 139 | [I'm Coming Around](https://open.spotify.com/track/0mwQdW5pZ0tofcvrYvUJTl) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [52 \| ATL x BNA](https://open.spotify.com/album/2IkLJf736V5DXV2Xt23TNH) | 3:39 |
+| 140 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
+| 141 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjg1Mjk0MjAsMDAwMDAwMDBmMzhjMzI0ZWYyMmEyNzFlM2YyN2UxYmM1NWNjYTBiMQ==`
+Snapshot ID: `Mjg1MzA4NjAsMDAwMDAwMDA4Nzc4MmQ2MjNiY2JiZjUxNGY5MWNiMzUxZmQ3YzQ2Yg==`

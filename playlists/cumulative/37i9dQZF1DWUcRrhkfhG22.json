@@ -1900,7 +1900,7 @@
     {
       "album": {
         "name": "Contrast",
-        "url": "https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv"
+        "url": "https://open.spotify.com/album/1Pkf341w5y6fjAjssaIwkv"
       },
       "artists": [
         {
@@ -1911,6 +1911,24 @@
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 246066,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4hze9blDumACXuOsOq22qc"
+    },
+    {
+      "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv"
+      },
+      "artists": [
+        {
+          "name": "REAL DAZE",
+          "url": "https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-31",
       "duration_ms": 246066,
       "name": "With You",
       "url": "https://open.spotify.com/track/7hA8vD3WERUwEOTGMMJd3J"

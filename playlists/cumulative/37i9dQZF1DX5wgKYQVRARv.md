@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-694 songs - 2 day 11 hr 42 min
+695 songs - 2 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Flag to Wave](https://open.spotify.com/track/0o1F2rRs6K0WFHP047fnDX) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [A Flag to Wave](https://open.spotify.com/album/2VPjS0ZQQQgCLD5QN1dJey) | 3:34 | 2022-07-13 | 2022-07-29 |
 | [A Flag to Wave](https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Way It Ends](https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr) | 3:34 | 2022-07-13 |  |
 | [A Fool's Desire](https://open.spotify.com/track/3iqeydjiG4T08jMJjttLKw) | [Alkaloid](https://open.spotify.com/artist/4KMQDFaAsPEKcqKzdvkYKc) | [Numen](https://open.spotify.com/album/7xu3rOpBJaBWsiQVPwxu5T) | 8:10 | 2023-12-06 | 2024-02-10 |
+| [A Lesser King](https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP) | [Words Of Farewell](https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO) | [Stories to Forget](https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY) | 4:41 | 2024-03-29 |  |
 | [A Million Suns](https://open.spotify.com/track/2oJdZ6nQwyQWHxemJbvWcl) | [Defecto](https://open.spotify.com/artist/2o6fdLOyFmR2e94aYpQoAs) | [A Million Suns](https://open.spotify.com/album/6DGxhypGqMPOVksggevoYo) | 4:34 | 2021-12-17 | 2022-07-24 |
 | [A Mind Short Circuiting](https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [A Mind Short Circuiting](https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ) | 4:27 | 2024-03-29 |  |
 | [A New Color](https://open.spotify.com/track/1E97mxCbk0NrbdczEf528G) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [A New Color](https://open.spotify.com/album/0ntLANL2grwqvzvPA9tX9L) | 5:21 | 2021-12-17 | 2022-07-01 |
@@ -266,7 +267,7 @@
 | [Heartstrings](https://open.spotify.com/track/6ryxUe5HxnzSFoXM5T1KFl) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Heartstrings](https://open.spotify.com/album/5djqsU8yb4Xy9JV365WZkF) | 6:20 | 2021-12-17 | 2022-01-29 |
 | [Heirloom](https://open.spotify.com/track/30a1OAy25aiX9vdYxy42om) | [A Sense of Purpose](https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM) | [Heirloom](https://open.spotify.com/album/7lPuo8764m0CLuTltqj1U1) | 4:22 | 2022-07-13 |  |
 | [Hello Death](https://open.spotify.com/track/2LEXNkVRuDfroBJRQ1zitM) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Hello Death](https://open.spotify.com/album/6MFXRy30nk6khmwq6GWuHq) | 4:54 | 2022-04-08 |  |
-| [Here We Are](https://open.spotify.com/track/3oCwdUiyKIwp6SigQXoopU) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [Here We Are](https://open.spotify.com/album/6cytNSU09li8jXGtKezAHz) | 3:34 | 2024-01-30 |  |
+| [Here We Are](https://open.spotify.com/track/3oCwdUiyKIwp6SigQXoopU) | [ILLUMISHADE](https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg) | [Here We Are](https://open.spotify.com/album/6cytNSU09li8jXGtKezAHz) | 3:34 | 2024-01-30 | 2024-03-31 |
 | [Hero](https://open.spotify.com/track/4gWQgoWxCPeuR1GcUuqNYK) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Paragon](https://open.spotify.com/album/4TLl1j6ojm8pTMRucMVVqT) | 4:42 | 2022-07-13 |  |
 | [Hidden Window](https://open.spotify.com/track/0WOGPQwYgOl3wtdzCSJ5Xl) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Coherence](https://open.spotify.com/album/0BH4HBaIx4uUsVQ1wId0Ix) | 8:24 | 2022-07-08 | 2023-01-21 |
 | [Hidden Window](https://open.spotify.com/track/4RPDDNZ5fk0RgeppdEYwTR) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Hidden Window](https://open.spotify.com/album/5SxMs83K4lloEcYeAUTThH) | 8:24 | 2021-12-17 | 2022-07-29 |

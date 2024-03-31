@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Dasha
 
-590 songs - 1 day 8 hr 21 min
+591 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Another One More Time](https://open.spotify.com/track/5hFeerouDWGm7W3w1rZZSU) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Another One More Time](https://open.spotify.com/album/7djskwMLcIadqH9Q5m0wXT) | 3:16 | 2021-12-30 | 2022-03-25 |
 | [ANYTHING LIKE ME](https://open.spotify.com/track/5JTy7gXHt5k9cXf0HFhpda) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [ANYTHING LIKE ME](https://open.spotify.com/album/39c1pwrGbKxOZhVQkMCzM4) | 3:35 | 2022-02-24 | 2022-07-15 |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2021-12-30 | 2022-04-01 |
-| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-18 |  |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-18 |  |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-18 | 2024-03-31 |
 | [Baby & I](https://open.spotify.com/track/3QBJTh6FoaFg9QOajc7cpW) | [Bud Rokesky](https://open.spotify.com/artist/1UJ1coJeMJWb3tEgAXKv67) | [Baby & I](https://open.spotify.com/album/10QTB1PkTVFvpsI2lRpWvT) | 3:29 | 2023-01-27 | 2023-04-28 |
 | [Back Then Right Now](https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Back Then Right Now](https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9) | 3:21 | 2023-09-07 | 2023-12-20 |
 | [Bad Things](https://open.spotify.com/track/14TZAzaNPCqMUaVSWhsVWk) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Darlinghurst](https://open.spotify.com/album/77bjZYPdR8D10J5XhhjAmB) | 3:42 | 2021-12-30 | 2022-01-22 |

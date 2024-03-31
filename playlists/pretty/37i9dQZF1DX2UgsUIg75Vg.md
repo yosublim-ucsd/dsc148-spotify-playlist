@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Hailey Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,355,970 likes - 155 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,356,143 likes - 155 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 20 | [prove it](https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:27 |
 | 21 | [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 |
 | 22 | [I Can't Even Lie](https://open.spotify.com/track/3FbNRLza8IVPu6VDSdbhNi) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Full Circle: Sonic Book Two](https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx) | 3:24 |
-| 23 | [Sending Your Love \(Remix\)](https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Send Your Loving \(Remix\)](https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4) | 3:41 |
+| 23 | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4) | 3:41 |
 | 24 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
 | 25 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
 | 26 | [Hundred Million Reasons](https://open.spotify.com/track/4YTHJMz3yiR6PRnjdlP2jZ) | [Paperboy Fabe](https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Hundred Million Reasons](https://open.spotify.com/album/6sbcg3Ab1Ts57F12QWKkVA) | 3:02 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 154 | [Pull Up](https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:01 |
 | 155 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 |
 
-Snapshot ID: `MCw3YjVlNGE3NWFkNjNmMzE5OTU4YTQ3ZGY0YzFkMDFjNWY3NDg0MTIw`
+Snapshot ID: `MCw2YjAxZmE1YTgwMjg5YThmODFlZWVjOWM0Y2NhNzJlODRjOTA4YjA1`

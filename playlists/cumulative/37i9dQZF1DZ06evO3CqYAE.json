@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 281227,
       "name": "My Future and Hope",
       "url": "https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb"
@@ -722,6 +722,24 @@
     {
       "album": {
         "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300878,
+      "name": "Obinasom",
+      "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
+    },
+    {
+      "album": {
+        "name": "SATISFIED",
         "url": "https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b"
       },
       "artists": [
@@ -732,7 +750,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 300878,
       "name": "Obinasom",
       "url": "https://open.spotify.com/track/1F1U7HCEerNnNsVhsKP3gv"
@@ -1076,6 +1094,24 @@
     {
       "album": {
         "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+    },
+    {
+      "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
         "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
       },
       "artists": [
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 291493,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"

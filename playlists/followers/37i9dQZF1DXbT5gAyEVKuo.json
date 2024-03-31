@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 80747,
+  "2024-03-31": 80783,
   "date_first_scraped": "2022-03-01",
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
   "name": "Gospel Live",
@@ -863,15 +863,19 @@
       },
       "artists": [
         {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+          "name": "Donald Lawrence",
+          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
+        },
+        {
+          "name": "The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn"
         }
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 281973,
-      "name": "Never Seen The Righteous - Live",
+      "name": "Never Seen The Righteous - Live At The Tabernacle",
       "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
     },
     {

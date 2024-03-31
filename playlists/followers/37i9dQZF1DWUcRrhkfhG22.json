@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 47580,
+  "2024-03-31": 47616,
   "date_first_scraped": "2022-08-06",
   "description": "Funky vocoders and talk boxes",
   "name": "Robo-Funk",
@@ -165,6 +165,24 @@
       "duration_ms": 310413,
       "name": "Back",
       "url": "https://open.spotify.com/track/5b1eWh22jn5CfJAGtWTbUe"
+    },
+    {
+      "album": {
+        "name": "No Simulation",
+        "url": "https://open.spotify.com/album/7BzehtbRHHHekt6Tne5q5l"
+      },
+      "artists": [
+        {
+          "name": "Ben Jones",
+          "url": "https://open.spotify.com/artist/5uFhgpnmddmAmfqZawWt3k"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242553,
+      "name": "Best Of Your Love",
+      "url": "https://open.spotify.com/track/40AXbmCmcdCf8gmWCoEFmq"
     },
     {
       "album": {

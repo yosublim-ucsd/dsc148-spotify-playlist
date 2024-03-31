@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 55,
+  "2024-03-31": 55,
   "date_first_scraped": "2024-01-03",
   "description": "This is Qlank. The essential tracks, all in one playlist.",
   "name": "This Is Qlank",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 215625,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170880,
       "name": "Cell Phone",
       "url": "https://open.spotify.com/track/4vrxiotFxYfjEB11oRAfqN"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "Find Away",
       "url": "https://open.spotify.com/track/45GUKSyfsmue7hTzNq9Dfp"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 230476,
       "name": "Hands - Original Mix",
       "url": "https://open.spotify.com/track/6LBY5xiRjfloS40kRhhBz8"

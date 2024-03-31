@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 627436,
+  "num_followers": 627500,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1",
+  "snapshot_id": "MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Alive In South Africa",
-        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Friend of God - Live",
-      "url": "https://open.spotify.com/track/3crhuOV1LoARTZdukgcr6a"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Imprint (Live in Memphis)",
         "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 570594,
       "name": "You've Been Good To Me - Live",
       "url": "https://open.spotify.com/track/0GFG2Tr60pn7NHRAsBIe8b"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Alive In South Africa",
+        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Friend of God - Live",
+      "url": "https://open.spotify.com/track/3crhuOV1LoARTZdukgcr6a"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "He Can Handle It (Live)",
-        "url": "https://open.spotify.com/album/7GNErp8ltR2S4yb7I0fmvp"
-      },
-      "artists": [
-        {
-          "name": "Crystal Aikin",
-          "url": "https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "He Can Handle It (Radio Edit) - Live",
-      "url": "https://open.spotify.com/track/68tLwIOp5nOnrHWmVzyr5C"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Back To Life",
         "url": "https://open.spotify.com/album/0elzbB6iZvy5pY00RWGz8E"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 294000,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/3PLh6BC6aaX0E7PALvt0EE"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "He Can Handle It (Live)",
+        "url": "https://open.spotify.com/album/7GNErp8ltR2S4yb7I0fmvp"
+      },
+      "artists": [
+        {
+          "name": "Crystal Aikin",
+          "url": "https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "He Can Handle It (Radio Edit) - Live",
+      "url": "https://open.spotify.com/track/68tLwIOp5nOnrHWmVzyr5C"
     },
     {
       "added_at": "2024-02-02 06:37:59",

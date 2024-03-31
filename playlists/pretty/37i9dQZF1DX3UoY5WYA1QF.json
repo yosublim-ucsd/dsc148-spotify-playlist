@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 98526,
+  "num_followers": 98687,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZlNzRlMmUyMGI0ZjM3ZDQ2ZDBkZWM1ZDM3MmI5NTU3Mjg0NDJh",
+  "snapshot_id": "MCwzMThjMjNhYzI4MGNlZDIyNTIzM2E2MzhiNzJkZjQxNDVhOWJlNWQ4",
   "tracks": [
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 209676,
       "name": "Oiga",
       "url": "https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
     },
     {
       "added_at": "2023-04-10 22:49:54",

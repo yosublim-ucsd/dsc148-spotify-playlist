@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Tuấn Võ
 
-1,565 songs - 3 day 19 hr 31 min
+1,566 songs - 3 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -907,7 +907,7 @@
 | [Người Nắm Tay Phải Buông Tay, Pt\. 1 \- From "Nụ Hôn Đầu Của Tôi "](https://open.spotify.com/track/3jpTqLuwTlQhUeweCqZ14v) | [Xuân Định K.Y](https://open.spotify.com/artist/7G5AEkY5idIoHytk72GGyf) | [Người Nắm Tay Phải Buông Tay, Pt\. 1 \(From "Nụ Hôn Đầu Của Tôi "\)](https://open.spotify.com/album/6K0ffd0KCKNkWaHmKT8DUE) | 3:36 | 2023-11-23 | 2023-11-30 |
 | [Người Qua Đường](https://open.spotify.com/track/2IdpFFQWSIly1dEDlCM1ep) | [Đoàn Khánh Linh](https://open.spotify.com/artist/5Ccao0aC8Xkw93XHgdaupq) | [Người Qua Đường](https://open.spotify.com/album/4jC28aTyYbm4RPjNTn4v1n) | 4:51 | 2023-05-01 | 2023-05-20 |
 | [Người Trong Mơ](https://open.spotify.com/track/4XFGUW4u7tY7CUiI10CKPs) | [Kold](https://open.spotify.com/artist/30BXyU3yb0dZmVth8IHgHp), [WUY](https://open.spotify.com/artist/3IGxoxQrju6h4nvh9ZHz4T) | [Người Trong Mơ](https://open.spotify.com/album/41eRDjmzpkwQ0S934LIDjo) | 2:50 | 2023-01-06 | 2024-01-12 |
-| [người xink người ngố](https://open.spotify.com/track/4yn0gi4wz9qr9eAcE6Yd9C) | [Tuấn Việt](https://open.spotify.com/artist/2ktk9fgK40wg3lEiId4LM6), [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [người xink người ngố](https://open.spotify.com/album/2o1PCUIB6WdQAirJKhwXJg) | 3:12 | 2024-03-19 |  |
+| [người xink người ngố](https://open.spotify.com/track/4yn0gi4wz9qr9eAcE6Yd9C) | [tuấn việt](https://open.spotify.com/artist/0hAwpZIS6AwuTGkkIBMWZB), [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [người xink người ngố](https://open.spotify.com/album/2o1PCUIB6WdQAirJKhwXJg) | 3:12 | 2024-03-19 |  |
 | [Người Yêu Không Đá](https://open.spotify.com/track/4wYju2Z68SMqpBeJOkdS8a) | [CHOCO](https://open.spotify.com/artist/5G3xTFJKwRceJK9SBNCk2f), [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW) | [Người Yêu Không Đá](https://open.spotify.com/album/0GKExeMJ8HywYEXtVW70dU) | 3:08 | 2022-06-12 | 2023-01-06 |
 | [Người Đâu Mất Rồi](https://open.spotify.com/track/0F68GIAn1wZ60atjV4inV3) | [Khác Họ Records](https://open.spotify.com/artist/2tC1eJc79vvyIH0sw4mLIZ), [Da Claus](https://open.spotify.com/artist/3Lqmts0p1u7klftLcrJYxg), [X2C](https://open.spotify.com/artist/4ruBa4DSUymegLyh5MsV6H), [LNGY](https://open.spotify.com/artist/4P85cBAXFfHR7OTBe1wSVk) | [Người Đâu Mất Rồi](https://open.spotify.com/album/1mfbp7kE7PCXOh7TciITz7) | 3:32 | 2022-06-30 | 2022-09-10 |
 | [Ngược dòng trái tim](https://open.spotify.com/track/1Fa9yHWH9EAjsKuYD6KkRv) | [Nguyễn An An](https://open.spotify.com/artist/2puIKOUCxCPzoesLuPBy1f) | [Ngược dòng trái tim](https://open.spotify.com/album/3vxjUA66xlcaSMcXvLzM1E) | 5:20 | 2023-06-04 | 2023-07-11 |
@@ -1552,6 +1552,7 @@
 | [Đổi Lấy Nụ Cười](https://open.spotify.com/track/6O3iP4GbtEkpUl2JZLCi6I) | [My Mơ](https://open.spotify.com/artist/5BjHJXPxwRKh7Qz7cKOPAH) | [Đổi Lấy Nụ Cười](https://open.spotify.com/album/0uFk3n2lg0ks9Dwjpvr6Kx) | 4:47 | 2022-05-27 | 2022-09-09 |
 | [Đời Mà](https://open.spotify.com/track/22O7aM5tjBvAUAwnTtPyzc) | [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo) | [Đời Mà](https://open.spotify.com/album/0e8Ropvn4504173ltRBiy7) | 2:08 | 2023-01-12 | 2023-03-18 |
 | [Đợi Chờ](https://open.spotify.com/track/4IK9GS4nl3arE1REhZMQuq) | [kaydi](https://open.spotify.com/artist/1PvcjYvgC0HNBdg13PfK9l), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [Đợi Chờ](https://open.spotify.com/album/5YdbLHMlzq2gfR6N85crlX) | 3:35 | 2022-09-09 | 2022-10-05 |
+| [Đợi đến tháng 13](https://open.spotify.com/track/63sss8NjI2cmUWe1D3WwnS) | [Vũ Thịnh](https://open.spotify.com/artist/5CmaKrKVwzQ6iQnJx2cGAm), [ViAM](https://open.spotify.com/artist/6uD33IUwz8hLdIjz6Afcrm) | [Đợi đến tháng 13](https://open.spotify.com/album/3BW5tbEH70QWUyoYSp69P5) | 3:28 | 2024-03-30 |  |
 | [Đừng Buông Tay](https://open.spotify.com/track/73VNP6sf8Kwpe3c1qPyMrc) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo) | [Đừng Buông Tay](https://open.spotify.com/album/1kCeVqOauEvomtlR7YhEKZ) | 4:10 | 2022-05-04 | 2022-07-15 |
 | [Đừng Chờ Đợi Nữa](https://open.spotify.com/track/0lNRs7CVkTnxyEnCntnAiZ) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Huyên Thiên](https://open.spotify.com/album/4ee8A6eK5gNBPXI1YtnRxm) | 3:21 | 2023-09-21 | 2023-10-24 |
 | [Đừng Gọi Cho Anh](https://open.spotify.com/track/7m9lmbc84eqCUsndKXixNy) | [NamDuc](https://open.spotify.com/artist/5gxbYotSTURotqnFJN8TWQ) | [Đừng Gọi Cho Anh](https://open.spotify.com/album/0dQ7nUWe5mpWNfhiIPzMhl) | 3:16 | 2022-09-17 | 2022-10-03 |

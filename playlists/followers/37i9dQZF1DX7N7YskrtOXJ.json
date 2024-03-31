@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 89553,
+  "2024-03-31": 89609,
   "date_first_scraped": "2023-09-04",
   "description": "La fiesta se enciende con cumbia.\n",
   "name": "Cumbia pa' carretear",
@@ -2223,7 +2223,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 77760,
       "name": "Porque Te Quiero",
       "url": "https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH"
@@ -2871,6 +2871,24 @@
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+    },
+    {
+      "album": {
+        "name": "Torres Del Paine",
+        "url": "https://open.spotify.com/album/3uFl4jYrz03lLruD5N1tkC"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184917,
+      "name": "Torres Del Paine",
+      "url": "https://open.spotify.com/track/6El1GAPRHcoP2rxERMz2Jj"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 543717,
+  "2024-03-31": 543810,
   "date_first_scraped": "2023-05-16",
   "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Shakira",
   "name": "POP FLOW",
@@ -965,7 +965,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -3380,6 +3380,32 @@
     },
     {
       "album": {
+        "name": "No Soy Yo",
+        "url": "https://open.spotify.com/album/6zD7MCeIQcvPsTYcVLmbTa"
+      },
+      "artists": [
+        {
+          "name": "Valuto",
+          "url": "https://open.spotify.com/artist/0AQym39jmsVTiggRZdyiSW"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        },
+        {
+          "name": "Barta",
+          "url": "https://open.spotify.com/artist/5NWl6RH247jjDkkNpvhmHF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164557,
+      "name": "No Soy Yo",
+      "url": "https://open.spotify.com/track/0Jkpybs2BjKAofpfD97Hvg"
+    },
+    {
+      "album": {
         "name": "No Te Pases",
         "url": "https://open.spotify.com/album/4tbJ7goF6LCXBFOxsiM8zW"
       },
@@ -3889,7 +3915,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
@@ -4425,6 +4451,28 @@
       "duration_ms": 175920,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh"
+    },
+    {
+      "album": {
+        "name": "Tal Vez (Remix)",
+        "url": "https://open.spotify.com/album/6AAV2t7WjOue7PvPpNGKZW"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Tal Vez - Remix",
+      "url": "https://open.spotify.com/track/0pzh7NqiJH9ETXAWaNMM4b"
     },
     {
       "album": {

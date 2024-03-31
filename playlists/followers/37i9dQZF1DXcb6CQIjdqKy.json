@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 1589513,
+  "2024-03-31": 1590035,
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. \n Cover:  <a href=\"spotify:artist:5Ye2QWN2Wl9zTn947eaest\">We The Kingdom</a> ",
+  "description": "The best mix of today's Christian music, all genres, worldwide. \n Cover:  <a href=\"spotify:artist:0SLXOHoqcGPOsH9RZETtp1\">7 Hills Worship</a> ",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 137150,
       "name": "A Four Chord Protest",
       "url": "https://open.spotify.com/track/4YXswxrwfmRRbpSLgnSJnA"
@@ -635,6 +635,24 @@
       "duration_ms": 188963,
       "name": "Alright (feat. Jimmie Allen)",
       "url": "https://open.spotify.com/track/3FF426wDi9nKu01MNYJUVh"
+    },
+    {
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/25XytYiId8a2hLUFkoxn2K"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444521,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0lRaOxE3ZNDEmeJzKlNdjD"
     },
     {
       "album": {
@@ -2260,6 +2278,28 @@
     },
     {
       "album": {
+        "name": "Death Is Hollow",
+        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519288,
+      "name": "Death Is Hollow (Live)",
+      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
+    },
+    {
+      "album": {
         "name": "Deeper Waters",
         "url": "https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB"
       },
@@ -3633,6 +3673,24 @@
     {
       "album": {
         "name": "Glory",
+        "url": "https://open.spotify.com/album/6HezLJRB79fIRsCdcPEJeY"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193241,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/2uDxeiMRo8RHpoFS2wrjnQ"
+    },
+    {
+      "album": {
+        "name": "Glory",
         "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
       "artists": [
@@ -4039,7 +4097,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 214604,
       "name": "Gonna Be Enough",
       "url": "https://open.spotify.com/track/2GiJyZXM5aLLx62GYixtJ5"
@@ -4079,6 +4137,24 @@
       "duration_ms": 592000,
       "name": "Good (Can't Be Anything Else) - Live",
       "url": "https://open.spotify.com/track/77kvkHuxOiV491BKllJ6gn"
+    },
+    {
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
     },
     {
       "album": {
@@ -4997,7 +5073,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 168975,
       "name": "high water",
       "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
@@ -5023,6 +5099,28 @@
       "duration_ms": 154218,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
+    },
+    {
+      "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/0R7iwes3g0B3yABKayGPgl"
+      },
+      "artists": [
+        {
+          "name": "Annie Bosko",
+          "url": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/7Gc6AtqoehihaLJAKDR1s6"
     },
     {
       "album": {
@@ -5237,6 +5335,24 @@
       "duration_ms": 339733,
       "name": "HOLY ONLY (feat. Tony Fresh & Chaquanna Iman)",
       "url": "https://open.spotify.com/track/63wxAGw6zp0Y2EcXQNUrJj"
+    },
+    {
+      "album": {
+        "name": "... Like Poetry",
+        "url": "https://open.spotify.com/album/5Khedo5KG1UC4i5QVxGkA0"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251890,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1KIcc8WRbjb8ti2rY008am"
     },
     {
       "album": {
@@ -6585,7 +6701,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 177664,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
@@ -8055,7 +8171,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 208000,
       "name": "Love Is U",
       "url": "https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu"
@@ -8183,6 +8299,24 @@
       "duration_ms": 193934,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
+    },
+    {
+      "album": {
+        "name": "LOW KEY",
+        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150485,
+      "name": "LOW KEY",
+      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
     },
     {
       "album": {
@@ -9485,7 +9619,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 144294,
       "name": "Nothing Into Something",
       "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
@@ -9960,6 +10094,28 @@
     },
     {
       "album": {
+        "name": "people need people",
+        "url": "https://open.spotify.com/album/62nxZv3qXesKfzfRYXvt9V"
+      },
+      "artists": [
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199595,
+      "name": "people need people",
+      "url": "https://open.spotify.com/track/2tm5t7lVSRBWEOM8TSeumV"
+    },
+    {
+      "album": {
         "name": "People Of Heaven",
         "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
       },
@@ -10141,7 +10297,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 245108,
       "name": "POP UP",
       "url": "https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5"
@@ -11144,6 +11300,24 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/4npiT4Jjd9rBy8sxWy7PLF"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202879,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT"
+    },
+    {
+      "album": {
         "name": "Scars in Heaven",
         "url": "https://open.spotify.com/album/6pdwWxEt670pc5jYxzbmYf"
       },
@@ -11707,7 +11881,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 181944,
       "name": "START AGAIN",
       "url": "https://open.spotify.com/track/52Vy5fDKlXOzCLzguIyOkT"
@@ -12675,7 +12849,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 177587,
       "name": "The City Is Mine",
       "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
@@ -12701,6 +12875,28 @@
       "duration_ms": 195606,
       "name": "The Commission (feat. Cody Carnes)",
       "url": "https://open.spotify.com/track/5cxp40aGW8jKngXgSFR0xF"
+    },
+    {
+      "album": {
+        "name": "The Commission (Go Tell The World)",
+        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Isaiah Templeton",
+          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245475,
+      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
+      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
     },
     {
       "album": {
@@ -13813,7 +14009,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 222021,
       "name": "We Believe In God",
       "url": "https://open.spotify.com/track/4u09rUwk4uT9oHvtWNLXah"
@@ -14408,6 +14604,24 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/24swUtg9LcJGpuLAadmedS"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2qOzpErfsV8kpp72Dc2uim"
+    },
+    {
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/66mhmcFBDn1DCxPOJd2wRI"
       },
@@ -14565,7 +14779,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 415598,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"

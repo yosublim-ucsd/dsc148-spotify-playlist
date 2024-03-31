@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 54912,
+  "2024-03-31": 54921,
   "date_first_scraped": "2023-04-03",
   "description": "Dosis musical para disfrutar el momento. Foto: Kei Linch",
   "name": "Parchadito",
@@ -769,7 +769,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 146147,
       "name": "CH\u00c9VERE",
       "url": "https://open.spotify.com/track/6aKTId77qaIrzo82M51eqm"
@@ -1944,6 +1944,24 @@
     },
     {
       "album": {
+        "name": "Musiquita Triste",
+        "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Musiquita Triste",
+      "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Na",
         "url": "https://open.spotify.com/album/4ZtOej9M3GMZSUDWN3dgwD"
       },
@@ -2646,6 +2664,28 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141031,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
+    },
+    {
+      "album": {
         "name": "Perro Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vS4SjErxZ0EGsiUYImwFN"
       },
@@ -2785,7 +2825,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 151034,
       "name": "Tarea",
       "url": "https://open.spotify.com/track/2dcsG9tJO9KrC4HOyl8Msu"

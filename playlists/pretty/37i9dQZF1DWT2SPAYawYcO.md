@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,424 likes - 78 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,471 likes - 78 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 77 | [YOU DON'T LIKE ME](https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [YOU DON'T LIKE ME](https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4) | 2:44 |
 | 78 | [Face of God](https://open.spotify.com/track/4A9M5nq0KsU8A58nfoFb0q) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Face of God](https://open.spotify.com/album/4kx3eYF1Sin4wwe15Kj0ih) | 5:18 |
 
-Snapshot ID: `MCxiZDY0MWI2MDZiOGM3MDIzNGNhYmEwZWYzMDExYTEyMjQ5YWJmZGFm`
+Snapshot ID: `MCw4MGNlZWQ5NjMwNDM4MjdmNjI4MGQ1NmUzYTYxZTFlYTE0YjAzN2I3`

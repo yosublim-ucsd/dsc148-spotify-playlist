@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 124785,
       "name": "Flick! (Stacey) (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt"
@@ -802,10 +802,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 196610,
       "name": "Grip",
       "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
+    },
+    {
+      "album": {
+        "name": "Grip (Sped Up/Slowed Down)",
+        "url": "https://open.spotify.com/album/3MQLhpAAMbdElr2C98xLiW"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181486,
+      "name": "Grip - Sped Up",
+      "url": "https://open.spotify.com/track/0NE8hafAqEQgXk6N9J4vTU"
     },
     {
       "album": {

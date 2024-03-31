@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 1228481,
+  "2024-03-31": 1229212,
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Brothers Osborne",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Josh Ross",
   "name": "New Boots",
   "tracks": [
     {
@@ -3279,7 +3279,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 197066,
       "name": "Bigger Houses",
       "url": "https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk"
@@ -4385,6 +4385,24 @@
       "duration_ms": 242306,
       "name": "Bury Me in Georgia",
       "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
+    },
+    {
+      "album": {
+        "name": "Bury Me In This Bar",
+        "url": "https://open.spotify.com/album/3RsL1OzH1QCe2sEco77786"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186413,
+      "name": "Bury Me In This Bar",
+      "url": "https://open.spotify.com/track/5yOZMG6WpXxrsiJldKI5EJ"
     },
     {
       "album": {
@@ -16171,7 +16189,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 197946,
       "name": "I'll Be A Bartender",
       "url": "https://open.spotify.com/track/5amuqAOkKdHenSjPaAUQXA"
@@ -17300,6 +17318,28 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204487,
+      "name": "JUST FOR FUN",
+      "url": "https://open.spotify.com/track/4h6iaiMchTUHlK5ovMiJ3h"
+    },
+    {
+      "album": {
         "name": "Red Dirt Cursed",
         "url": "https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond"
       },
@@ -18375,7 +18415,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 181040,
       "name": "LIGHTS ON NOBODY'S HOME",
       "url": "https://open.spotify.com/track/5aANEtfccAdMVeDnJzgcfn"
@@ -19835,7 +19875,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 166769,
       "name": "Man",
       "url": "https://open.spotify.com/track/55f35jEFEDIWCY9YDwf9r0"
@@ -24791,7 +24831,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 221508,
       "name": "Purple Irises",
       "url": "https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y"
@@ -29386,6 +29426,28 @@
     },
     {
       "album": {
+        "name": "STRAIGHT TO MY HEART (feat. Lauren Watkins)",
+        "url": "https://open.spotify.com/album/0rYNwysFpWTsiItvJjmYpU"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        },
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149546,
+      "name": "STRAIGHT TO MY HEART - feat. Lauren Watkins",
+      "url": "https://open.spotify.com/track/53IUSLFtsnqJpiIEp48akd"
+    },
+    {
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -30205,6 +30267,24 @@
       "duration_ms": 172546,
       "name": "Tank Of Gas And A Radio Song",
       "url": "https://open.spotify.com/track/0a7dqjPE3kZrjYFXFI6ORR"
+    },
+    {
+      "album": {
+        "name": "Tears In The River",
+        "url": "https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB"
+      },
+      "artists": [
+        {
+          "name": "Maddox Batson",
+          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190619,
+      "name": "Tears In The River",
+      "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
     },
     {
       "album": {
@@ -31833,7 +31913,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 217058,
       "name": "This Is My Dirt",
       "url": "https://open.spotify.com/track/0XuEfX2tOQPxhJCIMcjkgD"
@@ -31873,7 +31953,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 235500,
       "name": "This Ring",
       "url": "https://open.spotify.com/track/4TWxiqwnkANB6Svp5rsoS3"
@@ -33194,6 +33274,24 @@
     },
     {
       "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"
+    },
+    {
+      "album": {
         "name": "Villain",
         "url": "https://open.spotify.com/album/3qdprgT9HXDTzav58XtZpN"
       },
@@ -34229,6 +34327,24 @@
       "duration_ms": 209046,
       "name": "What He Does",
       "url": "https://open.spotify.com/track/3ElEikFqt5XEkQrauyEqok"
+    },
+    {
+      "album": {
+        "name": "Livin' My Best Life (Still)",
+        "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "What He'll Never Have",
+      "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
     },
     {
       "album": {
@@ -35717,6 +35833,24 @@
       "duration_ms": 183626,
       "name": "Wildwood",
       "url": "https://open.spotify.com/track/0sdAWC1IUZsfoiMZjYcYeb"
+    },
+    {
+      "album": {
+        "name": "Wind Up Missin' You",
+        "url": "https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Wind Up Missin' You",
+      "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
     },
     {
       "album": {

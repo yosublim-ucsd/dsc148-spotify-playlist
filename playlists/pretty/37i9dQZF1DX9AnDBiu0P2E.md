@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnDBiu0P2E.md) - [plain]
 
 > feel the wind in your hair with these rock favorites, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,389 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,479 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnDBiu0P2E.md) - [plain]
 | 59 | [Hot Dusty Roads](https://open.spotify.com/track/1wOxTOMMt5N7aw6kBItAW4) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:51 |
 | 60 | [Lose Your Mind](https://open.spotify.com/track/4JgyMBaCEvGaGF7YQmbC6m) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Reflector](https://open.spotify.com/album/2ZSufO9lQ6fZpTSc7FM0Br) | 3:43 |
 
-Snapshot ID: `MCwwMzQxNjRmYTVhNGRlYTZiMTM0YjQwNmIzMWIyZmJiOTJhZWRkNzJh`
+Snapshot ID: `MCxjMjA1OTdkNWViYTY0NGE3NGZhODg2YmJhMDU3NjlmNzRjZjJhYzUy`

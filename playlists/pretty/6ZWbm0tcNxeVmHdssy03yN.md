@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,760 likes - 99 songs - 4 hr 49 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,766 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 4 | [God Complex](https://open.spotify.com/track/1va9dlk6yMt75Z6D3Vi2xQ) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [God Complex](https://open.spotify.com/album/45POFZr1llgWQJf4xNrCZp) | 2:09 |
 | 5 | [Custard Spoon](https://open.spotify.com/track/0Vs8GbRFLRiIQGdNBgeHdL) | [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [Custard Spoon](https://open.spotify.com/album/3WBzvfi9EicnJDd6PD5jbY) | 2:01 |
 | 6 | [Show Must Go On](https://open.spotify.com/track/1Nfu04gkIcAz1zaXKqB297) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Cash'N'Out](https://open.spotify.com/artist/37z54IaHgH9KYmCbTjWOjV) | [Show Must Go On](https://open.spotify.com/album/2RtnoSPw01fFWQTPEekhc4) | 2:13 |
-| 7 | [Lotus and the Butterfly](https://open.spotify.com/track/4J9XqVEp0sRJzKzkVdDAfy) | [Ian Skelly](https://open.spotify.com/artist/02ejylocvu1YG1FJKxjJQs) | [The Lotus and The Butterfly](https://open.spotify.com/album/12Y31ynK50fabnTv4gx8a9) | 3:33 |
+| 7 | [Lotus and the Butterfly](https://open.spotify.com/track/4J9XqVEp0sRJzKzkVdDAfy) | [Ian Skelly](https://open.spotify.com/artist/02ejylocvu1YG1FJKxjJQs) | [Lotus and The Butterfly](https://open.spotify.com/album/12Y31ynK50fabnTv4gx8a9) | 3:33 |
 | 8 | [RUN LOGAN RUN](https://open.spotify.com/track/4WhIIaH2SqYB8Mx97AOV6l) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1), [Southsidefinn](https://open.spotify.com/artist/5WDGBmHhxVxvBPVSfLXE9R) | [BEASTIE](https://open.spotify.com/album/5TOjkV4rc6fRtp2E1Z7jQw) | 2:55 |
 | 9 | [5AM](https://open.spotify.com/track/4QuM7r5ZMjKDNykAqFmqBj) | [Tizzy](https://open.spotify.com/artist/5dNJd5adjqccYseJtv8wZ9) | [5AM](https://open.spotify.com/album/2Q1PBswyOhjeFBldihXmNG) | 2:29 |
 | 10 | [Give Thanks](https://open.spotify.com/track/0CGnsq1sH4DUuL6DMP6Cvc) | [Ish D](https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo) | [Where's Your Faith?](https://open.spotify.com/album/5NdLpCRDGEvs9yUSZKwWTe) | 3:31 |

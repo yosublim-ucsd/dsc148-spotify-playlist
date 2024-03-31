@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 384930,
+  "2024-03-31": 385099,
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: FloyyMenor & Lucky Brown.",
+  "description": "Este Flow tiene otro Flow. Foto: El Jordan 23 & Fuego.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -481,6 +481,24 @@
       "duration_ms": 160776,
       "name": "A Toa",
       "url": "https://open.spotify.com/track/4Saf2YVGuBkjrFjLwjKmhn"
+    },
+    {
+      "album": {
+        "name": "A TODA HORA",
+        "url": "https://open.spotify.com/album/3Chp3i4jpgu741HjDWxoeA"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "A TODA HORA",
+      "url": "https://open.spotify.com/track/4Q7SDO4Seqce6WGfbUTpGm"
     },
     {
       "album": {
@@ -1460,6 +1478,32 @@
     },
     {
       "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264996,
+      "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
+      "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
+    },
+    {
+      "album": {
         "name": "Bbsita",
         "url": "https://open.spotify.com/album/5okTnA5DUdqOZJYXN3jfh6"
       },
@@ -1603,7 +1647,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 152428,
       "name": "Bellakona",
       "url": "https://open.spotify.com/track/5w3W55dZCiaXwvm6hqJNDI"
@@ -3419,7 +3463,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 186691,
       "name": "Donde y Cuando",
       "url": "https://open.spotify.com/track/4UdPH5U7yM81VHwmwrhHpt"
@@ -3867,6 +3911,28 @@
       "duration_ms": 164542,
       "name": "En El Jacuzzi",
       "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
+    },
+    {
+      "album": {
+        "name": "EN KE TOPAMO",
+        "url": "https://open.spotify.com/album/2bgzBgtVEnsZJ6aSS6GzQl"
+      },
+      "artists": [
+        {
+          "name": "LOUKI",
+          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "EN KE TOPAMO",
+      "url": "https://open.spotify.com/track/6VV9bUaZ2cVPW2bvgSow8T"
     },
     {
       "album": {
@@ -4859,7 +4925,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 158750,
       "name": "GABO EL CHAMAQUITO | TURBULENCIA 5 | UN VIAJE",
       "url": "https://open.spotify.com/track/3xTLLPiK9glyehWMs3IA2V"
@@ -6109,7 +6175,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180000,
       "name": "LA NAVE",
       "url": "https://open.spotify.com/track/0NHvhQWproo8QkB1vut31X"
@@ -6587,6 +6653,54 @@
       "duration_ms": 284728,
       "name": "Lento - Remix",
       "url": "https://open.spotify.com/track/3ZYCBiwVFOJkRxPWhNJ6BX"
+    },
+    {
+      "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177032,
+      "name": "LGTLL (feat. Drago 200)",
+      "url": "https://open.spotify.com/track/4aEgIptftpDkOuqvKluFhE"
+    },
+    {
+      "album": {
+        "name": "Ligas Mayores",
+        "url": "https://open.spotify.com/album/7ylKz8dCITmmvVnMTAIpOK"
+      },
+      "artists": [
+        {
+          "name": "Dehilan",
+          "url": "https://open.spotify.com/artist/3TY8uR5cMZF7zX2xw5mrYI"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231131,
+      "name": "Ligas Mayores",
+      "url": "https://open.spotify.com/track/620Z246ArGZbomqrych9lf"
     },
     {
       "album": {
@@ -7131,7 +7245,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 163500,
       "name": "Luz Verde",
       "url": "https://open.spotify.com/track/3DB1bl2tkKYTCOt90Y5gIM"
@@ -7227,6 +7341,28 @@
       "duration_ms": 190397,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/3BTYZkMCqYWLqrxfub1NmE"
+    },
+    {
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/0IVzzAAQpLFFLT2ZwsXKC2"
+      },
+      "artists": [
+        {
+          "name": "Luis Vi",
+          "url": "https://open.spotify.com/artist/2xUYrN2TIgisHMPdjoSAAJ"
+        },
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175396,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/01kgVy2pzVNh23h0CAkr6c"
     },
     {
       "album": {
@@ -7609,7 +7745,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 234782,
       "name": "MARGIELA",
       "url": "https://open.spotify.com/track/0jEUr21c8Z8HeNGqGutIsV"
@@ -9283,6 +9419,28 @@
       "duration_ms": 188647,
       "name": "No Ando Weando",
       "url": "https://open.spotify.com/track/4uelxH4T8ewn0wwQC5gGLh"
+    },
+    {
+      "album": {
+        "name": "NO APAGUES LA LUZ",
+        "url": "https://open.spotify.com/album/15LhVFnUqO0v3N4oPWiQ6B"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "NO APAGUES LA LUZ",
+      "url": "https://open.spotify.com/track/1w0gzlVggcvSf3BPd9q8CL"
     },
     {
       "album": {
@@ -11269,7 +11427,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 147706,
       "name": "PRIORIDAD",
       "url": "https://open.spotify.com/track/6EfJMTo0FRqKTo3zatGUF0"
@@ -12590,6 +12748,44 @@
     },
     {
       "album": {
+        "name": "SI ME LLEGO A MORIR",
+        "url": "https://open.spotify.com/album/3nSknwciTsXFcs5XmGrLJD"
+      },
+      "artists": [
+        {
+          "name": "Felolaefe",
+          "url": "https://open.spotify.com/artist/1d6X8cIaHb05jj6SYoHUjV"
+        },
+        {
+          "name": "3TRIPLE J",
+          "url": "https://open.spotify.com/artist/2lvn0dSSamgNsFZPaJPzoR"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "JulianoChieff",
+          "url": "https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l"
+        },
+        {
+          "name": "Biologico en el beat",
+          "url": "https://open.spotify.com/artist/0avBgfQCYgNqPmREs55FEJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280873,
+      "name": "SI ME LLEGO A MORIR",
+      "url": "https://open.spotify.com/track/6tVlsnt6VJkcMpMMnCdFXU"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6IzK8CeN8WYgytqOhtUAyQ"
       },
@@ -12949,6 +13145,32 @@
       "duration_ms": 207835,
       "name": "Sin Seguro",
       "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
+    },
+    {
+      "album": {
+        "name": "Sinti\u00e9ndome Solo",
+        "url": "https://open.spotify.com/album/4myom5ziaUZGQtxeqSeECf"
+      },
+      "artists": [
+        {
+          "name": "Sergio Acosta",
+          "url": "https://open.spotify.com/artist/76yOiYbsm9mQ9cPFUKWNFw"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Snooyz",
+          "url": "https://open.spotify.com/artist/1zUVR0BslDpp8dYh3VJdes"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sinti\u00e9ndome Solo",
+      "url": "https://open.spotify.com/track/5exaCWoAMCHPZ3LuFOQvY7"
     },
     {
       "album": {
@@ -14915,7 +15137,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 197647,
       "name": "Vamos Pa la Disco",
       "url": "https://open.spotify.com/track/0pdN6CGzsl0Tpn3tczcwwE"
@@ -15007,7 +15229,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 155876,
       "name": "Verdad?",
       "url": "https://open.spotify.com/track/2zYP82W6Uk23lZms10Ea3n"

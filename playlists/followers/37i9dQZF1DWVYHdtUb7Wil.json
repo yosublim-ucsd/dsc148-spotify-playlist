@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 530232,
+  "2024-03-31": 530308,
   "date_first_scraped": "2023-06-18",
   "description": "Kick back to these chilled out essentials.",
   "name": "Chilled Hits",
@@ -817,7 +817,7 @@
     {
       "album": {
         "name": "Follow the Sound of My Voice",
-        "url": "https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM"
+        "url": "https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu"
       },
       "artists": [
         {
@@ -828,6 +828,24 @@
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv"
+    },
+    {
+      "album": {
+        "name": "Follow the Sound of My Voice",
+        "url": "https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-30",
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
       "url": "https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa"

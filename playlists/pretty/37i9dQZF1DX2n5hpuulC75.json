@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259494,
+  "num_followers": 259513,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjRhYWIwOGE3MzllM2I3NTlkMjU2ZThhNjkyZTliOGY5ZTNkYWIy",
+  "snapshot_id": "MCw4YTU5YmQ1ZjZhNWRjODZhOGY3MjI0YzY2NzNiNjM0ZjZjMzEyOTFj",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -47,22 +47,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Gallows",
-        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 211472,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Every High",
         "url": "https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 213204,
       "name": "Every High",
       "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Gallows",
+        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 211472,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -467,30 +467,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
-        "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 200504,
-      "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
-      "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "I would",
         "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 205564,
       "name": "I would",
       "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
+        "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 200504,
+      "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
+      "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Passionfruit Falls",
-        "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
-      },
-      "artists": [
-        {
-          "name": "Brother Mynor",
-          "url": "https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq"
-        }
-      ],
-      "duration_ms": 101469,
-      "name": "The Falls",
-      "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "another time (world$tar money)",
@@ -655,6 +639,22 @@
       "duration_ms": 181681,
       "name": "another time (world$tar money)",
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Passionfruit Falls",
+        "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
+      },
+      "artists": [
+        {
+          "name": "Brother Mynor",
+          "url": "https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq"
+        }
+      ],
+      "duration_ms": 101469,
+      "name": "The Falls",
+      "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Your Own Truth",
-        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
-      },
-      "artists": [
-        {
-          "name": "James Forest",
-          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Your Own Truth",
-      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "After the Tone with Lossapardo",
@@ -831,6 +815,22 @@
       "duration_ms": 153700,
       "name": "After the Tone with Lossapardo",
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Your Own Truth",
+        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
+      },
+      "artists": [
+        {
+          "name": "James Forest",
+          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Your Own Truth",
+      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Infinite Games",
-        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
-      },
-      "artists": [
-        {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Get Light",
-      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "VALIS",
@@ -999,6 +983,22 @@
       "duration_ms": 198958,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Infinite Games",
+        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
+      },
+      "artists": [
+        {
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Get Light",
+      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0"
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
       "artists": [
         {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
     },
     {
       "added_at": "2018-12-11 21:12:31",

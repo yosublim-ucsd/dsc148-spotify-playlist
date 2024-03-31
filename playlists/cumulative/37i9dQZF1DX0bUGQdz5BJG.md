@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Tucker Wetmore
 
-2,011 songs - 4 day 12 hr 4 min
+2,012 songs - 4 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1860,7 +1860,8 @@
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 | 2022-07-23 |
 | [WHAT DOESN'T KILL YA](https://open.spotify.com/track/09Lz0whqJWRlOuCxkbP0uh) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [WHAT DOESN'T KILL YA](https://open.spotify.com/album/0NME117HERTtVgmKpEnPQh) | 3:07 | 2023-10-13 | 2023-11-18 |
 | [What Good Am I](https://open.spotify.com/track/3deBlWezHSXvdYJP3zPYKH) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [What Good Am I](https://open.spotify.com/album/6nmXPhwgbvh24DzEyNwbDa) | 3:07 | 2024-01-05 |  |
-| [What Happens Now?](https://open.spotify.com/track/6Pof690ci3aferHd9VVQwO) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:33 | 2024-02-16 |  |
+| [What Happens Now](https://open.spotify.com/track/4cQ8Os8Gf1GgAkzoFQg8Az) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:33 | 2024-03-29 |  |
+| [What Happens Now?](https://open.spotify.com/track/6Pof690ci3aferHd9VVQwO) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:33 | 2024-02-16 | 2024-03-31 |
 | [What I Couldn’t Forget](https://open.spotify.com/track/4dEWNRlqu2qBJo5j0EERlR) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Jukebox Songs](https://open.spotify.com/album/6PCcB1BFkyWNrIuTez3tWm) | 2:50 | 2024-02-16 |  |
 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-05 | 2022-09-03 |
 | [What I Live For](https://open.spotify.com/track/1HQjfkdG1vpYj5xvfgisrJ) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [What I Live For](https://open.spotify.com/album/34k79papXhI4IyY8Zyiwba) | 3:10 | 2023-03-24 | 2023-07-22 |

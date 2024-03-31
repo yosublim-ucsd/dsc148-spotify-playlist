@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Mark Ambor
 
-1,063 songs - 2 day 10 hr 43 min
+1,064 songs - 2 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -966,7 +966,8 @@
 | [Too Attached](https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Too Attached](https://open.spotify.com/album/0Yl0YnOtGouj8QMD2LZhYQ) | 2:41 | 2024-01-19 |  |
 | [Too Old](https://open.spotify.com/track/20WU7u0xyiA1xuUAQwQX6a) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Too Old](https://open.spotify.com/album/5UzH1u6GwIQGvjZGHRiiCy) | 3:00 | 2023-07-21 | 2023-08-19 |
 | [Too Strange for the Circus](https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Too Strange for the Circus](https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4) | 3:11 | 2023-10-27 | 2024-02-24 |
-| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-22 |  |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-29 |  |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-22 | 2024-03-31 |
 | [Top of the World](https://open.spotify.com/track/4h8IM6C1V5qpwGH06HoCLx) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Top of the World](https://open.spotify.com/album/7zhvHFalV8RxLw6MWYvyLB) | 2:37 | 2022-07-29 | 2022-09-17 |
 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 | 2023-11-10 | 2024-01-27 |
 | [Trash Can](https://open.spotify.com/track/2wBFARKyNwkL7f1Fjsl1Zh) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Trash Can](https://open.spotify.com/album/17iGRF0zmObmYu2BseX8Oy) | 3:53 | 2023-10-27 | 2024-02-17 |

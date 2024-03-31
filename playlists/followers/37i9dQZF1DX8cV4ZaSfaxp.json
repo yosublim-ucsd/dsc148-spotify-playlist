@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 51173,
+  "2024-03-31": 51185,
   "date_first_scraped": "2022-05-15",
-  "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: YUQI(\uc6b0\uae30)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
+  "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "tracks": [
     {
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 191498,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd"
@@ -1479,6 +1479,24 @@
       "duration_ms": 221875,
       "name": "Dive",
       "url": "https://open.spotify.com/track/71YHNeT3TMUnV1165mgRbO"
+    },
+    {
+      "album": {
+        "name": "Dive in Love",
+        "url": "https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7"
+      },
+      "artists": [
+        {
+          "name": "Taeha",
+          "url": "https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219416,
+      "name": "Dive in Love",
+      "url": "https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF"
     },
     {
       "album": {
@@ -3959,7 +3977,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 194306,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
@@ -4353,7 +4371,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 202218,
       "name": "SEOUL CITY POP",
       "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"

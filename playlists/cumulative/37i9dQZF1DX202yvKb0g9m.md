@@ -4,7 +4,7 @@
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-90 songs - 8 hr 29 min
+91 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Box Energy](https://open.spotify.com/track/7zuSn5nyxCYD1xSdtxR0w7) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Phuture And Other Classics From DJ Pierre](https://open.spotify.com/album/48utdF1Edpn7ALtSVGIRu8) | 6:10 | 2021-10-22 | 2022-07-29 |
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2021-10-22 |  |
 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 | 2021-10-22 | 2022-07-29 |
+| [Can You Feel It](https://open.spotify.com/track/2jOWBkREdI0FvFwM60MKLm) | [RETRO MF](https://open.spotify.com/artist/2N4YBCzaK5N4g8fI3n36UU) | [Can You Feel It](https://open.spotify.com/album/3WmCOQPNbiemwv7HgMtd3p) | 5:45 | 2021-10-22 |  |
 | [Can You Feel It \- Instrumental](https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Can You Feel It](https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX) | 5:40 | 2021-10-22 | 2024-03-29 |
 | [Cardiology \(Isolée Mix\) \- Mixed](https://open.spotify.com/track/4AC2gUCUq3n1Iaxz2aYskJ) | [Recloose](https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S) | [DJ\-Kicks \(Motor City Drum Ensemble\) \[DJ Mix\]](https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx) | 5:45 | 2021-10-22 |  |
 | [Cardiology \- Isolée Mix](https://open.spotify.com/track/3ca2ftwQ42stye9qgURqtX) | [Recloose](https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S) | [DJ\-Kicks \(Motor City Drum Emsemble\)](https://open.spotify.com/album/62K6JylULgZWs9fnqlurpM) | 5:45 | 2021-10-22 | 2022-07-29 |
@@ -49,7 +50,7 @@
 | [Everybody Needs A 303](https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP) | 5:47 | 2021-10-22 | 2022-07-29 |
 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 | 2021-10-22 |  |
 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/40PQvC2BjFlPQRB2bMUDqs) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk) | [Fantasy Girl](https://open.spotify.com/album/1JeuP73XhGYm89uqMxi4kF) | 7:02 | 2021-10-22 | 2022-07-29 |
-| [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 | 2021-10-22 |  |
+| [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 | 2021-10-22 | 2024-03-31 |
 | [Firecracker](https://open.spotify.com/track/0VDi0h6uXz4r24TyAz5eJu) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/2DSRpIJMFmV2cEUxGq2N2H) | 6:31 | 2021-10-22 | 2022-10-14 |
 | [Firecracker](https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt) | 6:31 | 2021-10-22 |  |
 | [Higher State of Consciousness \(Tweekin Acid Funk\)](https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State of Consciousness](https://open.spotify.com/album/4DMsPDskkWhCfALt696an6) | 6:17 | 2021-10-22 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 607901,
+  "2024-03-31": 607946,
   "date_first_scraped": "2021-12-21",
   "description": "Latin music bangers for your gaming session! Santa Fe Klan, Peso Pluma y Duki on cover",
   "name": "Latin Gaming",
@@ -3323,6 +3323,28 @@
       "duration_ms": 111629,
       "name": "Drill Tumbado",
       "url": "https://open.spotify.com/track/6lpnklpEptsXrNvzsmmOug"
+    },
+    {
+      "album": {
+        "name": "DRIPPEO KBRON",
+        "url": "https://open.spotify.com/album/1aIvOQRDMbp91g032duGCj"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198712,
+      "name": "DRIPPEO KBRON",
+      "url": "https://open.spotify.com/track/1rCKmeUUh6WDrxoH5pWq9M"
     },
     {
       "album": {
@@ -6678,6 +6700,28 @@
     },
     {
       "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177032,
+      "name": "LGTLL (feat. Drago 200)",
+      "url": "https://open.spotify.com/track/4aEgIptftpDkOuqvKluFhE"
+    },
+    {
+      "album": {
         "name": "Lince",
         "url": "https://open.spotify.com/album/16qQm3clwiWOesXDNDZTTo"
       },
@@ -9163,7 +9207,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 152500,
       "name": "PA TU EGO",
       "url": "https://open.spotify.com/track/1WB8H1H4XktNWkzL6Iuf9j"
@@ -9677,7 +9721,7 @@
       },
       "artists": [
         {
-          "name": "Saiko",
+          "name": "SAIKO",
           "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         },
         {
@@ -9687,7 +9731,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 192122,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
@@ -10471,7 +10515,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 148400,
       "name": "Rebote",
       "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
@@ -10763,7 +10807,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 142441,
       "name": "R\u00e1pido",
       "url": "https://open.spotify.com/track/2KFGtbYKx3KQv4B5lKT075"

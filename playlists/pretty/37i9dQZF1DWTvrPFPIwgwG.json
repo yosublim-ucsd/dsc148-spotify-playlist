@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 121616,
+  "num_followers": 121717,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2ViNDE1NjUxZTVhN2M1ZmY0MGNkMWY2YjRlOWEyYWFlMzFjMTBm",
+  "snapshot_id": "MCw2MzI1MjVmMTk4N2Q4NGJmNWUyMjliNjczNGExYzBiYTc4OGVhNzcy",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Sou Eu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 281812,
-      "name": "Sou Eu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 402770,
       "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
       "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Sou Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 281812,
+      "name": "Sou Eu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Eu N\u00e3o Era Nada",
         "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 343799,
       "name": "Eu N\u00e3o Era Nada",
       "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 408796,
-      "name": "Que Deus \u00c9 Esse - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -887,22 +887,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Minha Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq"
+        "name": "Minha B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
       },
       "artists": [
         {
           "name": "Sued Silva",
           "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
         }
       ],
-      "duration_ms": 421992,
-      "name": "Minha Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
+      "duration_ms": 266936,
+      "name": "Minha B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -975,18 +971,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Minha B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
+        "name": "Minha Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq"
       },
       "artists": [
         {
           "name": "Sued Silva",
           "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
         }
       ],
-      "duration_ms": 266936,
-      "name": "Minha B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
+      "duration_ms": 421992,
+      "name": "Minha Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Gerando Intimidade",
-        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
-      },
-      "artists": [
-        {
-          "name": "Jana de Paula",
-          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
-        }
-      ],
-      "duration_ms": 254754,
-      "name": "Gerando Intimidade",
-      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Desapareceu um Povo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 210977,
       "name": "Desapareceu um Povo (Ao Vivo)",
       "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Gerando Intimidade",
+        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
+      },
+      "artists": [
+        {
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+        }
+      ],
+      "duration_ms": 254754,
+      "name": "Gerando Intimidade",
+      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Estou Entrando em A\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR"
+        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
       },
       "artists": [
         {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        },
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Estou Entrando em A\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0"
+      "duration_ms": 293506,
+      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1319,6 +1323,22 @@
       "duration_ms": 294475,
       "name": "Profetiza",
       "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Estou Entrando em A\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Estou Entrando em A\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1375,22 +1395,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
       },
       "artists": [
         {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
         },
         {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         }
       ],
-      "duration_ms": 293506,
-      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
+      "duration_ms": 240000,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1415,22 +1435,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
+        "name": "Quando Eu Chorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rFiQMtLIrea4QbsaKzPgJ"
       },
       "artists": [
         {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        },
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
+      "duration_ms": 267305,
+      "name": "Quando Eu Chorar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5srjAncqbFFzKcPe5NERkF"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 409687,
       "name": "Sou Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/5I224cXQeTACSg99DDFBj9"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Quando Eu Chorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rFiQMtLIrea4QbsaKzPgJ"
-      },
-      "artists": [
-        {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
-        }
-      ],
-      "duration_ms": 267305,
-      "name": "Quando Eu Chorar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5srjAncqbFFzKcPe5NERkF"
     },
     {
       "added_at": "2023-12-22 03:00:00",

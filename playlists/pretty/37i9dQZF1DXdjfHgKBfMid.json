@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udc83\ud83c\udffd\ud83d\udd7a\ud83c\udffc\ud83e\ude87\ud83c\udfba\ud83e\ude98",
-  "num_followers": 33178,
+  "num_followers": 33237,
   "original_name": "Full Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODRjZjZkMTM2ZjkzNGRiZTMwMDRmMWRkODVjMDhmNjExMGViNmY3",
+  "snapshot_id": "MCxiODlhNjVmZWQ4NDU3ZDkwNTE5ZTk1OGZlZWIzYjIzOTIwMWUyODIz",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Fr\u00edo, Fr\u00edo (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana)",
-        "url": "https://open.spotify.com/album/1ZWyjI1yAFQGQqsQxxFb9S"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Fr\u00edo, Fr\u00edo - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Te Sigo Enamorando",
         "url": "https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 237738,
       "name": "200 Copas",
       "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Fr\u00edo, Fr\u00edo (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana)",
+        "url": "https://open.spotify.com/album/1ZWyjI1yAFQGQqsQxxFb9S"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Fr\u00edo, Fr\u00edo - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ"
     },
     {
       "added_at": "2024-03-08 03:00:00",

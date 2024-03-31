@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 446597,
+  "2024-03-31": 446925,
   "date_first_scraped": "2022-06-30",
   "description": "Sonido contempor\u00e1neo y algunos cl\u00e1sicos. \nFoto: Gorillaz",
   "name": "Rock Me",
@@ -2412,6 +2412,24 @@
     },
     {
       "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -3463,7 +3481,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 442667,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga)",
       "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"

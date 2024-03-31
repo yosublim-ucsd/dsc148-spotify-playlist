@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,344 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,359 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 10 | [X RIOT](https://open.spotify.com/track/5yPK6NNA4nC2ELMrBvnXQC) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT](https://open.spotify.com/album/4qB6NgvgbFxqwxYW56s1xk) | 3:08 |
 | 11 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 |
 | 12 | [UNSHAKABLE \- DRIFT](https://open.spotify.com/track/7xWTPOJKvYPpS1w0mqRFQ2) | [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU) | [UNSHAKABLE \(DRIFT\)](https://open.spotify.com/album/3DMtemZpCuCt4VQmGeNJvC) | 2:31 |
-| 13 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
+| 13 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
 | 14 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
-| 15 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
+| 15 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
 | 16 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
 | 17 | [Kawasaki Drift](https://open.spotify.com/track/2zWJKBSNKyy0kEc78V9CAW) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/4yWFSxfJsvkgkR0o6JeD1a) | 4:37 |
 | 18 | [Ippai G2](https://open.spotify.com/track/7quDM98kweHmcHrqzdCkIj) | [Link Hood](https://open.spotify.com/artist/7wjf64sDcVNsgTXKKyaxio), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc) | [Ippai G2](https://open.spotify.com/album/2rJl8FBwTHAkQ8p0aqIPuo) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
 | 50 | [Stoic](https://open.spotify.com/track/4cmqpvqVlJxPMPiQYLEQXX) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f), [KLOOZ](https://open.spotify.com/artist/35uGJqYaiI3VvbKh5XeKx4), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [19](https://open.spotify.com/album/50eJphAb6hdTsV26JrjsGW) | 2:49 |
 
-Snapshot ID: `MCwyYTkwNGE0ZWNiNDhlZDFjY2IwZDUyYWViZjhmNjc0YmU2ZGZlOTAx`
+Snapshot ID: `MCw1Njc1ODU2NjQwNjA5MWIyOGFlZGJkMGE4ZTIxODU5Y2JhMWE2NjEy`

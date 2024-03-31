@@ -1,12 +1,12 @@
 {
   "description": "Maren Morris is taking over to celebrate Women's History Month on EQUAL US!",
-  "num_followers": 52389,
+  "num_followers": 52390,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDI5MzYyODY3NjFmOTIzMTY1YmM0MjA3ZTBlYTUzMmEyZjQ1ODQ2",
+  "snapshot_id": "MCxjNmYyNGMzODQ2NjMwZDE1MzE3NjFmOGM2MTI0OWYyNTJiYjYzMjIz",
   "tracks": [
     {
       "added_at": "2024-03-14 21:16:21",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
         "name": "En Esta Boca",
         "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
       },
@@ -339,18 +355,18 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -367,22 +383,6 @@
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
+        "name": "IS IT WORTH IT",
+        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "IS IT WORTH IT",
+      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
         "name": "Starving (feat. Teezo Touchdown)",
         "url": "https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 216841,
       "name": "Starving (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
-        "name": "IS IT WORTH IT",
-        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "IS IT WORTH IT",
-      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "She Reaches Out To She Reaches Out To She",
-        "url": "https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 263432,
-      "name": "House Of Self-Undoing",
-      "url": "https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/74R5XCYwmuE96By25CGbXn"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 225245,
       "name": "Forget",
       "url": "https://open.spotify.com/track/3X39bUXqQDCzDGUjeMd82e"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
+        "name": "She Reaches Out To She Reaches Out To She",
+        "url": "https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 263432,
+      "name": "House Of Self-Undoing",
+      "url": "https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -759,22 +759,6 @@
       "duration_ms": 316320,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/6HdbvXwjglsjSnV9H4XTEX"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
-        "name": "ask nicely",
-        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
-      },
-      "artists": [
-        {
-          "name": "Ayleen Valentine",
-          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "ask nicely",
-      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -903,6 +887,26 @@
       "duration_ms": 192400,
       "name": "go!",
       "url": "https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
+        "name": "This Is My Life (Bontan Remix)",
+        "url": "https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 181992,
+      "name": "This Is My Life",
+      "url": "https://open.spotify.com/track/4X4x3S7PuYXd9Mn8QB3pNx"
     }
   ],
   "unique_name": "EQUAL US",

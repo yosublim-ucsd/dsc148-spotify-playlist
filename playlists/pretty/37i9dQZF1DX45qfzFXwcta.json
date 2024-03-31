@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats from (and influenced by) Hip-Hop's golden era; to help you study, work and vibe. ",
-  "num_followers": 329493,
+  "num_followers": 329589,
   "original_name": "Boom Bap Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWY0NWM2ZGJhNGQyZDZjNzNiYWVlNTUwNGE1ZGIzZGFjYTAxNTcy",
+  "snapshot_id": "MCxlNDVjOThiNzU5OTdmMTMwNGNmYmIzZDAzYTNlODIzODRiYzYyMTBl",
   "tracks": [
     {
       "added_at": "2022-12-09 13:00:46",
@@ -1387,17 +1387,21 @@
     {
       "added_at": "2023-06-15 20:15:01",
       "album": {
-        "name": "Yancey Boys (Instrumentals) Produced By Jay Dee Aka J Dilla",
+        "name": "Yancey Boys (Instrumentals)",
         "url": "https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM"
       },
       "artists": [
         {
           "name": "J Dilla",
           "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
         }
       ],
-      "duration_ms": 264019,
-      "name": "DTFT (Instrumental)",
+      "duration_ms": 263973,
+      "name": "DFTF (J Dilla instrumental)",
       "url": "https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2"
     },
     {

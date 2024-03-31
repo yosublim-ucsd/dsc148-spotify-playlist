@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 565,
+  "2024-03-31": 565,
   "date_first_scraped": "2022-09-17",
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
   "name": "This Is The XCERTS",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 230897,
       "name": "Bored",
       "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 181527,
       "name": "Growing Old",
       "url": "https://open.spotify.com/track/6awPRJmTQazCOxeIRLq416"

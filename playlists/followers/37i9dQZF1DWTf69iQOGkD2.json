@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 590741,
+  "2024-03-31": 590850,
   "date_first_scraped": "2022-03-24",
   "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck",
   "name": "Rap Ac\u00fastico",
@@ -558,6 +558,52 @@
     },
     {
       "album": {
+        "name": "Acustico Altamira #30 - Brisa Tropical",
+        "url": "https://open.spotify.com/album/550jmErNPfeIrGPCZafD9K"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Matheus Brisa",
+          "url": "https://open.spotify.com/artist/1C8j8w7JuD3HbZv1GUJ0zF"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
+        },
+        {
+          "name": "Thalia Abdon",
+          "url": "https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05"
+        },
+        {
+          "name": "RealP7oficial",
+          "url": "https://open.spotify.com/artist/1xZZFJdJSzrma6gAuGV7tz"
+        },
+        {
+          "name": "Andy",
+          "url": "https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514090,
+      "name": "Ac\u00fastico Altamira #30 - Brisa Tropical",
+      "url": "https://open.spotify.com/track/2zzOPVoHPru113d6AsbuHL"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico Altamira #8 - Leonina",
         "url": "https://open.spotify.com/album/6NAEOYIRfDpCN5zAICeJ8y"
       },
@@ -823,7 +869,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 162470,
       "name": "Agradecer",
       "url": "https://open.spotify.com/track/0w7Rk3Czu5KSfLakYzPkrw"
@@ -1189,7 +1235,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 131792,
       "name": "Baby (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2F2xRCvqBX064cb3sRzcjV"
@@ -1495,6 +1541,32 @@
       "duration_ms": 115939,
       "name": "Detalhes",
       "url": "https://open.spotify.com/track/3mHbUXh4pi4yy9gWHqV8bW"
+    },
+    {
+      "album": {
+        "name": "O Fant\u00e1stico Mundo de Ganni",
+        "url": "https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI"
+      },
+      "artists": [
+        {
+          "name": "Young Ganni",
+          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Djavandalo",
+      "url": "https://open.spotify.com/track/21dWCeXNoS8H0aDvOcqqer"
     },
     {
       "album": {
@@ -1893,6 +1965,36 @@
       "duration_ms": 169043,
       "name": "Fases da Vida",
       "url": "https://open.spotify.com/track/7wVfxMleDc8z52sT0ZX2Uf"
+    },
+    {
+      "album": {
+        "name": "Favorita",
+        "url": "https://open.spotify.com/album/23UElNVjwQqdG2HvTJlFqG"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176883,
+      "name": "Favorita",
+      "url": "https://open.spotify.com/track/10aDvjUblBCmMSMfn9uk6T"
     },
     {
       "album": {
@@ -4909,7 +5011,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 118750,
       "name": "Se Entregar",
       "url": "https://open.spotify.com/track/6OWii78tJEZkLSjtSQcmve"

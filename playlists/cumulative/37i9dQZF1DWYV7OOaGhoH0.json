@@ -1562,10 +1562,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 270500,
       "name": "Broken Sky",
       "url": "https://open.spotify.com/track/09Acpmydc7iDDJeAos8gUL"
+    },
+    {
+      "album": {
+        "name": "Broken Sky / It Takes Me Back",
+        "url": "https://open.spotify.com/album/3nhcBw2SxTvniBtW5xk9rp"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "Broken Sky",
+      "url": "https://open.spotify.com/track/1ehDExqH8zoJWf51PeWg9j"
     },
     {
       "album": {
@@ -9522,10 +9540,32 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 222177,
       "name": "Wildflower and Barley (feat. Allison Russell)",
       "url": "https://open.spotify.com/track/1q1WpDkeFN3y9FlwZ1f440"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
     },
     {
       "album": {

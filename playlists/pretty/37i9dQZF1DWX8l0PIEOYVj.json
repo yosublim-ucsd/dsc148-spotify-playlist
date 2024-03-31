@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass. Cover: SLANDER & Trivecta",
-  "num_followers": 104624,
+  "num_followers": 104645,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2FmYmY4Nzg3NmM3MWVmZGI2OTg5YTc5NTk1OThjNGIwZDg5OGI1",
+  "snapshot_id": "MCwzZDhjMTdhODJiYWZiOGU1YTRhYWJiYjU3NWI3MGRhZjc3N2UxYjg2",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -995,22 +995,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Gold Dust (ILLENIUM 2015 Remix)",
-        "url": "https://open.spotify.com/album/20FXdazGWpExq17zclAjKP"
+        "name": "Drift Like A Cloud, Flow Like Water",
+        "url": "https://open.spotify.com/album/5Tfvcp2QbPL3caRaJQXeIE"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Gold Dust - ILLENIUM 2015 Remix",
-      "url": "https://open.spotify.com/track/31xpBcHJen3t4zJz02dO1U"
+      "duration_ms": 200869,
+      "name": "Drift Like A Cloud, Flow Like Water",
+      "url": "https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Drift Like A Cloud, Flow Like Water",
-        "url": "https://open.spotify.com/album/5Tfvcp2QbPL3caRaJQXeIE"
+        "name": "Gold Dust (ILLENIUM 2015 Remix)",
+        "url": "https://open.spotify.com/album/20FXdazGWpExq17zclAjKP"
       },
       "artists": [
         {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Drift Like A Cloud, Flow Like Water",
-      "url": "https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS"
+      "duration_ms": 264000,
+      "name": "Gold Dust - ILLENIUM 2015 Remix",
+      "url": "https://open.spotify.com/track/31xpBcHJen3t4zJz02dO1U"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "ALL THE HIGHS",
-        "url": "https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 206793,
-      "name": "ALL THE HIGHS",
-      "url": "https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "When I'm Gone",
         "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 201818,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "ALL THE HIGHS",
+        "url": "https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 206793,
+      "name": "ALL THE HIGHS",
+      "url": "https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/4WvJjrZQhOLCTNnPUdZpQw"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Grant",
-          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
-        }
-      ],
-      "duration_ms": 187835,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/67Sb5mCfhpMDiD2ZbIGh4S"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 186373,
       "name": "The One",
       "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/4WvJjrZQhOLCTNnPUdZpQw"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/67Sb5mCfhpMDiD2ZbIGh4S"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/45zM62K1e1DemouQXUeMcq"
-      },
-      "artists": [
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 245121,
-      "name": "Decode",
-      "url": "https://open.spotify.com/track/7rIwKyrIqS0qpAC5muabLF"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 184258,
       "name": "High",
       "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/45zM62K1e1DemouQXUeMcq"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "duration_ms": 245121,
+      "name": "Decode",
+      "url": "https://open.spotify.com/track/7rIwKyrIqS0qpAC5muabLF"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2235,6 +2235,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Your Imagination",
+        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 237696,
+      "name": "Your Imagination",
+      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Grand Escape (Teminite Remix)",
         "url": "https://open.spotify.com/album/0BzoCjfyonIBQZmy3NAghd"
       },
@@ -2259,26 +2279,6 @@
       "duration_ms": 240400,
       "name": "Grand Escape - Teminite Remix",
       "url": "https://open.spotify.com/track/0mWqrNV2FLesgCzO0sfHL3"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Your Imagination",
-        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 237696,
-      "name": "Your Imagination",
-      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2567,26 +2567,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Owe Me Love",
-        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "Hannah Avison",
-          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Owe Me Love",
-      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/1sVOjksWKAB963CfPAi36A"
       },
@@ -2611,22 +2591,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "When I Fall",
-        "url": "https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq"
+        "name": "Owe Me Love",
+        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
       },
       "artists": [
         {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
         },
         {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+          "name": "Hannah Avison",
+          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
         }
       ],
-      "duration_ms": 205714,
-      "name": "When I Fall",
-      "url": "https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC"
+      "duration_ms": 195200,
+      "name": "Owe Me Love",
+      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2643,6 +2623,26 @@
       "duration_ms": 202258,
       "name": "I Would Never",
       "url": "https://open.spotify.com/track/3YkUKoKBZuqnVCAOsyeDav"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "When I Fall",
+        "url": "https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "When I Fall",
+      "url": "https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2735,8 +2735,8 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Lucky Ones",
-        "url": "https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD"
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu"
       },
       "artists": [
         {
@@ -2744,17 +2744,17 @@
           "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
         },
         {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
         },
         {
-          "name": "Leslie Powell",
-          "url": "https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU"
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
         }
       ],
-      "duration_ms": 205281,
-      "name": "Lucky Ones",
-      "url": "https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0"
+      "duration_ms": 195949,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2859,26 +2859,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/6E0aKtWeBMNXsWvggpEiFE"
-      },
-      "artists": [
-        {
-          "name": "AIKA",
-          "url": "https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg"
-        },
-        {
-          "name": "SOLARIA",
-          "url": "https://open.spotify.com/artist/3y9HEtE9lgjgcIxA9ANatY"
-        }
-      ],
-      "duration_ms": 336460,
-      "name": "Metanoia",
-      "url": "https://open.spotify.com/track/6d5N6bhv8CR4hvyZ0pcLe3"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r"
       },
@@ -2899,46 +2879,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/3Uzdtm2leQXh3Udy1WJ8XN"
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/6E0aKtWeBMNXsWvggpEiFE"
       },
       "artists": [
         {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+          "name": "AIKA",
+          "url": "https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg"
         },
         {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+          "name": "SOLARIA",
+          "url": "https://open.spotify.com/artist/3y9HEtE9lgjgcIxA9ANatY"
         }
       ],
-      "duration_ms": 247200,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/1bDVpNtcMmMfvqo1hIYWlw"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
-        },
-        {
-          "name": "GLNNA",
-          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
-        }
-      ],
-      "duration_ms": 195949,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb"
+      "duration_ms": 336460,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/6d5N6bhv8CR4hvyZ0pcLe3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2963,6 +2919,50 @@
       "duration_ms": 225600,
       "name": "Paper Moon",
       "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Lucky Ones",
+        "url": "https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Leslie Powell",
+          "url": "https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU"
+        }
+      ],
+      "duration_ms": 205281,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/3Uzdtm2leQXh3Udy1WJ8XN"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/1bDVpNtcMmMfvqo1hIYWlw"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -3019,6 +3019,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "duration_ms": 248275,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/4TS7uRVfyda4DrReYbMXGc"
       },
@@ -3039,26 +3059,6 @@
       "duration_ms": 268800,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/5Rye7bAMBloowLfjw5fGT5"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 248275,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
     },
     {
       "added_at": "2024-03-29 04:00:00",

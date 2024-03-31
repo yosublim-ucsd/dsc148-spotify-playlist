@@ -4,7 +4,7 @@
 
 > Sway your way through the evening.
 
-223 songs - 13 hr 40 min
+224 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [For Once In My Life](https://open.spotify.com/track/0r4mwrfEEX3HGP5wvlBtq5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Best 60s Album In The World...Ever!](https://open.spotify.com/album/42wnkjcgGg5CkmnGvwq3eZ) | 2:47 | 2022-01-21 | 2022-11-14 |
 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 | 2022-01-21 |  |
 | [For Once In My Life](https://open.spotify.com/track/2yNWwardt8VzlpNBWrGYD6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/59hSInYpAsa4we4TzDGaWT) | 2:50 | 2021-10-01 | 2022-07-29 |
-| [Forest](https://open.spotify.com/track/2su8wFMyRZCmi9dVb8gc55) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Forest](https://open.spotify.com/album/2qvaHJ5g3cL8ePGYPAM3AH) | 4:15 | 2021-10-01 |  |
+| [Forest](https://open.spotify.com/track/2su8wFMyRZCmi9dVb8gc55) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Forest](https://open.spotify.com/album/2qvaHJ5g3cL8ePGYPAM3AH) | 4:15 | 2021-10-01 | 2024-03-31 |
+| [Forest](https://open.spotify.com/track/30mNJGEEHxCMJxGVor9zTc) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l) | 4:15 | 2022-01-21 |  |
 | [Forever](https://open.spotify.com/track/1JJClNy1SRCd7vZ5NiEoBf) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Forever](https://open.spotify.com/album/3IvxjCUDSncJNqTbqWDTfr) | 3:17 | 2022-01-21 | 2022-11-14 |
 | [Forever](https://open.spotify.com/track/3uqdIXj3kpAKCLWZpeeA1P) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [The Slow March Of Time Flies By \(Deluxe\)](https://open.spotify.com/album/775ymiWdNIXO6Bl8q9g6yd) | 3:17 | 2022-01-21 |  |
 | [Forever](https://open.spotify.com/track/4OV46g6ZgbOT4qVv1jWXTR) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Forever](https://open.spotify.com/album/5dj2rffvnfVtXwV505U3no) | 3:17 | 2021-10-01 | 2022-07-29 |

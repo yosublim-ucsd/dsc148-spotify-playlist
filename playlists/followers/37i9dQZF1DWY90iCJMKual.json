@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 72896,
+  "2024-03-31": 72996,
   "date_first_scraped": "2022-12-01",
   "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: DEMI. International Women\u2019s Day takeover. Powered by <a href=\"spotify:genre:equal\">EQUAL</a>",
   "name": "Pinas Vibes",
@@ -547,7 +547,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 212790,
       "name": "butterflies",
       "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
@@ -631,6 +631,36 @@
       "duration_ms": 250000,
       "name": "Co-Pilot",
       "url": "https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA"
+    },
+    {
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/3lE006tQNLhwRF8aVwabTH"
+      },
+      "artists": [
+        {
+          "name": "POP MONEY WORLDWIDE",
+          "url": "https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj"
+        },
+        {
+          "name": "Carrot Mayor",
+          "url": "https://open.spotify.com/artist/5s7aEasAPVKh5b7kwRiykk"
+        },
+        {
+          "name": "SHNTI",
+          "url": "https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO"
+        },
+        {
+          "name": "aunt robert",
+          "url": "https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/5mjdijavrwpnBLM0qSIDog"
     },
     {
       "album": {
@@ -2435,7 +2465,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 198888,
       "name": "LUV DRUG",
       "url": "https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm"
@@ -3353,6 +3383,24 @@
       "duration_ms": 145074,
       "name": "Playaz Diary",
       "url": "https://open.spotify.com/track/38aXG1JKhrtwp9W9nY80TI"
+    },
+    {
+      "album": {
+        "name": "Project 4",
+        "url": "https://open.spotify.com/album/10B0KRoGVm7Pufn2144epG"
+      },
+      "artists": [
+        {
+          "name": "S3AN",
+          "url": "https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Project 4",
+      "url": "https://open.spotify.com/track/0vzeoCC3jhrWsZMRUBCR4m"
     },
     {
       "album": {

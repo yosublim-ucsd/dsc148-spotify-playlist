@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,490 likes - 111 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,624 likes - 111 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 96 | [This Time](https://open.spotify.com/track/1n6kvOFn2qK5iTS5QJcaAV) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [This Time](https://open.spotify.com/album/4MD1aVgYMaer9QktxqHJQU) | 3:01 |
 | 97 | [All In One](https://open.spotify.com/track/7ycbGYrE2GMshCIiv2I33j) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [All In One](https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg) | 5:06 |
 | 98 | [Bit of a Monster](https://open.spotify.com/track/2DEFpZevcB5aJMXF2tX13S) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Bit of a Monster](https://open.spotify.com/album/45uAvBPmBTAmlYnawvCjgq) | 5:35 |
-| 99 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 |
+| 99 | [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 |
 | 100 | [Close](https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Close](https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i) | 3:57 |
 | 101 | [Waiting](https://open.spotify.com/track/0IyYRG1ZalYK4Y29vYyOt3) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Waiting](https://open.spotify.com/album/2ccFplVvuCsXiDI80IyqnS) | 3:21 |
 | 102 | [I Never Had Control](https://open.spotify.com/track/77Gsx3dSqTa4mk2lhUZ6bQ) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [I Never Had Control](https://open.spotify.com/album/0OgL3UYzJqDx6bwSumJXme) | 3:00 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 110 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 | 111 | [Cigarette Smell](https://open.spotify.com/track/48oxH1vAEmGyiEmbkYmwfH) | [Willy Cobb](https://open.spotify.com/artist/0shChEBZjTSDGjbRDsKcNL) | [Cigarette Smell](https://open.spotify.com/album/5Ox5z0pesi1GayCajvzjoR) | 2:38 |
 
-Snapshot ID: `MCwzMDJkNzQzMjdlOGRmNWYyZjRlODdkMTQxZjk5M2M1OWYzYWE0Mzg0`
+Snapshot ID: `MCw1Mzg0NjRiYjZjYTc5ZTYzNTk1NTc2MGVmN2EwMjliY2MyNDQ1N2Rl`

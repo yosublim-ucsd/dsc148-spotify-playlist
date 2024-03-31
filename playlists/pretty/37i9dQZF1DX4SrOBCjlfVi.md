@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie Wit da Hoodie, Kodak Black, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,930 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,062 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Maybach](https://open.spotify.com/track/48byRlCFI1FLO3kTKddOVv) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Maybach](https://open.spotify.com/album/2TH49Nas3CsPmawq2UYFRK) | 1:57 |
 | 50 | [Call Back](https://open.spotify.com/track/34n2d9U2uoQVqR0DnHqJTs) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Call Back](https://open.spotify.com/album/3PMbA9mnH0uJzOHJvnXiyb) | 2:39 |
 
-Snapshot ID: `MCw0NzYxYzBmZDc5NjAzOTcwMGU5Y2VjZTAxZWE5MGJjMzk5YWNlMjQy`
+Snapshot ID: `MCxhMTM2NjQyNmY3ZTc0Y2ZjYzYyYTAyOWQyMjJkNTY0M2I4MzRkMjUx`

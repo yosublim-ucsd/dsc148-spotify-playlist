@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. DeathByRomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,242 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,228 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 30 | [WELCOME TO MY CHURCH](https://open.spotify.com/track/54kqBEU5WNmkPm3vjat95h) | [Lucy Deakin](https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h) | [WELCOME TO MY CHURCH](https://open.spotify.com/album/4DBDhwAtmifk20z5kGYcpU) | 2:59 |
 | 31 | [Hide Your Kids](https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hide Your Kids](https://open.spotify.com/album/7cM1dj0HtCAGN85Fr7a7yc) | 2:15 |
 | 32 | [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 |
-| 33 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 |
+| 33 | [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 |
 | 34 | [ACHOO!](https://open.spotify.com/track/5RuUuBtaiPVnACY5nTohue) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [CRITTERS](https://open.spotify.com/album/7jycItY9gSsb0WJKLXFuOL) | 1:39 |
 | 35 | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
 | 36 | [Sour Diesel](https://open.spotify.com/track/7FVM8VRNUwYEPnwT6jfQfF) | [Uppbeat](https://open.spotify.com/artist/3VymVJxAJTgqI3RouTkwMU) | [Sour Diesel](https://open.spotify.com/album/4A5lj3iwjTagHqd6MrB2BM) | 2:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 |
 | 85 | [iwannabelikethat](https://open.spotify.com/track/70Fj7ub4JQN53fx31H4DMz) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [iwannabelikethat](https://open.spotify.com/album/37RTZFpDOOZkU2hNK9SbxJ) | 2:17 |
 
-Snapshot ID: `MCw1NTA4MDNiZjMzNmU0NzNmNmZjNjE1MzkxZmZmN2YzM2FkN2FmZjVk`
+Snapshot ID: `MCwxODVmYTgwMjZlODZlNWNkMmRhNDdhN2MzMDVlMDdlMjgyOWYyM2Q0`

@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: bludnymph
 
-1,567 songs - 3 day 8 hr 30 min
+1,568 songs - 3 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,8 @@
 | [I Can't Love](https://open.spotify.com/track/7r18qv0F0GTK0OSiPfFXbx) | [TrillNagi](https://open.spotify.com/artist/3XL3rwMLXI6yonSBnDwMon) | [I Can't Love](https://open.spotify.com/album/3HSUNrld3xTjNXRbPvxvS1) | 3:07 | 2022-05-06 | 2022-06-04 |
 | [I Could Die](https://open.spotify.com/track/7ygrZLtm1fACjfPTYHjBLK) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [I Could Die](https://open.spotify.com/album/788D1lbGLyKuaUtL6euBPv) | 2:47 | 2022-05-06 | 2022-06-04 |
 | [I Don't Wanna Hang](https://open.spotify.com/track/6sSMdueWm4eICidC9W6ujU) | [Cola H.](https://open.spotify.com/artist/4bUIemhzXV37xcUk9lGh5T) | [I Don't Wanna Hang](https://open.spotify.com/album/0pBNs5Hd0d5WmGc1axEIRT) | 3:44 | 2022-01-07 | 2022-02-05 |
-| [I Feel Like James Brown](https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/5S30960H0VHeb4bjch8MY3) | 3:37 | 2024-03-01 |  |
+| [I Feel Like James Brown](https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/5S30960H0VHeb4bjch8MY3) | 3:37 | 2024-03-01 | 2024-03-31 |
+| [I Feel Like James Brown](https://open.spotify.com/track/76BgzEP4ia2GuxSIlyN8si) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/1uYydzjjdrzWBtiJplbx3k) | 3:37 | 2024-03-08 |  |
 | [I Feel Your Pull](https://open.spotify.com/track/4Jappfe1FvwAZaEOSjEtRF) | [Blue J](https://open.spotify.com/artist/1Y5uGcgo7QMWxMtWIXtZCH) | [A Sign of Good Luck](https://open.spotify.com/album/3YVVMYthDagcg7HWx0mdRC) | 4:05 | 2022-03-04 | 2022-04-02 |
 | [I Forgot, What Is Love ?](https://open.spotify.com/track/5HXqPlCwHoLWRGyCFI15UP) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [I Forgot, What Is Love ?](https://open.spotify.com/album/3FuZaR9VAM3rYKtIG3OCUZ) | 3:14 | 2022-03-04 | 2022-04-02 |
 | [I GAVE YOU EVERYTHING](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [I GAVE YOU EVERYTHING](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 | 2022-07-01 | 2022-08-06 |

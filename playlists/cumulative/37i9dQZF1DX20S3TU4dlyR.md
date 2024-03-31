@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Nonpalidece.
 
-239 songs - 15 hr 54 min
+240 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 | 2022-05-06 |  |
 | [Algo Mejor](https://open.spotify.com/track/68gpEjXas61xmdZin01DcQ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Algo Mejor](https://open.spotify.com/album/7xyf2OQgFuQnwbvaCi8QwX) | 3:58 | 2022-05-06 | 2022-07-29 |
 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 | 2022-07-01 |  |
+| [Ama La Vida](https://open.spotify.com/track/4IPgMUvDX9d0kexYcIHbtt) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Un Mundo Mejor](https://open.spotify.com/album/6cPNn5JroF9yRPYzBzaJb2) | 4:40 | 2024-03-21 |  |
 | [Ama La Vida](https://open.spotify.com/track/0VOtT83hCUJ451SYlx88Xr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Nestor Ramljak](https://open.spotify.com/artist/5iYywbynu7nXtFE5A0OJHt) | [Un Mundo Mejor](https://open.spotify.com/album/3jGMw1w5diSypEeFNYcVoo) | 4:40 | 2022-05-06 | 2022-07-16 |
 | [Amares](https://open.spotify.com/track/0hM3wjGKeVuc8p20YNyNWv) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Amares](https://open.spotify.com/album/6q5zjSBR2FNNJpD78AFMjJ) | 3:31 | 2023-10-05 | 2023-12-30 |
 | [Amiga](https://open.spotify.com/track/2GbORltBraRqviBdSVzEYt) | [Vibracion Reggae](https://open.spotify.com/artist/49YZQ7AsgHVMEPQ3qJcexs) | [Hay Más para Escuchar](https://open.spotify.com/album/4nWBfcJch4Pd5P5nd1WPUd) | 4:18 | 2022-05-06 | 2022-07-16 |
@@ -241,7 +242,7 @@
 | [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 | 2022-05-06 | 2023-08-19 |
 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 | 2022-05-06 |  |
 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 | 2022-05-06 |  |
-| [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 | 2022-05-06 |  |
+| [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 | 2022-05-06 | 2024-03-31 |
 | [We Are The Lions \- Spanish Version](https://open.spotify.com/track/0CBqh4H4lijAh735YZSLrs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [We Are The Lions \(Spanish Version\)](https://open.spotify.com/album/4lgyajkXKpS1LKWqmDxMBd) | 3:31 | 2022-05-06 | 2022-07-26 |
 | [Where We Are Still](https://open.spotify.com/track/676l36XE27E4DxvrCKZbJn) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Humberto Schenone](https://open.spotify.com/artist/7pLz9MlCt36ETTrGabX3Jf), [Baltazar Avila](https://open.spotify.com/artist/2idrqGAAzysAp3nrSs9wDh), [Gonzalo "Chalo" Parma](https://open.spotify.com/artist/1OzIOab1v0HAwcy3bSjCB1), [Mariano Goldenstein](https://open.spotify.com/artist/7Jz9b9l6UlZHwnqq7NZ4cT) | [Stay Rude! \(Deluxe Edition\)](https://open.spotify.com/album/068Pf0ihfr8BsRskccV0FQ) | 4:22 | 2022-05-06 | 2022-07-11 |
 | [You're No Good](https://open.spotify.com/track/4efrw9K0xBX3fdYOJ0u2cx) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Los Aggrotones](https://open.spotify.com/artist/6A2Us7Q6b6rVnUATaqjUv6) | [Stormy, 60's Soul Tunes Inna Reggae Style](https://open.spotify.com/album/6UdUhACZTRwwLynS78hXwF) | 3:18 | 2022-05-06 | 2022-07-17 |

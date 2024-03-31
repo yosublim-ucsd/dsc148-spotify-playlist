@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists: Emei, Paravi & Towa Bird.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,698 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,719 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 49 | [DEATH TRIP](https://open.spotify.com/track/1cENnHoIyYcBm5ubz3h1q9) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [DEATH TRIP](https://open.spotify.com/album/6RF7gZXUtYNfLngg1ziZQJ) | 3:42 |
 | 50 | [Fashionably Late](https://open.spotify.com/track/4gG73FSWLBH5DlkmgaKJtv) | [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR) | [Fashionably Late](https://open.spotify.com/album/4eBlEJK3JKGWGeElVlxJhI) | 3:17 |
 
-Snapshot ID: `MCxkNjY2MjcwMGNiNWVjMTcyODYwYzVmZjI4ZTk2MmNiNmJhMjVhYWMx`
+Snapshot ID: `MCw1OTk5MzhlZDBlZGI5MmY0NWVmY2YzNDE3ZGFlNDc4M2VjNzQ3OWI0`

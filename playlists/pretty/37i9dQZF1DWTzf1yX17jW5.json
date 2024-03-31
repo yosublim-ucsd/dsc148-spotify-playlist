@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 8061,
+  "num_followers": 8088,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGFhNWYxMzMwZmIxZDFjODljMDkwNTc0YzBiMTkwZjEyNjdiMDRk",
+  "snapshot_id": "MCxmZDA2MTczN2VmYjQ1NjIxZmVkYTMyMjA5ZTExMTUyYTlhZTY1NzIx",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -447,34 +447,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Victoria's Secret (feat. Niky Savage)",
-        "url": "https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9"
-      },
-      "artists": [
-        {
-          "name": "Mikush",
-          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
-        },
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Timongothekeys",
-          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "Victoria's Secret (feat. Niky Savage)",
-      "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "club2020",
         "url": "https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT"
       },
@@ -511,6 +483,34 @@
       "duration_ms": 189295,
       "name": "Malibu Barbie",
       "url": "https://open.spotify.com/track/09bXpqLbPGZum6I4lDcnMX"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Victoria's Secret (feat. Niky Savage)",
+        "url": "https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "Victoria's Secret (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Whip It Up",
-        "url": "https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 130959,
-      "name": "Whip It Up",
-      "url": "https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "Epiphany (I'm Leaving) [Jersey Club Remix]",
         "url": "https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 169155,
       "name": "Epiphany (I'm Leaving) - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Whip It Up",
+        "url": "https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 130959,
+      "name": "Whip It Up",
+      "url": "https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl"
     },
     {
       "added_at": "2023-12-01 14:44:59",

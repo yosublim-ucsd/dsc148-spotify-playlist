@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-373 songs - 23 hr 14 min
+374 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All My Praise](https://open.spotify.com/track/3b9j80XcN10pJt4vDcniwk) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [All My Praise](https://open.spotify.com/album/2SGRAtlh30q2on1fgkcArw) | 3:27 | 2022-04-22 | 2022-05-14 |
 | [All That Remains](https://open.spotify.com/track/4qMalQqJpfFQOd9aEYYAea) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/7gPki4Zq97kfLngBBGuzzO) | 5:08 | 2022-02-25 | 2022-05-14 |
 | [Already Blessed](https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed](https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY) | 3:48 | 2022-02-25 | 2022-08-27 |
+| [Altars Over Stages](https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Altars Over Stages](https://open.spotify.com/album/6TfLBFjK30qyZtFEBKu9NS) | 3:10 | 2024-03-29 |  |
 | [Always](https://open.spotify.com/track/1YoIJ1glQCGAxrPJgnoUCI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 4:08 | 2022-10-01 |  |
 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 | 2022-02-25 | 2023-10-07 |
 | [Amazing Grace / My Chains Are Gone](https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Chains Are Gone](https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN) | 4:26 | 2022-03-25 | 2022-04-23 |
@@ -258,7 +259,7 @@
 | [Peace of God](https://open.spotify.com/track/5DZeJ1BYlDHvkgUD5X8Oti) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Everywhere + Nowhere \(Black Edition Deluxe\)](https://open.spotify.com/album/308B9tBVWyLjjLan4517p4) | 3:16 | 2022-02-25 | 2022-10-20 |
 | [Perfect Love](https://open.spotify.com/track/2PeGP15nxf7OXaw4PQw0ZA) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Perfect Love](https://open.spotify.com/album/10nB2ZDmXKHbBRNES98Cmv) | 4:12 | 2022-02-25 | 2022-04-29 |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2022-04-22 | 2023-10-07 |
-| [Plans](https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Plans](https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp) | 4:57 | 2023-10-06 |  |
+| [Plans](https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Plans](https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp) | 4:57 | 2023-10-06 | 2024-03-31 |
 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-28 | 2022-08-27 |
 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 | 2023-03-10 |  |
 | [Praise You In This Storm \(feat\. Phil Wickham\)](https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:33 | 2024-03-20 |  |

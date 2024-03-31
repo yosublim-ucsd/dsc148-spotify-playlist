@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 48282,
+  "num_followers": 48312,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRlMjZlNjUyMzQ5NmExMjU3YTRkNWM2ZmU5YjE0ODYyNWRkNDk5",
+  "snapshot_id": "MCwwYTA1YzY0MDA0NTUwZmMwMTI3NTllNTdhMWE1NTIyZmVmMjgyMmZi",
   "tracks": [
     {
       "added_at": "2024-03-28 15:19:07",
@@ -79,8 +79,8 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Lost In The Sky",
-        "url": "https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn"
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
         }
       ],
-      "duration_ms": 160645,
-      "name": "Lost In The Sky",
-      "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
+      "duration_ms": 162833,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -215,8 +215,8 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
+        "name": "Lost In The Sky",
+        "url": "https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
         }
       ],
-      "duration_ms": 162833,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
+      "duration_ms": 160645,
+      "name": "Lost In The Sky",
+      "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -395,8 +395,8 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
       "artists": [
         {
@@ -404,17 +404,17 @@
           "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         },
         {
-          "name": "Alon",
-          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 148522,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -551,8 +551,8 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
       },
       "artists": [
         {
@@ -560,17 +560,17 @@
           "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
         },
         {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+      "duration_ms": 148522,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -595,22 +595,18 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Like The River",
-        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
+        "name": "Inside My Love",
+        "url": "https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ"
       },
       "artists": [
         {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        },
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
         }
       ],
-      "duration_ms": 166991,
-      "name": "Like The River",
-      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
+      "duration_ms": 148015,
+      "name": "Inside My Love",
+      "url": "https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -635,18 +631,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Inside My Love",
-        "url": "https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ"
+        "name": "Like The River",
+        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
       },
       "artists": [
         {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
         }
       ],
-      "duration_ms": 148015,
-      "name": "Inside My Love",
-      "url": "https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh"
+      "duration_ms": 166991,
+      "name": "Like The River",
+      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+        "name": "MAGNETS",
+        "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        },
+        {
+          "name": "Oscar Duke",
+          "url": "https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh"
         }
       ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+      "duration_ms": 146129,
+      "name": "MAGNETS",
+      "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "MAGNETS",
-        "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
       },
       "artists": [
         {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        },
-        {
-          "name": "Oscar Duke",
-          "url": "https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
         }
       ],
-      "duration_ms": 146129,
-      "name": "MAGNETS",
-      "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
         "name": "Summer Stars",
         "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 150394,
       "name": "Summer Stars",
       "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2024-03-28 15:19:07",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-03-28 15:19:07",
       "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "duration_ms": 170524,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28"
+    },
+    {
+      "added_at": "2024-03-28 15:19:07",
+      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
       },
@@ -1539,30 +1559,6 @@
       "duration_ms": 208995,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
-    },
-    {
-      "added_at": "2024-03-28 15:19:07",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/76S7Gh6IMrRFixOxT8mAqC"
-      },
-      "artists": [
-        {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
-        },
-        {
-          "name": "Matt Wolff",
-          "url": "https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA"
-        },
-        {
-          "name": "Sirona",
-          "url": "https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g"
     }
   ],
   "unique_name": "Dance Chill",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,918 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,945 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 51 | [Spinelli \[From The Series La Niña \(Amazon Original\)\]](https://open.spotify.com/track/6cvS7yVjST2bkal2hIIK1I) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña XXL](https://open.spotify.com/album/3EcUGvI4ePuIEzzBg1GUSC) | 2:25 |
 | 52 | [El Humo \- Canción Original De La Película "Lo Dejo Cuando Quiera"](https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 2:46 |
 
-Snapshot ID: `Mjg1Mjg1ODQsMDAwMDAwMDBkY2ZiZTI1ZWQxNTFkMWU2NjFiMzVhZTgzNWE5M2FlZA==`
+Snapshot ID: `Mjg1MzAwMjksMDAwMDAwMDBiMDU0NTkxMjdiNzAwNGNlYzEyNTg0ZGE4ODBiN2I0ZA==`

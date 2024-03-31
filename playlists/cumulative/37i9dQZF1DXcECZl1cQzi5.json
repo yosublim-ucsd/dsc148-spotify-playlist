@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Morning Waves",
+        "url": "https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT"
+      },
+      "artists": [
+        {
+          "name": "Altum Somnum",
+          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172211,
+      "name": "Morning Waves",
+      "url": "https://open.spotify.com/track/1rECiVNfP8569A717vmLe1"
+    },
+    {
+      "album": {
         "name": "Temple of the Heart",
         "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 148035,
       "name": "Obscure Ocean",
       "url": "https://open.spotify.com/track/6O59ijRb9pv9CedleQJW6L"

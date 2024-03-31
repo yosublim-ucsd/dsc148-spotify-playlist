@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,477 likes - 20 songs - 1 hr 10 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,479 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wildstyle](https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu) | [Kaysin](https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU), [DOUG!](https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS) | [Wildstyle](https://open.spotify.com/album/1vqZbevQkLOvgu8wHGGeQL) | 2:50 |
-| 2 | [Motivashun](https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [No Big Deal](https://open.spotify.com/album/3buVlngArH6e0boFoaH58f) | 5:39 |
+| 2 | [Motivashun](https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [No Big Deal](https://open.spotify.com/album/3buVlngArH6e0boFoaH58f) | 3:01 |
 | 3 | [Sugar Daddy](https://open.spotify.com/track/0TVy1MgOle32ptiamyaAxu) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Sugar Daddy](https://open.spotify.com/album/3pAjCG04eTukFMJwx29xSs) | 2:49 |
 | 4 | [Coconut](https://open.spotify.com/track/3xqZSGIwEYnv4nTFRSiCyh) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p), [Thi Calista](https://open.spotify.com/artist/4C3HyZlrTdi8aq7l7Q2OmY) | [Coconut](https://open.spotify.com/album/1irHFHvbqjYqUAvmzUceTP) | 2:57 |
 | 5 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 |

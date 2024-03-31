@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 61340,
+  "2024-03-31": 61341,
   "date_first_scraped": "2021-12-28",
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
   "name": "Gospel Christmas",
@@ -954,6 +954,24 @@
     },
     {
       "album": {
+        "name": "COME LET US WORSHIP",
+        "url": "https://open.spotify.com/album/0WXjh791JiMVmWUWJ64YhU"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr Singers",
+          "url": "https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298320,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/39JZLgNvHP6jypN5PiW66J"
+    },
+    {
+      "album": {
         "name": "Gospel Heritage Christmas Vol. 2",
         "url": "https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p"
       },
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 281493,
       "name": "Jesus, Oh What A Wonderful Child",
       "url": "https://open.spotify.com/track/5ZSUJnyWR4cLijXtIdsuvY"

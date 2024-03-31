@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tucker Wetmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,145 likes - 200 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,264 likes - 200 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 4 | [Life Had Plans For Me \(feat\. Parker Diffie\)](https://open.spotify.com/track/0W6dvgBvQA9L3Tl0WNRx7K) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Parker Diffie](https://open.spotify.com/artist/1z95cM4b7vRkIkk778TMS1) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:45 |
 | 5 | [Hits Home](https://open.spotify.com/track/4h33ppiAPrfNf9Qh961wZU) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Hits Home](https://open.spotify.com/album/20REL431EfG0NIBQ5cDSRP) | 3:36 |
 | 6 | [One of Mine](https://open.spotify.com/track/0BBtQTW7InGLloLnluXXVA) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [One of Mine](https://open.spotify.com/album/5BosI6XJUiTBH41m4IBiKS) | 2:43 |
-| 7 | [What Happens Now?](https://open.spotify.com/track/6Pof690ci3aferHd9VVQwO) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:33 |
+| 7 | [What Happens Now](https://open.spotify.com/track/4cQ8Os8Gf1GgAkzoFQg8Az) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:33 |
 | 8 | [Flannel](https://open.spotify.com/track/2lEBhc9R8WDLRg68dCtHZp) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Flannel](https://open.spotify.com/album/4YNjFRTF1EiOMqjuOHrK7J) | 3:12 |
 | 9 | [Coming Home To You](https://open.spotify.com/track/26bPZmbLW3JEKg1Zmbz55Q) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few +1\)](https://open.spotify.com/album/4DDecQZZ4u9WFfTyNvRIhO) | 3:28 |
 | 10 | [Late Bloomer](https://open.spotify.com/track/6sd6ivmgEL3ql7v4mfTGz5) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Late Bloomer](https://open.spotify.com/album/4ZGD0UokrjuvJGB7gOyLK7) | 3:29 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Marlboro Reds](https://open.spotify.com/track/19TnlbG8jNMzZlxJXbEBbg) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Marlboro Reds](https://open.spotify.com/album/1a7qgV53wxD7SClLghmB27) | 3:07 |
 | 200 | [This Ol' Rodeo](https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [This Ol' Rodeo](https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl) | 4:18 |
 
-Snapshot ID: `MCwxNjQ3ZGNkYjI3ZjBmMWU5MDg4YjNhYjI5ZmQ5MjQ1NzE0YWZkYTVh`
+Snapshot ID: `MCxiOTVlYjU2YTRjYzdkZDk5NTgxNDIwNzc0ZGM5ZjJhMTFiNGIxYzVj`

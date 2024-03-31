@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 441663,
+  "2024-03-31": 441778,
   "date_first_scraped": "2022-06-08",
   "description": "\u00a1Estos son los hits que acompa\u00f1an la fiesta!",
   "name": "De Fiesta",
@@ -5664,6 +5664,28 @@
     },
     {
       "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186366,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
+    },
+    {
+      "album": {
         "name": "La Casa De Las Flores",
         "url": "https://open.spotify.com/album/207GF4xh9pWBVhiALKyxSe"
       },
@@ -9427,7 +9449,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 237525,
       "name": "PLAYA DEL INGL\u00c9S",
       "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
@@ -11475,7 +11497,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
@@ -12241,6 +12263,24 @@
       "duration_ms": 198413,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Me Haces Mal",
+        "url": "https://open.spotify.com/album/0XoVRdM7mGisX556vIOHYy"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "T\u00fa Me Haces Mal",
+      "url": "https://open.spotify.com/track/1Jp0D6Ow82Iwv8xkWYgiyN"
     },
     {
       "album": {

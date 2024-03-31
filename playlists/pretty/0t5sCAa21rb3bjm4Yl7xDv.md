@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear, all in one playlist! Cover: Camila Cabello
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,414 likes - 90 songs - 4 hr 40 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,412 likes - 93 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,8 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 88 | [FIX THIS](https://open.spotify.com/track/7Fhz2ABtZU5ySkpWQHEAEP) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [FIX THIS](https://open.spotify.com/album/7MszmgosThZcBnoJ8QgWZe) | 2:44 |
 | 89 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
 | 90 | [Hypersensible](https://open.spotify.com/track/77bQ9Z0ro0KudhjGvEI8ze) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Hypersensible](https://open.spotify.com/album/1kp2TU0ZdiJOEGyh1ivXpQ) | 3:03 |
+| 91 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
+| 92 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 93 | [Rust](https://open.spotify.com/track/3KJ63o5X5JwG5j5kZgGeCn) | [Cab'Ral](https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj) | [Rust](https://open.spotify.com/album/4lJhDKdbxcCHfCMluyobqD) | 2:57 |
 
-Snapshot ID: `MTQzMzIsNWU0M2NkNDMwOTVjNzZmYWFiYzJjMzRhNDMzZGJhMmVmOGZhNzVmMg==`
+Snapshot ID: `MTQzMzUsMGRiOTEwYWRhYTBiMDdiMWZmOWRlYThlZWIxYTdmM2JmZDkxYjg5YQ==`

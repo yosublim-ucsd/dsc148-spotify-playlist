@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 花澤香菜
 
-623 songs - 1 day 17 hr 46 min
+624 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Fiction](https://open.spotify.com/track/0LT1FJrmhPalsd2OVQwu49) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Fiction](https://open.spotify.com/album/04sFbywbBnpQwZpcdyLBf4) | 4:03 | 2022-07-07 | 2022-07-16 |
 | [Fightin Pose](https://open.spotify.com/track/2pZ5eJYGW9T8Gd3vwyOLl4) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Fightin Pose](https://open.spotify.com/album/2pNXhWFgPcxYp8N5GAL7Ro) | 3:48 | 2022-07-07 | 2022-07-18 |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-06-14 | 2022-07-25 |
+| [Fixer](https://open.spotify.com/track/1YbKeP9f10A8cDmHHIugwI) | [Yui Ninomiya](https://open.spotify.com/artist/7HCJJr9kZs3qiKJVxjRXsk) | [Fixer](https://open.spotify.com/album/1hlrglBu9F6A3Wai9VeT3m) | 3:36 | 2024-03-26 |  |
 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 | 2022-06-09 |  |
 | [Flower Crown](https://open.spotify.com/track/22aQEazDHyrOBJ3v0tXuuF) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [「パリピ孔明」EIKO「Dreamer」](https://open.spotify.com/album/025b8ClWA4rIcFXdUHnFDT) | 3:02 | 2023-10-24 | 2023-12-20 |
 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 | 2024-01-07 |  |
@@ -436,7 +437,7 @@
 | [シュワワ！](https://open.spotify.com/track/7HxdpnKnRzwF2yrul6ImwI) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/2Vuig2PLLt74S87vgk1e8W) | 3:42 | 2023-08-15 | 2023-09-06 |
 | [シュークリーム・ファンク](https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/7CyrqVpM8tZFbhOJyHuI2o) | 3:35 | 2023-04-11 | 2023-06-14 |
 | [シンパシー](https://open.spotify.com/track/4YYrqU4gvSMIk58wT7IhIa) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/2lYrrG6Xcnq6aOrb1mtLEO) | 3:30 | 2022-06-09 | 2022-07-29 |
-| [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 | 2024-02-13 |  |
+| [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 | 2024-02-13 | 2024-03-31 |
 | [スクラップ&ビルド](https://open.spotify.com/track/2fGDZG4NlGUzYMz4mnPEcH) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [スクラップ&ビルド](https://open.spotify.com/album/2Jp1AwgVfh7MFdGJGkShry) | 3:45 | 2023-10-17 | 2023-11-02 |
 | [スクラップアート](https://open.spotify.com/track/1cza4rtohdOAOZNtDQWCYO) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/4FeGPKB2ofgaHrUHI7CDyV) | 3:33 | 2023-09-05 | 2023-11-02 |
 | [スターリア](https://open.spotify.com/track/2QlpNoq4QmRwZvDEnD4J5M) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/4aUsTPDouQEWVY6SDkTeCY) | 5:03 | 2022-06-24 | 2022-07-28 |

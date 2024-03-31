@@ -1,40 +1,48 @@
 {
   "description": "centuries-old sailor songs gone viral - it's sea shanty season, baby.",
-  "num_followers": 502543,
+  "num_followers": 502674,
   "original_name": "Sea Shanties",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjBmN2QxOTkwOWFjY2QxZGFjOTcwZWQ4YjBhNjNjMzg5MDQ0NDg5",
+  "snapshot_id": "MCw4YTVjZWYzMjJjNDE0ZDViMGNiYTQ4OTQ0YzVhMWRmYjE1YzRkMWU5",
   "tracks": [
     {
       "added_at": "2023-12-24 13:57:25",
       "album": {
-        "name": "Hoist the Colours (Bass Singers Version)",
-        "url": "https://open.spotify.com/album/4IhOtHh7kgmYJXLzS0SEzX"
+        "name": "The Wellermen",
+        "url": "https://open.spotify.com/album/5mp34jvXpdx6dJeagEkMkL"
       },
       "artists": [
         {
-          "name": "Bobby Bass",
-          "url": "https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj"
+          "name": "The Wellermen",
+          "url": "https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16"
         },
         {
-          "name": "Daniel Brevik",
-          "url": "https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7"
+          "name": "Ebucs",
+          "url": "https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ"
         },
         {
           "name": "Eric Hollaway",
           "url": "https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l"
         },
         {
-          "name": "Ebucs",
-          "url": "https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ"
+          "name": "Daniel Brevik",
+          "url": "https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7"
+        },
+        {
+          "name": "Davide Dalmonte",
+          "url": "https://open.spotify.com/artist/1RSqmcLE8D3i6NTXiCTDfj"
+        },
+        {
+          "name": "Bobby Bass",
+          "url": "https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj"
         }
       ],
       "duration_ms": 278442,
-      "name": "Hoist the Colours - Bass Singers Version",
-      "url": "https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW"
+      "name": "Hoist The Colours",
+      "url": "https://open.spotify.com/track/2zdNjnpw2V1DBpx653KK8M"
     },
     {
       "added_at": "2023-12-24 13:57:25",

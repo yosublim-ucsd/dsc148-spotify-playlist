@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 75792,
+  "2024-03-31": 75966,
   "date_first_scraped": "2024-02-08",
   "description": "late night vibes \u2013 notifications off.",
   "name": "DND.",
@@ -299,7 +299,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 247079,
       "name": "DEAD MAN WALKING",
       "url": "https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL"
@@ -688,6 +688,24 @@
     },
     {
       "album": {
+        "name": "STREETS SAY YOU MISS ME",
+        "url": "https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "MORE THAN SORRY",
+      "url": "https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p"
+    },
+    {
+      "album": {
         "name": "Life On Earth - EP",
         "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
       },
@@ -823,7 +841,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 259385,
       "name": "None Of Your Concern (feat. Big Sean)",
       "url": "https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut"
@@ -938,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Leave You Have My Blessing",
+        "url": "https://open.spotify.com/album/68rBZiD0gpBzLIE7P8Zgv7"
+      },
+      "artists": [
+        {
+          "name": "Qiuntellii",
+          "url": "https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/7LzSqk3OR3tsphAFlQOdXE"
+    },
+    {
+      "album": {
         "name": "FREE 6LACK",
         "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
       },
@@ -971,6 +1007,24 @@
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
+    },
+    {
+      "album": {
+        "name": "STREETS SAY YOU STILL MISS ME",
+        "url": "https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163503,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u"
     },
     {
       "album": {
@@ -1079,6 +1133,24 @@
       "duration_ms": 134814,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9"
+    },
+    {
+      "album": {
+        "name": "That's Tough",
+        "url": "https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "That's Tough",
+      "url": "https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard"
     },
     {
       "album": {

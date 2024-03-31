@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=teHgepjXQ\_CYE92vUPtxNg">Zee Nxumalo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,196 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,192 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Tjina](https://open.spotify.com/track/4DO34AAYHCCF2gs7jxLFYx) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul](https://open.spotify.com/album/0CxIrMM2xgsXxPiXhlBTmd) | 5:19 |
 | 50 | [Isgubhu](https://open.spotify.com/track/34tsYM5Z3g9dvrwLjQKDtr) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Isgubhu](https://open.spotify.com/album/6knBCE7dRT9DJochGox4f7) | 6:54 |
 
-Snapshot ID: `MCxlM2I0ZDlmZmJkMTgxZmM0ZDYzZTAwNTJlNzI1NTZlNTExNDFiMTlk`
+Snapshot ID: `MCw1ODFjZTNkNWIzNDhlZDRmNjEzZGQ3OGUzYTQ4NWNiOTZhM2MzNzRm`

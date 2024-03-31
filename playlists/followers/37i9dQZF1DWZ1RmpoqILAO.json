@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 51160,
+  "2024-03-31": 51261,
   "date_first_scraped": "2023-02-24",
   "description": "indie tunes with country experimentation featuring music from Faye Webster \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
   "name": "Indie Twang",
@@ -54,7 +54,7 @@
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 233521,
+      "duration_ms": 227250,
       "name": "16 CARRIAGES",
       "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
     },
@@ -107,10 +107,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 225062,
       "name": "All My Thoughts",
       "url": "https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K"
+    },
+    {
+      "album": {
+        "name": "Practice",
+        "url": "https://open.spotify.com/album/6iKPa0KYi9BmKjhfYiRvS1"
+      },
+      "artists": [
+        {
+          "name": "Free Range",
+          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225062,
+      "name": "All My Thoughts",
+      "url": "https://open.spotify.com/track/1tOdpTjRfTuDiM330DCKDD"
     },
     {
       "album": {
@@ -851,6 +869,24 @@
     {
       "album": {
         "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
+    },
+    {
+      "album": {
+        "name": "Cowboy Gangster Politician",
         "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
       },
       "artists": [
@@ -861,7 +897,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 232000,
       "name": "Cowboy Gangster Politician",
       "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
@@ -1543,7 +1579,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 294329,
       "name": "Good Ol Days",
       "url": "https://open.spotify.com/track/2eXfiLRUIMoxykbZICeOyc"
@@ -1583,6 +1619,24 @@
       "duration_ms": 294329,
       "name": "Good Ol Days",
       "url": "https://open.spotify.com/track/5i0WOfDUtQdO5bkVm7ZSK0"
+    },
+    {
+      "album": {
+        "name": "Emerald Year",
+        "url": "https://open.spotify.com/album/4YrL4gc7GACAqnKomXuvGk"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294329,
+      "name": "Good Ol Days",
+      "url": "https://open.spotify.com/track/5vRWfHVWcKncaW7WYNdKyJ"
     },
     {
       "album": {

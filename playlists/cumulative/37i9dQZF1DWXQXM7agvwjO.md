@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: BANK \(Indonesia\)
 
-1,230 songs - 3 day 1 hr 51 min
+1,231 songs - 3 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -845,6 +845,7 @@
 | [Shall We Dance](https://open.spotify.com/track/2iLzrjQXYYOUuiFFHO83oQ) | [INTROVERSE](https://open.spotify.com/artist/71md0yuGVfBVCun7P4AyKn) | [Shall We Dance](https://open.spotify.com/album/48hGFXBUSEgwg1nlsaFBQc) | 4:04 | 2024-02-01 | 2024-02-16 |
 | [Shangri\-La Is Calling](https://open.spotify.com/track/3mC9UEuISVfgymoY1YDTNn) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 4:34 | 2022-07-08 | 2022-08-26 |
 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 | 2023-06-08 |  |
+| [She Likes to Dance](https://open.spotify.com/track/26q20Hajvk9vLkaOY6eHYe) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [She Likes to Dance](https://open.spotify.com/album/4Ej7aO710TSFaKHBdwo7Xr) | 4:05 | 2024-03-28 |  |
 | [Shine](https://open.spotify.com/track/5WYgNDkw0VsDIZwfwQWlXp) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Shine](https://open.spotify.com/album/7oeXbkNIec5kwanlfRjyPC) | 3:06 | 2023-03-31 | 2023-04-28 |
 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 | 2022-09-22 | 2022-12-02 |
 | [SHOZEN](https://open.spotify.com/track/5MNCIcHfHsH3BQCEsFc7R0) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [石のような自由](https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep) | 3:42 | 2023-12-22 | 2024-01-12 |

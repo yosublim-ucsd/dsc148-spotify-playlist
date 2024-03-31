@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 9,682 likes - 53 songs - 2 hr 40 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 9,697 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 18 | [How I Work](https://open.spotify.com/track/1lK4rAfLaY9wyKm6KzUBvP) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [How I Work](https://open.spotify.com/album/15ru2jVlACOND0PBrXoPgg) | 2:50 |
 | 19 | [Reasons](https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Reasons](https://open.spotify.com/album/1lkizjmEM7phja1LAX1WS7) | 2:34 |
 | 20 | [Perfect For You](https://open.spotify.com/track/3umysNDCnAjWpn9uZ3UA5w) | [Freshcobar](https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd), [Eggwax](https://open.spotify.com/artist/3VH9y2c98QnZQkTpXMnkgv) | [Perfect For You](https://open.spotify.com/album/6W7voavrmdyHXSRU19LdDJ) | 3:16 |
-| 21 | [Motivashun](https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [No Big Deal](https://open.spotify.com/album/3buVlngArH6e0boFoaH58f) | 5:39 |
+| 21 | [Motivashun](https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [No Big Deal](https://open.spotify.com/album/3buVlngArH6e0boFoaH58f) | 3:01 |
 | 22 | [Wildstyle](https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu) | [Kaysin](https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU), [DOUG!](https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS) | [Wildstyle](https://open.spotify.com/album/1vqZbevQkLOvgu8wHGGeQL) | 2:50 |
 | 23 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
 | 24 | [Mentally In Miami](https://open.spotify.com/track/1QCgmq566LZX7sSHH7u3DU) | [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Mentally In Miami](https://open.spotify.com/album/0RzGyEDi6IjTncONsPV13F) | 2:55 |

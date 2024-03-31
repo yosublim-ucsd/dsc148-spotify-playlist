@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,543 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,674 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hoist the Colours \- Bass Singers Version](https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW) | [Bobby Bass](https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj), [Daniel Brevik](https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7), [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l), [Ebucs](https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ) | [Hoist the Colours \(Bass Singers Version\)](https://open.spotify.com/album/4IhOtHh7kgmYJXLzS0SEzX) | 4:38 |
+| 1 | [Hoist The Colours](https://open.spotify.com/track/2zdNjnpw2V1DBpx653KK8M) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [Ebucs](https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ), [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l), [Daniel Brevik](https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7), [Davide Dalmonte](https://open.spotify.com/artist/1RSqmcLE8D3i6NTXiCTDfj), [Bobby Bass](https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj) | [The Wellermen](https://open.spotify.com/album/5mp34jvXpdx6dJeagEkMkL) | 4:38 |
 | 2 | [Wellerman \- Sea Shanty](https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Wellerman \(Sea Shanty\)](https://open.spotify.com/album/1AK6peN1DwvYRXN19cqWoP) | 2:35 |
 | 3 | [Leave Her Johnny](https://open.spotify.com/track/2vaa0nnDnNTlxCh7fCmjsr) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 2:12 |
 | 4 | [Drunken Sailor](https://open.spotify.com/track/4n5UwoPQn0tBlqxQjyEMdB) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Written in Salt](https://open.spotify.com/album/7F3T51Kxa6tpDDZq8HSBIa) | 2:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 69 | [Bring 'Em Down](https://open.spotify.com/track/21tewDzoqmfJ1jRK4MkJA5) | [William Pint & Felicia Dale](https://open.spotify.com/artist/25mMk8NaLmEHMdXaXP86Lq) | [White Horses](https://open.spotify.com/album/4xSV4Rj2wMQq31PUTXfvG0) | 1:55 |
 | 70 | [Leave Her Johnny](https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [NathanEvanss](https://open.spotify.com/album/4ZUytyO3BGNF2CJRLkSrLS) | 2:02 |
 
-Snapshot ID: `MCwwZjBmN2QxOTkwOWFjY2QxZGFjOTcwZWQ4YjBhNjNjMzg5MDQ0NDg5`
+Snapshot ID: `MCw4YTVjZWYzMjJjNDE0ZDViMGNiYTQ4OTQ0YzVhMWRmYjE1YzRkMWU5`

@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 284172,
+  "2024-03-31": 284281,
   "date_first_scraped": "2021-12-28",
   "description": "The latest, greatest soundtracks from the big and small screen.",
   "name": "Soundtracked",
@@ -4570,6 +4570,24 @@
     },
     {
       "album": {
+        "name": "Mothers' Instinct (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BGS3BDhSoyl30pTMkLXxA"
+      },
+      "artists": [
+        {
+          "name": "Anne Nikitin",
+          "url": "https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156693,
+      "name": "Suspicious Alice",
+      "url": "https://open.spotify.com/track/5gtt8oIxmWydPolpXM4Woj"
+    },
+    {
+      "album": {
         "name": "Beyond the Sea (Soundtrack from the Netflix Series 'Black Mirror')",
         "url": "https://open.spotify.com/album/64ruIMqKmcT2RUgt5TpKku"
       },
@@ -5494,6 +5512,42 @@
     },
     {
       "album": {
+        "name": "Le salaire de la peur (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52TLRFfXyeTo8SYCx7aH08"
+      },
+      "artists": [
+        {
+          "name": "\u00c9ric Serra",
+          "url": "https://open.spotify.com/artist/1DptMAbvFajxK4ZObg1OdA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81613,
+      "name": "The Wages of Fear",
+      "url": "https://open.spotify.com/track/25zQf8rXspkaIeCYSDGTSc"
+    },
+    {
+      "album": {
+        "name": "ARK: The Animated Series, Vol. 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3FC2kiilL4aWkvMvCBFvsC"
+      },
+      "artists": [
+        {
+          "name": "Gareth Coker",
+          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "The Will to Survive",
+      "url": "https://open.spotify.com/track/5UBZdbDjgDK73hszLGIWhD"
+    },
+    {
+      "album": {
         "name": "The Witching Hour (from \"Anne Rice's Mayfair Witches\" Soundtrack)",
         "url": "https://open.spotify.com/album/4AdLZyToPSwXxQRR3vJc5N"
       },
@@ -5981,6 +6035,24 @@
       "duration_ms": 185791,
       "name": "We Have a Voice Now",
       "url": "https://open.spotify.com/track/5Pw9LANvY864RneyP8uBUj"
+    },
+    {
+      "album": {
+        "name": "We Were the Lucky Ones Theme (From \"We Were the Lucky Ones\")",
+        "url": "https://open.spotify.com/album/5rGJ5VIUpHLa9nNYrjhN86"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166438,
+      "name": "We Were the Lucky Ones Theme - From \"We Were the Lucky Ones\"",
+      "url": "https://open.spotify.com/track/6rLHxGO1sQOy4FYJpSYneN"
     },
     {
       "album": {

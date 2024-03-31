@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,626 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,637 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 96 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 97 | [On The Road](https://open.spotify.com/track/78sMoJKUbGrqp5dWVQ7Tcx) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [On The Road](https://open.spotify.com/album/4CMdjKF82H3jj52fNrjDKT) | 2:21 |
 
-Snapshot ID: `MCxjYTFlNWU2ZjFiZWI3M2Q0YjA4ZTQ2NDU1NTU3OWMyNjNhODM5NDAx`
+Snapshot ID: `MCwxZjdjODllZGFmYjE0MjYwMTUxOWE0MzAxMTdkOWExZjE5NjMxOThi`

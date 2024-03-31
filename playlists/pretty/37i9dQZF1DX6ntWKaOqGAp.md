@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: Saba Sister \(サバシスター\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,032 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,154 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 57 | [PEEK A BOO](https://open.spotify.com/track/0AqghDD57T4kDmLECFyoMv) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [PEEK A BOO](https://open.spotify.com/album/27ovbDe4pbIuUwXFBPC0UH) | 3:52 |
 | 58 | [PEAK TIME](https://open.spotify.com/track/6AnigJs8uZ41ANllM0vfRS) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4uHcA8aXhHoBTCrkSGctjv) | 3:46 |
 | 59 | [Insomnia](https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Insomnia](https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS) | 3:24 |
-| 60 | [No Crime](https://open.spotify.com/track/2H3n7IXXc2nSOyJNxxpraj) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [No Crime](https://open.spotify.com/album/5km22Frrq8HaLJjdsrlCsw) | 2:58 |
+| 60 | [No Crime](https://open.spotify.com/track/7mZ2l20ga1cwVw7WVZWWkI) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [PURE 40](https://open.spotify.com/album/3ebUA1TA2F3IMkyFNjJN8E) | 2:59 |
 | 61 | [Love no Genkei](https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [Love no Genkei](https://open.spotify.com/album/2sOTrGKCJK6NzbDlLQm1i1) | 3:26 |
 | 62 | [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 |
 | 63 | [Dear Future](https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Dear Future](https://open.spotify.com/album/0916gU5FyF01sKbtH32r7a) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Heartbeat](https://open.spotify.com/track/26kGk6Ia807QHtzIftKY7s) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Heartbeat](https://open.spotify.com/album/4FbJx3hYgHNHrzfqzk9vRi) | 3:14 |
 | 100 | [LOVELY DESTRUCTION](https://open.spotify.com/track/5IvzUopWfEOxa1wGdI1PMX) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [LOVELY DESTRUCTION](https://open.spotify.com/album/3wAc9pRpgeaM4zSGKbiutl) | 2:52 |
 
-Snapshot ID: `MCwxOTZjYTkzNTA2MjgyOGZkOGQyZTFlNGYyMDE2ZWE5NTQ2M2Q1OGZk`
+Snapshot ID: `MCw5MWE5NzFhOGIyOTJlN2VjNjhkZGY4NTg3NzVhZjkzYWMzNDc2OGI2`

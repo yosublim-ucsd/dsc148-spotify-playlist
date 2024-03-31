@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 725848,
+  "2024-03-31": 725896,
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Saweetie",
+  "description": "Holdin' it down for the westside. Cover: Mozzy",
   "name": "Westside Story",
   "tracks": [
     {
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 96000,
       "name": "Been Had It",
       "url": "https://open.spotify.com/track/6yOn5TPjIHZoIB8Cha2lKr"
@@ -2248,6 +2248,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+    },
+    {
+      "album": {
         "name": "Built",
         "url": "https://open.spotify.com/album/1zhZE877YLB3XRAOM1Ery0"
       },
@@ -2438,6 +2456,28 @@
     },
     {
       "album": {
+        "name": "Can U Dig That?",
+        "url": "https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194342,
+      "name": "Can U Dig That?",
+      "url": "https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j"
+    },
+    {
+      "album": {
         "name": "Been Here, Still Here",
         "url": "https://open.spotify.com/album/4P30gJB6PjN1JFwL6X5OMj"
       },
@@ -2483,6 +2523,24 @@
       "duration_ms": 172023,
       "name": "Can't Lose",
       "url": "https://open.spotify.com/track/5wWbAr0jLpAYgV4wB6llRl"
+    },
+    {
+      "album": {
+        "name": "CANADIAN TUX",
+        "url": "https://open.spotify.com/album/6TmW1C4YNsMEIrwnZBJbjE"
+      },
+      "artists": [
+        {
+          "name": "Devin Malik",
+          "url": "https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138369,
+      "name": "CANADIAN TUX",
+      "url": "https://open.spotify.com/track/65LD6j5Wg5xYnebnrcwaUI"
     },
     {
       "album": {
@@ -3781,6 +3839,36 @@
       "duration_ms": 264320,
       "name": "Don't Condone 2",
       "url": "https://open.spotify.com/track/5o8cjOJw2TYCAYWL39BCwh"
+    },
+    {
+      "album": {
+        "name": "Biggest Out The West",
+        "url": "https://open.spotify.com/album/6cohykbNrj0qsEkaunf9uL"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139013,
+      "name": "Don't Count Me out (feat. Ty Dolla $ign & Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/2aNMJFSgmV7BOCrr2vZKrl"
     },
     {
       "album": {
@@ -7067,7 +7155,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 150683,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/3ZZ3WWjNIdg2jDUmbJf5o4"
@@ -7329,6 +7417,28 @@
       "duration_ms": 149393,
       "name": "IT'S OVER",
       "url": "https://open.spotify.com/track/0XzoYkyEvXmeg180c97tWW"
+    },
+    {
+      "album": {
+        "name": "JADED (feat. Eric Bellinger)",
+        "url": "https://open.spotify.com/album/0MsjMWpSGrPebs9pCC5Byo"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192104,
+      "name": "JADED (feat. Eric Bellinger)",
+      "url": "https://open.spotify.com/track/41DuVovKEJkp1lEexRhX6d"
     },
     {
       "album": {
@@ -8255,7 +8365,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 177842,
       "name": "Like This",
       "url": "https://open.spotify.com/track/3w1SOTwpEC5IgANfFVCdwy"
@@ -8635,7 +8745,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 203213,
       "name": "Made For The Pole",
       "url": "https://open.spotify.com/track/3AJgqiWoralG9vlx0H3OI8"
@@ -11115,7 +11225,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 181463,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/6QtKtcA3XP94Yv4Y3IoGit"
@@ -11507,7 +11617,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 245927,
       "name": "Problems (feat. Pusha T) - Triangle Park Mix",
       "url": "https://open.spotify.com/track/75AoC7T5bVnXweBDzDCkAJ"
@@ -12290,6 +12400,32 @@
     },
     {
       "album": {
+        "name": "Biggest Out The West",
+        "url": "https://open.spotify.com/album/6cohykbNrj0qsEkaunf9uL"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229841,
+      "name": "Scroll (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/2C0fcDxtgH09UISZLvIyqw"
+    },
+    {
+      "album": {
         "name": "See The Difference",
         "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
       },
@@ -12738,6 +12874,24 @@
     },
     {
       "album": {
+        "name": "So Into You (Freestyle)",
+        "url": "https://open.spotify.com/album/5H1IfG3XGEneqGS4WiJB1N"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103848,
+      "name": "So Into You - Freestyle",
+      "url": "https://open.spotify.com/track/7tm1iBwlqhERgmH3yilnef"
+    },
+    {
+      "album": {
         "name": "soak city (do it)",
         "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
       },
@@ -12879,6 +13033,32 @@
       "duration_ms": 166678,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
+    },
+    {
+      "album": {
+        "name": "Biggest Out The West",
+        "url": "https://open.spotify.com/album/6cohykbNrj0qsEkaunf9uL"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Soul Taker (feat. Dom Kennedy)",
+      "url": "https://open.spotify.com/track/0EvFpe0v03K8PdXs0j7nm6"
     },
     {
       "album": {
@@ -13857,7 +14037,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 148437,
       "name": "The 5",
       "url": "https://open.spotify.com/track/0y7P5NsVwO4vRft1rY5Wt9"
@@ -15396,6 +15576,24 @@
     },
     {
       "album": {
+        "name": "Yacht Master",
+        "url": "https://open.spotify.com/album/6ZwOCnCmnpbuDuySDiXx81"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131368,
+      "name": "Yacht Master",
+      "url": "https://open.spotify.com/track/4RJTYHKzXzbKh0qjlq7Lpf"
+    },
+    {
+      "album": {
         "name": "Yeern 101",
         "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
       },
@@ -15425,7 +15623,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 125733,
       "name": "Yo Baby Mama Ugly",
       "url": "https://open.spotify.com/track/41LpHD55TiX85sDovbsgsK"
@@ -15461,7 +15659,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 128052,
       "name": "You Da Shit",
       "url": "https://open.spotify.com/track/26QNZ9afVqHzcEBUwd74kx"

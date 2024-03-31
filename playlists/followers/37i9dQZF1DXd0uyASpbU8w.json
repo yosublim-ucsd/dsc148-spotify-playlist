@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 85540,
+  "2024-03-31": 85614,
   "date_first_scraped": "2023-05-19",
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m?si=JvlkENTPTVWQtemui_MtFw\">Beyonc\u00e9</a>",
   "name": "New Music Friday South Africa",
@@ -1952,6 +1952,28 @@
     },
     {
       "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "album": {
         "name": "Always Be My Man",
         "url": "https://open.spotify.com/album/5hnOIy6Hw9dHsROVHUOQBJ"
       },
@@ -2359,7 +2381,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 348581,
       "name": "Amaphupho",
       "url": "https://open.spotify.com/track/7aHnc4ZBaXafiX0vglFpVb"
@@ -5117,7 +5139,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 270869,
       "name": "Baya Hlanya (feat. Benzoo)",
       "url": "https://open.spotify.com/track/5S71ZMqUPLDVjat0WJWDJW"
@@ -18411,6 +18433,24 @@
       "duration_ms": 437159,
       "name": "HG",
       "url": "https://open.spotify.com/track/2ojixo6EbzVrgjxr6SJTf4"
+    },
+    {
+      "album": {
+        "name": "HI-VOLTAGE",
+        "url": "https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "HI-VOLTAGE",
+      "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
     },
     {
       "album": {
@@ -55663,7 +55703,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 200694,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"

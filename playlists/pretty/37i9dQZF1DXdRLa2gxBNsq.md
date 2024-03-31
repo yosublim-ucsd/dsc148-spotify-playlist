@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,239 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,261 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 23 | [Mi Mejor Colega \- original](https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 2:04 |
 | 24 | [El Espiritu del Oi!](https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [N.S.A\. La Santa Familia](https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF) | 5:13 |
 | 25 | [A.c.a.b.](https://open.spotify.com/track/5189Xj43eCOPecYdlM8ywk) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ), [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [El Rodillo del Kaos](https://open.spotify.com/album/3lu6CnUfdYKLipTuMFyo65) | 4:55 |
-| 26 | [Salgo a la Calle](https://open.spotify.com/track/3KOep0HeA6PxeoLT4I4Ixx) | [Elektroduendes](https://open.spotify.com/artist/7oboTHVarRYloS0WJxGSJW) | [Salgo a la Calle](https://open.spotify.com/album/3wdwyHXHc5NKboxzLsE6pS) | 4:07 |
+| 26 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
 | 27 | [Su Falso Mundo \- original](https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 3:18 |
-| 28 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
-| 29 | [Adios Reina Mia](https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Demasiados Enemigos](https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk) | 4:27 |
+| 28 | [Adios Reina Mia](https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Demasiados Enemigos](https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk) | 4:27 |
+| 29 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 |
 | 30 | [El infierno es un after](https://open.spotify.com/track/6OF4GtqvLkOb3E3lQpWbOS) | [aitana gato muerto](https://open.spotify.com/artist/0u1PT5i2diugyPeT1P9OLa) | [El infierno es un after](https://open.spotify.com/album/75cMlsVv7rtadfvZ0uxUtc) | 3:37 |
-| 31 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 |
-| 32 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 |
+| 31 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 |
+| 32 | [Salgo a la Calle](https://open.spotify.com/track/3KOep0HeA6PxeoLT4I4Ixx) | [Elektroduendes](https://open.spotify.com/artist/7oboTHVarRYloS0WJxGSJW) | [Salgo a la Calle](https://open.spotify.com/album/3wdwyHXHc5NKboxzLsE6pS) | 4:07 |
 | 33 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 |
 | 34 | [Las Drogas](https://open.spotify.com/track/5FEew7u4cqGOYK4jGhKd73) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/0r9tLzqnnPw9CcK9pb6056) | 2:22 |
 | 35 | [Bad Religión](https://open.spotify.com/track/0jBZw8EyAsqnt5o4jHExRG) | [The Kagas](https://open.spotify.com/artist/25TQ86q5TLjD8MR099s51q), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Nuevos Héroes del Rock](https://open.spotify.com/album/6pTO78gcvYctJTIBU2pvZ4) | 2:59 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 90 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 |
 
-Snapshot ID: `MCw3MGU4Yjg2NDM5MjYzNjdhMjVjNmU1MjNiNGQyNWI1MTY4MzYyMDVm`
+Snapshot ID: `MCwyNDMxM2Q4Mjg4M2Y4ZDE2YWVlNmFiZmQzMzg5MDY4NTMxYzBlNjk4`

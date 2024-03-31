@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 120873,
+  "2024-03-31": 120871,
   "date_first_scraped": "2022-06-10",
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Ti\u00ebsto x MOGUAI",
   "name": "Spinnin' Records Brand New",
@@ -9101,10 +9101,36 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 187643,
       "name": "GANGSTERS",
       "url": "https://open.spotify.com/track/7vlqXYFJ3RVRNQazTfdrb9"
+    },
+    {
+      "album": {
+        "name": "GANGSTERS",
+        "url": "https://open.spotify.com/album/1Y4XQ4bzDt9PSOx6RRR2p0"
+      },
+      "artists": [
+        {
+          "name": "Emmett Zetto",
+          "url": "https://open.spotify.com/artist/78r2aT2PaclPLTyNb3rel7"
+        },
+        {
+          "name": "Talentless",
+          "url": "https://open.spotify.com/artist/5vjPH4JK9haGzLIa4C7snZ"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151650,
+      "name": "GANGSTERS",
+      "url": "https://open.spotify.com/track/76sB1t6rkdYj1pSWHqQz8a"
     },
     {
       "album": {

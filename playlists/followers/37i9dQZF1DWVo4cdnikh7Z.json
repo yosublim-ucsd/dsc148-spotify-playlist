@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 661824,
+  "2024-03-31": 661912,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Rathnam",
   "name": "Latest Tamil",
@@ -8831,10 +8831,40 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 260108,
       "name": "Jaragandi (From \"Game Changer\")",
       "url": "https://open.spotify.com/track/7Hzz0upjF4yyj2H2BsllSF"
+    },
+    {
+      "album": {
+        "name": "Jaragandi (From \"Game Changer\")",
+        "url": "https://open.spotify.com/album/4Y3OZR0puglUjWjHDXvIte"
+      },
+      "artists": [
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260432,
+      "name": "Jaragandi (From \"Game Changer\")",
+      "url": "https://open.spotify.com/track/55HpW5wBY4LFazpiczHLFD"
     },
     {
       "album": {

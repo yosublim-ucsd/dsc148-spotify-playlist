@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The stomping ground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,663 likes - 170 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,826 likes - 170 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 14 | [Your Love \- Seth Troxler Remix](https://open.spotify.com/track/1vY3452aVUKq59zjQqmNk7) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [Your Love \(Seth Troxler Remix\)](https://open.spotify.com/album/0H4XPs3byMfSvGTpGGoh15) | 6:33 |
 | 15 | [GURU](https://open.spotify.com/track/2iVfJ11PkyX0Iwg0h2BnoQ) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 4:11 |
 | 16 | [In Your Eyes \- Fideles Remix](https://open.spotify.com/track/2TkjZM2IpnsQp3M0HdZT5M) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [In Your Eyes \(Fideles Remix\)](https://open.spotify.com/album/0jOrwifDjbWed2UJkLXgli) | 5:58 |
-| 17 | [Save Me \- Kölsch Remix](https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:37 |
+| 17 | [Save Me \- Kölsch Remix](https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:41 |
 | 18 | [WHATSUP](https://open.spotify.com/track/6fdpRzah5JFrEHQVQr0LBJ) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [WHATSUP](https://open.spotify.com/album/0wn013EioXJ0HPt4KXoMU7) | 2:31 |
 | 19 | [Virtue](https://open.spotify.com/track/377ohyE31sMHivjmz71oBY) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Virtue](https://open.spotify.com/album/6NYotRJBKScBPwQ3UAbgvi) | 3:44 |
 | 20 | [We Like To Party \- Rework](https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [We Like To Party \(Rework\)](https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu) | 2:24 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 169 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
 | 170 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 |
 
-Snapshot ID: `MCxiZjNhOTUyNTBlMjE1NjVmNWIyN2Q4NTEwYjEyOTA3MGRiNTU0NTc5`
+Snapshot ID: `MCw0ZTk4M2YzNjdlNDY4ZTg2NGJlYThkZWMzN2VkZTcwNTJiZDk1Yzgw`

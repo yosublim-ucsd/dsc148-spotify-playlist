@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m?si=JvlkENTPTVWQtemui\_MtFw">Beyoncé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,540 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,614 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [Malunde \(feat\. Thatohatsi & MDU a.k.a TRP\)](https://open.spotify.com/track/4v7VUHe9M7gErZEXY1JA18) | [Bongza](https://open.spotify.com/artist/1U0kluMlV9VEvmeRvjilSG), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [NONJABULO](https://open.spotify.com/album/1uuOsKkwF9LAuJPSfFxHIR) | 7:57 |
 | 50 | [OLD SCHOOL JAM](https://open.spotify.com/track/64uHnONrDLvHBGUmmDvcA6) | [Veenus](https://open.spotify.com/artist/1g0NILOzQIwGEdt6phsx9b) | [Boombap Chrysalis \(Part One\)](https://open.spotify.com/album/6UEfFyjTwXMcesI8zjw2M2) | 3:08 |
 
-Snapshot ID: `MCw4ZjYwYWM2MTQyNmJlMDVmZTY3MzkyMWRjYjZkZjUwNzE2MmU5NGI1`
+Snapshot ID: `MCwxODFjMGQ0NmYyNjgxYTk3N2E0NTNlN2UxZDEwMTNiZjI0MzdiODky`

@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 272738,
+  "num_followers": 272780,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTEyNWMzZjMyZGQ5ZDk2NTdlZmY5MTJlOTFkMDk2Mzg5YThjNTU1",
+  "snapshot_id": "MCxhZDQ0YTllNzdjM2RkNGM0NjVjYjc2NzFiOTgyMTgwNmM2MTc1N2Q1",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
-      },
-      "artists": [
-        {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Jur\u00e9",
-      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Nos Sobran Los Motivos",
         "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 362906,
       "name": "Y Sin Embargo - En Directo",
       "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
+      },
+      "artists": [
+        {
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Jur\u00e9",
+      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
     },
     {
       "added_at": "2023-08-01 14:42:56",
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Noche Sin Fin y Mar",
+        "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 184968,
+      "name": "Noche Sin Fin y Mar",
+      "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
+    },
+    {
       "added_at": "2022-08-19 02:13:59",
       "album": {
         "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
@@ -1467,22 +1483,6 @@
       "duration_ms": 284500,
       "name": "Trapecistas - En Vivo",
       "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Noche Sin Fin y Mar",
-        "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 184968,
-      "name": "Noche Sin Fin y Mar",
-      "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
     },
     {
       "added_at": "2021-07-29 16:46:05",

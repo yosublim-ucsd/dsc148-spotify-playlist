@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Azawi takes over Made In Uganda as we celebrate Women's Month
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,345 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,366 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 49 | [Not Letting Go](https://open.spotify.com/track/2gfo0P6XYQeK5ePy7cV3jk) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Wena](https://open.spotify.com/album/4BcG3RRPuXx7KdtF2tGuCH) | 3:27 |
 | 50 | [African Music](https://open.spotify.com/track/0Y10FU6tY5Us8QyxpLYdXT) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:01 |
 
-Snapshot ID: `MCxiZDNkOGJiYTkwYTA0MTFiYzRjZWY4MzEyM2RjOTkzMmE2ZmMyNDBh`
+Snapshot ID: `MCw1OTBhYTU4YjQyZmIzZjQ2NmE5YzEyZjRlODk4YTVjMDk2MjAwMGNi`

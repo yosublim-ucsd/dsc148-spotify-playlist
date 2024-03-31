@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: De Beren Gieren
 
-205 songs - 17 hr 38 min
+206 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Pajo](https://open.spotify.com/track/27hWUgRmRzZXK4xpWhdhAj) | [Super Gum](https://open.spotify.com/artist/6PscJJheK9Sic9olDY2S6J) | [Pajo](https://open.spotify.com/album/73rgmLL4GgY3IgT6wdRw9a) | 5:58 | 2023-04-27 |  |
 | [Paljas](https://open.spotify.com/track/3DoLySSn6cpIBUgYcImbeQ) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Spam vol.1](https://open.spotify.com/album/32kUn5j1n7MfSBNAXV6zUy) | 7:10 | 2023-05-18 |  |
 | [Palm](https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [6](https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53) | 7:35 | 2022-09-29 |  |
-| [Papir Freedom](https://open.spotify.com/track/2nzwfCyZOhw8Svbc6h5Ams) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Papir Freedom](https://open.spotify.com/album/6ffk58AJ2lwlSylw02IYR6) | 4:25 | 2024-03-14 |  |
+| [Papir Freedom](https://open.spotify.com/track/2nzwfCyZOhw8Svbc6h5Ams) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Papir Freedom](https://open.spotify.com/album/6ffk58AJ2lwlSylw02IYR6) | 4:25 | 2024-03-14 | 2024-03-31 |
+| [Papir Freedom](https://open.spotify.com/track/6OzARRJLlPeRB2ICpY0ftR) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [What Eludes Us](https://open.spotify.com/album/17GR5WsqNpR9IKYquLCY4R) | 4:25 | 2024-03-28 |  |
 | [Pathetic Sounds](https://open.spotify.com/track/38WUEUXFXHOcCX0tjfESAW) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:59 | 2022-09-08 | 2023-06-24 |
 | [Photonic](https://open.spotify.com/track/67pi7bVSEkbbJJUF7e18Kc) | [H A S T](https://open.spotify.com/artist/17uBeZave65bCISY0fRqZV) | [Ubi Sunt](https://open.spotify.com/album/429T2lTpq7WJOWcUKlxvQW) | 3:32 | 2023-03-16 |  |
 | [Photonic](https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP) | [H A S T](https://open.spotify.com/artist/6Yfns5pZJVZxf6hn1gM3AZ) | [Photonic](https://open.spotify.com/album/2CWuZRmCPkN33i2dVZcb7M) | 3:33 | 2022-09-08 | 2023-03-19 |

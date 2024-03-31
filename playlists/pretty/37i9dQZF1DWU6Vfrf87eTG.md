@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,514 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,509 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 35 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 36 | [They Fixed The Broken Windmill Today](https://open.spotify.com/track/6kVGpBhaHX3PQWaQ7tEpe4) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 7:18 |
 | 37 | [Calon Lan](https://open.spotify.com/track/46rTa2aNbVMfTzaMo3vL0h) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b) | [Apollo EP](https://open.spotify.com/album/2MyL8boDt6oLbNwko8poPQ) | 4:15 |
-| 38 | [Carbon Scores and Smoke](https://open.spotify.com/track/6EpOTSgOGRXvMV12nkC0z8) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone \(2021\)](https://open.spotify.com/album/4SO25UH7HeZSVGNzHhYiCJ) | 6:05 |
+| 38 | [Carbon Scores and Smoke](https://open.spotify.com/track/2R2pWPSXc3TPb6bCwofESK) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone](https://open.spotify.com/album/1c6ZD2lIKNEHtuMEboUxsH) | 6:05 |
 | 39 | [Home over Yonder Variations Pt\. 2](https://open.spotify.com/track/0f3Lw4MF7wNXl2ut78xzOZ) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6RoKkTKlYJ9uXJkH4pFdg7) | 2:33 |
 | 40 | [What Stays in Motion / A Slow Burn](https://open.spotify.com/track/1gncrVlz927rYTePwskx7G) | [William Ryan Fritch](https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl) | [Her Warmth](https://open.spotify.com/album/3smPbTZhWibJ7J0IJRTwBD) | 3:33 |
 | 41 | [Bellwoods Park](https://open.spotify.com/track/2rknjj7MqyOPIif150QmXg) | [Shawn William Clarke](https://open.spotify.com/artist/654buPExx4Mk8xVddb8zgs) | [William](https://open.spotify.com/album/3PrhKqEzYomIrCmiSKpoVR) | 3:35 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MCxhYjA5Zjc4NjlmMzlmNWIyNTE1NGUzNzcyMjI4MDVmN2ViZWE1MThi`
+Snapshot ID: `MCxjMzZmMzRjMDQ3MjI2ZmRjZjE3Y2ZjNjRjOTdhZTkyY2RmNmQ0OTE4`

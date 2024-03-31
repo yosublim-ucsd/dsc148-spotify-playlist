@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1016943,
+  "num_followers": 1017677,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjU5MGRiNjM1ODllOGQ1NDk1ZWY0YTA1MGZjMzNlZjk4YWZmNTlk",
+  "snapshot_id": "MCwxZDk0M2YyOGViM2M2NGE1NzZiYjNkNmY3NzcxZDI1ZTAwZThjMWY1",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Old",
-      "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Album of the Year",
         "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 217333,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Old",
+      "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
+      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "No Prayer for the Dying (2015 Remaster)",
         "url": "https://open.spotify.com/album/2uMfzU12ioMp5zqQwhvt8g"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 160266,
       "name": "War?",
       "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
-      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
     }
   ],
   "unique_name": "90s Metal Classics",

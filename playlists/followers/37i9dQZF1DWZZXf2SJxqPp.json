@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 135047,
+  "2024-03-31": 135099,
   "date_first_scraped": "2023-05-16",
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
   "name": "\u00a1A la Alberca!",
@@ -259,7 +259,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 229386,
       "name": "Boney M Down",
       "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
@@ -2869,7 +2869,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"

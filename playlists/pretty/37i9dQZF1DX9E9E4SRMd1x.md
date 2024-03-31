@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E9E4SRMd1x.md) - [plain]
 
 > Los temas inmortales de Selena en voces de nuevos intérpretes
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,002 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,017 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E9E4SRMd1x.md) - [plain]
 | 26 | [Buenos Amigos](https://open.spotify.com/track/2gTlal0EmSkFAdmJkhLGIw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [La Leyenda \(Version Deluxe\)](https://open.spotify.com/album/2UbcZhoI1lrKnmRsfk2KGF) | 4:44 |
 | 27 | [Enamorada De Ti \- Merengue Mix](https://open.spotify.com/track/5gCNPCHNnK9DGjlwSb9R7z) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Enamorada De Ti](https://open.spotify.com/album/0foXhJIAVKcMJybslend7Q) | 2:59 |
 
-Snapshot ID: `MCwzZjhkOGZiYmIzOWY4NTU0MTEzYWQyNjg3YTdjM2U2YTU0NmRjYzdh`
+Snapshot ID: `MCw0NzI3NTJkOTU3ZDNhZTM5Nzg5YzMwZTRhOWM5ZDcxMzViM2YzODk5`

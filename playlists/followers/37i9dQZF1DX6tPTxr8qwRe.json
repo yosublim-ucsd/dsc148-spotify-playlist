@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 402001,
+  "2024-03-31": 402024,
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Ellise & Ashley Sienna",
+  "description": "Dark, hard hitting pop. Cover: Natalie Jane",
   "name": "SALT",
   "tracks": [
     {
@@ -721,7 +721,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 114558,
       "name": "Bad Bitch (ft. Sage Charmaine)",
       "url": "https://open.spotify.com/track/0eqarBH40z9GUTRQXfv68E"
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 210954,
       "name": "build a boy",
       "url": "https://open.spotify.com/track/59BEuButSI6B9CZuPYZjNa"
@@ -1833,6 +1833,24 @@
       "duration_ms": 192106,
       "name": "Buzzkill Baby",
       "url": "https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA"
+    },
+    {
+      "album": {
+        "name": "can i see you tonight?",
+        "url": "https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117628,
+      "name": "can i see you tonight?",
+      "url": "https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg"
     },
     {
       "album": {
@@ -5179,7 +5197,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 133055,
       "name": "IDK Her",
       "url": "https://open.spotify.com/track/2qPrqTrbIldabTPUxJjEHJ"
@@ -6736,6 +6754,24 @@
     },
     {
       "album": {
+        "name": "Monster Under The Bed",
+        "url": "https://open.spotify.com/album/00jBOyWu8bXrdIN3GGCc0x"
+      },
+      "artists": [
+        {
+          "name": "Emily Mei",
+          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230810,
+      "name": "Monster Under The Bed",
+      "url": "https://open.spotify.com/track/0TmcuYEvnC77EIaLEQ5sgq"
+    },
+    {
+      "album": {
         "name": "MONSTERS IN MY MIND",
         "url": "https://open.spotify.com/album/1q1jARykCzN5uVVHRtKxbZ"
       },
@@ -7267,6 +7303,24 @@
       "duration_ms": 123512,
       "name": "OOPS",
       "url": "https://open.spotify.com/track/7eoOFgRL66Dw9PnWxyz7s1"
+    },
+    {
+      "album": {
+        "name": "oops, my bad!",
+        "url": "https://open.spotify.com/album/2Flg62smX1tChliD7jWClT"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "oops, my bad!",
+      "url": "https://open.spotify.com/track/0jz82skw9yHMKVdiq2H0t0"
     },
     {
       "album": {
@@ -8943,7 +8997,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 156800,
       "name": "Siren",
       "url": "https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr"
@@ -9691,7 +9745,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 165607,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/4p1i3nnCvKtkMWWx7EuKQ7"
@@ -10898,6 +10952,24 @@
     },
     {
       "album": {
+        "name": "WELCOME TO MY CHURCH",
+        "url": "https://open.spotify.com/album/4DBDhwAtmifk20z5kGYcpU"
+      },
+      "artists": [
+        {
+          "name": "Lucy Deakin",
+          "url": "https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179690,
+      "name": "WELCOME TO MY CHURCH",
+      "url": "https://open.spotify.com/track/54kqBEU5WNmkPm3vjat95h"
+    },
+    {
+      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/1o4IxSYAQM3FIzRfPoSEIT"
       },
@@ -11039,6 +11111,24 @@
       "duration_ms": 191554,
       "name": "WHEN THE PARTY'S OVER",
       "url": "https://open.spotify.com/track/0ycbYEcMjQ40iYsVnNiYJh"
+    },
+    {
+      "album": {
+        "name": "When You Call",
+        "url": "https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz"
+      },
+      "artists": [
+        {
+          "name": "Diana Goldberg",
+          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "When You Call",
+      "url": "https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd"
     },
     {
       "album": {

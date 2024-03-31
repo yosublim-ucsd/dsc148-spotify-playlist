@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg">Henry Ate</a>
 
-697 songs - 1 day 15 hr 52 min
+698 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Inside Your Mind](https://open.spotify.com/track/2sKlNKBQt3FVQ6tGP2HMsI) | [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [Inside Your Mind](https://open.spotify.com/album/0giI90GNLeEAo2Y0WXKcXZ) | 2:33 | 2024-03-08 | 2024-03-30 |
 | [Into This New Year](https://open.spotify.com/track/3VIl8git975ZsbrtrYoQba) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [Into This New Year](https://open.spotify.com/album/2n2P70KmTC4LeQwvOZLkAF) | 3:18 | 2023-11-24 | 2024-01-12 |
 | [It Ain't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 | 2023-06-01 | 2023-07-14 |
+| [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 | 2024-03-29 |  |
 | [it's not me \(it's u\)](https://open.spotify.com/track/4R9pq6DudcNooi09OLvzNt) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 3:40 | 2023-03-02 | 2023-04-15 |
 | [It's Not True Love](https://open.spotify.com/track/38QjNatYVLGEPZkwYxmYpi) | [Bye Beneco](https://open.spotify.com/artist/3kMHWNlRYrb3c6NpmP8EQh) | [Leaving All The Time](https://open.spotify.com/album/4Buz9FAsieDI6T8y1K4rAf) | 3:01 | 2024-01-11 | 2024-03-30 |
 | [Izibongo Zami](https://open.spotify.com/track/0cBmKjNZdIFdNk7eXvp1bT) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [Izibongo Zami](https://open.spotify.com/album/3BMJkZqtOozpJTB2LzKue4) | 3:52 | 2022-07-21 | 2022-11-11 |
@@ -363,7 +364,7 @@
 | [lowlife](https://open.spotify.com/track/3T4Li9ZHJHFFRwENTPiwfh) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [lowlife](https://open.spotify.com/album/5smoG58cCmW972wiwJMwwu) | 3:01 | 2023-03-23 | 2023-05-26 |
 | [Lucky](https://open.spotify.com/track/7C18nGbnjKfSYZfxNaNisK) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Subtle Affection](https://open.spotify.com/album/46QpadPmdS38FxqUm7vDDh) | 3:26 | 2022-09-09 | 2022-11-11 |
 | [Madonna](https://open.spotify.com/track/08lxQMon7L91ykAMi87rgN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK) | 3:03 | 2023-11-09 | 2023-12-22 |
-| [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 | 2022-12-15 |  |
+| [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 | 2022-12-15 | 2024-03-31 |
 | [Magic in you](https://open.spotify.com/track/46T0G1ko3VSHSMv5UcqFFL) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Magic in you](https://open.spotify.com/album/4kbiIlmmzbdJd6MtwQhDRM) | 3:01 | 2023-10-06 | 2023-12-22 |
 | [maipfi](https://open.spotify.com/track/4IsZWBSV0kkpmKG2FhM0Dg) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [maipfi](https://open.spotify.com/album/5OPMKtE4DAxDdwXPM1JUh1) | 4:30 | 2023-09-07 | 2023-12-01 |
 | [Manic Pixie Dream](https://open.spotify.com/track/64SrkyDiOaleVgq6SF5WLy) | [The Meister](https://open.spotify.com/artist/1CgnbZB3Fo0TyWeU3BVtSH), [Louie Van Wolf](https://open.spotify.com/artist/0V3OJ2G59WUnkBJkrRSTe2), [LyndaWrighter](https://open.spotify.com/artist/3XnNsPUDX0odgc80emdfrW) | [Mended Dreams](https://open.spotify.com/album/2qFn1tpZeMBN2JX8RM1l2j) | 3:19 | 2021-07-22 | 2022-11-11 |

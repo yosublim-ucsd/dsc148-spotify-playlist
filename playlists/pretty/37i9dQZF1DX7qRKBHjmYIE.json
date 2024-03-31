@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Chita.",
-  "num_followers": 760099,
+  "num_followers": 760082,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTA1MDVmMzYxYTc5YTQxYmQzODM5ZDQzZDM0NWYxZjJjZGNiZTE2",
+  "snapshot_id": "MCwyN2VhZjc0ZTg4Yjc2N2U1OTI5N2ZjMWE2NDQ3MDVmZDJhODYzNzRk",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "ZENDAYA",
-        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "ZENDAYA",
-      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Aiwo",
         "url": "https://open.spotify.com/album/12qKvFVOImgBtQ2JDGO2Vz"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Pure Intentions",
         "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 176879,
       "name": "Pure Intentions (feat. Gabriella)",
       "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -931,22 +931,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Caballo De Troya",
-        "url": "https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL"
+        "name": "Lindo Lindo",
+        "url": "https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ"
       },
       "artists": [
         {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        },
-        {
-          "name": "Chente Ydrach",
-          "url": "https://open.spotify.com/artist/2P4GSF64Q5QUJziecEFyUN"
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Caballo De Troya",
-      "url": "https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs"
+      "duration_ms": 223481,
+      "name": "Lindo Lindo",
+      "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -967,18 +963,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Lindo Lindo",
-        "url": "https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ"
+        "name": "Caballo De Troya",
+        "url": "https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL"
       },
       "artists": [
         {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Chente Ydrach",
+          "url": "https://open.spotify.com/artist/2P4GSF64Q5QUJziecEFyUN"
         }
       ],
-      "duration_ms": 223481,
-      "name": "Lindo Lindo",
-      "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
+      "duration_ms": 121000,
+      "name": "Caballo De Troya",
+      "url": "https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "GITANA",
-        "url": "https://open.spotify.com/album/1UTkauY9kjvbCZYWGe6NI6"
-      },
-      "artists": [
-        {
-          "name": "ENEZ 4R",
-          "url": "https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 173456,
-      "name": "GITANA",
-      "url": "https://open.spotify.com/track/2CNfYe3Kzyw2IDGTIssbXb"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Mam\u00e1 Flor",
         "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 188139,
       "name": "Tu Camisa",
       "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "GITANA",
+        "url": "https://open.spotify.com/album/1UTkauY9kjvbCZYWGe6NI6"
+      },
+      "artists": [
+        {
+          "name": "ENEZ 4R",
+          "url": "https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 173456,
+      "name": "GITANA",
+      "url": "https://open.spotify.com/track/2CNfYe3Kzyw2IDGTIssbXb"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "NICE GUY BAD GUY",
-        "url": "https://open.spotify.com/album/6r4Ddc1uUj6ddQtmVYFSK2"
-      },
-      "artists": [
-        {
-          "name": "OMGisNEFF",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "GIO",
-          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
-        }
-      ],
-      "duration_ms": 151938,
-      "name": "NICE GUY BAD GUY",
-      "url": "https://open.spotify.com/track/6EOTtrjTCGYTscIGGXHljh"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "aqu\u00ed andamos",
         "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
       },
@@ -1187,22 +1167,6 @@
       "duration_ms": 135133,
       "name": "aqu\u00ed andamos",
       "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "low key",
-        "url": "https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 254369,
-      "name": "low key",
-      "url": "https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1223,6 +1187,42 @@
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "NICE GUY BAD GUY",
+        "url": "https://open.spotify.com/album/6r4Ddc1uUj6ddQtmVYFSK2"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "duration_ms": 151938,
+      "name": "NICE GUY BAD GUY",
+      "url": "https://open.spotify.com/track/6EOTtrjTCGYTscIGGXHljh"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "low key",
+        "url": "https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 254369,
+      "name": "low key",
+      "url": "https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "VUELTIANDO",
+        "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "Neverknwn",
+          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "VUELTIANDO",
+      "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Tengo Miedo",
         "url": "https://open.spotify.com/album/63NmYmkeAvkVvSezKDKYxp"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 150236,
       "name": "La Casa De Las Flores",
       "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "VUELTIANDO",
-        "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
-      },
-      "artists": [
-        {
-          "name": "OMGisNEFF",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "Neverknwn",
-          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
-        }
-      ],
-      "duration_ms": 174085,
-      "name": "VUELTIANDO",
-      "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
     }
   ],
   "unique_name": "Mixto",

@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Mushkaa.",
-  "num_followers": 26055,
+  "num_followers": 26057,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTg4ZjYwYjY4MmJkMGUzMzA0MDc2NTIyN2RiZmYwOTFiYTM3Y2Uz",
+  "snapshot_id": "MCxiMTA4YmI2NzRkNzhiNGIyZWViNGIwNjllZmMyZDAyMDhjZTlkNGRh",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -304,17 +304,17 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+          "name": "Greta",
+          "url": "https://open.spotify.com/artist/7C8xmnXbVIZDL0OSu79ZKm"
         },
         {
-          "name": "Bexnil",
-          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
         }
       ],
-      "duration_ms": 154549,
-      "name": "Xarnega",
-      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
+      "duration_ms": 183770,
+      "name": "Se\u00f1al de Respeto",
+      "url": "https://open.spotify.com/track/55xmgELotq2YjHpSi57fIT"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -399,8 +399,8 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
+        "name": "El Disfraz",
+        "url": "https://open.spotify.com/album/3mGHU6Au7nS9rOZoDlCvAP"
       },
       "artists": [
         {
@@ -408,13 +408,13 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
-          "name": "Bexnil",
-          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
         }
       ],
-      "duration_ms": 160695,
-      "name": "habibi",
-      "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
+      "duration_ms": 164138,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -447,30 +447,6 @@
       "duration_ms": 203528,
       "name": "La \u00daltima",
       "url": "https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
-      },
-      "artists": [
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "Greta",
-          "url": "https://open.spotify.com/artist/7C8xmnXbVIZDL0OSu79ZKm"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        }
-      ],
-      "duration_ms": 183770,
-      "name": "Se\u00f1al de Respeto",
-      "url": "https://open.spotify.com/track/55xmgELotq2YjHpSi57fIT"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -511,6 +487,26 @@
       "duration_ms": 146880,
       "name": "steak tar tar",
       "url": "https://open.spotify.com/track/1VMkIjiscNSY0fuzJDI0bi"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "habibi",
+        "url": "https://open.spotify.com/album/3jf2o5lDnLaSwv6JdZKq6v"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "habibi",
+      "url": "https://open.spotify.com/track/4ocdwCiQn23eQbZvFw3pay"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -595,26 +591,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
-      },
-      "artists": [
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "pablopablo",
         "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 157000,
       "name": "Duerme",
       "url": "https://open.spotify.com/track/5C8N8ZWHsvLj49NChGmQGn"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "duration_ms": 154549,
+      "name": "Xarnega",
+      "url": "https://open.spotify.com/track/4ABmdW0G3oDlanLL5rTbjq"
     }
   ],
   "unique_name": "RADAR Espa\u00f1a",

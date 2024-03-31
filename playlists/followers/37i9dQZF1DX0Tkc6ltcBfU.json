@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 1207054,
+  "2024-03-31": 1207279,
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: GloRilla",
+  "description": "The hottest out the south. Cover: Future & Metro Boomin",
   "name": "No Cap",
   "tracks": [
     {
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 210780,
       "name": "Aretha Franklin (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/2dPYDZvbf76ZwVbMKwbz7n"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183410,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/1o9S5cM9CEWrh2ZVbvk5VS"
@@ -2433,7 +2433,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 191493,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa"
@@ -3393,6 +3393,28 @@
       "duration_ms": 128839,
       "name": "Burning Up (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek"
+    },
+    {
+      "album": {
+        "name": "Bussin (with Rob49)",
+        "url": "https://open.spotify.com/album/4k19gVgEFR3eja9YAore44"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Bussin (with Rob49)",
+      "url": "https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2"
     },
     {
       "album": {
@@ -6227,7 +6249,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 213333,
       "name": "Fat Boy (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/71S2e7v71Rcu3CH59pKdE8"
@@ -6515,6 +6537,28 @@
       "duration_ms": 132505,
       "name": "FINALLY",
       "url": "https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr"
+    },
+    {
+      "album": {
+        "name": "Finesse (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192567,
+      "name": "Finesse (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
     },
     {
       "album": {
@@ -8019,7 +8063,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 202816,
       "name": "God Slippers",
       "url": "https://open.spotify.com/track/7s12Ox0mKH81QDymKsC09N"
@@ -8777,6 +8821,24 @@
       "duration_ms": 192727,
       "name": "Heyy",
       "url": "https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ"
+    },
+    {
+      "album": {
+        "name": "HI-VOLTAGE",
+        "url": "https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "HI-VOLTAGE",
+      "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
     },
     {
       "album": {
@@ -10351,7 +10413,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 157611,
       "name": "Jesus Piece",
       "url": "https://open.spotify.com/track/5xLYcxA8518p4hctOHjsCv"
@@ -11446,6 +11508,24 @@
     },
     {
       "album": {
+        "name": "Leaving the Lot",
+        "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189387,
+      "name": "Leaving the Lot",
+      "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
+    },
+    {
+      "album": {
         "name": "Left Right",
         "url": "https://open.spotify.com/album/59eyN6yBBk1oxIf7gH6WHx"
       },
@@ -11982,6 +12062,24 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/28GFwSyuLN9cNuETXtx35s"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124224,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/7hwd1FYNCN8j0HJlNwp8Tl"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/1iDbFnOk4j0LweI76Qs01n"
       },
@@ -12513,7 +12611,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 160000,
       "name": "Mama Tears",
       "url": "https://open.spotify.com/track/7vkobYR10Zmy5XQvKhNkrM"
@@ -13489,7 +13587,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 143718,
       "name": "n.h.i.e.",
       "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
@@ -13697,7 +13795,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 165245,
       "name": "Never Lose Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic"
@@ -14283,7 +14381,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 144000,
       "name": "No Then You A Hoe",
       "url": "https://open.spotify.com/track/203MOiN0JNvWY3JK2zXn17"
@@ -14349,6 +14447,24 @@
       "duration_ms": 195173,
       "name": "Nobody (feat. Dreezy)",
       "url": "https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK"
+    },
+    {
+      "album": {
+        "name": "Non Believer",
+        "url": "https://open.spotify.com/album/4lQxLqMHEEFXlhcnZKEjcF"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207337,
+      "name": "Non Believer",
+      "url": "https://open.spotify.com/track/3FRYmCRHCavq3Y6aCj11Px"
     },
     {
       "album": {
@@ -17498,6 +17614,24 @@
     },
     {
       "album": {
+        "name": "Same",
+        "url": "https://open.spotify.com/album/5LY0M0pI4ha5DvUuneqTpM"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150278,
+      "name": "Same",
+      "url": "https://open.spotify.com/track/6nqni866nZIDToOS8dC7NH"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/71w40A2unvukzh44s2FveN"
       },
@@ -18742,6 +18876,24 @@
     },
     {
       "album": {
+        "name": "Spacebound",
+        "url": "https://open.spotify.com/album/6RmJdCgi8gADTDsotuJYYX"
+      },
+      "artists": [
+        {
+          "name": "Jace!",
+          "url": "https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156560,
+      "name": "Spacebound",
+      "url": "https://open.spotify.com/track/5c70ZHFpecGFTBvn507fXd"
+    },
+    {
+      "album": {
         "name": "Special Bullets",
         "url": "https://open.spotify.com/album/5ZWXPmoIzPwqp8RdMnTXPy"
       },
@@ -19900,6 +20052,28 @@
     },
     {
       "album": {
+        "name": "Talkin In Screw (feat. That Mexican OT)",
+        "url": "https://open.spotify.com/album/5PSkPNfuuLjweXMuDt72KA"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221070,
+      "name": "Talkin In Screw (feat. That Mexican OT)",
+      "url": "https://open.spotify.com/track/33spN2LidBTga7MLg9IQgD"
+    },
+    {
+      "album": {
         "name": "Tanisha (Pump That)",
         "url": "https://open.spotify.com/album/6GqEIfRc7ACkLQ2SGGqxFb"
       },
@@ -20337,7 +20511,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 177705,
       "name": "The P*ssy Song",
       "url": "https://open.spotify.com/track/6WN4iIsMU0BK3irBvKCAIi"
@@ -21269,7 +21443,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 165092,
       "name": "Turnt",
       "url": "https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R"
@@ -22838,6 +23012,28 @@
     },
     {
       "album": {
+        "name": "WIPED",
+        "url": "https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx"
+      },
+      "artists": [
+        {
+          "name": "Lil Dann",
+          "url": "https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "WIPED",
+      "url": "https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH"
+    },
+    {
+      "album": {
         "name": "WISH I COULD TELL YOU",
         "url": "https://open.spotify.com/album/1DFuFMe8nuWMT0JivZrFq0"
       },
@@ -23645,6 +23841,24 @@
       "duration_ms": 151906,
       "name": "\ufeffBlood Splatter",
       "url": "https://open.spotify.com/track/6hLhe1Q8kZQw5pfAK1SGY7"
+    },
+    {
+      "album": {
+        "name": "Forgotten Star",
+        "url": "https://open.spotify.com/album/1HNnHdrqYYAFlAzz50HE1I"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117934,
+      "name": "\ufeffMurdah Man",
+      "url": "https://open.spotify.com/track/0CQfxGSoHb8HSZYejo4FlL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU"

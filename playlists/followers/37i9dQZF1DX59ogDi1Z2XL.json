@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 175940,
+  "2024-03-31": 175977,
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Akintoye",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: NorthSideBenji",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 211764,
       "name": "Back Outside",
       "url": "https://open.spotify.com/track/5sjEO4n21rWRZtzjlearQG"
@@ -2304,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76"
+    },
+    {
+      "album": {
         "name": "Bankai",
         "url": "https://open.spotify.com/album/0g31dMhnJxAFZUlslbTjG0"
       },
@@ -2451,6 +2469,28 @@
       "duration_ms": 192000,
       "name": "Be That Guy",
       "url": "https://open.spotify.com/track/5eS51gOn4InrlUweeZe2s2"
+    },
+    {
+      "album": {
+        "name": "BE WHAT IT BE (feat. NorthsideBenji)",
+        "url": "https://open.spotify.com/album/1SX5Gwg6FJHkdeTZPeLuNq"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160644,
+      "name": "BE WHAT IT BE (feat. NorthsideBenji)",
+      "url": "https://open.spotify.com/track/2b42SNWyDxwZHUhoxrA7Eu"
     },
     {
       "album": {
@@ -7553,10 +7593,32 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 178677,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS"
+    },
+    {
+      "album": {
+        "name": "BOYZ",
+        "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Facile",
+      "url": "https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6"
     },
     {
       "album": {
@@ -9161,7 +9223,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 134802,
       "name": "Get Drunk",
       "url": "https://open.spotify.com/track/6Oje5CNIrxJ4oxbQxG5jOv"
@@ -12681,6 +12743,24 @@
       "duration_ms": 145554,
       "name": "K.H.W.K.",
       "url": "https://open.spotify.com/track/0dfe2OZq92uMjhBRgtHsNd"
+    },
+    {
+      "album": {
+        "name": "Karma (Feet Cold)",
+        "url": "https://open.spotify.com/album/4kex77M3Znlj3za5099jfR"
+      },
+      "artists": [
+        {
+          "name": "Driver95",
+          "url": "https://open.spotify.com/artist/20rkN0rw43hQXRMCvagTm1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Karma (Feet Cold)",
+      "url": "https://open.spotify.com/track/1Wq0A6P3DFG4ZXaKbV3uW2"
     },
     {
       "album": {
@@ -16924,6 +17004,24 @@
     },
     {
       "album": {
+        "name": "No Pics",
+        "url": "https://open.spotify.com/album/7qdgfrS3K8YVT2KUTllFWB"
+      },
+      "artists": [
+        {
+          "name": "Str8cashc3",
+          "url": "https://open.spotify.com/artist/2QxcAtVMPC17QiPxUdRLC9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "No Pics",
+      "url": "https://open.spotify.com/track/1Sxge1JQ9Tuwfts1EQg6zA"
+    },
+    {
+      "album": {
         "name": "No Pralems",
         "url": "https://open.spotify.com/album/5QUCLSuCaz7phRZyVuie2j"
       },
@@ -17929,7 +18027,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192705,
       "name": "One in the Head",
       "url": "https://open.spotify.com/track/3Ep2qoHdraABjmBee3Fi21"
@@ -18647,7 +18745,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 100298,
       "name": "Pack Mentality",
       "url": "https://open.spotify.com/track/7cxQxOw5qoHngj9n1uehLY"
@@ -18961,7 +19059,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 149000,
       "name": "Pen Practice",
       "url": "https://open.spotify.com/track/5lhakMd6p6sahBPXyh7FPk"
@@ -19637,6 +19735,24 @@
       "duration_ms": 221538,
       "name": "Pressure (feat. Mack 11)",
       "url": "https://open.spotify.com/track/6lS2HpL86e2z3Jjkc9ahBJ"
+    },
+    {
+      "album": {
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/0KiwJ3l8oMWxmyfDPx7yZF"
+      },
+      "artists": [
+        {
+          "name": "TwoTiime",
+          "url": "https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126428,
+      "name": "Priceless",
+      "url": "https://open.spotify.com/track/5s5SYR34xLFQVSRGBlMMGz"
     },
     {
       "album": {
@@ -21269,6 +21385,24 @@
       "duration_ms": 117333,
       "name": "Runnin Man",
       "url": "https://open.spotify.com/track/32fp7jS8TK57U76M83byZ2"
+    },
+    {
+      "album": {
+        "name": "Running Game",
+        "url": "https://open.spotify.com/album/68FbO6fzfoAeGsGwBgOqgz"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135372,
+      "name": "Running Game",
+      "url": "https://open.spotify.com/track/2yiKli1cZvAxNjltJDF6xh"
     },
     {
       "album": {
@@ -24769,7 +24903,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 131052,
       "name": "Through The Storm",
       "url": "https://open.spotify.com/track/4NqfKlvmJX4BjQefudTJVq"
@@ -25785,7 +25919,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 187252,
       "name": "U LIKE",
       "url": "https://open.spotify.com/track/7doQUfzrptegfwmf9l6IEx"
@@ -26141,6 +26275,28 @@
       "duration_ms": 126667,
       "name": "Views from thorncliffe",
       "url": "https://open.spotify.com/track/1uNOgsal9aFAGF8Dbb5LeI"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/3TBz88AsuawHIpJCttcdIS"
+      },
+      "artists": [
+        {
+          "name": "Ys Dz",
+          "url": "https://open.spotify.com/artist/5ndQlCgc0Q1y5RhCSZSL9p"
+        },
+        {
+          "name": "100 OTD",
+          "url": "https://open.spotify.com/artist/5VBRo4Do6f7TDyC3MNmOLC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170375,
+      "name": "Village",
+      "url": "https://open.spotify.com/track/4cqIsDlRiLd19J6VyK6Sa1"
     },
     {
       "album": {

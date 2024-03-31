@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 37354,
+  "num_followers": 37411,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGNjM2NhNzVlZTA3ZjBmZjFiM2NiNmQzN2E5ZTU4YzVlNTgwM2M0",
+  "snapshot_id": "MCxhZjlhY2RlOGM1Y2U5ZGQ2MjM2N2NiZTk4MDIyMDVkMGEwY2NhYWIy",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -275,6 +275,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "I'm a Man - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 289173,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "I'm a Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Retrospective 1957-62",
-        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Don't Start Cryin' Now",
-      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Chicago Blues Session Volume 12",
         "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Retrospective 1957-62",
+        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Don't Start Cryin' Now",
+      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Beck-Ola",
-        "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "The Hangman's Knee - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Rockin' At The Hops",
         "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 175693,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Beck-Ola",
+        "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "The Hangman's Knee - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        }
+      ],
+      "duration_ms": 171453,
+      "name": "Movin' Out",
+      "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Steady Gettin' It: The Complete Recordings 1964-67",
         "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
       },
@@ -1823,22 +1843,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues Jam in Chicago, Vol. 1",
-        "url": "https://open.spotify.com/album/4vRzJ9uAlelRyezL47h1WJ"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "I'm Worried",
-      "url": "https://open.spotify.com/track/1a2mDlmY6lTKTB7rmu6rVi"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
         "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
       },
@@ -1855,22 +1859,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Chicago Blues Session Volume 12",
-        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
+        "name": "Blues Jam in Chicago, Vol. 1",
+        "url": "https://open.spotify.com/album/4vRzJ9uAlelRyezL47h1WJ"
       },
       "artists": [
         {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 171453,
-      "name": "Movin' Out",
-      "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
+      "duration_ms": 226733,
+      "name": "I'm Worried",
+      "url": "https://open.spotify.com/track/1a2mDlmY6lTKTB7rmu6rVi"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Tramp / Soul",
-        "url": "https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Get Your Game Up Tight",
-      "url": "https://open.spotify.com/track/0tztP3jhFIlZOm5jhd5q7L"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "40 Blue Fingers Freshly Packed & Ready to Serve",
         "url": "https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 184973,
       "name": "Lonesome Whistle Blues",
       "url": "https://open.spotify.com/track/0239B2zmduD88ZXOiBMOjj"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Tramp / Soul",
+        "url": "https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Get Your Game Up Tight",
+      "url": "https://open.spotify.com/track/0tztP3jhFIlZOm5jhd5q7L"
     },
     {
       "added_at": "2023-01-27 16:34:16",

@@ -453,6 +453,28 @@
     },
     {
       "album": {
+        "name": "Remix 1.2",
+        "url": "https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221905,
+      "name": "Dios Incomparable 1.2 (feat. Marco Barrientos)",
+      "url": "https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE"
+    },
+    {
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },

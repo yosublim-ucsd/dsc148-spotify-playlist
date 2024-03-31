@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,811 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,831 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 36 | [Corazón Partío](https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Corazón Partío](https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi) | 3:19 |
 | 37 | [Hotline Bling](https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi) | 3:23 |
 | 38 | [Lo Siento](https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Siento](https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW) | 3:19 |
-| 39 | [Juntos a la Par](https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Juntos a la Par](https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs) | 2:26 |
-| 40 | [La Chica de Humo](https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [Las Más Escuchadas de los Siete Latinos](https://open.spotify.com/album/6Lu5BXVMEhQNH7b8PtlGhz) | 4:05 |
+| 39 | [La Chica de Humo](https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [Las Más Escuchadas de los Siete Latinos](https://open.spotify.com/album/6Lu5BXVMEhQNH7b8PtlGhz) | 4:05 |
+| 40 | [Juntos a la Par](https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Juntos a la Par](https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs) | 2:26 |
 | 41 | [Ji Ji Ji](https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
 | 42 | [Los Caminos de la Vida](https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Los Caminos de la Vida](https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT) | 3:41 |
 | 43 | [Si una Vez](https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Si una Vez](https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 | 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCxkMGYyN2JiYmY5MDE5ODY2YzUyNjQyYWRiYWNhYTRlODdlOTQ5MTY5`
+Snapshot ID: `MCw4YzM0MDE5OWY0MTY0NGJlMWIyYjEzNjZlNGU0N2UzNDc3ODI3MjUw`

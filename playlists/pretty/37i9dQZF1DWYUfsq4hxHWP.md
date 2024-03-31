@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Sheyna Gee, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,955 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,991 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 99 | [Bring It On Back](https://open.spotify.com/track/4F6V6Wjb9fyU1rRyR0FswW) | [AUSTIN](https://open.spotify.com/artist/2MKu40myhUVlIgfsrw5Huq) | [Bring It On Back](https://open.spotify.com/album/71l7PuX6JXjJhN5aY3qEef) | 2:41 |
 | 100 | [Colorado](https://open.spotify.com/track/3aY1KcqJBhCdGouzAPR4dR) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Colorado](https://open.spotify.com/album/6mtI40deqlOnkE33XkLyP9) | 3:29 |
 
-Snapshot ID: `MCw0NzVlNWI0NDIyZjRmZjAxYTRiNzA4NzA5YWU2ZjQ0ODNhYjBhZmVm`
+Snapshot ID: `MCxmYjc2OTNjYTBmM2M0YzdmZDdlODJhMjY0YzcwYzI1Mjc5MDRhMWE1`

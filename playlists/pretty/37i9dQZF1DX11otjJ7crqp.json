@@ -1,12 +1,12 @@
 {
   "description": "Essential new pop tracks. Cover: Isabel LaRosa",
-  "num_followers": 75343,
+  "num_followers": 75425,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGZiMzFhNzA5NDNiZDQxZWZhMzNjYWZmYjA5MWE1NTQ1MzIzZjk2",
+  "snapshot_id": "MCxmMGE5NmFlYzJiYzE0MmU0OTY1MWVhMTljMzIyMGI0MmRmNDQxZWQ0",
   "tracks": [
     {
       "added_at": "2024-03-29 04:17:53",
@@ -207,8 +207,8 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
       },
       "artists": [
         {
@@ -218,7 +218,7 @@
       ],
       "duration_ms": 251424,
       "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -300,7 +300,7 @@
           "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 143669,
+      "duration_ms": 140893,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft"
     },
@@ -748,7 +748,7 @@
           "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
         }
       ],
-      "duration_ms": 187200,
+      "duration_ms": 187433,
       "name": "oops, my bad!",
       "url": "https://open.spotify.com/track/0jz82skw9yHMKVdiq2H0t0"
     },

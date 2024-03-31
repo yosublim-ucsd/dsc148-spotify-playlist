@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633552,
+  "num_followers": 633592,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzEwNmU5ZTc0NDJhYTgxZmE5MzM2M2RjYmQxMjdiOTI3ODA5OGU0",
+  "snapshot_id": "MCw1MjVkMDgyNzk0YzFhODljYWMzMTBkYWY2Y2RhNDMyOWY5ZGFkOTY2",
   "tracks": [
     {
       "added_at": "2024-03-14 04:02:24",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "Stilhed",
-        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
-      },
-      "artists": [
-        {
-          "name": "Alba Lie",
-          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Stilhed",
-      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
         "name": "Silk Under Rain",
         "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 192000,
       "name": "Lively Bluebottle",
       "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Stilhed",
+        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
+      },
+      "artists": [
+        {
+          "name": "Alba Lie",
+          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Stilhed",
+      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
-      },
-      "artists": [
-        {
-          "name": "Night Songs",
-          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
-        }
-      ],
-      "duration_ms": 181318,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
         "name": "From Another View",
         "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 178636,
       "name": "From Another View",
       "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
+      },
+      "artists": [
+        {
+          "name": "Night Songs",
+          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
-      },
-      "artists": [
-        {
-          "name": "Gabby Laurent",
-          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 134210,
       "name": "We Are Forever",
       "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
-      },
-      "artists": [
-        {
-          "name": "Miguel Serugetti",
-          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
-        }
-      ],
-      "duration_ms": 145768,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
         "name": "Evanescenza",
         "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186601,
       "name": "Libero",
       "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
+      },
+      "artists": [
+        {
+          "name": "Miguel Serugetti",
+          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
+        }
+      ],
+      "duration_ms": 145768,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
     },
     {
       "added_at": "2024-03-14 04:02:24",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-03-14 04:02:24",
       "album": {
+        "name": "Kadunud Taevasse",
+        "url": "https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA"
+      },
+      "artists": [
+        {
+          "name": "Kikolu",
+          "url": "https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Kadunud Taevasse",
+      "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"
+    },
+    {
+      "added_at": "2024-03-14 04:02:24",
+      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
-    },
-    {
-      "added_at": "2024-03-14 04:02:24",
-      "album": {
-        "name": "Purity 432hz",
-        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Purity 432hz",
-      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
     }
   ],
   "unique_name": "DayDreamer",

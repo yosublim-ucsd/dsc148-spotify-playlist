@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 135004,
+  "2024-03-31": 135077,
   "date_first_scraped": "2024-03-10",
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
   "name": "This Is Kacey Musgraves",
@@ -541,7 +541,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Jade Green",
       "url": "https://open.spotify.com/track/6TAWZcOSkPouh9Tusxv0On"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 189826,
       "name": "Moving Out",
       "url": "https://open.spotify.com/track/1LwT9Pou0rRCXPpXVWy5iA"

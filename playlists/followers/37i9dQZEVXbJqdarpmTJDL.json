@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 106056,
+  "2024-03-31": 106127,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -521,6 +521,28 @@
       "duration_ms": 147843,
       "name": "4REAL",
       "url": "https://open.spotify.com/track/5ixOp00ehL9E3OdEBpkJiz"
+    },
+    {
+      "album": {
+        "name": "50K",
+        "url": "https://open.spotify.com/album/39e7WdJBg7X3eF8FBwi4qR"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156129,
+      "name": "50\u039a",
+      "url": "https://open.spotify.com/track/3CX4BBi2XmAi6mPduZCCy2"
     },
     {
       "album": {
@@ -7871,7 +7893,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 160146,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/78OyiEbWmcxWGWyNVUugAY"
@@ -10863,7 +10885,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 204950,
       "name": "G63",
       "url": "https://open.spotify.com/track/0fxSLGBSsetmHSO98Xm0Km"
@@ -13087,6 +13109,24 @@
       "duration_ms": 170909,
       "name": "Idrogeios",
       "url": "https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh"
+    },
+    {
+      "album": {
+        "name": "Mia Kaseta Gia Ton Dromo",
+        "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
+      },
+      "artists": [
+        {
+          "name": "Marina Spanou",
+          "url": "https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304674,
+      "name": "Ikaria",
+      "url": "https://open.spotify.com/track/0Od1JTAg6xoTl5cQZozNLG"
     },
     {
       "album": {
@@ -18811,6 +18851,24 @@
       "duration_ms": 166000,
       "name": "MHB",
       "url": "https://open.spotify.com/track/5RUaVfg9K8BxadxIIg1k8C"
+    },
+    {
+      "album": {
+        "name": "Mhn Metras Lefta",
+        "url": "https://open.spotify.com/album/11CFLOuI4KWqtZvyz02je8"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140723,
+      "name": "Mhn Metras Lefta",
+      "url": "https://open.spotify.com/track/4bou8NIBgZGzNbLahuZ9W4"
     },
     {
       "album": {
@@ -25905,7 +25963,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 216064,
       "name": "Selini",
       "url": "https://open.spotify.com/track/6gI4OPdbaH3CLdLTPda6HR"
@@ -26879,7 +26937,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170322,
       "name": "SOS",
       "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
@@ -28213,6 +28271,24 @@
       "duration_ms": 158400,
       "name": "Tavani",
       "url": "https://open.spotify.com/track/5YNqOSquzP1y1sC0F5nnpS"
+    },
+    {
+      "album": {
+        "name": "Mia Kaseta Gia Ton Dromo",
+        "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
+      },
+      "artists": [
+        {
+          "name": "Marina Spanou",
+          "url": "https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292478,
+      "name": "Taxidi",
+      "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
     },
     {
       "album": {

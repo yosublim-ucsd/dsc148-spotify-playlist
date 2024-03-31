@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-933 songs - 2 day 2 hr 40 min
+934 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Black & Blue](https://open.spotify.com/track/1Y59TyltHoDl4YK2R3nCRm) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/6UEjnGUIcJjL2uBZJGD3tt) | 3:11 | 2019-10-13 | 2020-10-21 |
 | [Black Converse](https://open.spotify.com/track/0NbDnRbBxUaT27CTgmraSG) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Black Converse](https://open.spotify.com/album/5veCdVBHBm0jt5SeNq52ql) | 3:06 | 2020-06-12 | 2022-07-29 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-28 |  |
+| [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-03-28 |  |
 | [Blame](https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Blame](https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p) | 4:11 | 2020-07-20 | 2022-04-19 |
 | [Blasé](https://open.spotify.com/track/0W4V1dUFZN5em1PFlicLOq) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Blasé](https://open.spotify.com/album/48EW6ra2spj2LLPUfMpYQx) | 3:30 | 2019-06-23 | 2019-08-27 |
 | [Bleed Out](https://open.spotify.com/track/1b0NxKjbbFKn1GvW2CDNZ0) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Bleed Out](https://open.spotify.com/album/2uNJn7yVZgo6wyxznjw6Kr) | 3:26 | 2019-06-09 | 2020-01-04 |
@@ -833,7 +834,7 @@
 | [Thru These Tears](https://open.spotify.com/track/4gB61mP4tNChn4LgfquMhi) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Thru These Tears](https://open.spotify.com/album/66Jli9l9UHCoiumUK85Y5z) | 3:24 | 2019-05-25\* | 2019-06-15 |
 | [Thursday](https://open.spotify.com/track/77nXj2IoswHUcgwh0tw83O) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Thursday](https://open.spotify.com/album/1nVObfP6mIY7aFKu61Po2S) | 3:36 | 2019-05-25\* | 2019-10-04 |
 | [Til I Don't](https://open.spotify.com/track/6TSlbHp7Vx4wZ0Rqciwn5v) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Til I Don't](https://open.spotify.com/album/7qou5grVdmCP3cLqIZPQbr) | 2:06 | 2019-06-06 | 2020-04-22 |
-| [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-09 |  |
+| [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-09 | 2024-03-31 |
 | [Till I Found You](https://open.spotify.com/track/2NsJh6vFQlruTkdm7LdUCB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/5KVxsbJLeA5aleN7LCWmUu) | 4:00 | 2019-05-27 | 2019-10-25 |
 | [Tissues](https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Tissues](https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa) | 2:33 | 2020-10-23 | 2022-04-19 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-24 | 2021-12-21 |

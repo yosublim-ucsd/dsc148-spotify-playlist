@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 184814,
+  "2024-03-31": 185644,
   "date_first_scraped": "2023-12-22",
   "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: Salastkbron.",
   "name": "RKT  & Turreo",
@@ -671,6 +671,36 @@
       "duration_ms": 210012,
       "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
       "url": "https://open.spotify.com/track/6bAxW5fCFc4mfe8otIxWf9"
+    },
+    {
+      "album": {
+        "name": "CUERNU",
+        "url": "https://open.spotify.com/album/3TM87zF5SD4ThqHEahBLeo"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "CUERNU",
+      "url": "https://open.spotify.com/track/5OnIsAuSlx5JwMkr6Weclo"
     },
     {
       "album": {
@@ -2502,6 +2532,52 @@
     },
     {
       "album": {
+        "name": "RKT Volumen 7",
+        "url": "https://open.spotify.com/album/21CiZzXLIouz58u0mX8fM5"
+      },
+      "artists": [
+        {
+          "name": "Cotto Rng",
+          "url": "https://open.spotify.com/artist/1zBDgn3DfQ8GhgXL1z7ege"
+        },
+        {
+          "name": "El Rossani",
+          "url": "https://open.spotify.com/artist/7gVtLMiNJYZuvnG9yEaWFS"
+        },
+        {
+          "name": "Lalito Aimar",
+          "url": "https://open.spotify.com/artist/0cuYuVmuGLzci1iagOtAhS"
+        },
+        {
+          "name": "Panky",
+          "url": "https://open.spotify.com/artist/1RlfOdeLlV4eyMVJYf62g1"
+        },
+        {
+          "name": "Alan Torres",
+          "url": "https://open.spotify.com/artist/0WhAfHGmEi2lPelrfzXFh5"
+        },
+        {
+          "name": "Nicky HG",
+          "url": "https://open.spotify.com/artist/3WuT97GyuB1SFfj5By4Jef"
+        },
+        {
+          "name": "PACOREMIX",
+          "url": "https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju"
+        },
+        {
+          "name": "Geezy",
+          "url": "https://open.spotify.com/artist/7Eq246AzaLsTH0wC4cD0cY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312262,
+      "name": "RKT Volumen 7",
+      "url": "https://open.spotify.com/track/0XIMM6eubc1oZecm5YSRR1"
+    },
+    {
+      "album": {
         "name": "Rkteando (Remix)",
         "url": "https://open.spotify.com/album/0LoqDW1bluEMJkmbIwIgi2"
       },
@@ -3357,6 +3433,28 @@
       "duration_ms": 160750,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"
+    },
+    {
+      "album": {
+        "name": "Un Perreo Hp",
+        "url": "https://open.spotify.com/album/50hDjmNqHxWqMv0sYIlge5"
+      },
+      "artists": [
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        },
+        {
+          "name": "El Mendo",
+          "url": "https://open.spotify.com/artist/1O9xN4vu3BHxoVRDYuFg4c"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Un Perreo Hp",
+      "url": "https://open.spotify.com/track/5ZlHEMgGFSPLf4WtOB1HXf"
     },
     {
       "album": {

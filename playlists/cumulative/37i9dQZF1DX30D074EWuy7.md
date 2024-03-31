@@ -2,9 +2,9 @@
 
 ### [Jazz Italia](https://open.spotify.com/playlist/37i9dQZF1DX30D074EWuy7)
 
-> La playlist del jazz italiano, passato e presente\. Cover: Studio Murena
+> La playlist del jazz italiano, passato e presente\. Cover: 72\-HOUR POST\-FIGHT
 
-450 songs - 1 day 9 hr 33 min
+451 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bianco Natale](https://open.spotify.com/track/2M7VKR0zh7xealAvrQJGWi) | [Johnny Dorelli](https://open.spotify.com/artist/2srKOALVfCQRti28skrHLf) | [L'Incredibile Johnny Dorelli](https://open.spotify.com/album/2W5fipMrDOCFWOxzMCshuV) | 3:19 | 2022-12-05 | 2023-02-01 |
 | [Bighellonando](https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Ora beat!](https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj) | 2:05 | 2024-03-28 |  |
 | [Bitter Liver](https://open.spotify.com/track/6XPJRFUkVcOiEPTzSC9OOM) | [O\-Janà](https://open.spotify.com/artist/68HEx5PvSTxONgfcf929dr), [Alessandra Bossa](https://open.spotify.com/artist/6EJFYMugCyRbZvz3Hf0xwb), [Ludovica Manzo](https://open.spotify.com/artist/2VbqIqfrL4qRE831jAFBHg) | [Animal Mother](https://open.spotify.com/album/0WZMz2HSlri7RFJMzOSvpm) | 3:37 | 2023-09-17 | 2023-12-06 |
-| [Blackbird](https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP) | [Federico Bosio](https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1) | [Blackbird](https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ) | 2:26 | 2023-01-30 |  |
+| [Blackbird](https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP) | [Federico Bosio](https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1) | [Blackbird](https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ) | 2:26 | 2023-01-30 | 2024-03-31 |
 | [Blackbird](https://open.spotify.com/track/4P4WaI1tnvFx8ipOBvsyJl) | [Petra Magoni](https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s), [Ferruccio Spinetti](https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f) | [Musica Nuda](https://open.spotify.com/album/7fm5MAOxNAcS6FjlbFpzM9) | 1:56 | 2023-06-04 | 2023-09-18 |
 | [Blue Room](https://open.spotify.com/track/02U4H3RvIptfhh4xMWtuqo) | [Bo!led](https://open.spotify.com/artist/0K3YAo5FxYuA2ZW2L3Hdzs) | [Different, Us](https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw) | 4:58 | 2022-11-02 | 2022-12-06 |
 | [Blue Tangos](https://open.spotify.com/track/4CTxJoPFfI8okvF8nPdiD6) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [Un gelato al limon \(Dischi D'Oro\)](https://open.spotify.com/album/3iuH9w9SQFXICFswmaoX8y) | 4:08 | 2022-09-30 | 2022-11-03 |
@@ -450,6 +450,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/6kkJlaBYdyFcwCg67hW40t) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Winter Wonderland](https://open.spotify.com/album/5Falr8WxTe6dZOTtWEUIVS) | 2:29 | 2023-12-05 | 2024-03-29 |
 | [Wood](https://open.spotify.com/track/3Fp1Vbc2aFtZJJQXj5hVy8) | [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Joe Sanders](https://open.spotify.com/artist/37FavLKAfuARIuUxBOyyY7) | [Wood](https://open.spotify.com/album/0OJOvZLRv40GWrE49yVic4) | 6:22 | 2023-06-04 | 2023-09-18 |
 | [Yellowblack](https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Yellowblack](https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx) | 2:34 | 2022-11-02 | 2022-12-06 |
+| [You Can't Always Get What You Want](https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX) | [Danilo Rea](https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst) | [Something In Our Way](https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x) | 5:36 | 2024-03-28 |  |
 | [You can't go home again](https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Shades of Chet](https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK) | 7:37 | 2022-11-02 |  |
 | [You Don't Know Me](https://open.spotify.com/track/68Avp2IB7vjTqAgn1BD7At) | [Don Karate](https://open.spotify.com/artist/7G2OCL40IEsfJeX9s9Enrh) | [Space Foresta](https://open.spotify.com/album/2Rnjo88LSJdW73XEevAX9v) | 3:32 | 2023-09-17 | 2023-12-06 |
 | [You Know](https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U) | [Valentina Ranalli](https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [GIACOMO SERINO](https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3), [Cesare Mangiocavallo](https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b), [Giuseppe Romagnoli](https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L) | [Cantare Pieranunzi](https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ) | 4:11 | 2024-03-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 58349,
+  "num_followers": 58351,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjkzOWM3MGU4MWY5OWJiYjFkYjBlNTM3Mzg2MjZjMmEwZGVmZDc4",
+  "snapshot_id": "MCwwY2YxYTBhZjhlNTA0MmI3ZGQ4YTg0Yjk5NjI3YTMwMTYxNTlhOGIy",
   "tracks": [
     {
       "added_at": "2024-03-21 20:47:30",
@@ -1579,26 +1579,18 @@
     {
       "added_at": "2024-03-21 20:47:30",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
+        "name": "Un Mundo Mejor",
+        "url": "https://open.spotify.com/album/6cPNn5JroF9yRPYzBzaJb2"
       },
       "artists": [
         {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        },
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Rotman",
-          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
+      "duration_ms": 280320,
+      "name": "Ama La Vida",
+      "url": "https://open.spotify.com/track/4IPgMUvDX9d0kexYcIHbtt"
     }
   ],
   "unique_name": "Reggae al Sur",

@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 378652,
       "name": "Autumn leaves / What\u2019s New / Moonlight in Vermont - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
       "url": "https://open.spotify.com/track/0hIZZy30wPwAOYUhrDDZC8"
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 151657,
       "name": "Brains Blue",
       "url": "https://open.spotify.com/track/2Go7dnNXHwPhQFhBw6gCEF"
@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 176309,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/5xzyCrwITp40jAf6FrHEbF"
@@ -11338,8 +11338,8 @@
           "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
         },
         {
-          "name": "Andy Frasco",
-          "url": "https://open.spotify.com/artist/19IxcOLeJds0dHL9SpyOvP"
+          "name": "Andy Frasco & the U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
         }
       ],
       "date_added": "2024-03-29",
@@ -13298,7 +13298,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -16514,7 +16514,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 147969,
       "name": "On God (feat. Earl Sweatshirt & Tony Shhnow)",
       "url": "https://open.spotify.com/track/4j25WxLITRGhkYNmdezE8s"
@@ -19034,6 +19034,32 @@
       "duration_ms": 322307,
       "name": "Retina Show - Unreleased Demo",
       "url": "https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3"
+    },
+    {
+      "album": {
+        "name": "John Coltrane Quartet + Stan Getz + Oscar Peterson: Live Dusseldorf 1960 (Live Restauraci\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/3VcGwRasSIkWfFJjADQsIa"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486763,
+      "name": "Rifftide - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/5H77RAVXaLRG4Kl90614O9"
     },
     {
       "album": {
@@ -22828,6 +22854,28 @@
       "duration_ms": 90647,
       "name": "The Cliff Poop Song",
       "url": "https://open.spotify.com/track/0aM3j7Wb80SnNeudqQRGxq"
+    },
+    {
+      "album": {
+        "name": "The Collapse",
+        "url": "https://open.spotify.com/album/5FOCrRdlNFnwcEyQjsaRX8"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "unJUST",
+          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195075,
+      "name": "The Collapse",
+      "url": "https://open.spotify.com/track/53au4mPIzklrghlB2YOHYh"
     },
     {
       "album": {
@@ -26704,7 +26752,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 189475,
       "name": "Years Roll By",
       "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
@@ -26938,10 +26986,32 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 201203,
       "name": "You Know Where You Can Go",
       "url": "https://open.spotify.com/track/0RwL2Cj7Ap2tsLmCEKYsMB"
+    },
+    {
+      "album": {
+        "name": "You Know Where You Can Go",
+        "url": "https://open.spotify.com/album/3Ct3nnHzaX814Tr52L8Chm"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201203,
+      "name": "You Know Where You Can Go",
+      "url": "https://open.spotify.com/track/4ebPTrgAGExF5xWRcQz595"
     },
     {
       "album": {

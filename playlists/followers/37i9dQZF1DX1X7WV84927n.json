@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 355135,
+  "2024-03-31": 355215,
   "date_first_scraped": "2021-12-21",
   "description": "For full-volume lovers, new and recent favorites. Cover: P.O.D.",
   "name": "Hard Rock",
@@ -1502,6 +1502,24 @@
     },
     {
       "album": {
+        "name": "TROUBLE EP",
+        "url": "https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "Chompin' At The Bit",
+      "url": "https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/1laYwMskzwRiLgH7FDDwXB"
       },
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 193552,
       "name": "Closure",
       "url": "https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl"
@@ -1810,6 +1828,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Fuck With Vol. 03",
+        "url": "https://open.spotify.com/album/2toYlqk2zyn0K05lo1S2th"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "Crackhead Ted",
+      "url": "https://open.spotify.com/track/7KcZec7zSgQlYdrGWgiWMM"
+    },
+    {
+      "album": {
         "name": "Crown of Horns",
         "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
       },
@@ -1821,7 +1857,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 345760,
       "name": "Crown of Horns",
       "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
@@ -2888,6 +2924,24 @@
     },
     {
       "album": {
+        "name": "Everything We Lost In The Fire",
+        "url": "https://open.spotify.com/album/0Bw4kF0CoC1XAaUJdaHbQY"
+      },
+      "artists": [
+        {
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179146,
+      "name": "Everything We Lost In The Fire",
+      "url": "https://open.spotify.com/track/32NLJBaveYOK3fO3oTr9vF"
+    },
+    {
+      "album": {
         "name": "Evil World Machine (Extended)",
         "url": "https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI"
       },
@@ -3033,6 +3087,24 @@
       "duration_ms": 216112,
       "name": "Face the Rain (feat. Howard Jones)",
       "url": "https://open.spotify.com/track/4RDppgKH7rWasmPYN8n6Vb"
+    },
+    {
+      "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/5QMNXc1HxyWCB2GZG9qjzO"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165563,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/7cCP9dxTaASXFQD3FoFZWR"
     },
     {
       "album": {
@@ -3506,6 +3578,24 @@
     },
     {
       "album": {
+        "name": "Giant's Despair",
+        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
+    },
+    {
+      "album": {
         "name": "Gimme That Boom",
         "url": "https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF"
       },
@@ -3521,6 +3611,32 @@
       "duration_ms": 193853,
       "name": "Gimme That Boom",
       "url": "https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks"
+    },
+    {
+      "album": {
+        "name": "GIRL$",
+        "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132999,
+      "name": "GIRL$",
+      "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
     },
     {
       "album": {
@@ -3929,7 +4045,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 227678,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6gJw4xzsGKbY3fcgTGQqws"
@@ -4726,6 +4842,28 @@
     },
     {
       "album": {
+        "name": "Incinerator",
+        "url": "https://open.spotify.com/album/6oxVcOp8P3YBQ5AZlA0YwS"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221060,
+      "name": "Incinerator",
+      "url": "https://open.spotify.com/track/3uAdXOqP7pbGh2eCJuGhd1"
+    },
+    {
+      "album": {
         "name": "Into The Midnight Sun",
         "url": "https://open.spotify.com/album/4tV6FOGhLdQHSospIkbDfc"
       },
@@ -4827,7 +4965,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 275739,
       "name": "I\u2019m Alright",
       "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
@@ -5253,6 +5391,24 @@
       "duration_ms": 187609,
       "name": "Leave a Light On (Talk Away The Dark)",
       "url": "https://open.spotify.com/track/0b6fNjbiW4uF0W01GAfRVg"
+    },
+    {
+      "album": {
+        "name": "LEAVE ME ALONE",
+        "url": "https://open.spotify.com/album/4Vg8DFy3xrNpXXPiPremXH"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215796,
+      "name": "LEAVE ME ALONE",
+      "url": "https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s"
     },
     {
       "album": {
@@ -6551,7 +6707,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 218702,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/1ws7FUESrDtRNfyVxL8FfL"
@@ -6641,7 +6797,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183463,
       "name": "No Thanks To You",
       "url": "https://open.spotify.com/track/6HEMkEcIn1b4QMDpMRrNiv"
@@ -7003,10 +7159,32 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 221333,
       "name": "PALEHELL",
       "url": "https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg"
+    },
+    {
+      "album": {
+        "name": "TROPO",
+        "url": "https://open.spotify.com/album/72l55VPnCBNhCMw0HGWlCO"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        },
+        {
+          "name": "Matthew Wright",
+          "url": "https://open.spotify.com/artist/1Ix0phYj2Hm0rtqh74vyoX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218901,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1jNJyQjQJEX8XZ1ZQHtqzf"
     },
     {
       "album": {
@@ -7057,7 +7235,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 235736,
       "name": "Paranoid (Crash & Burn)",
       "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
@@ -10566,6 +10744,28 @@
     },
     {
       "album": {
+        "name": "Vendetta (feat. Johnny 3 Tears)",
+        "url": "https://open.spotify.com/album/2dOrRCGNxuNYKm7XM5vkuX"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Johnny 3 Tears",
+          "url": "https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140894,
+      "name": "Vendetta (feat. Johnny 3 Tears)",
+      "url": "https://open.spotify.com/track/73GVn4g2B1ggfnz0tm5taf"
+    },
+    {
+      "album": {
         "name": "Vengeance",
         "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
       },
@@ -10811,7 +11011,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 166844,
       "name": "Waiting On A Twist Of Fate",
       "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
@@ -10985,7 +11185,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 158175,
       "name": "WARZ0NE",
       "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"

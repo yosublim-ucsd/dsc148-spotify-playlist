@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 489884,
+  "2024-03-31": 489890,
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: GloRilla",
+  "description": "Real Rap. All Pressure. Cover: Sexyy Red",
   "name": "Pressure",
   "tracks": [
     {
@@ -189,7 +189,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 125084,
       "name": "4AM",
       "url": "https://open.spotify.com/track/0myrVcFiLklk8AzVDfn6ru"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 144725,
       "name": "Alright",
       "url": "https://open.spotify.com/track/4SWXfs6S5WgTt8bCNBHFGU"
@@ -1891,6 +1891,24 @@
       "duration_ms": 160421,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0RFOCmzJUIYipUwO1rujrm"
+    },
+    {
+      "album": {
+        "name": "Call Back",
+        "url": "https://open.spotify.com/album/3PMbA9mnH0uJzOHJvnXiyb"
+      },
+      "artists": [
+        {
+          "name": "E Chapo",
+          "url": "https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Call Back",
+      "url": "https://open.spotify.com/track/34n2d9U2uoQVqR0DnHqJTs"
     },
     {
       "album": {
@@ -3571,10 +3589,32 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "FINE AS CAN BE (feat. Latto)",
       "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
+    },
+    {
+      "album": {
+        "name": "Finesse (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192567,
+      "name": "Finesse (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
     },
     {
       "album": {
@@ -4007,6 +4047,24 @@
       "duration_ms": 110098,
       "name": "GEMINI+",
       "url": "https://open.spotify.com/track/51kLCQF2P7yszyBKlZVB85"
+    },
+    {
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "album": {
@@ -5648,6 +5706,24 @@
     },
     {
       "album": {
+        "name": "Laughin To Tha Bank",
+        "url": "https://open.spotify.com/album/5DwzqkLCXlmRtaYnKzj7o6"
+      },
+      "artists": [
+        {
+          "name": "Skylar Blatt",
+          "url": "https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Laughin To Tha Bank",
+      "url": "https://open.spotify.com/track/2Q2rJJOsX8WJk6IjNVnhJB"
+    },
+    {
+      "album": {
         "name": "Leave Her Alone",
         "url": "https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL"
       },
@@ -5751,6 +5827,24 @@
       "duration_ms": 164611,
       "name": "Like You Should (feat. Symba)",
       "url": "https://open.spotify.com/track/1uJnboxCR1HKn8k2L3Wygp"
+    },
+    {
+      "album": {
+        "name": "lines",
+        "url": "https://open.spotify.com/album/5NqNXa3DoYF5yrVIsVktJ3"
+      },
+      "artists": [
+        {
+          "name": "BbyMutha",
+          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190244,
+      "name": "lines",
+      "url": "https://open.spotify.com/track/1pINePQ6yTcKO2JWEAH7Xt"
     },
     {
       "album": {
@@ -6489,7 +6583,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 95916,
       "name": "NENE'S PRAYER",
       "url": "https://open.spotify.com/track/1U84Q9VogHbbfojXkIC65i"
@@ -6627,7 +6721,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 133903,
       "name": "No Hesitation",
       "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
@@ -7767,7 +7861,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 154666,
       "name": "Pressin'",
       "url": "https://open.spotify.com/track/3uW5K2g1A9lT1vqeUPciAs"
@@ -8687,7 +8781,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 139931,
       "name": "Selling",
       "url": "https://open.spotify.com/track/4cQzKnVFTYNmlaJnls9lAL"
@@ -8821,7 +8915,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170523,
       "name": "Sexyy & Conceited",
       "url": "https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h"
@@ -9475,7 +9569,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 151186,
       "name": "Stl Finest",
       "url": "https://open.spotify.com/track/6OQfXKmp07H6P2BCX0xPtc"
@@ -10159,7 +10253,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Throw Dat",
       "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
@@ -10433,7 +10527,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 188853,
       "name": "Turnt (feat. Lola Brooke)",
       "url": "https://open.spotify.com/track/4PUCS0Si8Vxu13mIeoiYMI"
@@ -10593,7 +10687,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 116191,
       "name": "UP, LIT. FREESTYLE",
       "url": "https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU"
@@ -10743,7 +10837,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 144961,
       "name": "Wassup Gway",
       "url": "https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu"

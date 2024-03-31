@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Taeha\(태하\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-319 songs - 19 hr 46 min
+320 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dive](https://open.spotify.com/track/71YHNeT3TMUnV1165mgRbO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4gn113ACCBiiIr6XtCV3Mc) | 3:41 | 2022-05-11 | 2022-07-29 |
 | [Dive in Love](https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Dive in Love](https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7) | 3:39 | 2024-03-29 |  |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2023-05-05 | 2024-03-02 |
+| [Diver](https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI) | 3:10 | 2024-03-29 |  |
 | [Dolls](https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [DOLLS](https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m) | 3:26 | 2022-05-11 |  |
 | [Dreams Come True](https://open.spotify.com/track/3HW8GYMIa1h7LjcOmOKVEg) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [2020](https://open.spotify.com/album/2ivll4rHB5TPCVSrRDYfAo) | 3:54 | 2022-05-11 | 2022-07-20 |
 | [Drive](https://open.spotify.com/track/6Vpnnczqc2LeoWWY2GCKNX) | [TAEYOON](https://open.spotify.com/artist/1O0EK26p53WkTztl4jycst) | [Drive](https://open.spotify.com/album/6Ay26ho43I6fumK6UxFMPl) | 4:32 | 2022-05-11 | 2022-07-26 |
@@ -237,7 +238,7 @@
 | [Scent](https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Scent](https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G) | 3:31 | 2022-07-04 | 2022-08-12 |
 | [Seaside 깊은 밤 깊은 바다](https://open.spotify.com/track/4n7cF3CwbFpW4m3HwS9kEO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/0OK6BqDE5hyHR3zSI2POWr) | 3:42 | 2022-05-11 | 2022-07-26 |
 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 | 2023-05-05 | 2023-06-12 |
-| [SEOUL CITY POP](https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23) | 3:22 | 2023-02-14 |  |
+| [SEOUL CITY POP](https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23) | 3:22 | 2023-02-14 | 2024-03-31 |
 | [SEOUL CITY POP](https://open.spotify.com/track/3CtGzaZ6XGzDDRQi3QbaoC) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/1iGX1LXCxtFyhskgXcx1qs) | 3:22 | 2022-05-11 | 2022-07-29 |
 | [Seven Breeze \(Feat\. Ldy\)](https://open.spotify.com/track/6WHEV4TkWE2XlMC0ZoByoi) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Ldy](https://open.spotify.com/artist/2MAu2oPXgklWH93ogCNEiy) | [New Edition 22](https://open.spotify.com/album/0Wi4E0M5Jy5z8BIMayUByQ) | 3:40 | 2022-05-11 | 2022-07-27 |
 | [SHADE](https://open.spotify.com/track/1w4p96v9sOAQAXbsVH98rs) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 4:16 | 2022-05-11 | 2022-07-29 |

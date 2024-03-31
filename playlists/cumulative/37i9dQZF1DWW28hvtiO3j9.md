@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-119 songs - 8 hr 48 min
+120 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [EMANON](https://open.spotify.com/track/7AxapY0BhgmHATRDhjKsGO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [EMANON](https://open.spotify.com/album/2XEh5k4VOFroU66s4ey93y) | 3:44 | 2022-05-24 | 2022-07-29 |
 | [First Light \- 2018 Remaster](https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:33 | 2022-05-24 |  |
 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [泰葉](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 | 2022-05-24 |  |
+| [FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER](https://open.spotify.com/track/2pzmWqLgCSQDYzGZs0jGsN) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:01 | 2023-03-21 |  |
 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 | 2022-06-28 |  |
 | [GATSBY WOMAN](https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [MUGSHOT](https://open.spotify.com/album/7u2JWvr9mkfzBbK7ZaoMpc) | 4:26 | 2022-05-24 | 2022-07-29 |
 | [Good Bye Boogie Dance](https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Bi・Ki・Ni](https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT) | 4:32 | 2022-05-24 |  |
@@ -109,7 +110,7 @@
 | [堤防](https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9) | [二名敦子](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [Fluorescent Lamp](https://open.spotify.com/album/1QT6NeEA9ipoIlnxFf9MZ4) | 4:24 | 2022-05-24 | 2022-07-27 |
 | [夏と秋のGood\-Luck](https://open.spotify.com/track/2mYULlDHrU6okgNls8rIBM) | [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [Thanks Giving](https://open.spotify.com/album/75dMYkPm0XQZkvtaBXxGmO) | 4:39 | 2022-05-24 | 2022-07-29 |
 | [思い出のビーチクラブ](https://open.spotify.com/track/6ynyyNv3m9ghqePgtDUQCE) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一 meets 林哲司](https://open.spotify.com/album/7AVLTM7be4utQhJ3yPBc89) | 4:37 | 2022-05-24 |  |
-| [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 | 2022-05-24 |  |
+| [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 | 2022-05-24 | 2024-03-31 |
 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 | 2022-06-28 |  |
 | [指切り](https://open.spotify.com/track/4cqT8OWWECOOKV4VZELuPs) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [大瀧詠一 乗合馬車\(Omnibus\) 50th Anniversary Edition](https://open.spotify.com/album/1uUVkfscVqO6dvHEmURoLp) | 3:36 | 2023-03-21 |  |
 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 | 2022-05-24 |  |

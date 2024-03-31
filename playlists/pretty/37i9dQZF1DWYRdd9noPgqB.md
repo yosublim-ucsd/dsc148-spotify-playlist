@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,147 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,182 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 33 | [Happy Customers](https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Happy Customers](https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ) | 2:50 |
 | 34 | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo) | 2:48 |
 | 35 | [Lost](https://open.spotify.com/track/6dElM6tD7hW95f8hCzKSeJ) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Lost](https://open.spotify.com/album/3aiDdnlHp7GrgKzHIgc3ES) | 3:20 |
-| 36 | [Time Flies When You're Having Fun](https://open.spotify.com/track/09ezRBFOwVroGhwKry8SvI) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Time Flies When You're Having Fun](https://open.spotify.com/album/2EyVmooUGFRDpI5mhvs2s6) | 3:22 |
+| 36 | [Time Flies When You're Having Fun](https://open.spotify.com/track/0Q2uKnI1v4jhTjiDVaheYV) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [What's For Breakfast?](https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3) | 3:22 |
 | 37 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 |
 | 38 | [Maybe Baby](https://open.spotify.com/track/6w3nZgt5eYg5tOpwXmLyuz) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Maybe Baby](https://open.spotify.com/album/72C5pRIvcloHfiMRr8ywlt) | 2:57 |
 | 39 | [SUMMER 21](https://open.spotify.com/track/5FiRKL2YYGehgUSKLr7Os9) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [OK ROMANCE!](https://open.spotify.com/album/65bfZ2eHCyx6LWcWlqbaMD) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Under Water / In Air](https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Under Water / In Air](https://open.spotify.com/album/3XvwFrw03TCLjWLeBonhDy) | 3:09 |
 | 50 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 |
 
-Snapshot ID: `MCw0ZjZlNjdhNTI5NGU5NjMzNjE2NzZjODdkNDk5YTY4ZTQyZTg0N2M3`
+Snapshot ID: `MCxiY2Q4NjBiY2Q3ODg3MGNjMmZmNmJiNTdjYWE5YzUxOTQ5NGEyYTgw`

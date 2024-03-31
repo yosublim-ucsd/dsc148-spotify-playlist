@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 334463,
+  "num_followers": 334535,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjZjMmFjYjNkYTRhNDdjOGQ1MjViZTQ5Y2U3YzdhMWQyMjgzZWIy",
+  "snapshot_id": "MCxiZGUwMWY1MWUzODk3Mzg2NGRlNDk3OTQ1ZjVkODJiYTk0OWY1OTFi",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 352357,
-      "name": "Angel's Flight",
-      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 352357,
+      "name": "Angel's Flight",
+      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -829,24 +829,20 @@
       "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2022-09-30 02:45:34",
       "album": {
-        "name": "Night Owl",
-        "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
       },
       "artists": [
         {
-          "name": "Cihangir Aslan",
-          "url": "https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD"
-        },
-        {
-          "name": "Dilan Balkay",
-          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 376082,
-      "name": "Night Owl",
-      "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+      "duration_ms": 1622575,
+      "name": "Briefly",
+      "url": "https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf"
     }
   ],
   "unique_name": "Deep Listening",

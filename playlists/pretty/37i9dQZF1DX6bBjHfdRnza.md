@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Selena Faider\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,229 likes - 86 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,306 likes - 86 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 85 | [Je Préfère Ça](https://open.spotify.com/track/6EFCqqmQPbfPTiGaTX2o8r) | [Marine Neuilly](https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw) | [Je Préfère Ça](https://open.spotify.com/album/3bQniI8gmo3higCnIQ3MYe) | 3:17 |
 | 86 | [Straight from the Underground](https://open.spotify.com/track/3aChvUQ1AxLrRZM43C1DQm) | [Løne Døg](https://open.spotify.com/artist/5M4CIxy6u5hKcneJxiQQJ7) | [Straight from the Underground](https://open.spotify.com/album/4obZu6Ej9zpn6P2DsTyFpd) | 4:18 |
 
-Snapshot ID: `MCxlNTUyYTk1NTg0NWQxMDllNDgzODk4MDA3ZjI5MTEwZGRmMmJiMDJh`
+Snapshot ID: `MCw5MDA0MzUwMTY5NDA5NzZjNzVkZGI4Njc5YzEzODJmZTQ3ZmM5MGFi`

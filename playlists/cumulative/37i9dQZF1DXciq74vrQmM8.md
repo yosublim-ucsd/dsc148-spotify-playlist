@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. DeathByRomy
 
-782 songs - 1 day 13 hr 15 min
+783 songs - 1 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Archon](https://open.spotify.com/track/6fMWYAVmr6SVyt6vsxetYF) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Archon](https://open.spotify.com/album/28f8Dn5kYQQKmUoJx74V0Y) | 2:56 | 2021-12-27 | 2022-01-19 |
 | [Arguments](https://open.spotify.com/track/0mTWdpD4Q88OA9KWxzgb2K) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Arguments](https://open.spotify.com/album/09isQOmWP3x8pc9dmlKR8I) | 3:09 | 2021-12-27 | 2022-02-04 |
 | [arsonists](https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [arsonists](https://open.spotify.com/album/4UWjGBet8X9qC1geA1U8zw) | 2:30 | 2022-10-13 | 2023-01-22 |
-| [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-16 |  |
+| [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-16 | 2024-03-31 |
+| [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 | 2024-03-29 |  |
 | [atoms](https://open.spotify.com/track/139vV5MsZSsOgzz0CU6Mgk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [hawthorne81 / atoms](https://open.spotify.com/album/38bkGByEc2erGS7XcApFgV) | 2:48 | 2023-07-20 | 2023-07-28 |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-04 | 2022-09-09 |
 | [ATTENTION!](https://open.spotify.com/track/6FvXNGZN8gpOx2de9wSQ4X) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [PULLBACK](https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF) | 2:41 | 2022-12-16 | 2023-03-10 |

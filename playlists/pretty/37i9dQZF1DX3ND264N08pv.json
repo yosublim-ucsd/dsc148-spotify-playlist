@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 71848,
+  "num_followers": 71884,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTY1NGYxNWY2Mzk0MGM5NGI1ZTRlMWJhMjQ4OWEyOWM1ZmI2ZGVm",
+  "snapshot_id": "MCwyMzEwZGU3ODBhNTgwN2JjMDNlNDViMjVhZjVlYTc3MjI5MzdiNWQ4",
   "tracks": [
     {
       "added_at": "2024-03-26 15:23:23",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Welcome To My Nightmare",
         "url": "https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 207157,
       "name": "Welcome To My Nightmare",
       "url": "https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "We Roar Special",
-        "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        },
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Like An Animal - Jur Terreur Remix",
-      "url": "https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 217411,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "We Roar Special",
+        "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Like An Animal - Jur Terreur Remix",
+      "url": "https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "The Boogeyman",
         "url": "https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP"
       },
@@ -1319,38 +1335,18 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
       },
       "artists": [
         {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
         }
       ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
-        "name": "Adrenaline (Never Surrender Remix)",
-        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
-      },
-      "artists": [
-        {
-          "name": "Neophyte Records All Stars",
-          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Adrenaline - Never Surrender Remix",
-      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+        "name": "Adrenaline (Never Surrender Remix)",
+        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
       "artists": [
         {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+          "name": "Neophyte Records All Stars",
+          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+      "duration_ms": 167996,
+      "name": "Adrenaline - Never Surrender Remix",
+      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn"
-      },
-      "artists": [
-        {
-          "name": "Noctyz",
-          "url": "https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh"
-        }
-      ],
-      "duration_ms": 169512,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Wake Up Now",
         "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 202678,
       "name": "Wake Up Now",
       "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn"
+      },
+      "artists": [
+        {
+          "name": "Noctyz",
+          "url": "https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh"
+        }
+      ],
+      "duration_ms": 169512,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
     },
     {
       "added_at": "2024-03-26 15:23:23",

@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 394768,
+  "num_followers": 394883,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzlkZDc4ZWFjYmVkMTBlNGZlYTc2ZGE2ZGU0Nzk5MzQzNjUzYWM5",
+  "snapshot_id": "MCxhMGNiN2UyMGJmMTkxMWFjYjFmOGZhNzI0OWFiNWEwNmI1NzBmNTkx",
   "tracks": [
     {
       "added_at": "2024-03-28 16:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-03-28 16:00:00",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/2nrh9MzGMJVt705Q3G47V7"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        }
-      ],
-      "duration_ms": 150962,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue"
-    },
-    {
-      "added_at": "2024-03-28 16:00:00",
-      "album": {
         "name": "Thank You [Not So Bad]",
         "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 197963,
       "name": "Thank You [Not So Bad]",
       "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
+    },
+    {
+      "added_at": "2024-03-28 16:00:00",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/2nrh9MzGMJVt705Q3G47V7"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        }
+      ],
+      "duration_ms": 150962,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue"
     },
     {
       "added_at": "2024-03-28 16:00:00",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2024-03-28 16:00:00",
       "album": {
-        "name": "Let Me Hold You (Turn Me On)",
-        "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "Anton Powers",
+          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
         },
         {
-          "name": "Dante Klein",
-          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
         }
       ],
-      "duration_ms": 162425,
-      "name": "Let Me Hold You (Turn Me On)",
-      "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
+      "duration_ms": 168991,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
     }
   ],
   "unique_name": "EDM Samplings",

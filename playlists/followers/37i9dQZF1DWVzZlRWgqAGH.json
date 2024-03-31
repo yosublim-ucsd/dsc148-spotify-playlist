@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 805026,
+  "2024-03-31": 805099,
   "date_first_scraped": "2019-09-29",
   "description": "Smooth joints. Cover: Khruangbin",
   "name": "BUTTER",
@@ -124,7 +124,7 @@
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 233521,
+      "duration_ms": 227250,
       "name": "16 CARRIAGES",
       "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
     },
@@ -1231,6 +1231,32 @@
       "duration_ms": 209454,
       "name": "Andar Y Volar",
       "url": "https://open.spotify.com/track/7CAAUNako7iZChpFkBJj8B"
+    },
+    {
+      "album": {
+        "name": "Angela",
+        "url": "https://open.spotify.com/album/1XyGvGvrTfxboCatcdf3tA"
+      },
+      "artists": [
+        {
+          "name": "Shabazz Palaces",
+          "url": "https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m"
+        },
+        {
+          "name": "Stas THEE Boss",
+          "url": "https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV"
+        },
+        {
+          "name": "Irene Barber",
+          "url": "https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181604,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx"
     },
     {
       "album": {
@@ -3856,6 +3882,32 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/0TOJO823upXQeMIpT4GgZV"
+      },
+      "artists": [
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168244,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam"
+    },
+    {
+      "album": {
         "name": "Certainty Of Life",
         "url": "https://open.spotify.com/album/0B1fNP1D29XkjFIyr5c1xB"
       },
@@ -6365,7 +6417,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170479,
       "name": "Everything\u2019s Beautiful",
       "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
@@ -10555,7 +10607,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 288426,
       "name": "Idol Eyes",
       "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
@@ -11232,6 +11284,28 @@
     },
     {
       "album": {
+        "name": "Keepin' It Kool",
+        "url": "https://open.spotify.com/album/0Q0b78qSFigP7oulHLChl6"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        },
+        {
+          "name": "Kendra Dias",
+          "url": "https://open.spotify.com/artist/4ntiWr0UeyP1duNqALGosf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325546,
+      "name": "Keepin' It Kool",
+      "url": "https://open.spotify.com/track/05GPOsUWEBKwMnb3EukHpg"
+    },
+    {
+      "album": {
         "name": "Key to Love (Is Understanding)",
         "url": "https://open.spotify.com/album/0UyNc1FaDzkzcBlLsDASJA"
       },
@@ -11495,7 +11569,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 221333,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
@@ -12745,6 +12819,24 @@
       "duration_ms": 201979,
       "name": "Make A Difference",
       "url": "https://open.spotify.com/track/1nR9WBJZhcHbgUZ7yrZ4ym"
+    },
+    {
+      "album": {
+        "name": "Make Friends",
+        "url": "https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248975,
+      "name": "Make Friends - Pocket Size Radio Edit",
+      "url": "https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic"
     },
     {
       "album": {
@@ -15183,7 +15275,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170026,
       "name": "Only Have Eyes 42",
       "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
@@ -18168,6 +18260,32 @@
     },
     {
       "album": {
+        "name": "Slide By",
+        "url": "https://open.spotify.com/album/0cScyZvb9fmDvQ8t58aNJL"
+      },
+      "artists": [
+        {
+          "name": "The WRLDFMS Tony Williams",
+          "url": "https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208475,
+      "name": "Slide By",
+      "url": "https://open.spotify.com/track/6zGzTRlfl5kJabJls1fj1o"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/7CxbZH0zXsRFsGZJpvWdWT"
       },
@@ -19793,7 +19911,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 185371,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"

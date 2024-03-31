@@ -770,10 +770,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 272863,
       "name": "December",
       "url": "https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj"
+    },
+    {
+      "album": {
+        "name": "Hook",
+        "url": "https://open.spotify.com/album/13pDfXPn38t0w7pJiaAfJa"
+      },
+      "artists": [
+        {
+          "name": "Killimanjaro",
+          "url": "https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272863,
+      "name": "December",
+      "url": "https://open.spotify.com/track/33HMjGJbXDKAyslYKKshtG"
     },
     {
       "album": {

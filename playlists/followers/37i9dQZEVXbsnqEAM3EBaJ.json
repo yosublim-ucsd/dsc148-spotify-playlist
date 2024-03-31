@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 0,
+  "2024-03-31": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -1451,6 +1451,24 @@
       "duration_ms": 289786,
       "name": "An Arrow In The Wall",
       "url": "https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU"
+    },
+    {
+      "album": {
+        "name": "Anno Satan\u00e6 (1993 Remastered)",
+        "url": "https://open.spotify.com/album/2Ydzcjt6R77ySwrUDWLvKz"
+      },
+      "artists": [
+        {
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334253,
+      "name": "Ancient Winter Goddess - 1993 Remastered",
+      "url": "https://open.spotify.com/track/5GDML6YUYalodWoxDfnDW4"
     },
     {
       "album": {
@@ -3678,6 +3696,28 @@
     },
     {
       "album": {
+        "name": "Cento Battiti",
+        "url": "https://open.spotify.com/album/3Dj6KCkmZQqTm5OfQ9WI4j"
+      },
+      "artists": [
+        {
+          "name": "Boni",
+          "url": "https://open.spotify.com/artist/3zkIQYaCLFratMNLoHPlKP"
+        },
+        {
+          "name": "Asia",
+          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133652,
+      "name": "Cento Battiti",
+      "url": "https://open.spotify.com/track/510NdoLW88WD1Yo8EyMEvN"
+    },
+    {
+      "album": {
         "name": "Chains",
         "url": "https://open.spotify.com/album/4qF89AmfyY941uXUbWpEfZ"
       },
@@ -5342,6 +5382,28 @@
     },
     {
       "album": {
+        "name": "Evolution (Deluxe)",
+        "url": "https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324436,
+      "name": "Digging In The Dirt",
+      "url": "https://open.spotify.com/track/3ZbWD4SYQB2MQBVkadiUBQ"
+    },
+    {
+      "album": {
         "name": "Digging In The Dirt",
         "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
       },
@@ -5357,7 +5419,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 324436,
       "name": "Digging In The Dirt",
       "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
@@ -5699,6 +5761,24 @@
       "duration_ms": 260571,
       "name": "Doom",
       "url": "https://open.spotify.com/track/7fGPMnxUXxnbP8Rfkn1eea"
+    },
+    {
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "album": {
@@ -6434,6 +6514,24 @@
     },
     {
       "album": {
+        "name": "Emptiness",
+        "url": "https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR"
+    },
+    {
+      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
       },
@@ -6521,9 +6619,35 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "date_added": "2024-03-08",
+      "date_added": "2024-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191123,
+      "name": "En El Muelle De San Blas - LoFi Version 1",
+      "url": "https://open.spotify.com/track/3z6Fq9M5wmeZtSW9BERC3e"
+    },
+    {
+      "album": {
+        "name": "En El Muelle De San Blas (LoFi Version)",
+        "url": "https://open.spotify.com/album/5JJRKVwFdlryO5oLcNelzi"
+      },
+      "artists": [
+        {
+          "name": "LoFi HITS",
+          "url": "https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7"
+        },
+        {
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-30",
       "duration_ms": 211080,
       "name": "En El Muelle De San Blas - LoFi Version 3",
       "url": "https://open.spotify.com/track/10G6oo1cWRUEF1Ib2DYTZo"
@@ -6774,6 +6898,24 @@
     },
     {
       "album": {
+        "name": "Ese Lugar de Ninguna Parte",
+        "url": "https://open.spotify.com/album/5dqPE0OJqJ37nEXMIj1eTI"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232522,
+      "name": "Ese Lugar de Ninguna Parte",
+      "url": "https://open.spotify.com/track/4Ll0B5IkgX3tmuAhNlZD3g"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
       },
@@ -6807,6 +6949,24 @@
       "duration_ms": 380378,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/7x8Q5KxnStV41ygzCQ2qu0"
+    },
+    {
+      "album": {
+        "name": "Hasta La Verdad / Esquemas Juveniles (En Vivo en Teatro Municipal)",
+        "url": "https://open.spotify.com/album/3awhJRhSGf7W1l4hh9NePi"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223967,
+      "name": "Esquemas Juveniles - En Vivo en Teatro Municipal",
+      "url": "https://open.spotify.com/track/216rA2DznHEIi60e9NUG1t"
     },
     {
       "album": {
@@ -7714,6 +7874,24 @@
     },
     {
       "album": {
+        "name": "Friendly Fire: A Cappella + Instrumental",
+        "url": "https://open.spotify.com/album/2JGoWZYDsksSiHcRqbGa3o"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178692,
+      "name": "Friendly Fire (A Cappella)",
+      "url": "https://open.spotify.com/track/5zHpUKsgIVxB7H20nN3Xy8"
+    },
+    {
+      "album": {
         "name": "Holding Onto Yesterday (Live 1976)",
         "url": "https://open.spotify.com/album/6qyoUTpM2MpnuS5l2eoyZd"
       },
@@ -7765,6 +7943,28 @@
       "duration_ms": 313549,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2yZgauFsW3ofMyqpKK7IZy"
+    },
+    {
+      "album": {
+        "name": "GALA Y DAL\u00cd",
+        "url": "https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "GALA Y DAL\u00cd",
+      "url": "https://open.spotify.com/track/2PLAm4ZgIoHJeLTrWHmO7q"
     },
     {
       "album": {
@@ -11552,6 +11752,24 @@
     },
     {
       "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116893,
+      "name": "Just A Feeling",
+      "url": "https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P"
+    },
+    {
+      "album": {
         "name": "Just Be Mine",
         "url": "https://open.spotify.com/album/1EomlwRboXk162AA1B1uVN"
       },
@@ -14870,6 +15088,24 @@
     },
     {
       "album": {
+        "name": "Machine Head (Remix 2024 / Remaster 2024)",
+        "url": "https://open.spotify.com/album/1PYl2uQNd51wwrEVsjEgg1"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241253,
+      "name": "Never Before - 2024 Remix",
+      "url": "https://open.spotify.com/track/3cwWeSvjUz2FGDA9VlPsOW"
+    },
+    {
+      "album": {
         "name": "Never Dawn",
         "url": "https://open.spotify.com/album/3oxrUHGaR7eZ0j5dKpeSAo"
       },
@@ -14971,7 +15207,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 305146,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2PKlwU7fwVIvTDxR5eSZlV"
@@ -18359,6 +18595,24 @@
     {
       "album": {
         "name": "Running",
+        "url": "https://open.spotify.com/album/35sUyESTFCKhW1RQxL4fHZ"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139432,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1jLEqj8aaKZvkqAmXC3mtg"
+    },
+    {
+      "album": {
+        "name": "Running",
         "url": "https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS"
       },
       "artists": [
@@ -18369,7 +18623,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 139432,
       "name": "Running",
       "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
@@ -18625,6 +18879,32 @@
       "duration_ms": 383760,
       "name": "Save Face",
       "url": "https://open.spotify.com/track/6bo9WfTpX4pSsd0HZO8neM"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6fSrFALcpi6N6kvhebSKaA"
+      },
+      "artists": [
+        {
+          "name": "Nemesea",
+          "url": "https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD"
+        },
+        {
+          "name": "Sanne Mieloo",
+          "url": "https://open.spotify.com/artist/5eGYKbeLvSI0bpEzpNgRe3"
+        },
+        {
+          "name": "Charlotte Wessels",
+          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232603,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/2jU82yk8trZmHit4jn4zK1"
     },
     {
       "album": {
@@ -20018,6 +20298,28 @@
     },
     {
       "album": {
+        "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
+        "url": "https://open.spotify.com/album/7w3qjorxngCKNQf9JHySg6"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227082,
+      "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
+      "url": "https://open.spotify.com/track/0YwgEGaV1HnQEAneCah39F"
+    },
+    {
+      "album": {
         "name": "Soy Todo",
         "url": "https://open.spotify.com/album/2rOtemlRB9ZvBIkUAF88D8"
       },
@@ -21019,6 +21321,24 @@
       "duration_ms": 163493,
       "name": "S\u2019old",
       "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
+    },
+    {
+      "album": {
+        "name": "S\u2019old (Acoustic)",
+        "url": "https://open.spotify.com/album/4fO8xivU0iLXNWAeDoqcuk"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159142,
+      "name": "S\u2019old (Acoustic)",
+      "url": "https://open.spotify.com/track/3K3piObEj9QrcJq1kFuhgY"
     },
     {
       "album": {
@@ -23488,6 +23808,24 @@
     },
     {
       "album": {
+        "name": "Sleepers / Translating The Name (Live)",
+        "url": "https://open.spotify.com/album/1YZ7UDGuD8tJdkkhXpChdU"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226005,
+      "name": "Translating The Name - Live",
+      "url": "https://open.spotify.com/track/4XLbTgRVximzSiiUYxCtxW"
+    },
+    {
+      "album": {
         "name": "Tremendo Mujer\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/1bytWwnJDy4iNb2Gp6Zwzt"
       },
@@ -25763,7 +26101,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 369493,
       "name": "Wolves From The Fog - 1993 Remastered",
       "url": "https://open.spotify.com/track/1xXXI8Or7yd63WeR6niRSv"
@@ -26145,6 +26483,24 @@
       "duration_ms": 191470,
       "name": "Z0mbie",
       "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
+    },
+    {
+      "album": {
+        "name": "Zig Zag",
+        "url": "https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254285,
+      "name": "Zig Zag",
+      "url": "https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D"
     },
     {
       "album": {

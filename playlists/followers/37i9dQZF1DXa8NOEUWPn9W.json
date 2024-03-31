@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 1928896,
+  "2024-03-31": 1929068,
   "date_first_scraped": "2021-03-27",
   "description": "House music lives here. United under one roof, featuring Cloonee.",
   "name": "Housewerk",
@@ -2085,6 +2085,24 @@
       "duration_ms": 206250,
       "name": "Bongoloco",
       "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
+    },
+    {
+      "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195365,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
     },
     {
       "album": {
@@ -14191,7 +14209,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 193075,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
@@ -14963,7 +14981,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 166472,
       "name": "That Sound (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
@@ -16887,6 +16905,24 @@
       "duration_ms": 192481,
       "name": "Who Are You? - Chris Lake Remix",
       "url": "https://open.spotify.com/track/7LVEBvmKB5uDTg0CGqDo3p"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "album": {

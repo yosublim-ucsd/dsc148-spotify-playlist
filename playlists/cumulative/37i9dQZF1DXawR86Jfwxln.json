@@ -1872,10 +1872,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 221365,
       "name": "Hey Honey",
       "url": "https://open.spotify.com/track/2li2MJc9kjQwl1DgRpliaJ"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/3dCzqYahPUwARDawtEHtCo"
+      },
+      "artists": [
+        {
+          "name": "Sumbuck",
+          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221365,
+      "name": "Hey Honey",
+      "url": "https://open.spotify.com/track/6NKgPHYRsaqtR8wNGGbNZu"
     },
     {
       "album": {

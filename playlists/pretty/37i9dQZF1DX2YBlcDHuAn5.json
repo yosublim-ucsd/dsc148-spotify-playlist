@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7068,
+  "num_followers": 7076,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGMyZDJhNDgxMDM1YjEzMzBiYTdhNTRkYjcxNzgzNmZiYTBhMTg1",
+  "snapshot_id": "MCxjOTFjYzZhZmZkNjQ5ZjhjMjUyMjFiOTUzOWY2MTU4MzM4NjgzY2Q3",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Saxton",
-          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
-        }
-      ],
-      "duration_ms": 213168,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
       },
       "artists": [
         {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
         }
       ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+      "duration_ms": 213168,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -619,6 +603,22 @@
       "duration_ms": 202906,
       "name": "Even The Bad Ends Badly",
       "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+      },
+      "artists": [
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Alpine Gold",
-        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "It's So Easy",
-      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 191760,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Alpine Gold",
+        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
+      },
+      "artists": [
+        {
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "It's So Easy",
+      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
     },
     {
       "added_at": "2024-03-07 23:00:00",

@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 186562,
       "name": "Better World",
       "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
@@ -14217,6 +14217,24 @@
     },
     {
       "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/1vgL9oPn4HIi62mPSntLBP"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG"
+    },
+    {
+      "album": {
         "name": "Killing Papa",
         "url": "https://open.spotify.com/album/2x1e6uUdxOVT0hcLLRqSL5"
       },
@@ -17957,7 +17975,7 @@
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 339792,
+      "duration_ms": 181251,
       "name": "Motivashun",
       "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
     },
@@ -22154,6 +22172,24 @@
       "duration_ms": 166919,
       "name": "Rasta Man",
       "url": "https://open.spotify.com/track/6voZD5npVSYcPaNOYvmAqk"
+    },
+    {
+      "album": {
+        "name": "Ratata",
+        "url": "https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148446,
+      "name": "Ratata",
+      "url": "https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP"
     },
     {
       "album": {
@@ -27372,7 +27408,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 167163,
       "name": "The Funk You Want",
       "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"

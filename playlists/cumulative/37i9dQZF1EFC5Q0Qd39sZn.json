@@ -9075,6 +9075,24 @@
     },
     {
       "album": {
+        "name": "80's Revival",
+        "url": "https://open.spotify.com/album/4ObiMqIu8DKqplcSB1jpY6"
+      },
+      "artists": [
+        {
+          "name": "The Jagged Edges",
+          "url": "https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296411,
+      "name": "Work Me Down",
+      "url": "https://open.spotify.com/track/2Oign5NCNEgk5OsDyl733V"
+    },
+    {
+      "album": {
         "name": "Heaven On Earth (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
       },

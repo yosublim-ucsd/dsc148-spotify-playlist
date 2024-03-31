@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 208179,
+  "2024-03-31": 208272,
   "date_first_scraped": "2024-01-30",
   "description": "All bad things must come to an end. Listen to the music inspired by Breaking Bad, curated by Vince Gilligan and Thomas Golubi\u0107.",
   "name": "Breaking Bad Official Playlist ",
@@ -813,7 +813,7 @@
     {
       "album": {
         "name": "You & Me",
-        "url": "https://open.spotify.com/album/7GfERejFDqmXppJ5ub2xwV"
+        "url": "https://open.spotify.com/album/1ldF9hxaYcrQvvlIl5E4VY"
       },
       "artists": [
         {
@@ -824,6 +824,24 @@
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/36lXrktAAbTcmAsVP9dcGQ"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/7GfERejFDqmXppJ5ub2xwV"
+      },
+      "artists": [
+        {
+          "name": "The Walkmen",
+          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-30",
       "duration_ms": 242400,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/7HVkq2dNe3VfueG11Jb7qu"

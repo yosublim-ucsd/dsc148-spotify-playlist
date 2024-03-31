@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 150356,
+  "2024-03-31": 150415,
   "date_first_scraped": "2022-01-01",
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
   "name": "Jazz Pop",
@@ -5625,10 +5625,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 247800,
       "name": "Wherever You're Going",
       "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
+    },
+    {
+      "album": {
+        "name": "Stealing Moments",
+        "url": "https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Wherever You're Going",
+      "url": "https://open.spotify.com/track/718bdRzYYMdIyu5FHunumv"
     },
     {
       "album": {

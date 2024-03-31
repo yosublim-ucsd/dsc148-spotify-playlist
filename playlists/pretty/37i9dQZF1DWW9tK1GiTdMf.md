@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ olivia rodrigo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,175 likes - 87 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,190 likes - 87 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 86 | [ALTALENA](https://open.spotify.com/track/5DMuQ5oYNrcIGSEodNJKMU) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [ALTALENA](https://open.spotify.com/album/3TaZgJGHC0w8fHnhrR94Ya) | 2:24 |
 | 87 | [TI HO PORTATO LA LUNA](https://open.spotify.com/track/07xoC8VuSn5ExWMuHsAV6h) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [TI HO PORTATO LA LUNA](https://open.spotify.com/album/7h8cDINcwdo0bzhG35aVMJ) | 2:51 |
 
-Snapshot ID: `MCxmYjU0MzliNmJiYzNmYjY4ZjNjODgyNGRkN2Q2ZjY0NzE4ZWQyZDIy`
+Snapshot ID: `MCxlNzU1NjAwMDFmNzIwZjk5Y2YwOTBmMzg1MjZjNjliZDliMDBiOGIz`

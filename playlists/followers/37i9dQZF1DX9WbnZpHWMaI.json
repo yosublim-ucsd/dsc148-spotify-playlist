@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 78084,
+  "2024-03-31": 78102,
   "date_first_scraped": "2021-12-28",
   "description": "Celebrating women at the centre of innovation in electronic music. Cover: Logic1000",
   "name": "Women of Electronic",
@@ -382,6 +382,24 @@
     },
     {
       "album": {
+        "name": "BOUND",
+        "url": "https://open.spotify.com/album/6WHswKP0Vrp4b5ZXlO5TTV"
+      },
+      "artists": [
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292968,
+      "name": "BOUND",
+      "url": "https://open.spotify.com/track/2ygzmgkDWkxJ3pTlwqpWpj"
+    },
+    {
+      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE"
       },
@@ -667,7 +685,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 200000,
       "name": "Clearly Rushing",
       "url": "https://open.spotify.com/track/6XySYT472SweJ5kSOr3aFC"
@@ -711,6 +729,24 @@
       "duration_ms": 168461,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1uFRgQcbquXq6HuKET5PvT"
+      },
+      "artists": [
+        {
+          "name": "Jesabel",
+          "url": "https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190875,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/53aYQUlqd18aIZRKiI673A"
     },
     {
       "album": {
@@ -1183,7 +1219,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 271698,
       "name": "Find Our Way",
       "url": "https://open.spotify.com/track/0SyrQWyIGUNZIPDNn8WK3L"
@@ -1399,7 +1435,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 272375,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/3SDuW3SeTOynDuL4MRp6vJ"
@@ -1523,6 +1559,24 @@
       "duration_ms": 202668,
       "name": "Freak 2 Freak - Edit",
       "url": "https://open.spotify.com/track/3OS00sfQL5FvcGwJCiUAmM"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7vwmPbiCeBhHkZA5RGjSNY"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ"
     },
     {
       "album": {
@@ -1841,7 +1895,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195800,
       "name": "Happy Ending - A.G Remix",
       "url": "https://open.spotify.com/track/5thHJrZUcgxIuDyOP5A68A"
@@ -2248,6 +2302,24 @@
     },
     {
       "album": {
+        "name": "In a Minute",
+        "url": "https://open.spotify.com/album/4U528FWMuBDHQhUIZPjo9G"
+      },
+      "artists": [
+        {
+          "name": "Madds",
+          "url": "https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "In a Minute",
+      "url": "https://open.spotify.com/track/3ClcSCGqvkUOJCaAf8YNOs"
+    },
+    {
+      "album": {
         "name": "Inner Peace",
         "url": "https://open.spotify.com/album/3rFHUVsBf9FLu9q5yhA6Co"
       },
@@ -2302,6 +2374,24 @@
     },
     {
       "album": {
+        "name": "Intergalactic Sitdown",
+        "url": "https://open.spotify.com/album/3LoFgU9NAEJTOmtfMGLRxh"
+      },
+      "artists": [
+        {
+          "name": "Luzi Tudor",
+          "url": "https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396326,
+      "name": "Intergalactic Sitdown",
+      "url": "https://open.spotify.com/track/4JoCdrZ7cMCTPKAxL1hvNJ"
+    },
+    {
+      "album": {
         "name": "Black Girl Magic",
         "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
       },
@@ -2339,7 +2429,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 182750,
       "name": "It's Quiet Now (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/5XOTppH2h3pd8KKvQ2pGdc"
@@ -2641,7 +2731,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 261290,
       "name": "like u do",
       "url": "https://open.spotify.com/track/6p9RC7tYKlmes8J9O8vCvB"
@@ -2659,7 +2749,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 271538,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/1lGEcInvPd6WnV6q6MScSu"
@@ -3180,6 +3270,24 @@
     },
     {
       "album": {
+        "name": "Outside Of Love",
+        "url": "https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175628,
+      "name": "Outside Of Love",
+      "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
+    },
+    {
+      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
       },
@@ -3372,6 +3480,50 @@
     },
     {
       "album": {
+        "name": "Rave Is The Weapon",
+        "url": "https://open.spotify.com/album/34sqVY63xSSYwizUAjiLTp"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "Rave Is The Weapon",
+      "url": "https://open.spotify.com/track/7kCGuVumIpjWec9aexfCLU"
+    },
+    {
+      "album": {
+        "name": "Reactive EP",
+        "url": "https://open.spotify.com/album/1dupXa0V0bLkWbuRJXZ4ZR"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Monophase (IT)",
+          "url": "https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236606,
+      "name": "Reactive",
+      "url": "https://open.spotify.com/track/5B3WvKA7ga5HTeganKqZdE"
+    },
+    {
+      "album": {
         "name": "Eurostar",
         "url": "https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m"
       },
@@ -3405,7 +3557,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192879,
       "name": "Real Girls",
       "url": "https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy"
@@ -3431,6 +3583,24 @@
       "duration_ms": 173377,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6gWsOhNNpEBBd1jFVa73Re"
+    },
+    {
+      "album": {
+        "name": "Right Spot",
+        "url": "https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170629,
+      "name": "Right Spot",
+      "url": "https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue"
     },
     {
       "album": {
@@ -3499,7 +3669,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 196691,
       "name": "Rudeless",
       "url": "https://open.spotify.com/track/5e6bIB6BGr9Huzj4HlQVFr"
@@ -3899,7 +4069,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 212519,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/35Us9HQPF88aiWQkR3sG3G"
@@ -4293,6 +4463,24 @@
       "duration_ms": 269915,
       "name": "UK Lonely",
       "url": "https://open.spotify.com/track/05kR3vQUekEjBUZ4CKCufh"
+    },
+    {
+      "album": {
+        "name": "Under My Feet",
+        "url": "https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174588,
+      "name": "Under My Feet",
+      "url": "https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y"
     },
     {
       "album": {

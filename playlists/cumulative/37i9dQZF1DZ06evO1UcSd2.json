@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Polvo Rosita",
+        "url": "https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159786,
+      "name": "Polvo Rosita",
+      "url": "https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU"
+    },
+    {
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },

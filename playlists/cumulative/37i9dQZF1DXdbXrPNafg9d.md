@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Nourished by Time
 
-6,778 songs - 16 day 11 hr 46 min
+6,779 songs - 16 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6068,7 +6068,8 @@
 | [Too Much](https://open.spotify.com/track/490lRlhpubu8tW5UXYPwXi) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Weirdo](https://open.spotify.com/album/7vtgIAA5iu6wRHe41XBLDD) | 4:54 | 2020-02-21 | 2020-03-13 |
 | [Too Much of a Good Thing](https://open.spotify.com/track/6cEB2E0KoG5GOVmgKiCX4T) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Too Much of a Good Thing](https://open.spotify.com/album/622d9zAF7RJ36b1Ct6SVbH) | 3:35 | 2019-05-31 | 2019-08-13 |
 | [Too Much, Enough](https://open.spotify.com/track/2gtf7JVXRkAoemQ5sX50Wg) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Too Much, Enough](https://open.spotify.com/album/1H5hOcTX0LxCDJvhuYqx2e) | 4:51 | 2023-07-28 | 2023-09-02 |
-| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-22 |  |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-22 |  |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-22 | 2024-03-31 |
 | [Too Tired](https://open.spotify.com/track/2C06dtfULl3nDonxKgkRJP) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [CIRCLES](https://open.spotify.com/album/1Yt0Y5NkwGlkTxQwtFFZfC) | 3:14 | 2021-05-08 | 2021-06-26 |
 | [Too Yung](https://open.spotify.com/track/2aONFMTxh8uNY9sqaKXqeN) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Listen / Too Yung](https://open.spotify.com/album/7mZLh8sHxYoYIqiyWRPBZN) | 3:02 | 2024-02-23 | 2024-03-23 |
 | [Took A Minute](https://open.spotify.com/track/1yZIxOxRa3ABxddMMdOVPB) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Took A Minute](https://open.spotify.com/album/1P1WBsKVHDabW0o0sDRalP) | 3:13 | 2021-07-04 | 2021-08-07 |

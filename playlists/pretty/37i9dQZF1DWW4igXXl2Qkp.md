@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Anycia
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,812 likes - 76 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,902 likes - 76 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 75 | [LUV IS WAR](https://open.spotify.com/track/3YuAjdW3b72r4Bfu6jYeM1) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [LUV IS WAR](https://open.spotify.com/album/3nJ7UdqlyPf7nzlug8uimo) | 3:14 |
 | 76 | [Last Time Speaking](https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [oksurf](https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 3:01 |
 
-Snapshot ID: `MCw4MDNmYzQ3NmM5NmE2ZDgwOTJjYTdkZjcwNmQyMTBmOTg2OTVhYWMz`
+Snapshot ID: `MCwwZjc3NTAwYzBlNzdmN2E4YzE3OTY5Mjk1MzM3MGRkYjQ2ZDcyZDZj`

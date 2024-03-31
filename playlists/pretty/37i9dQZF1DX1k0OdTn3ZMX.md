@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Alpha Wolf and ICE\-T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,312 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,448 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Zero](https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [A Digital Nowhere](https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev) | 3:29 |
 | 50 | [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 |
 
-Snapshot ID: `MCwzMWE1ZDgxYmRlNWJkNzQ0YzI3YjU0NjU3NWM4NWY4N2ZiMzVkNDBj`
+Snapshot ID: `MCwxYmMwZWNjNWQ4ZTQwYzFlZDMwOWM1YTU5YWYyOTRlNmJiZTBhMjMz`

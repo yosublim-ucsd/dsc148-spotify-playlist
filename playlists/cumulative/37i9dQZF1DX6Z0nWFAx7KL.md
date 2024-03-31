@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-201 songs - 10 hr 6 min
+202 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Close To Me](https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close To Me](https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj) | 4:57 | 2022-12-01 | 2022-12-18 |
 | [Come alive](https://open.spotify.com/track/3hEWU8JfRsKM74EagGviNu) | [Marble & Gold](https://open.spotify.com/artist/2SodjHn7iDJ2ZQeVogqWo7) | [Come alive](https://open.spotify.com/album/56tG12F6kTu2HJZHEslHPZ) | 3:54 | 2023-05-12 | 2023-06-23 |
 | [Come Along](https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Come Along](https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY) | 2:44 | 2022-09-15 | 2023-06-05 |
-| [Crazy](https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL), [Matt Wolff](https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G) | [Crazy](https://open.spotify.com/album/76S7Gh6IMrRFixOxT8mAqC) | 2:26 | 2024-03-19 |  |
+| [Crazy](https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL), [Matt Wolff](https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G) | [Crazy](https://open.spotify.com/album/76S7Gh6IMrRFixOxT8mAqC) | 2:26 | 2024-03-19 | 2024-03-31 |
 | [Crazy](https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Crazy](https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA) | 3:40 | 2022-09-15 | 2024-02-08 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Dancing With Your Ghost](https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL) | 2:42 | 2023-09-28 |  |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-09-15 | 2023-02-15 |
@@ -154,6 +154,7 @@
 | [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 | 2022-09-15 | 2023-06-02 |
 | [Ready For Your Love](https://open.spotify.com/track/2KNGqTAuFjtHnOwMHM2pSW) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Ready For Your Love](https://open.spotify.com/album/7bvIM3qgpX7b252SMdiGpz) | 2:22 | 2023-11-16 |  |
 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 | 2022-09-15 | 2024-02-08 |
+| [Red](https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Red](https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q) | 2:50 | 2024-03-28 |  |
 | [Rest Of My Life](https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Rest Of My Life](https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul) | 2:19 | 2023-05-18 | 2023-11-25 |
 | [Rest of My Life](https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Rest of My Life](https://open.spotify.com/album/3Gq46ztXW7cqnXOmTydi1R) | 2:19 | 2023-12-08 |  |
 | [Rewind](https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Rewind](https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp) | 2:41 | 2023-06-29 | 2023-08-26 |

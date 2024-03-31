@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 179816,
+  "2024-03-31": 179883,
   "date_first_scraped": "2022-05-09",
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
   "name": "00s Pop Rock",
@@ -475,7 +475,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 256600,
       "name": "Ever the Same",
       "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Her Diamonds",
       "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"

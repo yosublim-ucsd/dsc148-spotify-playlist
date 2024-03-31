@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 217965,
+  "num_followers": 218027,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTg0NThlM2VjYjhlMGNkYmZjN2JmYTU4N2QyMWI0MDhhZDc1MmUy",
+  "snapshot_id": "MCxkYzhiMzNkNTVkODYzNmY5YzM0YjVmZTcwN2NkNTUzOTI1YzdmMWQ1",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Tunnel Lights",
-        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 247664,
-      "name": "Tunnel Lights",
-      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Ki moun ou ye",
         "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Tunnel Lights",
+        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 247664,
+      "name": "Tunnel Lights",
+      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 320547,
       "name": "Close",
       "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/1qyW4qDLsCmI8Vj8BY4bu3"
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
       },
       "artists": [
         {
-          "name": "Millie Turner",
-          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 222453,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1U7J6OLQ04AGWgGtj4U9ph"
+      "duration_ms": 208458,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "CLOUD 9",
-        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 208458,
-      "name": "CLOUD 9",
-      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Of Air",
         "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
       },
@@ -647,6 +631,38 @@
       "duration_ms": 188250,
       "name": "Of Air",
       "url": "https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/1qyW4qDLsCmI8Vj8BY4bu3"
+      },
+      "artists": [
+        {
+          "name": "Millie Turner",
+          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1U7J6OLQ04AGWgGtj4U9ph"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -671,22 +687,6 @@
       "duration_ms": 60000,
       "name": "21 Reasons",
       "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "The Metallic Index",
         "url": "https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Da pacem",
-        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
-      },
-      "artists": [
-        {
-          "name": "Mykalle",
-          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Hiding In My Room",
         "url": "https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 256915,
       "name": "Hiding In My Room",
       "url": "https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Da pacem",
+        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
+      },
+      "artists": [
+        {
+          "name": "Mykalle",
+          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Sigillata Luce",
-        "url": "https://open.spotify.com/album/2BQuo5nQfPmd4TD15usjva"
-      },
-      "artists": [
-        {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
-        }
-      ],
-      "duration_ms": 309975,
-      "name": "Inquietum",
-      "url": "https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Little Floating Oracles",
         "url": "https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4"
       },
@@ -1091,18 +1075,34 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "QUANTA 1:11",
-        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
+        "name": "Sigillata Luce",
+        "url": "https://open.spotify.com/album/2BQuo5nQfPmd4TD15usjva"
       },
       "artists": [
         {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
         }
       ],
-      "duration_ms": 396071,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
+      "duration_ms": 309975,
+      "name": "Inquietum",
+      "url": "https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 196891,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+        "name": "QUANTA 1:11",
+        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
       },
       "artists": [
         {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         }
       ],
-      "duration_ms": 196891,
-      "name": "The Fountain",
-      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
+      "duration_ms": 396071,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Karada",
-        "url": "https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk"
-      },
-      "artists": [
-        {
-          "name": "Marina Herlop",
-          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
-        }
-      ],
-      "duration_ms": 278830,
-      "name": "Karada",
-      "url": "https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "See Her",
         "url": "https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho"
       },
@@ -1187,22 +1171,6 @@
       "duration_ms": 180546,
       "name": "See Her",
       "url": "https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "An Ocean",
-        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
-        }
-      ],
-      "duration_ms": 259648,
-      "name": "An Ocean",
-      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1223,6 +1191,38 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Karada",
+        "url": "https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "duration_ms": 278830,
+      "name": "Karada",
+      "url": "https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "An Ocean",
+        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        }
+      ],
+      "duration_ms": 259648,
+      "name": "An Ocean",
+      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "The Disorder of Appearances",
         "url": "https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX"
       },
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "BLUE (feat. Moor Mother)",
-        "url": "https://open.spotify.com/album/6hPd5eE0nlAyW5WmGjbzTY"
+        "name": "Dois Litorais",
+        "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
       },
       "artists": [
         {
-          "name": "R.Y.F.",
-          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
-        },
-        {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+          "name": "Mari\u00e1 Portugal",
+          "url": "https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP"
         }
       ],
-      "duration_ms": 180213,
-      "name": "BLUE (feat. Moor Mother)",
-      "url": "https://open.spotify.com/track/0Wq5LVoXfyPJ1HXqv6bXUW"
+      "duration_ms": 520719,
+      "name": "Dois Litorais",
+      "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
     },
     {
       "added_at": "2024-03-22 00:01:00",

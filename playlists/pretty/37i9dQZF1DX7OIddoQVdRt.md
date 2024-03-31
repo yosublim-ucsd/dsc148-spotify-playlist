@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,436 likes - 88 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,500 likes - 88 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 49 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |
 | 50 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
 | 51 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
-| 52 | [Friend of God \- Live](https://open.spotify.com/track/3crhuOV1LoARTZdukgcr6a) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Alive In South Africa](https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn) | 4:46 |
-| 53 | [You've Been Good To Me \- Live](https://open.spotify.com/track/0GFG2Tr60pn7NHRAsBIe8b) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 9:30 |
+| 52 | [You've Been Good To Me \- Live](https://open.spotify.com/track/0GFG2Tr60pn7NHRAsBIe8b) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 9:30 |
+| 53 | [Friend of God \- Live](https://open.spotify.com/track/3crhuOV1LoARTZdukgcr6a) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Alive In South Africa](https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn) | 4:46 |
 | 54 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |
 | 55 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 56 | [Jesus \(feat\. Le'andria Johnson\)](https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Faith City Music](https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Welcome to Faith City](https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3) | 4:45 |
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 79 | [Lifted Up](https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Lifted Up](https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd) | 4:29 |
 | 80 | [Brother \- Mahogany x IRIS](https://open.spotify.com/track/7KJYN0aBnEOYo7cnvGcDDL) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Brother \(Mahogany x IRIS\)](https://open.spotify.com/album/4iGPiRikSzYNxwPxfvUDxb) | 3:41 |
 | 81 | [Glory / Stranger](https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU) | [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Shannon Sanders](https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI) | [Glory / Stranger](https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT) | 3:30 |
-| 82 | [He Can Handle It \(Radio Edit\) \- Live](https://open.spotify.com/track/68tLwIOp5nOnrHWmVzyr5C) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [He Can Handle It \(Live\)](https://open.spotify.com/album/7GNErp8ltR2S4yb7I0fmvp) | 4:09 |
-| 83 | [Back To Life](https://open.spotify.com/track/3PLh6BC6aaX0E7PALvt0EE) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I) | [Back To Life](https://open.spotify.com/album/0elzbB6iZvy5pY00RWGz8E) | 4:54 |
+| 82 | [Back To Life](https://open.spotify.com/track/3PLh6BC6aaX0E7PALvt0EE) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I) | [Back To Life](https://open.spotify.com/album/0elzbB6iZvy5pY00RWGz8E) | 4:54 |
+| 83 | [He Can Handle It \(Radio Edit\) \- Live](https://open.spotify.com/track/68tLwIOp5nOnrHWmVzyr5C) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [He Can Handle It \(Live\)](https://open.spotify.com/album/7GNErp8ltR2S4yb7I0fmvp) | 4:09 |
 | 84 | [Overflow](https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i), [Roderick Giles & Grace](https://open.spotify.com/artist/5jMr6s2EqsG4U4HQROzA8e) | [Overflow](https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4) | 4:25 |
 | 85 | [Dance](https://open.spotify.com/track/3bJGae8rklq4LMAjXtBE1u) | [Marcus Jordan](https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva) | [Dance](https://open.spotify.com/album/7bUmJWiuHOpRVRdhl6tSPZ) | 3:07 |
 | 86 | [Shout Like You Got It](https://open.spotify.com/track/2mJejlFobZcPFBZPzNnYWl) | [Norman Hutchins](https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh) | [Songs from the Writers Pen](https://open.spotify.com/album/3H3inRie47J7PQ8IWoDOsP) | 4:57 |
 | 87 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 |
 | 88 | [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 |
 
-Snapshot ID: `MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1`
+Snapshot ID: `MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw`

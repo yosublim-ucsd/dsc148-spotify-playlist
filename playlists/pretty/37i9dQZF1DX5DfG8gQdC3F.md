@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Beyoncé, Josh Ross, Sum41, Nelly Furtado and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,560 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,664 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 39 | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
 | 40 | [Follow the Sound of My Voice](https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu) | 5:50 |
 | 41 | [Running Game](https://open.spotify.com/track/2yiKli1cZvAxNjltJDF6xh) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Running Game](https://open.spotify.com/album/68FbO6fzfoAeGsGwBgOqgz) | 2:15 |
-| 42 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:23 |
+| 42 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 |
 | 43 | [To Mexico](https://open.spotify.com/track/4kWwnKEAqyIWFqaSMfmqz5) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Restore](https://open.spotify.com/album/794ZYBeDPe5htmrQCknQs2) | 2:47 |
 | 44 | [Talkin In Screw \(feat\. That Mexican OT\)](https://open.spotify.com/track/33spN2LidBTga7MLg9IQgD) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Talkin In Screw \(feat\. That Mexican OT\)](https://open.spotify.com/album/5PSkPNfuuLjweXMuDt72KA) | 3:41 |
 | 45 | [Human Nature](https://open.spotify.com/track/7q2euBzunDGE9082q4eRV0) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Rufus](https://open.spotify.com/album/1OMJLY7DGl3BdzmG9MEXeA) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Out of the Game](https://open.spotify.com/track/1YEl1kvT23FJYxYvila7Nu) | [Arianna Reid](https://open.spotify.com/artist/2oDxeS4v0TZosWxD6zcihc) | [Out of the Game](https://open.spotify.com/album/5G8UBIwCDTmbCoZOwThB8h) | 2:57 |
 | 100 | [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 |
 
-Snapshot ID: `MCw1M2FmZjY1YmUzMWFiZGYxZWZmNTY3NmM3OGViYzRhYjg2YWNjNGU0`
+Snapshot ID: `MCw3NTlmNjJiZWNjNWZkMzkwMWI1MjRmMDQ0ZTQwNzRjZGE0NzRiODgw`

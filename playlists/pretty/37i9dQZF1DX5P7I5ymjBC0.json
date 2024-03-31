@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 68961,
+  "num_followers": 68979,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjRiMTQ5ZWI0OTA3ZGQ1N2M2NDE4YTg1OWM1MmI0YzY1ZDExNDBj",
+  "snapshot_id": "MCxjM2NjMGFmYjZlYWNmZTc0MjgwNWQ4ZTNkMmUyZDQ0YzBkYTkwNzEz",
   "tracks": [
     {
       "added_at": "2024-03-21 10:51:08",
@@ -359,30 +359,6 @@
     {
       "added_at": "2024-03-21 10:51:08",
       "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
-    },
-    {
-      "added_at": "2024-03-21 10:51:08",
-      "album": {
         "name": "Bandish Bandits (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 158476,
       "name": "Garaj Garaj",
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2024-03-21 10:51:08",
+      "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
       "added_at": "2024-03-21 10:51:08",
@@ -711,18 +711,22 @@
     {
       "added_at": "2024-03-21 10:51:08",
       "album": {
-        "name": "Raghupati",
-        "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
+        "name": "Purvayi",
+        "url": "https://open.spotify.com/album/7y3lqRTl2XEBhTPjemUbRi"
       },
       "artists": [
         {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
         }
       ],
-      "duration_ms": 304250,
-      "name": "Raghupati",
-      "url": "https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6"
+      "duration_ms": 310146,
+      "name": "Purvayi (feat Papon)",
+      "url": "https://open.spotify.com/track/72Aa8UNEYvnirWp8KaiKdp"
     },
     {
       "added_at": "2024-03-21 10:51:08",
@@ -743,22 +747,18 @@
     {
       "added_at": "2024-03-21 10:51:08",
       "album": {
-        "name": "Purvayi",
-        "url": "https://open.spotify.com/album/7y3lqRTl2XEBhTPjemUbRi"
+        "name": "Raghupati",
+        "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
       },
       "artists": [
         {
-          "name": "Midival Punditz",
-          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
-        },
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
         }
       ],
-      "duration_ms": 310146,
-      "name": "Purvayi (feat Papon)",
-      "url": "https://open.spotify.com/track/72Aa8UNEYvnirWp8KaiKdp"
+      "duration_ms": 304250,
+      "name": "Raghupati",
+      "url": "https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6"
     },
     {
       "added_at": "2024-03-21 10:51:08",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-03-21 10:51:08",
       "album": {
-        "name": "Natural Elements (with John McLaughlin)",
-        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
-      },
-      "artists": [
-        {
-          "name": "Shakti",
-          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
-        },
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 347866,
-      "name": "Mind Ecology (with John McLaughlin)",
-      "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
-    },
-    {
-      "added_at": "2024-03-21 10:51:08",
-      "album": {
         "name": "Nirbhay Nirgun (Live)",
         "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 380000,
       "name": "Nirbhay Nirgun (Live)",
       "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
+    },
+    {
+      "added_at": "2024-03-21 10:51:08",
+      "album": {
+        "name": "Natural Elements (with John McLaughlin)",
+        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
+      },
+      "artists": [
+        {
+          "name": "Shakti",
+          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 347866,
+      "name": "Mind Ecology (with John McLaughlin)",
+      "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
     },
     {
       "added_at": "2024-03-21 10:51:08",

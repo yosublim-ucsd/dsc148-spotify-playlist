@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VT8DGNUrB.md) - [plain]
 
 > LATIN MAFIA takes over Fuego! Featuring Tainy, Ghetto Kids, Nsqk & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 35 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 243 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VT8DGNUrB.md) - [plain]
 | 34 | [One Step Closer 1.4 \[2021 Export Wav\] feat\. Panda Bear](https://open.spotify.com/track/2QX2AOmSUydpG1IRK4xVR8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:16 |
 | 35 | [Midnight](https://open.spotify.com/track/4GKk1uNzpxIptBuaY97Dkj) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:54 |
 
-Snapshot ID: `MCwzODkwNWE0NWE3ZTI5Njc3Y2U1ZjVmMDQ4ZjdjZDc1MmE4ODc1MjUz`
+Snapshot ID: `MCwwMjdkMmY5YTEyMDRlNzU4Y2UyNGFkYjliNjJkNTk1MmRmMzY4YzJm`

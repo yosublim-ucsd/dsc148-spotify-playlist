@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Hamilton De Holanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,939 likes - 99 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,045 likes - 99 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [early](https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 3:56 |
 | 99 | [Sun Streak](https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8) | [Adam Ratner](https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K), [David Binney](https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Luca Mendoza](https://open.spotify.com/artist/0MlFh2Z71UaY9oeWx2peKq), [Benjamin Ring](https://open.spotify.com/artist/3p7Y0v6WeIkL3wO2xn2Dv8) | [Sun Streak](https://open.spotify.com/album/0xe3vp3OjTfSdfJvqp3Lc4) | 7:15 |
 
-Snapshot ID: `MCxjZTcwNWM3N2I1MDBmMzY4ZjcxNTRlOWVmYTg1YzVhZGNmZjNlMzU2`
+Snapshot ID: `MCwxOGFhNGE0YWZkMGVhZjUzN2JlMTIwMjQ2YWE1YjcwODUzOGU3NjQ1`

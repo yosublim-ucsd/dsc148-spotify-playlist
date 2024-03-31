@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,006 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,047 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 55 | [Power of the Tribe \(Defqon.1 2024 Anthem\)](https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Power of the Tribe \(Defqon.1 2024 Anthem\)](https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n) | 5:25 |
 | 56 | [Happy Hour](https://open.spotify.com/track/7MIk66NGUsgJVZzEh1LQ4H) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Happy Hour](https://open.spotify.com/album/2wCRVhbcBdev2a3RJIRxQk) | 2:27 |
 | 57 | [Nostalgisch](https://open.spotify.com/track/2PhmPFCCVe4koWrj6JZyF9) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Nostalgisch](https://open.spotify.com/album/7dY4wc3CafEae4OORsT12E) | 2:48 |
-| 58 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:23 |
+| 58 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 |
 | 59 | [Zeg Niks](https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Zeg Niks](https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3) | 3:13 |
 | 60 | [Hoogmoed](https://open.spotify.com/track/4hJFBbX8N9tNcqB326YMEl) | [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Hoogmoed](https://open.spotify.com/album/3YQfxvv26CMF6A9uiu2g01) | 2:40 |
 | 61 | [So Much Love](https://open.spotify.com/track/7I7RRIV7Tv20ABVPUuQD0O) | [Aristoteles](https://open.spotify.com/artist/6jZRXGOQiOFPCHcvDHvhYy) | [So Much Love](https://open.spotify.com/album/4XybOkhSqEyXGdzfkAWL1J) | 3:03 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 92 | [Too Slow](https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Too Slow](https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7) | 2:04 |
 | 93 | [Femboy](https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Femboy](https://open.spotify.com/album/1qzm7lB5pNO6ZFPiIRQ3Mp) | 2:59 |
 
-Snapshot ID: `MCxjMWJmZDk0YjQwMmExN2Y4ZDk0ZDc3ODQ1MWNjMmU1ZGUxZDYyMWY0`
+Snapshot ID: `MCwxM2JlMjczMDA3OTM1YWIzN2NlOWFkZTk0MGI0OGFjNjBhN2UxYTI0`

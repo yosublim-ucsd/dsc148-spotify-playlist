@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 
 > pov, you ask for your Martini shaken...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,260 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,259 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 44 | [Footprints on the Moon](https://open.spotify.com/track/1FR5wm25N11HhaSkcbGwP3) | [Johnny Harris](https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT) | [Movements](https://open.spotify.com/album/6nQgTZlXPkuNhQqPBAl3wJ) | 3:11 |
 | 45 | [Running fast](https://open.spotify.com/track/0wOiCSxhbj4rPmbXQxU2ld) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Feelings](https://open.spotify.com/album/21FhgWtwCOj5SgsPVnTSX2) | 4:26 |
 | 46 | [Cobwebs and Rainbows](https://open.spotify.com/track/0tjoIFhgOdPL8Oepm7ZO2k) | [Dick Walter](https://open.spotify.com/artist/3bhwPW2KAIrtctvKZXmWVN) | [Pure Big Band \- Part 2 / Vocals](https://open.spotify.com/album/6ZzW5gbGwFXl1OgU3sxeBg) | 3:03 |
-| 47 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 |
-| 48 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 |
+| 47 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 |
+| 48 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 |
 | 49 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 |
 | 50 | [Cha tatch ka](https://open.spotify.com/track/6DGAPpaH9L7nWWlxVWpMcu) | [Bernard Estardy](https://open.spotify.com/artist/4Q9cCxYDsJQc4MhC2pQZhm) | [La formule du baron](https://open.spotify.com/album/7w4P7eIRiL8WKalceUxMWK) | 2:27 |
 
-Snapshot ID: `MCw3NjM3NWQ1MGY4NmYwNzAyMWM4OGRlNTY2YjljMGE0ZjUzYjM0MjM0`
+Snapshot ID: `MCw3ZjY5YjY5YTlhN2UxYWNmN2ZkNTBmMDgyN2E1ODU3OWVhNmM4Yjk0`

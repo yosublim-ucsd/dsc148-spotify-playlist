@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,493 likes - 120 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,589 likes - 120 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 79 | [Shoulder to colder](https://open.spotify.com/track/1zzmBoPpnfGKSwEVFLv3c5) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Shoulder to colder](https://open.spotify.com/album/5uertrWYBsmpYV0II5hcO8) | 2:08 |
 | 80 | [93 'Til Infinity \- Instrumental](https://open.spotify.com/track/0VuzA7lyIFn1VzinsOak8J) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'Til Infinity \(The Remixes\)](https://open.spotify.com/album/2G5p3c3YO8l63QfGKSxzBx) | 4:52 |
 | 81 | [Naturally \(Instrumental\)](https://open.spotify.com/track/2BGjr2M2pUdJ8GCAeS1A4A) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:42 |
-| 82 | [DTFT \(Instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Yancey Boys \(Instrumentals\) Produced By Jay Dee Aka J Dilla](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:24 |
+| 82 | [DFTF \(J Dilla instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys \(Instrumentals\)](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:23 |
 | 83 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 |
 | 84 | [Muddy Milk Crates](https://open.spotify.com/track/7kKX5i4VMksreVFcG6BXQH) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Mosaic Mist](https://open.spotify.com/album/6qjWu9w6N2STNKXvJHPllN) | 2:23 |
 | 85 | [Decent](https://open.spotify.com/track/1jA4rvs9CFTqFfZ2GdemOw) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [POSTPARTUM, Vol\. 3](https://open.spotify.com/album/15wILyucaxkhrS9s5yFAV0) | 2:23 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 119 | [landscape 03](https://open.spotify.com/track/3VZp64bbno5bdpxMVhiN92) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Ambrosía](https://open.spotify.com/album/3Gg0OmG9a16ZH0GcfDDBxz) | 1:54 |
 | 120 | [Tunnels](https://open.spotify.com/track/3vups9HViwfaDeYSzvwo7m) | [Garnishes](https://open.spotify.com/artist/23wVhpOrB0Ui8W5avo9f5N) | [Dream Map](https://open.spotify.com/album/5WMVLS6qiTqE21qQ3HxQpS) | 1:43 |
 
-Snapshot ID: `MCw5YWY0NWM2ZGJhNGQyZDZjNzNiYWVlNTUwNGE1ZGIzZGFjYTAxNTcy`
+Snapshot ID: `MCxlNDVjOThiNzU5OTdmMTMwNGNmYmIzZDAzYTNlODIzODRiYzYyMTBl`

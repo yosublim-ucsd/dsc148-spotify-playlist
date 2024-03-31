@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 303049,
+  "num_followers": 303455,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU1NzljN2NjOGQ5YzY3Njc5NDg0NWMxNjBjYmVkNDMzZDhhZTgy",
+  "snapshot_id": "MCxiZGNlMjVjNzg2ZGUyN2M3MjI2MjI2NDcxNmNkOWI0MjExMDg3NTRm",
   "tracks": [
     {
       "added_at": "2024-03-20 20:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
-    },
-    {
-      "added_at": "2024-03-20 20:00:00",
-      "album": {
         "name": "Hare Ram",
         "url": "https://open.spotify.com/album/03dSjOT6fqiQ9HfrjKKgar"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 199727,
       "name": "Hare Ram",
       "url": "https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O"
+    },
+    {
+      "added_at": "2024-03-20 20:00:00",
+      "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
     },
     {
       "added_at": "2024-03-20 20:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
-    },
-    {
-      "added_at": "2024-03-20 20:00:00",
-      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/1r6UqJJNidWeu594zRPySp"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 502969,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE"
+    },
+    {
+      "added_at": "2024-03-20 20:00:00",
+      "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2024-03-20 20:00:00",

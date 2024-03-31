@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 217438,
+  "2024-03-31": 217461,
   "date_first_scraped": "2020-10-13",
   "description": "sparkling, shimmery synth pop \u2728",
   "name": "night pop",
@@ -191,6 +191,24 @@
       "duration_ms": 203066,
       "name": "A Temporary High",
       "url": "https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH"
+    },
+    {
+      "album": {
+        "name": "Accelerator",
+        "url": "https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171705,
+      "name": "Accelerator",
+      "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
     },
     {
       "album": {
@@ -581,7 +599,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
@@ -5250,6 +5268,28 @@
     },
     {
       "album": {
+        "name": "I LUV IT (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "I LUV IT (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
+    },
+    {
+      "album": {
         "name": "I Met Sarah in the Bathroom",
         "url": "https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ"
       },
@@ -5655,7 +5695,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 209787,
       "name": "Into Your Room",
       "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
@@ -6265,6 +6305,24 @@
       "duration_ms": 180959,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32"
+    },
+    {
+      "album": {
+        "name": "LIPS",
+        "url": "https://open.spotify.com/album/58WDcinKOBr7xzCJ2OnO9R"
+      },
+      "artists": [
+        {
+          "name": "MaKenzie",
+          "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "LIPS",
+      "url": "https://open.spotify.com/track/6KWkRbb8Lh2K44MnTxdhuY"
     },
     {
       "album": {
@@ -8083,10 +8141,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 275277,
       "name": "Penthouse in The Sky",
       "url": "https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA"
+    },
+    {
+      "album": {
+        "name": "Emerald Year",
+        "url": "https://open.spotify.com/album/4YrL4gc7GACAqnKomXuvGk"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275277,
+      "name": "Penthouse in the Sky",
+      "url": "https://open.spotify.com/track/6MZn9A9RfDPrJWFVlqJcWX"
     },
     {
       "album": {
@@ -10737,7 +10813,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 206000,
       "name": "touching",
       "url": "https://open.spotify.com/track/7dfQ7YoyqoXuGbojDbWIKG"

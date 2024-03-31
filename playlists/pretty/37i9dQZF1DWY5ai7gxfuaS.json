@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 282123,
+  "num_followers": 282206,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2IxMzNkOGNjYWRhNjg4NjRjODJmY2JkMDE4MDJjZDUwZTA5N2Iy",
+  "snapshot_id": "MCw3ZTMzN2Q3Njc1OTBjZTZkNTcwZTE0NzA2YWU0ZTMyNzY1YzRiMmM0",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/1su4sMJNmHerXssClObphO"
-      },
-      "artists": [
-        {
-          "name": "Hollow",
-          "url": "https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "As They Bloom",
         "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 237259,
       "name": "As They Bloom",
       "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/1su4sMJNmHerXssClObphO"
+      },
+      "artists": [
+        {
+          "name": "Hollow",
+          "url": "https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "From Voodoo to Zen",
+        "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "duration_ms": 289289,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Welcome To Hell (feat. Emmure)",
         "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 161860,
       "name": "Welcome To Hell (feat. Emmure)",
       "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "From Voodoo to Zen",
-        "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
-      },
-      "artists": [
-        {
-          "name": "Tides From Nebula",
-          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
-        }
-      ],
-      "duration_ms": 289289,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Heads Off",
-        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 271943,
-      "name": "Heads Off",
-      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "An Investigation Into Perceived Heaviness",
         "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 235500,
       "name": "Heaviness",
       "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Heads Off",
+        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 271943,
+      "name": "Heads Off",
+      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Plantgazer",
-        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
-      },
-      "artists": [
-        {
-          "name": "Show Me A Dinosaur",
-          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
-        }
-      ],
-      "duration_ms": 576912,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Kosmik",
         "url": "https://open.spotify.com/album/3TyWQxMev9f93qXzTj1N8Z"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 214250,
       "name": "Contact",
       "url": "https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Plantgazer",
+        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
+      },
+      "artists": [
+        {
+          "name": "Show Me A Dinosaur",
+          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
+        }
+      ],
+      "duration_ms": 576912,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
       },
       "artists": [
         {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
         }
       ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
       },
       "artists": [
         {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "On Circles",
-        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
-      },
-      "artists": [
-        {
-          "name": "Caspian",
-          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
-        }
-      ],
-      "duration_ms": 413400,
-      "name": "Wildblood",
-      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "DODGE A BULLET",
         "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "On Circles",
+        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
+      },
+      "artists": [
+        {
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+        }
+      ],
+      "duration_ms": 413400,
+      "name": "Wildblood",
+      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
     },
     {
       "added_at": "2023-12-07 20:09:02",

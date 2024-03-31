@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Joyner Lucas
 
-619 songs - 1 day 9 hr 1 min
+620 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Burning Bush](https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [Kenny Mason](https://open.spotify.com/artist/5NFQr1KZQS9V6SDSrmU0q3) | [Burning Bush](https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB) | 3:31 | 2021-09-03 | 2022-03-18 |
 | [Burning Desire](https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 1:48 | 2023-10-13 |  |
 | [BUZZCUT \(feat\. Danny Brown\)](https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [BUZZCUT \(feat\. Danny Brown\)](https://open.spotify.com/album/71qxIkZvfyFGQKUe9YA0ry) | 3:21 | 2021-09-03 | 2022-03-18 |
+| [Can U Dig That?](https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Can U Dig That?](https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy) | 3:14 | 2024-03-29 |  |
 | [Can You Hear Me Now?](https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Church Clothes 4: Dry Clean Only](https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7) | 3:00 | 2023-02-24 | 2023-05-13 |
 | [Candle of the Devil](https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01) | [Candle of the Devil](https://open.spotify.com/album/4DawXkWA7JwmDoF07SteyI) | 3:14 | 2023-04-07 | 2023-05-06 |
 | [Caravan](https://open.spotify.com/track/4GPEMIgxW5mW9EKn2RKS3L) | [Kipp Stone](https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X) | [HOMME](https://open.spotify.com/album/3hZ2Me5PAzjdSRbUf4nXod) | 4:00 | 2022-04-01 | 2022-06-16 |
@@ -624,7 +625,7 @@
 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 | 2022-05-20 | 2023-04-22 |
 | [Xpensive](https://open.spotify.com/track/57MTexDSwasDyOT7ydwJze) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Incrementum](https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR) | 3:13 | 2022-10-07 | 2022-10-15 |
 | [yankee and the brave](https://open.spotify.com/track/3VBzdriLelfF32j5pvXNdV) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [yankee and the brave \(ep\. 4\)](https://open.spotify.com/album/76XhX21MyQmBWSFeM4sz9j) | 2:26 | 2022-03-25 | 2022-04-19 |
-| [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 | 2023-09-15 |  |
+| [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 | 2023-09-15 | 2024-03-31 |
 | [Young King](https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Young King](https://open.spotify.com/album/5y9QMoOaXExN62vtUI4lTf) | 3:01 | 2021-09-03 | 2022-07-25 |
 | [YUMA](https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [YUMA](https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE) | 2:02 | 2024-01-19 | 2024-03-01 |
 

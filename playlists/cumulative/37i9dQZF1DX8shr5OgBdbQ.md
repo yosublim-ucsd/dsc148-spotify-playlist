@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-93 songs - 4 hr 51 min
+94 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Haul Away the Whale](https://open.spotify.com/track/4LA7dTvssOGgLMthwbkTGX) | [Jimmy Rankin](https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU) | [Moving East](https://open.spotify.com/album/0JoCnLJNYqqClS0WDm32Qt) | 4:22 | 2022-06-29 |  |
 | [High Barbary](https://open.spotify.com/track/6rAO4DLmkQ1Z8YKod6mxdq) | [Storm Weather Shanty Choir](https://open.spotify.com/artist/0okdQDzOszSXXqigrEv6wF) | [A Drop of Nelson\`s Blood](https://open.spotify.com/album/4IsqzRXr5C43qehSkWHfRF) | 3:11 | 2022-03-10 | 2022-07-29 |
 | [High Barbary](https://open.spotify.com/track/6sguMb85rfhr4dUxbxduiN) | [Storm Weather Shanty Choir](https://open.spotify.com/artist/0okdQDzOszSXXqigrEv6wF) | [A Drop of Nelson\`s Blood](https://open.spotify.com/album/0Oe9AaM9QqMoMf63o05qmi) | 3:11 | 2022-06-29 |  |
-| [Hoist the Colours \- Bass Singers Version](https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW) | [Bobby Bass](https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj), [Daniel Brevik](https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7), [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l), [Ebucs](https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ) | [Hoist the Colours \(Bass Singers Version\)](https://open.spotify.com/album/4IhOtHh7kgmYJXLzS0SEzX) | 4:38 | 2023-12-24 |  |
+| [Hoist The Colours](https://open.spotify.com/track/2zdNjnpw2V1DBpx653KK8M) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [Ebucs](https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ), [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l), [Daniel Brevik](https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7), [Davide Dalmonte](https://open.spotify.com/artist/1RSqmcLE8D3i6NTXiCTDfj), [Bobby Bass](https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj) | [The Wellermen](https://open.spotify.com/album/5mp34jvXpdx6dJeagEkMkL) | 4:38 | 2023-12-24 |  |
+| [Hoist the Colours \- Bass Singers Version](https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW) | [Bobby Bass](https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj), [Daniel Brevik](https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7), [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l), [Ebucs](https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ) | [Hoist the Colours \(Bass Singers Version\)](https://open.spotify.com/album/4IhOtHh7kgmYJXLzS0SEzX) | 4:38 | 2023-12-24 | 2024-03-31 |
 | [John Kanackanaka](https://open.spotify.com/track/50SKJ7ghPxA7JN8cP8wl8O) | [The Captain's Beard](https://open.spotify.com/artist/6QtAINH26V0kxbDgJPs0y4) | [Same Ship Different Day](https://open.spotify.com/album/7l23sIXASu6Sy4fSMCY2WI) | 3:15 | 2022-03-10 |  |
 | [Leave Her Johnny](https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [NathanEvanss](https://open.spotify.com/album/4ZUytyO3BGNF2CJRLkSrLS) | 2:02 | 2022-03-10 |  |
 | [Leave Her Johnny](https://open.spotify.com/track/2vaa0nnDnNTlxCh7fCmjsr) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 2:12 | 2022-03-10 |  |

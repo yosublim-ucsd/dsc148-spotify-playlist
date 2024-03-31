@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 56567,
+  "2024-03-31": 56580,
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. DannyLux en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Bzars en portada.",
   "name": "EDM\u00e9xico",
   "tracks": [
     {
@@ -211,6 +211,24 @@
       "duration_ms": 185424,
       "name": "ARRIBA Y ABAJO",
       "url": "https://open.spotify.com/track/76zB4I6Ro70E7NEx2q1v11"
+    },
+    {
+      "album": {
+        "name": "Mr.Pig",
+        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174106,
+      "name": "Asereje",
+      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
     },
     {
       "album": {
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 154687,
       "name": "In You Arms",
       "url": "https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv"
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 164516,
       "name": "Leave It On The Floor",
       "url": "https://open.spotify.com/track/4vNmu3Z3KNJoFF09zCqfZG"
@@ -2717,7 +2735,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 213031,
       "name": "M13D0!!!",
       "url": "https://open.spotify.com/track/3Z9FCYR83E8qPTOp8CPmaO"
@@ -3017,6 +3035,28 @@
       "duration_ms": 274239,
       "name": "Move My Body",
       "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
+    },
+    {
+      "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357703,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
     },
     {
       "album": {
@@ -3668,6 +3708,32 @@
     },
     {
       "album": {
+        "name": "PPP",
+        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Skrapy",
+          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188225,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
+    },
+    {
+      "album": {
         "name": "Prende y Pasa",
         "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
       },
@@ -4153,7 +4219,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 195692,
       "name": "San Junipero (Usb Gad Remix)",
       "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
@@ -4411,7 +4477,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 212280,
       "name": "Sexy Velocity",
       "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
@@ -4961,6 +5027,28 @@
       "duration_ms": 192000,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/6K3KW2SR7QTGRF5q0GLpBP"
+    },
+    {
+      "album": {
+        "name": "Tall White",
+        "url": "https://open.spotify.com/album/5hKuVw8t98yhuhleUBs9qe"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Graze",
+          "url": "https://open.spotify.com/artist/0Lv6sRZpd8OoTtg1doweYx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Tall White",
+      "url": "https://open.spotify.com/track/1sQ3e85Yz7NdtKXhIhldWr"
     },
     {
       "album": {
@@ -5737,6 +5825,28 @@
       "duration_ms": 267724,
       "name": "Yo Te Fui Fiel",
       "url": "https://open.spotify.com/track/0shFNIoAeidEISIbJbiu5Q"
+    },
+    {
+      "album": {
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego e Loony Johnson.",
-  "num_followers": 44621,
+  "num_followers": 44672,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWVmN2JmNTg0YTBhODcxYTE4YTUxMDk1NDE1YzI2NDMxYzhhYmMx",
+  "snapshot_id": "MCxiNDc4NTg1MTEyMWQyYWQ3Nzg4ZjdhZGVhNDk0NTY3NGU3ZGUzOTQ5",
   "tracks": [
     {
       "added_at": "2024-03-29 00:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Nada a Esconder",
         "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 306733,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Tou Leve",
-        "url": "https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od"
-      },
-      "artists": [
-        {
-          "name": "Patrox",
-          "url": "https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy"
-        }
-      ],
-      "duration_ms": 182437,
-      "name": "Tou Leve",
-      "url": "https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "batom rosa",
         "url": "https://open.spotify.com/album/3jiCnCWy1K80ufnrRIyboo"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Tou Leve",
+        "url": "https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od"
+      },
+      "artists": [
+        {
+          "name": "Patrox",
+          "url": "https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy"
+        }
+      ],
+      "duration_ms": 182437,
+      "name": "Tou Leve",
+      "url": "https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "louCura",
         "url": "https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 206553,
       "name": "Cores",
       "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "CINTIA",
+        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
+      },
+      "artists": [
+        {
+          "name": "Cozzy 2x",
+          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
+        }
+      ],
+      "duration_ms": 169376,
+      "name": "CINTIA",
+      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 156620,
       "name": "A MINHA VIDA DEPOIS DE TI",
       "url": "https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "CINTIA",
-        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
-      },
-      "artists": [
-        {
-          "name": "Cozzy 2x",
-          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
-        }
-      ],
-      "duration_ms": 169376,
-      "name": "CINTIA",
-      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
     },
     {
       "added_at": "2024-03-29 00:00:00",

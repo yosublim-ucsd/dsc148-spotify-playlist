@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-154 songs - 6 hr 10 min
+155 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [HIGHBALL PAPI\. \(Speed Jersey\)](https://open.spotify.com/track/6SNNUaB4swasE4hHLdGhu9) | [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3) | [HIGHBALL PAPI\. \(Speed Jersey\)](https://open.spotify.com/album/6Wd9AGxjhW4zDegTwSQP2F) | 2:06 | 2023-09-15 | 2023-11-25 |
 | [IMAGINEI TANTAS COISAS COM VOCÊ](https://open.spotify.com/track/1HYy3x0akcUcwN4Mc6WZ0M) | [W11](https://open.spotify.com/artist/0WP0IRhU9ee3zZ9Q0l8Eon), [Carluz](https://open.spotify.com/artist/6vF4hdayoLWw2cST3oqJHM) | [BACK THEN CYCLE](https://open.spotify.com/album/5CFZdYlnQe5Ece931I0w8R) | 1:28 | 2024-01-26 | 2024-02-03 |
 | [Incomum \(Jersey Club Br\)](https://open.spotify.com/track/2pWtj88cqyaSOLLJLo6xMQ) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [Incomum \(Jersey Club Br\)](https://open.spotify.com/album/2u6C2y7FU6U1AXHgtCchb1) | 1:23 | 2023-11-17 | 2024-01-13 |
+| [Jersey Club](https://open.spotify.com/track/1n0Cd6Edvg300FNVG0YOZu) | [Thyga](https://open.spotify.com/artist/4KHvHE98UibfqArnXYTKH6), [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [É o Vilão](https://open.spotify.com/album/0rZCM5YNEwh69m0c7IurdF) | 2:07 | 2024-03-30 |  |
 | [Jersey Nights](https://open.spotify.com/track/1L693Tdie86mm611bu0WOS) | [$iria](https://open.spotify.com/artist/4WpRxJN3JBWBoQ2mCGjDPY), [Astrokidda](https://open.spotify.com/artist/0Y5oqpX3189rirpALykCE0) | [Jersey Nights](https://open.spotify.com/album/0TJkzLceZgXyZzXi2tJpJJ) | 2:22 | 2023-12-22 | 2024-02-03 |
 | [LATINA](https://open.spotify.com/track/0EFqjnHd4S8ZWOK6EI9ILp) | [The Pierre](https://open.spotify.com/artist/0BFLIdbhRlCYM1PLeVnq3x) | [LATINA / PIQUE ANOS 2000](https://open.spotify.com/album/1YaMoBNNH0yInOc1Z2NDPL) | 2:22 | 2023-09-22 | 2023-09-30 |
 | [Lmk](https://open.spotify.com/track/63sQMngyMJ1WgECbQFcPCB) | [FeisterOG](https://open.spotify.com/artist/49itqok6umAbQyiU5uDRjL) | [Onipresente](https://open.spotify.com/album/0vJrgAeNCFhW10IqzPjwRx) | 2:15 | 2023-09-15 | 2023-09-30 |

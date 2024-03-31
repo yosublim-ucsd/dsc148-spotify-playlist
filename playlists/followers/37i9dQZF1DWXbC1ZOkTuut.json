@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 11368,
+  "2024-03-31": 11394,
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Enigma Norte\u00f1o",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Miguel Cornejo ",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -423,6 +423,28 @@
       "duration_ms": 191193,
       "name": "Angelitos",
       "url": "https://open.spotify.com/track/0fI5ZikwAGf9a9ghvDcXgZ"
+    },
+    {
+      "album": {
+        "name": "Los de Encargo",
+        "url": "https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169125,
+      "name": "Anormal",
+      "url": "https://open.spotify.com/track/6vsIJbmwdb8GwJzNQOBOUd"
     },
     {
       "album": {
@@ -3304,6 +3326,24 @@
     },
     {
       "album": {
+        "name": "Los de Encargo",
+        "url": "https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146875,
+      "name": "La G\u00fcera",
+      "url": "https://open.spotify.com/track/3FSN3yL3fUNw7TV8TGgDo6"
+    },
+    {
+      "album": {
         "name": "1X1",
         "url": "https://open.spotify.com/album/1GsbrXF9wVjtvZR4aP33j5"
       },
@@ -4250,6 +4290,24 @@
     },
     {
       "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "Me Dueles Menos",
+      "url": "https://open.spotify.com/track/3CcQH7ry6WJ5X3ytwyatbf"
+    },
+    {
+      "album": {
         "name": "Perdona (Estudio)",
         "url": "https://open.spotify.com/album/1VqXJXP3g6etYfTeBHWWW0"
       },
@@ -5002,6 +5060,24 @@
     },
     {
       "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "No Mata Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7"
+    },
+    {
+      "album": {
         "name": "Apadrinado",
         "url": "https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn"
       },
@@ -5735,6 +5811,24 @@
       "duration_ms": 212088,
       "name": "Que Bonito!",
       "url": "https://open.spotify.com/track/19iICG6VLZIk42wFfmAIO8"
+    },
+    {
+      "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "Que Dif\u00edcil Mi Caso",
+      "url": "https://open.spotify.com/track/1UPTVhR8nVLkJrkxLsBJBS"
     },
     {
       "album": {
@@ -6775,6 +6869,28 @@
       "duration_ms": 141060,
       "name": "Tuve Que Marcar",
       "url": "https://open.spotify.com/track/2Xo9PICBQWOS5DnemG2IN9"
+    },
+    {
+      "album": {
+        "name": "Los de Encargo",
+        "url": "https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Galvancillo",
+          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "T\u00f3xica B\u00e9lica",
+      "url": "https://open.spotify.com/track/63kUgZIyBKkZtPHrBB1hhB"
     },
     {
       "album": {

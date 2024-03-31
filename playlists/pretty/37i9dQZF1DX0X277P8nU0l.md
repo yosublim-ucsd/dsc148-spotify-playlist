@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,904 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,954 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
 | 50 | [Start Over](https://open.spotify.com/track/0Xxa8lYebLD3EPYUUqfikf) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Start Over](https://open.spotify.com/album/6Lq7GuN8trgDLXgqHBV0VM) | 2:54 |
 
-Snapshot ID: `MCxlNzczZGUwZDNmOTVmMzc1NmI2MWNkZWUxOGYzNGIzODBjMmJkMDg1`
+Snapshot ID: `MCwzYzBiYmFiZDgzMjhiODExMDFmZTNkMWZlOWVjNjY5MmUzZmJiODU2`

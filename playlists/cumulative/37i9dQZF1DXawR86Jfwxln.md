@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Noah Kahan
 
-294 songs - 18 hr 8 min
+295 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Haunted Mountain](https://open.spotify.com/track/30wdssXWFKxYdG5KGZGRT9) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 5:11 | 2023-11-29 |  |
 | [hazelton](https://open.spotify.com/track/7AU4mE70UDz5cWby5fFYeg) | [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [hazeltons](https://open.spotify.com/album/7eeYs74FyKAvOrAxVvO617) | 3:01 | 2023-11-29 |  |
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-11-29 |  |
-| [Hey Honey](https://open.spotify.com/track/2li2MJc9kjQwl1DgRpliaJ) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Lucky](https://open.spotify.com/album/2mj7nC55GrXFOfqJHivuq7) | 3:41 | 2023-11-29 |  |
+| [Hey Honey](https://open.spotify.com/track/2li2MJc9kjQwl1DgRpliaJ) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Lucky](https://open.spotify.com/album/2mj7nC55GrXFOfqJHivuq7) | 3:41 | 2023-11-29 | 2024-03-31 |
+| [Hey Honey](https://open.spotify.com/track/6NKgPHYRsaqtR8wNGGbNZu) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Lucky](https://open.spotify.com/album/3dCzqYahPUwARDawtEHtCo) | 3:41 | 2023-11-29 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-11-29 |  |
 | [Hold On](https://open.spotify.com/track/4DCbE2d7GiobSSBdw6iOHo) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/3Iau9Ga4BERZsTGeSSd7Xs) | 4:51 | 2021-12-01 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 | 2021-12-01 | 2022-12-01 |

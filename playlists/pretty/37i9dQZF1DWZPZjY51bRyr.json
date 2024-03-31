@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 30554,
+  "num_followers": 30606,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzE5ZWIyZTAxZDQ4YWZhMWY2OTI4YWEyNzVmMjU4MzhkNmVkOTU1",
+  "snapshot_id": "MCw5NjIyYTlkZjg1M2NjN2I1NzY1OTk2ZjE1NzJlMzNkYWMxMGYyMjI4",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lotus Garden & Healing Serenade",
-        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
-      },
-      "artists": [
-        {
-          "name": "The Tides",
-          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Healing Serenade",
-      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Voices of Ether",
         "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 147801,
       "name": "Voices of Ether",
       "url": "https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Lotus Garden & Healing Serenade",
+        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
+      },
+      "artists": [
+        {
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Healing Serenade",
+      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "The Banks Of Juru",
-        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
-      },
-      "artists": [
-        {
-          "name": "Yolof Palace",
-          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
-        }
-      ],
-      "duration_ms": 164395,
-      "name": "Let Them Come",
-      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Devotions",
         "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 176666,
       "name": "Devotions",
       "url": "https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "The Banks Of Juru",
+        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
+      },
+      "artists": [
+        {
+          "name": "Yolof Palace",
+          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
+        }
+      ],
+      "duration_ms": 164395,
+      "name": "Let Them Come",
+      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Beyond Thought",
-        "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
-      },
-      "artists": [
-        {
-          "name": "Astral Shade",
-          "url": "https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Beyond Thought",
-      "url": "https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Compassion",
         "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Awakening Gaia",
-        "url": "https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X"
+        "name": "Beyond Thought",
+        "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
       },
       "artists": [
         {
-          "name": "Juno Yang",
-          "url": "https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP"
+          "name": "Astral Shade",
+          "url": "https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m"
         }
       ],
-      "duration_ms": 141874,
-      "name": "Awakening Gaia",
-      "url": "https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU"
+      "duration_ms": 168000,
+      "name": "Beyond Thought",
+      "url": "https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1751,6 +1735,22 @@
       "duration_ms": 146833,
       "name": "Shimmering",
       "url": "https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Awakening Gaia",
+        "url": "https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X"
+      },
+      "artists": [
+        {
+          "name": "Juno Yang",
+          "url": "https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Awakening Gaia",
+      "url": "https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Circle of Life",
-        "url": "https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT"
-      },
-      "artists": [
-        {
-          "name": "Lovisa Gulli",
-          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
-        }
-      ],
-      "duration_ms": 164302,
-      "name": "Circle of Life",
-      "url": "https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "peaceful year calling",
         "url": "https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 188000,
       "name": "peaceful year calling",
       "url": "https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Circle of Life",
+        "url": "https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT"
+      },
+      "artists": [
+        {
+          "name": "Lovisa Gulli",
+          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
+        }
+      ],
+      "duration_ms": 164302,
+      "name": "Circle of Life",
+      "url": "https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Aeonian Hope",
-        "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
-      },
-      "artists": [
-        {
-          "name": "The Peace Within",
-          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Aeonian Hope",
-      "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "A\u00fan",
         "url": "https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 184000,
       "name": "A\u00fan",
       "url": "https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Aeonian Hope",
+        "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
+      },
+      "artists": [
+        {
+          "name": "The Peace Within",
+          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
+        }
+      ],
+      "duration_ms": 202409,
+      "name": "Aeonian Hope",
+      "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Forgiving the Night",
-        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
-      },
-      "artists": [
-        {
-          "name": "Shorenights",
-          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Forgiving the Night",
-      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Testanaadee",
         "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
       },
@@ -2155,6 +2139,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Forgiving the Night",
+        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Forgiving the Night",
+      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Calm Cosmos",
         "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
       },
@@ -2167,6 +2167,22 @@
       "duration_ms": 137250,
       "name": "Calm Cosmos",
       "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2219,22 +2235,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Undertow",
-        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
-      },
-      "artists": [
-        {
-          "name": "Gleework",
-          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Himalayan Breeze",
         "url": "https://open.spotify.com/album/0qwpizBQ8iC6VOLE7jdPTh"
       },
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
-      },
-      "artists": [
-        {
-          "name": "Tonalie",
-          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
-        }
-      ],
-      "duration_ms": 143755,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 144705,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
+      },
+      "artists": [
+        {
+          "name": "Tonalie",
+          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
+        }
+      ],
+      "duration_ms": 143755,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lake Reflections",
-        "url": "https://open.spotify.com/album/1F2pa78FOtgQdl1ni4I77p"
-      },
-      "artists": [
-        {
-          "name": "Glacial Patience",
-          "url": "https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav"
-        }
-      ],
-      "duration_ms": 229411,
-      "name": "Lake Reflections",
-      "url": "https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 162375,
       "name": "Arrivals",
       "url": "https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Lake Reflections",
+        "url": "https://open.spotify.com/album/1F2pa78FOtgQdl1ni4I77p"
+      },
+      "artists": [
+        {
+          "name": "Glacial Patience",
+          "url": "https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav"
+        }
+      ],
+      "duration_ms": 229411,
+      "name": "Lake Reflections",
+      "url": "https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Big Sky",
-        "url": "https://open.spotify.com/album/2eVYfkj9FfLamFXSQB76fe"
-      },
-      "artists": [
-        {
-          "name": "Moderato Aredo",
-          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Big Sky",
-      "url": "https://open.spotify.com/track/1pBLOl4l4pNgejlBywS0jz"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "432 Hz Delta Earth",
         "url": "https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 142422,
       "name": "432 Hz Delta Earth",
       "url": "https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Big Sky",
+        "url": "https://open.spotify.com/album/2eVYfkj9FfLamFXSQB76fe"
+      },
+      "artists": [
+        {
+          "name": "Moderato Aredo",
+          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/1pBLOl4l4pNgejlBywS0jz"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Dream for me",
-        "url": "https://open.spotify.com/album/16xkhJ4gPdifxksHPjsO1a"
-      },
-      "artists": [
-        {
-          "name": "Complete Rest",
-          "url": "https://open.spotify.com/artist/2O9ViMiZbzgVQqngtC9nZ1"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Dream for me",
-      "url": "https://open.spotify.com/track/0Ev8yzzWg7n6WIFeTrup5Q"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Captain Speaking",
         "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 377250,
       "name": "Captain Speaking",
       "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Dream for me",
+        "url": "https://open.spotify.com/album/16xkhJ4gPdifxksHPjsO1a"
+      },
+      "artists": [
+        {
+          "name": "Complete Rest",
+          "url": "https://open.spotify.com/artist/2O9ViMiZbzgVQqngtC9nZ1"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Dream for me",
+      "url": "https://open.spotify.com/track/0Ev8yzzWg7n6WIFeTrup5Q"
     },
     {
       "added_at": "2023-12-15 11:35:26",

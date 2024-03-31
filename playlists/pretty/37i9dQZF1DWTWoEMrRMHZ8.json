@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 346814,
+  "num_followers": 346853,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2ZiODkxNzU1MTc2NDRiYmFhM2YyZDNkOTllYjRjOWNlMWIzZWQ2",
+  "snapshot_id": "MCw4OWFjYWQxYzg2MjRkOWVlNzBiNmIwYjg1NGM4ZDRjZjA5Y2I1ZmJh",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Sonho de Rainha Rei",
         "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
       },
@@ -1195,18 +1211,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+        "name": "\u00c1urea Martins e Jo\u00e3o Senise Celebram Sinatra & Jobim",
+        "url": "https://open.spotify.com/album/0EfJaMIyZdwDmqmQ968t1b"
       },
       "artists": [
         {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+          "name": "\u00c1urea Martins",
+          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
+        },
+        {
+          "name": "Jo\u00e3o Senise",
+          "url": "https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb"
         }
       ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+      "duration_ms": 190773,
+      "name": "Medita\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1231,26 +1251,6 @@
       "duration_ms": 142921,
       "name": "quentinha",
       "url": "https://open.spotify.com/track/0Gvql6QqmLyGWoveIvDjiS"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "\u00c1urea Martins e Jo\u00e3o Senise Celebram Sinatra & Jobim",
-        "url": "https://open.spotify.com/album/0EfJaMIyZdwDmqmQ968t1b"
-      },
-      "artists": [
-        {
-          "name": "\u00c1urea Martins",
-          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
-        },
-        {
-          "name": "Jo\u00e3o Senise",
-          "url": "https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Medita\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
     },
     {
       "added_at": "2024-03-29 03:00:00",

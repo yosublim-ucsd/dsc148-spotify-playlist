@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Laurence Nerbonne",
-  "num_followers": 40101,
+  "num_followers": 40109,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTI0YjE3MGY3NzZlMjBmMjExNmJlOWY5ZjA5ZmY1MWNkMDcxNTkx",
+  "snapshot_id": "MCw2YWU3NzY3MGMxNGFkMTAxMjE5MzE4Y2UxZjQyMjEzMDk2MWI2ZGIx",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "SOLSAD",
-        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Loin d'ici",
-      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Fio Maravilha",
         "url": "https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 188946,
       "name": "Fio Maravilha",
       "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -535,38 +535,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Clique",
-        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
-      },
-      "artists": [
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        }
-      ],
-      "duration_ms": 181974,
-      "name": "Clique",
-      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Ta peine",
-        "url": "https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R"
-      },
-      "artists": [
-        {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 164479,
-      "name": "Ta peine",
-      "url": "https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "GO GO GO (Feat. Josman)",
         "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
       },
@@ -587,18 +555,34 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Cramer",
-        "url": "https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT"
+        "name": "Ta peine",
+        "url": "https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R"
       },
       "artists": [
         {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
         }
       ],
-      "duration_ms": 209767,
-      "name": "Cramer",
-      "url": "https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys"
+      "duration_ms": 164479,
+      "name": "Ta peine",
+      "url": "https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Clique",
+        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 181974,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 192998,
       "name": "Faut que tu m'aimes",
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Cramer",
+        "url": "https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "duration_ms": 209767,
+      "name": "Cramer",
+      "url": "https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 166751,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -819,22 +819,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC"
+        "name": "Recommence-moi",
+        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
       },
       "artists": [
         {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        },
-        {
-          "name": "ASHE 22",
-          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
         }
       ],
-      "duration_ms": 242869,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -871,34 +867,38 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Recommence-moi",
-        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC"
       },
       "artists": [
         {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
         }
       ],
-      "duration_ms": 196334,
-      "name": "Recommence-moi",
-      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+      "duration_ms": 242869,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
     },
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "_jun perseides",
-        "url": "https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe"
+        "name": "Dis-toi que c'est la vie",
+        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
       },
       "artists": [
         {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
         }
       ],
-      "duration_ms": 176040,
-      "name": "_jun perseides",
-      "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
+      "duration_ms": 147405,
+      "name": "Dis-toi que c'est la vie",
+      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 285824,
       "name": "last of the leather jackets",
       "url": "https://open.spotify.com/track/5h7gFuZYOB6vlUkhraNDJ2"
@@ -2236,6 +2236,24 @@
       "duration_ms": 265493,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
+    },
+    {
+      "album": {
+        "name": "Peaceful Horizon",
+        "url": "https://open.spotify.com/album/7yYreUchmftSbB7h0EkDC0"
+      },
+      "artists": [
+        {
+          "name": "ABCastillo Skyline Band",
+          "url": "https://open.spotify.com/artist/41dJTxLdwWQXWXtCaIDjlu"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218375,
+      "name": "Peaceful Horizon",
+      "url": "https://open.spotify.com/track/6EkB8OluCOTk6ziNVm4Tpc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-162 songs - 14 hr 3 min
+163 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Violence for Free \- DJ Plead Remix](https://open.spotify.com/track/6FBxZ8l9p5GhTS17VpSVwX) | [Deena Abdelwahed](https://open.spotify.com/artist/20fUkJZtm2I6zdIuj2XpgV), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg) | [Violence for Free \(DJ Plead Remix\)](https://open.spotify.com/album/5yzdGUbCiLUggQByl4BQZ8) | 5:03 | 2024-02-29 |  |
 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 | 2022-03-01 | 2022-11-19 |
 | [Wake Up Love](https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [Wake Up Love](https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR) | 3:35 | 2022-03-01 | 2022-11-19 |
-| [Wake Up Love \(feat\. IMAN\)](https://open.spotify.com/track/6QutayBrziruy3GoPMqBBq) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 3:33 | 2024-01-24 |  |
+| [Wake Up Love \(feat\. IMAN\)](https://open.spotify.com/track/3HLkL9ahiEnACmnuq8Pcwt) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 3:33 | 2024-02-29 |  |
+| [Wake Up Love \(feat\. IMAN\)](https://open.spotify.com/track/6QutayBrziruy3GoPMqBBq) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 3:33 | 2024-01-24 | 2024-03-31 |
 | [Walking On Your Name \- Logic1000 Remix](https://open.spotify.com/track/0sbcE7ltIt3tM47UTK0mmP) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Walking On Your Name \(Remixes\)](https://open.spotify.com/album/2UqZWogF2knW9C8O2pVKwE) | 4:18 | 2022-03-01 | 2022-11-19 |
 | [Warming Up](https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information \(Redacted\)](https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W) | 3:36 | 2022-03-01 | 2022-11-19 |
 | [Welcome](https://open.spotify.com/track/1K5wDXoWsj0wmqOBRH8kbd) | [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Lemon Dreams](https://open.spotify.com/album/3SVC2qWxFPt01NexwJnsSl) | 5:59 | 2022-11-18 | 2023-09-22 |

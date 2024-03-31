@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjc1MGE4ZTc4YTQzZDU2OTcwZmZhNDZhMWJhNjQxNzhmYTRhMmQ0",
+  "snapshot_id": "MCxlNjgzMWFhMDE0YzQ2NjYyMjU3ODliN2IwMmIyZmRhN2I1Mjg3Y2Jj",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -295,6 +295,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Mairzy Doats",
+      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 180840,
       "name": "Three Coins In The Fountain",
       "url": "https://open.spotify.com/track/2vZNvA8PEvBdeWr4EkZjLG"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Mairzy Doats",
-      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -551,6 +551,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
+        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
+      },
+      "artists": [
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Ain't Gonna Worry 'Bout a Soul",
+      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 170666,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
-        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
-      },
-      "artists": [
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Ain't Gonna Worry 'Bout a Soul",
-      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
-      },
-      "artists": [
-        {
-          "name": "The Dinning Sisters",
-          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Love On A Greyhound Bus",
-      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Singles Collection 1946-60",
         "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
       },
@@ -743,22 +727,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
-      },
-      "artists": [
-        {
-          "name": "The De Castro Sisters",
-          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Milestones of a Jazz Legend - Meets the Vocalists, Vol. 4",
         "url": "https://open.spotify.com/album/3JW5jDInHzHfZjX2FpJ3hf"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 148040,
       "name": "It's Sand, Man!",
       "url": "https://open.spotify.com/track/1q71go9YGa3zQCAhnDtTzZ"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
+      },
+      "artists": [
+        {
+          "name": "The Dinning Sisters",
+          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Love On A Greyhound Bus",
+      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+      },
+      "artists": [
+        {
+          "name": "The De Castro Sisters",
+          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
     },
     {
       "added_at": "2020-08-17 22:49:59",

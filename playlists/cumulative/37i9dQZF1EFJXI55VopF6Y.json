@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "ENTRE NOUS",
+        "url": "https://open.spotify.com/album/69yCwirEtVkNaqBzviiLQc"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160314,
+      "name": "ENTRE NOUS",
+      "url": "https://open.spotify.com/track/5tmk7NK4zkVrqj9FGtrYqI"
+    },
+    {
+      "album": {
         "name": "Revel",
         "url": "https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ"
       },

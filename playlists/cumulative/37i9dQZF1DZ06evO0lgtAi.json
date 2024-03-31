@@ -733,6 +733,28 @@
     },
     {
       "album": {
+        "name": "Jalo!",
+        "url": "https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151186,
+      "name": "Jalo!",
+      "url": "https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ"
+    },
+    {
+      "album": {
         "name": "LA BABY",
         "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 
 > Lagu Raya yang kekal popular.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,440 likes - 74 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,819 likes - 74 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 | 73 | [Di Lebaran Yang Ini](https://open.spotify.com/track/7Di6RNAGgNexFkbHwDXu2x) | [Indah Ruhaila](https://open.spotify.com/artist/2ux93kXFgD78SLU91lqrrI) | [Seleksi Lagu \- Lagu Terbaik Hari Raya Aidilfitri](https://open.spotify.com/album/4LOumPEs59vXxiOghJQNPe) | 5:12 |
 | 74 | [Rindu Di Aidilfitri](https://open.spotify.com/track/0dW3AaWcoVC4upMqX2HT8k) | [Ajai](https://open.spotify.com/artist/1mms4GLaDr9K3H1ujMlMxN) | [Maafkan](https://open.spotify.com/album/5JSWvD1FdvRoRYbi9EkmHb) | 4:41 |
 
-Snapshot ID: `MCxiMzA0ZWU0MmI3NTI4ZjAyMzJkMmFhODQ0MTRkZGE2ZjVlODBkNWRm`
+Snapshot ID: `MCw2M2EzY2VjN2Y4OGUwMjI4ZjFlY2YzOWQ4NWYyMGYwN2M2M2E1MmRk`

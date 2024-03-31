@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 240043,
+  "num_followers": 240215,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTIyODZhOTg3MGRmYmIxYWMyYmFlYWE1YjdkOGMzNGQ0OWI1NmE5",
+  "snapshot_id": "MCxkNGJhNWVjMDFkMDY3MzZmMGJjN2Q0NDIyY2I2MTljNTdjYzg0NTJk",
   "tracks": [
     {
       "added_at": "2024-03-18 13:17:02",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "I Can't Handle Change",
         "url": "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 198213,
       "name": "I Can't Handle Change",
       "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 352003,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "The Wild Hunt",
         "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 255853,
       "name": "Love is All",
       "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 352003,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Cigarettes In the Theatre",
-      "url": "https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 473333,
       "name": "Home",
       "url": "https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 227346,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
+      "duration_ms": 214253,
+      "name": "Cigarettes In the Theatre",
+      "url": "https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 315585,
-      "name": "Odessa",
-      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Pickin' up the Pieces",
         "url": "https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 189893,
       "name": "Moneygrabber",
       "url": "https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 315585,
+      "name": "Odessa",
+      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
     },
     {
       "added_at": "2024-03-18 13:17:02",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-18 13:17:02",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "King of Spain",
-      "url": "https://open.spotify.com/track/7nf794AzR4NDuhNOnkJoOd"
-    },
-    {
-      "added_at": "2024-03-18 13:17:02",
-      "album": {
         "name": "Before Today",
         "url": "https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 308680,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6"
+    },
+    {
+      "added_at": "2024-03-18 13:17:02",
+      "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "King of Spain",
+      "url": "https://open.spotify.com/track/7nf794AzR4NDuhNOnkJoOd"
     },
     {
       "added_at": "2024-03-18 13:17:02",

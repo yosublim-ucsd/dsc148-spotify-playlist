@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,869 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,899 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 63 | [Why Am I Not Yours](https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [an Anecdote of Love and All that Lies Within](https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM) | 3:44 |
 | 64 | [ilym](https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [ilym](https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg) | 3:57 |
 | 65 | [Running Out Of Love](https://open.spotify.com/track/7BjwOpg3xCcSYyKbnNAbyE) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Running Out Of Love](https://open.spotify.com/album/3Wg67wKrBJBUud8rZtIEy0) | 2:46 |
-| 66 | [Closure](https://open.spotify.com/track/2WBHmEgFHvzYFM24L4m9BO) | [Jemimah Paine](https://open.spotify.com/artist/4KsMnVZJDA21NtWFMXwQin) | [Closure](https://open.spotify.com/album/0vMCaROMM23vQHgjTArSOn) | 3:23 |
-| 67 | [BEST SHE'S EVER SEEN](https://open.spotify.com/track/6cWGUbR0kYBp1AvPNo64zV) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2), [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [BEST SHE'S EVER SEEN](https://open.spotify.com/album/5MTo08dl10Bl3cDCqNwnTI) | 3:15 |
+| 66 | [BEST SHE'S EVER SEEN](https://open.spotify.com/track/6cWGUbR0kYBp1AvPNo64zV) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2), [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [BEST SHE'S EVER SEEN](https://open.spotify.com/album/5MTo08dl10Bl3cDCqNwnTI) | 3:15 |
+| 67 | [Closure](https://open.spotify.com/track/2WBHmEgFHvzYFM24L4m9BO) | [Jemimah Paine](https://open.spotify.com/artist/4KsMnVZJDA21NtWFMXwQin) | [Closure](https://open.spotify.com/album/0vMCaROMM23vQHgjTArSOn) | 3:23 |
 | 68 | [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 |
 | 69 | [love in the summer](https://open.spotify.com/track/3lYrsTLgTx81qvNgxmGXYW) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [love in the summer](https://open.spotify.com/album/6C2PK15p8aTeJEEDQHrBM3) | 2:25 |
 | 70 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 80 | [Just Say That](https://open.spotify.com/track/2IGS5KiDDnVtjw2d5NRILO) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [Just Say That](https://open.spotify.com/album/6FCgl0Rkbx8OdUBTAk0x8V) | 2:01 |
 | 81 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
 | 82 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
-| 83 | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/track/0x8z2ZNKWJP2o5cnUnmpH2) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Shanell Alyssa](https://open.spotify.com/artist/0Jf2yrWAh3w5XPxf0zsM5n) | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/album/2JYmUvK8FHCEJ0krUKO0sR) | 3:37 |
-| 84 | [Who You?](https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Who You?](https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd) | 2:21 |
+| 83 | [Who You?](https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Who You?](https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd) | 2:21 |
+| 84 | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/track/0x8z2ZNKWJP2o5cnUnmpH2) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Shanell Alyssa](https://open.spotify.com/artist/0Jf2yrWAh3w5XPxf0zsM5n) | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/album/2JYmUvK8FHCEJ0krUKO0sR) | 3:37 |
 | 85 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |
 | 86 | [DON'T HAVE TO LISTEN](https://open.spotify.com/track/0DHaymgPUqiFr4NqcR8a5C) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [DON'T HAVE TO LISTEN](https://open.spotify.com/album/1XUgd89ly1qKKVZDsEtetc) | 2:20 |
 | 87 | [Losing Myself](https://open.spotify.com/track/565aoiJPttwDBsJPrjxAEl) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5), [Beza](https://open.spotify.com/artist/5SXjY4eH0DyQC8OCFyl4TH) | [Losing Myself](https://open.spotify.com/album/5z6DQNfq8kAIrDK6KJJrxw) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 99 | [Good Parts](https://open.spotify.com/track/1pMf7KYlEZPtc0lhUaAGBh) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [Good Parts](https://open.spotify.com/album/3Wk3wyZuXvi0ODAZgDogc6) | 2:15 |
 | 100 | [The Best For Us](https://open.spotify.com/track/4sZXUgyS6ZAcnJMwl5ZWGf) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [The Best For Us](https://open.spotify.com/album/2mgOV0WTIT3NA8BJyuBLof) | 3:38 |
 
-Snapshot ID: `MCxkZGYyZTA1OGM4ZjQyMzkzYjNhYmI4ZmUyYjQ0NDU1ODZhYzYwOTBk`
+Snapshot ID: `MCwzOWIwNTRjOTZlZWViZjBkZmZjMjU5MzM3MTgyOTliZWY0NTIzMmU3`

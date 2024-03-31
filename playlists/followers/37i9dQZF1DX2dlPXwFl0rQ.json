@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 103684,
+  "2024-03-31": 103712,
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Marian Oviedo, Laraim en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Chiquis en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -1636,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
+    },
+    {
+      "album": {
         "name": "Directito A Mi Herida (En Vivo)",
         "url": "https://open.spotify.com/album/0n6N4SDyj0WsINr9V05TLT"
       },
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 179320,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 166133,
       "name": "La Historia Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/3iF002Z7f68vsbwrVKTWWG"
@@ -2981,6 +2999,28 @@
       "duration_ms": 163810,
       "name": "Les Molesta",
       "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
+    },
+    {
+      "album": {
+        "name": "Libro Abierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3PRLiYQLtdK5k4FXeRyMsL"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        },
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159741,
+      "name": "Libro Abierto - En Vivo",
+      "url": "https://open.spotify.com/track/5xsTkci1YsuBTB9Sa5xiSS"
     },
     {
       "album": {

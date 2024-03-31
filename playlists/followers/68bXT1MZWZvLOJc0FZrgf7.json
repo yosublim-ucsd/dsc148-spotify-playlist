@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 104734,
+  "2024-03-31": 104731,
   "date_first_scraped": "2022-06-10",
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Mahmut Orhan",
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Gesaffelstein",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2024 EDM",
   "tracks": [
     {
@@ -2474,6 +2474,24 @@
     },
     {
       "album": {
+        "name": "GAMMA",
+        "url": "https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114333,
+      "name": "Digital slaves",
+      "url": "https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT"
+    },
+    {
+      "album": {
         "name": "DIRT (feat. JPEGMAFIA)",
         "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
       },
@@ -4429,6 +4447,28 @@
       "duration_ms": 194050,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
+    },
+    {
+      "album": {
+        "name": "Higher Ground (feat. Roosevelt)",
+        "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273275,
+      "name": "Higher Ground (feat. Roosevelt)",
+      "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
     },
     {
       "album": {
@@ -10611,6 +10651,24 @@
       "duration_ms": 178064,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/77YkavTzHlKyJ71au9cQa4"
+    },
+    {
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/1rf3GUpNhGp9cLq2BvKg0J"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165734,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/1plwk3UFlq3P4SW5PVAFKh"
     },
     {
       "album": {

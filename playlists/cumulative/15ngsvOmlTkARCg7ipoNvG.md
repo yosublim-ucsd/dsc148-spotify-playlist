@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,716 songs - 1 day 11 hr 41 min
+1,720 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Calm Solitude Arr\. For Cello](https://open.spotify.com/track/0GpfLHzQs54VBsD9oYutkl) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Solitude](https://open.spotify.com/album/4tBAUa5sn2DudxSygRiEYN) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/track/3KGeyPoru1o5I0v0uUDclf) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/album/2adPYyDCIgUncMi5II8H99) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Calm Solitude Arr\. For Strings](https://open.spotify.com/track/0oKpv6o8KJojLffylpR3Mr) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Calm Solitude Arr\. For Strings](https://open.spotify.com/album/6GAJrIXO6kZXDuobr95tNi) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Calm World](https://open.spotify.com/track/6RrMqrtAIHwfYZPJTmaAyk) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Calm World](https://open.spotify.com/album/224ipkjPTvQsivbMHHgtdB) | 1:00 | 2024-03-30 |  |
 | [Calming Presence](https://open.spotify.com/track/6fIN88old55oFuCYEwot88) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Calming Presence](https://open.spotify.com/album/7LsmlGRLLIbPMJ6FNU1oaa) | 1:02 | 2022-08-03 |  |
 | [Calming Waters](https://open.spotify.com/track/1ieXiW4KlaV8FSAKIBlKrV) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:39 | 2022-01-20 |  |
 | [Calmness \- Cello Version](https://open.spotify.com/track/0ciB5W1l6QG9jNwD5n8UJy) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calmness](https://open.spotify.com/album/69Tzmwn08RnnDb4USQx8BI) | 1:00 | 2023-04-08 | 2024-02-13 |
@@ -306,6 +307,7 @@
 | [Celtic Love Song \- Cello Version](https://open.spotify.com/track/0CnPHbR4zc0BgzruJ94VHw) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Celtic Love Song](https://open.spotify.com/album/2aY8KH20KBDl1QQMOfz2Py) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Celtic Love Song \- Piano Version](https://open.spotify.com/track/0tTPv3iuEnEL39PFkeObNV) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Celtic Love Song](https://open.spotify.com/album/2aY8KH20KBDl1QQMOfz2Py) | 1:03 | 2023-05-14 | 2024-01-30 |
 | [Certainty](https://open.spotify.com/track/02IOkm3qPGeknVKFwtLkzt) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Everglow](https://open.spotify.com/album/4B0IbcEFp7z00KAWzQp4NI) | 1:27 | 2022-01-12 |  |
+| [Change](https://open.spotify.com/track/66cdELp8re3ouDuHhGKdhh) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Change](https://open.spotify.com/album/2OeBSjc16zuyLSrjxdi1FB) | 1:00 | 2024-03-30 |  |
 | [Changes \(re\-imagined\)](https://open.spotify.com/track/1orja2bGT2fNCR9JHR1gtf) | [Sepia Spring](https://open.spotify.com/artist/5uScoNQFbT1Zbdii6fnTOa) | [Changes \(re\-imagined\)](https://open.spotify.com/album/1om8TMzEYtutuoccLlxIuD) | 2:15 | 2022-01-12 | 2023-04-09 |
 | [Chapel](https://open.spotify.com/track/78sbbXd9eE653d2WkHdWj6) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:16 | 2022-01-12 |  |
 | [Chapel Dreams](https://open.spotify.com/track/14rgHd44rufS22mQNaqJVv) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Dreams Of Grace](https://open.spotify.com/album/7e6o35zGi3vOPWNyET7BCE) | 1:02 | 2022-04-19 |  |
@@ -635,6 +637,7 @@
 | [Fullness And Gratitude \- Strings Version](https://open.spotify.com/track/1FumoO0koOMpL3LlQFjldo) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Sublime Mornings Revisited \(Strings Version\)](https://open.spotify.com/album/3VDtNC64hbeRvGSUEXARd8) | 1:09 | 2024-02-09 | 2024-02-13 |
 | [Fullness, Gratitude And Love](https://open.spotify.com/track/1f8g6mb7dkAQtT0RPOehnZ) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Orange Glow](https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk) | 1:00 | 2022-02-11 |  |
 | [Fur Elise Piano Lullaby](https://open.spotify.com/track/5GlqrfnQK72tAlChq7GnhZ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Fur Elise Piano Lullaby](https://open.spotify.com/album/6RAUjoVw5vPNsUYHqRFEuG) | 1:02 | 2023-09-06 | 2024-01-30 |
+| [Future](https://open.spotify.com/track/6NOxwgM0YA76wrV35EIxFt) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Future](https://open.spotify.com/album/0BuEwgM64VX0BUsqTS8dzB) | 1:00 | 2024-03-30 |  |
 | [Galaxies](https://open.spotify.com/track/7k2AXi70RO2IeUoBOyjXSv) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 | 2024-01-30 |
 | [Galaxy Dreams](https://open.spotify.com/track/6QrtTo0arUpPugmTVKRzxs) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:02 | 2022-03-18 |  |
 | [Game Of Thrones Main Theme \(Cello and Piano\)](https://open.spotify.com/track/4pQF4AJNBFiCfYsse3jD69) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Game Of Thrones Main Theme \(Cello and Piano\)](https://open.spotify.com/album/0KwGfM6TMc8p4dNVGZAn6T) | 1:45 | 2022-01-12 | 2024-01-30 |
@@ -1213,6 +1216,7 @@
 | [Rest My Friend](https://open.spotify.com/track/73xYRF6x1tIN2lFtDUN3w9) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Rest My Friend](https://open.spotify.com/album/39E97YRYpM6GRaOSVFPgT5) | 1:02 | 2022-07-31 |  |
 | [Rest My Friend \- Alternate Version](https://open.spotify.com/track/6uW8UdkY1aYPejtQKntjZh) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Rest My Friend \(Alternate Version\)](https://open.spotify.com/album/21KDRu6ZriJgU9LA3QAUWU) | 1:01 | 2022-08-18 |  |
 | [Rest Now](https://open.spotify.com/track/7kdSVLap8upJ3epPieCXKp) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [October](https://open.spotify.com/album/5rRy0qeDWkoJdpDr3aCQmH) | 1:01 | 2023-01-25 | 2024-02-13 |
+| [Restful](https://open.spotify.com/track/0VtdiTAt5PCqEREAKe8yio) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Restful](https://open.spotify.com/album/36gG97acyEm7B5bLvPfS6N) | 1:00 | 2024-03-30 |  |
 | [Resting](https://open.spotify.com/track/4x3tnRFcBldR4nR8QSydCD) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Resting](https://open.spotify.com/album/5xnKqZ4BlGMS4oZpQWXlWT) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Resting At Last](https://open.spotify.com/track/4EBwcdWCh6Vsa6LBeHnstK) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forest Walk](https://open.spotify.com/album/0Nk7maUYaBAgpyF1lUPoHH) | 1:02 | 2022-01-12 |  |
 | [Resting For Now](https://open.spotify.com/track/6ZcsnccOegO0qXmAgvmaEG) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Perspectives](https://open.spotify.com/album/3IrnM4TePjh3eadsqS6eq5) | 1:36 | 2022-01-20 |  |

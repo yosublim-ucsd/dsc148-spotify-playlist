@@ -4,7 +4,7 @@
 
 > El futuro está aquí\. Foto: Mushkaa.
 
-228 songs - 11 hr 7 min
+231 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Duro](https://open.spotify.com/track/69v35PjrZ0YV6G2e46aDL9) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Duro](https://open.spotify.com/album/083xEEO2J9kKFQS7vAvxZ9) | 3:12 | 2022-09-22 | 2023-02-08 |
 | [Ego](https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Ego](https://open.spotify.com/album/0idabbOWN94aQoL7uwI7Gg) | 2:44 | 2022-06-06 | 2023-02-08 |
 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 | 2022-09-16 | 2023-09-16 |
-| [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 | 2024-02-03 |  |
+| [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 | 2024-02-03 | 2024-03-31 |
+| [El Disfraz](https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [El Disfraz](https://open.spotify.com/album/3mGHU6Au7nS9rOZoDlCvAP) | 2:44 | 2024-03-28 |  |
 | [En Dos](https://open.spotify.com/track/13Pe624JlpZ8c7Ktjybzav) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [En Dos](https://open.spotify.com/album/7AMe9ECyROJ6z0mQCQUjQ2) | 3:07 | 2022-01-06 | 2022-06-07 |
 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 | 2022-06-06 | 2023-02-22 |
 | [en ningún lugar](https://open.spotify.com/track/09fMLOWC1wK7DtHRRr1deO) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [en ningún lugar](https://open.spotify.com/album/7fo1vAt1nKL7jUOka8w1At) | 2:42 | 2022-02-17 | 2022-07-29 |
@@ -90,7 +91,8 @@
 | [Fuimos](https://open.spotify.com/track/06JbxvU7hdbBw1eoEOUWW6) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Fuimos](https://open.spotify.com/album/0r8nYWTQM6CnzwgjvQjlkP) | 3:01 | 2022-02-17 | 2022-07-15 |
 | [fumas?](https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [fumas?](https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI) | 2:58 | 2024-02-06 |  |
 | [grisgrisgris](https://open.spotify.com/track/38QsArD3UEW1jptzNR0PH0) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [grisgrisgris](https://open.spotify.com/album/3uAfxiZxSBOTporlZvNF7X) | 2:49 | 2022-01-27 | 2022-06-07 |
-| [habibi](https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:40 | 2024-02-06 |  |
+| [habibi](https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:40 | 2024-02-06 | 2024-03-31 |
+| [habibi](https://open.spotify.com/track/4ocdwCiQn23eQbZvFw3pay) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [habibi](https://open.spotify.com/album/3jf2o5lDnLaSwv6JdZKq6v) | 2:40 | 2024-03-28 |  |
 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 | 2023-03-30 | 2024-02-07 |
 | [Huracán 2.0](https://open.spotify.com/track/1vVpGcJToyVgpH2n4QkSc5) | [Ruiseñora](https://open.spotify.com/artist/5lWL0858SCbKL77z7Ff5Vs) | [Huracán 2.0](https://open.spotify.com/album/7B1QXHzOmKxNVWuNTpwLEz) | 2:28 | 2021-12-31 | 2022-01-28 |
 | [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 | 2022-07-28 | 2023-05-20 |
@@ -233,7 +235,8 @@
 | [Vista Al Mar](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Vista Al Mar](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-09-16 | 2022-10-28 |
 | [Vértices](https://open.spotify.com/track/4b7IBgXC4SVKTXMEqhcuXb) | [keezyporta](https://open.spotify.com/artist/59a1bsEPllg9vAM5ZdZtBS) | [Vértices](https://open.spotify.com/album/2d4Ib8uv3ZbCWwwiQmzI0N) | 3:55 | 2021-12-31 | 2022-02-18 |
 | [VÉRTIGO](https://open.spotify.com/track/7dGRzO5cmnG64s7TtqqsVR) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [SUPERPOP](https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8) | 2:42 | 2022-01-27 | 2022-06-07 |
-| [Xarnega](https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:34 | 2024-02-06 |  |
+| [Xarnega](https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:34 | 2024-02-06 | 2024-03-31 |
+| [Xarnega](https://open.spotify.com/track/4ABmdW0G3oDlanLL5rTbjq) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0) | 2:34 | 2024-03-28 |  |
 | [Ya No Hace Falta](https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Ya No Hace Falta](https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV) | 3:21 | 2022-03-17 | 2022-10-28 |
 | [ZAHARA](https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TÁNGER Y ZAHARA](https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys) | 2:40 | 2022-12-21 | 2024-02-07 |
 

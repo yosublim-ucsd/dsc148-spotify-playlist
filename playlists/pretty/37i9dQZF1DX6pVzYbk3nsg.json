@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 5538,
+  "num_followers": 5552,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmFiZWVjNGMzMDc0YmQxNjM3ZTI1YzQ1MWVkYzRhYzRkOGJhNDU3",
+  "snapshot_id": "MCxiZDk4Mzg4M2E3NjU5ODM2ZDAwZThhZTVhYTgwNWEyOGY2ZDJiYWM1",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Candela!",
-        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
       "artists": [
         {
-          "name": "F\u00e9lix Aldu\u00e9n",
-          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
         }
       ],
-      "duration_ms": 260946,
-      "name": "Ola de la Mar",
-      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
+      "duration_ms": 194760,
+      "name": "Palo'e bandera",
+      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -391,22 +395,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+        "name": "Candela!",
+        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
       },
       "artists": [
         {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+          "name": "F\u00e9lix Aldu\u00e9n",
+          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Palo'e bandera",
-      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
+      "duration_ms": 260946,
+      "name": "Ola de la Mar",
+      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+        "name": "Viento de Agua Unplugged: Materia Prima",
+        "url": "https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u"
       },
       "artists": [
         {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+          "name": "Viento De Agua",
+          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
         }
       ],
-      "duration_ms": 261386,
-      "name": "Preparate Reparada (Guembe) [Live]",
-      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
+      "duration_ms": 325666,
+      "name": "Pa\u2019 un Plenero (plena)",
+      "url": "https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Viento de Agua Unplugged: Materia Prima",
-        "url": "https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u"
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
       "artists": [
         {
-          "name": "Viento De Agua",
-          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
         }
       ],
-      "duration_ms": 325666,
-      "name": "Pa\u2019 un Plenero (plena)",
-      "url": "https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid"
+      "duration_ms": 261386,
+      "name": "Preparate Reparada (Guembe) [Live]",
+      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/7nUSFQ1J57De7mOlgMB7nW"
+      },
+      "artists": [
+        {
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "La Novia Nueva",
+      "url": "https://open.spotify.com/track/5Vupj8e4AJaAhRiJaZaEmU"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Buya (Live)",
         "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 225760,
       "name": "Si te preguntaran",
       "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/7nUSFQ1J57De7mOlgMB7nW"
-      },
-      "artists": [
-        {
-          "name": "Plenealo",
-          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "La Novia Nueva",
-      "url": "https://open.spotify.com/track/5Vupj8e4AJaAhRiJaZaEmU"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
-        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Plena De San Anton",
-      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Distinto Y Diferente",
         "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 331102,
       "name": "Plenazo Callejero 1",
       "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
+        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Plena De San Anton",
+      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
     }
   ],
   "unique_name": "Bomba y Plena",

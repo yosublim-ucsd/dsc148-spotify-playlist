@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 333690,
+  "2024-03-31": 333761,
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Dani Flow & Standly.",
+  "description": "Flow sudamericano con Milo J & LIT killah.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -2746,6 +2746,32 @@
     },
     {
       "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264996,
+      "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
+      "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
+    },
+    {
+      "album": {
         "name": "Bbsita",
         "url": "https://open.spotify.com/album/5okTnA5DUdqOZJYXN3jfh6"
       },
@@ -2779,7 +2805,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 153402,
       "name": "bby katana",
       "url": "https://open.spotify.com/track/13ujasLMAhID5JAGFGmGSs"
@@ -3087,7 +3113,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 182660,
       "name": "BIEN :(",
       "url": "https://open.spotify.com/track/7tuYsmPjYHqsIJg42w2XGQ"
@@ -3403,7 +3429,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192902,
       "name": "BONUS TRAP",
       "url": "https://open.spotify.com/track/3vKMHBUC7gW0VXYg4FgVt0"
@@ -3949,6 +3975,32 @@
       "duration_ms": 165562,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
+    },
+    {
+      "album": {
+        "name": "Carta de Despedida",
+        "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "RONNY J",
+          "url": "https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Carta de Despedida",
+      "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
     },
     {
       "album": {
@@ -4893,6 +4945,24 @@
       "duration_ms": 173519,
       "name": "Conectando",
       "url": "https://open.spotify.com/track/6nGLxK4KQH6n6k5AttsI5t"
+    },
+    {
+      "album": {
+        "name": "Conexi\u00f3n (Hippie por Dentro)",
+        "url": "https://open.spotify.com/album/2IMssFCfx7pAT9clMfKG9X"
+      },
+      "artists": [
+        {
+          "name": "K-efe",
+          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Conexi\u00f3n (Hippie por Dentro)",
+      "url": "https://open.spotify.com/track/54eCUdCFzuiN7tfx2Dsj5z"
     },
     {
       "album": {
@@ -7578,6 +7648,24 @@
     },
     {
       "album": {
+        "name": "En Mi Cama",
+        "url": "https://open.spotify.com/album/1Cykk8jHHi6X75vHGBixeb"
+      },
+      "artists": [
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "En Mi Cama",
+      "url": "https://open.spotify.com/track/1vkSHRmOF2iasL6QHBrfOR"
+    },
+    {
+      "album": {
         "name": "En Perso",
         "url": "https://open.spotify.com/album/4MwIfZG7SZHGgp8PTv6v0G"
       },
@@ -9779,7 +9867,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 167142,
       "name": "Hacerme Cargo",
       "url": "https://open.spotify.com/track/1K9XgNDuP5eDJzhjVdMYYb"
@@ -10029,7 +10117,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 81081,
       "name": "HIPOCRES\u00cdA",
       "url": "https://open.spotify.com/track/1407BXnFbdE9bZvAL57NxB"
@@ -11946,6 +12034,28 @@
     },
     {
       "album": {
+        "name": "Lanah",
+        "url": "https://open.spotify.com/album/5TGJWD8xpqHNozbgBchkvw"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "G en el Beat",
+          "url": "https://open.spotify.com/artist/0W5XS8I9c3okIaHuXeMHEt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144793,
+      "name": "Lanah",
+      "url": "https://open.spotify.com/track/39nvMBpEmkMKMmVmBN7f4t"
+    },
+    {
+      "album": {
         "name": "LAS 2",
         "url": "https://open.spotify.com/album/7Bd9ISXtfykKDTUPs7BoQi"
       },
@@ -13377,7 +13487,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 161112,
       "name": "Malefica",
       "url": "https://open.spotify.com/track/3qndLTLwrrb0ZkpZMgHtQk"
@@ -15743,7 +15853,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 128571,
       "name": "Mx Freestyle",
       "url": "https://open.spotify.com/track/3v5TF1Tqo5BVPoMnt6fvTM"
@@ -16357,6 +16467,28 @@
       "duration_ms": 188647,
       "name": "No Ando Weando",
       "url": "https://open.spotify.com/track/4uelxH4T8ewn0wwQC5gGLh"
+    },
+    {
+      "album": {
+        "name": "NO APAGUES LA LUZ",
+        "url": "https://open.spotify.com/album/15LhVFnUqO0v3N4oPWiQ6B"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "NO APAGUES LA LUZ",
+      "url": "https://open.spotify.com/track/1w0gzlVggcvSf3BPd9q8CL"
     },
     {
       "album": {
@@ -17766,6 +17898,28 @@
     },
     {
       "album": {
+        "name": "Otra Nota",
+        "url": "https://open.spotify.com/album/1npA50vCSHpd5r7EDzbSwI"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164150,
+      "name": "Otra Nota",
+      "url": "https://open.spotify.com/track/5MmtCMTozciY2odNvAEdJ3"
+    },
+    {
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/2mT824oMTXt0Mx5rJT66uE"
       },
@@ -19059,7 +19213,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 153563,
       "name": "Perro Fiel",
       "url": "https://open.spotify.com/track/553FA57I8M6cumnZEVFMQ8"
@@ -19475,6 +19629,40 @@
       "duration_ms": 480000,
       "name": "Ponle - Remix",
       "url": "https://open.spotify.com/track/60eTDDWVvw2QKXEeoQ4BjO"
+    },
+    {
+      "album": {
+        "name": "Por El Cuello",
+        "url": "https://open.spotify.com/album/6F2hPHmG9vOO1xUHCDrS8Y"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/4TPeI2kRRkg5nkno72cg7x"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Toby Letra",
+          "url": "https://open.spotify.com/artist/0ajO1JGM7C2V3wisDVrMai"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264347,
+      "name": "Por El Cuello",
+      "url": "https://open.spotify.com/track/3rJd6gR88HvAkpkL4Ufgg3"
     },
     {
       "album": {
@@ -22701,7 +22889,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 164210,
       "name": "Street credit",
       "url": "https://open.spotify.com/track/73Ds1ulKodyDtPQezFCszx"
@@ -24102,6 +24290,28 @@
     },
     {
       "album": {
+        "name": "Tottenham",
+        "url": "https://open.spotify.com/album/79RPZ9eEpKB2FTrvxBVaU8"
+      },
+      "artists": [
+        {
+          "name": "Canals",
+          "url": "https://open.spotify.com/artist/5RxLAt9nYq8Ww3Bg5kmXOn"
+        },
+        {
+          "name": "n.a.n.o",
+          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146222,
+      "name": "Tottenham",
+      "url": "https://open.spotify.com/track/0w8kBrAU2eokRRMcxLmGB6"
+    },
+    {
+      "album": {
         "name": "Tra Tra",
         "url": "https://open.spotify.com/album/5KJG1LyqoEmWyidFAm5JYt"
       },
@@ -24371,7 +24581,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 385674,
       "name": "Tu Diablo Remix (feat. El Jordan 23, Nickoog Clk & Tunechikidd)",
       "url": "https://open.spotify.com/track/1tsWLeicLYHRuKi1sNbCWk"
@@ -24801,7 +25011,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 139307,
       "name": "TuUuUuU",
       "url": "https://open.spotify.com/track/438gEFQbF9yb0O90B02GTP"
@@ -26443,7 +26653,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 194500,
       "name": "Xinga",
       "url": "https://open.spotify.com/track/17LoyD06c7hSZAGfj3Mybp"
@@ -26653,7 +26863,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 206680,
       "name": "Ya Te Supere",
       "url": "https://open.spotify.com/track/2Eo5YcrY3dZHEJY3rbjC7C"

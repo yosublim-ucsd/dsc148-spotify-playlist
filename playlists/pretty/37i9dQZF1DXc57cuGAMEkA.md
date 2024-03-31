@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Beyonce, Camila Cabello, j\-hope, 野田洋次郎 & kZm and more! cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,234 likes - 83 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,293 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 71 | [second guessing](https://open.spotify.com/track/7wuCZVsFR7V3OO8AbaXgLe) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [silver lining](https://open.spotify.com/album/7KMs4mopInKccB2HO6q2zK) | 3:29 |
 | 72 | [Aisle 6](https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Aisle 6](https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve) | 3:05 |
 | 73 | [Panoramic View](https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Panoramic View](https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz) | 3:52 |
-| 74 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:23 |
+| 74 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 |
 | 75 | [can i see you tonight?](https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [can i see you tonight?](https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew) | 1:57 |
 | 76 | [On The Road](https://open.spotify.com/track/78sMoJKUbGrqp5dWVQ7Tcx) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [On The Road](https://open.spotify.com/album/4CMdjKF82H3jj52fNrjDKT) | 2:21 |
 | 77 | [Meant to be \- feat\. F.HERO & BOOM BOOM CASH](https://open.spotify.com/track/12yY5fN5bI6Vhx4vRbe8Za) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Boom Boom Cash](https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf) | [Meant to be \(feat\. F.HERO & BOOM BOOM CASH\)](https://open.spotify.com/album/5jc0ySxcxWw3RFPQZWtYKu) | 4:12 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 82 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 |
 | 83 | [The Song Of You](https://open.spotify.com/track/6qPPNp1IXn5StfE3SrCbw1) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [The Song Of You](https://open.spotify.com/album/6Ad7G1yO4M0ub2ijUkbszq) | 2:10 |
 
-Snapshot ID: `MCxhYTNiZGYwMWRmY2Y1NTI3YWU2NGI1Yzk1ZTI0MWU5MGFiZmQ0YWEx`
+Snapshot ID: `MCxmNTZhYTBjODQ2NDBiZDNmNDRlZGRiOGVmNzZhMzExY2VhNDJlZjVj`

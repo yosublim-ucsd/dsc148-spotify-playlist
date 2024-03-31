@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: EEVAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,732 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,740 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 59 | [Dead Poets Society](https://open.spotify.com/track/0tZOLoCGFPHuR2NPbuqHfE) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:43 |
 | 60 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
 
-Snapshot ID: `MCw1MTQ2ZjJjNTVmZGUwZWQ0ZWU3N2RlMTVmN2Y4ZDA3YTcwMDI5NTU5`
+Snapshot ID: `MCwxYWNkMTY0MjE3OGM5YzNkMmNkZmQ2Y2NiY2E2NDRlM2IwMGRiMTgx`

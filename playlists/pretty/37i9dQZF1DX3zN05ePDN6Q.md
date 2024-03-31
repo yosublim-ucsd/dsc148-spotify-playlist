@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Murica, Prs, o Pere, BEATDOMK
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,108 likes - 74 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,128 likes - 74 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 73 | [Meu Último Boombap](https://open.spotify.com/track/204EWfjXiAJ6AWY3TAe20K) | [ZinLeo](https://open.spotify.com/artist/5boubF3ivRCuuuXJpTPF8M), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Meu Último Boombap](https://open.spotify.com/album/2b8byzuuzVcnzgSPd9pFP5) | 2:27 |
 | 74 | [Praise](https://open.spotify.com/track/1R4Vo02hRTKffcLGGE1Huu) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Praise](https://open.spotify.com/album/5OIkEAE0C0IHiVIQe4YQRU) | 2:39 |
 
-Snapshot ID: `MCxkMGY0ZjJiZWJmODYyZjA1NmU1NzVkNTNmODk2ZmVjMjY3MDQ1NjBh`
+Snapshot ID: `MCw4YWM3NDI4ZGQwYjcxZTIwNGM1YzIxZDc0NGNhNDE3Zjk2ZDEyMGQ5`

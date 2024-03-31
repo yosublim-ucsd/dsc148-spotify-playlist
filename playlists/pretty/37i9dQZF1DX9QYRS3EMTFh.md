@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,887 likes - 40 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,932 likes - 40 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 11 | [Yozo](https://open.spotify.com/track/7FKH8cRBqFjgxfArnJLqaW) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Yozo](https://open.spotify.com/artist/0eENwoLRhIVvT0dfzhgmUG), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Yozo](https://open.spotify.com/album/1kwssT1xqCkbgGb6mfUpJP) | 2:17 |
 | 12 | [Position](https://open.spotify.com/track/3VrKl2d7BARsapf9IELR6x) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Position](https://open.spotify.com/album/3hjz0n4uH86XEROsOuuJsC) | 2:20 |
 | 13 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |
-| 14 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:23 |
+| 14 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 |
 | 15 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 |
 | 16 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 |
 | 17 | [NUMBA 1](https://open.spotify.com/track/37cfWnwQVm7vES4DrQOz9n) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [NUMBA 1](https://open.spotify.com/album/6vsqF5uWNdWr8xkUUHJvtJ) | 2:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Mi Body Yeah](https://open.spotify.com/track/6YXC9jXQ76j7BPdG67yCsW) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Mi Body Yeah](https://open.spotify.com/album/0imiSqJXbVtHwepWwk0K5z) | 2:22 |
 | 40 | [Dancehall Nice Again \- Basik Riddim](https://open.spotify.com/track/2lBhYqRXgb8HaiF8nbpQtF) | [Tiwony](https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB), [Ride Di Vibes](https://open.spotify.com/artist/4t8C5EsfM7qPWEpmH4cJwW) | [Dancehall Nice Again \(Basik Riddim\)](https://open.spotify.com/album/4aT8A7YbbG6eQU4Y1qhECd) | 3:23 |
 
-Snapshot ID: `MCw5MDc0MzVjYzg2MTk5YjczZGFjMjAxZDk3ZTI5Y2QyNDYyZDk5MGYw`
+Snapshot ID: `MCw2MmYzNTNjNzQyM2VmNGVmY2M0MTQzYzMyNmRkZmZjZjY4YWVhOTZh`

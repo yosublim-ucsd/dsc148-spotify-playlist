@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 5 years of Rema's debut <a href=\"https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf?si=5lrLC9JVTzaxdeHZc6OmxQ\">Rema EP</a>  ",
-  "num_followers": 151398,
+  "num_followers": 151516,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODg5ZGViYWI5ZmJjNzFlZWFhNTZjY2M3ZjQ3MWJiMTRiZjI4ZTRj",
+  "snapshot_id": "MCw4MzEzODk0MzkwYTc4OTc1NjdmMzZkMzk2MmFkNzc3YTQyNDg1MDM1",
   "tracks": [
     {
       "added_at": "2024-03-21 16:16:26",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 193758,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
-    },
-    {
-      "added_at": "2024-03-21 16:16:26",
-      "album": {
         "name": "T.I.N.A.",
         "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 232255,
       "name": "Azonto",
       "url": "https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha"
+    },
+    {
+      "added_at": "2024-03-21 16:16:26",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 193758,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
     },
     {
       "added_at": "2024-03-21 16:16:26",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
+    },
+    {
+      "added_at": "2024-03-21 16:16:26",
+      "album": {
         "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
         "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 266903,
       "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
       "url": "https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY"
-    },
-    {
-      "added_at": "2024-03-21 16:16:26",
-      "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
     },
     {
       "added_at": "2024-03-21 16:16:26",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
+        "name": "Best Of Davido",
+        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "Skelewu",
+      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
+    },
+    {
+      "added_at": "2024-03-21 16:16:26",
+      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
       },
@@ -943,18 +959,22 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
-        "name": "Best Of Davido",
-        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
+        "name": "The Matter",
+        "url": "https://open.spotify.com/album/0yB62AWwScWJq5WhaiWFOR"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 190295,
-      "name": "Skelewu",
-      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
+      "duration_ms": 198058,
+      "name": "The Matter",
+      "url": "https://open.spotify.com/track/0OklQIKrM64KzTD7jGqfYG"
     },
     {
       "added_at": "2024-03-21 16:16:26",
@@ -979,26 +999,6 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
-        "name": "The Matter",
-        "url": "https://open.spotify.com/album/0yB62AWwScWJq5WhaiWFOR"
-      },
-      "artists": [
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "The Matter",
-      "url": "https://open.spotify.com/track/0OklQIKrM64KzTD7jGqfYG"
-    },
-    {
-      "added_at": "2024-03-21 16:16:26",
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 262986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
-    },
-    {
-      "added_at": "2024-03-21 16:16:26",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 279353,
-      "name": "Don't Dull",
-      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
     },
     {
       "added_at": "2024-03-21 16:16:26",
@@ -1063,6 +1047,42 @@
       "duration_ms": 272213,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
+    },
+    {
+      "added_at": "2024-03-21 16:16:26",
+      "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
+    },
+    {
+      "added_at": "2024-03-21 16:16:26",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 279353,
+      "name": "Don't Dull",
+      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
     },
     {
       "added_at": "2024-03-21 16:16:26",
@@ -1119,22 +1139,18 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
+        "name": "Takeover",
+        "url": "https://open.spotify.com/album/34PvCMMrpwVwS3dNWvQCNM"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+          "name": "Kwamz & Flava",
+          "url": "https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe"
         }
       ],
-      "duration_ms": 237876,
-      "name": "Champion Sound",
-      "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
+      "duration_ms": 178666,
+      "name": "Takeover",
+      "url": "https://open.spotify.com/track/0dq8cqrAO0cLUuPKkAN6LC"
     },
     {
       "added_at": "2024-03-21 16:16:26",
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
-        "name": "Takeover",
-        "url": "https://open.spotify.com/album/34PvCMMrpwVwS3dNWvQCNM"
+        "name": "Dami Duro",
+        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
       },
       "artists": [
         {
-          "name": "Kwamz & Flava",
-          "url": "https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/0dq8cqrAO0cLUuPKkAN6LC"
+      "duration_ms": 250257,
+      "name": "Dami Duro",
+      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
     },
     {
       "added_at": "2024-03-21 16:16:26",
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
+        "name": "Come My Way",
+        "url": "https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
+    },
+    {
+      "added_at": "2024-03-21 16:16:26",
+      "album": {
         "name": "Break Through",
         "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
       },
@@ -1255,34 +1287,18 @@
     {
       "added_at": "2024-03-21 16:16:26",
       "album": {
-        "name": "Dami Duro",
-        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
+        "name": "Move Back",
+        "url": "https://open.spotify.com/album/32SvtOKJRz8UBI6ndreZp3"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "5five",
+          "url": "https://open.spotify.com/artist/37zb1JQnDV9dRLatrASEj1"
         }
       ],
-      "duration_ms": 250257,
-      "name": "Dami Duro",
-      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
-    },
-    {
-      "added_at": "2024-03-21 16:16:26",
-      "album": {
-        "name": "Come My Way",
-        "url": "https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Come My Way",
-      "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
+      "duration_ms": 237106,
+      "name": "Move Back",
+      "url": "https://open.spotify.com/track/1tvi8tv0eykhNcV1WtaIqO"
     },
     {
       "added_at": "2024-03-21 16:16:26",
@@ -1299,22 +1315,6 @@
       "duration_ms": 250000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7mBq0ZB8bjoMviXOGaGDZz"
-    },
-    {
-      "added_at": "2024-03-21 16:16:26",
-      "album": {
-        "name": "Move Back",
-        "url": "https://open.spotify.com/album/32SvtOKJRz8UBI6ndreZp3"
-      },
-      "artists": [
-        {
-          "name": "5five",
-          "url": "https://open.spotify.com/artist/37zb1JQnDV9dRLatrASEj1"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Move Back",
-      "url": "https://open.spotify.com/track/1tvi8tv0eykhNcV1WtaIqO"
     },
     {
       "added_at": "2024-03-21 16:16:26",

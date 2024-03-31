@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 1711,
+  "2024-03-31": 1712,
   "date_first_scraped": "2023-02-02",
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
   "name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
@@ -1561,7 +1561,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 94813,
       "name": "The Bomber",
       "url": "https://open.spotify.com/track/4e0tuqdsh6HPZcxQ5IWlso"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 96893,
       "name": "The Execution",
       "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"

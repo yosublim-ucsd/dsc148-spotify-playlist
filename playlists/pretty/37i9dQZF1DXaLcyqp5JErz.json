@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 553054,
+  "num_followers": 553240,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDI2ZmZmNjU2OWRjM2MwYTM0ZTgwMWU0NjJjZGJlZDIzMjUxODQw",
+  "snapshot_id": "MCwyN2RlOTQ5Yjg3NzU4NGIzMDQzMGNjNGE2ZmIxOGY3MmU2NWYxY2M5",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Andando na Luz",
+        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 348499,
+      "name": "H\u00e1 um Lugar",
+      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Liberta-Me de Mim",
         "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 430440,
       "name": "Arde Outra Vez",
       "url": "https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Andando na Luz",
-        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 348499,
-      "name": "H\u00e1 um Lugar",
-      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "No Infinito Deste Amor",
-        "url": "https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 580946,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Consagra\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 381318,
       "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
       "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "No Infinito Deste Amor",
+        "url": "https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 580946,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ejtRPtmaWU8EGMxeQqjc0"
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
       },
       "artists": [
         {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
-        {
-          "name": "Toque no Altar",
-          "url": "https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 448026,
-      "name": "Restitui - Ao Vivo",
-      "url": "https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk"
+      "duration_ms": 208608,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -575,6 +571,26 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ejtRPtmaWU8EGMxeQqjc0"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
+        {
+          "name": "Toque no Altar",
+          "url": "https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5"
+        }
+      ],
+      "duration_ms": 448026,
+      "name": "Restitui - Ao Vivo",
+      "url": "https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Excel\u00eancia",
         "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 333546,
       "name": "Adorador por Excel\u00eancia",
       "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 208608,
-      "name": "Primeiro Amor",
-      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Sele\u00e7\u00e3o De Ouro",
-        "url": "https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ"
-      },
-      "artists": [
-        {
-          "name": "Jamily",
-          "url": "https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp"
-        }
-      ],
-      "duration_ms": 240373,
-      "name": "Tempo de Vencer",
-      "url": "https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Sele\u00e7\u00e3o De Ouro",
+        "url": "https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ"
+      },
+      "artists": [
+        {
+          "name": "Jamily",
+          "url": "https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "Tempo de Vencer",
+      "url": "https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj"
     },
     {
       "added_at": "2023-10-13 16:02:51",

@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-241 songs - 15 hr 49 min
+242 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Lovesick](https://open.spotify.com/track/0gPNUEHPZJN0oOSwJ1Ymnd) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:13 | 2022-07-08 | 2022-07-24 |
 | [Me After You](https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt) | 4:40 | 2024-02-23 |  |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2022-05-11 | 2024-03-02 |
-| [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 | 2023-02-03 |  |
+| [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 | 2023-02-03 | 2024-03-31 |
 | [Memory](https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/67HFNkpetCimboi5JzugYd) | 4:23 | 2023-02-15 | 2023-03-30 |
 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-09-05 | 2022-11-23 |
 | [Midnight sun](https://open.spotify.com/track/46B34DWj7HjB4eEKHFa5sB) | [Marvin](https://open.spotify.com/artist/5Ge2wlLiHJlpzMSnbGkbpO) | [Nostalgia](https://open.spotify.com/album/2t0ynhYs5QkYMorNReZJSC) | 3:19 | 2022-07-08 | 2022-07-25 |
@@ -242,6 +242,7 @@
 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 | 2022-07-08 |  |
 | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/track/3MOcIiyqd9r14YDIeZqhuj) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/album/27Ies0kxzzilbhfwTrlQJj) | 4:32 | 2022-06-09 | 2022-07-23 |
 | [아직도 괜찮지 않은가 봐](https://open.spotify.com/track/7AwaRzPacYglDtx0skg39C) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/71WZV8KAPxXQMO4H8C69JS) | 3:53 | 2022-06-20 | 2022-06-26 |
+| [연 말](https://open.spotify.com/track/5wePQ8qFuBt436u2L8vNbF) | [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [연말\(年末\)](https://open.spotify.com/album/71SJFyx6h7UHgL68e5ZHPT) | 1:27 | 2024-03-20 |  |
 | [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 | 2022-05-11 | 2022-07-27 |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2022-05-11 |  |
 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 | 2022-05-11 | 2023-01-19 |

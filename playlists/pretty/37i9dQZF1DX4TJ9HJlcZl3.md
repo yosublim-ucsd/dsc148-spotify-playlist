@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,010 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,027 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [15th Floor](https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [15th Floor](https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h) | 4:30 |
 | 50 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 |
 
-Snapshot ID: `MCxhMzM0NjkzMGI1MjQ4NzE5Zjc3ZDZjZmFkODUxOTk1ZTE2MTZiYTRi`
+Snapshot ID: `MCw4NjgxZmRlZGZmMTExOGQ0ZjgxOGY1MzI2OWVmMDkyNTI2ZjRkMDZj`

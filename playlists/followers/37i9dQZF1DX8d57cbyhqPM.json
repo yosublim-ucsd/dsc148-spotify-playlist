@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 36721,
+  "2024-03-31": 36767,
   "date_first_scraped": "2022-07-01",
   "description": "Du Congo, au monde. \ud83c\udf0d Photo: SenSey'",
   "name": "Biso Na Biso",
@@ -3785,7 +3785,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 186923,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/6csQnSD9lL1E59e1uxHVsW"
@@ -5495,6 +5495,28 @@
       "duration_ms": 202000,
       "name": "Pieteron",
       "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
+    },
+    {
+      "album": {
+        "name": "PILON",
+        "url": "https://open.spotify.com/album/2OmNSawCtKwg9S9RMG6KmC"
+      },
+      "artists": [
+        {
+          "name": "Samy Lrzo",
+          "url": "https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4"
+        },
+        {
+          "name": "Gambino La MG",
+          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185530,
+      "name": "PILON",
+      "url": "https://open.spotify.com/track/50i2I2eHuKp75PfmrbFGqW"
     },
     {
       "album": {

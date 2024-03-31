@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3302,
+  "num_followers": 3303,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDZkOTQ0MGZkODNiZjY1YzIwNDY0ZTc0MmM2YzBhN2Y0N2VjODA5",
+  "snapshot_id": "MCwzMjk2YzQxY2NiY2RkM2NkMDg2ODFiY2MzYzdkM2NkMjA3NzE3YzAz",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Ahomka Womu",
-        "url": "https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG"
-      },
-      "artists": [
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        },
-        {
-          "name": "Tic Tac,Frank Mensah,2-Tee,Lil Kryz,Abortion",
-          "url": "https://open.spotify.com/artist/373YE3CDdFni3txqURZTch"
-        }
-      ],
-      "duration_ms": 327720,
-      "name": "Ahomka Wo Mu",
-      "url": "https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Ke Star (feat. Virgo Deep) [Remix]",
         "url": "https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 328766,
       "name": "Ke Star (feat. Virgo Deep) - Remix",
       "url": "https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Ahomka Womu",
+        "url": "https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        },
+        {
+          "name": "Tic Tac,Frank Mensah,2-Tee,Lil Kryz,Abortion",
+          "url": "https://open.spotify.com/artist/373YE3CDdFni3txqURZTch"
+        }
+      ],
+      "duration_ms": 327720,
+      "name": "Ahomka Wo Mu",
+      "url": "https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw"
     },
     {
       "added_at": "2023-12-08 08:55:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,690 likes - 32 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,763 likes - 32 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 20 | [You Gonna Make Me Love Somebody Else](https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:30 |
 | 21 | [Closer Than Close](https://open.spotify.com/track/1l96x4p9UmYJSLBiyhMsAI) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Closer Than Close](https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P) | 5:56 |
 | 22 | [Over The Rainbow](https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Spirit's In It](https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b) | 3:45 |
-| 23 | [O\-o\-h Child](https://open.spotify.com/track/6oAsrBcTsceOwqH3uHuRzp) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:10 |
-| 24 | [Love](https://open.spotify.com/track/6eQIk2NX87pMrMQ9lpWZUD) | [City Limits](https://open.spotify.com/artist/4ZSMbwCpSHFmHheHHVU98x) | [Circles](https://open.spotify.com/album/7whWeslKir8S7gwBaijm9h) | 4:23 |
+| 23 | [Love](https://open.spotify.com/track/6eQIk2NX87pMrMQ9lpWZUD) | [City Limits](https://open.spotify.com/artist/4ZSMbwCpSHFmHheHHVU98x) | [Circles](https://open.spotify.com/album/7whWeslKir8S7gwBaijm9h) | 4:23 |
+| 24 | [O\-o\-h Child](https://open.spotify.com/track/6oAsrBcTsceOwqH3uHuRzp) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:10 |
 | 25 | [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 |
 | 26 | [Was That All It Was](https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:56 |
 | 27 | [The World Will Sing Our Song](https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:04 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [Disco Dancer](https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 7:21 |
 | 32 | [The Runner](https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:22 |
 
-Snapshot ID: `MCwyMDY0YTRkNWZhZjQxNWQzNjVkYjcyN2M1YTNkMzc0NjQ1MTczNTc0`
+Snapshot ID: `MCxkMzhjNjM1NDgwMDYzMjA0OGFkOTg3ZjliNGE2MzU0NTZiNTgyNTVi`

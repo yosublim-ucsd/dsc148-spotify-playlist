@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 251448,
+  "2024-03-31": 251452,
   "date_first_scraped": "2021-12-21",
   "description": "The latest music from our Country Heroes. Cover: Sawyer Brown ",
   "name": "New Traditions Country Heroes",
@@ -1664,6 +1664,24 @@
     },
     {
       "album": {
+        "name": "Get a Little Dirt on Your Hands",
+        "url": "https://open.spotify.com/album/6NF34NE0IsFKt8gUXDPPAy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174582,
+      "name": "Get a Little Dirt on Your Hands",
+      "url": "https://open.spotify.com/track/5sPuFw4TC0F03xyrkRvgQJ"
+    },
+    {
+      "album": {
         "name": "Get Me To The Stage On Time",
         "url": "https://open.spotify.com/album/5V3Wn9hlMLqhQGkSDRL62T"
       },
@@ -2679,7 +2697,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 248971,
       "name": "It Could Happen",
       "url": "https://open.spotify.com/track/04V5V2I38y3OTZC8S9pk3Q"
@@ -3619,6 +3637,24 @@
       "duration_ms": 219640,
       "name": "Plans",
       "url": "https://open.spotify.com/track/243xVaJ0uGwvzFpZS3EXxc"
+    },
+    {
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/5j2EBpH7Ihjnz5ZN9ApSdh"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222053,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/6rrGwk0tMib7jcDm4iKTVE"
     },
     {
       "album": {

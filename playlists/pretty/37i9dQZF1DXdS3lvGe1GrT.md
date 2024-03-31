@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Pem
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,813 likes - 103 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,862 likes - 103 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 102 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 |
 | 103 | [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 |
 
-Snapshot ID: `MCw2OTI1ZDM5YmYyOTNlYTU1ZWQzMTYxYTFhY2YxODlmMWIwZWYxMGRh`
+Snapshot ID: `MCw2ZTMwM2EyZTI3YmQzMTdmOGQ0ZGU0MmVjZWRjYTk5ZTY3NTZjN2Qw`

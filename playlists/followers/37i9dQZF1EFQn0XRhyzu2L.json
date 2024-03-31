@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 8488,
+  "2024-03-31": 8485,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz\">Justin Tranter</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Justin Tranter",
@@ -5645,6 +5645,24 @@
       "duration_ms": 197517,
       "name": "Moving Along",
       "url": "https://open.spotify.com/track/4UQajPk0EPvbwWTl0fYi4C"
+    },
+    {
+      "album": {
+        "name": "All I Ever Want Is Everything",
+        "url": "https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195919,
+      "name": "Moxie",
+      "url": "https://open.spotify.com/track/3mt2AxuyKl3sXsNL84XW6L"
     },
     {
       "album": {

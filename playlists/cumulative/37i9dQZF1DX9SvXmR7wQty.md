@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Laurence Nerbonne
 
-2,410 songs - 5 day 8 hr 44 min
+2,411 songs - 5 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [92i MAYBACH](https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [ROUGE NÉON](https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj) | 2:41 | 2023-04-28 | 2023-06-17 |
 | [???](https://open.spotify.com/track/1VypWHiTxUHNJKYNY6pY9n) | [Kimezaa](https://open.spotify.com/artist/3gpDegDcUdkEFX0EGWus2x) | [???](https://open.spotify.com/album/5JTdgcqhaTSvO8ez5fajhM) | 2:08 | 2021-12-31 | 2022-01-22 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2022-08-20 |
-| [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-03-01 |  |
+| [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-03-01 | 2024-03-31 |
 | [\_mar le temps des fleurs](https://open.spotify.com/track/18vjlV9mj6tYB6dPxPozuS) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Saisons](https://open.spotify.com/album/3uawa6465DOXwrML3tmKEX) | 4:14 | 2024-03-22 | 2024-03-30 |
 | [\_sept magie mauve](https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Saisons](https://open.spotify.com/album/111xYY3jdnUL7fVhItgOVy) | 3:57 | 2023-12-01 | 2023-12-21 |
 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 | 2023-09-15 | 2023-11-01 |
@@ -570,6 +570,7 @@
 | [DIS\-MOI \(feat\. SDM\)](https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:55 | 2023-11-17 | 2024-02-17 |
 | [Dis\-moi si la ville](https://open.spotify.com/track/1yhMs6ZXA0eTO7kra1pX7R) | [Maud Evelyne](https://open.spotify.com/artist/5Dr7MbOh4wwzWswQxIKmFK) | [Dis\-moi si la ville](https://open.spotify.com/album/2G57Hhyh1W3gqlZBWMOnsy) | 2:56 | 2022-03-11 | 2022-03-18 |
 | [Dis\-moi t'es où](https://open.spotify.com/track/7ndCfMwCqTpqWwWvlwau19) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Dis\-moi t'es où](https://open.spotify.com/album/1KpkHKtt2jt8K3q8YG8bhk) | 3:05 | 2023-03-24 | 2023-04-16 |
+| [Dis\-toi que c'est la vie](https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Dis\-toi que c'est la vie](https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ) | 2:27 | 2024-03-29 |  |
 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 | 2022-07-22 | 2022-08-20 |
 | [Disparaître](https://open.spotify.com/track/2OjVLqCJMcxgTnYXQ0UxWw) | [Corail](https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr) | [Disparaître / Terre](https://open.spotify.com/album/6qr1fqyMsZQvh2xsHErh0a) | 4:09 | 2023-03-17 | 2023-03-25 |
 | [Distant](https://open.spotify.com/track/51vGgZuSUq4ORWFpNEfOO8) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Instable](https://open.spotify.com/album/5pYl65bna6qFdaOSHbp4fe) | 3:41 | 2022-09-23 | 2022-10-08 |

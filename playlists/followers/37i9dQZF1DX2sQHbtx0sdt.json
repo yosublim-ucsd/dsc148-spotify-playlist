@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 65248,
+  "2024-03-31": 65562,
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: Jhayco, Bryant Myers, Luar La L",
+  "description": "New and trending hip-hop from around the world. Cover: Rhove",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -439,6 +439,32 @@
       "duration_ms": 179280,
       "name": "Amiri jeans",
       "url": "https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5"
+    },
+    {
+      "album": {
+        "name": "Popolari",
+        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221231,
+      "name": "Amore Mio (feat. Sfera Ebbasta, Jul)",
+      "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
     },
     {
       "album": {
@@ -999,7 +1025,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 205955,
       "name": "Bread N Butta",
       "url": "https://open.spotify.com/track/3PIzjSNZUJzNbwhnWqeURW"
@@ -1662,6 +1688,40 @@
     },
     {
       "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Edubeatz",
+          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Desacreditado",
+      "url": "https://open.spotify.com/track/6ItXsG2C0os04441YfuHqq"
+    },
+    {
+      "album": {
         "name": "Die Lewe is 'n Lied",
         "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
       },
@@ -1945,7 +2005,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 297290,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI"
@@ -1967,6 +2027,36 @@
       "duration_ms": 158586,
       "name": "El Mabda2",
       "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
+    },
+    {
+      "album": {
+        "name": "EMBASSY / AMBASADA",
+        "url": "https://open.spotify.com/album/2QzbcB3H2SnY8jmpW6ec0p"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        },
+        {
+          "name": "m\u0142ody klakson",
+          "url": "https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu"
+        },
+        {
+          "name": "kittiesloverage",
+          "url": "https://open.spotify.com/artist/6CvKpD5oXOVHdlkQDTsbq8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127059,
+      "name": "EMBASSY / AMBASADA",
+      "url": "https://open.spotify.com/track/4Oa9XS4sTknYw9awQN5cEt"
     },
     {
       "album": {
@@ -3665,7 +3755,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 123434,
       "name": "LIKE ICE SPICE",
       "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
@@ -4447,7 +4537,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 147586,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
@@ -4491,6 +4581,32 @@
       "duration_ms": 145606,
       "name": "Neunzig",
       "url": "https://open.spotify.com/track/0pC6XqDVKQC4czY2bgF7nj"
+    },
+    {
+      "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273290,
+      "name": "NEURON (with Gaeko & YOON MIRAE)",
+      "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
     },
     {
       "album": {
@@ -4685,6 +4801,28 @@
       "duration_ms": 289090,
       "name": "O Pre\u00e7o da Guerra",
       "url": "https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu"
+    },
+    {
+      "album": {
+        "name": "Bushi Tape 3",
+        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
+      },
+      "artists": [
+        {
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Oc\u00e9ane",
+      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
     },
     {
       "album": {
@@ -5453,7 +5591,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 150200,
       "name": "Really",
       "url": "https://open.spotify.com/track/2XFCobsFrfDXayVsggwT99"
@@ -5920,6 +6058,28 @@
     },
     {
       "album": {
+        "name": "Popolari",
+        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Soli (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/4iH8oAcez4MNKbejc1JnAJ"
+    },
+    {
+      "album": {
         "name": "Someone I Knew",
         "url": "https://open.spotify.com/album/2WpilJ7vktkFimmAKuuAay"
       },
@@ -6097,7 +6257,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 153253,
       "name": "T'aimerais (feat. Ziak)",
       "url": "https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa"
@@ -7018,6 +7178,24 @@
     },
     {
       "album": {
+        "name": "Still Local",
+        "url": "https://open.spotify.com/album/3lRZZG1t2DH2BgXEBpzqzc"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191142,
+      "name": "Y2K",
+      "url": "https://open.spotify.com/track/0ibvFpKEOycfFjL9C6bIZo"
+    },
+    {
+      "album": {
         "name": "YEAH",
         "url": "https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5"
       },
@@ -7073,7 +7251,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 162935,
       "name": "Zig Zag",
       "url": "https://open.spotify.com/track/5UKIWHvuWHSVnNxZuNd2Qr"

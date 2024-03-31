@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 22523,
+  "2024-03-31": 22545,
   "date_first_scraped": "2024-01-30",
   "description": "This is La Receta. The essential tracks, all in one playlist.",
   "name": "This Is La Receta",
@@ -351,6 +351,24 @@
       "duration_ms": 173160,
       "name": "Dr. Simi",
       "url": "https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg"
+    },
+    {
+      "album": {
+        "name": "El Fuerte",
+        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "El Fuerte",
+      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
     },
     {
       "album": {

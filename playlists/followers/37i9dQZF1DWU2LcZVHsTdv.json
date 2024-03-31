@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 279270,
+  "2024-03-31": 279359,
   "date_first_scraped": "2021-12-21",
   "description": "The country way of testifying.",
   "name": "Country by the Grace of God",
@@ -1662,6 +1662,28 @@
     },
     {
       "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/0R7iwes3g0B3yABKayGPgl"
+      },
+      "artists": [
+        {
+          "name": "Annie Bosko",
+          "url": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/7Gc6AtqoehihaLJAKDR1s6"
+    },
+    {
+      "album": {
         "name": "Hold On (feat. Lauren Weintraub)",
         "url": "https://open.spotify.com/album/2CXIMjsdCGnMQQbodq2ZmB"
       },
@@ -3053,6 +3075,24 @@
       "duration_ms": 191080,
       "name": "Real Men Love Jesus",
       "url": "https://open.spotify.com/track/4PUd2AwQAWY05WWR5qxig9"
+    },
+    {
+      "album": {
+        "name": "Red Letter Blueprint",
+        "url": "https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232293,
+      "name": "Red Letter Blueprint",
+      "url": "https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjZmOWZiMmE1NTYxM2YyOTVkZWVhNjFmZjg0OGI5YjYzMzI0YTVh",
+  "snapshot_id": "MCw2OWIyYmFlNmYzZmEyMjY0MzYyMTkzMzFiN2UxOGEzMDRjZDNjNGZh",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -663,22 +663,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Wonky",
-        "url": "https://open.spotify.com/album/5JSilhYevg8KkxFH1OB0Nr"
+        "name": "NENA",
+        "url": "https://open.spotify.com/album/6JDTK96SN3Xfu5ECP668DJ"
       },
       "artists": [
         {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
-        },
-        {
-          "name": "Rakky Ripper",
-          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+          "name": "Yenesi",
+          "url": "https://open.spotify.com/artist/2G49dkprxnvfogsgYd3yOb"
         }
       ],
-      "duration_ms": 210636,
-      "name": "Wonky",
-      "url": "https://open.spotify.com/track/42y5CMuNAJgBHRNrQ3ZWMX"
+      "duration_ms": 168000,
+      "name": "NENA",
+      "url": "https://open.spotify.com/track/3tR80PI41PA5d80DFBQET2"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -699,6 +695,26 @@
       "duration_ms": 170531,
       "name": "Libre Robot",
       "url": "https://open.spotify.com/track/6LHqGkrxlRTDEQDE6xRMHg"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Wonky",
+        "url": "https://open.spotify.com/album/5JSilhYevg8KkxFH1OB0Nr"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        },
+        {
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        }
+      ],
+      "duration_ms": 210636,
+      "name": "Wonky",
+      "url": "https://open.spotify.com/track/42y5CMuNAJgBHRNrQ3ZWMX"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -743,22 +759,6 @@
       "duration_ms": 157237,
       "name": "gaZzZzZ",
       "url": "https://open.spotify.com/track/0QqWd0ZVvK0H9hf02GI2I3"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "NENA",
-        "url": "https://open.spotify.com/album/6JDTK96SN3Xfu5ECP668DJ"
-      },
-      "artists": [
-        {
-          "name": "Yenesi",
-          "url": "https://open.spotify.com/artist/2G49dkprxnvfogsgYd3yOb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "NENA",
-      "url": "https://open.spotify.com/track/3tR80PI41PA5d80DFBQET2"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Nunca Volver\u00e1",
+        "url": "https://open.spotify.com/album/0fUpATJfQ07qZX7PqKNkQa"
+      },
+      "artists": [
+        {
+          "name": "Seo Jaleo",
+          "url": "https://open.spotify.com/artist/0wUAR1OTy7vzf5yUddtc5r"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Nunca Volver\u00e1",
+      "url": "https://open.spotify.com/track/5WdgPdIyyZoFztGaYKH1DY"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Noche De Halloween",
         "url": "https://open.spotify.com/album/6PT21KgYvTicvn4vgAWwpr"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 160000,
       "name": "Noche De Halloween",
       "url": "https://open.spotify.com/track/5wNaN0pQR09RT9qJrI5hJS"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Nunca Volver\u00e1",
-        "url": "https://open.spotify.com/album/0fUpATJfQ07qZX7PqKNkQa"
-      },
-      "artists": [
-        {
-          "name": "Seo Jaleo",
-          "url": "https://open.spotify.com/artist/0wUAR1OTy7vzf5yUddtc5r"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Nunca Volver\u00e1",
-      "url": "https://open.spotify.com/track/5WdgPdIyyZoFztGaYKH1DY"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "POP!",
-        "url": "https://open.spotify.com/album/4lKQ0RdVuigNY5a77Py44t"
+        "name": "Sefirot",
+        "url": "https://open.spotify.com/album/7dYlNgFh5Z31syVgrABpU6"
       },
       "artists": [
         {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
         },
         {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+          "name": "Said",
+          "url": "https://open.spotify.com/artist/4IXpKvMb4jsNyMKlXBtWSR"
         }
       ],
-      "duration_ms": 147682,
-      "name": "HOY ES UN MAL D\u00cdA",
-      "url": "https://open.spotify.com/track/2AyF7X6ZwS1001Z5qGsYDw"
+      "duration_ms": 167865,
+      "name": "Sefirot",
+      "url": "https://open.spotify.com/track/503P8jeXzfhYrEldXNLkrE"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1107,6 +1107,26 @@
       "duration_ms": 107168,
       "name": "Checkpoint",
       "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "POP!",
+        "url": "https://open.spotify.com/album/4lKQ0RdVuigNY5a77Py44t"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 147682,
+      "name": "HOY ES UN MAL D\u00cdA",
+      "url": "https://open.spotify.com/track/2AyF7X6ZwS1001Z5qGsYDw"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1183,26 +1203,6 @@
       "duration_ms": 147200,
       "name": "miramemiramemirame",
       "url": "https://open.spotify.com/track/4qbkcQlBjaYQbvY8foTdIO"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Sefirot",
-        "url": "https://open.spotify.com/album/7dYlNgFh5Z31syVgrABpU6"
-      },
-      "artists": [
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-        },
-        {
-          "name": "Said",
-          "url": "https://open.spotify.com/artist/4IXpKvMb4jsNyMKlXBtWSR"
-        }
-      ],
-      "duration_ms": 167865,
-      "name": "Sefirot",
-      "url": "https://open.spotify.com/track/503P8jeXzfhYrEldXNLkrE"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Flashbacks",
+        "url": "https://open.spotify.com/album/5bPHFdmPTk0INsI6YQrmWp"
+      },
+      "artists": [
+        {
+          "name": "bbonsai!!!",
+          "url": "https://open.spotify.com/artist/5e09T1HPyQw0grmg7BGFwj"
+        },
+        {
+          "name": "ten",
+          "url": "https://open.spotify.com/artist/5mPtQRZ7w8T0FTxNg4WKEa"
+        }
+      ],
+      "duration_ms": 103413,
+      "name": "Flashbacks",
+      "url": "https://open.spotify.com/track/3bdScpFTyK2ZQBWbobMwJP"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "waterpolo",
         "url": "https://open.spotify.com/album/267In0VMO1tk3QJ7UFadND"
       },
@@ -1499,42 +1519,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Flashbacks",
-        "url": "https://open.spotify.com/album/5bPHFdmPTk0INsI6YQrmWp"
-      },
-      "artists": [
-        {
-          "name": "bbonsai!!!",
-          "url": "https://open.spotify.com/artist/5e09T1HPyQw0grmg7BGFwj"
-        },
-        {
-          "name": "ten",
-          "url": "https://open.spotify.com/artist/5mPtQRZ7w8T0FTxNg4WKEa"
-        }
-      ],
-      "duration_ms": 103413,
-      "name": "Flashbacks",
-      "url": "https://open.spotify.com/track/3bdScpFTyK2ZQBWbobMwJP"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Cu\u00e1ntas Veces",
-        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
-      },
-      "artists": [
-        {
-          "name": "Nova Caeli",
-          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Cu\u00e1ntas Veces",
-      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "2 perdices",
         "url": "https://open.spotify.com/album/6Sam76k7K4MD0bh4wEIEpY"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 150795,
       "name": "2 perdices",
       "url": "https://open.spotify.com/track/4hKgioVmJ74290mQLo70vb"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Cu\u00e1ntas Veces",
+        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
+      },
+      "artists": [
+        {
+          "name": "Nova Caeli",
+          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Santuario de Amana",
-        "url": "https://open.spotify.com/album/72tR2JvY5gPLdTAXrgSSMW"
-      },
-      "artists": [
-        {
-          "name": "Sanju",
-          "url": "https://open.spotify.com/artist/6bYIsGX90Q8lPMeGRE28XD"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Santuario de Amana",
-      "url": "https://open.spotify.com/track/2Uwds45ycKbgei17pWVTl2"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "mverdeme^^",
         "url": "https://open.spotify.com/album/5G4Ms7zrknpfzkYQJBKkYT"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 120636,
       "name": "mverdeme^^",
       "url": "https://open.spotify.com/track/12VfBAI7Hee4BWhKpZPZR4"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Santuario de Amana",
+        "url": "https://open.spotify.com/album/72tR2JvY5gPLdTAXrgSSMW"
+      },
+      "artists": [
+        {
+          "name": "Sanju",
+          "url": "https://open.spotify.com/artist/6bYIsGX90Q8lPMeGRE28XD"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Santuario de Amana",
+      "url": "https://open.spotify.com/track/2Uwds45ycKbgei17pWVTl2"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "MOTOR",
-        "url": "https://open.spotify.com/album/155dFei2mmTKe5jsswJxuL"
-      },
-      "artists": [
-        {
-          "name": "Pink Kardashian",
-          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
-        },
-        {
-          "name": "Druwu",
-          "url": "https://open.spotify.com/artist/6ShvjNNRRfnkQEOhUJdFb5"
-        }
-      ],
-      "duration_ms": 155147,
-      "name": "MOTOR",
-      "url": "https://open.spotify.com/track/6biw3fcABUuQJLb1Ktxk9k"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Perra Alfa",
         "url": "https://open.spotify.com/album/6xhGUjoPjIU3LF0sISXDVm"
       },
@@ -1807,18 +1787,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "L\u00cdNEA CIRCULAR",
-        "url": "https://open.spotify.com/album/2UqnhqKRlu26z5HfoQmsZQ"
+        "name": "MOTOR",
+        "url": "https://open.spotify.com/album/155dFei2mmTKe5jsswJxuL"
       },
       "artists": [
         {
-          "name": "BRAVA",
-          "url": "https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ"
+          "name": "Pink Kardashian",
+          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
+        },
+        {
+          "name": "Druwu",
+          "url": "https://open.spotify.com/artist/6ShvjNNRRfnkQEOhUJdFb5"
         }
       ],
-      "duration_ms": 141098,
-      "name": "L\u00cdNEA CIRCULAR",
-      "url": "https://open.spotify.com/track/238o7UQJIXaXU2BZ2hYEfb"
+      "duration_ms": 155147,
+      "name": "MOTOR",
+      "url": "https://open.spotify.com/track/6biw3fcABUuQJLb1Ktxk9k"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1843,6 +1827,22 @@
       "duration_ms": 143816,
       "name": "Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/2PMY1TcOrXGITmbKgwUeoK"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "L\u00cdNEA CIRCULAR",
+        "url": "https://open.spotify.com/album/2UqnhqKRlu26z5HfoQmsZQ"
+      },
+      "artists": [
+        {
+          "name": "BRAVA",
+          "url": "https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ"
+        }
+      ],
+      "duration_ms": 141098,
+      "name": "L\u00cdNEA CIRCULAR",
+      "url": "https://open.spotify.com/track/238o7UQJIXaXU2BZ2hYEfb"
     },
     {
       "added_at": "2024-03-29 03:00:00",

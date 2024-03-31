@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Se Va A Repetir",
+        "url": "https://open.spotify.com/album/5PTFHMsMevzTigM5oi3uOF"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178394,
+      "name": "Se Va A Repetir",
+      "url": "https://open.spotify.com/track/4F29GPJbbAxj5cIbowmCXx"
+    },
+    {
+      "album": {
         "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 2) [USA]",
         "url": "https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz"
       },

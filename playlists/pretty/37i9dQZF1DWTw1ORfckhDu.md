@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa SMURDHY & Pyrythekid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,707 likes - 71 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,717 likes - 71 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 70 | [Sun puolesta](https://open.spotify.com/track/6vQsDGaqm6A0qpydE2GL9z) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Sun puolesta](https://open.spotify.com/album/400wyoAJHxbFJvJXGBcz4K) | 2:59 |
 | 71 | [MURDV](https://open.spotify.com/track/1AWpTnYMAIyuENulfwT0j4) | [MJ](https://open.spotify.com/artist/6DuYuCr5tT6QMfDVjjivcj) | [MURDV](https://open.spotify.com/album/4Ht1Eiy3hAjV1RJ53486Sq) | 2:01 |
 
-Snapshot ID: `MCxmM2U5NGMzZjJiMjE3MmE1M2Y5NzQ4YzEzMDc3MTU1N2E0OWEzMTc5`
+Snapshot ID: `MCw0OTRjMTNkMWZiMDkyNTI5MjNkZDNhMGUyZGVhN2QwZDE3MTBkZWNh`

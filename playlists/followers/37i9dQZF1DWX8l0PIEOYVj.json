@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 104624,
+  "2024-03-31": 104645,
   "date_first_scraped": "2022-07-14",
   "description": "Future & melodic bass. Cover: SLANDER & Trivecta",
   "name": "Bass Lounge",
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 96004,
       "name": "catalyst",
       "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
@@ -2587,7 +2587,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 178285,
       "name": "Drive You Crazy",
       "url": "https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH"
@@ -3781,7 +3781,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 196344,
       "name": "Forever Now",
       "url": "https://open.spotify.com/track/4mKr1vziKTFOHjQknnHjUS"
@@ -4539,7 +4539,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 267200,
       "name": "Half A World Away (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/0Uyi3DHJMoGURtYihR6LAN"
@@ -4841,6 +4841,32 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+    },
+    {
+      "album": {
+        "name": "Heaven Again",
+        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "Marc Rain",
+          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
+        },
+        {
+          "name": "Jetason",
+          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Heaven Again",
+      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
     },
     {
       "album": {
@@ -6568,6 +6594,28 @@
     },
     {
       "album": {
+        "name": "Lost (Meant To Be)",
+        "url": "https://open.spotify.com/album/0EEt1MWkPYfNOzKrAtRivg"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Lost (Meant To Be)",
+      "url": "https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF"
+    },
+    {
+      "album": {
         "name": "Two Worlds Apart",
         "url": "https://open.spotify.com/album/3IDwApCed2IedcLFrw15jm"
       },
@@ -7321,7 +7369,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 198400,
       "name": "Never Go Back",
       "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
@@ -8902,6 +8950,32 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2Ryc0qAxjQ5tq6qW97xxPS"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "D-SAB",
+          "url": "https://open.spotify.com/artist/57xz4m0bvaB8L67E4lNq32"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/2rtd07KsBCrph0crGFF24g"
+    },
+    {
+      "album": {
         "name": "Save Me (From Myself) (feat. Kyle Hume)",
         "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
       },
@@ -9407,6 +9481,32 @@
       "duration_ms": 241714,
       "name": "Someone To Forget",
       "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
+    {
+      "album": {
+        "name": "Something To Hold On To",
+        "url": "https://open.spotify.com/album/3rm0YLNGsLrIvzXODYkgkW"
+      },
+      "artists": [
+        {
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        {
+          "name": "Aaron Shirk",
+          "url": "https://open.spotify.com/artist/70P7yFhHgxKx4SMe6JCNOW"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Something To Hold On To",
+      "url": "https://open.spotify.com/track/5uxw5qlOS0fD2asqjjMzRs"
     },
     {
       "album": {
@@ -10579,7 +10679,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 197538,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
@@ -11334,6 +11434,28 @@
     },
     {
       "album": {
+        "name": "Windows Down",
+        "url": "https://open.spotify.com/album/3szKESHOV0A3hPxLBwe6kp"
+      },
+      "artists": [
+        {
+          "name": "Protohype",
+          "url": "https://open.spotify.com/artist/7KG6QgP9Xb87ybAr9C24qw"
+        },
+        {
+          "name": "Cristina Soto",
+          "url": "https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248346,
+      "name": "Windows Down",
+      "url": "https://open.spotify.com/track/67nRUNr1aMLlCKhtPQ62gC"
+    },
+    {
+      "album": {
         "name": "Wisdom (Amidy Remix)",
         "url": "https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp"
       },
@@ -11353,6 +11475,24 @@
       "duration_ms": 230390,
       "name": "Wisdom - Amidy Remix",
       "url": "https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602"
+    },
+    {
+      "album": {
+        "name": "With Or Without",
+        "url": "https://open.spotify.com/album/4wGeavaJF8hxmfSIzdNywd"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "With Or Without",
+      "url": "https://open.spotify.com/track/00gAMKnttfhle0s8FYz7IM"
     },
     {
       "album": {

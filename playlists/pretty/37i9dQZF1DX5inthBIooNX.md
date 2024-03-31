@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 
 > "the realization that each random passerby is living a life as vivid and complex as your own."
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,283 likes - 69 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,422 likes - 69 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 | 68 | [Supermarket](https://open.spotify.com/track/7fTsKBsnYyk0IG0zVNduEM) | [Stephen Rennicks](https://open.spotify.com/artist/1qwshnqmsxCWhZAnBIISeL) | [Normal People \(Original Score from the Television Series\)](https://open.spotify.com/album/3WsKQ06VJYFnl5msx295V9) | 1:29 |
 | 69 | [Ultraviolet](https://open.spotify.com/track/26g48sI8nJSWGtLecKZrej) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Invisible Forces](https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr) | 1:33 |
 
-Snapshot ID: `MCxiNGJiNmNkOGJjMTUyNDU1YmVhMzgxZGQyYjIyMjA5YTdmNWJjZWY4`
+Snapshot ID: `MCxmZDI2M2U5ZGU4OTgzNTE4OTVjNTY5NmM2ODRhZDVlMTA1OTg5ZGE2`

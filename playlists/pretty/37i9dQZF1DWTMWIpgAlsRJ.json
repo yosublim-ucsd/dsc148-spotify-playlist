@@ -1,12 +1,12 @@
 {
   "description": "The 100 greatest FIFA tracks of all time",
-  "num_followers": 298661,
+  "num_followers": 298716,
   "original_name": "Ultimate FIFA Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWRjZTk2OWQ4OWNjMzI1MmViYjZjNDIxYjI0OGIzZTgwOThkMDYz",
+  "snapshot_id": "MCw4NzhmYThhZTMxZDAxNzdjMzBhMzA4NzgyNjhlOWJmNjUxYmVmYjkz",
   "tracks": [
     {
       "added_at": "2022-11-07 18:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
-        "name": "Fantasies",
-        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Gold Guns Girls",
-      "url": "https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S"
-    },
-    {
-      "added_at": "2022-11-07 18:00:00",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2022-11-07 18:00:00",
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Gold Guns Girls",
+      "url": "https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S"
     },
     {
       "added_at": "2022-11-07 18:00:00",

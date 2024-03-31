@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 537644,
+  "2024-03-31": 537717,
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest hits in country music. Cover: Zach Bryan & Kacey Musgraves",
+  "description": "The biggest hits in country music. Cover: Dasha",
   "name": "All About Country",
   "tracks": [
     {
@@ -1796,6 +1796,24 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
+    },
+    {
+      "album": {
         "name": "Convertible",
         "url": "https://open.spotify.com/album/04CmrAsBTjx5n0PM3PBw7w"
       },
@@ -3579,7 +3597,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 162733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
@@ -9976,7 +9994,7 @@
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 235636,
+      "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },

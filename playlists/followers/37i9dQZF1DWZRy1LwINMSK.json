@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 106165,
+  "2024-03-31": 106252,
   "date_first_scraped": "2022-01-24",
   "description": "La casa del trap chileno al mando de Lleflight.",
   "name": "Trapperz Chile",
@@ -87,7 +87,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 249915,
       "name": "4 My Guap",
       "url": "https://open.spotify.com/track/3qobz0gjII9F42kAdrvueO"
@@ -1660,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "HIPOCRES\u00cdA",
+        "url": "https://open.spotify.com/album/1j4TNRcTJAKBphndDuLsuC"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81081,
+      "name": "HIPOCRES\u00cdA",
+      "url": "https://open.spotify.com/track/1407BXnFbdE9bZvAL57NxB"
+    },
+    {
+      "album": {
         "name": "Hip\u00f3critas",
         "url": "https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0"
       },
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 239349,
       "name": "Juegos de Matel (feat. El Menor y El Barto)",
       "url": "https://open.spotify.com/track/6vdBpuktDTX4Y7JPAxgTNF"
@@ -4349,6 +4367,24 @@
       "duration_ms": 161383,
       "name": "Tu No Saben",
       "url": "https://open.spotify.com/track/4P2RAk00C46M6qXvZtlSBX"
+    },
+    {
+      "album": {
+        "name": "TuUuUuU",
+        "url": "https://open.spotify.com/album/7foWzeakE3sce4chl3S3iv"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139307,
+      "name": "TuUuUuU",
+      "url": "https://open.spotify.com/track/438gEFQbF9yb0O90B02GTP"
     },
     {
       "album": {

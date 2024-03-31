@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Pepe Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,216 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,308 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 24 | [Te Vas Así](https://open.spotify.com/track/1pmal0R4yXBQw7LxEKkGL9) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Te Vas Así](https://open.spotify.com/album/2Vxp9EEHqRgk5Hn5udBB6Z) | 3:11 |
 | 25 | [Ahí Les Encargo](https://open.spotify.com/track/4r09yGOCBWiE53hrocKEk7) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Grupo Sin Rumbo](https://open.spotify.com/artist/2mpqANx94jc63KBSG9R4K4) | [Ahí Les Encargo](https://open.spotify.com/album/2zxqhFZBBP9SFath4z65pd) | 2:47 |
 | 26 | [Búscame](https://open.spotify.com/track/2vM3jK9t1YqdydOgS3T1b4) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Búscame](https://open.spotify.com/album/4iAWI9q2g46nnZtEkm83Tu) | 2:53 |
-| 27 | [No Confíes En Mi](https://open.spotify.com/track/20Aju7Cbpq4D25P3seooun) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [No Confíes En Mi](https://open.spotify.com/album/6quSFU1RDVfyOKVdSTkaVL) | 3:03 |
+| 27 | [No Confíes en Mí](https://open.spotify.com/track/20Aju7Cbpq4D25P3seooun) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [No Confíes en Mí](https://open.spotify.com/album/6quSFU1RDVfyOKVdSTkaVL) | 3:03 |
 | 28 | [El Fuerte](https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Fuerte](https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5) | 2:30 |
 | 29 | [No Mata Un Adiós](https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 3:12 |
 | 30 | [Anormal](https://open.spotify.com/track/6vsIJbmwdb8GwJzNQOBOUd) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Los de Encargo](https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Vueltas](https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Vueltas](https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34) | 2:39 |
 | 50 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
 
-Snapshot ID: `MCw4Y2Q0OTY5NmYzNDQzMzcyNTkxNjY0YTk3NjQ0NzdlZmMzZTU4N2Uz`
+Snapshot ID: `MCw5ODUwNzI2ZDYxY2I4MjVkZDc4ZjUxZmZjMThhOGYzMWZkNDEwN2Uy`

@@ -1,13 +1,81 @@
 {
   "description": "Future K-Pop hits! Cover: Dynamicduo",
-  "num_followers": 804098,
+  "num_followers": 804262,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTNjNmM4YmZiMGM1ODM0NzY4M2Q0ZTVhNTBhNDAzMzI5OGRiZDA2",
+  "snapshot_id": "MCw5MjMxYTUxZjgzNWM0MjgzNDNlZTg1ZDUwYTQwZGQyZjZhMmY4YjQw",
   "tracks": [
+    {
+      "added_at": "2024-03-29 05:42:51",
+      "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 163598,
+      "name": "i wonder... (with Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX"
+    },
+    {
+      "added_at": "2024-03-30 15:34:24",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-03-29 05:42:51",
+      "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "His Car Isn't Yours",
+      "url": "https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM"
+    },
+    {
+      "added_at": "2024-03-30 15:34:24",
+      "album": {
+        "name": "<Pre 1 : Birth>",
+        "url": "https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS"
+    },
     {
       "added_at": "2024-03-29 05:42:51",
       "album": {
@@ -33,20 +101,36 @@
       "url": "https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4"
     },
     {
-      "added_at": "2024-03-29 05:42:51",
+      "added_at": "2024-03-30 15:34:24",
       "album": {
-        "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+        "name": "The 1st Mini Album 'WE UNIS'",
+        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
         }
       ],
-      "duration_ms": 184053,
-      "name": "His Car Isn't Yours",
-      "url": "https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM"
+      "duration_ms": 188133,
+      "name": "SUPERWOMAN",
+      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
+    },
+    {
+      "added_at": "2024-03-29 05:42:51",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2"
     },
     {
       "added_at": "2024-03-29 05:42:51",
@@ -67,18 +151,38 @@
     {
       "added_at": "2024-03-29 05:42:51",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+        "name": "I'm the Queen in This Life (Original Soundtrack) Part.2",
+        "url": "https://open.spotify.com/album/7vuG4RLkjvNts1Hy8QK49m"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "Seungmin",
+          "url": "https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf"
         }
       ],
-      "duration_ms": 161546,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2"
+      "duration_ms": 173480,
+      "name": "Phobia",
+      "url": "https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie"
+    },
+    {
+      "added_at": "2024-03-29 05:42:51",
+      "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 183149,
+      "name": "i don't know (with HUH YUNJIN of LE SSERAFIM)",
+      "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
     },
     {
       "added_at": "2024-03-29 05:42:51",
@@ -115,22 +219,6 @@
     {
       "added_at": "2024-03-29 05:42:51",
       "album": {
-        "name": "I'm the Queen in This Life (Original Soundtrack) Part.2",
-        "url": "https://open.spotify.com/album/7vuG4RLkjvNts1Hy8QK49m"
-      },
-      "artists": [
-        {
-          "name": "Seungmin",
-          "url": "https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Phobia",
-      "url": "https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie"
-    },
-    {
-      "added_at": "2024-03-29 05:42:51",
-      "album": {
         "name": "What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri]",
         "url": "https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn"
       },
@@ -143,26 +231,6 @@
       "duration_ms": 138306,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/4NxbUHGeXsQgxvR8YKbHjC"
-    },
-    {
-      "added_at": "2024-03-29 05:42:51",
-      "album": {
-        "name": "HOPE ON THE STREET VOL.1",
-        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 163598,
-      "name": "i wonder... (with Jung Kook of BTS)",
-      "url": "https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX"
     },
     {
       "added_at": "2024-03-29 05:42:51",
@@ -363,26 +431,6 @@
       "duration_ms": 207453,
       "name": "Blooming just for you",
       "url": "https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI"
-    },
-    {
-      "added_at": "2024-03-29 05:42:51",
-      "album": {
-        "name": "HOPE ON THE STREET VOL.1",
-        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 183149,
-      "name": "i don't know (with HUH YUNJIN of LE SSERAFIM)",
-      "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
     },
     {
       "added_at": "2024-03-29 05:42:51",
@@ -639,22 +687,6 @@
     {
       "added_at": "2024-03-29 05:42:51",
       "album": {
-        "name": "25 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC"
-      },
-      "artists": [
-        {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "25 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac"
-    },
-    {
-      "added_at": "2024-03-29 05:42:51",
-      "album": {
         "name": "LA SOL MI",
         "url": "https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY"
       },
@@ -667,22 +699,6 @@
       "duration_ms": 172306,
       "name": "LA SOL MI",
       "url": "https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY"
-    },
-    {
-      "added_at": "2024-03-29 05:42:51",
-      "album": {
-        "name": "PASTEL",
-        "url": "https://open.spotify.com/album/1QxYNSafFlcKwmnazaU8yE"
-      },
-      "artists": [
-        {
-          "name": "LUN8",
-          "url": "https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "PASTEL",
-      "url": "https://open.spotify.com/track/4q0CYq46WxuMBCrXcs57vq"
     },
     {
       "added_at": "2024-03-29 05:42:51",
@@ -703,22 +719,6 @@
     {
       "added_at": "2024-03-29 05:42:51",
       "album": {
-        "name": "The Young Man and the Deep Sea",
-        "url": "https://open.spotify.com/album/2OvWzoOwfDi6BKee7d3XGC"
-      },
-      "artists": [
-        {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "La Mar",
-      "url": "https://open.spotify.com/track/4QXcrw2uElBPXrWcx7RkQ0"
-    },
-    {
-      "added_at": "2024-03-29 05:42:51",
-      "album": {
         "name": "BABYMONSTER Pre-Release Single [Stuck In The Middle]",
         "url": "https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 246236,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg"
-    },
-    {
-      "added_at": "2024-03-29 05:42:51",
-      "album": {
-        "name": "Doctor Slump (Original Television Soundtrack) Pt.3",
-        "url": "https://open.spotify.com/album/19AaWH1Naf7VdrsSDkNtsH"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 209877,
-      "name": "The Way to love myself",
-      "url": "https://open.spotify.com/track/0FT9NEMK3ndpjPNFwfOSjh"
     },
     {
       "added_at": "2024-03-29 05:42:51",
@@ -859,22 +843,6 @@
       "duration_ms": 179240,
       "name": "ICKY",
       "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
-    },
-    {
-      "added_at": "2024-03-29 05:42:51",
-      "album": {
-        "name": "The 4th Mini Album 'VERSUS'",
-        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
     },
     {
       "added_at": "2024-03-29 05:42:51",

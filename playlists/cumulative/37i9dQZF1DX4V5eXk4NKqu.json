@@ -2688,7 +2688,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 205462,
       "name": "Leche de Tigre",
       "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
@@ -2710,6 +2710,24 @@
       "duration_ms": 202146,
       "name": "lejos",
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+    },
+    {
+      "album": {
+        "name": "Lejos de Todo",
+        "url": "https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174610,
+      "name": "Lejos de Todo",
+      "url": "https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc"
     },
     {
       "album": {

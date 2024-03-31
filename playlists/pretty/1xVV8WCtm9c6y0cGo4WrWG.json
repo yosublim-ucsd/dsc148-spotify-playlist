@@ -1,12 +1,12 @@
 {
   "description": "New music from your favourite hip-hop artists, updated weekly! Featuring ScHoolboy Q, Yeat, Ice Spice, Drake, Nicki Minaj and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more",
-  "num_followers": 23520,
+  "num_followers": 23517,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "ODE2Nyw5NjllNjdkNjc0ODIzMDAyOGQwNWE4MDMxNjhkZDM5ODI5NzY1YWNi",
+  "snapshot_id": "ODE2OSxlZTBjNmI5N2EyYmNmMGI4NWY1MDUxYTk4YTQxMTdlYWY5NGE1YTc4",
   "tracks": [
     {
       "added_at": "2024-03-22 15:17:12",
@@ -1955,6 +1955,42 @@
       "duration_ms": 194213,
       "name": "if looks could kill",
       "url": "https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6"
+    },
+    {
+      "added_at": "2024-03-30 16:10:53",
+      "album": {
+        "name": "Bussin (with Rob49)",
+        "url": "https://open.spotify.com/album/4k19gVgEFR3eja9YAore44"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Bussin (with Rob49)",
+      "url": "https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2"
+    },
+    {
+      "added_at": "2024-03-30 16:12:53",
+      "album": {
+        "name": "HI-VOLTAGE",
+        "url": "https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "HI-VOLTAGE",
+      "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
     }
   ],
   "unique_name": "Hip-Hop Pulse",

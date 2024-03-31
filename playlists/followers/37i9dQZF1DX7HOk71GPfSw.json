@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 440775,
+  "2024-03-31": 443306,
   "date_first_scraped": "2020-10-13",
-  "description": "more like hyperstop playing this music please",
+  "description": "she did her hyper-homework",
   "name": "hyperpop",
   "tracks": [
     {
@@ -1419,6 +1419,24 @@
       "duration_ms": 152361,
       "name": "ABC (feat. Sophia Black)",
       "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
+    },
+    {
+      "album": {
+        "name": "Accelerator",
+        "url": "https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171705,
+      "name": "Accelerator",
+      "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
     },
     {
       "album": {
@@ -2871,7 +2889,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201141,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/7DKhGCTA1lGdZCLrsnJVr9"
@@ -3583,6 +3601,24 @@
       "duration_ms": 172953,
       "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
       "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP"
+    },
+    {
+      "album": {
+        "name": "be free",
+        "url": "https://open.spotify.com/album/7eHKRZD8cQN8XHAGKkMlLf"
+      },
+      "artists": [
+        {
+          "name": "dear cupid.",
+          "url": "https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177555,
+      "name": "be free",
+      "url": "https://open.spotify.com/track/1Z4DI1fToBTiOiH0cJVBDZ"
     },
     {
       "album": {
@@ -5919,7 +5955,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 175806,
       "name": "c u never",
       "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
@@ -10456,6 +10492,24 @@
     },
     {
       "album": {
+        "name": "Elk Skin",
+        "url": "https://open.spotify.com/album/5twIZTmDYO9d7awAUvVRkV"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172082,
+      "name": "Elk Skin",
+      "url": "https://open.spotify.com/track/34gdkFDYWeqyqr8u7KSrWD"
+    },
+    {
+      "album": {
         "name": "Elysian Park",
         "url": "https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe"
       },
@@ -12181,6 +12235,24 @@
       "duration_ms": 136540,
       "name": "fisheye",
       "url": "https://open.spotify.com/track/5FyREIsIuTxSlt3kYuAqx6"
+    },
+    {
+      "album": {
+        "name": "fkdup",
+        "url": "https://open.spotify.com/album/6PTbJ1GmwwHuxqDcy0yAZV"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131779,
+      "name": "fkdup",
+      "url": "https://open.spotify.com/track/7uHGZ7mVm1pVsdItZQmChw"
     },
     {
       "album": {
@@ -17450,6 +17522,28 @@
     },
     {
       "album": {
+        "name": "I LUV IT (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "I LUV IT (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/2awUCq0Bf4VWSGQrSxl1Eb"
       },
@@ -17587,7 +17681,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 189500,
       "name": "I Took A Pill In Ibiza",
       "url": "https://open.spotify.com/track/5E12S5He8S89IdbNli2YiV"
@@ -25347,7 +25441,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 199873,
       "name": "oh, Mr DJ!!!",
       "url": "https://open.spotify.com/track/2E8LllpSU2FmTFbo9EKfQz"
@@ -25485,6 +25579,24 @@
       "duration_ms": 237281,
       "name": "Okeanos",
       "url": "https://open.spotify.com/track/155TifjB3ls4nJiCab7sM8"
+    },
+    {
+      "album": {
+        "name": "Puer",
+        "url": "https://open.spotify.com/album/5vrivnteSAZOK31XVNcaid"
+      },
+      "artists": [
+        {
+          "name": "Laces",
+          "url": "https://open.spotify.com/artist/2OvUjjcJMGyNzBfdx2DRzr"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310344,
+      "name": "Olce IV",
+      "url": "https://open.spotify.com/track/22aEH1qwd2bAAKucLLpZEL"
     },
     {
       "album": {
@@ -26585,6 +26697,24 @@
       "duration_ms": 91428,
       "name": "past.years",
       "url": "https://open.spotify.com/track/3jLPx1ssDq6wfTK6VFQJkN"
+    },
+    {
+      "album": {
+        "name": "payme",
+        "url": "https://open.spotify.com/album/1OjjMmW7qCVJs8j1pQJ8hB"
+      },
+      "artists": [
+        {
+          "name": "RADA",
+          "url": "https://open.spotify.com/artist/4Mt29F9smgR7ghycaf5fI5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "payme",
+      "url": "https://open.spotify.com/track/6rC7rDOKXaxs33kt1Gadgp"
     },
     {
       "album": {
@@ -27701,7 +27831,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 146625,
       "name": "PRETTY GIRL",
       "url": "https://open.spotify.com/track/2OuCWKJOjKGbvzyJH9wpfd"
@@ -27741,6 +27871,24 @@
       "duration_ms": 134111,
       "name": "prick",
       "url": "https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k"
+    },
+    {
+      "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134817,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19"
     },
     {
       "album": {
@@ -29095,7 +29243,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 154356,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/4HPUbi24ZEBCwO9kSQ0Jk3"
@@ -32609,7 +32757,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 194084,
       "name": "Something bad",
       "url": "https://open.spotify.com/track/6n5lG9tQssEHV5Z5zmaWhR"

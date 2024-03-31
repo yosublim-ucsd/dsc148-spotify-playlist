@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 985911,
+  "2024-03-31": 986004,
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:57YsESW6BGZLHQgOg8AiAq\">Charity Gayle</a> x <a href=\"spotify:artist:79GBRmCCcohvXbXLvsv3nO\">Ryan Kennedy</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:5d1JhBfyb58upMXCZOdbQu\">Phil Wickham</a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1033,6 +1033,24 @@
       "duration_ms": 239480,
       "name": "Better Hands",
       "url": "https://open.spotify.com/track/2Hb74c1PVOMy5XYYUNIoU3"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Hope",
+        "url": "https://open.spotify.com/album/3xaGigA4NYkrLRBl2MXOe4"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208660,
+      "name": "Bigger Than Hope",
+      "url": "https://open.spotify.com/track/4BwTyRXI3RBYoWTW9m592J"
     },
     {
       "album": {
@@ -2173,6 +2191,28 @@
       "duration_ms": 230206,
       "name": "Current / One Day At A Time - Medley",
       "url": "https://open.spotify.com/track/3Y9yvWKk9n80sPjxVk4maA"
+    },
+    {
+      "album": {
+        "name": "Death Is Hollow",
+        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519288,
+      "name": "Death Is Hollow (Live)",
+      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
     },
     {
       "album": {
@@ -7250,6 +7290,28 @@
     },
     {
       "album": {
+        "name": "people need people",
+        "url": "https://open.spotify.com/album/62nxZv3qXesKfzfRYXvt9V"
+      },
+      "artists": [
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199595,
+      "name": "people need people",
+      "url": "https://open.spotify.com/track/2tm5t7lVSRBWEOM8TSeumV"
+    },
+    {
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/0kMwokkiRTrwI3JL1QamlE"
       },
@@ -8160,6 +8222,24 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/4npiT4Jjd9rBy8sxWy7PLF"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202879,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT"
+    },
+    {
+      "album": {
         "name": "Scatter",
         "url": "https://open.spotify.com/album/6AkLjVZEVlZK5bwYOecZHP"
       },
@@ -8624,6 +8704,24 @@
     },
     {
       "album": {
+        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
+    },
+    {
+      "album": {
         "name": "Supernatural Love (Live At Chapel)",
         "url": "https://open.spotify.com/album/3orusb2lMoBTqquDcdSFzr"
       },
@@ -9005,6 +9103,28 @@
       "duration_ms": 296715,
       "name": "The Church I Grew Up In - Live",
       "url": "https://open.spotify.com/track/6NXh3bYzUABYU2HEneRbMC"
+    },
+    {
+      "album": {
+        "name": "The Commission (Go Tell The World)",
+        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Isaiah Templeton",
+          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245475,
+      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
+      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
     },
     {
       "album": {
@@ -10971,7 +11091,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 304864,
       "name": "You Keep Your Promises - Live",
       "url": "https://open.spotify.com/track/0QgO8EeFMktU1vQUCduzFJ"

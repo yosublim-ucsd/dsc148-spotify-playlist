@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Orochi e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,586 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,679 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 44 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 45 | [Sim ou Não \- Ao Vivo](https://open.spotify.com/track/0hWc5QZGLh14Skp6rKPB9C) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Sim ou Não \(Ao Vivo\)](https://open.spotify.com/album/7bXQjVDcnOwxULak7LS6pF) | 3:12 |
 | 46 | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 |
-| 47 | [Não Tem Hora, Nem Lugar / Por Favor / Amor a Três \- Ao Vivo](https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV) | [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Pagode do Adame Entre Amigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY) | 4:24 |
-| 48 | [Trajetória \- Ao Vivo](https://open.spotify.com/track/67Cco0htUXmnuPYKgAkJnq) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ) | [10 Anos de Caju, Vol\. 1](https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq) | 3:16 |
+| 47 | [Trajetória \- Ao Vivo](https://open.spotify.com/track/67Cco0htUXmnuPYKgAkJnq) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ) | [10 Anos de Caju, Vol\. 1](https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq) | 3:16 |
+| 48 | [Não Tem Hora, Nem Lugar / Por Favor / Amor a Três \- Ao Vivo](https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV) | [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Pagode do Adame Entre Amigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY) | 4:24 |
 | 49 | [Dorme Com Deus \- Ao Vivo](https://open.spotify.com/track/29x19EWLWMB1sn8WD5iynZ) | [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Dorme Com Deus \(Ao Vivo\)](https://open.spotify.com/album/4rSEw4EQsTnuF92r9NWbDF) | 3:35 |
 | 50 | [Poetisas no Topo 3](https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Sodomita](https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr) | [Poetisas no Topo 3](https://open.spotify.com/album/59B1Leein60p2cEODo6OHl) | 6:14 |
 
-Snapshot ID: `MCxkMWU3MmU2ZTc1ODllNzY1MmU4OWRkY2VjMjE4NDhhMDBjNGQ1ZmJl`
+Snapshot ID: `MCw0MWM5ZTE0MDFjZjA2OWYzYzc4ODZkOGI2NDJiODhlZjQ2YTFmNjky`

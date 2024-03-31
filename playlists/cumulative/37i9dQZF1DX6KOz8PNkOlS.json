@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 161229,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
@@ -1660,6 +1660,28 @@
       "duration_ms": 104072,
       "name": "NOBODY WANTS TO BE MY FRIEND",
       "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228786,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
     },
     {
       "album": {

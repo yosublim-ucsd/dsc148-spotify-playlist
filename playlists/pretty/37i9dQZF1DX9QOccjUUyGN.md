@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Pedro Lotto
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,646 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,643 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 18 | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/track/3ZXt3rfyWUjRFANw2KsXN3) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/album/4VpX1NU92MkXt0slgyFrbX) | 3:32 |
 | 19 | [Tons de Jazz](https://open.spotify.com/track/3sxSLKDArZCnUXvAETLYxA) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Tons de Jazz](https://open.spotify.com/album/32qUMXT9q8uwFNFSgH1vuk) | 2:14 |
 | 20 | [Vira a Chave](https://open.spotify.com/track/5AMMdq7N2kTSOXACCPNruT) | [Jackdi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Vira a Chave](https://open.spotify.com/album/2I4igYeiqIzU6Soc6fyUzA) | 3:16 |
-| 21 | [Licor De Chocolate](https://open.spotify.com/track/4BptEu3zQEGc8NmYgFrC55) | [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615) | [Licor De Chocolate](https://open.spotify.com/album/4XEVxryVIjKDF4nxfWI70W) | 5:54 |
+| 21 | [Licor De Chocolate](https://open.spotify.com/track/4BptEu3zQEGc8NmYgFrC55) | [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615) | [Licor De Chocolate](https://open.spotify.com/album/4XEVxryVIjKDF4nxfWI70W) | 5:54 |
 | 22 | [Conduta](https://open.spotify.com/track/5trmONgYJKUxXfGucmV5am) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Trap Select](https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91) | [Conduta](https://open.spotify.com/album/5HuOu7c5Umv6Jy8PS1HyHJ) | 2:33 |
 | 23 | [1 Carro Por Mês](https://open.spotify.com/track/5blbXhDaRRuepTvD5WNTTD) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6) | [PRODÍGIO](https://open.spotify.com/album/2nOhblCsrKSO9ImIQn1Zsa) | 3:13 |
 | 24 | [EU](https://open.spotify.com/track/41IaQg6FancXX1YjQmHlpR) | [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4), [Duda Pasqualin](https://open.spotify.com/artist/2XyFVVRijWv2Ndh6Z4HT6u) | [EU](https://open.spotify.com/album/1NuDUGtdxzZJwxcx4rS7PP) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Na Mídia](https://open.spotify.com/track/3TgpLBsZFo8DAe2JgUd3fV) | [Canalha](https://open.spotify.com/artist/6egerencVd9waJcHzuQA77), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Na Mídia](https://open.spotify.com/album/3SMwBuhATR0Go1qsWcqIkb) | 1:54 |
 | 75 | [Paris 6](https://open.spotify.com/track/2npRs0FZsaXmOmFD7cfInK) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Paris 6](https://open.spotify.com/album/46P5Oww3PaXpmWsAZe7kfS) | 2:41 |
 
-Snapshot ID: `MCw3ZWZlZDI3ZmI2ODZjZDJiNjIxYTI5OTQzOTU4MTliYjFmNjgwN2Mw`
+Snapshot ID: `MCw4NWQ3MDRjZGNhNTkzODYyYjZjOTdkYzAwZTJjYWEzNzAzZDQ3Zjgw`

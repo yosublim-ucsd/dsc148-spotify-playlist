@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 156129,
       "name": "50\u039a",
       "url": "https://open.spotify.com/track/3CX4BBi2XmAi6mPduZCCy2"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 225000,
       "name": "Allegra (N1)",
       "url": "https://open.spotify.com/track/7B528NXMGf4cqBJSK036yl"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 134636,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/0fviGjJ8PqZZsnIgNDV8R9"
@@ -2911,6 +2911,28 @@
     },
     {
       "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "GoldenChild",
+          "url": "https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121833,
+      "name": "Athens Boys",
+      "url": "https://open.spotify.com/track/5qeIRvinf8lCJ0im3XNphV"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
       },
@@ -2978,7 +3000,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 142031,
       "name": "ATOUTALER",
       "url": "https://open.spotify.com/track/2ZTxf5fvD1tXEEyjUcYxN1"
@@ -4337,6 +4359,28 @@
     },
     {
       "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225433,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/7etvYbERK912D4iWVNLFIi"
+    },
+    {
+      "album": {
         "name": "LIBERTA",
         "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
       },
@@ -5206,7 +5250,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -5272,6 +5316,28 @@
       "duration_ms": 169687,
       "name": "Cash",
       "url": "https://open.spotify.com/track/3o16y3xlZCwYbPNmhKiN7R"
+    },
+    {
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191233,
+      "name": "Cash Flow",
+      "url": "https://open.spotify.com/track/6H5BlNJFREDD0hSGknJ4o1"
     },
     {
       "album": {
@@ -7529,6 +7595,28 @@
     },
     {
       "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Documento",
+      "url": "https://open.spotify.com/track/6oqs6QkkOjwmsz4ZoYewWp"
+    },
+    {
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -8859,6 +8947,28 @@
     },
     {
       "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Ena Euxaristw",
+      "url": "https://open.spotify.com/track/1eKeyYwTPKPEUs8f7Vw5yR"
+    },
+    {
+      "album": {
         "name": "Ena Tsigaro",
         "url": "https://open.spotify.com/album/442Xlp5x4FAf7tKdKEzP7t"
       },
@@ -9122,6 +9232,28 @@
       "duration_ms": 163448,
       "name": "Epitages",
       "url": "https://open.spotify.com/track/0uZD63eg4dbvqs0MW375Pi"
+    },
+    {
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Era",
+      "url": "https://open.spotify.com/track/1OlibFHpAzvn7qgwhAVyZZ"
     },
     {
       "album": {
@@ -9608,7 +9740,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 161511,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/2HtBhiPTlE1bFElYq9kGv0"
@@ -9798,6 +9930,28 @@
       "duration_ms": 226219,
       "name": "Favori",
       "url": "https://open.spotify.com/track/31LeU0W2AL3zLpdtgWniOv"
+    },
+    {
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210233,
+      "name": "Fck Em All",
+      "url": "https://open.spotify.com/track/1F03Wa1Q9wZUqAvRFuK7NJ"
     },
     {
       "album": {
@@ -11056,7 +11210,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 175714,
       "name": "Gdysou",
       "url": "https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC"
@@ -12814,6 +12968,28 @@
       "duration_ms": 158463,
       "name": "I Didn't Change My Number",
       "url": "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q"
+    },
+    {
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249166,
+      "name": "I Eukairia Mou",
+      "url": "https://open.spotify.com/track/2JnrJv8LIcdGsEjVR0TGFk"
     },
     {
       "album": {
@@ -14604,7 +14780,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 222604,
       "name": "KATHE MERA",
       "url": "https://open.spotify.com/track/3KotwW6ZXd9CeWc7rS2rWa"
@@ -14960,6 +15136,28 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233700,
+      "name": "Kitrinos Typos",
+      "url": "https://open.spotify.com/track/3VzBVjc2AUXgbTX2buJseu"
     },
     {
       "album": {
@@ -16492,7 +16690,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 234296,
       "name": "Ligo Akoma",
       "url": "https://open.spotify.com/track/2YAm3dOE1qYNsyMR6Qb1Am"
@@ -16536,7 +16734,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -18864,7 +19062,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 140723,
       "name": "Mhn Metras Lefta",
       "url": "https://open.spotify.com/track/4bou8NIBgZGzNbLahuZ9W4"
@@ -19200,6 +19398,32 @@
       "duration_ms": 187972,
       "name": "Mili",
       "url": "https://open.spotify.com/track/4FMfbom8BeocIBepxkzTqK"
+    },
+    {
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        },
+        {
+          "name": "Kamer",
+          "url": "https://open.spotify.com/artist/620TTTc8HGtTDHTvOhjIIm"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "Millennials",
+      "url": "https://open.spotify.com/track/5wNRurwIKQPsMPbK4erXUu"
     },
     {
       "album": {
@@ -20410,7 +20634,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 151384,
       "name": "NA PAS",
       "url": "https://open.spotify.com/track/6LDOMYlK4NGHVwZYhpmkJB"
@@ -20782,7 +21006,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 167321,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/0DA4pv2ec398PtuDWFLOK8"
@@ -22399,6 +22623,28 @@
     },
     {
       "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Paidi Tou 2000",
+      "url": "https://open.spotify.com/track/5gVtGn0DJ48z8VbNWHIbZ1"
+    },
+    {
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
@@ -23673,6 +23919,28 @@
     },
     {
       "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Polybag",
+      "url": "https://open.spotify.com/track/6w2t83JpJrxXP5PgCYNglq"
+    },
+    {
+      "album": {
         "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
@@ -23844,6 +24112,28 @@
       "duration_ms": 153400,
       "name": "Pososta",
       "url": "https://open.spotify.com/track/3bUK1vaGqyotZ0llTBRLyc"
+    },
+    {
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Posto",
+      "url": "https://open.spotify.com/track/5wKTSU7yuaXOUZkQXXUheS"
     },
     {
       "album": {
@@ -25069,6 +25359,28 @@
     },
     {
       "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Revanche",
+      "url": "https://open.spotify.com/track/7jGvDnDSlp9WtiQDQ6GSw6"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -26277,6 +26589,24 @@
     },
     {
       "album": {
+        "name": "Siga To Prama",
+        "url": "https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Siga To Prama",
+      "url": "https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF"
+    },
+    {
+      "album": {
         "name": "Poli_Ploki",
         "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
       },
@@ -26544,7 +26874,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -29476,7 +29806,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 188817,
       "name": "TOO BASIC",
       "url": "https://open.spotify.com/track/3AK7Flu634dMN6XoqcBKnh"

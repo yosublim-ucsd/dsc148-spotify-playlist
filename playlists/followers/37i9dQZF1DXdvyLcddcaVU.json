@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 497710,
+  "2024-03-31": 498607,
   "date_first_scraped": "2023-07-29",
   "description": "#fyp\n",
   "name": "t'as la ref ?",
@@ -131,6 +131,24 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "4 \u00c9toiles",
+        "url": "https://open.spotify.com/album/1FiqmjXMWU1ArwwzlGhtcR"
+      },
+      "artists": [
+        {
+          "name": "pkc",
+          "url": "https://open.spotify.com/artist/0giIPo49HnTdeIT6cMPB8W"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150703,
+      "name": "4 \u00c9toiles",
+      "url": "https://open.spotify.com/track/47CDhaY1rg0DS1d0MZXfRZ"
     },
     {
       "album": {
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 264263,
       "name": "Diamondz n Roses",
       "url": "https://open.spotify.com/track/7Aua757VSl2zj4YZ6HHMfH"
@@ -2287,7 +2305,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 213933,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1"
@@ -2459,6 +2477,24 @@
       "duration_ms": 137437,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
+    },
+    {
+      "album": {
+        "name": "Ghetto Millionnaire",
+        "url": "https://open.spotify.com/album/5fsU9tJKeWm9gt7ptK1ZJa"
+      },
+      "artists": [
+        {
+          "name": "Black Mamba",
+          "url": "https://open.spotify.com/artist/4jy5Hzh99hVqmyIsPVrjSI"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262105,
+      "name": "Ghetto Millionnaire",
+      "url": "https://open.spotify.com/track/4umILaHHpP1jgkpl6BUK9j"
     },
     {
       "album": {
@@ -3635,7 +3671,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 190688,
       "name": "Ma berceuse",
       "url": "https://open.spotify.com/track/6v9xfVUM93O2pspXGFznvP"
@@ -4175,7 +4211,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 214146,
       "name": "Mon tiek ti amo",
       "url": "https://open.spotify.com/track/2HzJCYwtTXqrj72mE2hnEW"
@@ -4335,7 +4371,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
@@ -4517,6 +4553,28 @@
       "duration_ms": 200043,
       "name": "Oh la",
       "url": "https://open.spotify.com/track/36obIpPE10B8VGMMgRDTOP"
+    },
+    {
+      "album": {
+        "name": "Oh qu'elle est belle",
+        "url": "https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "Oh qu'elle est belle",
+      "url": "https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr"
     },
     {
       "album": {
@@ -4928,6 +4986,28 @@
     },
     {
       "album": {
+        "name": "La vraie vie (Deluxe)",
+        "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        },
+        {
+          "name": "Jean Dujardin",
+          "url": "https://open.spotify.com/artist/1SNXHU6Ra98YVdhuoZC5FM"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292826,
+      "name": "Pour un pote - Bande originale du film \"Brice 3\"",
+      "url": "https://open.spotify.com/track/38sc2aKVyDG77l7kv6zBDZ"
+    },
+    {
+      "album": {
         "name": "Enna",
         "url": "https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi"
       },
@@ -5069,6 +5149,24 @@
       "duration_ms": 128498,
       "name": "Rebenga",
       "url": "https://open.spotify.com/track/0WqcGZ1Qd1r1zIA1Os2l14"
+    },
+    {
+      "album": {
+        "name": "REVIENS",
+        "url": "https://open.spotify.com/album/6xHDF3Qn0f3DUatjk8hIMC"
+      },
+      "artists": [
+        {
+          "name": "NAIMA",
+          "url": "https://open.spotify.com/artist/2g2MbXnceRu1A257H9GfFP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248346,
+      "name": "Reviens",
+      "url": "https://open.spotify.com/track/1z7GbDQVPdRYFjShnxbT4x"
     },
     {
       "album": {
@@ -5552,6 +5650,24 @@
     },
     {
       "album": {
+        "name": "JVLIVS",
+        "url": "https://open.spotify.com/album/2b2K5XuhYChG05wLpebMll"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243426,
+      "name": "Skydweller",
+      "url": "https://open.spotify.com/track/7mhngio9CplSUyfntAfHjm"
+    },
+    {
+      "album": {
         "name": "Slowdown (girl what's up)",
         "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
       },
@@ -5958,7 +6074,7 @@
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 235636,
+      "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },

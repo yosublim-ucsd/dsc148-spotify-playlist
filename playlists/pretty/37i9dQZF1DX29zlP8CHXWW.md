@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 
 > Songs to prepare your heart for the <a href="https://www.passion2024.com/"> Passion 2024 </a> conference.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,873 likes - 52 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,931 likes - 52 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 | 51 | [Just Too Good](https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf) | 3:23 |
 | 52 | [Good God Almighty](https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:11 |
 
-Snapshot ID: `MCw4ZTc1OGEyZTVlMTQ1ZmQxZjIzYzkzNTZmYjljNGQ1N2E5ZTJjN2Zi`
+Snapshot ID: `MCwwNDgwYmI0NjYwMzIyZDBiYzdiOTk4MGY0ZWMwYTExNjIwYTQzMTVj`

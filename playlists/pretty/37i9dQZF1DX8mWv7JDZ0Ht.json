@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio",
-  "num_followers": 434623,
+  "num_followers": 434636,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGM3ODRhY2I1ZDUyN2MyYzczYmVhZjAwNTBhYmIyNGNhN2NhNjAz",
+  "snapshot_id": "MCw4OGExMzY1MTU1ZTQ2ZGFjMmViYWNhMTcwZjM3ZTgxMmQwZDQ4MzUx",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 218604,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 219306,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -579,26 +579,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Pecadinho",
-        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
+        "name": "At\u00e9 Envelhecer",
+        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
       },
       "artists": [
         {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Pecadinho",
-      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
+      "duration_ms": 177500,
+      "name": "At\u00e9 Envelhecer",
+      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -623,18 +615,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "At\u00e9 Envelhecer",
-        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+        "name": "Pecadinho",
+        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
         }
       ],
-      "duration_ms": 177500,
-      "name": "At\u00e9 Envelhecer",
-      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+      "duration_ms": 126000,
+      "name": "Pecadinho",
+      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Renata",
         "url": "https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 170294,
       "name": "Renata",
       "url": "https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Em Voc\u00ea",
-        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "putz",
+        "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 108307,
+      "name": "putz",
+      "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Vou Fugir",
         "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 138688,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "putz",
-        "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 108307,
-      "name": "putz",
-      "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Montanha Russa",
+        "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 170965,
+      "name": "Montanha Russa",
+      "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Planeta Para",
         "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 215000,
       "name": "Como Tinha Que Ser",
       "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Montanha Russa",
-        "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 170965,
-      "name": "Montanha Russa",
-      "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
     },
     {
       "added_at": "2024-03-29 03:00:00",

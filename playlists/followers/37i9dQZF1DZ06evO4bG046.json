@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 32660,
+  "2024-03-31": 32667,
   "date_first_scraped": "2022-09-17",
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
   "name": "This Is Los Jaivas",
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 255153,
       "name": "Ni\u00f1a Serrana (En Vivo)",
       "url": "https://open.spotify.com/track/1kqutTDOwYGSDilE2jfFdI"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 293026,
       "name": "Todos Americanos",
       "url": "https://open.spotify.com/track/69Evt4yslyJhrDYmkD3DHV"

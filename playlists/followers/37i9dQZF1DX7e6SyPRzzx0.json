@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 54630,
+  "2024-03-31": 54707,
   "date_first_scraped": "2023-12-02",
-  "description": "Cover: Yeat",
+  "description": "The home of rage rap. Cover: Homixide Gang",
   "name": "RAGE",
   "tracks": [
     {
@@ -385,7 +385,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 94666,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ"
@@ -481,6 +481,24 @@
       "duration_ms": 168160,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
+    },
+    {
+      "album": {
+        "name": "HI-VOLTAGE",
+        "url": "https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "HI-VOLTAGE",
+      "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
     },
     {
       "album": {
@@ -893,7 +911,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 97001,
       "name": "noir",
       "url": "https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q"

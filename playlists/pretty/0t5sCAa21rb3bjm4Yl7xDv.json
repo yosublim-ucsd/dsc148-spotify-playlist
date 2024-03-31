@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks you want to hear, all in one playlist! Cover: Camila Cabello",
-  "num_followers": 80414,
+  "num_followers": 80412,
   "original_name": "New Pop Hits",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "MTQzMzIsNWU0M2NkNDMwOTVjNzZmYWFiYzJjMzRhNDMzZGJhMmVmOGZhNzVmMg==",
+  "snapshot_id": "MTQzMzUsMGRiOTEwYWRhYTBiMDdiMWZmOWRlYThlZWIxYTdmM2JmZDkxYjg5YQ==",
   "tracks": [
     {
       "added_at": "2024-03-27 16:38:46",
@@ -1555,6 +1555,58 @@
       "duration_ms": 183949,
       "name": "Hypersensible",
       "url": "https://open.spotify.com/track/77bQ9Z0ro0KudhjGvEI8ze"
+    },
+    {
+      "added_at": "2024-03-30 16:08:12",
+      "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "added_at": "2024-03-30 16:10:01",
+      "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
+    {
+      "added_at": "2024-03-30 16:12:13",
+      "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/4lJhDKdbxcCHfCMluyobqD"
+      },
+      "artists": [
+        {
+          "name": "Cab'Ral",
+          "url": "https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj"
+        }
+      ],
+      "duration_ms": 177247,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/3KJ63o5X5JwG5j5kZgGeCn"
     }
   ],
   "unique_name": "New Pop Hits",

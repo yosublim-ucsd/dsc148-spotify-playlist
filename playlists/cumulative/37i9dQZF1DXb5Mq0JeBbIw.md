@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-232 songs - 13 hr 21 min
+233 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea) | 2:43 | 2022-06-24 | 2023-06-07 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3OujlPpq73NTAsy1JFFIRN) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1k7LEZPI6qI1ZDYfXMgpDv) | 2:43 | 2022-05-30 | 2022-07-29 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr) | 2:43 | 2023-02-10 | 2024-02-12 |
+| [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 | 2023-10-10 |  |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2023-10-10 | 2024-03-30 |
 | [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 | 2022-05-30 | 2023-03-12 |
 | [I'll Buy a House \- Acoustic](https://open.spotify.com/track/0DUYYLUzQNVNRMtr2vk1lh) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy a House \(Acoustic\)](https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF) | 3:06 | 2022-05-30 | 2022-10-18 |
@@ -228,7 +229,7 @@
 | [When Does a Heart Move On](https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [When Does a Heart Move On](https://open.spotify.com/album/6r7phdXKKMW2L9ZmISALET) | 3:52 | 2022-05-30 | 2022-07-29 |
 | [When Does a Heart Move On](https://open.spotify.com/track/5q9hultY2qhd6sVB0DEEQf) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:52 | 2022-06-24 | 2022-11-21 |
 | [When the Party's Over](https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR) | 2:34 | 2022-06-24 | 2023-06-14 |
-| [When the Party's Over](https://open.spotify.com/track/2q4t8aNC8tSQyViXrTwOFJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/23Va4fs3LT53tTYFp2dvmb) | 2:34 | 2023-02-10 |  |
+| [When the Party's Over](https://open.spotify.com/track/2q4t8aNC8tSQyViXrTwOFJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/23Va4fs3LT53tTYFp2dvmb) | 2:34 | 2023-02-10 | 2024-03-31 |
 | [When The Party's Over](https://open.spotify.com/track/6JZJ6ovrC4UNQMvkzKZmgZ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When The Party's Over](https://open.spotify.com/album/7zsulBsG4hw2ZuQEFkztQF) | 2:34 | 2022-05-30 | 2022-07-29 |
 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 | 2022-05-30 |  |
 | [Whiplash \- Acoustic](https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kaela Sinclair](https://open.spotify.com/artist/3gWrqVNUebQF7alIH0bzZ8) | [Whiplash \(Acoustic\)](https://open.spotify.com/album/2p9CwOdI1bCw4vZ9TIG1rx) | 2:25 | 2022-05-30 | 2022-07-29 |

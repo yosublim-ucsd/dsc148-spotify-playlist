@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 230175,
+  "2024-03-31": 230237,
   "date_first_scraped": "2022-03-22",
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Yomel El Meloso",
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Tokischa",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -661,6 +661,54 @@
       "duration_ms": 169411,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/5Zg3Eq4cjcJ98MUADUBwTb"
+    },
+    {
+      "album": {
+        "name": "BIRKIN",
+        "url": "https://open.spotify.com/album/0F7NLSZt37QoNmShEaK2xJ"
+      },
+      "artists": [
+        {
+          "name": "YOUNG D",
+          "url": "https://open.spotify.com/artist/6PTSLeCguaSy6HHtjxhP9R"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124639,
+      "name": "BIRKIN",
+      "url": "https://open.spotify.com/track/3NcsUIhHXtB6iOxyMuSWkt"
+    },
+    {
+      "album": {
+        "name": "Bobito",
+        "url": "https://open.spotify.com/album/3zOtDrI4GkYNMTUEWsdXAu"
+      },
+      "artists": [
+        {
+          "name": "Enyer Brooklyn",
+          "url": "https://open.spotify.com/artist/3qF2IpDVupTMz2Ya9tzFV3"
+        },
+        {
+          "name": "Director Moises",
+          "url": "https://open.spotify.com/artist/3Av5x6GUSoWcGFjrVHo6Go"
+        },
+        {
+          "name": "El Que La Vende",
+          "url": "https://open.spotify.com/artist/3PYDqeEToYiyX6ttjjOWpc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166582,
+      "name": "Bobito",
+      "url": "https://open.spotify.com/track/6FUma3pWxqyoQJ8MduNNt8"
     },
     {
       "album": {
@@ -1590,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "El Alb\u00fam Que Se Me Hab\u00eda Perdido",
+        "url": "https://open.spotify.com/album/7fin0vvQrbqkK8mQFAJQU7"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/13YPD0B0jCyREM5k1UNdMD"
+    },
+    {
+      "album": {
         "name": "Delicioso",
         "url": "https://open.spotify.com/album/4n5362Z6upMKpnBTf95Joq"
       },
@@ -1697,6 +1763,24 @@
       "duration_ms": 185286,
       "name": "Desnudita",
       "url": "https://open.spotify.com/track/5C4hS9mAQHYLKZOFPJY1Ge"
+    },
+    {
+      "album": {
+        "name": "Detiene",
+        "url": "https://open.spotify.com/album/1GVX9hE5N8ir2jehp08SF0"
+      },
+      "artists": [
+        {
+          "name": "GioBulla",
+          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Detiene",
+      "url": "https://open.spotify.com/track/2seCIG2j3lILUc7bLevkoa"
     },
     {
       "album": {
@@ -2239,6 +2323,24 @@
       "duration_ms": 433136,
       "name": "EL REGRESO",
       "url": "https://open.spotify.com/track/284ZJpHBxr8FVxPG9pZ1Is"
+    },
+    {
+      "album": {
+        "name": "El Reloj",
+        "url": "https://open.spotify.com/album/2Z61qqD9aW7LNDKKIcnhU3"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/31xzUK9jMLTNB0TXBdiWfQ"
     },
     {
       "album": {
@@ -2920,6 +3022,24 @@
     },
     {
       "album": {
+        "name": "Hasta Cuando (By BERSHKA Music)",
+        "url": "https://open.spotify.com/album/4RhMsx87eiuLjj3iLIH9kR"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237100,
+      "name": "Hasta Cuando - By BERSHKA Music",
+      "url": "https://open.spotify.com/track/3mqEEb0fDraJ8on2Ve4DjA"
+    },
+    {
+      "album": {
         "name": "Hay Santo",
         "url": "https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2"
       },
@@ -3033,6 +3153,28 @@
       "duration_ms": 147000,
       "name": "Hoyo",
       "url": "https://open.spotify.com/track/0HSTqDopuezKQF6rakMCnl"
+    },
+    {
+      "album": {
+        "name": "Jalo!",
+        "url": "https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151186,
+      "name": "Jalo!",
+      "url": "https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ"
     },
     {
       "album": {
@@ -6342,6 +6484,28 @@
     },
     {
       "album": {
+        "name": "TIKTO",
+        "url": "https://open.spotify.com/album/2rRWLTfr67PVlco63lvVg7"
+      },
+      "artists": [
+        {
+          "name": "ADAN",
+          "url": "https://open.spotify.com/artist/1w8UqsR3DG3us9VBFc93ul"
+        },
+        {
+          "name": "Rhyno OTT",
+          "url": "https://open.spotify.com/artist/1fK8RLuqnCqdlbXuk4J7ga"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "TIKTO",
+      "url": "https://open.spotify.com/track/4qrz8KfniDerseSlOOURI9"
+    },
+    {
+      "album": {
         "name": "Tiradera Para Braulio Fogon",
         "url": "https://open.spotify.com/album/4UG62zAYxdIA3r6f0Vz0eu"
       },
@@ -6449,6 +6613,40 @@
       "duration_ms": 182564,
       "name": "TOMALA",
       "url": "https://open.spotify.com/track/73u8KWnLOQykesSgYic6nD"
+    },
+    {
+      "album": {
+        "name": "Tranza (Pt. 1)",
+        "url": "https://open.spotify.com/album/7anBbRn50ldYnUhUJtQ5gB"
+      },
+      "artists": [
+        {
+          "name": "Big Chriss & Draco Deville",
+          "url": "https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160298,
+      "name": "Tranza - Pt. 1",
+      "url": "https://open.spotify.com/track/61f31nUeArUN0YUXjPbTT8"
     },
     {
       "album": {
@@ -6763,6 +6961,24 @@
       "duration_ms": 164745,
       "name": "Velocidad",
       "url": "https://open.spotify.com/track/7hw0ws2Hj7Rnlg9ayxQ1YQ"
+    },
+    {
+      "album": {
+        "name": "Vibes Chevere",
+        "url": "https://open.spotify.com/album/3WnrhpjxUuFVtzrDSLpUwX"
+      },
+      "artists": [
+        {
+          "name": "Karetta el Gucci",
+          "url": "https://open.spotify.com/artist/4ygcJmgRCkZ0AoKkMt1xiZ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174736,
+      "name": "Vibes Chevere",
+      "url": "https://open.spotify.com/track/1CBmMXEkET9cqpjjAKhfn0"
     },
     {
       "album": {

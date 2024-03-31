@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 32431,
+  "2024-03-31": 32441,
   "date_first_scraped": "2022-10-29",
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
   "name": "This Is G Herbo",
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 169416,
       "name": "Add It Up (feat. G Herbo)",
       "url": "https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo"
@@ -2445,7 +2445,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 199302,
       "name": "Write Your Name",
       "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"

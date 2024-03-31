@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-225 songs - 13 hr 38 min
+226 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Cruisin'](https://open.spotify.com/track/0Pzwi7DTD7Ay2aNUW4jCoX) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 2:51 | 2023-02-23 |  |
 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 | 2021-10-26 |  |
 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2021-10-26 |  |
-| [December](https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/7eoVwBSxUdBpdcBERzlrGG) | 4:32 | 2021-10-26 |  |
+| [December](https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/7eoVwBSxUdBpdcBERzlrGG) | 4:32 | 2021-10-26 | 2024-03-31 |
+| [December](https://open.spotify.com/track/33HMjGJbXDKAyslYKKshtG) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/13pDfXPn38t0w7pJiaAfJa) | 4:32 | 2023-03-01 |  |
 | [December](https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD) | 4:32 | 2021-10-26 | 2022-10-20 |
 | [Destroy The Empire](https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:24 | 2023-03-01 |  |
 | [Destroy The Empire](https://open.spotify.com/track/6V5aJTWbHRs7clhcQ4em0f) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/0tZCmPAsUZYi71wZWg8suA) | 3:24 | 2023-02-23 | 2023-07-16 |

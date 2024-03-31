@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 43551,
+  "2024-03-31": 43550,
   "date_first_scraped": "2023-12-14",
   "description": "Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock. ",
   "name": "All The Way Up",
@@ -842,6 +842,28 @@
     },
     {
       "album": {
+        "name": "Me And Mike",
+        "url": "https://open.spotify.com/album/69oFLAcQKRkhTOowDPMCJW"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "Rmc Mike",
+          "url": "https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139728,
+      "name": "Me And Mike",
+      "url": "https://open.spotify.com/track/4wwACmcnLZWd5MAdNPE6mP"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq"
       },
@@ -1408,7 +1430,7 @@
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165092,
+      "duration_ms": 165097,
       "name": "Turnt",
       "url": "https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R"
     },

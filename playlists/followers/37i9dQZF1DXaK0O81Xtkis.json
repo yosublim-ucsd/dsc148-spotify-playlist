@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 213706,
+  "2024-03-31": 213929,
   "date_first_scraped": "2021-12-21",
   "description": "make it pop! cover: Wallows",
   "name": "soda",
@@ -467,6 +467,28 @@
       "duration_ms": 142636,
       "name": "After the Tone",
       "url": "https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/2qbRiJO6Qi4kJ7RNIcGfCQ"
+      },
+      "artists": [
+        {
+          "name": "Leon of Athens",
+          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
+        },
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160100,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/7Lsf0sutIM9n4D0qXnEKWN"
     },
     {
       "album": {
@@ -1054,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/5hJM5UqLfZlZjgvDdO8d0i"
+      },
+      "artists": [
+        {
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161976,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3BUdokVE5IgrAmwCz5D3et"
+    },
+    {
+      "album": {
         "name": "DRUMMER",
         "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
       },
@@ -1083,7 +1123,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 134920,
       "name": "B.I.L.L.S.",
       "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
@@ -1411,6 +1451,24 @@
       "duration_ms": 198688,
       "name": "Behind",
       "url": "https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet"
+    },
+    {
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "album": {
@@ -2175,7 +2233,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 164494,
       "name": "Can I Make You Jealous?",
       "url": "https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b"
@@ -2319,7 +2377,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 313343,
       "name": "Car Trouble",
       "url": "https://open.spotify.com/track/3k6ya2E34qLDC8iacwZ7xM"
@@ -3962,6 +4020,24 @@
     },
     {
       "album": {
+        "name": "Drain Me!",
+        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121533,
+      "name": "Drain Me!",
+      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
+    },
+    {
+      "album": {
         "name": "Dramatic",
         "url": "https://open.spotify.com/album/0fg6UIRoB0K5pLUU6XpWZy"
       },
@@ -4027,7 +4103,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 175124,
       "name": "Drunk Tattoo",
       "url": "https://open.spotify.com/track/5l8iEP2tF1uIvNV3l22sui"
@@ -4813,7 +4889,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 190373,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/6Ul6j61QulfLucooYMcrtV"
@@ -6105,7 +6181,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 197142,
       "name": "heartbreak, love",
       "url": "https://open.spotify.com/track/021eyd2kaPCZ7R9CTefptS"
@@ -9125,7 +9201,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 149831,
       "name": "Look Mom",
       "url": "https://open.spotify.com/track/1ydXPq8Lja4OS9UlMT5a28"
@@ -9983,7 +10059,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 167628,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6ocMXJqpkBP7KNFNUDLSUN"
@@ -10397,7 +10473,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 186254,
       "name": "Nature Song",
       "url": "https://open.spotify.com/track/05VJciw9yX9yDVTyBEWWqv"
@@ -10513,6 +10589,24 @@
       "duration_ms": 156008,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI"
+    },
+    {
+      "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
     },
     {
       "album": {
@@ -11073,7 +11167,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 114062,
       "name": "old change",
       "url": "https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC"
@@ -11145,7 +11239,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 190225,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/25U7mv53Dbe3JzzDcSrTPB"
@@ -11539,6 +11633,24 @@
       "duration_ms": 131620,
       "name": "Party With You",
       "url": "https://open.spotify.com/track/1s7Mm2bEKLmcjAS4AzGf8E"
+    },
+    {
+      "album": {
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188991,
+      "name": "Pasadena",
+      "url": "https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A"
     },
     {
       "album": {
@@ -13363,7 +13475,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 220155,
       "name": "somebody that's not me",
       "url": "https://open.spotify.com/track/3Mlg80bxJEe93UR0Z42XL6"
@@ -14051,7 +14163,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 158624,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/13NsokXoQWXEggE6c4yLd7"
@@ -14105,7 +14217,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 183809,
       "name": "Suddenly Okay",
       "url": "https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB"
@@ -14131,7 +14243,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 145059,
       "name": "summer after senior year",
       "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
@@ -14445,7 +14557,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 152106,
       "name": "swimming pools",
       "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
@@ -14539,6 +14651,24 @@
       "duration_ms": 149763,
       "name": "Takeaway Cup",
       "url": "https://open.spotify.com/track/65CvImGO0oPmybnQix1SVv"
+    },
+    {
+      "album": {
+        "name": "Talk to You",
+        "url": "https://open.spotify.com/album/0vOzCiEnmb6tFYeDCPfHDb"
+      },
+      "artists": [
+        {
+          "name": "Carter Ryan",
+          "url": "https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182361,
+      "name": "Talk to You",
+      "url": "https://open.spotify.com/track/6nBeIPYpvl8XYnLarrpFqb"
     },
     {
       "album": {
@@ -14799,7 +14929,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 188495,
       "name": "The Art Of Letting Go",
       "url": "https://open.spotify.com/track/0u0zYnOEX9pZjASBBg9kne"
@@ -16835,7 +16965,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 153586,
       "name": "WORTH NOTHING",
       "url": "https://open.spotify.com/track/2BruPhzgTpJwPH9KUg0XcL"
@@ -17073,6 +17203,24 @@
       "duration_ms": 138013,
       "name": "You Don't Even",
       "url": "https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy"
+    },
+    {
+      "album": {
+        "name": "YOU DON'T LIKE ME",
+        "url": "https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4"
+      },
+      "artists": [
+        {
+          "name": "Dylan J",
+          "url": "https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "YOU DON'T LIKE ME",
+      "url": "https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ"
     },
     {
       "album": {

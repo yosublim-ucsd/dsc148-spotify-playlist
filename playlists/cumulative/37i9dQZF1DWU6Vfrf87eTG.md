@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-184 songs - 10 hr 57 min
+185 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [California Traveler](https://open.spotify.com/track/0FMkEykWCe2vpzv6H3Dsx5) | [California](https://open.spotify.com/artist/0UBBCi1bn7VkMnNPh3NEfi) | [United States Bluegrass Songs](https://open.spotify.com/album/4hfc6HPyUgo3AwevUahukM) | 5:08 | 2020-07-13 |  |
 | [Calon Lan](https://open.spotify.com/track/46rTa2aNbVMfTzaMo3vL0h) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b) | [Apollo EP](https://open.spotify.com/album/2MyL8boDt6oLbNwko8poPQ) | 4:15 | 2020-07-13 |  |
 | [Can the Gwot Save Us?](https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:20 | 2020-07-13 |  |
-| [Carbon Scores and Smoke](https://open.spotify.com/track/6EpOTSgOGRXvMV12nkC0z8) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone \(2021\)](https://open.spotify.com/album/4SO25UH7HeZSVGNzHhYiCJ) | 6:05 | 2020-07-13 |  |
+| [Carbon Scores and Smoke](https://open.spotify.com/track/2R2pWPSXc3TPb6bCwofESK) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone](https://open.spotify.com/album/1c6ZD2lIKNEHtuMEboUxsH) | 6:05 | 2023-01-20 |  |
+| [Carbon Scores and Smoke](https://open.spotify.com/track/6EpOTSgOGRXvMV12nkC0z8) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone \(2021\)](https://open.spotify.com/album/4SO25UH7HeZSVGNzHhYiCJ) | 6:05 | 2020-07-13 | 2024-03-31 |
 | [Carbon Scores and Smoke](https://open.spotify.com/track/7sGdAmegA4tEPFaW21ImxR) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone](https://open.spotify.com/album/6MSMnmGlM59bIm7Oc7l6kR) | 6:05 | 2020-07-13 | 2022-07-29 |
 | [Carol Kaye \(Instrumental\)](https://open.spotify.com/track/2EB7aZJY5imWcpnuqJPmoB) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/3KLh2kSBl64Wa0ygg4agyC) | 2:45 | 2020-07-13 | 2023-04-29 |
 | [Carol Kaye \(Instrumental\)](https://open.spotify.com/track/6KaPEuQFd8KKMzwJTAoGIR) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/7gixF6cRUF4ZpuO7sNMcfq) | 2:45 | 2023-01-20 |  |

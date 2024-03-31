@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Khruangbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,026 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,099 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 51 | [Anointed Soul](https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ) | [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [YHWH is LOVE](https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji) | 3:09 |
 | 52 | [Oh, Wait...](https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 4:10 |
 | 53 | [We Got To Change](https://open.spotify.com/track/3KOtaTxNIitCRgkdq3F4ir) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [We Got To Change](https://open.spotify.com/album/3ve6xJpPDWT9YABqOrciFS) | 3:46 |
-| 54 | [I Feel Like James Brown](https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/5S30960H0VHeb4bjch8MY3) | 3:37 |
+| 54 | [I Feel Like James Brown](https://open.spotify.com/track/76BgzEP4ia2GuxSIlyN8si) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/1uYydzjjdrzWBtiJplbx3k) | 3:37 |
 | 55 | [Bessa](https://open.spotify.com/track/1GClY6s7tBT9BnSWU1231A) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [kokon](https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK) | 3:39 |
 | 56 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 |
 | 57 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
 | 100 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 
-Snapshot ID: `MCxjMWU1NzRkOGRhY2VlM2JiYzc5NzE4MGFhMWM3OWM4MjE1NzkzNWFj`
+Snapshot ID: `MCw4NDQxMDM1NTg3ZGQwMDA1Y2IxNWFkMWQwNGQ1MjI0YWIxOTg0MjU4`

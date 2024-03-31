@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 55712,
+  "2024-03-31": 55744,
   "date_first_scraped": "2021-12-28",
   "description": "The best in blues right now. Cover: Robert Finley",
   "name": "Got Blues",
@@ -3073,7 +3073,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 238856,
       "name": "If You Love to Be Right",
       "url": "https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ"
@@ -5897,6 +5897,24 @@
       "duration_ms": 231666,
       "name": "Through Being Blue Over You",
       "url": "https://open.spotify.com/track/6CRyXQeDAsBMm210T8Ev8X"
+    },
+    {
+      "album": {
+        "name": "Thunderbird",
+        "url": "https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa"
+      },
+      "artists": [
+        {
+          "name": "Big Head Todd and The Monsters",
+          "url": "https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231920,
+      "name": "Thunderbird",
+      "url": "https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1"
     },
     {
       "album": {

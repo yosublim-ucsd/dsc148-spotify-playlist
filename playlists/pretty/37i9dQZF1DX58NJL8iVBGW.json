@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 600181,
+  "num_followers": 600305,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj",
+  "snapshot_id": "MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4",
   "tracks": [
     {
       "added_at": "2024-02-16 19:57:55",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
+        "name": "Spirit's Furnace",
+        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 169254,
+      "name": "Hammers and Nails",
+      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
         "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
         "url": "https://open.spotify.com/album/795JPmab0nbSSraMlxBHF0"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 175153,
       "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
       "url": "https://open.spotify.com/track/3tEL74JlN4OT9YPoNx5eRI"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
-        "name": "Spirit's Furnace",
-        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 169254,
-      "name": "Hammers and Nails",
-      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Out Of Hands We Go",
-        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
-      },
-      "artists": [
-        {
-          "name": "O'Death",
-          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
-        }
-      ],
-      "duration_ms": 233873,
-      "name": "Herd",
-      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Real Gone (Remastered)",
         "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 290680,
       "name": "How's It Gonna End",
       "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Out Of Hands We Go",
+        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
+      },
+      "artists": [
+        {
+          "name": "O'Death",
+          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
+        }
+      ],
+      "duration_ms": 233873,
+      "name": "Herd",
+      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
-      },
-      "artists": [
-        {
-          "name": "Bellstop",
-          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Micah P. Hinson and the Opera Circuit",
         "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 125493,
       "name": "Diggin A Grave",
       "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
+      },
+      "artists": [
+        {
+          "name": "Bellstop",
+          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Hell Among The Yearlings",
         "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 270893,
       "name": "The Devil Had A Hold Of Me",
       "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2024-02-16 19:57:55",

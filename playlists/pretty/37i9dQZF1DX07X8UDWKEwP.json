@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Luis Fonsi & Omar Montes",
-  "num_followers": 251926,
+  "num_followers": 251961,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmM2MTljNWEwZDllZjZjMjYxYWU3NzQ3NTFmYzk4M2I4Njk0NDk1",
+  "snapshot_id": "MCw2MTEwYmY1MzQwYzZkMDI2N2QxMjA1NmY3M2QwMTczYTVmZDQ5MTMz",
   "tracks": [
     {
       "added_at": "2024-03-29 22:36:54",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-29 22:36:54",
       "album": {
-        "name": "Una Vida Buena",
-        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Una Vida Buena",
-      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
-    },
-    {
-      "added_at": "2024-03-29 22:36:54",
-      "album": {
         "name": "La Romana",
         "url": "https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 155853,
       "name": "La Romana",
       "url": "https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb"
+    },
+    {
+      "added_at": "2024-03-29 22:36:54",
+      "album": {
+        "name": "Una Vida Buena",
+        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Una Vida Buena",
+      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
     },
     {
       "added_at": "2024-03-29 22:36:54",

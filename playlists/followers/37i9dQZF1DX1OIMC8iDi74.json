@@ -1,9 +1,31 @@
 {
-  "2024-03-30": 890310,
+  "2024-03-31": 890321,
   "date_first_scraped": "2021-12-21",
   "description": "The best of electronic trap. Cover: Fabian Mazur",
   "name": "Trap Mojito",
   "tracks": [
+    {
+      "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/4yiTd4mjL5RStZOzqVsezN"
+      },
+      "artists": [
+        {
+          "name": "MIKESH!FT",
+          "url": "https://open.spotify.com/artist/38ry7phGphvGGKVmxgpUkn"
+        },
+        {
+          "name": "NeoKrono",
+          "url": "https://open.spotify.com/artist/6QAaAHZRPKQRw9qoJnAZjX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160929,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/68ojxu2S93yBPTJvoiJhZn"
+    },
     {
       "album": {
         "name": "ABRACADABRA",
@@ -25,7 +47,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 168750,
       "name": "ABRACADABRA",
       "url": "https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf"
@@ -79,7 +101,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 182400,
       "name": "After You Left",
       "url": "https://open.spotify.com/track/4W5ROae1ZZBbTIbsBa6A7g"
@@ -277,6 +299,24 @@
       "duration_ms": 226000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
+    },
+    {
+      "album": {
+        "name": "AOMM",
+        "url": "https://open.spotify.com/album/0H3Boh162l7Eid1hGu8LaV"
+      },
+      "artists": [
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243697,
+      "name": "AOMM",
+      "url": "https://open.spotify.com/track/1QV67zMqPc1edDyUjyusqW"
     },
     {
       "album": {
@@ -1447,6 +1487,24 @@
       "duration_ms": 180000,
       "name": "Dale Vuelta",
       "url": "https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje"
+    },
+    {
+      "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/5kFkc8lvqPQFguLs5rb2ui"
+      },
+      "artists": [
+        {
+          "name": "JAWNS",
+          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/4jMUZ7jxVHXzwIcJMzLUsr"
     },
     {
       "album": {
@@ -2969,7 +3027,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 215364,
       "name": "Going Down (feat. David Vance)",
       "url": "https://open.spotify.com/track/1d20LZIqK8JxYksxyMEGai"
@@ -3682,6 +3740,24 @@
     },
     {
       "album": {
+        "name": "ILL BEHAVIOR",
+        "url": "https://open.spotify.com/album/6rAzHCdMhQWEneq5WbmTaS"
+      },
+      "artists": [
+        {
+          "name": "NAZAAR",
+          "url": "https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193007,
+      "name": "ILL BEHAVIOR",
+      "url": "https://open.spotify.com/track/65LBh7KO6klt1tXCkZtq8N"
+    },
+    {
+      "album": {
         "name": "In Da Trap",
         "url": "https://open.spotify.com/album/4azEDdUz90VFhaut17Ag8f"
       },
@@ -4187,7 +4263,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 144000,
       "name": "La La Land",
       "url": "https://open.spotify.com/track/5Z641CoWi3loy6fTCa0eYn"
@@ -5505,7 +5581,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 180413,
       "name": "OMG Anthem",
       "url": "https://open.spotify.com/track/5tvhTgYnwgPzmzO6kCzCWC"
@@ -5801,7 +5877,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 239220,
       "name": "PRISM",
       "url": "https://open.spotify.com/track/4v4EcZ7Yz50KaiAiDyFnDm"
@@ -6172,6 +6248,24 @@
     },
     {
       "album": {
+        "name": "RTC",
+        "url": "https://open.spotify.com/album/4iHjeyUKrUYvEYxJ1AETCk"
+      },
+      "artists": [
+        {
+          "name": "Squired",
+          "url": "https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "RTC",
+      "url": "https://open.spotify.com/track/4kea3sugNepDtJZgDg34zx"
+    },
+    {
+      "album": {
         "name": "Rumor",
         "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
       },
@@ -6491,7 +6585,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 193333,
       "name": "Shift",
       "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
@@ -6729,7 +6823,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 121849,
       "name": "Spirits Pt. 2",
       "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
@@ -6953,6 +7047,28 @@
       "duration_ms": 269286,
       "name": "Swing King",
       "url": "https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1"
+    },
+    {
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/77nvaXnZNuzwBRv7OLGmr8"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/13PiNC8qn2wXQLxYSm2E3X"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256294,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/1DGmrSDuDEbpXYbsiYxrR7"
     },
     {
       "album": {
@@ -7315,6 +7431,24 @@
       "duration_ms": 164278,
       "name": "Tik Tok",
       "url": "https://open.spotify.com/track/2DTTb0qR2NbMyHpHtnUbQx"
+    },
+    {
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/00Bp57GAupvF0kIISrHEW2"
+      },
+      "artists": [
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/14yftcqitxj6eU45V24UYr"
     },
     {
       "album": {
@@ -7931,6 +8065,28 @@
       "duration_ms": 140400,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/54qwl8mJQ45SmIeYKp6jZp"
+    },
+    {
+      "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/6oxQEPRmvwwzHsIwBzgUns"
+      },
+      "artists": [
+        {
+          "name": "SSOS",
+          "url": "https://open.spotify.com/artist/1X90DISqAUei3m4aEHCYhR"
+        },
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163584,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/0N91uvPJK240UzyEmWlweb"
     },
     {
       "album": {

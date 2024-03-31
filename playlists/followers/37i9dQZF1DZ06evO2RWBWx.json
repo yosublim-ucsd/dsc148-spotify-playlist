@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 18095,
+  "2024-03-31": 18114,
   "date_first_scraped": "2023-12-27",
   "description": "This is imase. The essential tracks, all in one playlist.",
   "name": "This Is imase",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 175600,
       "name": "Have a nice day",
       "url": "https://open.spotify.com/track/5SWxyVd5Q5c1jzPpdL9olt"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 197306,
       "name": "Holy Light",
       "url": "https://open.spotify.com/track/3tv7UdosUc9mFML6crORV7"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 210600,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 192800,
       "name": "\u9003\u907f\u884c",
       "url": "https://open.spotify.com/track/05qprPlYZoqBvtVKmSAXHT"

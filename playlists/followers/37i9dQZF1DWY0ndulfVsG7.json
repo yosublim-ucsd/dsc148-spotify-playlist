@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 52587,
+  "2024-03-31": 52635,
   "date_first_scraped": "2024-01-20",
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
   "name": "Jiran Akrab",
@@ -223,7 +223,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 300933,
       "name": "Cinta Sejati - From \"Habibie & Ainun\"",
       "url": "https://open.spotify.com/track/7zPiwqd1uxBkiHuk2OoBWJ"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 254013,
       "name": "Kamu Yang Kutunggu",
       "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"

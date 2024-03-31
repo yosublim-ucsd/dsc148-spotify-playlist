@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: IZRRA",
-  "num_followers": 167465,
+  "num_followers": 167501,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDhkNjEwZjI0Y2FkYmM0Zjg0NWY2MzE3OGEzNWUyNWZjOTliZjQ5",
+  "snapshot_id": "MCxiNTZkZGFhNDVjZDhkMjJmN2MxMTE5MjI2NDVkYWQzZDJiNjdiODMy",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -219,6 +219,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD"
+      },
+      "artists": [
+        {
+          "name": "Bia Torres",
+          "url": "https://open.spotify.com/artist/5icJdDlpFGAAPTueX3DqWN"
+        },
+        {
+          "name": "Badauy",
+          "url": "https://open.spotify.com/artist/0ynBSrfkccSeJlzdIqOTHl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Por Isso Me Liga",
         "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Detalhes",
-        "url": "https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD"
-      },
-      "artists": [
-        {
-          "name": "Bia Torres",
-          "url": "https://open.spotify.com/artist/5icJdDlpFGAAPTueX3DqWN"
-        },
-        {
-          "name": "Badauy",
-          "url": "https://open.spotify.com/artist/0ynBSrfkccSeJlzdIqOTHl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Detalhes",
-      "url": "https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -471,6 +471,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Voz De Um Querubim",
         "url": "https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 205479,
       "name": "Voz De Um Querubim",
       "url": "https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -559,6 +559,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "S\u00f3 por Hoje",
+        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
+      },
+      "artists": [
+        {
+          "name": "Papu",
+          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "S\u00f3 por Hoje",
+      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -583,6 +603,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Eterno Esquema",
         "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
       },
@@ -599,26 +639,6 @@
       "duration_ms": 133564,
       "name": "Eterno Esquema",
       "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "S\u00f3 por Hoje",
-        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
-      },
-      "artists": [
-        {
-          "name": "Papu",
-          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "S\u00f3 por Hoje",
-      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -663,26 +683,6 @@
       "duration_ms": 194974,
       "name": "Tempo pra Perder",
       "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -747,6 +747,30 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Mais Um Pouco",
         "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
@@ -767,26 +791,6 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -851,26 +855,42 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         },
         {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
         }
       ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Faz Arrepiar",
+        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Faz Arrepiar",
+      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -935,26 +955,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Faz Arrepiar",
-        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
-        }
-      ],
-      "duration_ms": 140832,
-      "name": "Faz Arrepiar",
-      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Tudo Que Restou",
         "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Respostas",
         "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 194000,
       "name": "Respostas",
       "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "GUAPA",
         "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 139270,
       "name": "GUAPA",
       "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Abstin\u00eancia",
         "url": "https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 239029,
       "name": "Lingerie Branca",
       "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Corro Atr\u00e1s",
+        "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
+      },
+      "artists": [
+        {
+          "name": "Laura Padaratz",
+          "url": "https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Corro Atr\u00e1s",
+      "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Pode Ir",
         "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 153371,
       "name": "Pode Ir",
       "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Corro Atr\u00e1s",
-        "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
-      },
-      "artists": [
-        {
-          "name": "Laura Padaratz",
-          "url": "https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Corro Atr\u00e1s",
-      "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Bunda Irada",
-        "url": "https://open.spotify.com/album/5Lss9IXevp7XKdMeEzpkks"
-      },
-      "artists": [
-        {
-          "name": "Khris",
-          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
-        },
-        {
-          "name": "Binho Salles",
-          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        }
-      ],
-      "duration_ms": 147130,
-      "name": "Bunda Irada",
-      "url": "https://open.spotify.com/track/2gV1NayptOesaBhCGm1rzT"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Farei",
         "url": "https://open.spotify.com/album/2RTRWw4hiYWbnz0ww1Gumu"
       },
@@ -1535,6 +1511,26 @@
       "duration_ms": 141714,
       "name": "Santa Melanina",
       "url": "https://open.spotify.com/track/0NJsI7WZrZtuCyuxkU4tjc"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Fases Vol. 1",
+        "url": "https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG"
+      },
+      "artists": [
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "duration_ms": 147130,
+      "name": "Bunda Irada",
+      "url": "https://open.spotify.com/track/60gYHwS5eH3mi8qpKeWhFE"
     }
   ],
   "unique_name": "R&B Brasil",

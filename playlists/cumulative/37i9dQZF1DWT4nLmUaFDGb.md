@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-252 songs - 16 hr 20 min
+253 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Easy On Me](https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf) | [Changes](https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R), [Elin Bemark](https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI) | [Easy On Me](https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr) | 4:32 | 2022-03-31 |  |
 | [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 | 2023-12-19 | 2024-03-30 |
 | [Eat It Too](https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d) | 3:46 | 2023-06-20 | 2023-12-10 |
+| [Eat It Too](https://open.spotify.com/track/662ds07EcqLRr0x6FW0iJD) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 3:46 | 2024-03-20 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-29 | 2023-06-16 |
 | [Everything Must Change](https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Mats Halling](https://open.spotify.com/artist/6WJLX5rhMDP1iC5VXK3BmS), [Nordic Chamber Orchestra](https://open.spotify.com/artist/0Y9TuFJT8im2HJvybDmX3V), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Somehow Life Got in the Way](https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo) | 5:36 | 2021-12-21 |  |
 | [Fever](https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Genius Loves Company](https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE) | 3:30 | 2022-07-14 |  |
@@ -98,7 +99,7 @@
 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 | 2023-08-18 |  |
 | [I Only Want To Be With You](https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [Just A Little Lovin'](https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5) | 3:50 | 2022-08-19 |  |
 | [I Try](https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:17 | 2022-07-14 | 2023-10-20 |
-| [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 | 2024-02-09 |  |
+| [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 | 2024-02-09 | 2024-03-31 |
 | [I Try](https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT) | 4:17 | 2022-03-30 | 2022-07-29 |
 | [I Will Wait for You](https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8) | [Lisa Lovbrand](https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc) | [Let Me Love You](https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII) | 3:39 | 2022-08-19 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [I'll Be Seeing You](https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy) | 2:30 | 2023-05-18 |  |

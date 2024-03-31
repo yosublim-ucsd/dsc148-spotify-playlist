@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Asal
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,114 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,148 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 5 | [Cruise](https://open.spotify.com/track/2HxGutaMBJvIF8qRh3yBjl) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK), [Chris Vincent](https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ) | [Cruise](https://open.spotify.com/album/7Ks5QNF8Ea61IGRbzJVfwA) | 2:43 |
 | 6 | [Supernatural](https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Supernatural](https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP) | 4:01 |
 | 7 | [Body](https://open.spotify.com/track/0w6ti8058yn14WbUc0txyS) | [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [Body](https://open.spotify.com/album/7zx24xlZVUWsa9werxJb1p) | 2:26 |
-| 8 | [I Feel Like James Brown](https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/5S30960H0VHeb4bjch8MY3) | 3:37 |
+| 8 | [I Feel Like James Brown](https://open.spotify.com/track/76BgzEP4ia2GuxSIlyN8si) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/1uYydzjjdrzWBtiJplbx3k) | 3:37 |
 | 9 | [Consume](https://open.spotify.com/track/1xfDL6kiwXdsbHyDCBImBr) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR), [Julles](https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko) | [Consume](https://open.spotify.com/album/1kKjsmADxnPEjoY75Ye4lk) | 2:49 |
 | 10 | [LAST WORDS](https://open.spotify.com/track/4qpBOMqQf4ppjZiH4lAPx1) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [LAST WORDS](https://open.spotify.com/album/6GduEj2Ai28JbtHw7jwska) | 3:00 |
 | 11 | [USELESS](https://open.spotify.com/track/0scs3v7l3UvVTI5CRicndv) | [Haleluya Hailu](https://open.spotify.com/artist/7CSaduBt5yKoOLzznHpijS) | [eternally, yours](https://open.spotify.com/album/27A8J9JQWqcQ5fUCzUZQud) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [From the Ashes](https://open.spotify.com/track/6vVuTRbjIorphC3EjjlL3c) | [Leonard Sumner](https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5) | [From the Ashes](https://open.spotify.com/album/60r7X6is47vzusLCF1y1mg) | 3:24 |
 | 80 | [Babe Ruth](https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK) | [Babe Ruth](https://open.spotify.com/album/0SDt2reTVDvRistsKnYFge) | 1:49 |
 
-Snapshot ID: `MCwwNzk2MGNiNjE1YjNlNDRiMzZiYzI1NmQ4ZmI2OGQyZTlkNjBmNzRm`
+Snapshot ID: `MCw2NDQ1OWY5ZDMyYTNhYTNhOThhODhmZjljN2ViM2FiNjRhYmIxNWUx`

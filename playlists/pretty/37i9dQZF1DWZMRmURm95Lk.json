@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Cor Veleno e Fabri Fibra in cover.",
-  "num_followers": 40209,
+  "num_followers": 40226,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2I5MDczZGRmODc3ZjVmYjEyOGY4ZjU2MDgxODJhZDk3ZWQ5ZjNi",
+  "snapshot_id": "MCw1YWRhNDMzNzY3M2MzNmI0YmM1ZmFmYWIzMjBlODg0ZjQyMWIyMDhk",
   "tracks": [
     {
       "added_at": "2024-03-28 23:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-28 23:01:00",
       "album": {
+        "name": "Faccio Quello Che Voglio",
+        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
+      },
+      "artists": [
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Non Piove",
+      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
         "name": "Classe 73",
         "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 222000,
       "name": "Giorni matti",
       "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
-        "name": "Faccio Quello Che Voglio",
-        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
-      },
-      "artists": [
-        {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Non Piove",
-      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
     },
     {
       "added_at": "2024-03-28 23:01:00",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2024-03-28 23:01:00",
       "album": {
+        "name": "TRUENO",
+        "url": "https://open.spotify.com/album/6hzqMbs19My506LAgKl8Ld"
+      },
+      "artists": [
+        {
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "duration_ms": 167625,
+      "name": "il profumo delle rose (feat. Danno, Dj Craim)",
+      "url": "https://open.spotify.com/track/7FijVHPAkDn7ZMFhD72sHO"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
         "name": "Numero zero ep",
         "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
       },
@@ -1123,30 +1147,6 @@
     {
       "added_at": "2024-03-28 23:01:00",
       "album": {
-        "name": "TRUENO",
-        "url": "https://open.spotify.com/album/6hzqMbs19My506LAgKl8Ld"
-      },
-      "artists": [
-        {
-          "name": "STABBER",
-          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
-        }
-      ],
-      "duration_ms": 167625,
-      "name": "il profumo delle rose (feat. Danno, Dj Craim)",
-      "url": "https://open.spotify.com/track/7FijVHPAkDn7ZMFhD72sHO"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
         "name": "Il Tempo Vola 2002-2020",
         "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 246600,
       "name": "Bugiardo",
       "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295293,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
     },
     {
       "added_at": "2024-03-28 23:01:00",
@@ -1195,6 +1179,50 @@
       "duration_ms": 202142,
       "name": "Pi\u00f9 forte di me",
       "url": "https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
+        "name": "TRUENO",
+        "url": "https://open.spotify.com/album/6hzqMbs19My506LAgKl8Ld"
+      },
+      "artists": [
+        {
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        },
+        {
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
+        }
+      ],
+      "duration_ms": 154623,
+      "name": "legends never die (feat. Johnny Marsiglia, Alborosie, J Lord)",
+      "url": "https://open.spotify.com/track/7azSA8qHkaOY2A8G16GVYy"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 295293,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
     },
     {
       "added_at": "2024-03-28 23:01:00",
@@ -1235,34 +1263,6 @@
       "duration_ms": 288066,
       "name": "Il cielo su Roma",
       "url": "https://open.spotify.com/track/3RoqLs6Yg8BZmPQY5V3RhQ"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
-        "name": "TRUENO",
-        "url": "https://open.spotify.com/album/6hzqMbs19My506LAgKl8Ld"
-      },
-      "artists": [
-        {
-          "name": "STABBER",
-          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        },
-        {
-          "name": "J Lord",
-          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
-        }
-      ],
-      "duration_ms": 154623,
-      "name": "legends never die (feat. Johnny Marsiglia, Alborosie, J Lord)",
-      "url": "https://open.spotify.com/track/7azSA8qHkaOY2A8G16GVYy"
     },
     {
       "added_at": "2024-03-28 23:01:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-03-28 23:01:00",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Bastavano Le Briciole",
+      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
         "name": "BRAVA GENTE",
         "url": "https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 157500,
       "name": "Tagli come Sorrisi",
       "url": "https://open.spotify.com/track/2SuiimEQGIqlA3PUYLhPWc"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Bastavano Le Briciole",
-      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
     },
     {
       "added_at": "2024-03-28 23:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-28 23:01:00",
       "album": {
-        "name": "La Pace \u00c8 La Risposta",
-        "url": "https://open.spotify.com/album/7K8vME5lUhdNi5rfuaHDjc"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 205724,
-      "name": "La Pace \u00c8 La Risposta",
-      "url": "https://open.spotify.com/track/7nadpBZq56D2Kl4QRn1WMn"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
         "name": "Rebus",
         "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 193706,
       "name": "Bugie Bianche",
       "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
+        "name": "La Pace \u00c8 La Risposta",
+        "url": "https://open.spotify.com/album/7K8vME5lUhdNi5rfuaHDjc"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 205724,
+      "name": "La Pace \u00c8 La Risposta",
+      "url": "https://open.spotify.com/track/7nadpBZq56D2Kl4QRn1WMn"
     },
     {
       "added_at": "2024-03-28 23:01:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-03-28 23:01:00",
       "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
         "name": "Schiena Contro Schiena",
         "url": "https://open.spotify.com/album/4NcjifTOGFk6FGRo1tTDQF"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 259557,
       "name": "21 Grammi",
       "url": "https://open.spotify.com/track/4aWXxvLhKcflsocyTWAt32"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
     },
     {
       "added_at": "2024-03-28 23:01:00",
@@ -1939,30 +1939,6 @@
     {
       "added_at": "2024-03-28 23:01:00",
       "album": {
-        "name": "Infernum",
-        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Michele Venanzoni",
-          "url": "https://open.spotify.com/artist/5Pp7noxtW19NbiFiZzOZpB"
-        }
-      ],
-      "duration_ms": 180776,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
         "name": "SPECIALIST",
         "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
       },
@@ -2031,6 +2007,30 @@
       "duration_ms": 130373,
       "name": "Prime",
       "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
+        "name": "Infernum",
+        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Michele Venanzoni",
+          "url": "https://open.spotify.com/artist/5Pp7noxtW19NbiFiZzOZpB"
+        }
+      ],
+      "duration_ms": 180776,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
     },
     {
       "added_at": "2024-03-28 23:01:00",
@@ -2203,34 +2203,6 @@
     {
       "added_at": "2024-03-28 23:01:00",
       "album": {
-        "name": "Luigi XVI",
-        "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
-      },
-      "artists": [
-        {
-          "name": "Lanz Khan",
-          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
-        },
-        {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
-        },
-        {
-          "name": "DJ Lil Cut",
-          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
-        },
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Hashishin",
-      "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
-    },
-    {
-      "added_at": "2024-03-28 23:01:00",
-      "album": {
         "name": "107 Elementi",
         "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
       },
@@ -2267,6 +2239,34 @@
       "duration_ms": 283480,
       "name": "Chi more pe' mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2024-03-28 23:01:00",
+      "album": {
+        "name": "Luigi XVI",
+        "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
+      },
+      "artists": [
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
+        },
+        {
+          "name": "DJ Lil Cut",
+          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
+        },
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Hashishin",
+      "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
     },
     {
       "added_at": "2024-03-28 23:01:00",

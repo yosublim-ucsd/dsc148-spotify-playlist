@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 214757,
+  "2024-03-31": 214846,
   "date_first_scraped": "2021-12-30",
   "description": "let the dj set u free",
   "name": "crying on the dance floor",
@@ -73,6 +73,24 @@
       "duration_ms": 247136,
       "name": "11-11",
       "url": "https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq"
+    },
+    {
+      "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/1d1HdeiJo05RM8KVkCXF44"
+      },
+      "artists": [
+        {
+          "name": "Mike V",
+          "url": "https://open.spotify.com/artist/7G82sN12HLMXbBCLM65UJk"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149536,
+      "name": "4 AM",
+      "url": "https://open.spotify.com/track/0dNlRf2AojTujK7fx1KP32"
     },
     {
       "album": {
@@ -189,7 +207,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
@@ -211,7 +229,7 @@
       ],
       "date_added": "2021-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 197082,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 224992,
       "name": "Astray - Nicky Elisabeth Remix",
       "url": "https://open.spotify.com/track/6WcJUCMjHBXkP9vvPpQ0Oy"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 203947,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 275828,
       "name": "Calling On",
       "url": "https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk"
@@ -1003,6 +1021,28 @@
       "duration_ms": 156659,
       "name": "Can't Love Myself (feat. Mishaal & LPW)",
       "url": "https://open.spotify.com/track/6jvYUrFJeebfiHjyCvfiHE"
+    },
+    {
+      "album": {
+        "name": "Chains (feat. Daya)",
+        "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199692,
+      "name": "Chains (feat. Daya)",
+      "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
     },
     {
       "album": {
@@ -1481,7 +1521,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 217036,
       "name": "Felt A Little Like",
       "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
@@ -2355,7 +2395,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "i'm hurting ! (deja-vu..)",
       "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
@@ -2732,6 +2772,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169528,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
+    },
+    {
+      "album": {
         "name": "the come up",
         "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
       },
@@ -2881,7 +2939,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 190243,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9"
@@ -3151,7 +3209,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -3289,7 +3347,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 209674,
       "name": "Never",
       "url": "https://open.spotify.com/track/2ToCF3zoUJoiOSVq7Mtaci"
@@ -3453,7 +3511,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 138234,
       "name": "No Man's Land",
       "url": "https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo"
@@ -3762,6 +3820,24 @@
     },
     {
       "album": {
+        "name": "OUT Of TiME",
+        "url": "https://open.spotify.com/album/06MMGTEEmLPaeWGTthiT70"
+      },
+      "artists": [
+        {
+          "name": "Forrest Taylor",
+          "url": "https://open.spotify.com/artist/65B2wTz12IA9U4ydyGHXP2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "OUT Of TiME",
+      "url": "https://open.spotify.com/track/2SzOqvhFUxICiUZuLMYNl1"
+    },
+    {
+      "album": {
         "name": "Out Of Touch (Remixes)",
         "url": "https://open.spotify.com/album/4vr2ogtjMDoeVfoWeoi7ri"
       },
@@ -3781,6 +3857,24 @@
       "duration_ms": 377512,
       "name": "Out Of Touch - CRi Remix",
       "url": "https://open.spotify.com/track/4D09wI2gi5vX9ajRztj1Qf"
+    },
+    {
+      "album": {
+        "name": "Outside Of Love",
+        "url": "https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175628,
+      "name": "Outside Of Love",
+      "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
     },
     {
       "album": {
@@ -4871,7 +4965,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 207787,
       "name": "Surrender To The Feeling",
       "url": "https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"
@@ -4919,6 +5013,24 @@
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"
     },
     {
       "album": {
@@ -5687,7 +5799,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 446510,
       "name": "What's a Girl to Do",
       "url": "https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C"
@@ -5801,7 +5913,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"

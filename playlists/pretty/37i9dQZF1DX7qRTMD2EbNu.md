@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  Yaw Tog
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,549 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,569 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Who Say](https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:12 |
 | 80 | [Free Throw](https://open.spotify.com/track/2pg9e25Kr4XqiyCCuQssGH) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Free Throw](https://open.spotify.com/album/0nEvJ6UqOcKJEsQ9AXSxGt) | 2:30 |
 
-Snapshot ID: `MCw4MDlmNTI4YTBjNWFiM2U0OGJkOWE2YmY4MzZkMjU0YmQ5MDBkNzBl`
+Snapshot ID: `MCwzZWNkOTUyNTkwODkxOGYwNjYxZjA0NDA4OWI2MTdlMGEyNDA4ODg2`

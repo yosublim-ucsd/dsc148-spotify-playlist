@@ -4,7 +4,7 @@
 
 > 
 
-1,880 songs - 4 day 5 hr 27 min
+1,883 songs - 4 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 | 2022-04-03 |  |
 | [ANTIHERO](https://open.spotify.com/track/1Ibohl2GweFkdm0ppfbeK2) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [ANTIHERO](https://open.spotify.com/album/2B9MzTfbxIkaWnFXfopbrs) | 2:13 | 2021-11-14 |  |
 | [Antivist](https://open.spotify.com/track/1fUacP7XP697l6ry01oO4d) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:13 | 2021-08-05 |  |
+| [Antpile](https://open.spotify.com/track/4Xg8YbCGzuLPOdZ2ILVLmU) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Nomad](https://open.spotify.com/album/7gUtqEa1sDelvBvNyNvFHt) | 1:11 | 2024-03-30 |  |
 | [ANXIETY](https://open.spotify.com/track/4TvVwvuLa6aw2CQxgeMv1D) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [ANXIETY](https://open.spotify.com/album/4ZN7oHC25E5wR6BmJ32Xx3) | 4:20 | 2021-08-05 |  |
 | [Any Way You Want It](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Departure](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) | 3:21 | 2021-08-05 |  |
 | [Anymore](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:17 | 2021-12-30 |  |
@@ -547,6 +548,7 @@
 | [Execute](https://open.spotify.com/track/3ibmBtsJoIDbiNY0ibsS4O) | [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Execute](https://open.spotify.com/album/2jioYBhDvVDq6m9uKwUDbI) | 2:26 | 2023-05-31 |  |
 | [Experiment: E u p h o r i a](https://open.spotify.com/track/0lo5UOFLTvaPnNCxqpzKF3) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Welcome To The Wired!](https://open.spotify.com/album/3DxmNyhNtQ8wV1ey8CWrLY) | 2:13 | 2022-02-04 |  |
 | [eXXXcaliborg.Error](https://open.spotify.com/track/7cAeWk3bMmazQ5raDO4NOB) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [My Love Feels All Wrong\. Digipak](https://open.spotify.com/album/2NekMZ3pdknQ0VdEuhSVwb) | 1:45 | 2022-02-04 |  |
+| [Eyeless](https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 3:56 | 2024-03-30 |  |
 | [Eyes\. Lips\. Face\. \(e.l.f.\)](https://open.spotify.com/track/0UcTXmzMNrnS2rOLp94LlJ) | [iLL Wayno](https://open.spotify.com/artist/0JBoAOvXNu0zco9DPeg9KD), [Holla FyeSixWun](https://open.spotify.com/artist/2SGs0NLDtDQaHhNiSeriwc) | [Eyes\. Lips\. Face\. \(e.l.f.\)](https://open.spotify.com/album/33n6Vm4ILYIE6yQ5hetNdg) | 2:19 | 2021-08-05 |  |
 | [F The World](https://open.spotify.com/track/6sXwm0rdUS07s5sGZd11Jd) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz), [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 3:26 | 2022-09-04 |  |
 | [F.R.A.](https://open.spotify.com/track/6XUWQzaEc8JHvGmRCb4EWr) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [FOIL](https://open.spotify.com/album/7D2GIBF8kzc2WDouhqoRa4) | 2:14 | 2021-09-08 |  |
@@ -1519,6 +1521,7 @@
 | [Spikes](https://open.spotify.com/track/11TpRtA1zMLeAPTLloNmG4) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Bottomless Pit](https://open.spotify.com/album/4dIPUQHheyH9e6ioplvNT2) | 3:05 | 2023-02-07 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2023-02-26 |  |
 | [Spit It Out](https://open.spotify.com/track/2yTnWN1R5j6grXC8YLf5mc) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 2:39 | 2023-03-07 |  |
+| [Spit It Out \- Hyper Version](https://open.spotify.com/track/6ftph4VaiX6aG2NwZUWd3q) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:24 | 2024-03-30 |  |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2021-08-05 |  |
 | [Spring Fever](https://open.spotify.com/track/4XnxaBO6zyRszK6G3g8Ohz) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 2:48 | 2021-08-05 |  |
 | [spy?](https://open.spotify.com/track/0QsZ3W21xNvnUnUMbiAY4z) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:33 | 2021-08-05 |  |

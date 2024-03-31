@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 325431,
+  "2024-03-31": 325481,
   "date_first_scraped": "2021-12-21",
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
   "name": "Rocktronic",
@@ -403,7 +403,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
@@ -2008,6 +2008,28 @@
     },
     {
       "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5oKMHgS24Ikp9APo5xi1lr"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
+    },
+    {
+      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -3075,6 +3097,24 @@
       "duration_ms": 188730,
       "name": "F\u00d8\u00d8L - INHUMAN Remix",
       "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+    },
+    {
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/5wIemTRH0rBlNIME1fbWUx"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162856,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/0EY4OLsKg1RfGndwKvl4Hr"
     },
     {
       "album": {
@@ -5722,6 +5762,24 @@
     },
     {
       "album": {
+        "name": "Pressure Point",
+        "url": "https://open.spotify.com/album/3GEwwWFSwQ3h0lQLBEAC2h"
+      },
+      "artists": [
+        {
+          "name": "Cabuizee",
+          "url": "https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Pressure Point",
+      "url": "https://open.spotify.com/track/5UoiTuop0BFZcLKEOrgw5D"
+    },
+    {
+      "album": {
         "name": "Pretty Melody 70",
         "url": "https://open.spotify.com/album/5SAson0PsEYspU0G8lcOCF"
       },
@@ -6359,7 +6417,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 196500,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/79xFgpCUqxYSQJcJBXFWSd"
@@ -7147,7 +7205,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH"

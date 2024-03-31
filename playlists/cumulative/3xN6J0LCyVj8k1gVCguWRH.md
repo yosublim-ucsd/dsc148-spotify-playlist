@@ -4,7 +4,7 @@
 
 > Which is going to be the song of Summer? This is a prediction for 24, plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
 
-3,192 songs - 7 day 13 hr 28 min
+3,196 songs - 7 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,6 +857,7 @@
 | [Enough](https://open.spotify.com/track/6ysSg5A4qRa90z7iZKjN92) | [Blazar](https://open.spotify.com/artist/5p1lEJoft7wgJYbg3PYvK2), [Chophead](https://open.spotify.com/artist/5S8XVEmEt6i2PWpDe0BC6t) | [Enough](https://open.spotify.com/album/1GKcfWls9hUQ3612yzcbLh) | 3:52 | 2022-11-18 | 2022-12-10 |
 | [Enough](https://open.spotify.com/track/2hIoE1ovdfIN6JM6OEkQhH) | [L Don G](https://open.spotify.com/artist/3R23cvX8OYbgOY7oMIwGBN) | [Enough](https://open.spotify.com/album/4JLXmz2jYqNLSifYMuDIHX) | 3:53 | 2024-02-21 | 2024-03-04 |
 | [Enough For Love](https://open.spotify.com/track/6TNhpscT5qcwIgXDm6TvFe) | [Shavvon Lin](https://open.spotify.com/artist/4Loka7w9615ZLjtSgYX314) | [Enough For Love](https://open.spotify.com/album/6z9jRf7rRR6O0PdeRs09bC) | 3:57 | 2022-09-10 | 2022-09-27 |
+| [Enough Is Enough](https://open.spotify.com/track/1QuSezR8SDFrmgh0oIczvK) | [SUNSAY](https://open.spotify.com/artist/6I61UWvMzDxvLbxVvR8Izt) | [Enough Is Enough](https://open.spotify.com/album/1MyMCehY2QJpvvPF2054uv) | 4:43 | 2024-03-30 |  |
 | [Enough of You](https://open.spotify.com/track/0laVxLujsbSTA0wwyXN8hK) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Enough of You](https://open.spotify.com/album/5RDGr2RFL0FmyMxZudo6Ww) | 2:30 | 2021-06-26 | 2021-07-11 |
 | [Enter Martian Pedestrian](https://open.spotify.com/track/4gZoYIiqL4sJKbY9zrP1s6) | [Martian Subculture](https://open.spotify.com/artist/5CNfcjsUX8fZ0lo0bPrdu9) | [Enter Martian Pedestrian](https://open.spotify.com/album/5r1bdOZBr2fbYWZyDdeXHK) | 5:24 | 2022-03-18 | 2022-04-05 |
 | [Eres](https://open.spotify.com/track/0UHg3ilF28tOYPkvEFNKDZ) | [Marlon Morato](https://open.spotify.com/artist/0nqFO43aXcg9YIs2a46TX6) | [Eres](https://open.spotify.com/album/2nI4H931I7Z0IJDkUqb9gK) | 4:19 | 2023-06-18 | 2023-07-09 |
@@ -1623,6 +1624,7 @@
 | [Little Parthenon](https://open.spotify.com/track/7e2tuiHar8cPv2gCjpTvhK) | [tiny.blips](https://open.spotify.com/artist/0QBE7DMBwjlMoEjnF1OhEI) | [Humans\-Housecats\-History](https://open.spotify.com/album/1br8ZCHefztezqIKns3rXd) | 3:15 | 2020-04-16 | 2020-04-25 |
 | [little spider on the shower wall](https://open.spotify.com/track/4KYqGXuVYwhpfsFATIXuP7) | [Portra](https://open.spotify.com/artist/6pkTpw086gZWWdx3guBUCe) | [little spider on the shower wall](https://open.spotify.com/album/2CqsYm2Fcz1jMWkWkbGj0l) | 3:20 | 2022-12-06 | 2023-01-03 |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-06-01 | 2023-07-21 |
+| [Little White Pills](https://open.spotify.com/track/7r3bJ0Q3Q3FGVslcFmBPFs) | [Cloe Wilder](https://open.spotify.com/artist/4OmElN0ORkBfPbLi0vtCVf) | [Little White Pills](https://open.spotify.com/album/2DekwvN5weXPdL3oOpz8Hq) | 3:01 | 2024-03-30 |  |
 | [LittleMoreTime](https://open.spotify.com/track/1EYkGYKq269W0W7G2T3xCD) | [GEORGE LAWSON](https://open.spotify.com/artist/0yVxLtVSIixK8fCEulP6gv) | [Lacuna Nights](https://open.spotify.com/album/0XoX8uvKdpjMWwmKthJNMQ) | 3:51 | 2023-12-07 | 2023-12-26 |
 | [Live and Let Die](https://open.spotify.com/track/4hG4nA3yANSQoju66OwfeR) | [Bumiy](https://open.spotify.com/artist/1QWKlgDqgWy1IkIlUOxU5P) | [Live and Let Die](https://open.spotify.com/album/4fbYPDTQtFJezPU9A8tUcI) | 3:02 | 2024-03-17 | 2024-03-29 |
 | [Live Through](https://open.spotify.com/track/1SWQLFFHoXImQBMHr1O20d) | [Danielle Howle](https://open.spotify.com/artist/47ccQ7hKPvJRyBv97CACE1) | [Live Through](https://open.spotify.com/album/0NRdBgG86kU00fMvkiWCLk) | 2:56 | 2023-09-01 | 2023-09-26 |
@@ -2084,6 +2086,7 @@
 | [Over and Over](https://open.spotify.com/track/2BODXOk8X37RsVZYJd8FXr) | [Anchored Collective](https://open.spotify.com/artist/5V0Y3BgVcnrxJCioMr1mvw), [Arsnøvä](https://open.spotify.com/artist/3vhqqkOtusdgbpr9336aFA), [Jordan Michael](https://open.spotify.com/artist/6l2M8zaAX04yO8DdayNVEP) | [Over and Over](https://open.spotify.com/album/6Ei8dCF1Pu6ehVKdKEDH5f) | 2:29 | 2023-06-22 | 2023-07-15 |
 | [Over The Wall](https://open.spotify.com/track/4PFnY7QyjyB6pMz77LjwUX) | [Jordana Talsky](https://open.spotify.com/artist/2wTLyQmAsnN2DsWDgwAQqC) | [Zahava](https://open.spotify.com/album/5Z4776irHlvg0n8aLGhTYU) | 4:20 | 2021-10-22 | 2021-11-07 |
 | [Over You](https://open.spotify.com/track/7LiMn0jOu0NiOfXZcbhGmZ) | [Landon Tewers](https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7), [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Over You](https://open.spotify.com/album/6vo8wcs7d16G4Eel3Iz3Iq) | 2:50 | 2022-12-02 | 2022-12-24 |
+| [Over You Now](https://open.spotify.com/track/1e1p5PE3Hjyj7Tvug6oUiu) | [Jade Patteri](https://open.spotify.com/artist/1XJXL2pTiBFMe2aOkAHo3S) | [Over You Now](https://open.spotify.com/album/5F0B18McVYHIK1sPAF9fxJ) | 3:46 | 2024-03-31 |  |
 | [Overcome](https://open.spotify.com/track/4ef0vvWGEktZkeDuCxvLU8) | [Rudy Love & The Encore](https://open.spotify.com/artist/2uP5FIORa7TedzJhlLGeZ6), [Rudy Love Jr.](https://open.spotify.com/artist/54LQmsRj1W2IVBi1OrIt4L) | [Overcome](https://open.spotify.com/album/69MnHfrLZsrKLFGMq1i1vF) | 3:08 | 2023-05-12 | 2023-05-30 |
 | [Overgrown](https://open.spotify.com/track/707NYb26XutDGTooaeXMpt) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [Overgrown](https://open.spotify.com/album/6DglCLZs5nqndYYjfAJ1Me) | 4:32 | 2024-01-04 | 2024-01-23 |
 | [Overgrown](https://open.spotify.com/track/3ehYuDkzKB47NQeQj9m0PB) | [Res Mo](https://open.spotify.com/artist/4YppYxLyhFz18RwBcnh3Kq) | [Overgrown](https://open.spotify.com/album/1UmETg66RLUDolF6rAfBfY) | 5:46 | 2021-09-24 | 2021-10-10 |
@@ -3143,6 +3146,7 @@
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-12-29 | 2024-03-08 |
 | [WYLTK](https://open.spotify.com/track/4F3fFuQp42Fx6SPbo0zqKu) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [WYLTK](https://open.spotify.com/album/6i6I2biuLalSHy50L4HTUb) | 3:58 | 2022-11-03 | 2022-11-27 |
 | [Ya Hayati](https://open.spotify.com/track/5JzM88Nu26X5Vcieux6AMW) | [Sandra Sahi](https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy) | [Ya Hayati](https://open.spotify.com/album/4OVlWSss3EbzlEtxB2sBLu) | 2:13 | 2022-11-18 | 2022-12-10 |
+| [Yanni](https://open.spotify.com/track/2Xo9G2vUXVB7MrGFjqBtLC) | [kmë](https://open.spotify.com/artist/5BlpmYS9XescgyeewPLZzE) | [Intuitive](https://open.spotify.com/album/2fv5MJ13MPuA0EWFFGZyH0) | 2:05 | 2024-03-31 |  |
 | [Yaro](https://open.spotify.com/track/6UtnlIR1th1t1aZu7zD1Im) | [Lisa Yaro](https://open.spotify.com/artist/1mfHjffkZjz4lfP4xCxZ5k), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Yaro](https://open.spotify.com/album/5kXlY0xcyo2C9tM9l4syl9) | 3:06 | 2022-12-09 | 2023-01-03 |
 | [yellow](https://open.spotify.com/track/3tpdKVeliliXmD6ujRfbxU) | [soft pace](https://open.spotify.com/artist/4dtTMZddq3DoiJNbWwPpEU) | [yellow](https://open.spotify.com/album/5P4VOfN7ijDaXc63FbZHmU) | 3:31 | 2022-12-16 | 2023-01-07 |
 | [Yellow Flowers](https://open.spotify.com/track/1VV57hof4nzqXuyrGY7yEC) | [Dizzy Goku](https://open.spotify.com/artist/1MtKT7MwgwTvPHhIudD09c) | [Yellow Flowers](https://open.spotify.com/album/101w1U8dQKyXRQ2cPGjKrL) | 3:26 | 2022-01-29 | 2022-02-18 |

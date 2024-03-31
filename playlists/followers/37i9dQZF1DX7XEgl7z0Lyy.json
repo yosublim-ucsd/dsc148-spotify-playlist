@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 390945,
+  "2024-03-31": 392631,
   "date_first_scraped": "2023-07-23",
   "description": "music from the underworld",
   "name": "hexxed",
@@ -895,7 +895,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 142016,
       "name": "DOOR TO DUSK",
       "url": "https://open.spotify.com/track/0TGArkMCrtF5KaRT7ZvNHu"
@@ -1139,6 +1139,28 @@
       "duration_ms": 123441,
       "name": "feel the same",
       "url": "https://open.spotify.com/track/0ujM0V6C7c6kaUoblQmPXR"
+    },
+    {
+      "album": {
+        "name": "FIGHT!",
+        "url": "https://open.spotify.com/album/1o7LVMFB5i9sLyFxx86FBC"
+      },
+      "artists": [
+        {
+          "name": "xxephyrr",
+          "url": "https://open.spotify.com/artist/3cEaIs4fKVawohqNOTVxWB"
+        },
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111651,
+      "name": "FIGHT!",
+      "url": "https://open.spotify.com/track/4kH0eBEIesgcCDE4WZA3zL"
     },
     {
       "album": {
@@ -1404,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "HA-HA!",
+        "url": "https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu"
+      },
+      "artists": [
+        {
+          "name": "FORGOTTENAGE",
+          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120952,
+      "name": "HA-HA!",
+      "url": "https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR"
+    },
+    {
+      "album": {
         "name": "Hands up!",
         "url": "https://open.spotify.com/album/4poweJXaiw4HwGhfvjMGkL"
       },
@@ -1603,7 +1643,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 189843,
       "name": "HYPNOTIC DATA 2.0",
       "url": "https://open.spotify.com/track/2s6buObPT1xq2YezWxGupD"
@@ -1691,7 +1731,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 145830,
       "name": "I LOVE YOU HOE (w/ Trippie Redd & 9lives)",
       "url": "https://open.spotify.com/track/7uKj06uEtQNK2znEv27u0V"
@@ -2245,7 +2285,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
@@ -2529,6 +2569,24 @@
       "duration_ms": 123341,
       "name": "noble 6 (feat. nuvfr)",
       "url": "https://open.spotify.com/track/5sK8yQ6lyOe7sPrfWlIQLm"
+    },
+    {
+      "album": {
+        "name": "noir",
+        "url": "https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs"
+      },
+      "artists": [
+        {
+          "name": "sho",
+          "url": "https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97001,
+      "name": "noir",
+      "url": "https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q"
     },
     {
       "album": {
@@ -3015,7 +3073,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 114716,
       "name": "rock that body shawty",
       "url": "https://open.spotify.com/track/4jJRFxeC9ubCvs9F3phcJL"
@@ -3187,6 +3245,24 @@
       "duration_ms": 73377,
       "name": "SHE IS CRAZY, BUT I <3 HER!",
       "url": "https://open.spotify.com/track/4DhGmDOiBbWSAP7ASRtokr"
+    },
+    {
+      "album": {
+        "name": "SKELLY",
+        "url": "https://open.spotify.com/album/49yuEdA79idYEVbiMiGjVu"
+      },
+      "artists": [
+        {
+          "name": "ominix",
+          "url": "https://open.spotify.com/artist/6MmBfkGkUe5eMKjZbhJcBd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96842,
+      "name": "SKELLY",
+      "url": "https://open.spotify.com/track/4uTRXCFrOQ97tKYCLj9Dm8"
     },
     {
       "album": {
@@ -3786,6 +3862,24 @@
     },
     {
       "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
+    },
+    {
+      "album": {
         "name": "WHAT YOU WANT!",
         "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
       },
@@ -3984,6 +4078,24 @@
     },
     {
       "album": {
+        "name": "DOOR TO DUSK",
+        "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116567,
+      "name": "YOU'RE TOO SLOW (Bonus)",
+      "url": "https://open.spotify.com/track/3QV4m1LpUixah1Ab2woVxl"
+    },
+    {
+      "album": {
         "name": "yupyupyup!",
         "url": "https://open.spotify.com/album/7tpUVeVU3i2FgYLhTwfYud"
       },
@@ -3995,7 +4107,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 69397,
       "name": "yupyupyup! - sped up",
       "url": "https://open.spotify.com/track/06okRLQyfhbdVcAjVZjWyE"

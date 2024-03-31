@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWREb3EdeDeP.md) - [plain]
 
 > Relive the most exciting battles and fight scenes from Star Wars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,043 likes - 34 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,064 likes - 34 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWREb3EdeDeP.md) - [plain]
 | 33 | [Jedha City Ambush](https://open.spotify.com/track/4lNykqX7Lv55AXnlsSgQmh) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:19 |
 | 34 | [The Battle in the Snow](https://open.spotify.com/track/6quL0XEmUeHqbXTStEXCJx) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:42 |
 
-Snapshot ID: `MCwxMWM3OTMyNzQ0OTUwYTgxODRlNTYwMmI2YmY3ZmQ5YzljNzM4ZjNl`
+Snapshot ID: `MCwwZmQzMDNiZjE4NThhY2Q1YTNlZWZlODZkNDMxODUxZjA0MzgxMTY5`

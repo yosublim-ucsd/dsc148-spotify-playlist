@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 9379,
+  "num_followers": 9401,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmEzZWJhMzlhZTBmZmYzZDdkYWUwNDRhMDYwMTQ2NWQzMjljMTBi",
+  "snapshot_id": "MCxhMzM1MWQ4OTY2ZmQ5YTk0NTQ1NjMwNmYxYWM2YzZiM2ZjOGNlYThm",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Void VIII",
+        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 162793,
       "name": "Time, Being",
       "url": "https://open.spotify.com/track/6CSQGGObzhr6rRmYsatoSq"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Void VIII",
-        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
       "artists": [
         {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
         }
       ],
-      "duration_ms": 426786,
-      "name": "Spherule",
-      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
+      "duration_ms": 220800,
+      "name": "Terrazzo",
+      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -595,22 +599,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
       },
       "artists": [
         {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Motion Graphics",
-          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Terrazzo",
-      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+      "duration_ms": 426786,
+      "name": "Spherule",
+      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Sea Island",
+        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 371480,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/565i055O62arjZp2Z3yJed"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 287786,
       "name": "Space 21 (petrichor)",
       "url": "https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Sea Island",
-        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 371480,
-      "name": "Holding Pattern",
-      "url": "https://open.spotify.com/track/565i055O62arjZp2Z3yJed"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Fire Light",
-        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
-      },
-      "artists": [
-        {
-          "name": "Darshan Ambient",
-          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "chapter",
         "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 287843,
       "name": "soft rime",
       "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+      },
+      "artists": [
+        {
+          "name": "Darshan Ambient",
+          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Breaks My Heart Each Time",
-        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
-      },
-      "artists": [
-        {
-          "name": "Leyland Kirby",
-          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
-        }
-      ],
-      "duration_ms": 558877,
-      "name": "Diminishing Emotion",
-      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Glider 10: Reworks",
         "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 464874,
       "name": "Without Motion - Leandro Fresco Remix",
       "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Breaks My Heart Each Time",
+        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
+      },
+      "artists": [
+        {
+          "name": "Leyland Kirby",
+          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
+        }
+      ],
+      "duration_ms": 558877,
+      "name": "Diminishing Emotion",
+      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "It All Falls Apart",
-        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 374186,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "We Will Always Be",
         "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 364253,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "It All Falls Apart",
+        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 374186,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 348750,
-      "name": "Further Away - Beno\u00eet Pioulard Rework",
-      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Vantaa",
         "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
       },
@@ -1595,22 +1575,6 @@
       "duration_ms": 490500,
       "name": "Luotasi",
       "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1631,6 +1595,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Collected Dust",
         "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 293453,
       "name": "Constant",
       "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Glider 10: Reworks",
+        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        },
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "Further Away - Beno\u00eet Pioulard Rework",
+      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Travels in Constants Volume 24",
+        "url": "https://open.spotify.com/album/690BSJU73zkz1gbUJ9AkAE"
+      },
+      "artists": [
+        {
+          "name": "Adam Wiltzie",
+          "url": "https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
+      "url": "https://open.spotify.com/track/2oyd6bi7oVJlidyya5dHKQ"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "21 Exoticism ESCAP",
         "url": "https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 296133,
       "name": "Living Lens",
       "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Travels in Constants Volume 24",
-        "url": "https://open.spotify.com/album/690BSJU73zkz1gbUJ9AkAE"
-      },
-      "artists": [
-        {
-          "name": "Adam Wiltzie",
-          "url": "https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
-      "url": "https://open.spotify.com/track/2oyd6bi7oVJlidyya5dHKQ"
     }
   ],
   "unique_name": "Ambient 2010s",

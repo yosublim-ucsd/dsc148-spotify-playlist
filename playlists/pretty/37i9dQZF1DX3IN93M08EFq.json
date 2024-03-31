@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62842,
+  "num_followers": 62852,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJlZjkyMmNjYzExMDQzZDVhZmYzZTA4MTkzZTU3MDM5NzVhOTNk",
+  "snapshot_id": "MCw5OGVmZDhmYjViYWYwNDkxMGZlMzdiZWM4ZGZlYTc0YWQzNDYxOTQy",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Dance with Somebody",
-        "url": "https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM"
-      },
-      "artists": [
-        {
-          "name": "Mando Diao",
-          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Dance with Somebody - Radio Version",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Satan i gatan (Bonus Version)",
         "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 202746,
       "name": "Jag kommer",
       "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Dance with Somebody",
+        "url": "https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Dance with Somebody - Radio Version",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Vilja Bli",
         "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 193360,
       "name": "Fr\u00e5n och med Du",
       "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2021-06-15 09:25:05",

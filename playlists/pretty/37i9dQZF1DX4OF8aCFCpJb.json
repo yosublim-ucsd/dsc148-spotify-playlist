@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68903,
+  "num_followers": 68906,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODI5NmIxMTM0YmMzNmE4NDQ3N2E5ZWZjNTAzZTU2NTUzOGFjZmEw",
+  "snapshot_id": "MCwzZDdkMzc2YzczZjljZjY4MDdhZmI3MWVhZjM4ZTU0ZWY2NDM5ZGQ1",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -531,22 +531,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Mera tid",
-        "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Linda Pira",
-          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Mera tid",
-      "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -587,6 +583,26 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Mera tid",
+        "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Mera tid",
+      "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
         "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 231293,
       "name": "Snapphaneklanen",
       "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2024-03-07 23:00:00",

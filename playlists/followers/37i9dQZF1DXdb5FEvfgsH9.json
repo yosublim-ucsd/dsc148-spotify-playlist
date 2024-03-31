@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 24977,
+  "2024-03-31": 24993,
   "date_first_scraped": "2022-08-06",
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
   "name": "Crisp",
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 209831,
       "name": "Holding Time",
       "url": "https://open.spotify.com/track/6kuVbHd5I1Wdvn3Er735AD"
@@ -1621,6 +1621,28 @@
       "duration_ms": 229920,
       "name": "Just Friends (feat. Amber Mark)",
       "url": "https://open.spotify.com/track/73agc0UL322jZnJncsqNM0"
+    },
+    {
+      "album": {
+        "name": "JUST IN TIME (XL Middleton Remix)",
+        "url": "https://open.spotify.com/album/5Wiw1s5Wci0KyrrxqTKKFL"
+      },
+      "artists": [
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "JUST IN TIME - XL Middleton Remix",
+      "url": "https://open.spotify.com/track/7mEInMyJTFKpfZpgZ2Rqq4"
     },
     {
       "album": {
@@ -2677,7 +2699,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192747,
       "name": "The Tuxedo Way",
       "url": "https://open.spotify.com/track/6oodcUa5wcH7TAMVUW196Y"
@@ -2941,6 +2963,24 @@
       "duration_ms": 232039,
       "name": "Why Do I Do (La Felix Remix) [feat. Jason Gaffner]",
       "url": "https://open.spotify.com/track/2sUKbuWG7ueFa93Sti3Svr"
+    },
+    {
+      "album": {
+        "name": "Y.A.T.O.",
+        "url": "https://open.spotify.com/album/4uLjZRhLYU7yQHleJAvyzI"
+      },
+      "artists": [
+        {
+          "name": "David Blazer",
+          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220979,
+      "name": "Y.A.T.O.",
+      "url": "https://open.spotify.com/track/18hqHOOqRJc27Eg6xLQt8l"
     },
     {
       "album": {

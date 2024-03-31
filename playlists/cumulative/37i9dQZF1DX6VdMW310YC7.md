@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,587 songs - 4 day 13 hr 7 min
+1,588 songs - 4 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Float](https://open.spotify.com/track/1LKo1pAertanzWdCwjykFB) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Messing With Magic](https://open.spotify.com/album/7uZGulWnnHuNfRkzGZ2yEa) | 3:32 | 2020-12-12 | 2021-01-11 |
 | [Floating](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 5 \(Floating\)](https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02) | 4:53 | 2022-08-05 | 2022-12-29 |
 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 | 2020-10-24 | 2022-07-29 |
+| [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 |  |
 | [Flutter \(Feat\. Madi\)](https://open.spotify.com/track/7FiQUNyXClHIoKoy2ct96M) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Madi](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Flutter \(Feat\. Madi\)](https://open.spotify.com/album/762gMNCRrjyHEVuyUSQh4M) | 2:58 | 2020-05-22 | 2020-07-03 |
 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 | 2020-03-17 | 2020-10-10 |
 | [Flyby Vfr](https://open.spotify.com/track/4G3G1y9JmUsv4we3v7YapO) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Compro](https://open.spotify.com/album/3yXIkSJWpudtgF0TZuB16U) | 5:28 | 2020-05-18 | 2020-10-09 |
@@ -655,7 +656,7 @@
 | [I Got New Feelings](https://open.spotify.com/track/6sl6ONNu7w47hIT8KqU2Vl) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [I Got New Feelings](https://open.spotify.com/album/0muMwij4795EX2nEp8jw9V) | 3:25 | 2020-05-22 | 2020-07-03 |
 | [I Leave Again](https://open.spotify.com/track/4e9lUyz9lB7QRP9OLRpbbw) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 3:58 | 2020-11-06 | 2022-08-23 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-07-03 | 2020-10-09 |
-| [I Love You](https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [I Love You](https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl) | 4:22 | 2023-09-08 |  |
+| [I Love You](https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [I Love You](https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl) | 4:22 | 2023-09-08 | 2024-03-31 |
 | [I Met You](https://open.spotify.com/track/4VPBrJfT6CAu9ktgoU28Bj) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Anna Lunoe & Friends](https://open.spotify.com/album/1BcKf0iS2eSrgodE7nDicH) | 4:29 | 2020-05-18 | 2020-07-18 |
 | [I Miss You \(feat\. Julia Michaels\) \- Branchez & Charlie Klarsfeld Remix](https://open.spotify.com/track/3zKHw6cGxDZsqUyiGPwFca) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf), [Charlie Klarsfeld](https://open.spotify.com/artist/7IBk1EXqYanGYVIyEdu3SB) | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/album/4Ol6h6D8OdsFju6ks2HFbh) | 4:10 | 2020-03-16 | 2020-07-18 |
 | [I Need Space](https://open.spotify.com/track/2y6krW4iylDWiKVxTzUJcE) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/5P9bG3UUgZXY8NsufEtSJH) | 5:24 | 2020-03-17 | 2022-04-21 |

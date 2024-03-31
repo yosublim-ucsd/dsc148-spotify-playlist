@@ -1,12 +1,12 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Portada: \u00c1lvaro D\u00edaz y Rauw Alejandro",
-  "num_followers": 902866,
+  "num_followers": 902904,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjIxMTlkZjk5ODQ3ODAxYzg3NzhjZjdkNTIwNDYxODMxMTU4Mzcy",
+  "snapshot_id": "MCxlNDBhNTQ0YmUxMDU4NDBkMGY5ZDIzY2UyNDZkNzhjNTAxZDQ1Zjli",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -91,70 +91,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "BBY BOO (REMIX)",
-        "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "BBY BOO - REMIX",
-      "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Jalo!",
-        "url": "https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Jalo!",
-      "url": "https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -199,6 +135,90 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "BBY BOO (REMIX)",
+        "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "BBY BOO - REMIX",
+      "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 186366,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "DRIPPEO KBRON",
+        "url": "https://open.spotify.com/album/1aIvOQRDMbp91g032duGCj"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 198712,
+      "name": "DRIPPEO KBRON",
+      "url": "https://open.spotify.com/track/1rCKmeUUh6WDrxoH5pWq9M"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Me Arriesgo Contigo",
+        "url": "https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Me Arriesgo Contigo",
+      "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "NO APAGUES LA LUZ",
         "url": "https://open.spotify.com/album/15LhVFnUqO0v3N4oPWiQ6B"
       },
@@ -215,70 +235,6 @@
       "duration_ms": 248571,
       "name": "NO APAGUES LA LUZ",
       "url": "https://open.spotify.com/track/1w0gzlVggcvSf3BPd9q8CL"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "LATIGAZO",
-        "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "LATIGAZO",
-      "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Los Gangsters Tambien Lloran",
-        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Drago200",
-          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
-        }
-      ],
-      "duration_ms": 177032,
-      "name": "LGTLL (feat. Drago 200)",
-      "url": "https://open.spotify.com/track/4aEgIptftpDkOuqvKluFhE"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "EN KE TOPAMO",
-        "url": "https://open.spotify.com/album/2bgzBgtVEnsZJ6aSS6GzQl"
-      },
-      "artists": [
-        {
-          "name": "LOUKI",
-          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "EN KE TOPAMO",
-      "url": "https://open.spotify.com/track/6VV9bUaZ2cVPW2bvgSow8T"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -307,38 +263,62 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Me Arriesgo Contigo",
-        "url": "https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET"
+        "name": "El Boss",
+        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 165760,
-      "name": "Me Arriesgo Contigo",
-      "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
+      "duration_ms": 225212,
+      "name": "El Boss",
+      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
     },
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Donante de Sangre",
-        "url": "https://open.spotify.com/album/2YWkq261ekVyIFsm9LpvB6"
+        "name": "EN KE TOPAMO",
+        "url": "https://open.spotify.com/album/2bgzBgtVEnsZJ6aSS6GzQl"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "LOUKI",
+          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Donante de Sangre",
-      "url": "https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u"
+      "duration_ms": 144000,
+      "name": "EN KE TOPAMO",
+      "url": "https://open.spotify.com/track/6VV9bUaZ2cVPW2bvgSow8T"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Cuando Cierre La Disco",
+        "url": "https://open.spotify.com/album/7eDtYui5438XdzKVsqsxMT"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Cuando Cierre La Disco",
+      "url": "https://open.spotify.com/track/1aLx4VeSOl9zcBl0pk44qm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -379,22 +359,82 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "El Boss",
-        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         }
       ],
-      "duration_ms": 225212,
-      "name": "El Boss",
-      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Musiquita Triste",
+        "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Musiquita Triste",
+      "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "CARACAS EN EL 2000 (REMIX)",
+        "url": "https://open.spotify.com/album/7AkUKGt4periOuE0P7U5uB"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 267952,
+      "name": "CARACAS EN EL 2000 - REMIX",
+      "url": "https://open.spotify.com/track/4ImW5pBSsi0OUSpjcupRv1"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        }
+      ],
+      "duration_ms": 177032,
+      "name": "LGTLL (feat. Drago 200)",
+      "url": "https://open.spotify.com/track/4aEgIptftpDkOuqvKluFhE"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -419,26 +459,42 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "El Rey de la Kumbia",
-        "url": "https://open.spotify.com/album/45nzMcJJDoGA1zRIaKaIVq"
+        "name": "Donante de Sangre",
+        "url": "https://open.spotify.com/album/2YWkq261ekVyIFsm9LpvB6"
       },
       "artists": [
         {
-          "name": "A.B. Quintanilla III",
-          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 227347,
-      "name": "El Rey de la Kumbia",
-      "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
+      "duration_ms": 227600,
+      "name": "Donante de Sangre",
+      "url": "https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "LATIGAZO",
+        "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "LATIGAZO",
+      "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -483,154 +539,38 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "PD: No Vuelvas",
-        "url": "https://open.spotify.com/album/4GmJRWGdGt4IVhIIDML27M"
+        "name": "Jalo!",
+        "url": "https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h"
       },
       "artists": [
         {
-          "name": "Dany Calvario",
-          "url": "https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 147550,
-      "name": "Como Lo Creen",
-      "url": "https://open.spotify.com/track/4jbIkxBnLDF8iek4qhBVTB"
+      "duration_ms": 151186,
+      "name": "Jalo!",
+      "url": "https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Cuando Cierre La Disco",
-        "url": "https://open.spotify.com/album/7eDtYui5438XdzKVsqsxMT"
+        "name": "Cu\u00e9ntame (Versi\u00f3n Reggaet\u00f3n)",
+        "url": "https://open.spotify.com/album/36hDcCLfngt8Fcxfnytv6n"
       },
       "artists": [
         {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
         }
       ],
-      "duration_ms": 229090,
-      "name": "Cuando Cierre La Disco",
-      "url": "https://open.spotify.com/track/1aLx4VeSOl9zcBl0pk44qm"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "CARACAS EN EL 2000 (REMIX)",
-        "url": "https://open.spotify.com/album/7AkUKGt4periOuE0P7U5uB"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Servando & Florentino",
-          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 267952,
-      "name": "CARACAS EN EL 2000 - REMIX",
-      "url": "https://open.spotify.com/track/4ImW5pBSsi0OUSpjcupRv1"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "DRIPPEO KBRON",
-        "url": "https://open.spotify.com/album/1aIvOQRDMbp91g032duGCj"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "DRIPPEO KBRON",
-      "url": "https://open.spotify.com/track/1rCKmeUUh6WDrxoH5pWq9M"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/2nkZ7aU11LlxpeFinf2VTL"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 222608,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/3VNAXsDEg5UfFVaacClbAZ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Musiquita Triste",
-        "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Musiquita Triste",
-      "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Shut Down",
-        "url": "https://open.spotify.com/album/5awtSmuL2FnRpZ4beNjNde"
-      },
-      "artists": [
-        {
-          "name": "FUFU",
-          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/6FNtp30WxF34GNy0593abH"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Hasta Cuando (By BERSHKA Music)",
-        "url": "https://open.spotify.com/album/4RhMsx87eiuLjj3iLIH9kR"
-      },
-      "artists": [
-        {
-          "name": "J Noa",
-          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
-        }
-      ],
-      "duration_ms": 237100,
-      "name": "Hasta Cuando - By BERSHKA Music",
-      "url": "https://open.spotify.com/track/3mqEEb0fDraJ8on2Ve4DjA"
+      "duration_ms": 159939,
+      "name": "Cu\u00e9ntame - Versi\u00f3n Reggaet\u00f3n",
+      "url": "https://open.spotify.com/track/47rso7RhYpuvxvx35Y8Oo5"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -659,38 +599,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "ZENDAYA",
-        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+        "name": "El Rey de la Kumbia",
+        "url": "https://open.spotify.com/album/45nzMcJJDoGA1zRIaKaIVq"
       },
       "artists": [
         {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
         },
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "ZENDAYA",
-      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Fuentes de Ortiz",
-        "url": "https://open.spotify.com/album/5wrVUSwflFFhS9QbgHFx75"
-      },
-      "artists": [
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
         }
       ],
-      "duration_ms": 189166,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/0H8gHz2PZrqR2UubGTmROh"
+      "duration_ms": 227347,
+      "name": "El Rey de la Kumbia",
+      "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -711,6 +639,102 @@
       "duration_ms": 177692,
       "name": "Tal Vez - Remix",
       "url": "https://open.spotify.com/track/0pzh7NqiJH9ETXAWaNMM4b"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Fuentes de Ortiz",
+        "url": "https://open.spotify.com/album/5wrVUSwflFFhS9QbgHFx75"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 189166,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/0H8gHz2PZrqR2UubGTmROh"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Te Vas As\u00ed",
+        "url": "https://open.spotify.com/album/2Vxp9EEHqRgk5Hn5udBB6Z"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 191829,
+      "name": "Te Vas As\u00ed",
+      "url": "https://open.spotify.com/track/1pmal0R4yXBQw7LxEKkGL9"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "PD: No Vuelvas",
+        "url": "https://open.spotify.com/album/4GmJRWGdGt4IVhIIDML27M"
+      },
+      "artists": [
+        {
+          "name": "Dany Calvario",
+          "url": "https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 147550,
+      "name": "Como Lo Creen",
+      "url": "https://open.spotify.com/track/4jbIkxBnLDF8iek4qhBVTB"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Buena Muchacha",
+        "url": "https://open.spotify.com/album/1gYpjgzgzb2IW6a1596y4H"
+      },
+      "artists": [
+        {
+          "name": "Lunaty",
+          "url": "https://open.spotify.com/artist/1ioIJEt6VBdMiQxOTL8Bmv"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Buena Muchacha",
+      "url": "https://open.spotify.com/track/2bEm6e441lF3saG7U6ZSSB"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/2nkZ7aU11LlxpeFinf2VTL"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/3VNAXsDEg5UfFVaacClbAZ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -739,102 +763,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Amargura",
-        "url": "https://open.spotify.com/album/2UT7CbMqIgJ5JfKrEKHqtG"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 194063,
-      "name": "Amargura",
-      "url": "https://open.spotify.com/track/2itGcO6chZVMunP7tmjszy"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Buena Muchacha",
-        "url": "https://open.spotify.com/album/1gYpjgzgzb2IW6a1596y4H"
-      },
-      "artists": [
-        {
-          "name": "Lunaty",
-          "url": "https://open.spotify.com/artist/1ioIJEt6VBdMiQxOTL8Bmv"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Buena Muchacha",
-      "url": "https://open.spotify.com/track/2bEm6e441lF3saG7U6ZSSB"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Te Vas As\u00ed",
-        "url": "https://open.spotify.com/album/2Vxp9EEHqRgk5Hn5udBB6Z"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 191829,
-      "name": "Te Vas As\u00ed",
-      "url": "https://open.spotify.com/track/1pmal0R4yXBQw7LxEKkGL9"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Cu\u00e9ntame (Versi\u00f3n Reggaet\u00f3n)",
-        "url": "https://open.spotify.com/album/36hDcCLfngt8Fcxfnytv6n"
-      },
-      "artists": [
-        {
-          "name": "Makano",
-          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
-        }
-      ],
-      "duration_ms": 159939,
-      "name": "Cu\u00e9ntame - Versi\u00f3n Reggaet\u00f3n",
-      "url": "https://open.spotify.com/track/47rso7RhYpuvxvx35Y8Oo5"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "El Tiempo Se Me Fue",
-        "url": "https://open.spotify.com/album/6HIMVLKucesytgxEJXyq9c"
-      },
-      "artists": [
-        {
-          "name": "Mc Kno",
-          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 139418,
-      "name": "El Tiempo Se Me Fue",
-      "url": "https://open.spotify.com/track/2vwKEm2TUl31uEfB4blXHT"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "BAHIA",
         "url": "https://open.spotify.com/album/0x2yrAPC0cBoZioxxGCz2O"
       },
@@ -851,18 +779,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Her\u00e1ldica",
-        "url": "https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr"
+        "name": "Amargura",
+        "url": "https://open.spotify.com/album/2UT7CbMqIgJ5JfKrEKHqtG"
       },
       "artists": [
         {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 179366,
-      "name": "M\u00e1s Feliz",
-      "url": "https://open.spotify.com/track/4WzZeR4d8mhRsaiNQVXHnt"
+      "duration_ms": 194063,
+      "name": "Amargura",
+      "url": "https://open.spotify.com/track/2itGcO6chZVMunP7tmjszy"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -899,6 +831,74 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Shut Down",
+        "url": "https://open.spotify.com/album/5awtSmuL2FnRpZ4beNjNde"
+      },
+      "artists": [
+        {
+          "name": "FUFU",
+          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
+        }
+      ],
+      "duration_ms": 150527,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/6FNtp30WxF34GNy0593abH"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hasta Cuando (By BERSHKA Music)",
+        "url": "https://open.spotify.com/album/4RhMsx87eiuLjj3iLIH9kR"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "duration_ms": 237100,
+      "name": "Hasta Cuando - By BERSHKA Music",
+      "url": "https://open.spotify.com/track/3mqEEb0fDraJ8on2Ve4DjA"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "El Tiempo Se Me Fue",
+        "url": "https://open.spotify.com/album/6HIMVLKucesytgxEJXyq9c"
+      },
+      "artists": [
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 139418,
+      "name": "El Tiempo Se Me Fue",
+      "url": "https://open.spotify.com/track/2vwKEm2TUl31uEfB4blXHT"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Her\u00e1ldica",
+        "url": "https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "duration_ms": 179366,
+      "name": "M\u00e1s Feliz",
+      "url": "https://open.spotify.com/track/4WzZeR4d8mhRsaiNQVXHnt"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 174750,
       "name": "T\u00fa Me Haces Mal",
       "url": "https://open.spotify.com/track/1Jp0D6Ow82Iwv8xkWYgiyN"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Hoy S\u00e9",
-        "url": "https://open.spotify.com/album/03jiqFdgoqblV1SnfkxOAe"
-      },
-      "artists": [
-        {
-          "name": "Walter Esa\u00fa",
-          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Hoy S\u00e9",
-      "url": "https://open.spotify.com/track/13I1jQnQIjXpvmfZJnzTvK"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 157244,
       "name": "PEGA ESCANDALOSO",
       "url": "https://open.spotify.com/track/0ODlZu2uJ13I29NfFJJVir"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hoy S\u00e9",
+        "url": "https://open.spotify.com/album/03jiqFdgoqblV1SnfkxOAe"
+      },
+      "artists": [
+        {
+          "name": "Walter Esa\u00fa",
+          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Hoy S\u00e9",
+      "url": "https://open.spotify.com/track/13I1jQnQIjXpvmfZJnzTvK"
     },
     {
       "added_at": "2024-03-29 04:00:00",

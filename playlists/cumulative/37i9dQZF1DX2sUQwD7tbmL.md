@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-647 songs - 1 day 12 hr 33 min
+648 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,8 @@
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-04-13 | 2023-06-17 |
 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-05-01 |  |
 | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/track/4NY3dbgimhDmj4tFt4tIzS) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/album/1w8SeeBNLtPMoIBfgzHKcv) | 2:24 | 2021-05-01 | 2022-04-14 |
-| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-28 |  |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-28 |  |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-28 | 2024-03-31 |
 | [Training Montage](https://open.spotify.com/track/6NFUlJU8cFmys9mUpUNbiq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Training Montage](https://open.spotify.com/album/2iUJhqOwLcqQD7gdrhCxvV) | 4:28 | 2022-06-03 | 2022-06-18 |
 | [Trajic Majic](https://open.spotify.com/track/42wRZeLbhzR3Fv7pMndCUQ) | [Stop Light Observations](https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ) | [Trajic Majic](https://open.spotify.com/album/2TPO59tl3MweoBbXgpTPAg) | 3:13 | 2022-07-01 | 2022-07-07 |
 | [Tripping](https://open.spotify.com/track/6hWw60utsJTE8PeKdd2hiW) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Just Kids \(Mixtape\)](https://open.spotify.com/album/3gMFPlMlKEBGLxWdbjQy4A) | 3:19 | 2022-04-13 | 2022-04-21 |

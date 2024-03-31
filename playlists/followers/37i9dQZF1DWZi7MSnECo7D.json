@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 394872,
+  "2024-03-31": 394870,
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Carne Doce",
+  "description": "Novidades e destaques do indie nacional. Foto: Tagore",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 245500,
       "name": "A Chegada",
       "url": "https://open.spotify.com/track/6cQfhvK6qQ9eFgIrbZ9bwU"
@@ -389,6 +389,28 @@
       "duration_ms": 182874,
       "name": "Aim\u00ea",
       "url": "https://open.spotify.com/track/1SUnvJLHXSWDddMUjuVTcE"
+    },
+    {
+      "album": {
+        "name": "Ainda Est\u00e1 No Ar",
+        "url": "https://open.spotify.com/album/7qFOMcOjiGU7bR33nWrMdl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2"
+        },
+        {
+          "name": "Teago Oliveira",
+          "url": "https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "Ainda Est\u00e1 No Ar",
+      "url": "https://open.spotify.com/track/5B1DoO1SUCMYh6rxZPKuVc"
     },
     {
       "album": {
@@ -668,6 +690,28 @@
     },
     {
       "album": {
+        "name": "Barra de Jangada",
+        "url": "https://open.spotify.com/album/2xmxYYFwGHfwahxDCnVdLe"
+      },
+      "artists": [
+        {
+          "name": "Tagore",
+          "url": "https://open.spotify.com/artist/6jesZl7rJFJZ8d5i9pX5q8"
+        },
+        {
+          "name": "LAZ\u00daLI",
+          "url": "https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Amor Perfume",
+      "url": "https://open.spotify.com/track/6S8qZN6rXpZEfPSkDFIkdS"
+    },
+    {
+      "album": {
         "name": "Amorosidade",
         "url": "https://open.spotify.com/album/4BqXa4MSi963DMf41RfS4W"
       },
@@ -767,7 +811,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 181568,
       "name": "Animais Noturnos",
       "url": "https://open.spotify.com/track/7iQ9dQMQuMulnmzg82FD46"
@@ -1317,7 +1361,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 274932,
       "name": "Bicho Solto",
       "url": "https://open.spotify.com/track/7xKocq5r0niCRi1J0tM3kG"
@@ -4565,7 +4609,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 212812,
       "name": "Insista em Mim",
       "url": "https://open.spotify.com/track/2Hb3whPeeJSeUYLCOl3QlI"
@@ -4655,7 +4699,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 171829,
       "name": "ju\u00edzo",
       "url": "https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B"
@@ -5001,7 +5045,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 215742,
       "name": "L\u00e1grima na L\u00edngua",
       "url": "https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc"
@@ -5633,7 +5677,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 222540,
       "name": "Minha Imagina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1yb9mkMn5S6ynqn5iPhxgm"
@@ -5703,6 +5747,24 @@
       "duration_ms": 193658,
       "name": "MONTANHA RUSSA",
       "url": "https://open.spotify.com/track/4dpjIj2Mg9Glx2k67yutvz"
+    },
+    {
+      "album": {
+        "name": "Morgar Minha Praia",
+        "url": "https://open.spotify.com/album/45uDQjeDIyyO4o6fiDeTmL"
+      },
+      "artists": [
+        {
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182007,
+      "name": "Morgar Minha Praia",
+      "url": "https://open.spotify.com/track/1zala1ysApAABpxFcH8PBw"
     },
     {
       "album": {
@@ -6647,7 +6709,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 166186,
       "name": "O Que \u00e9 Ser Feliz?",
       "url": "https://open.spotify.com/track/62jUI4m8LQe1dnNAdnrGJw"
@@ -6788,6 +6850,24 @@
     },
     {
       "album": {
+        "name": "Ora\u00e7\u00e3o 18 (pra viver junto)",
+        "url": "https://open.spotify.com/album/1G5SOAr5BN4J50Sa54mE3f"
+      },
+      "artists": [
+        {
+          "name": "Luiza Brina",
+          "url": "https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182189,
+      "name": "Ora\u00e7\u00e3o 18 (pra viver junto)",
+      "url": "https://open.spotify.com/track/7pocXmDZywvGx6vNz2VpIc"
+    },
+    {
+      "album": {
         "name": "Orgulho",
         "url": "https://open.spotify.com/album/3Ekzzjpm17YFpH3hqSObVm"
       },
@@ -6909,7 +6989,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 151000,
       "name": "Paix\u00e3o Revirada",
       "url": "https://open.spotify.com/track/7giC7o4Bnvm7enlzpwZCDd"
@@ -7289,7 +7369,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 157795,
       "name": "Por Todo O Universo",
       "url": "https://open.spotify.com/track/5BpYJfoxoHOQ6HnVyY9sij"
@@ -7745,7 +7825,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 159229,
       "name": "Quem vai apagar a luz",
       "url": "https://open.spotify.com/track/17o3WyVnuZB0YtvQ6zjNMG"
@@ -8337,7 +8417,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 212000,
       "name": "se escolher primeiro",
       "url": "https://open.spotify.com/track/2a2IQ1Bbc6sgzhki9WqgpX"
@@ -8391,7 +8471,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 244826,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/4rNdkeJRBA4GQxbkI8YqR6"
@@ -8695,7 +8775,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 229793,
       "name": "SOLAR",
       "url": "https://open.spotify.com/track/1SaZdSpmHnGd0ITlNxkabM"
@@ -8811,6 +8891,24 @@
       "duration_ms": 163758,
       "name": "Sorte Ainda",
       "url": "https://open.spotify.com/track/6oby4VF2Jhf0XohwsxyZ90"
+    },
+    {
+      "album": {
+        "name": "Strokinho",
+        "url": "https://open.spotify.com/album/1nYKRWKxbNnZNFHI9Vinuy"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9 Tardia",
+          "url": "https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Strokinho",
+      "url": "https://open.spotify.com/track/2k6DnW7pZj1x5eRMVCrAth"
     },
     {
       "album": {
@@ -9505,7 +9603,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 201501,
       "name": "Trincheira N\u00ba 02",
       "url": "https://open.spotify.com/track/6QmfwUIedEkpYkzTyAPX5s"
@@ -9563,6 +9661,24 @@
       "duration_ms": 157557,
       "name": "Tu tem jeito de quem gosta",
       "url": "https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv"
+    },
+    {
+      "album": {
+        "name": "corpos de \u00e1gua",
+        "url": "https://open.spotify.com/album/2NIwvzVlWeAIZdA6sRTSlz"
+      },
+      "artists": [
+        {
+          "name": "sonhos tomam conta",
+          "url": "https://open.spotify.com/artist/7rVsNgf4xbMJcVPNilWTnV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428307,
+      "name": "tuas pegadas",
+      "url": "https://open.spotify.com/track/2WUTnaCLjbm5P0lVNx0vxM"
     },
     {
       "album": {
@@ -10631,7 +10747,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 111467,
       "name": "Vqvcssmefmt (Vi Que Voc\u00ea Saiu Sem Mim e Fiquei Muito Triste)",
       "url": "https://open.spotify.com/track/3y7WDGziuaDdYbnwtex42U"

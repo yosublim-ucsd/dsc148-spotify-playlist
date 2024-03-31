@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 69637,
+  "2024-03-31": 69649,
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Siddharth Pandit",
+  "description": "Naye Indie gaano ka khazana! Cover- Akshath, Soham Mukherji",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1452,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "Betabiyaan",
+        "url": "https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4"
+      },
+      "artists": [
+        {
+          "name": "Sayuj Jain",
+          "url": "https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202647,
+      "name": "Betabiyaan",
+      "url": "https://open.spotify.com/track/7pv3jYk70LbTsKOhYzqOWo"
+    },
+    {
+      "album": {
         "name": "Bewajah",
         "url": "https://open.spotify.com/album/1lH7wPAyuQUtx1A6iHrrcm"
       },
@@ -2311,7 +2329,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192281,
       "name": "Dilbar Maanja",
       "url": "https://open.spotify.com/track/2XhIP88BxjhDl0ShpjY4gK"
@@ -3140,6 +3158,28 @@
     },
     {
       "album": {
+        "name": "Hania",
+        "url": "https://open.spotify.com/album/3GilDUB1JJwDaSewWiF5t9"
+      },
+      "artists": [
+        {
+          "name": "PRIYANSHU",
+          "url": "https://open.spotify.com/artist/7eEvdqIc3p9CqKs7EbmQl9"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131803,
+      "name": "Hania",
+      "url": "https://open.spotify.com/track/7yER8tfabF5oi4Kr2wn3q3"
+    },
+    {
+      "album": {
         "name": "Harjaiyaa",
         "url": "https://open.spotify.com/album/5jRHK2YNxGajVDjXcP2aiI"
       },
@@ -3173,7 +3213,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 231724,
       "name": "Haule Haule",
       "url": "https://open.spotify.com/track/73ut9PgPkIFo2aNSdROBQ6"
@@ -3515,7 +3555,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 182000,
       "name": "Ibadat",
       "url": "https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk"
@@ -3999,7 +4039,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 210000,
       "name": "Jiya Jaise",
       "url": "https://open.spotify.com/track/0HN9mR6ajzVOnJcD4L0R8Z"
@@ -4047,6 +4087,24 @@
       "duration_ms": 157090,
       "name": "Judaai",
       "url": "https://open.spotify.com/track/4quoTn7QTN1GLN6NhzQMlE"
+    },
+    {
+      "album": {
+        "name": "Just Like A Movie",
+        "url": "https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198034,
+      "name": "Just Like A Movie",
+      "url": "https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E"
     },
     {
       "album": {
@@ -4521,6 +4579,24 @@
     {
       "album": {
         "name": "Keh Do Na",
+        "url": "https://open.spotify.com/album/5wgVnVCdnL1jREw2cqF2re"
+      },
+      "artists": [
+        {
+          "name": "Khayaal",
+          "url": "https://open.spotify.com/artist/5Kfjxy64QteoXxlMjjNU48"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176207,
+      "name": "Keh Do Na",
+      "url": "https://open.spotify.com/track/4omVbcvxhrZC3W3vHsk7n2"
+    },
+    {
+      "album": {
+        "name": "Keh Do Na",
         "url": "https://open.spotify.com/album/2adeNS3gByA7VyV3a4WzL0"
       },
       "artists": [
@@ -4777,7 +4853,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 170500,
       "name": "Khoj",
       "url": "https://open.spotify.com/track/4z7NoO2owEf6uD4CsJV2WY"
@@ -5825,7 +5901,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 210857,
       "name": "Love Is Not A Fucking Game",
       "url": "https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg"
@@ -6321,7 +6397,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 134794,
       "name": "Meri Hoyi Ni",
       "url": "https://open.spotify.com/track/57fWILOdFXgzQ6lJTxH5Hc"
@@ -6721,7 +6797,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 236360,
       "name": "Naraazi",
       "url": "https://open.spotify.com/track/2W5B2owXYHulX3HiDzy28x"
@@ -7022,6 +7098,24 @@
     },
     {
       "album": {
+        "name": "Paaro",
+        "url": "https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153214,
+      "name": "Paaro",
+      "url": "https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW"
+    },
+    {
+      "album": {
         "name": "Padosan",
         "url": "https://open.spotify.com/album/2DY2Gz77vYcvL5WRGxlw7O"
       },
@@ -7067,6 +7161,32 @@
       "duration_ms": 124615,
       "name": "Pagal Rehne De",
       "url": "https://open.spotify.com/track/760LXdTukTZjtD6rZ4p2n8"
+    },
+    {
+      "album": {
+        "name": "Pahadi Pyaar",
+        "url": "https://open.spotify.com/album/2x5Tj96nhW7aiYbf5lgTBf"
+      },
+      "artists": [
+        {
+          "name": "Liquid Lake",
+          "url": "https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r"
+        },
+        {
+          "name": "ACHINX",
+          "url": "https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm"
+        },
+        {
+          "name": "Gulbis Khan",
+          "url": "https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94848,
+      "name": "Pahadi Pyaar",
+      "url": "https://open.spotify.com/track/5ebIDeI6UXzJUZMP7cvTxp"
     },
     {
       "album": {
@@ -8884,6 +9004,24 @@
     },
     {
       "album": {
+        "name": "Taareyan Toh Puch",
+        "url": "https://open.spotify.com/album/4u6e3vVbivKZ3VurCr3dZj"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Shrivastava",
+          "url": "https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "Taareyan Toh Puch",
+      "url": "https://open.spotify.com/track/6RkZeLJlIOGpjWwnMqQjJ3"
+    },
+    {
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l"
       },
@@ -9691,6 +9829,28 @@
       "duration_ms": 186350,
       "name": "Tu Hi Re",
       "url": "https://open.spotify.com/track/5ox2LabZsOpCs9y0xk6IVD"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Wajah",
+        "url": "https://open.spotify.com/album/07DK8yVmNKVoXBjAvcUaFv"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        },
+        {
+          "name": "Soham Mukherji",
+          "url": "https://open.spotify.com/artist/0IwBTR3mDRKVXdUonhC0X6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Tu Hi Wajah",
+      "url": "https://open.spotify.com/track/10FQmDMezz77rIqeedLsiw"
     },
     {
       "album": {

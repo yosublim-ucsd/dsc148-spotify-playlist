@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 147239,
+  "2024-03-31": 147241,
   "date_first_scraped": "2023-05-28",
   "description": "\u00a1Pa perrear y carretear non stop!",
   "name": "Carrete",
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 261603,
       "name": "Algo M\u00e1gico",
       "url": "https://open.spotify.com/track/0zlnHTHiBQ68ZCAmTw5ozm"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 182836,
       "name": "DEJAU'",
       "url": "https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC"

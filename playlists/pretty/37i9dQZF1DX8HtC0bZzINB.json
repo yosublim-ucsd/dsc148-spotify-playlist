@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 86967,
+  "num_followers": 87005,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTM4NWQ0ZDMxYTU5ZjE0YzAzZGU3MjU5YWZmODNkY2Q5YzdlYjlh",
+  "snapshot_id": "MCxhMmI4OTI2OTAwYzA3M2E1MGUzYmMzNDhiNzgzYTgxMTRjNjY5NTY5",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "\u0131slak kum",
+        "url": "https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh"
+      },
+      "artists": [
+        {
+          "name": "Contra",
+          "url": "https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj"
+        }
+      ],
+      "duration_ms": 186721,
+      "name": "\u0131slak kum",
+      "url": "https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Konum Gizli (feat. Murda)",
         "url": "https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 198581,
       "name": "Konum Gizli (feat. Murda)",
       "url": "https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "\u0131slak kum",
-        "url": "https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh"
-      },
-      "artists": [
-        {
-          "name": "Contra",
-          "url": "https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj"
-        }
-      ],
-      "duration_ms": 186721,
-      "name": "\u0131slak kum",
-      "url": "https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -795,22 +795,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "F\u0130LM \u015eER\u0130D\u0130",
-        "url": "https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8"
+        "name": "bu gece da\u011f\u0131t\u0131cam..",
+        "url": "https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX"
       },
       "artists": [
         {
-          "name": "Baneva",
-          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
-        },
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+          "name": "Kozmos",
+          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
         }
       ],
-      "duration_ms": 136800,
-      "name": "F\u0130LM \u015eER\u0130D\u0130",
-      "url": "https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch"
+      "duration_ms": 139978,
+      "name": "bu gece da\u011f\u0131t\u0131cam..",
+      "url": "https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -867,18 +863,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "bu gece da\u011f\u0131t\u0131cam..",
-        "url": "https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX"
+        "name": "F\u0130LM \u015eER\u0130D\u0130",
+        "url": "https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8"
       },
       "artists": [
         {
-          "name": "Kozmos",
-          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
+          "name": "Baneva",
+          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
+        },
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
         }
       ],
-      "duration_ms": 139978,
-      "name": "bu gece da\u011f\u0131t\u0131cam..",
-      "url": "https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE"
+      "duration_ms": 136800,
+      "name": "F\u0130LM \u015eER\u0130D\u0130",
+      "url": "https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch"
     }
   ],
   "unique_name": "Yaz Ritmi",

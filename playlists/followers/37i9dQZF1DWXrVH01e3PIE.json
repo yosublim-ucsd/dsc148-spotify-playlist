@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 632385,
+  "2024-03-31": 632396,
   "date_first_scraped": "2022-01-24",
   "description": "J Gonz & xuxu en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
@@ -1647,6 +1647,24 @@
       "duration_ms": 159248,
       "name": "En el Foco",
       "url": "https://open.spotify.com/track/5vLgLpGqtCUVXbYvbCfRGA"
+    },
+    {
+      "album": {
+        "name": "En Mi Cama",
+        "url": "https://open.spotify.com/album/1Cykk8jHHi6X75vHGBixeb"
+      },
+      "artists": [
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "En Mi Cama",
+      "url": "https://open.spotify.com/track/1vkSHRmOF2iasL6QHBrfOR"
     },
     {
       "album": {
@@ -4059,6 +4077,24 @@
       "duration_ms": 106800,
       "name": "Poka Luz",
       "url": "https://open.spotify.com/track/05h2p4OlGsBFNeVMLrKuJE"
+    },
+    {
+      "album": {
+        "name": "POPPIN",
+        "url": "https://open.spotify.com/album/0clgDev21YPnsZ074VqHuY"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155075,
+      "name": "POPPIN",
+      "url": "https://open.spotify.com/track/75gbMEbyvjLQzzrxxdHxq5"
     },
     {
       "album": {

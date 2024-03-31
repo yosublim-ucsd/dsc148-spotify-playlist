@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,591 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,614 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Aroma de Masala](https://open.spotify.com/track/2v3yIXzkcCEQjxRiAmH3Ly) | [Gabriel Fróes](https://open.spotify.com/artist/6yUPIetpn9tCDuGyNDh3Uh), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Aroma de Masala](https://open.spotify.com/album/6BhOYvnRoi11AL1hUBksdI) | 2:23 |
 | 50 | [Big Size](https://open.spotify.com/track/1ofEBhOFouAs5nr8QqxU7V) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Big Size](https://open.spotify.com/album/2FLT5kECZf19OeC2AcGhxz) | 2:03 |
 
-Snapshot ID: `MCxiNzFlMzg0MWI1MGY5YjMwY2YyYmFlNDI3ZWVmODk0MjdiMDA0N2Yx`
+Snapshot ID: `MCwwZDU0ZDQ1NzdmMmNiNzNhOWViNjQ5YjQyNzBiNWIzZGZlYTc3MjQ5`

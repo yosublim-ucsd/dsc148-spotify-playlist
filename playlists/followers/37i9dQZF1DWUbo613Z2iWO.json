@@ -1,7 +1,7 @@
 {
-  "2024-03-30": 49708,
+  "2024-03-31": 49750,
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Kenya Vaun",
+  "description": "R&B of the moment by the artists of the future. Cover: Bryant Barnes",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -396,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Sadboy, Vol. 2",
+        "url": "https://open.spotify.com/album/1kKLTqxjORqsUzFeSQGO2J"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150706,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
+    },
+    {
+      "album": {
         "name": "All In My Head",
         "url": "https://open.spotify.com/album/53wyqQJQiepVRsh7FTJGMc"
       },
@@ -523,6 +541,24 @@
       "duration_ms": 187901,
       "name": "Alone At The Ranch",
       "url": "https://open.spotify.com/track/5I5HAt56Y1qpqsNFjKQxia"
+    },
+    {
+      "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/3cCbOPhkQHY2CEtowc1qMw"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293240,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/4qOJorQ4s6GXLbChKSIhzP"
     },
     {
       "album": {
@@ -921,7 +957,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 169579,
       "name": "BAD bad",
       "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
@@ -2859,7 +2895,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV"
@@ -3524,6 +3560,24 @@
     },
     {
       "album": {
+        "name": "Don't Want A Love Song",
+        "url": "https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Don't Want A Love Song",
+      "url": "https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8"
+    },
+    {
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -3651,7 +3705,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 182000,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/2L0goMgNORVfof0S2ULaqm"
@@ -3943,7 +3997,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 250945,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4Zghtgj5NOb3wqlBuat3FI"
@@ -4773,7 +4827,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 242580,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
@@ -4809,7 +4863,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 192022,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED"
@@ -7938,6 +7992,24 @@
     },
     {
       "album": {
+        "name": "Let Me Wander",
+        "url": "https://open.spotify.com/album/27XKp716qAzRnSDw2tsd3p"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202709,
+      "name": "Let Me Wander",
+      "url": "https://open.spotify.com/track/0UG7a7BVbudQ4TPPGAx2hA"
+    },
+    {
+      "album": {
         "name": "Let This Go",
         "url": "https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V"
       },
@@ -9236,6 +9308,24 @@
     },
     {
       "album": {
+        "name": "Mr. Weatherman",
+        "url": "https://open.spotify.com/album/23QXxkhhY9HRsJqc1padbd"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Mr. Weatherman",
+      "url": "https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR"
+    },
+    {
+      "album": {
         "name": "The Chronicles of a Caterpillar: The Egg",
         "url": "https://open.spotify.com/album/0FloeQdkj6meqVv3Hkncu8"
       },
@@ -9752,6 +9842,28 @@
     },
     {
       "album": {
+        "name": "Nothing On You",
+        "url": "https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "Nothing On You",
+      "url": "https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7"
+    },
+    {
+      "album": {
         "name": "Nothing Sweeter",
         "url": "https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc"
       },
@@ -9767,6 +9879,24 @@
       "duration_ms": 265386,
       "name": "Nothing Sweeter",
       "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
+    },
+    {
+      "album": {
+        "name": "Nothings Into Signs",
+        "url": "https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157318,
+      "name": "Nothings Into Signs",
+      "url": "https://open.spotify.com/track/31kpgadjTib4K74PRKec0s"
     },
     {
       "album": {
@@ -9835,7 +9965,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 163902,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3ZVf0GrJ10X3RKhgLApC3Q"
@@ -11203,7 +11333,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 187946,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/3DRBBbiVNkHlRrfalETplk"
@@ -12214,6 +12344,28 @@
     },
     {
       "album": {
+        "name": "Send Your Loving (Remix)",
+        "url": "https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4"
+      },
+      "artists": [
+        {
+          "name": "Ama Louise",
+          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221564,
+      "name": "Sending Your Love (Remix)",
+      "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"
+    },
+    {
+      "album": {
         "name": "GHS Pt. 2",
         "url": "https://open.spotify.com/album/6O6sUvzt2rp0ZyKPpiOZtp"
       },
@@ -12567,6 +12719,24 @@
       "duration_ms": 168000,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6"
+    },
+    {
+      "album": {
+        "name": "Smoke + Mirrors",
+        "url": "https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122115,
+      "name": "Smoke + Mirrors",
+      "url": "https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh"
     },
     {
       "album": {
@@ -12972,6 +13142,24 @@
     },
     {
       "album": {
+        "name": "Stealin' Love",
+        "url": "https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140768,
+      "name": "Stealin' Love",
+      "url": "https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq"
+    },
+    {
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
       },
@@ -13347,6 +13535,24 @@
       "duration_ms": 168854,
       "name": "Super Power",
       "url": "https://open.spotify.com/track/5CFuOXsqU9nUqIc0JRvcKt"
+    },
+    {
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd"
     },
     {
       "album": {
@@ -14155,6 +14361,28 @@
     {
       "album": {
         "name": "Timeless",
+        "url": "https://open.spotify.com/album/4805JZGMvu1ZqzmPnbOl2R"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205032,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m"
+    },
+    {
+      "album": {
+        "name": "Timeless",
         "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
       },
       "artists": [
@@ -14201,7 +14429,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"

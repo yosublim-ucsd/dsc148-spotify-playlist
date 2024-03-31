@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 558541,
+  "num_followers": 558553,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzNlY2MwNDJmY2YxYzY1YWExYTcwMmYwMTY1ZWE0YmI3YTVhMDU1",
+  "snapshot_id": "MCw0ZjlhYWI0ZmRkZDYyMWZiYTRjODY3MmExM2E3ZWZkM2Q2NTIwODcw",
   "tracks": [
     {
       "added_at": "2024-02-23 19:11:06",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-23 19:11:06",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "El Jarabe Tapatio",
-      "url": "https://open.spotify.com/track/3dXcdWFJjgTB9jE7baetjm"
-    },
-    {
-      "added_at": "2024-02-23 19:11:06",
-      "album": {
         "name": "La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez",
         "url": "https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 216026,
       "name": "Mi Jalisco",
       "url": "https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg"
+    },
+    {
+      "added_at": "2024-02-23 19:11:06",
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "El Jarabe Tapatio",
+      "url": "https://open.spotify.com/track/3dXcdWFJjgTB9jE7baetjm"
     },
     {
       "added_at": "2024-02-23 19:11:06",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-02-23 19:11:06",
       "album": {
-        "name": "Colecci\u00f3n De Oro: Tres Grandes Con Mariachi, Vol. 1 \u2013 Joan Sebastian",
-        "url": "https://open.spotify.com/album/4nT0tuBlMgoUMIHnAMI43G"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 145850,
-      "name": "La Ventana",
-      "url": "https://open.spotify.com/track/1js1ErXLdhEICtjWGG7Q6i"
-    },
-    {
-      "added_at": "2024-02-23 19:11:06",
-      "album": {
         "name": "Sones",
         "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 184528,
       "name": "El Mezcalito",
       "url": "https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF"
+    },
+    {
+      "added_at": "2024-02-23 19:11:06",
+      "album": {
+        "name": "Colecci\u00f3n De Oro: Tres Grandes Con Mariachi, Vol. 1 \u2013 Joan Sebastian",
+        "url": "https://open.spotify.com/album/4nT0tuBlMgoUMIHnAMI43G"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 145850,
+      "name": "La Ventana",
+      "url": "https://open.spotify.com/track/1js1ErXLdhEICtjWGG7Q6i"
     },
     {
       "added_at": "2024-02-23 19:11:06",

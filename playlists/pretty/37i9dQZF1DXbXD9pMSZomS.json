@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 459692,
+  "num_followers": 459757,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDYwZWQwZDQ2MWQ4ODQwMDA1MjJmYmYyZGRlN2IzMTFmMWRlZDNl",
+  "snapshot_id": "MCw3NmQxMGZlZGI4NjRmOTgxNWY1MDQ4YjVkMmY5NDQxZDAwMzU1NDJi",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 164878,
       "name": "You With Me",
       "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Polar Circle",
-        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
-      },
-      "artists": [
-        {
-          "name": "Ekfat",
-          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
-        }
-      ],
-      "duration_ms": 117660,
-      "name": "Polar Circle",
-      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Polar Circle",
+        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
+      },
+      "artists": [
+        {
+          "name": "Ekfat",
+          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
+        }
+      ],
+      "duration_ms": 117660,
+      "name": "Polar Circle",
+      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
     },
     {
       "added_at": "2024-03-08 05:01:00",

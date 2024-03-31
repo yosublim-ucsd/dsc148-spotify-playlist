@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,398 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,437 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 29 | [Vivir la Vida](https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn) | [Marco Bode](https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr) | [Vivir la Vida](https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME) | 1:54 |
 | 30 | [Lo Malo Se Fue](https://open.spotify.com/track/6VNLV0e3C9ygvKHmIvKVyU) | [Marcela Reyes](https://open.spotify.com/artist/2a3lL5m6feAyGUR1PI2osJ) | [Lo Malo Se Fue](https://open.spotify.com/album/5GQiolbnTXFHmBUEA0trro) | 3:40 |
 | 31 | [Si Quema Cuh](https://open.spotify.com/track/3hLc8XjpvAX7i4HXl9f6SG) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Si Quema Cuh](https://open.spotify.com/album/09G5l8kon7sPnJkWhKgK7x) | 2:44 |
-| 32 | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/track/52YR2Gi2z7uCiSTb0zq36a) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI) | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/album/6Bf9OGh6wWNdshA4xDHneQ) | 5:58 |
+| 32 | [La Culebritica](https://open.spotify.com/track/35sjMmzqvrsfus9qmHFUqq) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [La Culebritica](https://open.spotify.com/album/4QdDnd3evfl3o5pGKc7k3S) | 3:40 |
 | 33 | [Quiero Bailar \(All Through the Night\) \[feat\. Becky G\]](https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 4:20 |
-| 34 | [Tokio](https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW) | [TOSCA](https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx), [Alex Martinez](https://open.spotify.com/artist/3vkoJYTS0dkxrsrpAVPrTb) | [I'm \#ELSRDLM](https://open.spotify.com/album/0ZFG7HAARlziJ1QKjoYNC6) | 3:58 |
-| 35 | [La Culebritica](https://open.spotify.com/track/35sjMmzqvrsfus9qmHFUqq) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [La Culebritica](https://open.spotify.com/album/4QdDnd3evfl3o5pGKc7k3S) | 3:40 |
+| 34 | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/track/52YR2Gi2z7uCiSTb0zq36a) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI) | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/album/6Bf9OGh6wWNdshA4xDHneQ) | 5:58 |
+| 35 | [Tokio](https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW) | [TOSCA](https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx), [Alex Martinez](https://open.spotify.com/artist/3vkoJYTS0dkxrsrpAVPrTb) | [I'm \#ELSRDLM](https://open.spotify.com/album/0ZFG7HAARlziJ1QKjoYNC6) | 3:58 |
 | 36 | [Zumba Tribal](https://open.spotify.com/track/1tO56JLSWKeg2ZSXoa4Out) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [El After Party Ya Llego](https://open.spotify.com/album/1LhDt05IVDdQrwybh3Xsyj) | 2:57 |
 | 37 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 |
 | 38 | [Senti2](https://open.spotify.com/track/6PCkpWCWbRKdBIlMjLPVKS) | [Holguin](https://open.spotify.com/artist/3POaPK6kssLkrO010CotXJ), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M) | [Senti2](https://open.spotify.com/album/5x6EmQK9vVzzueIcI6j5j6) | 4:07 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 44 | [Enamorada de un Cantante](https://open.spotify.com/track/1dPO1BNdJSxtp2JTzCjbog) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw), [DJ Morphius Tribal Mix](https://open.spotify.com/artist/6znYrtwZJsdgOUJXbX0a9m) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 4:25 |
 | 45 | [Shake It Off](https://open.spotify.com/track/7cO56Ywy5ddith2FRPTaM6) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Playlist](https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1) | 3:01 |
 | 46 | [Meneando Cadera](https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Meneando Cadera](https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS) | 2:11 |
-| 47 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
-| 48 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
+| 47 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
+| 48 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
 | 49 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 |
 | 50 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
 
-Snapshot ID: `MCw1MTU2ODYzNzQ5ZWU2YWQxZjc4MDJlNzFkNjM5NmY1NDIxNjA2M2Mx`
+Snapshot ID: `MCw4MDc2MzU4MzM3ZTQwNTYwYjE0MTU2ZDc4MjhiOWY0NjI5NTI2OGJh`

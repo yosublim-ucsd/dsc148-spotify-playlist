@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MjgwMjAsMDAwMDAwMDA3Y2NmYzQwODQ5ZDBhMjQxNTZkNGJiMzM1ZGEwNzc5MA==",
+  "snapshot_id": "Mjg1MjgwMjAsMDAwMDAwMDAzZDFkYjU2NjIwMjAwOGRjMjU0NDhkNmU5OGIwZmUxNg==",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -143,22 +143,6 @@
       "duration_ms": 186831,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Friendly Fire: A Cappella + Instrumental",
-        "url": "https://open.spotify.com/album/2JGoWZYDsksSiHcRqbGa3o"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 178692,
-      "name": "Friendly Fire (A Cappella)",
-      "url": "https://open.spotify.com/track/5zHpUKsgIVxB7H20nN3Xy8"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -307,6 +291,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Friendly Fire: A Cappella + Instrumental",
+        "url": "https://open.spotify.com/album/2JGoWZYDsksSiHcRqbGa3o"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 178692,
+      "name": "Friendly Fire (A Cappella)",
+      "url": "https://open.spotify.com/track/5zHpUKsgIVxB7H20nN3Xy8"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Crack Cocaine",
         "url": "https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF"
       },
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Pertenezco Aqu\u00ed",
-        "url": "https://open.spotify.com/album/0Me6t0xF5TSIaPG3ayJdkW"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Pertenezco Aqu\u00ed",
-      "url": "https://open.spotify.com/track/314VxfuhEvi859ShK1nK6z"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Akoma",
         "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 246053,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Pertenezco Aqu\u00ed",
+        "url": "https://open.spotify.com/album/0Me6t0xF5TSIaPG3ayJdkW"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Pertenezco Aqu\u00ed",
+      "url": "https://open.spotify.com/track/314VxfuhEvi859ShK1nK6z"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Revuelta",
-        "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "D\u00e9jate Caer - 2024",
-      "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Invincible Shield (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
       },
@@ -903,38 +887,6 @@
       "duration_ms": 381067,
       "name": "Invincible Shield",
       "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "The Last Imagination",
-        "url": "https://open.spotify.com/album/4rZlDpT9yufJYWhzDaxbjX"
-      },
-      "artists": [
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "The Last Imagination",
-      "url": "https://open.spotify.com/track/70vbbwbAEaWokZlGta6R8g"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "I'm a Rat",
-        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130547,
-      "name": "I'm a Rat",
-      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1051,54 +1003,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Falter",
-        "url": "https://open.spotify.com/album/1tPAdl5ojUZur7ynmEJepT"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 503613,
-      "name": "Falter",
-      "url": "https://open.spotify.com/track/79QhTutYDFH81UaFYK3MvZ"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "A Song to Save Us All",
-        "url": "https://open.spotify.com/album/5TtmNTJY8agkorkC4wsyy3"
-      },
-      "artists": [
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 448120,
-      "name": "A Song to Save Us All",
-      "url": "https://open.spotify.com/track/7cDZWmXET8OfvwltJJokFd"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Aun la Flor",
-        "url": "https://open.spotify.com/album/4CC7oyUIggXN5mctAsgyeI"
-      },
-      "artists": [
-        {
-          "name": "PelySayon",
-          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
-        }
-      ],
-      "duration_ms": 167418,
-      "name": "Aun la Flor",
-      "url": "https://open.spotify.com/track/6rDaEXj7UwI28NmQma7JTx"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Owner of a Lonely Heart (Back2Back Remix)",
         "url": "https://open.spotify.com/album/1M1qW4kgDAhi5ANvwhdzrE"
       },
@@ -1151,26 +1055,6 @@
       "duration_ms": 292661,
       "name": "Legs - Live from the Blockbuster Pavilion San Bernardino, California on September 15, 1993, 2023 Remaster",
       "url": "https://open.spotify.com/track/1IGRPsbQuIF5F9dyoi67Xt"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
-        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
-      },
-      "artists": [
-        {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 178432,
-      "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
-      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1279,70 +1163,6 @@
       "duration_ms": 164233,
       "name": "Spicy Margarita - R3HAB Remix",
       "url": "https://open.spotify.com/track/0njNPrUm5K7kmEC5gOi7o7"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "The Mandrake Project",
-        "url": "https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy"
-      },
-      "artists": [
-        {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
-        }
-      ],
-      "duration_ms": 288310,
-      "name": "Many Doors to Hell",
-      "url": "https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Finsterwacht",
-        "url": "https://open.spotify.com/album/0QtW38XI6FzPFmVaKuxjsK"
-      },
-      "artists": [
-        {
-          "name": "Saltatio Mortis",
-          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
-        },
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 560573,
-      "name": "Finsterwacht",
-      "url": "https://open.spotify.com/track/0Ktmk5jp4r6ym9hT2bWlQM"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Insatiable Remixes Vol. 002",
-        "url": "https://open.spotify.com/album/4B6c6biNAJLSY0sFjtU0Uc"
-      },
-      "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        },
-        {
-          "name": "Pixel Terror",
-          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Insatiable (Pixel Terror Remix)",
-      "url": "https://open.spotify.com/track/6MvKwzpdwwh0CqJbz6cTRV"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

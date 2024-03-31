@@ -1,5 +1,5 @@
 {
-  "2024-03-30": 252272,
+  "2024-03-31": 252343,
   "date_first_scraped": "2022-09-09",
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
   "name": "This Is Kane Brown",
@@ -159,7 +159,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 242306,
       "name": "Bury Me in Georgia",
       "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 170682,
       "name": "Bury Me in Georgia - Single Edit",
       "url": "https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 165333,
       "name": "Comeback",
       "url": "https://open.spotify.com/track/0O39q1NfkVnMurlMwMAEZm"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 179506,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 205400,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 202106,
       "name": "Learning",
       "url": "https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 234800,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/5C9jQ8ikTOieveuORd8wlf"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-30",
       "duration_ms": 178986,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 212066,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/40HQjXwTG4czvPGTtF3uzt"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 181823,
       "name": "One Thing Right",
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 189893,
       "name": "See You Like I Do",
       "url": "https://open.spotify.com/track/4UZvxMfQRMqj24WHj0VNEf"

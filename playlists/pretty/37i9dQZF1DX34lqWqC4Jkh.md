@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqWqC4Jkh.md) - [plain]
 
 > to the love of my life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,373 likes - 72 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,379 likes - 72 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqWqC4Jkh.md) - [plain]
 | 61 | [Favourite](https://open.spotify.com/track/4VfjUbKtTaZsQriNud6Iz2) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Favourite](https://open.spotify.com/album/0MOXOTpfhSdr2sOUg1EZcQ) | 2:56 |
 | 62 | [About Him](https://open.spotify.com/track/3eDRjkhT93bg7Kjp66uXPw) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Dreams in Analog](https://open.spotify.com/album/2IzV3QlV29G5V1AnKMHmAg) | 4:47 |
 | 63 | [Waterfall \(I Adore You\)](https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Waterfall \(I Adore You\)](https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9) | 4:52 |
-| 64 | [Wake Up Love \(feat\. IMAN\)](https://open.spotify.com/track/6QutayBrziruy3GoPMqBBq) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 3:33 |
+| 64 | [Wake Up Love \(feat\. IMAN\)](https://open.spotify.com/track/3HLkL9ahiEnACmnuq8Pcwt) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 3:33 |
 | 65 | [Smoking In The Park \(Paradise\)](https://open.spotify.com/track/5i6L129avGeLGlfJ6bLKUN) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [P.O.V](https://open.spotify.com/album/7zj0Z1DmY9GEuMEmv32hZ7) | 3:13 |
 | 66 | [I'm There](https://open.spotify.com/track/1UqR9Hho0SPUrzC5PFEpyi) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:54 |
 | 67 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqWqC4Jkh.md) - [plain]
 | 71 | [WYBM?](https://open.spotify.com/track/0RK0cyuj7x1GN3eV9b2clu) | [Mio](https://open.spotify.com/artist/1JfJjWsE2dwEFhcZG0zVlA) | [Call Me Ms.](https://open.spotify.com/album/4L8ioUOQuZriSJqOOF25Em) | 1:58 |
 | 72 | [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 |
 
-Snapshot ID: `MCxmMDlkOTg1YWRkOWUxMjAwMjcyODEwZWU2MmEzZTAyZWJiMjAwNWZh`
+Snapshot ID: `MCxkN2JjZGI4ZTkxMTc0OWU1OGQ4MGM3N2VlNTkxOGQ2NmEzN2JjOWVm`

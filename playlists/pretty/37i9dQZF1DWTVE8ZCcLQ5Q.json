@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 413171,
+  "num_followers": 413170,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTUxNzYxZjhhM2Y2YzAxZmM1MGM4YTQ4MWUwZTRkZDRjNmIxOThm",
+  "snapshot_id": "MCwxMGVlOTcwYjViY2RmY2Q1YzcxNmJlMTQyY2RmYzlkMjBjNDQzOTVk",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -139,26 +139,34 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Todo Mundo Ama O Sol",
-        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
+        "name": "Essa \u00e9 a Vida de um Corredor",
+        "url": "https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO"
       },
       "artists": [
         {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+          "name": "Luk The Real",
+          "url": "https://open.spotify.com/artist/3Lw8tmb8t7XVLonOhQlqbA"
         },
         {
-          "name": "pumapjl",
-          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
+      "duration_ms": 136875,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/4unpSpFKk3d8H08AmLvrHj"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -195,34 +203,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Essa \u00e9 a Vida de um Corredor",
-        "url": "https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO"
+        "name": "Todo Mundo Ama O Sol",
+        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
       },
       "artists": [
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
         },
         {
-          "name": "Luk The Real",
-          "url": "https://open.spotify.com/artist/3Lw8tmb8t7XVLonOhQlqbA"
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
         },
         {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
         }
       ],
-      "duration_ms": 136875,
-      "name": "DAMN!",
-      "url": "https://open.spotify.com/track/4unpSpFKk3d8H08AmLvrHj"
+      "duration_ms": 162000,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Uber",
         "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 157741,
       "name": "Uber",
       "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Malvatrem",
-        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Oompa Loompa",
-      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -691,30 +691,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Hino Delas",
-        "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
-        }
-      ],
-      "duration_ms": 139854,
-      "name": "Hino Delas",
-      "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Hino Delas",
+        "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        }
+      ],
+      "duration_ms": 139854,
+      "name": "Hino Delas",
+      "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
       },
@@ -859,6 +839,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Eu Te Dei, Amor",
         "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Aquecimento",
         "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 123444,
       "name": "Aquecimento",
       "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Contrai",
+        "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Martinnz",
+          "url": "https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw"
+        }
+      ],
+      "duration_ms": 180008,
+      "name": "Contrai",
+      "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Na Mente",
         "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 124948,
       "name": "Na Mente",
       "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Contrai",
-        "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Martinnz",
-          "url": "https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw"
-        }
-      ],
-      "duration_ms": 180008,
-      "name": "Contrai",
-      "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
     },
     {
       "added_at": "2023-10-05 08:00:00",

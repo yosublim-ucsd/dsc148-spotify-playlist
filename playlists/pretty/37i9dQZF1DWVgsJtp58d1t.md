@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:6vWDO969PvNqNYHIOW5v0m"> Beyoncé </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,723 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,885 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 4 | [Don't Check 4 Me](https://open.spotify.com/track/3MJhp4duKazKhnp0Of1mom) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Don't Check 4 Me](https://open.spotify.com/album/45YCAdhDcais6gYe6cDIks) | 2:28 |
 | 5 | [Making The Beast \- Edit](https://open.spotify.com/track/1oCbNTOmA43TArd9PVTfft) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Making The Beast](https://open.spotify.com/album/3DhI1gzM2t6dzfaMbrPsXq) | 2:14 |
 | 6 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 |
-| 7 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:23 |
+| 7 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 |
 | 8 | [Claro](https://open.spotify.com/track/5icVxZuzeB5biZbky66WtH) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [D.E.O.V \(D ESAMA OF VYBES\)](https://open.spotify.com/album/3Bq6JfzbEuLbxBRHYocKGF) | 3:06 |
 | 9 | [Lalalala](https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Lalalala](https://open.spotify.com/album/3s7J1XOeBX15IXhh025coY) | 2:50 |
 | 10 | [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 100 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 
-Snapshot ID: `MCw1ZDExZDE1NGNkZWM4YTE2MzYyODcyNDVlM2Y0OWRhYzc0Y2Q0ZmRk`
+Snapshot ID: `MCwwZjJkMTE4NmQ0Yzg0NmY5YTQ5NWIwY2NlYTg2NTk3NTY2ZGM2MWMx`

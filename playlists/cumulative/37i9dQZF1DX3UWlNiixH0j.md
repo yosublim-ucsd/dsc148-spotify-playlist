@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Mega Shinnosuke
 
-1,448 songs - 3 day 17 hr 38 min
+1,449 songs - 3 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,7 +1069,7 @@
 | [キャロライン](https://open.spotify.com/track/2QVLcKnAZOa4kcvflcN0G6) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [キャロライン](https://open.spotify.com/album/4uUOmlaeXD1tLtpOOEgg8n) | 3:12 | 2023-10-24 | 2023-10-26 |
 | [キリン](https://open.spotify.com/track/5pwlfTuMRYRv1YQmQvPew4) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [キリン](https://open.spotify.com/album/0IsKWVJ9oleyraPcUF2GlY) | 3:20 | 2023-08-10 | 2023-08-16 |
 | [クーポン](https://open.spotify.com/track/01pdUYUoID51rCnVBI8LGy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [クーポン](https://open.spotify.com/album/5uuInhJa0eNzpdI0vXQJJT) | 3:54 | 2023-10-24 | 2023-11-01 |
-| [グリン・グリーンレッド](https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [グリン・グリーンレッド](https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X) | 1:14 | 2023-12-19 |  |
+| [グリン・グリーンレッド](https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [グリン・グリーンレッド](https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X) | 1:14 | 2023-12-19 | 2024-03-31 |
 | [グリーンマン](https://open.spotify.com/track/5A5IxGThcKc5ZG3TVqouVP) | [KiQ](https://open.spotify.com/artist/1wpDXEtGHLGW18q9A0bvGz) | [グリーンマン](https://open.spotify.com/album/5YoZ2aUnPsLCJIduIMG9Xg) | 3:43 | 2023-09-05 | 2023-09-20 |
 | [コステロメガネ](https://open.spotify.com/track/4V1zGopqPDZl2pkeURmj95) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [コステロメガネ](https://open.spotify.com/album/2nITrjvHBFFPE6wtNA43qU) | 3:11 | 2024-01-30 | 2024-02-07 |
 | [コメット](https://open.spotify.com/track/4OUGiOpZtwEnFOsUZfONhS) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [コメット](https://open.spotify.com/album/4bwQ5Mz7zR8tW7nzOBOi4c) | 4:02 | 2023-10-31 | 2023-11-08 |
@@ -1094,6 +1094,7 @@
 | [スタンド・バイ・ミー](https://open.spotify.com/track/1uqIzwX6OaH0adzFHHb8ms) | [初恋モーテル](https://open.spotify.com/artist/1WEhXsGPvA5DS1810cjnOS) | [スタンド・バイ・ミー](https://open.spotify.com/album/63xKPJKQLaOfC4X2jQMbWw) | 4:50 | 2023-11-29 | 2023-12-06 |
 | [スターシェード](https://open.spotify.com/track/3EO5Q1daHVCVjJvIVCsGXP) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo) | [スターシェード](https://open.spotify.com/album/3WJdkhQE5Ml65mFnwbKKtr) | 2:44 | 2024-01-30 | 2024-02-07 |
 | [ステンドの夜](https://open.spotify.com/track/0m0KEWllO59oDfHdYAiyV3) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:04 | 2023-01-12 | 2023-02-01 |
+| [スパンコールの女](https://open.spotify.com/track/1LGqKRFZOEXobQcfk5d2Ue) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:30 | 2024-03-26 |  |
 | [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ \- Single](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2024-01-11 | 2024-03-23 |
 | [スピード](https://open.spotify.com/track/3vBUAE2iHH1WolfzY41fLd) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [スピード](https://open.spotify.com/album/57kktgZbZe52x9618WJ7GP) | 1:45 | 2023-04-04 | 2023-08-09 |
 | [セルフノート](https://open.spotify.com/track/4s96Bk8Z7euqfxZt2PMgGy) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [セルフノート](https://open.spotify.com/album/0kqROzkDHknD23ANUiDhgl) | 4:08 | 2023-06-27 | 2023-09-20 |

@@ -1,9 +1,27 @@
 {
-  "2024-03-30": 161059,
+  "2024-03-31": 161213,
   "date_first_scraped": "2021-12-21",
   "description": "VEM FAN E DU!?",
   "name": "30 km/h",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0"
+    },
     {
       "album": {
         "name": "079",
@@ -21041,24 +21059,6 @@
       "duration_ms": 150687,
       "name": "VIP",
       "url": "https://open.spotify.com/track/58QoOmzoDZWkvFHaMyH0l7"
-    },
-    {
-      "album": {
-        "name": "VIVA LA GUNILLA",
-        "url": "https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8"
-      },
-      "artists": [
-        {
-          "name": "Gunilla Persson",
-          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
-        }
-      ],
-      "date_added": "2024-03-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131363,
-      "name": "VIVA LA GUNILLA",
-      "url": "https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0"
     },
     {
       "album": {

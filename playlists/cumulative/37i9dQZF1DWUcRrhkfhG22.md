@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-103 songs - 7 hr 37 min
+104 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Winning](https://open.spotify.com/track/5aoEP8goqbvoI7ITs2SVAo) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/4UQCFBr4wdsGQmcdXyoVcV) | 3:39 | 2020-09-18 | 2024-01-28 |
 | [With the Music](https://open.spotify.com/track/7ADWPWvgegTdPYEqRtQXYe) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/57q2lXAoPUWJTBvlSpzy7F) | 6:17 | 2020-09-18 |  |
 | [With the Music](https://open.spotify.com/track/5so4fWOUupeEepFqixqdMt) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/4h465iyTznZQouao9JLwif) | 6:18 | 2020-09-18 | 2022-11-14 |
-| [With You](https://open.spotify.com/track/7hA8vD3WERUwEOTGMMJd3J) | [REAL DAZE](https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr) | [Contrast](https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv) | 4:06 | 2020-09-18 |  |
+| [With You](https://open.spotify.com/track/4hze9blDumACXuOsOq22qc) | [REAL DAZE](https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr) | [Contrast](https://open.spotify.com/album/1Pkf341w5y6fjAjssaIwkv) | 4:06 | 2020-09-18 |  |
+| [With You](https://open.spotify.com/track/7hA8vD3WERUwEOTGMMJd3J) | [REAL DAZE](https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr) | [Contrast](https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv) | 4:06 | 2020-09-18 | 2024-03-31 |
 | [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 | 2020-09-18 | 2022-11-12 |
 | [With You](https://open.spotify.com/track/34RnMx1hRtypnn03BkTkHV) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4tfomAZjkkF736D6WTK7tC) | 4:08 | 2020-09-18 | 2022-11-06 |
 | [With You](https://open.spotify.com/track/40NCmCoLUqL62ZaUWBI2Qv) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P) | 4:08 | 2020-09-18 |  |

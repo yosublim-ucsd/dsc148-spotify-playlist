@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,452 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,459 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 46 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 47 | [Mais Um Voo](https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mais Um Voo](https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U) | 3:14 |
 | 48 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 |
-| 49 | [Quando a gente ama](https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Quando a gente ama](https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk) | 2:35 |
+| 49 | [Quando a gente ama \(Versão Xamã\)](https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Quando a gente ama \(Versão Xamã\)](https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk) | 2:35 |
 | 50 | [Jogo](https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:48 |
 | 51 | [My Boo](https://open.spotify.com/track/57XMBBf2cBh4H6bp1aHdmL) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [My Boo](https://open.spotify.com/album/0IvpAd8VMNzoPfKp0SUL5F) | 2:45 |
 | 52 | [Sem Sacanagem](https://open.spotify.com/track/3OMUAcIgDjL5TMgaaINDkF) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA), [Samp MC](https://open.spotify.com/artist/3z9s1VbtllLyCDuJY4U5Dr) | [Sem Sacanagem](https://open.spotify.com/album/1r1GmWCwnsziSr1gtnGbZk) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Preciso De Você](https://open.spotify.com/track/2ptwCM76W3PVy7olg5IW3x) | [WASHZL](https://open.spotify.com/artist/3lLoeUrCUfgOaefwgp8opm), [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Preciso De Você](https://open.spotify.com/album/5AEw6Oz304ISasMskpCXO6) | 2:53 |
 | 75 | [Poesia Acústica 14](https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 14](https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN) | 14:09 |
 
-Snapshot ID: `MCxhZmNkYjYzNjBlOTBhNmRmMjkyMjNlZGQxOTgyZDBmZDUzZWM5YjFk`
+Snapshot ID: `MCwzOWUwZDEwOTY1N2NiZWM3ZDkxMGYyZmU3NmViNjcwYzA0OTE2ZmE3`

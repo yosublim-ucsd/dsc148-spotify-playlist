@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Rau\_Ze
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,313 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,339 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sumerset](https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 3:42 |
+| 1 | [Cinq minutes pile](https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 2:42 |
 | 2 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 |
 | 3 | [Les Heures](https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Les Heures](https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO) | 3:30 |
 | 4 | [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 |
 | 5 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 |
 | 6 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 |
 | 7 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 |
-| 8 | [Cinq minutes pile](https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 2:42 |
+| 8 | [Sumerset](https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 3:42 |
 | 9 | [Distrust the Magician](https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Distrust the Magician](https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO) | 5:37 |
 | 10 | [Wear You Out](https://open.spotify.com/track/0tGi0kOdc5GlsKBg4b0tkQ) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Wear You Out](https://open.spotify.com/album/2hbpz06Bgw4SONqk2MSqJ6) | 3:31 |
 | 11 | [Rêve le fun](https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Rêve le fun](https://open.spotify.com/album/5C7d50ode6n6laOBx2w775) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 |
 | 100 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 |
 
-Snapshot ID: `MCw0ODBkZmJiZGFkMTZjZjExNGJlYzFkMDVlZDgwNDY1NGJkMTU4MWRj`
+Snapshot ID: `MCxkOTcxMjgxNzBhMDQ5M2IyYTA2NzgwMWE2ODEyOWJmNWNmNmI5ZDgz`
