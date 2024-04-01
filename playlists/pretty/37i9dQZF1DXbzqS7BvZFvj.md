@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: A Boogie Wit da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,524 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,530 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 79 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 80 | [Theme of +81 Connect Mix](https://open.spotify.com/track/3fgywJ88l0n6O4ExCP12pk) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Theme of +81 Connect EP](https://open.spotify.com/album/7LKI9DciQsxaf41Aw6c3nf) | 7:31 |
 
-Snapshot ID: `MCw4ZjM4YjgxZWEwMzEyNjhkNTg0NTA2M2E5NTNkOTA5OWFjZWE3ZGI2`
+Snapshot ID: `MCwxN2U4OGY1YTczOGVkNmQ3ZGI3ZmNkMGMwZmUwMTkyY2FjZTk3Y2M0`

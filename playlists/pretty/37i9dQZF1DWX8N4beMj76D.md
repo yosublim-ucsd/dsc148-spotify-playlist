@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,599 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,601 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
 | 40 | [In My Secret Life](https://open.spotify.com/track/6qwLJ7MfY235DPBO9PbGQL) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [Sings Leonard Cohen](https://open.spotify.com/album/1es9chKTaPwJHhMRnsJC4a) | 4:23 |
 
-Snapshot ID: `MCxmMTdlNWU5NGM3ODM1ZGIwZDRmODBmNDNiOTI1MTQ3YTU0NmM1NzY2`
+Snapshot ID: `MCw0ODE3NzVkNzMyNGQ0YzMyNTA5MzVhNmY1YTJiZWViMTg3NzNkMzY3`

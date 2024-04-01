@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,408,546 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,408,612 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/6eg4SmA5q6IwAfRJ3r140S) | 3:24 |
 | 75 | [Gimme Love \- Armin van Buuren Remix – Radio Edit](https://open.spotify.com/track/2cuVIu6c6BHJiUcOXoEivN) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Gimme Love \(Armin van Buuren Remix\)](https://open.spotify.com/album/7EMCPnAtiom6pK0oTqufM5) | 3:27 |
 
-Snapshot ID: `MCw0MjQ2NTYzNGZlYTc1NmNjYTExN2Y3NzcyNDYzZWRiNzcxNjZhOWEw`
+Snapshot ID: `MCw2YTgzZjRmZDE2ZDZmYzRiZmI0NjkwNmE2YWI1NGEwNDlkM2Q2MGQ5`

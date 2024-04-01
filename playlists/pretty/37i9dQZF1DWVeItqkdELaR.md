@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,317 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,322 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 89 | [Tudo Me Lembra Você](https://open.spotify.com/track/3PdwCmtzejJgjjLOEnbSEB) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Me Lembra Você](https://open.spotify.com/album/1H9PZCaC6HZqMlu6dGqSh8) | 2:56 |
 | 90 | [underwater](https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [underwater](https://open.spotify.com/album/6uJWdgjsmnvZZIia4xEDTr) | 3:56 |
 | 91 | [Socadona](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 |
-| 92 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/6cS0vHihdIXy77v828qYwR) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/0hQnp9igXfBTQx0ykET3me) | 2:05 |
-| 93 | [Minha Terra](https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Minha Terra](https://open.spotify.com/album/05rD9jNxOYPOIZu6cNPdL3) | 4:19 |
+| 92 | [Minha Terra](https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Minha Terra](https://open.spotify.com/album/05rD9jNxOYPOIZu6cNPdL3) | 4:19 |
+| 93 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/6cS0vHihdIXy77v828qYwR) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/0hQnp9igXfBTQx0ykET3me) | 2:05 |
 | 94 | [Afro Tropical](https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm) | [Afro Tropical](https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n) | 2:31 |
 | 95 | [Colãs](https://open.spotify.com/track/3LTGo62z4pb6YldRQY1C5j) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Colãs](https://open.spotify.com/album/4Xs96MIepiCpo8lBnnfDEv) | 3:13 |
 | 96 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Pode Tentar](https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Pode Tentar](https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS) | 2:35 |
 | 100 | [Cê Não Tem Noção](https://open.spotify.com/track/0iDNkj4n9xuU7SwfKSd4f2) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Cê Não Tem Noção](https://open.spotify.com/album/6E8YCf91O1AaKIh0B1MlL0) | 2:39 |
 
-Snapshot ID: `MCxiMzc3NGJmMzc3NzlhZTA4ZmI0N2U3ODA0NjcyZGZhZmUyYTQ1ZjRk`
+Snapshot ID: `MCxiY2Y5NTEwZDg1MWMyMTEyYWQ3MzFmOTVhNWUyNjlhMTkxOWRmNjAz`

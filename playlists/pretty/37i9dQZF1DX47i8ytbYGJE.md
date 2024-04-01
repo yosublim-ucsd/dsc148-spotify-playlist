@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,410 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,448 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 14 | [Brand New Cadillac](https://open.spotify.com/track/40Hx0p4YQp8aiotm6DV1mQ) | [Vince Taylor & His Playboys](https://open.spotify.com/artist/1NnCrPjtSLFHulsEZdLSEg) | [Brand New Cadillac](https://open.spotify.com/album/5V0rMciiiQjOsh42iGJfmK) | 2:37 |
 | 15 | [Hello Mary Lou, Goodbye Heart \- Remastered](https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:18 |
 | 16 | [Make A Circuit With Me](https://open.spotify.com/track/3Z50lyyjBpQ8X5aPz4d9kU) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:55 |
-| 17 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
+| 17 | [Whole Lotta Shakin' Going On \- Remastered 2022](https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Killer Keys Of Jerry Lee Lewis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB) | 2:53 |
 | 18 | [Bang Bang](https://open.spotify.com/track/4ThhGr14tIhTIYda38OHZu) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [Presenting Janis Martin](https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E) | 2:00 |
 | 19 | [Not Fade Away](https://open.spotify.com/track/4O2MqQFRBB6E8darwh6CSn) | [HeadCat](https://open.spotify.com/artist/5WM7w7zSrYevTJZtuKgvvO), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Danny B\. Harvey](https://open.spotify.com/artist/7rnGpkRXprZHH7rwKwEMy2), [Slim Jim Phantom](https://open.spotify.com/artist/3HfEn2cgHnv9NDtw9tS6ps) | [Fool's Paradise](https://open.spotify.com/album/3SGlVZOJK0Xoao28PNVDBb) | 2:16 |
 | 20 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 74 | [Ubangi Stomp](https://open.spotify.com/track/5FKajihwTRjPvsfdCTG86a) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Sun Records Originals: Rock 'n' Roll Ruby](https://open.spotify.com/album/37IW9DA7zMC5O83RAxiZpv) | 1:59 |
 | 75 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
 
-Snapshot ID: `MCw4MWIwOGRmZWQzNjRmMjEwZTdhYjFjN2I1ZTNlZDZmYjJlYTM1MTc4`
+Snapshot ID: `MCwwMWU0NDA4ODFmMmI5NTIwYmE2MjBlOTE1NGYxNDcyOTdjZTM2YzE3`

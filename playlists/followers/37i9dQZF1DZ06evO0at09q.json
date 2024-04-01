@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 55,
+  "2024-04-01": 55,
   "date_first_scraped": "2024-01-03",
   "description": "This is Qlank. The essential tracks, all in one playlist.",
   "name": "This Is Qlank",
@@ -516,6 +516,40 @@
     },
     {
       "album": {
+        "name": "Fine Day (Qlank Remix)",
+        "url": "https://open.spotify.com/album/4tgcYm8wbBQEXWung15fwo"
+      },
+      "artists": [
+        {
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        {
+          "name": "Bad Boy Bill",
+          "url": "https://open.spotify.com/artist/2GYDdjFOEdHrdLh50r5iFQ"
+        },
+        {
+          "name": "ZXX",
+          "url": "https://open.spotify.com/artist/2TalAjEFFfkVri5ectD4VX"
+        },
+        {
+          "name": "SKYLR",
+          "url": "https://open.spotify.com/artist/6ukLdq8N1FTWbz1AnJeVA6"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Fine Day - Qlank Remix",
+      "url": "https://open.spotify.com/track/6VqSGQGbsDrpCONmk12Hxz"
+    },
+    {
+      "album": {
         "name": "Toolbox EP",
         "url": "https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae"
       },
@@ -603,10 +637,32 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 167619,
       "name": "Get It",
       "url": "https://open.spotify.com/track/7oc3z8n0yDeEWTCLUOEZxf"
+    },
+    {
+      "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/6TEyfWinjOan6oz4KsTo9E"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/73liGOdiotIjtQMishFETa"
     },
     {
       "album": {

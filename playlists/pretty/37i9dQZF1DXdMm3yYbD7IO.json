@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 327475,
+  "num_followers": 327827,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGU3OTc0Y2FmMDIxMjNlMWU0NDRiMjY0YjkxYTRkYzM4MzgwY2Jm",
+  "snapshot_id": "MCw2YTRiNTU4MjllZWIwODdhYTUyOTE2OGI3ZTBmMzYwYTFhNmZlZjJh",
   "tracks": [
     {
       "added_at": "2024-03-22 15:16:56",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Very Necessary",
-        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "Shoop",
-      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Scatman's World",
         "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 215973,
       "name": "Scatman (ski-ba-bop-ba-dop-bop)",
       "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Mack Daddy",
         "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 262826,
       "name": "Baby Got Back",
       "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -531,22 +531,6 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -619,6 +603,22 @@
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Don't Be Cruel",
-        "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
-        }
-      ],
-      "duration_ms": 291560,
-      "name": "My Prerogative",
-      "url": "https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Blacks' Magic",
         "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Don't Be Cruel",
+        "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "duration_ms": 291560,
+      "name": "My Prerogative",
+      "url": "https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "'N Sync",
-        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Tearin' up My Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Horny (Radio Edit's)",
         "url": "https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 187826,
       "name": "Horny - '98 Radio Edit",
       "url": "https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "'N Sync",
+        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Tearin' up My Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "I'm Your Baby Tonight",
-      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "The Rhythm of the Night",
         "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 264306,
       "name": "The Rhythm of the Night",
       "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "I'm Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Robyn Is Here",
-        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Show Me Love - Radio Version",
-      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Two Can Play That Game",
         "url": "https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585"
       },
@@ -1195,6 +1179,38 @@
       "duration_ms": 211800,
       "name": "Two Can Play That Game - Radio Edit",
       "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Robyn Is Here",
+        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Show Me Love - Radio Version",
+      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
+      },
+      "artists": [
+        {
+          "name": "Blue Boy",
+          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
+        }
+      ],
+      "duration_ms": 423028,
+      "name": "Remember Me - Original Mix",
+      "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -1227,22 +1243,6 @@
       "duration_ms": 298691,
       "name": "Strike It Up",
       "url": "https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
-      },
-      "artists": [
-        {
-          "name": "Blue Boy",
-          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
-        }
-      ],
-      "duration_ms": 423028,
-      "name": "Remember Me - Original Mix",
-      "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
     },
     {
       "added_at": "2024-03-22 15:16:56",

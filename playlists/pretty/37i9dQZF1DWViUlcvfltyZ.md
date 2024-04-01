@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Lamante in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,268 likes - 97 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,280 likes - 97 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 96 | [insecure](https://open.spotify.com/track/2o6MjJ3Ilwy6HATqI7IK0M) | [Voorpret](https://open.spotify.com/artist/1LvKEeM2ZLRbXA6TRgl1nI) | [insecure](https://open.spotify.com/album/31SuG69Dgv7qTN6cfAaYan) | 3:17 |
 | 97 | [Nervous](https://open.spotify.com/track/4oszQVZnaqk4kbmmfZVfez) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Nervous](https://open.spotify.com/album/6RD1K1TtGVHhdXlTn6L89h) | 2:22 |
 
-Snapshot ID: `MCwyYWFiOWE2NWZjYzJhZDQ1ZmJiN2E1NDBhNjNiN2RjMjFhYjAyMjZk`
+Snapshot ID: `MCwyOWVhYTg4NGU0NTM2MGUxMTdkNDdhZjkyOTA3M2RmMmYwMTY2Mzg1`

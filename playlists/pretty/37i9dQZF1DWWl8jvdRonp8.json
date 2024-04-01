@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 201949,
+  "num_followers": 202088,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDhiOWEzMmRlZWY4NjJmZDBhMTNkODA3NzVkNWVlYzVjZGY0M2Y3",
+  "snapshot_id": "MCxiNTMzM2IxODdiNTIyZTQ0NDc2M2Y0MzEzZDNjMmYwNTRlNDVmNmRh",
   "tracks": [
     {
       "added_at": "2024-02-23 19:15:14",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "El Amor Que Nunca Fue",
-        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 204360,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "En Vivo Guadalajara - Monterrey (Live)",
-        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
+        "name": "El Amor Que Nunca Fue",
+        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Se Va Muriendo Mi Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
+      "duration_ms": 204360,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2024-02-23 19:15:14",
-      "album": {
         "name": "Y Yo Sin Ti",
         "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 198133,
       "name": "Y Yo Sin Ti",
       "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
+    },
+    {
+      "added_at": "2024-02-23 19:15:14",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Ladr\u00f3n De Buena Suerte",
-      "url": "https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8"
-    },
-    {
-      "added_at": "2024-02-23 19:15:14",
-      "album": {
         "name": "e5",
         "url": "https://open.spotify.com/album/3gsFcX5tOaiy7dsSjtnTFp"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 286586,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/1fhusBTFmHeB6BxVsvj2lN"
+    },
+    {
+      "added_at": "2024-02-23 19:15:14",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Ladr\u00f3n De Buena Suerte",
+      "url": "https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8"
     },
     {
       "added_at": "2024-02-23 19:15:14",

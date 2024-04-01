@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Diljit and Saweetie
 
-320 songs - 16 hr 33 min
+321 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 | 2022-05-29 | 2023-08-01 |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-05-29 | 2023-05-27 |
 | [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 | 2023-09-25 | 2023-10-26 |
+| [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 | 2024-03-31 |  |
 | [Mehrma](https://open.spotify.com/track/56L6jhPtECVZTn0GmPolKm) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B) | [Mehrma](https://open.spotify.com/album/5AfAcHsIHhHJOYZPvvyFHS) | 3:36 | 2022-12-10 | 2023-03-19 |
 | [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 | 2023-04-07 | 2023-10-26 |
 | [Mexico](https://open.spotify.com/track/0mNxYkKtXVY9HcFTuTmSPP) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX) | [Mexico](https://open.spotify.com/album/3YuBvx1udZbelLA1idJMk5) | 2:36 | 2023-09-20 | 2024-03-20 |
@@ -247,7 +248,7 @@
 | [Sama](https://open.spotify.com/track/2sPBFOLTThxTp98E9Sfgrj) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Echoes of Emotions](https://open.spotify.com/album/6ZGcsvHEjS1kC20utWkE6H) | 4:16 | 2023-08-30 | 2023-10-14 |
 | [Satisfy](https://open.spotify.com/track/2SazZ5d4m9G5IWu5xdMjZf) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Satisfy](https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp) | 4:40 | 2022-06-14 | 2022-08-02 |
 | [Scars](https://open.spotify.com/track/2WzcdOr9IGIWjGQLEtV90Y) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [First of a Kind \(From the Amazon Original Series\)](https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu) | 2:43 | 2023-09-08 | 2023-09-21 |
-| [Schedule](https://open.spotify.com/track/5eGsHi6RcL33gb9k89UYaB) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Schedule](https://open.spotify.com/album/0XtDEAGgkFrbNNaukE8pEF) | 2:28 | 2022-05-29 |  |
+| [Schedule](https://open.spotify.com/track/5eGsHi6RcL33gb9k89UYaB) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Schedule](https://open.spotify.com/album/0XtDEAGgkFrbNNaukE8pEF) | 2:28 | 2022-05-29 | 2024-04-01 |
 | [Score](https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:39 | 2022-05-29 | 2022-08-20 |
 | [Secret](https://open.spotify.com/track/1SAUUkJEPYqiewV2dZ7JnZ) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Addiction](https://open.spotify.com/album/4WcAyyIIMnHwS3cQaSNkfn) | 3:24 | 2022-11-30 | 2023-02-05 |
 | [Setting](https://open.spotify.com/track/3HJRVmgJQ8Bg1guFckZKh9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Setting](https://open.spotify.com/album/1JFhr0vyVxFixL5DBM2fQr) | 2:40 | 2022-05-29 | 2022-10-18 |

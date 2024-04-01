@@ -1,12 +1,12 @@
 {
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
-  "num_followers": 10741,
+  "num_followers": 10743,
   "original_name": "Jazzia Suomesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTcxZTVmNzdlODA4ZmQ0NzI4ZGIzOTRiNWE1YjgxNmVhNTY0YTE1",
+  "snapshot_id": "MCw2NDk3YzYxODg3ZjY0MzJmZmUwNGUzNDMwNDE0OGMwZmFmODgyNzVl",
   "tracks": [
     {
       "added_at": "2024-03-22 08:23:23",
@@ -146,6 +146,10 @@
         {
           "name": "Jaakonaho",
           "url": "https://open.spotify.com/artist/11IJGScId2eDGDsSABfY53"
+        },
+        {
+          "name": "Dana Colley",
+          "url": "https://open.spotify.com/artist/5FvTk5OhsWCgs2eBY8p7yd"
         }
       ],
       "duration_ms": 292853,

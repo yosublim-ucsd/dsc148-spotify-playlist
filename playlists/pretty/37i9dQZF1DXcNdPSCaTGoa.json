@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of  <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX-n7beSCAHzBQ\">Thandiswa's</a>  Zabalaza. ",
-  "num_followers": 54633,
+  "num_followers": 54704,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjUyOGRhNTM3MTNlMWMxM2M0MjQ5MzQ5ZjhhMDc2NzZhMTJmMDQ1",
+  "snapshot_id": "MCxmMWRlNzQ0NTdkYTJhOTM2ZTc1MTE3M2VmMzY3OGQyMzcyYTdlZWFh",
   "tracks": [
     {
       "added_at": "2024-03-22 07:01:39",
@@ -827,38 +827,6 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 404600,
-      "name": "Nizalwa Ngobani?",
-      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (Thats The Way Love Is)",
-      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
         "name": "BullDawgz First Lady",
         "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 210613,
       "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
       "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 404600,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Sana Luma (Thats The Way Love Is)",
+      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
       "added_at": "2024-03-22 07:01:39",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
-        "name": "Mkhukhu Funkshen",
-        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
-      },
-      "artists": [
-        {
-          "name": "Skwatta kamp",
-          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Umoya",
-      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
         "name": "Waar Was Jy?",
         "url": "https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 229066,
       "name": "Waar Was Jy?",
       "url": "https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
+        "name": "Mkhukhu Funkshen",
+        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
+      },
+      "artists": [
+        {
+          "name": "Skwatta kamp",
+          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Umoya",
+      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
     },
     {
       "added_at": "2024-03-22 07:01:39",

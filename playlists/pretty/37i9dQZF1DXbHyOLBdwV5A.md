@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,021 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,038 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 52 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
 | 53 | [Se Tu Creres \- Remix](https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Se Tu Creres \(Remix\)](https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD) | 2:51 |
 | 54 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
-| 55 | [Marcas \- Remix](https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Marcas \(Remix\)](https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo) | 3:15 |
-| 56 | [Respirar e Confiar](https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Respirar e Confiar](https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP) | 3:36 |
+| 55 | [Respirar e Confiar](https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Respirar e Confiar](https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP) | 3:36 |
+| 56 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 |
 | 57 | [Caminho Seguro](https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Caminho Seguro](https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox) | 3:35 |
 | 58 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
-| 59 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 |
+| 59 | [Marcas \- Remix](https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Marcas \(Remix\)](https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo) | 3:15 |
 | 60 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
 | 61 | [Ele Voltará](https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Ele Voltará](https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ) | 4:29 |
 | 62 | [Sorrindo à Toa \- Remix](https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU) | [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleytinho de Macaé](https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG) | [Sorrindo à Toa \(Remix\)](https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Eu Te Vejo Em Tudo \(Remix\)](https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Helena Albernaz](https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7) | [Eu Te Vejo Em Tudo \(Remix\)](https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ) | 2:46 |
 | 75 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 
-Snapshot ID: `MCwzN2IxOGQ3OTc3MWNkMjUyMzAyN2FmOWViOTFhOGYwYTQ2YzdhZjQy`
+Snapshot ID: `MCw5MTc3MDg4ODU5M2UyNzQ5ODQ4YjU4YzlmZTI0NGYxNmI3NTc2NGE2`

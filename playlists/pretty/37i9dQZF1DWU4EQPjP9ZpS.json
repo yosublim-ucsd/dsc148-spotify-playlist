@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 302669,
+  "num_followers": 302750,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2JjMjRhYTM5NWNhM2ZmODc0YTk1YTgwZDEwZjYxMDdlZDBhN2U5",
+  "snapshot_id": "MCxiNTk4YzdkMzFmZTFlZTkzYjY3YjY3Y2YxMjk2ZWQ2MTY2ODA2MmJk",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u30b7\u30e7\u30c3\u30d7 @ \u30d8\u30eb\u30b7\u30f3\u30ad",
-        "url": "https://open.spotify.com/album/7upP20MlGsGVBis10Jmv7O"
-      },
-      "artists": [
-        {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "\u90fd\u5e02\u30d5\u30a9\u30fc\u30e9\u30e0 Consumer (kahvi)",
-      "url": "https://open.spotify.com/track/1V4E9a1EalEmIFkrJ7cZ1L"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Televised Tragedies",
         "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 97906,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\u30b7\u30e7\u30c3\u30d7 @ \u30d8\u30eb\u30b7\u30f3\u30ad",
+        "url": "https://open.spotify.com/album/7upP20MlGsGVBis10Jmv7O"
+      },
+      "artists": [
+        {
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "\u90fd\u5e02\u30d5\u30a9\u30fc\u30e9\u30e0 Consumer (kahvi)",
+      "url": "https://open.spotify.com/track/1V4E9a1EalEmIFkrJ7cZ1L"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 83465,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "The 33rd Split",
         "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 214401,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Into the light",
-        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 83465,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 106802,
-      "name": "I Used To Make Vaporwave",
-      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 234013,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 106802,
+      "name": "I Used To Make Vaporwave",
+      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Melatonin High (Rework 2021)",
-        "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Melatonin High - Rework 2021",
-      "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "made in taiwan",
         "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Melatonin High (Rework 2021)",
+        "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Melatonin High - Rework 2021",
+      "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Wish We Were Sightseers",
         "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
       },
@@ -1335,6 +1335,30 @@
       "duration_ms": 238213,
       "name": "True Cyan",
       "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Home and Office",
+        "url": "https://open.spotify.com/album/0Ulc2WfQQRLRd58E6xra7M"
+      },
+      "artists": [
+        {
+          "name": "Stux.Io",
+          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
+        },
+        {
+          "name": "Mercurius FM",
+          "url": "https://open.spotify.com/artist/4vaCfb7Q90IqXw3U77tAje"
+        },
+        {
+          "name": "Vaporwavez",
+          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
+        }
+      ],
+      "duration_ms": 153296,
+      "name": "Home and Office",
+      "url": "https://open.spotify.com/track/7nLSB0ZrbuHY9gRYJKv9W5"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1371,30 +1395,6 @@
       "duration_ms": 157974,
       "name": "Turn the Fridge On",
       "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Home and Office",
-        "url": "https://open.spotify.com/album/0Ulc2WfQQRLRd58E6xra7M"
-      },
-      "artists": [
-        {
-          "name": "Stux.Io",
-          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
-        },
-        {
-          "name": "Mercurius FM",
-          "url": "https://open.spotify.com/artist/4vaCfb7Q90IqXw3U77tAje"
-        },
-        {
-          "name": "Vaporwavez",
-          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
-        }
-      ],
-      "duration_ms": 153296,
-      "name": "Home and Office",
-      "url": "https://open.spotify.com/track/7nLSB0ZrbuHY9gRYJKv9W5"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Open Tournament 27XX",
         "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 197333,
       "name": "Electrolyte Elixir",
       "url": "https://open.spotify.com/track/33Lqj0KYqEIk3ibD3DU1cW"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Information Superhighway",
-        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
-      },
-      "artists": [
-        {
-          "name": "</body>",
-          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
-        }
-      ],
-      "duration_ms": 107604,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Surfer Girl",
         "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 375876,
       "name": "Surfer Girl",
       "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Information Superhighway",
+        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
+      },
+      "artists": [
+        {
+          "name": "</body>",
+          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
+        }
+      ],
+      "duration_ms": 107604,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1627,22 +1627,6 @@
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Mine on the Street",
-        "url": "https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk"
-      },
-      "artists": [
-        {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Beijing",
-      "url": "https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1703,6 +1687,22 @@
       "duration_ms": 203761,
       "name": "vaporgroove ~",
       "url": "https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Mine on the Street",
+        "url": "https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Beijing",
+      "url": "https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH"
     },
     {
       "added_at": "2023-07-18 02:19:19",

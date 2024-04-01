@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > God, I'm so boring, and I'm so rude!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,163,960 likes - 104 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,163,967 likes - 104 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 103 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
 | 104 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 |
 
-Snapshot ID: `MCwyMDYyY2Y1YzhhMjIzNmJlOGM2ZGQxYjNiZDYzZThlMTRmZDhkNTA0`
+Snapshot ID: `MCw0YjkxYTZkMDllODYzYmZmNGY5Nzc5MTU4ZTdlYzM5MDdiZWUwZjI0`

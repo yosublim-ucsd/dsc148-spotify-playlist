@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
-  "num_followers": 325481,
+  "num_followers": 325521,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDVjYTgyOGJmMjEyYTVhM2U0ODQyN2VmNzYxNjg5ZDJlZDc0MmQ4",
+  "snapshot_id": "MCwwNjJmODNiM2E2MWYxYjc1ZTRmYzQxYjU1YmE3Y2RkMjFlMzhkYTRm",
   "tracks": [
     {
       "added_at": "2024-03-29 14:48:36",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
-        "name": "Echo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 185039,
-      "name": "Obsolete - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
         "name": "Miss Anthropocene (Rave Edition)",
         "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "added_at": "2024-03-29 14:48:36",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
+      },
+      "artists": [
+        {
+          "name": "GEN.KLOUD",
+          "url": "https://open.spotify.com/artist/5SA5qxjYXQTxjQ56s22J4q"
+        },
+        {
+          "name": "Gabriel Paris",
+          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/2pJh2rIopxEeJZjBwrT3Sn"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 209032,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/0ONdVHP8eoGupKl1KzM3xv"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
-        "name": "LOVE ME",
-        "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
-      },
-      "artists": [
-        {
-          "name": "GEN.KLOUD",
-          "url": "https://open.spotify.com/artist/5SA5qxjYXQTxjQ56s22J4q"
-        },
-        {
-          "name": "Gabriel Paris",
-          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "LOVE ME",
-      "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
     },
     {
       "added_at": "2024-03-29 14:48:36",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 166971,
       "name": "Ghost Story (with All Time Low)",
       "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2024-03-29 14:48:36",
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 284137,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2024-03-29 14:48:36",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -2507,18 +2491,38 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/0r0NYM9gZnVJbFsvLG9T7w"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2HoQChs4cvAVWKidJRrGV9"
+      "duration_ms": 198000,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
+        "name": "Baptize (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Baptize - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
     }
   ],
   "unique_name": "Rocktronic",

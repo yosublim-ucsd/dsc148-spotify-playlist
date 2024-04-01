@@ -1,12 +1,12 @@
 {
   "description": "Orochi e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 229679,
+  "num_followers": 229744,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWM5ZTE0MDFjZjA2OWYzYzc4ODZkOGI2NDJiODhlZjQ2YTFmNjky",
+  "snapshot_id": "MCxkMWU3MmU2ZTc1ODllNzY1MmU4OWRkY2VjMjE4NDhhMDBjNGQ1ZmJl",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        }
+      ],
+      "duration_ms": 281598,
+      "name": "Amor de Fim de Noite / Morena da Cor do Pecado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 277411,
       "name": "Perfeita",
       "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        }
-      ],
-      "duration_ms": 281598,
-      "name": "Amor de Fim de Noite / Morena da Cor do Pecado - Ao Vivo",
-      "url": "https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 451284,
+      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 451284,
-      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
-      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "De Lala - Spotify Singles",
         "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 160000,
       "name": "De Lala - Spotify Singles",
       "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Quando Ela Passa",
+      "url": "https://open.spotify.com/track/5TICCjmrEB2tROC4PIPjtp"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "10 Anos de Caju, Vol. 1",
         "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
       },
@@ -1251,26 +1283,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Pagode do Adame Entre Amigos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY"
-      },
-      "artists": [
-        {
-          "name": "Pagode do Adame",
-          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 264471,
-      "name": "N\u00e3o Tem Hora, Nem Lugar / Por Favor / Amor a Tr\u00eas - Ao Vivo",
-      "url": "https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Dorme Com Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rSEw4EQsTnuF92r9NWbDF"
       },
@@ -1291,50 +1303,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Poetisas no Topo 3",
-        "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
+        "name": "Pagode do Adame Entre Amigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Pagode do Adame",
+          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
         },
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Sodomita",
-          "url": "https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
         }
       ],
-      "duration_ms": 374400,
-      "name": "Poetisas no Topo 3",
-      "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
+      "duration_ms": 264471,
+      "name": "N\u00e3o Tem Hora, Nem Lugar / Por Favor / Amor a Tr\u00eas - Ao Vivo",
+      "url": "https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV"
     }
   ],
   "unique_name": "AMPLIFIKA",

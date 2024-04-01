@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 132890,
+  "num_followers": 132990,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWJmMjRmMmU4NTE0YWQ5NDcyNzFmOGU1ZTkxYmNiZWYzYTUwNDlk",
+  "snapshot_id": "MCw4YjRhMjQwMjkyODU3ZDY5N2U0ZWM5YTMwZWE2NWRhNmIxZDJhMmNl",
   "tracks": [
     {
       "added_at": "2023-02-02 20:54:30",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
-        "name": "The Different Story (World Of Lust And Crime)",
-        "url": "https://open.spotify.com/album/4YHQCvzRhFPYki87AK5Pdg"
-      },
-      "artists": [
-        {
-          "name": "Peter Schilling",
-          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Major Tom (Coming Home)",
-      "url": "https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 239360,
       "name": "Fade To Grey",
       "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
+        "name": "The Different Story (World Of Lust And Crime)",
+        "url": "https://open.spotify.com/album/4YHQCvzRhFPYki87AK5Pdg"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Major Tom (Coming Home)",
+      "url": "https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma"
     },
     {
       "added_at": "2023-02-02 20:54:30",

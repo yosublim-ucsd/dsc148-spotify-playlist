@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Jennifer Lopez, \(G\)I\-DLE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,848 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,937 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 99 | [When The Sun Goes Down](https://open.spotify.com/track/4ag3PFjrtBvPkAXWvDpBng) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [When The Sun Goes Down](https://open.spotify.com/album/1Diw0Vc2BRsiATDrRveAOq) | 3:15 |
 | 100 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 |
 
-Snapshot ID: `MCxiMmFhNDAwNDQ5NjE5MDM3ZTY1Yzc4YjZkN2EyMTdhMmI0MzdlY2Ri`
+Snapshot ID: `MCw5ZWE5YTNmMjNiMDczNDgyMzY1ZWRiOWM3ZTNkN2I5MzIxZWJjZTRj`

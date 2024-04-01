@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "20 something",
+        "url": "https://open.spotify.com/album/5xoHpRnnxIH33pFgPXtYTf"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160782,
+      "name": "20 something",
+      "url": "https://open.spotify.com/track/3xpuHGQZMXiR8j9aCIOO8C"
+    },
+    {
+      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
@@ -3562,7 +3580,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 175767,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
@@ -4779,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Interplay",
+        "url": "https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302493,
+      "name": "Portland Rocks",
+      "url": "https://open.spotify.com/track/28z4ex2Y5VJpY7vbjiOEdj"
+    },
+    {
+      "album": {
         "name": "Wake Up & It's Over",
         "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
@@ -5172,7 +5208,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 186453,
       "name": "She's So Gone",
       "url": "https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF"
@@ -5440,7 +5476,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 192573,
       "name": "Some Type Of Skin",
       "url": "https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd"
@@ -6886,7 +6922,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"

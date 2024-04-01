@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: ero808",
-  "num_followers": 442348,
+  "num_followers": 442402,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjY0NDI1MWQ1OThjNDM4MWMxMTI0MjBjYzQ1Njk2ODRlZjlhNzk0",
+  "snapshot_id": "MCw4NzhiN2VjOTRlM2M5MDhhMjA4N2IzOGIxNmI3ZmI0MWM5YTkzNmNm",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "A Prayer",
-        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "A Prayer",
-      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Ravers Bounce",
         "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 195357,
       "name": "Ravers Bounce",
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "A Prayer",
+        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "A Prayer",
+      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Tudum",
-        "url": "https://open.spotify.com/album/1wnOlrxHzAER2yIrhBO0ag"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Schillist",
-          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
-        },
-        {
-          "name": "Silque",
-          "url": "https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW"
-        }
-      ],
-      "duration_ms": 149620,
-      "name": "Tudum",
-      "url": "https://open.spotify.com/track/5fSJFW86f6OZcmgjSlvZnS"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
       },
@@ -1711,6 +1687,30 @@
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Tudum",
+        "url": "https://open.spotify.com/album/1wnOlrxHzAER2yIrhBO0ag"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        },
+        {
+          "name": "Silque",
+          "url": "https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW"
+        }
+      ],
+      "duration_ms": 149620,
+      "name": "Tudum",
+      "url": "https://open.spotify.com/track/5fSJFW86f6OZcmgjSlvZnS"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
+      },
+      "artists": [
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Hit It Back",
         "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 138139,
       "name": "Hit It Back",
       "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
-      },
-      "artists": [
-        {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "CC",
-      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Let's Rock",
-        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "Let's Rock",
-      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "By Myself",
         "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 155624,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Let's Rock",
+        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 209062,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2283,6 +2283,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "LEFT TO RIGHT (Space Laces Remix)",
+        "url": "https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 217604,
+      "name": "LEFT TO RIGHT - Space Laces Remix",
+      "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Bad Bassline",
         "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
       },
@@ -2303,22 +2323,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "LEFT TO RIGHT (Space Laces Remix)",
-        "url": "https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv"
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
         }
       ],
-      "duration_ms": 217604,
-      "name": "LEFT TO RIGHT - Space Laces Remix",
-      "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2343,22 +2359,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "RESILIENCE",
         "url": "https://open.spotify.com/album/71BuoDaGsISkwF6eNeylho"
       },
@@ -2379,22 +2379,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Makes Me (Wanna Move)",
-        "url": "https://open.spotify.com/album/6Fn4HePyCt2SS2LNILA1Lv"
+        "name": "Ten Outta Ten",
+        "url": "https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td"
       },
       "artists": [
         {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+          "name": "Tyrone",
+          "url": "https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI"
+        },
+        {
+          "name": "Kid Kyote",
+          "url": "https://open.spotify.com/artist/4eLOi1gjvvufSBOfQt5wRA"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Makes Me (Wanna Move)",
-      "url": "https://open.spotify.com/track/55SSeb6371c8N3EcS0oZqD"
+      "duration_ms": 176160,
+      "name": "Ten Outta Ten",
+      "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
     }
   ],
   "unique_name": "Nasty Bits",

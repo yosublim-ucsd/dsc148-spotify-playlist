@@ -6565,6 +6565,28 @@
     },
     {
       "album": {
+        "name": "What's For Breakfast?",
+        "url": "https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3"
+      },
+      "artists": [
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226588,
+      "name": "Coasting On Fumes",
+      "url": "https://open.spotify.com/track/2ugm5xrknLV6xum8cN5zGb"
+    },
+    {
+      "album": {
         "name": "Coasting On Fumes",
         "url": "https://open.spotify.com/album/1qoYoRgVcg7bdx41TQjJ0z"
       },
@@ -6580,7 +6602,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 226588,
       "name": "Coasting On Fumes",
       "url": "https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j"

@@ -2263,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "Baby Bangs (feat. dacelynn)",
+        "url": "https://open.spotify.com/album/2wH4N8ZRRqhJ49K6qXV2m0"
+      },
+      "artists": [
+        {
+          "name": "Frances Forever",
+          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
+        },
+        {
+          "name": "dacelynn",
+          "url": "https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164013,
+      "name": "Baby Bangs (feat. dacelynn)",
+      "url": "https://open.spotify.com/track/01J9q2fcpP9OiEfs1ziyji"
+    },
+    {
+      "album": {
         "name": "Baby Blue",
         "url": "https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n"
       },
@@ -22528,7 +22550,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 147264,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq"

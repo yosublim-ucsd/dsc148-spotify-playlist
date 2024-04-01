@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 115466,
+  "num_followers": 115529,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTk3YmQ2ZDE4NGJjYjZlYjM0YzhkMDdkYzYzNjE4OGY4MzY0ZGE5",
+  "snapshot_id": "MCw3Nzg1N2RkNDZhN2ZiNDY3MjAzYTE2OTMwNjY1MTUwYWQ1OGVkMzVh",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3WmCOQPNbiemwv7HgMtd3p"
+      },
+      "artists": [
+        {
+          "name": "RETRO MF",
+          "url": "https://open.spotify.com/artist/2N4YBCzaK5N4g8fI3n36UU"
+        }
+      ],
+      "duration_ms": 345466,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2jOWBkREdI0FvFwM60MKLm"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "The Garden of Eden",
         "url": "https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Phuture and Other Classics from DJ Pierre",
-        "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 709466,
-      "name": "Acid Trax",
-      "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Box Energy",
         "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+        "name": "Phuture and Other Classics from DJ Pierre",
+        "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
       },
       "artists": [
         {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
         }
       ],
-      "duration_ms": 324668,
-      "name": "Ready My Black Asz",
-      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
+      "duration_ms": 709466,
+      "name": "Acid Trax",
+      "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -791,6 +791,22 @@
       "duration_ms": 349493,
       "name": "Everybody Needs A 303",
       "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+      },
+      "artists": [
+        {
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+        }
+      ],
+      "duration_ms": 324668,
+      "name": "Ready My Black Asz",
+      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -827,22 +843,6 @@
       "duration_ms": 281815,
       "name": "Do You Feel The Same?",
       "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/3WmCOQPNbiemwv7HgMtd3p"
-      },
-      "artists": [
-        {
-          "name": "RETRO MF",
-          "url": "https://open.spotify.com/artist/2N4YBCzaK5N4g8fI3n36UU"
-        }
-      ],
-      "duration_ms": 345466,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2jOWBkREdI0FvFwM60MKLm"
     }
   ],
   "unique_name": "303 Classics",

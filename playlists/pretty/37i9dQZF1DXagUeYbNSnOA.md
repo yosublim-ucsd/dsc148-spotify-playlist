@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring DANDARA & Soui Uno\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,713 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,723 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 50 | [Temblor](https://open.spotify.com/track/6o03I7sPIdZDDVRglbCKwX) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Temblor](https://open.spotify.com/album/7LCTOjFGKwhHF2rH6uuOwp) | 3:00 |
 | 51 | [En los Parques](https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q) | [Mizuki Amapola](https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti), [La Lauri Fire](https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84) | [Calendario](https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ) | 2:12 |
 
-Snapshot ID: `MCw4MDYzMmI1OTg2MDM3ZjFhOTQ1MzMyMjA4ZjdlZjI3ZjcwOGRhOTZm`
+Snapshot ID: `MCxiMWYwY2I2NDNkNjJhZmY3MzEyNzQ2YzI4NTc3NjJlZmNkYWU5NjI2`

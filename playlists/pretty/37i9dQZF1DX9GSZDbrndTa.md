@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,866 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,953 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Doodlin' \- Remastered](https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 6:45 |
 | 50 | [Ready Rudy?](https://open.spotify.com/track/4VhFcVYUSxazQVNDCAIGhP) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Sweet Honey Bee](https://open.spotify.com/album/012q6K9l8vQ83WnDILovA0) | 5:58 |
 
-Snapshot ID: `MCw4ZWE2YmU3ZTY4Y2Y3Y2ZmZDBjODE5NDg1ZDQ1MmYzNTZlMGE4YjI1`
+Snapshot ID: `MCwwYTExM2FkYTU5N2RmZWNhYTc1YWE1ZWUzNzEzYTYwNTgxYmY1NmY5`

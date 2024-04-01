@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43163,
+  "num_followers": 43169,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWYyZjcwNjIxZDRhMmQxYjgxYzJjMDUxYTgxNzU0ZWFmMjMwNjEx",
+  "snapshot_id": "MCw0Zjk3YjEyOGI1YzI1ZGQ2MjMyNzQwZDM4OWU1NTIzOTA1NGJlMjM2",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "A Book Like This",
-        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mango Tree",
-      "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mango Tree",
+      "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Milyakburra",
-        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
-      },
-      "artists": [
-        {
-          "name": "Emily Wurramara",
-          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "14 Steps To A Better You",
         "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Sponge Cake",
-        "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
+        "name": "Milyakburra",
+        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
       },
       "artists": [
         {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
         }
       ],
-      "duration_ms": 245687,
-      "name": "Be About You",
-      "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
+      "duration_ms": 171146,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
+        "name": "Sponge Cake",
+        "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 157787,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
+      "duration_ms": 245687,
+      "name": "Be About You",
+      "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 272640,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 157787,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
-      },
-      "artists": [
-        {
-          "name": "The Waifs",
-          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "London Still",
-      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Half Mile Harvest",
         "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 263840,
       "name": "I Get Up",
       "url": "https://open.spotify.com/track/1ZvZONTDAMki5FLguXTju4"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
+      },
+      "artists": [
+        {
+          "name": "The Waifs",
+          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "London Still",
+      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     },
     {
       "added_at": "2023-11-15 02:04:48",

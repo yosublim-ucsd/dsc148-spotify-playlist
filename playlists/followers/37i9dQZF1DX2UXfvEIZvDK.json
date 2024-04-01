@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 729483,
+  "2024-04-01": 729551,
   "date_first_scraped": "2021-12-21",
   "description": "Even rockers need a break.",
   "name": "Chill Rock",
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 299253,
       "name": "Conversation Piece",
       "url": "https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1"
@@ -1937,6 +1937,24 @@
       "duration_ms": 235946,
       "name": "Space",
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
+    },
+    {
+      "album": {
+        "name": "Split Screen",
+        "url": "https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303005,
+      "name": "Split Screen",
+      "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
     },
     {
       "album": {

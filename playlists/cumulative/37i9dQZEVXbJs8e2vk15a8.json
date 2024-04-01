@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Bah\u00eda Catalina",
       "url": "https://open.spotify.com/track/6bhIoEUJal61ihiRcdr1Jq"
@@ -7246,7 +7246,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 119413,
       "name": "Contando",
       "url": "https://open.spotify.com/track/6bzQkBLxfsiBUT3mtWpDSY"
@@ -18304,7 +18304,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -21332,7 +21332,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 78036,
       "name": "MONEY! (Money Money, Green Green)",
       "url": "https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0"
@@ -26896,7 +26896,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -36642,6 +36642,28 @@
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
+    },
+    {
+      "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
     },
     {
       "album": {

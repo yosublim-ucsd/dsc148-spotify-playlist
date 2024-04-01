@@ -4,7 +4,7 @@
 
 > New music breaking waves\. Cover: <a href="spotify:artist:23xFbA9rYgRX8mreqysWPc">Bossman Dlow</a>
 
-807 songs - 1 day 14 hr 0 min
+808 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,8 +409,9 @@
 | [LA \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/69270xAo9JuyblaZ6ZVpO6) | [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [LA \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4zJBbY1UShBglrvjJGMMIU) | 2:24 | 2023-06-30 | 2023-08-19 |
 | [Lava Lamp](https://open.spotify.com/track/3QRQwnaENDNslrc5tNUGgE) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 2:58 | 2023-12-07 | 2023-12-16 |
 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/5KW5AYiCyi5auXXZR2cvxM) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:22 | 2021-08-11 | 2022-03-05 |
-| [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-29 |  |
+| [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-29 | 2024-04-01 |
 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 | 2024-03-15 | 2024-03-31 |
+| [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 | 2024-03-29 |  |
 | [Left, Right, GO!](https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bet That](https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf) | 3:46 | 2023-09-01 | 2023-11-04 |
 | [Lesson Learned](https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Beautiful Michi Girls](https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo) | 2:31 | 2022-05-20 | 2022-09-10 |
 | [Let a Ho Play](https://open.spotify.com/track/0AA7vHCADUjQtO4OSEmbhN) | [A.R\. The Mermaid](https://open.spotify.com/artist/0SuHC7TYAGOa9A4yfkvF3l) | [Almost There: Official Tour Set List](https://open.spotify.com/album/3YkV0BPxvs85ALi2Iu9tJc) | 2:01 | 2024-03-15 | 2024-03-23 |

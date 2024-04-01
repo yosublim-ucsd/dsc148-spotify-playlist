@@ -1,12 +1,12 @@
 {
   "description": "Wenn die Tage l\u00e4nger werden und die Luft w\u00e4rmer - diese Tracks begleiten dich in den Fr\u00fchling und \u00fcber das Osterwochenende.",
-  "num_followers": 1037920,
+  "num_followers": 1038581,
   "original_name": "Fr\u00fchlings Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmYwM2NkNjcxNDQwYzI0MjU2ODY2NjUzYmM0MmJhNzA3MWRlYzM2",
+  "snapshot_id": "MCw2NmY5OTkxZGQ4MTVkN2MwNWJjMWJjNmI1NmE5YmUxYjQ3ZjM0YTNi",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -571,22 +571,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
+        "name": "Gr\u00fcne Augen l\u00fcgen nicht",
+        "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 304106,
-      "name": "evermore (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
+      "duration_ms": 179140,
+      "name": "Gr\u00fcne Augen l\u00fcgen nicht",
+      "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -607,18 +603,42 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Gr\u00fcne Augen l\u00fcgen nicht",
-        "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 179140,
-      "name": "Gr\u00fcne Augen l\u00fcgen nicht",
-      "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
+      "duration_ms": 304106,
+      "name": "evermore (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "LOVE IN STEREO",
+        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/33wQ73bQJcHmyeDgwrG9Cl"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -651,26 +671,6 @@
       "duration_ms": 136880,
       "name": "rosa rugosa",
       "url": "https://open.spotify.com/track/6reIioBTYw7UIskhcQ2Biw"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "LOVE IN STEREO",
-        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "BUTTERFLIES",
-      "url": "https://open.spotify.com/track/33wQ73bQJcHmyeDgwrG9Cl"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "The Conflict of the Mind",
-        "url": "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "The Conflict of the Mind",
-      "url": "https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "she goes",
         "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 189706,
       "name": "she goes",
       "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "The Conflict of the Mind",
+        "url": "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "The Conflict of the Mind",
+      "url": "https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Told You So",
         "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 184760,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     }
   ],
   "unique_name": "Fr\u00fchlings Chillout",

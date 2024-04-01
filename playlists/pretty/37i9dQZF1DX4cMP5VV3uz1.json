@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 151269,
+  "num_followers": 151347,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmIyYjcyNDhmMjRlY2UyMTFkNDM4YmY5YmVjNDdlMDZmYjMyNzFm",
+  "snapshot_id": "MCxiYjZmYTZiNjFjZDYxNzllNGQ2MjgzZDhhNzdjNDg3ZWZiODY1MDUx",
   "tracks": [
     {
       "added_at": "2024-03-01 11:54:01",
@@ -775,50 +775,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Freedom 2",
-        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
-      },
-      "artists": [
-        {
-          "name": "Kwengface",
-          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
-        },
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 206931,
-      "name": "Freedom 2",
-      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Stan Smith",
-        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Stan Smith",
-      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
         "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
       },
@@ -843,6 +799,50 @@
       "duration_ms": 160000,
       "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
       "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Stan Smith",
+        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Stan Smith",
+      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Freedom 2",
+        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 206931,
+      "name": "Freedom 2",
+      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 134305,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
         "name": "Supersonic (Basstripper Remix)",
         "url": "https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 224232,
       "name": "Supersonic - Basstripper Remix",
       "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 134305,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
     },
     {
       "added_at": "2024-03-01 11:54:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,269 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,277 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [ハグレ](https://open.spotify.com/track/6KW5nDtAiU4XuNveQUVYGa) | [Bug Holic](https://open.spotify.com/artist/6aJu7kJ1D0K2X5iqWP9bxN) | [バグホ](https://open.spotify.com/album/3K0ZIJQHsJ4HJqrEZ5hcIF) | 3:01 |
 | 40 | [嘘マフィア大暴走](https://open.spotify.com/track/7yZssF7YZZA30aDuj992sw) | [shukatsuclub](https://open.spotify.com/artist/3R2FK3WS1nBCJuaerq98Ra) | [終活大布教盤](https://open.spotify.com/album/2HofSLcDWFBQtIZ9NXMZi2) | 3:06 |
 
-Snapshot ID: `MCw1ZDY3OTVmMTM4Zjc2OGVkYTVjNzAyMTc1YzYzYTk1MjFmN2NjZmI3`
+Snapshot ID: `MCwxYzQ4NGViNTgyYjVlODA4MGRmNDc5ZWQxMTA4YmNkYjg5MWM0Y2M0`

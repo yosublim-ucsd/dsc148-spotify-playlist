@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 96453,
+  "num_followers": 96503,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzEyODk2OTg3M2QxZDQzMmMyMWZkOTI2ZDIxMzI4NjhlNWJkNzFm",
+  "snapshot_id": "MCxjNjgzMjAzMjcxZDBhZGRiYWY4YmI3Y2FkNGY1NGZiZDJmN2VkMjhj",
   "tracks": [
     {
       "added_at": "2024-03-21 23:30:21",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "Viru Kumbieron",
-        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 250439,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
         "name": "No te confundas",
         "url": "https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 198800,
       "name": "Que no se entere",
       "url": "https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
+        "name": "Viru Kumbieron",
+        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 250439,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
     },
     {
       "added_at": "2024-03-21 23:30:21",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
+        "name": "Noche Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "En tu pelo",
+      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
         "name": "En Peligro de Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
       },
@@ -939,38 +955,6 @@
     {
       "added_at": "2024-03-21 23:30:21",
       "album": {
-        "name": "Noche Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
-      },
-      "artists": [
-        {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "En tu pelo",
-      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
-        "name": "Muta",
-        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "China",
-      "url": "https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc"
-    },
-    {
-      "added_at": "2024-03-21 23:30:21",
-      "album": {
         "name": "Ay Amor",
         "url": "https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
+    },
+    {
+      "added_at": "2024-03-21 23:30:21",
+      "album": {
+        "name": "Muta",
+        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "China",
+      "url": "https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc"
     },
     {
       "added_at": "2024-03-21 23:30:21",

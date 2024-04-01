@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Leigh\-Anne
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,065 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,085 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
 | 80 | [Englaso](https://open.spotify.com/track/0hDjvR6tcjTbpfpigqcJ4j) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Englaso](https://open.spotify.com/album/7E6pHTg09rMbd2fEfwylKD) | 2:39 |
 
-Snapshot ID: `MCxkZThkY2I1OTQ4Yjk0ZjNlYzZhYWE0YTZkNjMyM2E2MjU1MTQ4ZGJh`
+Snapshot ID: `MCw0NDY0MTI2N2M4YjYyZTE2NGFhNDMyMzk4ZjBiYzQ0ZDI3N2FhNzMy`

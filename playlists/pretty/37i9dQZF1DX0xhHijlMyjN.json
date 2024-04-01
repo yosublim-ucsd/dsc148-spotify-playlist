@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 347468,
+  "num_followers": 347472,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWQ0M2M3NjI3OWUyY2U5Y2JlZTMwOWY3MGMyNmYwYjdhYmVjMTQ5",
+  "snapshot_id": "MCxkZWZhZmNlNjRjNThmNDE2OTc3YTgzZTMyNDUyZGJiZWE3Y2M2NGI2",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Sorry For Party Rocking",
         "url": "https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 262173,
       "name": "Party Rock Anthem",
       "url": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
-      },
-      "artists": [
-        {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
       },
@@ -1239,26 +1259,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Madre Tierra (Oye)",
-      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Stereo Love",
         "url": "https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "Madre Tierra (Oye)",
+      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Tarpeia",
         "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/1bjdztw8DuoTEZqL9XHz9n"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 264674,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/35tzxthMBglBMjmZ7Fn1hj"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
+      },
+      "artists": [
+        {
+          "name": "King Africa",
+          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Ana, Jos\u00e9, Nacho",
         "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 202653,
       "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
-      },
-      "artists": [
-        {
-          "name": "King Africa",
-          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Diez De Corazon",
         "url": "https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 212400,
       "name": "Cuando zarpa el amor",
       "url": "https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 264306,
       "name": "The Rhythm of the Night",
       "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2231,18 +2231,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "The King Is Back",
-        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "Mal De Amores",
-      "url": "https://open.spotify.com/track/2SDFbkrxwLfKg5u7fGCXmh"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Buler\u00eda",
         "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 251973,
       "name": "Buleria",
       "url": "https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "The King Is Back",
+        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "Mal De Amores",
+      "url": "https://open.spotify.com/track/2SDFbkrxwLfKg5u7fGCXmh"
     },
     {
       "added_at": "2023-06-09 09:38:51",

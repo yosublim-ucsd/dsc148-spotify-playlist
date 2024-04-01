@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 21013,
+  "2024-04-01": 21110,
   "date_first_scraped": "2023-10-24",
   "description": "Ocean sounds and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
   "name": "Island of Serenity",
@@ -928,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Morning Waves",
+        "url": "https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT"
+      },
+      "artists": [
+        {
+          "name": "Altum Somnum",
+          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172211,
+      "name": "Morning Waves",
+      "url": "https://open.spotify.com/track/1rECiVNfP8569A717vmLe1"
+    },
+    {
+      "album": {
         "name": "Temple of the Heart",
         "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
       },
@@ -957,7 +975,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 148035,
       "name": "Obscure Ocean",
       "url": "https://open.spotify.com/track/6O59ijRb9pv9CedleQJW6L"

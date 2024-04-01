@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,952 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,000 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 95 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 96 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
 | 97 | [Bvlgari](https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [4tune](https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ) | [Bvlgari](https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS) | 3:08 |
-| 98 | [Hitchcock \- Feat\. RT Mallone](https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW), [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:58 |
-| 99 | [Probleminha](https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Apoteose](https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ) | 2:56 |
+| 98 | [Probleminha](https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Apoteose](https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ) | 2:56 |
+| 99 | [Hitchcock \- Feat\. RT Mallone](https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW), [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:58 |
 | 100 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
 
-Snapshot ID: `MCwwMjYyOWFkODhlOTZjOGNiNDU0ODk3ZGVlOTNiMDI0MzZhNmE5Njc2`
+Snapshot ID: `MCw2MDFmODAwYmI4ZGMwMzIzYzJiODRlNDU2ZWQ4OTRmZjJiNDNkOTQy`

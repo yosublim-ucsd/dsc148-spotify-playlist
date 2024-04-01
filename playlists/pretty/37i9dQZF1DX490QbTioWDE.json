@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & Ulises Bueno.",
-  "num_followers": 698979,
+  "num_followers": 699746,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmNjY2E2MDUxMTY3YWNiZTA5NjVhMzA3NDRmOWI2NTg0M2NjNTBi",
+  "snapshot_id": "MCxhZmQ5N2FkNDRmYTU1MGVmZjI1M2JjMTBmODExOTMwZjExODU3NGJj",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -583,8 +583,8 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6xwX7AvhBv0yhUOyHAsbEZ"
+        "name": "Cuidado Que Te Supero",
+        "url": "https://open.spotify.com/album/0qNhZHGPeTOdyvsSC1vcsd"
       },
       "artists": [
         {
@@ -592,13 +592,13 @@
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         },
         {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 173949,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/1j3hgXfIOJ5WrNiNiXs4uw"
+      "duration_ms": 168980,
+      "name": "Cuidado Que Te Supero",
+      "url": "https://open.spotify.com/track/5nRkIy23DFOjph1R6YkFG8"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -723,8 +723,8 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Cuidado Que Te Supero",
-        "url": "https://open.spotify.com/album/0qNhZHGPeTOdyvsSC1vcsd"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6xwX7AvhBv0yhUOyHAsbEZ"
       },
       "artists": [
         {
@@ -732,13 +732,13 @@
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         },
         {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
         }
       ],
-      "duration_ms": 168980,
-      "name": "Cuidado Que Te Supero",
-      "url": "https://open.spotify.com/track/5nRkIy23DFOjph1R6YkFG8"
+      "duration_ms": 173949,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/1j3hgXfIOJ5WrNiNiXs4uw"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Somos lo Que Fuimos (Remix)",
-        "url": "https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx"
-      },
-      "artists": [
-        {
-          "name": "Axel",
-          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 233287,
-      "name": "Somos lo Que Fuimos - Remix",
-      "url": "https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "10 A\u00f1os Con Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 236543,
       "name": "La Mejor Version de M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Somos lo Que Fuimos (Remix)",
+        "url": "https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx"
+      },
+      "artists": [
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 233287,
+      "name": "Somos lo Que Fuimos - Remix",
+      "url": "https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "A la mitad",
-        "url": "https://open.spotify.com/album/1V0M7xCGLG8SEFZVf7OOTJ"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 118083,
-      "name": "A la mitad",
-      "url": "https://open.spotify.com/track/65JceLr57WX9lbOg5DLc4x"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 239080,
       "name": "No Me Mientas",
       "url": "https://open.spotify.com/track/0mYPt9hLmZZvqWAbR9SdNj"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "A la mitad",
+        "url": "https://open.spotify.com/album/1V0M7xCGLG8SEFZVf7OOTJ"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 118083,
+      "name": "A la mitad",
+      "url": "https://open.spotify.com/track/65JceLr57WX9lbOg5DLc4x"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1447,8 +1447,8 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
       "artists": [
         {
@@ -1456,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 245000,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1571,8 +1571,8 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
       },
       "artists": [
         {
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+      "duration_ms": 245000,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Ni Lo Pienses",
-        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ"
       },
       "artists": [
         {
-          "name": "Banda Registrada",
-          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
         }
       ],
-      "duration_ms": 254053,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+      "duration_ms": 152524,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf"
     }
   ],
   "unique_name": "100% Cuarteto",

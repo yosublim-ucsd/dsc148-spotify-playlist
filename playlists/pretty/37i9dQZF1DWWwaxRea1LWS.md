@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > All 2010s, all women in \#SpotifyTBT this week\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,278,584 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,278,749 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Never Be the Same \- Radio Edit](https://open.spotify.com/track/0BlY60NrN0fFWbdW3RW40q) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Never Be the Same \(Radio Edit\)](https://open.spotify.com/album/7yP6hIEJ5YaKn6U60wRVKA) | 3:47 |
 | 50 | [Bad At Love](https://open.spotify.com/track/7y9iMe8SOB6z3NoHE2OfXl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:01 |
 
-Snapshot ID: `MCw2OGMwODNlMWVmYzFhNGRlODYyOTJiYTM5NTQxNzQ0NTlmOGEzNWJl`
+Snapshot ID: `MCxjNjMxNjBkZmE5NzkxM2E4MzI5OTYwYjFhOTY4YWVkZjljOWU4N2U3`

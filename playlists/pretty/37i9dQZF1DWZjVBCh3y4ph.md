@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo :  LÉA CHURROS
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,023 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,084 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 |
 | 40 | [Plus jamais](https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Plus jamais](https://open.spotify.com/album/7Ci1bhLCiQxurTW9S0JiKT) | 2:29 |
 
-Snapshot ID: `MCxiMjBlM2Q3ODQ2NzBlNzljZTZiYjQwMDgxM2UxYzNmYzQwMjRkNzk0`
+Snapshot ID: `MCw4NTM3NjQ4NWNjYzYwZjkzZmExMzgxZjliN2Y0MDdiYWRmNjM5OWQz`

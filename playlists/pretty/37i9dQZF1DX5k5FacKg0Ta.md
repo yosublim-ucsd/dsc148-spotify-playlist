@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,741 likes - 80 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,743 likes - 80 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 4 | [Bem\-Te\-Vi](https://open.spotify.com/track/6kENuGyvjRVUoFtNUVox5F) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Bem\-Te\-Vi](https://open.spotify.com/album/08W5Lh7O9MPbi9HA7wLOS2) | 5:27 |
 | 5 | [Notbad](https://open.spotify.com/track/2BRWFZdMZpWdEcS13RmVoB) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Notbad](https://open.spotify.com/album/6ysbCFN1LoILYOj5Y46yVb) | 4:09 |
 | 6 | [Beatrice](https://open.spotify.com/track/4gWVLCKWXrVoTFj8pB2PS0) | [Pasilians](https://open.spotify.com/artist/7zSpcpgQ6nuYkUprUyKPuF), [Sami Leponiemi](https://open.spotify.com/artist/5B0mj0AddmNVtt03xhfNJa), [Peter Gyarfas](https://open.spotify.com/artist/71JSIhDvAIyoDOIRjffcZq), [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc), [Aleksi Heinola](https://open.spotify.com/artist/5YghcykRpkLlLQYJgIQHh2) | [Beatrice](https://open.spotify.com/album/10vAsdPkBTCuDQ0dYPUBaf) | 5:28 |
-| 7 | [Low Blow](https://open.spotify.com/track/3kIs4PmTQqFKH5bgMuB5Xv) | [Jaakonaho](https://open.spotify.com/artist/11IJGScId2eDGDsSABfY53) | [Build](https://open.spotify.com/album/3fEodFD3lNrljAmJFBitiv) | 4:52 |
+| 7 | [Low Blow](https://open.spotify.com/track/3kIs4PmTQqFKH5bgMuB5Xv) | [Jaakonaho](https://open.spotify.com/artist/11IJGScId2eDGDsSABfY53), [Dana Colley](https://open.spotify.com/artist/5FvTk5OhsWCgs2eBY8p7yd) | [Build](https://open.spotify.com/album/3fEodFD3lNrljAmJFBitiv) | 4:52 |
 | 8 | [Immediate Music III, Pt\. 1](https://open.spotify.com/track/3Colc6EQG6wIDpCxUlXmZY) | [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT), [Glenn Kotche](https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs), [Tony Buck](https://open.spotify.com/artist/0WtwD9JqeJuof5S3K3FacF) | [Immediate Music III](https://open.spotify.com/album/3PbWOybkoW961JGiiAQ2dL) | 15:03 |
 | 9 | [Arms Arms](https://open.spotify.com/track/3TINEvafFDtmsnqIvhewLa) | [New 4](https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx), [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o) | [Direction Zero](https://open.spotify.com/album/4Q83wSUAGVKmkX5Jvy7Zrn) | 7:21 |
 | 10 | [Toivo](https://open.spotify.com/track/1QDBK5XcjrGzXk4CDVRQNw) | [Njet Njet 9](https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ) | [Toivo](https://open.spotify.com/album/4ULura7vujJz8AxIRV0NQE) | 5:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 79 | [Trial by Fire](https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Trial by Fire](https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK) | 4:48 |
 | 80 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 |
 
-Snapshot ID: `MCw5OTcxZTVmNzdlODA4ZmQ0NzI4ZGIzOTRiNWE1YjgxNmVhNTY0YTE1`
+Snapshot ID: `MCw2NDk3YzYxODg3ZjY0MzJmZmUwNGUzNDMwNDE0OGMwZmFmODgyNzVl`

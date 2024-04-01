@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Reggae, roots and dub\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,440 likes - 103 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,464 likes - 103 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 89 | [Road Trip](https://open.spotify.com/track/4z7cAWJg5EfFoaYXmx15xj) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/4MCqdqhhPcrOmyVBPsnRzh) | 3:09 |
 | 90 | [Skank to This](https://open.spotify.com/track/5YRmZUXbvHJoQBPyrJs4p6) | [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp) | [Skank to This](https://open.spotify.com/album/4c6S6cGl2mkoCUL81OIdTm) | 4:25 |
 | 91 | [SAY SO](https://open.spotify.com/track/4beyQ4toeI45Xgo6KIDSkd) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [SAY SO](https://open.spotify.com/album/23dYo4K3khN872DHmF2uny) | 3:15 |
-| 92 | [Mood](https://open.spotify.com/track/2djLw6YIPdIhrqIlKF7T5O) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Sefos.Beats](https://open.spotify.com/artist/2aTFbEhLLTETPB9jRgs8VI), [Txmmy](https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2) | [Mood](https://open.spotify.com/album/2BkfIUZRN08fnq9EJ15f3T) | 3:05 |
+| 92 | [Mood](https://open.spotify.com/track/2djLw6YIPdIhrqIlKF7T5O) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Txmmy](https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2) | [Mood](https://open.spotify.com/album/2BkfIUZRN08fnq9EJ15f3T) | 3:05 |
 | 93 | [Take It Easy](https://open.spotify.com/track/23jHR6RPxvK2w8XHQwrOJb) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Inventing Myself](https://open.spotify.com/album/5K1eExMLoobEA6MtZP6XKL) | 3:21 |
 | 94 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
 | 95 | [Cool it down](https://open.spotify.com/track/4v2Xrn82mfEgPR7lhwboLt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [COTERIE](https://open.spotify.com/album/3cPGB2HwcV2E8SBvNt3DO6) | 4:28 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 102 | [Good Time](https://open.spotify.com/track/4RzIZS83SMXWrSGsP7XPiS) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Trouble](https://open.spotify.com/album/6Ex5buL9V8s8gEZuejwBfU) | 3:24 |
 | 103 | [Be Better](https://open.spotify.com/track/0PcUzCpDtur5KiTqKYyfyj) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2021](https://open.spotify.com/album/47ngDCKILaUidvXeest7sz) | 2:22 |
 
-Snapshot ID: `MCwwNzVjYzExOGM3YjRmOTkzMmQ0MjUyZGQzZmQ0NmNkMmY1NjdjNDk3`
+Snapshot ID: `MCw5ZDE2Y2E2OTJmM2NlMTVkZjE4ZjE5YzhlZmVlMTk1NjQ4Y2I0YjU5`

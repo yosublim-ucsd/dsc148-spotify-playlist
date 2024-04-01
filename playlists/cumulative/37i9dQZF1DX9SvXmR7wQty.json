@@ -27693,6 +27693,32 @@
     },
     {
       "album": {
+        "name": "Matata",
+        "url": "https://open.spotify.com/album/6loazP7tFix6vicTNHi2Qs"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206950,
+      "name": "Matata",
+      "url": "https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz"
+    },
+    {
+      "album": {
         "name": "Match",
         "url": "https://open.spotify.com/album/1DyKKChdiu0IdEZvz4yt4U"
       },
@@ -29362,7 +29388,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 180000,
       "name": "Multicolore",
       "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
@@ -30262,7 +30288,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 242869,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
@@ -30672,6 +30698,28 @@
       "duration_ms": 200600,
       "name": "O H N A",
       "url": "https://open.spotify.com/track/5FCqxCBtKuHSVn8UBaQ5cn"
+    },
+    {
+      "album": {
+        "name": "Bushi Tape 3",
+        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
+      },
+      "artists": [
+        {
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Oc\u00e9ane",
+      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
     },
     {
       "album": {

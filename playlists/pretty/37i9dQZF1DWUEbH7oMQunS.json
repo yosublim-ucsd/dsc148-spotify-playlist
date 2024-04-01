@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60418,
+  "num_followers": 60442,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1",
+  "snapshot_id": "MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Instrumental Worship Music, Vol. 1",
-        "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
-      },
-      "artists": [
-        {
-          "name": "Jordan Biel",
-          "url": "https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "After All These Years (Instrumental)",
         "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 241400,
       "name": "For The One - Instrumental",
       "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Instrumental Worship Music, Vol. 1",
+        "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Biel",
+          "url": "https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Grunewald Church Session",
+        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Selke",
+          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
+        },
+        {
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+        }
+      ],
+      "duration_ms": 418995,
+      "name": "Without Shelter",
+      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 352318,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "The Grunewald Church Session",
-        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Selke",
-          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
-        },
-        {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
-        }
-      ],
-      "duration_ms": 418995,
-      "name": "Without Shelter",
-      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
     },
     {
       "added_at": "2023-07-28 04:02:00",

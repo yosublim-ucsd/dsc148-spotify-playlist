@@ -4,13 +4,14 @@
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-102 songs - 6 hr 7 min
+103 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-12-28 |  |
 | [Autoportrait](https://open.spotify.com/track/7kWwphH6Q6vu9WMtQIcrQf) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Autoportrait](https://open.spotify.com/album/4m1P0dk7zsTTsE2BrkbhnU) | 3:22 | 2022-12-28 |  |
 | [Baby Drummer](https://open.spotify.com/track/1HW8Eci2TSMF9EaVZHnNzj) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Bad Nerves](https://open.spotify.com/album/1wMtklLScB4SwEXEbmdiQx) | 2:20 | 2022-12-28 | 2023-08-30 |
+| [Baby Drummer](https://open.spotify.com/track/3AL0jiB2Ix2u6x1MKMNcQv) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Bad Nerves](https://open.spotify.com/album/2bs2CFgfCEYfNCwfholBYd) | 2:20 | 2023-05-25 |  |
 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 | 2022-12-28 |  |
 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 | 2022-12-28 |  |
 | [Best of Friends](https://open.spotify.com/track/7bOr9XoG8f9iOMN2XOXnvU) | [Palma Violets](https://open.spotify.com/artist/3sVKVwY8TD445BiC6Q4B43) | [180](https://open.spotify.com/album/3WBUbf6ucN3xl9ZxYvFsOy) | 3:30 | 2023-05-17 | 2023-05-26 |
@@ -93,7 +94,7 @@
 | [Put a Light On](https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V) | 3:44 | 2023-05-17 | 2023-05-26 |
 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 | 2022-12-28 |  |
 | [Salted Caramel Ice Cream](https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 3:30 | 2023-05-17 | 2023-05-26 |
-| [Sha Sha Sha](https://open.spotify.com/track/7BFwBubozsalZrZKGUAYJq) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 2:31 | 2023-05-25 |  |
+| [Sha Sha Sha](https://open.spotify.com/track/7BFwBubozsalZrZKGUAYJq) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 2:31 | 2023-05-25 | 2024-04-01 |
 | [She Changes the Weather](https://open.spotify.com/track/3q8h28WsxkdRKAtkHNa6zR) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [Where the Heaven Are We](https://open.spotify.com/album/4pysD7EqnDkRx4mXG42OCo) | 4:35 | 2023-05-17 | 2023-05-26 |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2022-12-28 |  |
 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 | 2022-12-28 |  |

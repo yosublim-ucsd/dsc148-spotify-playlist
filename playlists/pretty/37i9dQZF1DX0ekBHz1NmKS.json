@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195887,
+  "num_followers": 195894,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjU1MTQzMTlmNTRkNjk4ZWYyMzNlNWZkZDljZmJjYzEwYzRlZmM4",
+  "snapshot_id": "MCw3OTVkNjQxODkyYWNlYjA1ZDY3NWU2NDNjOWEwOTIyNDI4YjNkNjQ4",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Ahumma",
-        "url": "https://open.spotify.com/album/14NOxOFVGIJaZWXBS5zpTe"
-      },
-      "artists": [
-        {
-          "name": "C-Joe",
-          "url": "https://open.spotify.com/artist/2relalSIlRWsTuc6YMXG7l"
-        }
-      ],
-      "duration_ms": 176315,
-      "name": "Ahumma",
-      "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "In Memory Of Some Stand Up Guys (Private Collection)",
         "url": "https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 135172,
       "name": "D\u00f6r F\u00f6r Dig - Acoustic",
       "url": "https://open.spotify.com/track/3yAP1AKORlEgS8JFjUDbLK"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Ahumma",
+        "url": "https://open.spotify.com/album/14NOxOFVGIJaZWXBS5zpTe"
+      },
+      "artists": [
+        {
+          "name": "C-Joe",
+          "url": "https://open.spotify.com/artist/2relalSIlRWsTuc6YMXG7l"
+        }
+      ],
+      "duration_ms": 176315,
+      "name": "Ahumma",
+      "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/08W5cB0Uv3QNij1Lqqo8mk"
-      },
-      "artists": [
-        {
-          "name": "Kim Cesarion",
-          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
-        }
-      ],
-      "duration_ms": 180127,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/3mSYbKu15KIVRR7NsnagjF"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "S\u00e4g f\u00f6rl\u00e5t",
         "url": "https://open.spotify.com/album/2XGRSqqJKWNQn7KIgwSMdU"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 242074,
       "name": "S\u00e4g f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/5foAcyMDMeFa4mMDwJUmqh"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/08W5cB0Uv3QNij1Lqqo8mk"
+      },
+      "artists": [
+        {
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
+        }
+      ],
+      "duration_ms": 180127,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/3mSYbKu15KIVRR7NsnagjF"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Where Strippers Go To Die",
-        "url": "https://open.spotify.com/album/408mHPRsWelPoExT53HIz6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Rathana",
-          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
-        }
-      ],
-      "duration_ms": 210405,
-      "name": "Where Strippers Go To Die",
-      "url": "https://open.spotify.com/track/1aj8Uc9FWNoMPEw19rbEmX"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Cherry On Top",
         "url": "https://open.spotify.com/album/1ThLpe0d8lTwMNRuSTtRqM"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 180212,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/27prlvK4avPPpYntCg7wEo"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Where Strippers Go To Die",
+        "url": "https://open.spotify.com/album/408mHPRsWelPoExT53HIz6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        }
+      ],
+      "duration_ms": 210405,
+      "name": "Where Strippers Go To Die",
+      "url": "https://open.spotify.com/track/1aj8Uc9FWNoMPEw19rbEmX"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Mellanrum",
-        "url": "https://open.spotify.com/album/0b2CZlHGerSdrW7Qz3efMw"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Mellanrum",
-      "url": "https://open.spotify.com/track/0oNtjyHqfsBx6XiK1CucD1"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Beredd",
         "url": "https://open.spotify.com/album/5wAjYTxf5Lg01lIjP592fW"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 213500,
       "name": "Beredd",
       "url": "https://open.spotify.com/track/0dobads3voGDdxWkT2BrW8"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Mellanrum",
+        "url": "https://open.spotify.com/album/0b2CZlHGerSdrW7Qz3efMw"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Mellanrum",
+      "url": "https://open.spotify.com/track/0oNtjyHqfsBx6XiK1CucD1"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Full p\u00e5 dan",
-        "url": "https://open.spotify.com/album/2TqVA9ey7RvSCv8V6uJoeC"
-      },
-      "artists": [
-        {
-          "name": "Annika Norlin",
-          "url": "https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"
-        },
-        {
-          "name": "Jonas Teglund",
-          "url": "https://open.spotify.com/artist/6WrDpCXVSYSwaMv3jhgpuT"
-        }
-      ],
-      "duration_ms": 217457,
-      "name": "Full p\u00e5 dan",
-      "url": "https://open.spotify.com/track/5od9GEWisg8lTv9jmQRz90"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Sn\u00f6ar I April",
         "url": "https://open.spotify.com/album/208rn4DQxOpMy0DDrha1rP"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 210500,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/4c3O9CbWKhXM1UMCNRvEA5"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Full p\u00e5 dan",
+        "url": "https://open.spotify.com/album/2TqVA9ey7RvSCv8V6uJoeC"
+      },
+      "artists": [
+        {
+          "name": "Annika Norlin",
+          "url": "https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"
+        },
+        {
+          "name": "Jonas Teglund",
+          "url": "https://open.spotify.com/artist/6WrDpCXVSYSwaMv3jhgpuT"
+        }
+      ],
+      "duration_ms": 217457,
+      "name": "Full p\u00e5 dan",
+      "url": "https://open.spotify.com/track/5od9GEWisg8lTv9jmQRz90"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Hopeless Guy",
-        "url": "https://open.spotify.com/album/1cw7txjn6mYZeY0LqZN8M4"
-      },
-      "artists": [
-        {
-          "name": "JUNG",
-          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
-        }
-      ],
-      "duration_ms": 243646,
-      "name": "Hopeless Guy",
-      "url": "https://open.spotify.com/track/310HpOa9DdOfpOTpD3idYL"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Wild Geese, Wild Love / Day 2000 Awake",
         "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Hopeless Guy",
+        "url": "https://open.spotify.com/album/1cw7txjn6mYZeY0LqZN8M4"
+      },
+      "artists": [
+        {
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
+        }
+      ],
+      "duration_ms": 243646,
+      "name": "Hopeless Guy",
+      "url": "https://open.spotify.com/track/310HpOa9DdOfpOTpD3idYL"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Dummare",
-        "url": "https://open.spotify.com/album/26JlfJ2nLuTHHI8Tf0YZVa"
-      },
-      "artists": [
-        {
-          "name": "Atmosf\u00e4r",
-          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Dummare",
-      "url": "https://open.spotify.com/track/207yBXxFUCVucZHYiP6OsF"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Hello Cowboy",
         "url": "https://open.spotify.com/album/5MF7mgDlb5nDBnOdWN7LsK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 203317,
       "name": "Hello Cowboy",
       "url": "https://open.spotify.com/track/2cA6vVOVZCopd5I3VkbLKi"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Dummare",
+        "url": "https://open.spotify.com/album/26JlfJ2nLuTHHI8Tf0YZVa"
+      },
+      "artists": [
+        {
+          "name": "Atmosf\u00e4r",
+          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Dummare",
+      "url": "https://open.spotify.com/track/207yBXxFUCVucZHYiP6OsF"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Krossa sn\u00e4llt",
-        "url": "https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB"
-      },
-      "artists": [
-        {
-          "name": "Lisa Howard",
-          "url": "https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm"
-        }
-      ],
-      "duration_ms": 193296,
-      "name": "Krossa sn\u00e4llt",
-      "url": "https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Barrikader",
         "url": "https://open.spotify.com/album/6A8SuD81ZyA7vBfWDt9GgK"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 201000,
       "name": "Barrikader",
       "url": "https://open.spotify.com/track/4xLOGrC7yvDiptpeTv8hDJ"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Krossa sn\u00e4llt",
+        "url": "https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB"
+      },
+      "artists": [
+        {
+          "name": "Lisa Howard",
+          "url": "https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm"
+        }
+      ],
+      "duration_ms": 193296,
+      "name": "Krossa sn\u00e4llt",
+      "url": "https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "om du skulle g\u00e5",
-        "url": "https://open.spotify.com/album/688I1IjT2fxRX27McxhU9b"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "om du skulle g\u00e5",
-      "url": "https://open.spotify.com/track/2mrxW0pN3qTg6Wk0MRTWzF"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "L\u00e5ngt h\u00e4rifr\u00e5n",
         "url": "https://open.spotify.com/album/2mYvp2hNIUogRf2j2Op8ov"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "om du skulle g\u00e5",
+        "url": "https://open.spotify.com/album/688I1IjT2fxRX27McxhU9b"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "om du skulle g\u00e5",
+      "url": "https://open.spotify.com/track/2mrxW0pN3qTg6Wk0MRTWzF"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Elvis, I Love You",
         "url": "https://open.spotify.com/album/2NQATONmZBrOcpezJZyVh8"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 223798,
       "name": "Elvis, I Love You",
       "url": "https://open.spotify.com/track/6hHSVn1e1Yqg9RVDMVACnE"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Supernatural (Acoustic)",
+        "url": "https://open.spotify.com/album/7Elwg9pkqPgAKlzvi7FuVU"
+      },
+      "artists": [
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Supernatural - Acoustic",
+      "url": "https://open.spotify.com/track/2hY3xWsXDC40Wa40LcBdBQ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1023,46 +1039,6 @@
       "duration_ms": 139600,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/5GE9E3pQFFtsSf9mOXHMdO"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Supernatural (Acoustic)",
-        "url": "https://open.spotify.com/album/7Elwg9pkqPgAKlzvi7FuVU"
-      },
-      "artists": [
-        {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Supernatural - Acoustic",
-      "url": "https://open.spotify.com/track/2hY3xWsXDC40Wa40LcBdBQ"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Ljusen (feat. Joakim Berg & Opera: 1)",
-        "url": "https://open.spotify.com/album/6crZwLY8uqxlDQ2evd9cL7"
-      },
-      "artists": [
-        {
-          "name": "Sakarias",
-          "url": "https://open.spotify.com/artist/1yUcWPpu3UbKZFMmC5W3ZR"
-        },
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        },
-        {
-          "name": "Opera: 1",
-          "url": "https://open.spotify.com/artist/4LEQ0IpTqQ1GuvezjIGZCW"
-        }
-      ],
-      "duration_ms": 222735,
-      "name": "Ljusen (feat. Joakim Berg & Opera: 1)",
-      "url": "https://open.spotify.com/track/1pU4uBk9ASlKLHLx98QoiQ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1115,6 +1091,30 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Ljusen (feat. Joakim Berg & Opera: 1)",
+        "url": "https://open.spotify.com/album/6crZwLY8uqxlDQ2evd9cL7"
+      },
+      "artists": [
+        {
+          "name": "Sakarias",
+          "url": "https://open.spotify.com/artist/1yUcWPpu3UbKZFMmC5W3ZR"
+        },
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        },
+        {
+          "name": "Opera: 1",
+          "url": "https://open.spotify.com/artist/4LEQ0IpTqQ1GuvezjIGZCW"
+        }
+      ],
+      "duration_ms": 222735,
+      "name": "Ljusen (feat. Joakim Berg & Opera: 1)",
+      "url": "https://open.spotify.com/track/1pU4uBk9ASlKLHLx98QoiQ"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Pappa",
         "url": "https://open.spotify.com/album/2JaHN74aTfEUdQblNKK6Ek"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 181062,
       "name": "Pappa",
       "url": "https://open.spotify.com/track/1ao8aqJXSqXCGDihRbhxVH"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "\u00c4nglar",
+        "url": "https://open.spotify.com/album/0OslZAlgAER7ZitMuvHEB6"
+      },
+      "artists": [
+        {
+          "name": "Nardn",
+          "url": "https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "\u00c4nglar",
+      "url": "https://open.spotify.com/track/0U4CK7ehoH0h72JGEInZ7I"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 153500,
       "name": "Skyller p\u00e5 regnet",
       "url": "https://open.spotify.com/track/7diMWAEYppGMesCR245G6k"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "\u00c4nglar",
-        "url": "https://open.spotify.com/album/0OslZAlgAER7ZitMuvHEB6"
-      },
-      "artists": [
-        {
-          "name": "Nardn",
-          "url": "https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "\u00c4nglar",
-      "url": "https://open.spotify.com/track/0U4CK7ehoH0h72JGEInZ7I"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "I Live After I Died",
+        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
+      },
+      "artists": [
+        {
+          "name": "Sofia Dragt",
+          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "I Live After I Died",
+      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Jobba",
         "url": "https://open.spotify.com/album/06lbZ8MmSsgrRrdDDS4wdi"
       },
@@ -1431,6 +1447,38 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/22y2KgB85sd5ST2MkFIckw"
+      },
+      "artists": [
+        {
+          "name": "William Stridh",
+          "url": "https://open.spotify.com/artist/5xDae0zB3YLr6lYvlMdpbR"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/2Mf5xOPBxNKWaGuq2hQbEM"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Musiken i dur",
+        "url": "https://open.spotify.com/album/5jZw26m3vlWx2IaNJbN8iD"
+      },
+      "artists": [
+        {
+          "name": "Akvarell",
+          "url": "https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO"
+        }
+      ],
+      "duration_ms": 206673,
+      "name": "Musiken i dur",
+      "url": "https://open.spotify.com/track/3etnGyPFA9Rt2CfjRZ6czg"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "MIN MARIE",
         "url": "https://open.spotify.com/album/1R0rgizcdTQsGbWTMokGa0"
       },
@@ -1467,18 +1515,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/22y2KgB85sd5ST2MkFIckw"
+        "name": "Vem e som dig",
+        "url": "https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae"
       },
       "artists": [
         {
-          "name": "William Stridh",
-          "url": "https://open.spotify.com/artist/5xDae0zB3YLr6lYvlMdpbR"
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv"
         }
       ],
-      "duration_ms": 190464,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/2Mf5xOPBxNKWaGuq2hQbEM"
+      "duration_ms": 168000,
+      "name": "Vem e som dig",
+      "url": "https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1503,38 +1551,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Tv\u00e5 idioter",
-        "url": "https://open.spotify.com/album/2VgpCTBPtS3jhFeGGaUGMm"
-      },
-      "artists": [
-        {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
-        }
-      ],
-      "duration_ms": 124687,
-      "name": "Tv\u00e5 idioter",
-      "url": "https://open.spotify.com/track/7icBZz6DwrqQ2z2vCca9HA"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Vem e som dig",
-        "url": "https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae"
-      },
-      "artists": [
-        {
-          "name": "Willow",
-          "url": "https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Vem e som dig",
-      "url": "https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Varje g\u00e5ng",
         "url": "https://open.spotify.com/album/6aTU5aSCB5dahAWEvmBViu"
       },
@@ -1547,38 +1563,6 @@
       "duration_ms": 173696,
       "name": "Varje g\u00e5ng",
       "url": "https://open.spotify.com/track/5F63IuJAxScBwhGSO51N4r"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Musiken i dur",
-        "url": "https://open.spotify.com/album/5jZw26m3vlWx2IaNJbN8iD"
-      },
-      "artists": [
-        {
-          "name": "Akvarell",
-          "url": "https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO"
-        }
-      ],
-      "duration_ms": 206673,
-      "name": "Musiken i dur",
-      "url": "https://open.spotify.com/track/3etnGyPFA9Rt2CfjRZ6czg"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "F\u00e5nga natten",
-        "url": "https://open.spotify.com/album/3RFGJ7SIzjuvnSl2V1ZeQF"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Rasch",
-          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
-        }
-      ],
-      "duration_ms": 159993,
-      "name": "F\u00e5nga natten",
-      "url": "https://open.spotify.com/track/7dVIISnf2eOzvhJwYk8svJ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1599,38 +1583,34 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "N\u00e4r dimman sjunker",
-        "url": "https://open.spotify.com/album/7r5fkxxwszGuBfKwYIqwmD"
+        "name": "Tv\u00e5 idioter",
+        "url": "https://open.spotify.com/album/2VgpCTBPtS3jhFeGGaUGMm"
       },
       "artists": [
         {
           "name": "Simon Forslund",
           "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
-        },
-        {
-          "name": "Luka Nemorin",
-          "url": "https://open.spotify.com/artist/3CJPBkbeGVqeuCBH7SvyF5"
         }
       ],
-      "duration_ms": 177882,
-      "name": "N\u00e4r dimman sjunker",
-      "url": "https://open.spotify.com/track/7jN5eFTpas9sslUGf2KnAA"
+      "duration_ms": 124687,
+      "name": "Tv\u00e5 idioter",
+      "url": "https://open.spotify.com/track/7icBZz6DwrqQ2z2vCca9HA"
     },
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "D\u00f6 f\u00f6re dig (akustisk version)",
-        "url": "https://open.spotify.com/album/1vFo2cYQvSoM5N1m8lQbAu"
+        "name": "F\u00e5nga natten",
+        "url": "https://open.spotify.com/album/3RFGJ7SIzjuvnSl2V1ZeQF"
       },
       "artists": [
         {
-          "name": "Emma-Lee Andersson",
-          "url": "https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY"
+          "name": "Gustaf Rasch",
+          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
         }
       ],
-      "duration_ms": 131241,
-      "name": "D\u00f6 f\u00f6re dig - akustisk version",
-      "url": "https://open.spotify.com/track/552Whv8lDoc9tGJninXBsv"
+      "duration_ms": 159993,
+      "name": "F\u00e5nga natten",
+      "url": "https://open.spotify.com/track/7dVIISnf2eOzvhJwYk8svJ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1651,18 +1631,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "On the line",
-        "url": "https://open.spotify.com/album/7rzMWjREqgIPLFbgFJclWO"
+        "name": "D\u00f6 f\u00f6re dig (akustisk version)",
+        "url": "https://open.spotify.com/album/1vFo2cYQvSoM5N1m8lQbAu"
       },
       "artists": [
         {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+          "name": "Emma-Lee Andersson",
+          "url": "https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY"
         }
       ],
-      "duration_ms": 196413,
-      "name": "On the line",
-      "url": "https://open.spotify.com/track/5HghTFSHeik29SrM2i48f5"
+      "duration_ms": 131241,
+      "name": "D\u00f6 f\u00f6re dig - akustisk version",
+      "url": "https://open.spotify.com/track/552Whv8lDoc9tGJninXBsv"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1683,18 +1663,34 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Excuse Me, I Just Need To Scream",
-        "url": "https://open.spotify.com/album/76mNC9eRxi8SdbjCUqhbME"
+        "name": "It Only Took A Minute For My Country To Love Country",
+        "url": "https://open.spotify.com/album/5qy5IRA4wbhszGPzBvocqg"
       },
       "artists": [
         {
-          "name": "Amanda Fondell",
-          "url": "https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs"
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
         }
       ],
-      "duration_ms": 170963,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/5rdDxpAeWCtUL8As9xMkG0"
+      "duration_ms": 153853,
+      "name": "It Only Took A Minute For My Country To Love Country",
+      "url": "https://open.spotify.com/track/2wrcvWfL9Acs0l2RtCvzQV"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "On the line",
+        "url": "https://open.spotify.com/album/7rzMWjREqgIPLFbgFJclWO"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "On the line",
+      "url": "https://open.spotify.com/track/5HghTFSHeik29SrM2i48f5"
     }
   ],
   "unique_name": "Made in Sweden",

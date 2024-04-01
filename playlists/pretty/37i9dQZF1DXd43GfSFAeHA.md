@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Shabjdeed & Al Nather
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,707 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,734 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 15 | [NIKEY](https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 4:33 |
 | 16 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 |
 | 17 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
-| 18 | [Minuit](https://open.spotify.com/track/4Qwzw8eFrFYUkegexOtyNm) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Minuit](https://open.spotify.com/album/2ubz38hd8GzoT6nFs50NeA) | 3:27 |
-| 19 | [M3 3DM E7TRAMY](https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:32 |
+| 18 | [M3 3DM E7TRAMY](https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:32 |
+| 19 | [Minuit](https://open.spotify.com/track/4Qwzw8eFrFYUkegexOtyNm) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Minuit](https://open.spotify.com/album/2ubz38hd8GzoT6nFs50NeA) | 3:27 |
 | 20 | [MATAL3ACH](https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MATAL3ACH](https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH) | 2:55 |
 | 21 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
 | 22 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 31 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
 | 32 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
 | 33 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |
-| 34 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
-| 35 | [Meen \(feat\. Rafiek\)](https://open.spotify.com/track/6mtov0T6NivlQZMNqnCK8B) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [من الرماد](https://open.spotify.com/album/0izte4GdWsvO29WcOWKbkp) | 2:45 |
+| 34 | [Meen \(feat\. Rafiek\)](https://open.spotify.com/track/6mtov0T6NivlQZMNqnCK8B) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [من الرماد](https://open.spotify.com/album/0izte4GdWsvO29WcOWKbkp) | 2:45 |
+| 35 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
 | 36 | [TAY9 \- Spotify Singles](https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [AKOA](https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq) | [TAY9 \(Spotify Singles\)](https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322) | 3:49 |
 | 37 | [3arabawy](https://open.spotify.com/track/08b9YG42AnVIh70EwEeLpX) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [EL 3ARAB](https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I) | 2:09 |
 | 38 | [Klashat](https://open.spotify.com/track/1gk3xYnAX39GZp6pKJYCgb) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Doppler](https://open.spotify.com/album/04m1uvsNNz7rofzN2SE37N) | 2:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 50 | [شنو يا صاحبي](https://open.spotify.com/track/1sbLYOyEE4U6Zxmv7XtTj0) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [شنو يا صاحبي](https://open.spotify.com/album/5aLLdNRnwoEUalcoiyzK2a) | 2:41 |
 | 51 | [Rawq Elmanga](https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Rawq Elmanga](https://open.spotify.com/album/24i5mi7wRZIZATTQCWipGC) | 3:15 |
 
-Snapshot ID: `MCxjYTI3OWY1NWFhYWY4YzY0N2I2ZmJiZjkwMzE3M2ZiMTQzZDM5MTFj`
+Snapshot ID: `MCwxYWU5ZGZhZjE0OWVlZTk2MTc0YWU3ZGE3NGNjNjRkYmUwNTJlZGE4`

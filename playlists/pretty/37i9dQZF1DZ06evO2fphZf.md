@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thuy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,063 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,071 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 41 | [Bad](https://open.spotify.com/track/0LvTcWy1faRiiMWpLAoOkN) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Bad](https://open.spotify.com/album/7ghg4UUVy004mc7lPql9uj) | 3:02 |
 | 42 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
 | 43 | [Next to You](https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Next to You](https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw) | 3:24 |
-| 44 | [Hands on Me](https://open.spotify.com/track/77b7Cukvthg7FV7vhOlev1) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Cr Crucial](https://open.spotify.com/artist/2e8j9kR0sPHsN60RtwxBlI) | [Hands on Me](https://open.spotify.com/album/0wP22H6E7VHv5pfWGTIZws) | 3:08 |
-| 45 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
+| 44 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
+| 45 | [Hands on Me](https://open.spotify.com/track/77b7Cukvthg7FV7vhOlev1) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Cr Crucial](https://open.spotify.com/artist/2e8j9kR0sPHsN60RtwxBlI) | [Hands on Me](https://open.spotify.com/album/0wP22H6E7VHv5pfWGTIZws) | 3:08 |
 | 46 | [Love Come Down](https://open.spotify.com/track/1psyxX7jRaZU8qcUxWQx4z) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [I Don't Wanna Rap No More](https://open.spotify.com/album/2NZQvOFm3oJNXg9q5fbQQg) | 3:52 |
 | 47 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
 | 48 | [Reasons](https://open.spotify.com/track/3BEOKlFeiFCEFrfqTVH53F) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Reasons \(feat\. Thuy\) \- Single](https://open.spotify.com/album/0SEahu9fVx9ivOEuqgDSki) | 3:24 |
 
-Snapshot ID: `Mjg1MzAwMjgsMDAwMDAwMDAwYjcxY2FmNWQ2ODRiMWEwOTA4NDFkZjFkYTdlMjc1YQ==`
+Snapshot ID: `Mjg1MzE0ODAsMDAwMDAwMDAxYmJkNDUyMzE3OGJlOGYyNTZmMGMzYWI2NGJmNjAxYw==`

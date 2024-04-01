@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 10669,
+  "2024-04-01": 11003,
   "date_first_scraped": "2024-03-08",
   "description": "Welcome to \"high\" society. Listen to the music from Guy Ritchie's The Gentlemen, now streaming on Netflix. ",
   "name": "The Gentlemen Official Playlist",
@@ -286,44 +286,6 @@
     },
     {
       "album": {
-        "name": "Verdi: Messa da Requiem",
-        "url": "https://open.spotify.com/album/0JLoGCp4SVWwuC4dpo7KUT"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        },
-        {
-          "name": "Wiener Staatsopernchor",
-          "url": "https://open.spotify.com/artist/6IimpgX9XQY41o0p4EuuHL"
-        },
-        {
-          "name": "Chorus of the Sofia National Opera",
-          "url": "https://open.spotify.com/artist/3xxXr8vt0N7LfKYmytgixG"
-        },
-        {
-          "name": "Walter Hagen-Groll",
-          "url": "https://open.spotify.com/artist/5iMb1u0pxxzSPONrB4j0Zb"
-        }
-      ],
-      "date_added": "2024-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141333,
-      "name": "Messa da Requiem: 2. Dies irae",
-      "url": "https://open.spotify.com/track/6bUPnKH7vqFKydPd10H8SI"
-    },
-    {
-      "album": {
         "name": "Eternelle",
         "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
       },
@@ -375,6 +337,44 @@
       "duration_ms": 269533,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/2dBHWIttcCBjPEXbaBvyDW"
+    },
+    {
+      "album": {
+        "name": "Verdi: Messa da Requiem",
+        "url": "https://open.spotify.com/album/0JLoGCp4SVWwuC4dpo7KUT"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Wiener Staatsopernchor",
+          "url": "https://open.spotify.com/artist/6IimpgX9XQY41o0p4EuuHL"
+        },
+        {
+          "name": "Chorus of the Sofia National Opera",
+          "url": "https://open.spotify.com/artist/3xxXr8vt0N7LfKYmytgixG"
+        },
+        {
+          "name": "Walter Hagen-Groll",
+          "url": "https://open.spotify.com/artist/5iMb1u0pxxzSPONrB4j0Zb"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Requiem: IIa. Dies irae",
+      "url": "https://open.spotify.com/track/6bUPnKH7vqFKydPd10H8SI"
     },
     {
       "album": {

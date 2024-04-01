@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 1,
+  "2024-04-01": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -2787,6 +2787,24 @@
       "duration_ms": 212360,
       "name": "Disorder - 2019 Digital Master",
       "url": "https://open.spotify.com/track/2OPmhk5vO4qiYE4LEAC9hs"
+    },
+    {
+      "album": {
+        "name": "Light, Dark, Light Again",
+        "url": "https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258353,
+      "name": "Divine Fault Line",
+      "url": "https://open.spotify.com/track/0quhypMAHswXpRBXAqxS4G"
     },
     {
       "album": {

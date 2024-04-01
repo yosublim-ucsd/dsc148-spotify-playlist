@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 23050,
+  "2024-04-01": 23049,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -977,6 +977,28 @@
     {
       "album": {
         "name": "Carnival x Fein",
+        "url": "https://open.spotify.com/album/4bq61NqMQbxRji67qzdXeF"
+      },
+      "artists": [
+        {
+          "name": "offtopic",
+          "url": "https://open.spotify.com/artist/6fhVncKweuRwp1oucBCjj9"
+        },
+        {
+          "name": "afex",
+          "url": "https://open.spotify.com/artist/5qsOlAmrk4gDtJYlDzEbuG"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126671,
+      "name": "Carnival x Fein",
+      "url": "https://open.spotify.com/track/1PjFe5afpVknL7VEsnXZQA"
+    },
+    {
+      "album": {
+        "name": "Carnival x Fein",
         "url": "https://open.spotify.com/album/1YCnrW19PcbQ6hMrkXwi01"
       },
       "artists": [
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 126389,
       "name": "Carnival x Fein",
       "url": "https://open.spotify.com/track/3E1YgNCLJn3GQ5tySGphHi"
@@ -1202,6 +1224,24 @@
     },
     {
       "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
+    },
+    {
+      "album": {
         "name": "Dance You Outta My Head",
         "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
       },
@@ -1307,7 +1347,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 234000,
       "name": "Dingue de toi - Nabi-Nabilla",
       "url": "https://open.spotify.com/track/2OHJYG61WwBhKCmyJ8rBtz"
@@ -2551,6 +2591,24 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
+    },
+    {
+      "album": {
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+      },
+      "artists": [
+        {
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192092,
+      "name": "Lekker Ding, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
     },
     {
       "album": {
@@ -3947,7 +4005,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
@@ -4317,10 +4375,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+    },
+    {
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
     },
     {
       "album": {
@@ -4745,7 +4821,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 238786,
       "name": "Walk On Water - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/0HmziOJiWl8L2kI3q3MGjb"
@@ -5159,7 +5235,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 180979,
       "name": "ZARI",
       "url": "https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW"

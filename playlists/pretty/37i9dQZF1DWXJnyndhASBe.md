@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Waima
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,362 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,610 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [NIENAWIDZĘ WARSZAWY!](https://open.spotify.com/track/0JvlaGyGok0jMp8wCQhI9p) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [NIENAWIDZĘ WARSZAWY!](https://open.spotify.com/album/48f7zFPrWZT3Iaku5XQWIH) | 2:22 |
 | 50 | [KUBKI](https://open.spotify.com/track/4nq72RUyV70qKB63qjagNO) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [KUBKI](https://open.spotify.com/album/6PTFLPItiX6iZI5dYEWiFz) | 2:21 |
 
-Snapshot ID: `MCxlODFlZjFhZThlY2IzODJmNTg2ZmYxMDJlZjgwN2Y3NzdlMzljOTgx`
+Snapshot ID: `MCw3YWVmNDdhYjI1OTJiNzQxY2ZmMzUzMTQzYjU0NjViNmUyZThkMDEx`

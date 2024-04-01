@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,105 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,169 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 |
 | 50 | [the lonely tree \(slowed\)](https://open.spotify.com/track/0ECFKrZI3VZKPNWGs1CoSq) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6wGfq6iZAQ1RhX3izONxdS) | 2:45 |
 
-Snapshot ID: `MCw1NzU5OGQ3NjRhY2FkYzU2YTE5NWUxOWUzOWE2OGNmYzZhNmNkMjJm`
+Snapshot ID: `MCxmZTBlYzlhNzJhYzYyOTA5OWQ3MjVkZjRhMzA5NzBjYjA0MTBhODYy`

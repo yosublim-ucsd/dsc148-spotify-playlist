@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,636 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,664 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 28 | [Cortejo](https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Cortejo](https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF) | 2:49 |
 | 29 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
 | 30 | [Sereia](https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Pelo mundo](https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym) | 3:16 |
-| 31 | [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 |
-| 32 | [Breve](https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x) | [Marco Baptista](https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Breve](https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07) | 3:33 |
+| 31 | [Breve](https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x) | [Marco Baptista](https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Breve](https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07) | 3:33 |
+| 32 | [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 |
 | 33 | [Até Envelhecer](https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Até Envelhecer](https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O) | 2:57 |
 | 34 | [Praia do Rosa](https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Praia do Rosa](https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT) | 2:35 |
 | 35 | [Pecadinho](https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab) | [Pecadinho](https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83) | 2:06 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 39 | [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 |
 | 40 | [NÓS NUS](https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T) | [Leo Cavalcanti](https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [NÓS NUS](https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR) | 5:04 |
 | 41 | [Balada do Amor Inabalável](https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Balada do Amor Inabalável](https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE) | 2:22 |
-| 42 | [calma na alma](https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit) | [Tatí Férrer](https://open.spotify.com/artist/5Rjyy1rpExPBXrzgp0LRCT), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [calma na alma](https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV) | 2:29 |
-| 43 | [Quando isso vai passar?](https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando isso vai passar?](https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH) | 2:36 |
+| 42 | [Você Chegou](https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Você Chegou](https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV) | 2:23 |
+| 43 | [calma na alma](https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit) | [Tatí Férrer](https://open.spotify.com/artist/5Rjyy1rpExPBXrzgp0LRCT), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [calma na alma](https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV) | 2:29 |
 | 44 | [Vida + leve](https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX), [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Vida + leve](https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1) | 2:58 |
-| 45 | [Você Chegou](https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Você Chegou](https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV) | 2:23 |
+| 45 | [Quando isso vai passar?](https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando isso vai passar?](https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH) | 2:36 |
 | 46 | [putz](https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [putz](https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl) | 1:48 |
 | 47 | [Vou Fugir](https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Vou Fugir](https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR) | 2:46 |
 | 48 | [Camomila](https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Camomila](https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL) | 2:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [No Azul do Teu Olhar](https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [No Azul do Teu Olhar](https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd) | 3:21 |
 | 80 | [Tento Decifrar](https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Vários Tipos de Amor](https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J) | 2:44 |
 
-Snapshot ID: `MCw4OGExMzY1MTU1ZTQ2ZGFjMmViYWNhMTcwZjM3ZTgxMmQwZDQ4MzUx`
+Snapshot ID: `MCw1OGM3ODRhY2I1ZDUyN2MyYzczYmVhZjAwNTBhYmIyNGNhN2NhNjAz`

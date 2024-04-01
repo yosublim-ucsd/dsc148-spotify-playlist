@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-262 songs - 15 hr 27 min
+263 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 | 2021-12-24 |  |
 | [Christmas Time Is Here \(Reimagined\)](https://open.spotify.com/track/1r25fgMWTtczQg9t87m5pv) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Christmas Time Is Here \(Reimagined\)](https://open.spotify.com/album/4Ij1lGWKoaRcRw8v7pzGpn) | 3:09 | 2023-12-02 |  |
 | [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-12-11 | 2023-09-14 |
-| [Christmas Valentine](https://open.spotify.com/track/3IGnC58kVTeQQGxEybWtaE) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 3:02 | 2022-12-11 |  |
+| [Christmas Valentine](https://open.spotify.com/track/3IGnC58kVTeQQGxEybWtaE) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 3:02 | 2022-12-11 | 2024-04-01 |
 | [Christmas Wish](https://open.spotify.com/track/1sKh3XHyI5sqa6qP2h6qMy) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Menna Christmas](https://open.spotify.com/album/11cc5FO58DTxFpjPQLBmVQ) | 2:27 | 2023-12-02 |  |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/16IA6igILbx316CPY6CwjP) | 5:12 | 2022-12-11 |  |
 | [December We'll Remember](https://open.spotify.com/track/4QFnLIjqUNsxQFd82z3xx8) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 2:39 | 2022-12-11 | 2024-01-02 |
@@ -104,6 +104,7 @@
 | [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-24 | 2024-01-02 |
 | [Home for Christmas \(feat\. Joe\) \(feat\. Joe\)](https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Christmas Card](https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU) | 4:00 | 2022-12-11 | 2024-03-28 |
 | [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 | 2022-12-11 | 2023-03-04 |
+| [Hope's Come to Town](https://open.spotify.com/track/0iaTCKTQX7lDPUdGe8Jkew) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Lovkn Christmas: Awaited One](https://open.spotify.com/album/5Mqx7GOwWjeZry3zqI364q) | 3:08 | 2023-12-15 |  |
 | [Hope's Come to Town](https://open.spotify.com/track/76yElxLOh6tjCQTQrLKxXJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Lovkn Christmas: Awaited One](https://open.spotify.com/album/2OlK6S3FFUPYYNzXTzisXE) | 3:08 | 2021-12-24 | 2024-02-05 |
 | [Humble People, Humble Christ \- Christmas Worship Bonus Track](https://open.spotify.com/track/0syu2w7DHVOHtiGq1eSIoa) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Gabriella Velez](https://open.spotify.com/artist/6RfRV0mC3oSKOAEbL1rSvO), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [No More Wasted Years](https://open.spotify.com/album/1qpgxwVd0GemgTLsBDKRBx) | 4:20 | 2023-12-02 |  |
 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 | 2021-12-24 |  |

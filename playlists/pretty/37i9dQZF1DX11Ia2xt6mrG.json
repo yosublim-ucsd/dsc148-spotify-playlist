@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Bzars en portada.",
-  "num_followers": 56580,
+  "num_followers": 56596,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGQxOTM0YzA5ZDhmODQxODhjOWNiOWQzN2FlNDI2MWYxYTVmYmM2",
+  "snapshot_id": "MCxlY2QxMWEzYWRkYmY3M2M2N2MyMDg5ZDc1MGJiNzJkZjZhMWQzM2Rk",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Feeling Alive",
-        "url": "https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Feeling Alive",
-      "url": "https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Pump up the Volume",
         "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 208780,
       "name": "Pump up the Volume",
       "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM"
+      },
+      "artists": [
+        {
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "El Pana Dero",
-        "url": "https://open.spotify.com/album/5B1upn3tokanXGtSeSuGHM"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "El Pana Dero",
-      "url": "https://open.spotify.com/track/6rlhaRVuyfMEbLqdY7iWEP"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Ayanami",
         "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
@@ -1207,22 +1191,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "UP (Bzars Remix)",
-        "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
+        "name": "El Pana Dero",
+        "url": "https://open.spotify.com/album/5B1upn3tokanXGtSeSuGHM"
       },
       "artists": [
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
         }
       ],
-      "duration_ms": 142372,
-      "name": "UP (Bzars Remix)",
-      "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
+      "duration_ms": 164160,
+      "name": "El Pana Dero",
+      "url": "https://open.spotify.com/track/6rlhaRVuyfMEbLqdY7iWEP"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1239,6 +1219,26 @@
       "duration_ms": 241874,
       "name": "LA LLORONA",
       "url": "https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "UP (Bzars Remix)",
+        "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "UP (Bzars Remix)",
+      "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Up & Down",
-        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 166611,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Someone Else's Love",
-        "url": "https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK"
-      },
-      "artists": [
-        {
-          "name": "Jake Silva",
-          "url": "https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL"
-        },
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        }
-      ],
-      "duration_ms": 174341,
-      "name": "Someone Else's Love",
-      "url": "https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 252579,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Someone Else's Love",
+        "url": "https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK"
+      },
+      "artists": [
+        {
+          "name": "Jake Silva",
+          "url": "https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL"
+        },
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        }
+      ],
+      "duration_ms": 174341,
+      "name": "Someone Else's Love",
+      "url": "https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/6Tpqc6l5IldSvPwXXe6hXH"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/55OQy8slZ9Y74xWUvysJEq"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 243762,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/6Tpqc6l5IldSvPwXXe6hXH"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/55OQy8slZ9Y74xWUvysJEq"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/1aWPYXlwhTSU3Z477jms6j"
-      },
-      "artists": [
-        {
-          "name": "Kertox",
-          "url": "https://open.spotify.com/artist/1jvwq1Nj0eSEeHMqRnwEDS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/48HANicqTEwFPCRA3tPpNz"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 183870,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/1aWPYXlwhTSU3Z477jms6j"
+      },
+      "artists": [
+        {
+          "name": "Kertox",
+          "url": "https://open.spotify.com/artist/1jvwq1Nj0eSEeHMqRnwEDS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/48HANicqTEwFPCRA3tPpNz"
     },
     {
       "added_at": "2024-03-29 06:00:00",

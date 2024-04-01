@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,622 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,635 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 15 | [Home](https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/6Y5dQYeqMOgGFQOaRIxga8) | 4:23 |
 | 16 | [As I Rise](https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9) | 2:20 |
 | 17 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
-| 18 | [The Perfect Pair \- Spotify Singles](https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Our Generation \- Spotify Singles](https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw) | 2:42 |
-| 19 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
+| 18 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
+| 19 | [The Perfect Pair \- Spotify Singles](https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Our Generation \- Spotify Singles](https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw) | 2:42 |
 | 20 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 |
 | 21 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9) | 3:53 |
 | 22 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 39 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
 | 40 | [Coastline \- Vancouver Sleep Clinic Remix](https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Coastline \(Vancouver Sleep Clinic Remix\)](https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR) | 3:06 |
 | 41 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 |
-| 42 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 |
-| 43 | [God's Plan](https://open.spotify.com/track/2R0QwDcfbDfJkAzgk6eC6y) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/5MVuDYaYnVAhohSuOYLaUD) | 2:46 |
-| 44 | [keep your head up](https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [keep your head up](https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf) | 3:26 |
+| 42 | [God's Plan](https://open.spotify.com/track/2R0QwDcfbDfJkAzgk6eC6y) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/5MVuDYaYnVAhohSuOYLaUD) | 2:46 |
+| 43 | [keep your head up](https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [keep your head up](https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf) | 3:26 |
+| 44 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 |
 | 45 | [Waterfalls](https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Georgia EP](https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN) | 4:24 |
 | 46 | [Dancing On My Own \- triple j Like A Version](https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dancing On My Own \(triple j Like A Version\)](https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf) | 3:50 |
 | 47 | [You've Got a Woman](https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [You've Got a Woman](https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S) | 3:25 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 81 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 |
 | 82 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
 | 83 | [Float On](https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Float On](https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb) | 2:56 |
-| 84 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 85 | [Everybody Wants To Rule The World](https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Everybody Wants To Rule The World](https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu) | 3:43 |
-| 86 | [When You're Smiling \- From "A Small Light: Episode 5"](https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [When You're Smiling \(From "A Small Light: Episode 5"\)](https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq) | 2:29 |
-| 87 | [Teardrop](https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Teardrop](https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y) | 3:26 |
+| 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Everybody Wants To Rule The World](https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu) | 3:43 |
+| 85 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
+| 86 | [Teardrop](https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Teardrop](https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y) | 3:26 |
+| 87 | [When You're Smiling \- From "A Small Light: Episode 5"](https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [When You're Smiling \(From "A Small Light: Episode 5"\)](https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq) | 2:29 |
 | 88 | [I Would Die 4 U](https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [I Would Die 4 U](https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA) | 3:19 |
 | 89 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 |
 | 90 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 99 | [On the Road Again](https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [On the Road Again](https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt) | 2:25 |
 | 100 | [Watermelon Sugar](https://open.spotify.com/track/3HuDP04EGt9J2aOYMo1cp0) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Watermelon Sugar](https://open.spotify.com/album/3OzQZtbkfRfir7LueAUh1i) | 3:34 |
 
-Snapshot ID: `MCw1ZGQ1YmU4YzNjODc4ODEwMGFhZjk4MjIzYzE1NzBkZDk0YTQ1NjUx`
+Snapshot ID: `MCxmOTQwZjVkMDc4NzM1YWFlNjdkZTliZmJlZmNkYzEzYWEzODAwZjY5`

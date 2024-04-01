@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 30115,
+  "num_followers": 30145,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDI0OTY4ODU0NDAyYjY1OGMwYTZkNjMyYTgxZDZiMzBjYjE0NmEx",
+  "snapshot_id": "MCw0Y2QxYmZjYmM4NGQ0MDcwY2Q5YTk1YWUxZmU3Zjc2OTg5YmY0ZjQ2",
   "tracks": [
     {
       "added_at": "2024-03-04 16:08:51",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
         "name": "Kicker",
         "url": "https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 186213,
       "name": "East of Eden",
       "url": "https://open.spotify.com/track/2Wc2tcQl7cPetPKeXH3GD3"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2024-03-04 16:08:51",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
-        "name": "Fingertips",
-        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 246147,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/6vITFXjXN3i1VwWI1iv3fc"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
         "name": "Pretend",
         "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 213968,
       "name": "Younger",
       "url": "https://open.spotify.com/track/1Ujt4hi9SHiMAxyCjJd1Kk"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
+        "name": "Fingertips",
+        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 246147,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/6vITFXjXN3i1VwWI1iv3fc"
     },
     {
       "added_at": "2024-03-04 16:08:51",

@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Ege Can Sal.",
-  "num_followers": 59731,
+  "num_followers": 59748,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGYyYTFkNzJiNmI5NjI1ODFkNGRiOGZkMmUwYTg2NjM0ZDFhMGQ5",
+  "snapshot_id": "MCxkMGE2Nzk0Y2QwMjI1ZDZmMDMzODRmYmI0MjJjM2E2MzQyMWVhMGYw",
   "tracks": [
     {
       "added_at": "2024-03-17 21:01:15",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "CAN YOU UNDERSTAND ME?",
-        "url": "https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 208907,
-      "name": "CAN YOU UNDERSTAND ME?",
-      "url": "https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 146086,
       "name": "NANA",
       "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "CAN YOU UNDERSTAND ME?",
+        "url": "https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "duration_ms": 208907,
+      "name": "CAN YOU UNDERSTAND ME?",
+      "url": "https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "The Whole Story",
+        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Beautiful Everything",
+      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Discord-disco",
         "url": "https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 197712,
       "name": "Discord-disco",
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "RECHERCHE&DESTRUCTION",
-        "url": "https://open.spotify.com/album/7KbUIt8qVNwQK8WFze3nS4"
-      },
-      "artists": [
-        {
-          "name": "Jolagreen23",
-          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
-        }
-      ],
-      "duration_ms": 227920,
-      "name": "12HEURES MINUIT",
-      "url": "https://open.spotify.com/track/3xSi7D0gRrcPMV89JbxkBp"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "RECHERCHE&DESTRUCTION",
+        "url": "https://open.spotify.com/album/7KbUIt8qVNwQK8WFze3nS4"
+      },
+      "artists": [
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "12HEURES MINUIT",
+      "url": "https://open.spotify.com/track/3xSi7D0gRrcPMV89JbxkBp"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "8h sonne",
         "url": "https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "The Whole Story",
-        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
       },
       "artists": [
         {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
         }
       ],
-      "duration_ms": 258560,
-      "name": "Beautiful Everything",
-      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
+      "duration_ms": 177266,
+      "name": "La loi du papillon",
+      "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -787,22 +803,6 @@
       "duration_ms": 203011,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "La loi du papillon",
-      "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "downtime",
         "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
       },
@@ -869,20 +885,20 @@
       "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
+      "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+        "name": "Accelerator",
+        "url": "https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 191160,
-      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
+      "duration_ms": 171705,
+      "name": "Accelerator",
+      "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1045,22 +1061,6 @@
       "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Accelerator",
-        "url": "https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 171705,
-      "name": "Accelerator",
-      "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
-    },
-    {
       "added_at": "2024-03-17 21:01:15",
       "album": {
         "name": "Central Park",
@@ -1081,24 +1081,20 @@
       "url": "https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
+      "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "El Disfraz",
-        "url": "https://open.spotify.com/album/3mGHU6Au7nS9rOZoDlCvAP"
+        "name": "Avasa",
+        "url": "https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh"
       },
       "artists": [
         {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+          "name": "Swastik The Band",
+          "url": "https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V"
         }
       ],
-      "duration_ms": 164138,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv"
+      "duration_ms": 376854,
+      "name": "Jogi",
+      "url": "https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1115,22 +1111,6 @@
       "duration_ms": 203700,
       "name": "Super Ball",
       "url": "https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Avasa",
-        "url": "https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh"
-      },
-      "artists": [
-        {
-          "name": "Swastik The Band",
-          "url": "https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V"
-        }
-      ],
-      "duration_ms": 376854,
-      "name": "Jogi",
-      "url": "https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1151,22 +1131,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Alta Tensione",
-        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
-      },
-      "artists": [
-        {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Alta Tensione",
-      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Bad Timing",
         "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
       },
@@ -1179,6 +1143,22 @@
       "duration_ms": 208978,
       "name": "Bad Timing",
       "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Alta Tensione",
+        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "Alta Tensione",
+      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1215,6 +1195,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "duration_ms": 220632,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Flowers In Mourning",
         "url": "https://open.spotify.com/album/07ERyFTIZ7BKH50XMt3y5U"
       },
@@ -1247,38 +1243,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "VENERE",
-        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
-      },
-      "artists": [
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "VENERE",
-      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
-      },
-      "artists": [
-        {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
-        }
-      ],
-      "duration_ms": 220632,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "DOGHOUSE",
         "url": "https://open.spotify.com/album/5nUioUacb3Nwt3nMDPi9Jx"
       },
@@ -1299,6 +1263,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Ud Ke Chali",
         "url": "https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f"
       },
@@ -1311,22 +1291,6 @@
       "duration_ms": 235172,
       "name": "Ud Ke Chali",
       "url": "https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
-      },
-      "artists": [
-        {
-          "name": "Love Remain",
-          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
-        }
-      ],
-      "duration_ms": 187775,
-      "name": "LDN GRLS - Gboyega's Theme",
-      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1351,22 +1315,34 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
       },
       "artists": [
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
         }
       ],
-      "duration_ms": 130602,
-      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
+      "duration_ms": 187775,
+      "name": "LDN GRLS - Gboyega's Theme",
+      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7JIW8bW2IvO0cSmrPMth3z"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0f8vJ5TNG54ymfv7b70NF7"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1387,6 +1363,26 @@
       "duration_ms": 158507,
       "name": "Mi\u0142o\u015b\u0107 w czasach",
       "url": "https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 130602,
+      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1581,6 +1577,22 @@
       "url": "https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc"
     },
     {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "duration_ms": 125887,
+      "name": "Exclamation Mark",
+      "url": "https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK"
+    },
+    {
       "added_at": "2024-03-22 06:00:00",
       "album": {
         "name": "Disposition",
@@ -1599,38 +1611,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Prepare Yourself!",
-        "url": "https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 125887,
-      "name": "Exclamation Mark",
-      "url": "https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7JIW8bW2IvO0cSmrPMth3z"
-      },
-      "artists": [
-        {
-          "name": "Kate Hudson",
-          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/0f8vJ5TNG54ymfv7b70NF7"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "A Good Life",
         "url": "https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ"
       },
@@ -1645,20 +1625,20 @@
       "url": "https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh"
     },
     {
-      "added_at": "2024-03-22 06:00:00",
+      "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "When It's Over",
-        "url": "https://open.spotify.com/album/2irzSmx5N2QvP3YLJXkRHD"
+        "name": "When You Call",
+        "url": "https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz"
       },
       "artists": [
         {
-          "name": "evi",
-          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
+          "name": "Diana Goldberg",
+          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
         }
       ],
-      "duration_ms": 184005,
-      "name": "When It's Over",
-      "url": "https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI"
+      "duration_ms": 185440,
+      "name": "When You Call",
+      "url": "https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1675,6 +1655,22 @@
       "duration_ms": 197219,
       "name": "Unhappier",
       "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "When It's Over",
+        "url": "https://open.spotify.com/album/2irzSmx5N2QvP3YLJXkRHD"
+      },
+      "artists": [
+        {
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
+        }
+      ],
+      "duration_ms": 184005,
+      "name": "When It's Over",
+      "url": "https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1763,6 +1759,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "DUST OFF / START AGAIN",
+        "url": "https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "DUST OFF / START AGAIN",
+      "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Una Cumbia Triste",
         "url": "https://open.spotify.com/album/5HmM3U9Y5OIoloBfHAbza6"
       },
@@ -1783,38 +1795,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "DUST OFF / START AGAIN",
-        "url": "https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "DUST OFF / START AGAIN",
-      "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "When You Call",
-        "url": "https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz"
-      },
-      "artists": [
-        {
-          "name": "Diana Goldberg",
-          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "When You Call",
-      "url": "https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "i told you we're going home",
         "url": "https://open.spotify.com/album/7lQFXgZOtx6qbPT6Wg0SQW"
       },
@@ -1829,20 +1809,36 @@
       "url": "https://open.spotify.com/track/09xiz53qcvPDl1j2TqzS80"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
+      "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Back The Way We Came",
-        "url": "https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH"
+        "name": "Knock, Knock (Extended Version)",
+        "url": "https://open.spotify.com/album/1OyYinHCauMPSic0CuCBeE"
       },
       "artists": [
         {
-          "name": "Coming Up Roses",
-          "url": "https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb"
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
         }
       ],
-      "duration_ms": 221734,
-      "name": "Back The Way We Came",
-      "url": "https://open.spotify.com/track/0asqqiUE6xJu038O4a1m2S"
+      "duration_ms": 209751,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/1McaBph49HIifhnGMg4a1f"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "nobori",
+        "url": "https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 130220,
+      "name": "Assaji",
+      "url": "https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1863,34 +1859,34 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "nobori",
-        "url": "https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde"
+        "name": "Back The Way We Came",
+        "url": "https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH"
       },
       "artists": [
         {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+          "name": "Coming Up Roses",
+          "url": "https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb"
         }
       ],
-      "duration_ms": 130220,
-      "name": "Assaji",
-      "url": "https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc"
+      "duration_ms": 221734,
+      "name": "Back The Way We Came",
+      "url": "https://open.spotify.com/track/0asqqiUE6xJu038O4a1m2S"
     },
     {
-      "added_at": "2024-03-22 06:00:00",
+      "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Knock, Knock (Extended Version)",
-        "url": "https://open.spotify.com/album/1OyYinHCauMPSic0CuCBeE"
+        "name": "BUTCHER'S BIN",
+        "url": "https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R"
       },
       "artists": [
         {
-          "name": "Heather Russell",
-          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
         }
       ],
-      "duration_ms": 209751,
-      "name": "Curtain Call",
-      "url": "https://open.spotify.com/track/1McaBph49HIifhnGMg4a1f"
+      "duration_ms": 240630,
+      "name": "BUTCHER'S BIN",
+      "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
     }
   ],
   "unique_name": "RADAR Global ",

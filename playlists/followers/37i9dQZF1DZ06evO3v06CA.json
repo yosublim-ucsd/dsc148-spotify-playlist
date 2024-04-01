@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 192574,
+  "2024-04-01": 192615,
   "date_first_scraped": "2023-04-29",
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
   "name": "This Is Willie Nelson",
@@ -103,7 +103,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 212666,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 173001,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 130733,
       "name": "I Gotta Get Drunk (with Willie Nelson)",
       "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"
@@ -1918,6 +1918,50 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29843,
+      "name": "SMOKE HOUR II",
+      "url": "https://open.spotify.com/track/5tInFhbFRLTM4rFu6yVSJA"
+    },
+    {
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50721,
+      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
+      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
+    },
+    {
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -1963,7 +2007,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 230933,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"

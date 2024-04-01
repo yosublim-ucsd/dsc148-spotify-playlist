@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 38093,
+  "2024-04-01": 38491,
   "date_first_scraped": "2023-07-28",
   "description": "Sch\u00f6ne Ostern mit Osterhase, Ostereiern und der ganzen Familie.",
   "name": "Familienzeit: Ostern",
@@ -795,7 +795,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 66127,
       "name": "Das Schneegl\u00f6ckchen",
       "url": "https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu"
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 159000,
       "name": "Die Biene maja",
       "url": "https://open.spotify.com/track/37Ya452sNHfucQVaKPM522"
@@ -3921,7 +3921,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 146481,
       "name": "Kuckuck, kuckuck ruft's aus dem Wald",
       "url": "https://open.spotify.com/track/7LRcMwbgLyt3YBguwZcKNw"
@@ -6033,7 +6033,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 136705,
       "name": "Summ, summ, summ",
       "url": "https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE"

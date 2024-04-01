@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 33423,
+  "num_followers": 33433,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTBmY2Q1OTMxODNhNzlkYzU2Y2M4NzhkZjAyNzk1YTU3ZjRjMzgy",
+  "snapshot_id": "MCwxMDIyMGRjNTNlNjJlMDFmNTcxM2RlNTVmN2RhNzY4NjFlY2MxMjJj",
   "tracks": [
     {
       "added_at": "2023-09-20 01:51:29",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/26VrL8GS1E84JuHQdVqaXQ"
-      },
-      "artists": [
-        {
-          "name": "Quarterback",
-          "url": "https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3"
-        }
-      ],
-      "duration_ms": 309520,
-      "name": "\u96e8\u548c\u773c\u6dda",
-      "url": "https://open.spotify.com/track/3jpP2BqNA5eh8mtmcaTWet"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u611b\u60c5\u842c\u6b72",
         "url": "https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 222773,
       "name": "\u96e8\u7720",
       "url": "https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/26VrL8GS1E84JuHQdVqaXQ"
+      },
+      "artists": [
+        {
+          "name": "Quarterback",
+          "url": "https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3"
+        }
+      ],
+      "duration_ms": 309520,
+      "name": "\u96e8\u548c\u773c\u6dda",
+      "url": "https://open.spotify.com/track/3jpP2BqNA5eh8mtmcaTWet"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "\u91d1\u667a\u5a1f\u7d93\u5178\u91cd\u751f\u8f2f",
+        "url": "https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC"
+      },
+      "artists": [
+        {
+          "name": "\u5a03\u5a03",
+          "url": "https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "\u5927\u96e8",
+      "url": "https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u4f60\u6240\u4e0d\u77e5\u9053\u7684\u675c\u632f\u7199\u4e4b\u5167\u90e8\u6574\u4fee",
         "url": "https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 254248,
       "name": "\u59b3\u9084\u6015\u5927\u96e8\u55ce - \u570b\u8a9e",
       "url": "https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "\u91d1\u667a\u5a1f\u7d93\u5178\u91cd\u751f\u8f2f",
-        "url": "https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC"
-      },
-      "artists": [
-        {
-          "name": "\u5a03\u5a03",
-          "url": "https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg"
-        }
-      ],
-      "duration_ms": 289226,
-      "name": "\u5927\u96e8",
-      "url": "https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u9673\u7dba\u8c9e \u7cbe\u9078",
-        "url": "https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "\u96e8\u5929\u7684\u5c3e\u5df4 - \u6eec\u5c3e\u5c0f\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u6211\u770b\u898b\u7684\u4e16\u754c",
         "url": "https://open.spotify.com/album/50A7MTR8Qw3gPz4rLphCk2"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u5927\u96e8\u904e\u5f8c",
-        "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
+        "name": "\u9673\u7dba\u8c9e \u7cbe\u9078",
+        "url": "https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY"
       },
       "artists": [
         {
-          "name": "\u8c9d\u514b\u5c0f\u59d0Miss Bac.",
-          "url": "https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK"
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
         }
       ],
-      "duration_ms": 247164,
-      "name": "\u5927\u96e8\u904e\u5f8c",
-      "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
+      "duration_ms": 215280,
+      "name": "\u96e8\u5929\u7684\u5c3e\u5df4 - \u6eec\u5c3e\u5c0f\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -939,6 +923,22 @@
       "duration_ms": 230863,
       "name": "\u5beb\u7d66\u96e8\u5929\u7684\u6b4c",
       "url": "https://open.spotify.com/track/0TTqTxpQLrlKyfjgtowNgP"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u5927\u96e8\u904e\u5f8c",
+        "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
+      },
+      "artists": [
+        {
+          "name": "\u8c9d\u514b\u5c0f\u59d0Miss Bac.",
+          "url": "https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK"
+        }
+      ],
+      "duration_ms": 247164,
+      "name": "\u5927\u96e8\u904e\u5f8c",
+      "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
     },
     {
       "added_at": "2023-09-20 01:51:29",

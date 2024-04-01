@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Laurence Nerbonne",
-  "num_followers": 40109,
+  "num_followers": 40119,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWU3NzY3MGMxNGFkMTAxMjE5MzE4Y2UxZjQyMjEzMDk2MWI2ZGIx",
+  "snapshot_id": "MCxiOTI0YjE3MGY3NzZlMjBmMjExNmJlOWY5ZjA5ZmY1MWNkMDcxNTkx",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -243,26 +243,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 165353,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 165353,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "HHHH",
+        "url": "https://open.spotify.com/album/0uleKHAzZR8auY98Vddkxc"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/09iCConrp2c78DObRUgiNP"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
         "url": "https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 183453,
       "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
       "url": "https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "HHHH",
-        "url": "https://open.spotify.com/album/0uleKHAzZR8auY98Vddkxc"
-      },
-      "artists": [
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/09iCConrp2c78DObRUgiNP"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Si t'es pas l\u00e0",
         "url": "https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 102000,
       "name": "blue (yes, i love you)",
       "url": "https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Recommence-moi",
+        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Le Rang des \u00c9toiles",
         "url": "https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph"
       },
@@ -819,18 +835,42 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Recommence-moi",
-        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
+        "name": "Matata",
+        "url": "https://open.spotify.com/album/6loazP7tFix6vicTNHi2Qs"
       },
       "artists": [
         {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
         }
       ],
-      "duration_ms": 196334,
-      "name": "Recommence-moi",
-      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+      "duration_ms": 206950,
+      "name": "Matata",
+      "url": "https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Dis-toi que c'est la vie",
+        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "duration_ms": 147405,
+      "name": "Dis-toi que c'est la vie",
+      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -851,54 +891,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Multicolore",
-        "url": "https://open.spotify.com/album/5pshEhto6fETHUMWA42en8"
+        "name": "Bushi Tape 3",
+        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
       },
       "artists": [
         {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Multicolore",
-      "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC"
-      },
-      "artists": [
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
         },
         {
-          "name": "ASHE 22",
-          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 242869,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Dis-toi que c'est la vie",
-        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
-      },
-      "artists": [
-        {
-          "name": "Keen' V",
-          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
-        }
-      ],
-      "duration_ms": 147405,
-      "name": "Dis-toi que c'est la vie",
-      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
+      "duration_ms": 184360,
+      "name": "Oc\u00e9ane",
+      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

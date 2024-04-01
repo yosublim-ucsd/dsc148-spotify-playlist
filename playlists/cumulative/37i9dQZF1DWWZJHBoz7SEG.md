@@ -4,7 +4,7 @@
 
 > Aprovecha hasta la última gota de vacación en compañía de Carin Leon y Leon Bridges
 
-5,523 songs - 12 day 13 hr 45 min
+5,524 songs - 12 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2641,7 +2641,8 @@
 | [Little Magic](https://open.spotify.com/track/6axi7nQTwXEwLMUwsLyCdt) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Little Magic](https://open.spotify.com/album/29L5GAFo7YWC8wpj09Q11A) | 3:32 | 2022-07-01 | 2022-07-09 |
 | [Live Again \(feat\. Halo Maud\)](https://open.spotify.com/track/0TX2gG401Wvc0SMRU0V74M) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Live Again \(feat\. Halo Maud\)](https://open.spotify.com/album/2VWYSkeqaMC9lXlf6gNp5T) | 5:00 | 2023-06-30 | 2023-07-08 |
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2023-10-06 | 2023-10-14 |
-| [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 | 2024-03-29 |  |
+| [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 | 2024-03-29 | 2024-04-01 |
+| [Live Today](https://open.spotify.com/track/3wAUDos7BPWlHBetCruaD1) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Notebook Fantasy](https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX) | 2:52 | 2024-03-29 |  |
 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 | 2023-04-28 | 2023-05-06 |
 | [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 | 2022-08-12 | 2022-08-20 |
 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 | 2022-09-02 | 2022-09-10 |

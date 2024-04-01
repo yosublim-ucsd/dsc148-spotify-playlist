@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43215,
+  "num_followers": 43213,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODhmMTcwZmM2ZDY3YmZmMWQ1YmFkMjliM2ZiN2UyM2RjYWM5NDA4",
+  "snapshot_id": "MCw1NGQ0ZDRiNTNmYmM2ZTljNWEyNDA5MWY5Nzc2YzZkN2M4ODRjNjFk",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -145,20 +145,20 @@
       "url": "https://open.spotify.com/track/1PfxTi4Ea4gAU7SD7hdE8y"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+        "name": "For The Streets",
+        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
       },
       "artists": [
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
+      "duration_ms": 145605,
+      "name": "For The Streets",
+      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -177,20 +177,20 @@
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "For The Streets",
-        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
       "artists": [
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 145605,
-      "name": "For The Streets",
-      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1013,26 +1013,6 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Lost In Melody (Deluxe)",
-        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 144869,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Shadows",
@@ -1055,6 +1035,42 @@
       "duration_ms": 159313,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Lost In Melody (Deluxe)",
+        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 144869,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1097,20 +1113,24 @@
       "url": "https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-03-03 05:16:10",
       "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS"
       },
       "artists": [
         {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
-      "duration_ms": 163720,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
+      "duration_ms": 242866,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1133,26 +1153,6 @@
       "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "WHAT U ON",
@@ -1171,6 +1171,22 @@
       "duration_ms": 153110,
       "name": "WHAT U ON",
       "url": "https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love Hate",
+        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 156309,
+      "name": "Love Hate",
+      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1261,22 +1277,6 @@
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Love Hate",
-        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 156309,
-      "name": "Love Hate",
-      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "7",
@@ -1349,42 +1349,6 @@
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Eimaral Sol",
-          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
-        }
-      ],
-      "duration_ms": 199563,
-      "name": "Swerve",
-      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Weak For Me",
-        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
-      },
-      "artists": [
-        {
-          "name": "Baby B",
-          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Weak For Me",
-      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Speak Your Mine",
@@ -1403,18 +1367,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "They Gon Lie",
-        "url": "https://open.spotify.com/album/2nZfTjkq0HQprN86XdcK5w"
+        "name": "Weak For Me",
+        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
       },
       "artists": [
         {
-          "name": "Lyrica Anderson",
-          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
+          "name": "Baby B",
+          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
         }
       ],
-      "duration_ms": 137260,
-      "name": "They Gon Lie",
-      "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
+      "duration_ms": 171000,
+      "name": "Weak For Me",
+      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1437,6 +1401,26 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
+        }
+      ],
+      "duration_ms": 199563,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "The Hurtbook (Homegirl Pack)",
@@ -1455,6 +1439,22 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "They Gon Lie",
+        "url": "https://open.spotify.com/album/2nZfTjkq0HQprN86XdcK5w"
+      },
+      "artists": [
+        {
+          "name": "Lyrica Anderson",
+          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
+        }
+      ],
+      "duration_ms": 137260,
+      "name": "They Gon Lie",
+      "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1533,6 +1533,22 @@
       "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Needs & Wants",
+        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "Needs & Wants",
+      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Body Talk",
@@ -1563,22 +1579,6 @@
       "duration_ms": 198888,
       "name": "How Many",
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Needs & Wants",
-        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "Needs & Wants",
-      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
     },
     {
       "added_at": "2023-07-14 17:29:23",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -1663,6 +1647,22 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "who's loving you?",
@@ -1779,6 +1763,22 @@
       "duration_ms": 219662,
       "name": "PT. II (DRAKE & DRIVE)",
       "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
+    },
+    {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "I'M THE PROBLEM",
+        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "Blame Yourself",
+      "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
     }
   ],
   "unique_name": "Some Kinda Way",

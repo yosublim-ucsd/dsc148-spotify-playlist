@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
+        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
+      },
+      "artists": [
+        {
+          "name": "Pur",
+          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280852,
+      "name": "Abenteuerland",
+      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
+    },
+    {
+      "album": {
         "name": "Dorfdisko",
         "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 156356,
       "name": "Freitag, Samstag",
       "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"

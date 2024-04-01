@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 685720,
+  "num_followers": 685769,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzJiZTViNDM2ZjkwZmMxMzE0MjM2N2MwYTA4YTk3NWNmZjlmOGZj",
+  "snapshot_id": "MCw4NDE5MzBiZTZjZTBjYTBjZTY5MTRiZjQzN2MwZDU0MDhhMWIxNTUw",
   "tracks": [
     {
       "added_at": "2024-01-09 15:49:37",
@@ -499,18 +499,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Sweet Child o' Mine",
-        "url": "https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90"
+        "name": "Forever Young (From NBC's Parenthood)",
+        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
       "artists": [
         {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 302880,
-      "name": "Sweet Child o' Mine",
-      "url": "https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR"
+      "duration_ms": 261370,
+      "name": "Forever Young - From NBC's Parenthood",
+      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -531,22 +535,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Forever Young (From NBC's Parenthood)",
-        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
+        "name": "Sweet Child o' Mine",
+        "url": "https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
         }
       ],
-      "duration_ms": 261370,
-      "name": "Forever Young - From NBC's Parenthood",
-      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+      "duration_ms": 302880,
+      "name": "Sweet Child o' Mine",
+      "url": "https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
-        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 241960,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
+        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
+        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
+      "duration_ms": 241960,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "I Melt with You",
-        "url": "https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS"
-      },
-      "artists": [
-        {
-          "name": "Daulton Hopkins",
-          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "I Melt with You",
-      "url": "https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "I Melt with You",
+        "url": "https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS"
+      },
+      "artists": [
+        {
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Dreams (Lanie's Version)",
         "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 260000,
       "name": "Dreams - Lanie's Version",
       "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
     },
     {
       "added_at": "2024-01-09 15:49:37",

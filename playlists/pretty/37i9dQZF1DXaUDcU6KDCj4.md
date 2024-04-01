@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Secret Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,431 likes - 152 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,466 likes - 152 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 151 | [Revival](https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:05 |
 | 152 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 
-Snapshot ID: `MCw2ZGQ2NWIyNWE0YWRjZGI5ODg2NDU3MjEwNjA2ZWFiN2FhNGVmZGI1`
+Snapshot ID: `MCxiNDNjYjBmZWMyNjg1MGY5ZGIwMWNlYjYxMjk1NzBmZDEyNjlmMmVj`

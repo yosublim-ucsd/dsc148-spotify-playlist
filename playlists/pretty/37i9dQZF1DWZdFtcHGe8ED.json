@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 543704,
+  "num_followers": 543799,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmUyZGIwMGI1OWE1Y2IxY2MyNmVkOTcyZGVmYzVmN2ExYjJiYmIy",
+  "snapshot_id": "MCxjMjQ3YTEwYmRkNTE4YTkxODI3NmY3MDY2OTgzODdkNjhmMDQyMTNm",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Humanoid",
-        "url": "https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 275426,
-      "name": "Humanoid",
-      "url": "https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Years of Decay",
         "url": "https://open.spotify.com/album/5cIvu6047CsrlgRcdwd2HQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 275386,
       "name": "Elimination",
       "url": "https://open.spotify.com/track/6lWFQo5NuR3y8Q6CHIRatA"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Humanoid",
+        "url": "https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 275426,
+      "name": "Humanoid",
+      "url": "https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Slaughter In The Vatican",
-        "url": "https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT"
-      },
-      "artists": [
-        {
-          "name": "Exhorder",
-          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
-        }
-      ],
-      "duration_ms": 368840,
-      "name": "Desecrator",
-      "url": "https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Mental Vortex",
         "url": "https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 330986,
       "name": "Semtex Revolution",
       "url": "https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Slaughter In The Vatican",
+        "url": "https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT"
+      },
+      "artists": [
+        {
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+        }
+      ],
+      "duration_ms": 368840,
+      "name": "Desecrator",
+      "url": "https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX"
     },
     {
       "added_at": "2024-03-08 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Elohim",
-  "num_followers": 977452,
+  "num_followers": 977475,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjAwNzlmOGRiODc2M2JiYTM0NTc4OTk5ZDUzMTQyM2NlNzYyYjhh",
+  "snapshot_id": "MCxhY2ZjMGMxZTQ5ZTBjMWEzODU3M2JkODUxZjFmOTNkYTMxZWM1Mzdl",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1457,24 +1457,24 @@
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Shut Shit Down",
-        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Shut Shit Down",
-      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1497,24 +1497,24 @@
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+        "name": "Shut Shit Down",
+        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         },
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+      "duration_ms": 162373,
+      "name": "Shut Shit Down",
+      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
     },
     {
-      "added_at": "2023-12-15 05:13:07",
-      "album": {
-        "name": "In The Place",
-        "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
-      },
-      "artists": [
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "In The Place",
-      "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Criminal",
@@ -1659,6 +1643,22 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+    },
+    {
+      "added_at": "2023-12-15 05:13:07",
+      "album": {
+        "name": "In The Place",
+        "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "In The Place",
+      "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1705,6 +1705,22 @@
       "url": "https://open.spotify.com/track/2WiYG2Dgfqft21PBbF4Lxm"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "SAXORiDDiM",
+        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "SAXORiDDiM",
+      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
+    },
+    {
       "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "High Voltage (with JT Foley)",
@@ -1727,22 +1743,6 @@
       "duration_ms": 238795,
       "name": "High Voltage (with JT Foley)",
       "url": "https://open.spotify.com/track/6b7noKS8HNmHhphZN643dD"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "SAXORiDDiM",
-        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "SAXORiDDiM",
-      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1801,26 +1801,6 @@
       "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Rude Boy (EAZYBAKED REMIX)",
-        "url": "https://open.spotify.com/album/1yf6gLN59wp1eWCCLqzQe7"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "EAZYBAKED",
-          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
-        }
-      ],
-      "duration_ms": 219427,
-      "name": "Rude Boy - EAZYBAKED Remix",
-      "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
-    },
-    {
       "added_at": "2024-01-05 05:03:38",
       "album": {
         "name": "Hot In Here",
@@ -1841,6 +1821,26 @@
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Rude Boy (EAZYBAKED REMIX)",
+        "url": "https://open.spotify.com/album/1yf6gLN59wp1eWCCLqzQe7"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        }
+      ],
+      "duration_ms": 219427,
+      "name": "Rude Boy - EAZYBAKED Remix",
+      "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
+    },
+    {
       "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "BOSS FIGHT",
@@ -1855,6 +1855,30 @@
       "duration_ms": 167176,
       "name": "BOSS FIGHT",
       "url": "https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "This Mixtape is Fire TOO",
+        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        }
+      ],
+      "duration_ms": 141126,
+      "name": "Okay Okay (with Eptic and IDK)",
+      "url": "https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1887,30 +1911,6 @@
       "duration_ms": 228413,
       "name": "Walk On Water (Wooli & Trivecta Remix)",
       "url": "https://open.spotify.com/track/50y6kX6Sd8wK5lZJcyAmX0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "This Mixtape is Fire TOO",
-        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
-        }
-      ],
-      "duration_ms": 141126,
-      "name": "Okay Okay (with Eptic and IDK)",
-      "url": "https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2029,24 +2029,24 @@
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "DYSPHORIA",
-        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
         },
         {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
         }
       ],
-      "duration_ms": 157637,
-      "name": "DYSPHORIA",
-      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
+      "duration_ms": 184000,
+      "name": "RAVEN",
+      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
     },
     {
       "added_at": "2023-10-20 04:01:00",

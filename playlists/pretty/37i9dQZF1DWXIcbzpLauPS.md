@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,025 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,123 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 75 | [Glass Preacher](https://open.spotify.com/track/62aS6XJyJSTQ55QTPmLad2) | [Dealer](https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP) | [Glass Preacher](https://open.spotify.com/album/0CjnuwMm9QLkDbRmKWFcJA) | 3:13 |
 | 76 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 |
 | 77 | [Venom](https://open.spotify.com/track/1eHwmfsLxs3IYQFh4l2Dad) | [Ankor](https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj) | [Venom](https://open.spotify.com/album/4bvg3nL0coX5h6n9zjFnco) | 3:37 |
-| 78 | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/03bMtNTGGn75YAMuiNT4zM) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/album/0YJse223Mkv5Ie0nTU4r3v) | 3:23 |
+| 78 | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/0NuzLCfyqRnN8hAgw7rAPJ) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Death Is Little More](https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ) | 3:23 |
 | 79 | [don't let it hurt me](https://open.spotify.com/track/3ZhgL4UrPX2vUL9ryRtvZh) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [there is a place for me on earth](https://open.spotify.com/album/52Ztezv5THlWDf73gDjERO) | 3:53 |
 | 80 | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Kane Gelaznik](https://open.spotify.com/artist/6tEcSUj4wC1th01MEOTelB) | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y) | 3:04 |
 | 81 | [Vertigo](https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Vertigo](https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV) | 3:39 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 124 | [Dead Souls](https://open.spotify.com/track/7aa7J2weJ0mVLu4xHEKiKu) | [Substation](https://open.spotify.com/artist/4uCcS8G5SOw5BGO67pngjC) | [Dead Souls](https://open.spotify.com/album/0yyK6w1nNjDq3YutrQMvk1) | 3:46 |
 | 125 | [Absence](https://open.spotify.com/track/0bGJxR2A2yTGCOJwcEwktz) | [Skylene](https://open.spotify.com/artist/2Rlhr0EaeREpWAkL9fctT9) | [Absence](https://open.spotify.com/album/0o5VRf3w65zCDVBVuRq9fB) | 5:45 |
 
-Snapshot ID: `MCw0MTA4YmU5YzNlYzRkMWVlZDY5MzYzZjRhODZlMGIxMjU4MDMwZmRk`
+Snapshot ID: `MCxhYWYzMTFmMDM5YmU0OGQzYjk1ZjEzYzg3NzIxNDAyNzc5NjdmYzNk`

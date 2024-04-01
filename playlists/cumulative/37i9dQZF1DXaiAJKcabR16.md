@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-107 songs - 7 hr 10 min
+108 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Bad Moves](https://open.spotify.com/track/5Ep66lg6KdXjX30U5SBQRQ) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [A Celebration](https://open.spotify.com/album/6VH7MDCK71rSCmULCa8hS7) | 4:06 | 2021-07-30 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/4pF0B8Fae3dQrsuWds2iQ9) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [DOROTHY](https://open.spotify.com/album/0BLEb3WftkWqtcetytTYIc) | 3:09 | 2021-07-30 | 2022-07-29 |
 | [Bang Bang Bang](https://open.spotify.com/track/5JNjURdjUrcEgUPq2SjkSC) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Swagger, Steel & Spurs](https://open.spotify.com/album/01zaNaojDp8OJJ1J60gm6R) | 3:09 | 2021-07-30 |  |
-| [Big Boss Man](https://open.spotify.com/track/6YZm2uEonZWcnOO2Uo2Fyb) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [The Northern South, Vol\. 1](https://open.spotify.com/album/0qvm65mwPYGTQL33VxDJ3X) | 3:45 | 2021-07-30 |  |
+| [Big Boss Man](https://open.spotify.com/track/2B3polmfjGWukRHCdMYpSh) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Bluesy Swagger](https://open.spotify.com/album/7MR6u8qEC5xfbFmBiCdrIs) | 3:45 | 2023-09-29 |  |
+| [Big Boss Man](https://open.spotify.com/track/6YZm2uEonZWcnOO2Uo2Fyb) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [The Northern South, Vol\. 1](https://open.spotify.com/album/0qvm65mwPYGTQL33VxDJ3X) | 3:45 | 2021-07-30 | 2024-04-01 |
 | [Big Boss Man](https://open.spotify.com/track/7b1PDaZvnxGParUPi9ViRJ) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [The Northern South Vol\. 1](https://open.spotify.com/album/72xzyJVoNDVnudo87GZtzX) | 3:45 | 2021-07-30 | 2022-07-29 |
 | [Bloodshot \- Demo](https://open.spotify.com/track/00AVBnaQz7yRv8NTpNlCVU) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lovers](https://open.spotify.com/album/1pUKusc74fo1nc4reY2S5g) | 2:52 | 2021-07-30 |  |
 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 | 2021-07-30 |  |

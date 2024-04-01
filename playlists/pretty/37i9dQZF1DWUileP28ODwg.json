@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 344399,
+  "num_followers": 344660,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmFiYjYwODQxMjgzMTc2YWU5M2ZiOTViMmFiNGE2NWU3MDM5NzNm",
+  "snapshot_id": "MCxmNGRkOWJhZGNlNGIyODMyMjA1ZjNjOWUzYmRmMTc0MzZlNjEyMTlh",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Make It Through",
+        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192196,
+      "name": "Make It Through",
+      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "You Will Be Found",
         "url": "https://open.spotify.com/album/2pTMEwEKSdrr7tBsLbROrz"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 221400,
       "name": "You Will Be Found",
       "url": "https://open.spotify.com/track/37JSM2sf79iQfvpBQx1W3L"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Make It Through",
-        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 192196,
-      "name": "Make It Through",
-      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "My Light (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 147390,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 208680,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "My Light (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 147390,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Narrow Road",
-        "url": "https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 265911,
-      "name": "Narrow Road",
-      "url": "https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Love Me Like I Am (with Jordin Sparks)",
         "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 187306,
       "name": "Love Me Like I Am (with Jordin Sparks)",
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 265911,
+      "name": "Narrow Road",
+      "url": "https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 219879,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "The Lord's Prayer (It's Yours)",
         "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 203266,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 219879,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 199236,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Yours To Use",
         "url": "https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 206048,
       "name": "Yours To Use",
       "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 199236,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Altars Over Stages",
+        "url": "https://open.spotify.com/album/6TfLBFjK30qyZtFEBKu9NS"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190264,
+      "name": "Altars Over Stages",
+      "url": "https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Wild Faith",
         "url": "https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "While I Can",
-        "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 186029,
-      "name": "While I Can",
-      "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "ABLE",
         "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 221560,
       "name": "ABLE",
       "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "While I Can",
+        "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 186029,
+      "name": "While I Can",
+      "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1135,26 +1151,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/2Z7wHh6bogC6Lc5qqsHWV8"
-      },
-      "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 192907,
-      "name": "New Creation",
-      "url": "https://open.spotify.com/track/2qlmkLwJ5ateyMMH3gXka9"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "You're Not Done",
         "url": "https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq"
       },
@@ -1175,18 +1171,38 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Yeshua (Friend Of Sinners)",
-        "url": "https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O"
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/2Z7wHh6bogC6Lc5qqsHWV8"
       },
       "artists": [
         {
-          "name": "Mike Donehey",
-          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 215573,
-      "name": "Yeshua (Friend Of Sinners)",
-      "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
+      "duration_ms": 192907,
+      "name": "New Creation",
+      "url": "https://open.spotify.com/track/2qlmkLwJ5ateyMMH3gXka9"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 252567,
+      "name": "Let It Begin",
+      "url": "https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Let It Begin",
-        "url": "https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj"
+        "name": "Yeshua (Friend Of Sinners)",
+        "url": "https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O"
       },
       "artists": [
         {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
         }
       ],
-      "duration_ms": 252567,
-      "name": "Let It Begin",
-      "url": "https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO"
+      "duration_ms": 215573,
+      "name": "Yeshua (Friend Of Sinners)",
+      "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Altars Over Stages",
-        "url": "https://open.spotify.com/album/6TfLBFjK30qyZtFEBKu9NS"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 190264,
-      "name": "Altars Over Stages",
-      "url": "https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -1327,62 +1327,6 @@
       "duration_ms": 215213,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Hills Of Tyrone",
-        "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 209390,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "You Changed My Name (Jon Reddick Collab Version)",
-        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 236261,
-      "name": "You Changed My Name - Jon Reddick Collab Version",
-      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Ark",
-        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Vanessa Hill",
-          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Ark",
-      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1407,6 +1351,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "You Changed My Name (Jon Reddick Collab Version)",
+        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 236261,
+      "name": "You Changed My Name - Jon Reddick Collab Version",
+      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "That's The Thing About Praise (Extended Play)",
         "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
       },
@@ -1423,6 +1387,22 @@
       "duration_ms": 236172,
       "name": "That's The Thing About Praise - Radio Version",
       "url": "https://open.spotify.com/track/1cDxFFKvI33Xg6jbPmzBBz"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hills Of Tyrone",
+        "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 209390,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1447,18 +1427,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hurt Is",
-        "url": "https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b"
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
       },
       "artists": [
         {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Vanessa Hill",
+          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
         }
       ],
-      "duration_ms": 183250,
-      "name": "Hurt Is",
-      "url": "https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC"
+      "duration_ms": 193040,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 252366,
       "name": "Crimson Dust - Live",
       "url": "https://open.spotify.com/track/1mE0BS6BvuoOgSpHEcx1QI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hurt Is",
+        "url": "https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Hurt Is",
+      "url": "https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Where The Glory Is",
-        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 270576,
-      "name": "Where The Glory Is",
-      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Caedmon's Call",
         "url": "https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 241893,
       "name": "Lead of Love",
       "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Live Out Loud",
+        "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 203507,
+      "name": "Live Out Loud",
+      "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Grace after Grace Reimagined",
         "url": "https://open.spotify.com/album/4E4BkTx5cbchemPgXFgc0i"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 185000,
       "name": "Grace after Grace Reimagined",
       "url": "https://open.spotify.com/track/2QBH21Ja2afe2iHxBqSNwg"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Live Out Loud",
-        "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 203507,
-      "name": "Live Out Loud",
-      "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
     },
     {
       "added_at": "2024-03-29 04:00:00",

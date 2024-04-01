@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 585149,
+  "num_followers": 585286,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjIxYmZmOTRiNDgwMjU5YzEyNWM1ZjU3MWM2ZDBhYzczMTU3NGEx",
+  "snapshot_id": "MCw0MmRlODZhNzYwOTM5NTY4NDFkM2EyYmU5YWYyNmRkODJhYjg4ZjA3",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "in my mind",
-        "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
       },
       "artists": [
         {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
         }
       ],
-      "duration_ms": 181800,
-      "name": "in my mind",
-      "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
+      "duration_ms": 167333,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Only For A Moment",
-        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
+        "name": "in my mind",
+        "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
+      "duration_ms": 181800,
+      "name": "in my mind",
+      "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Tenderfoot",
-        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
-      },
-      "artists": [
-        {
-          "name": "The Day",
-          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Tenderfoot",
-      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Tenderfoot",
+        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
+      },
+      "artists": [
+        {
+          "name": "The Day",
+          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Tenderfoot",
+      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 192109,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 192109,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Complex Happenings Reduced To A Simple Design",
         "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 181800,
       "name": "Dice",
       "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Proportions",
+        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
+      },
+      "artists": [
+        {
+          "name": "Seed to Tree",
+          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Proportions",
-        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
-      },
-      "artists": [
-        {
-          "name": "Seed to Tree",
-          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Good Mmornin",
         "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 336506,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Go Out",
+        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 154452,
+      "name": "Go Out",
+      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Go Out",
-        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 154452,
-      "name": "Go Out",
-      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "To Feel Something At All",
+        "url": "https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Kalif Onya",
         "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "To Feel Something At All",
-        "url": "https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH"
+        "name": "Live Vol. 1",
+        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
       },
       "artists": [
         {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 169533,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K"
+      "duration_ms": 175375,
+      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
+      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1427,22 +1443,6 @@
       "duration_ms": 198510,
       "name": "Little Lucille",
       "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Live Vol. 1",
-        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
-      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Raincoats",
         "url": "https://open.spotify.com/album/0zP2Syhcw4PzK9igud1t5O"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 157208,
       "name": "Raincoats",
       "url": "https://open.spotify.com/track/2hxAUdQ6YbsvplYpBuYJvy"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Aloe Vera (Clear My Mind)",
-        "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
       },
       "artists": [
         {
-          "name": "Some Sprouts",
-          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
         }
       ],
-      "duration_ms": 163327,
-      "name": "Aloe Vera (Clear My Mind)",
-      "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
+      "duration_ms": 213418,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
     }
   ],
   "unique_name": "Feelgood Indie",

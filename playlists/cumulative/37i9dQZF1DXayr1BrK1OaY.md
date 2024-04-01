@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-291 songs - 18 hr 35 min
+292 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 | 2021-04-02 | 2022-07-29 |
 | [Bicameral \- Edit](https://open.spotify.com/track/3r12xxC2Euv8MWsK7eSXUv) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Bicameral](https://open.spotify.com/album/1jBjVvxPhEnT8xG6Mjx79y) | 3:26 | 2022-02-04 | 2022-07-29 |
 | [Black Mascara.](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara.](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 | 2022-08-26 | 2023-09-11 |
-| [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 | 2023-12-08 |  |
+| [BLINDED](https://open.spotify.com/track/1UiqtkLyYSF9RSXvkBskGy) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [BLINDED \(ONLYTHENEXT Remix\)](https://open.spotify.com/album/1Ngx2Q24qZR1opZ3N1diH2) | 4:00 | 2024-03-29 |  |
+| [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 | 2023-12-08 | 2024-04-01 |
 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:34 | 2021-04-06 | 2024-03-23 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2021-04-02 |  |
 | [Breathe](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Breathe](https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX) | 2:57 | 2024-02-16 |  |

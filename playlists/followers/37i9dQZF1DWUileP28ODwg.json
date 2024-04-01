@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 344399,
+  "2024-04-01": 344660,
   "date_first_scraped": "2022-03-01",
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
   "name": "Top Christian Contemporary",
@@ -217,6 +217,24 @@
       "duration_ms": 228068,
       "name": "Already Blessed",
       "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
+    },
+    {
+      "album": {
+        "name": "Altars Over Stages",
+        "url": "https://open.spotify.com/album/6TfLBFjK30qyZtFEBKu9NS"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190264,
+      "name": "Altars Over Stages",
+      "url": "https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg"
     },
     {
       "album": {
@@ -4765,7 +4783,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 297413,
       "name": "Plans",
       "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"

@@ -4,7 +4,7 @@
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-373 songs - 14 hr 44 min
+374 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,10 +356,11 @@
 | [We Wanna Boogie \- Remastered 2022](https://open.spotify.com/track/2Abj7hwBVQAQv9SWLMq0Md) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [Sun Records Originals: We Wanna Boogie](https://open.spotify.com/album/2T2OSNrn4ZwVbnxiZQsmc4) | 2:24 | 2023-04-27 |  |
 | [Who Do You Love \- Single Version; Remastered](https://open.spotify.com/track/4BiwW4Yu4v2QFO47XnTi6p) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:40 | 2020-10-11 | 2023-04-28 |
 | [Who Slapped John?](https://open.spotify.com/track/081t37hdBbQVjWGuBd42z6) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 1:58 | 2020-10-11 | 2023-04-28 |
-| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2020-10-11 |  |
+| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2020-10-11 | 2024-04-01 |
 | [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 | 2020-10-11 | 2022-11-18 |
 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/6hOUpZRMnj6xhAh3r1UyvF) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:55 | 2020-10-11 | 2022-07-29 |
 | [Whole Lotta Shakin' Going on](https://open.spotify.com/track/78bUBAJE8G62Rj3B6qDspV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Original Sun Recordings](https://open.spotify.com/album/3MOt6Q0Npv4YQe7pcJxgH7) | 2:55 | 2020-10-11 | 2022-11-13 |
+| [Whole Lotta Shakin' Going On \- Remastered 2022](https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Killer Keys Of Jerry Lee Lewis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB) | 2:53 | 2023-04-27 |  |
 | [Will You Willyum](https://open.spotify.com/track/2JwFHbxbntN3dWNqnQOqqT) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [The Female Elvis \- Complete Recordings 1956\-60](https://open.spotify.com/album/4nlorgXh8XETUXvBfx2Loy) | 1:56 | 2020-10-11 | 2022-07-29 |
 | [Will You Willyum](https://open.spotify.com/track/6EbUgouSTRk6zAFzxeWADg) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [The Complete Recordings \(1956\-1960\)](https://open.spotify.com/album/39SvgFQLo5wVJ9ER7TA7Qw) | 1:56 | 2020-10-11 | 2022-11-13 |
 | [Will You Willyum](https://open.spotify.com/track/650HIE3VxMtF4R50Vwaj4U) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [Presenting Janis Martin](https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E) | 1:58 | 2020-10-11 | 2023-04-28 |

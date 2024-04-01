@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 492227,
+  "num_followers": 492274,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTJjZjU1NTQ3ODE0OGQ2ZWFiNjQ2MzdhZGJmOGI3NzU1ZTBhOWE3",
+  "snapshot_id": "MCw4ZjFiMDM3ZjViMTRjOGZiZjlkM2IzZGRiOWFlM2QzYmM1MjA3NTc0",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "B.R.M.C.",
         "url": "https://open.spotify.com/album/5kNEFtQmqLrPx0XA8Sq0N5"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 225333,
       "name": "Spread Your Love",
       "url": "https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "New Age Norms 2",
-        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Who\u2019s Gonna Love Me Now",
-      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "The Boy Who Died Wolf",
         "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 416266,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/2S7R4trL4HITPIfvKUxcA4"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "New Age Norms 2",
+        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Who\u2019s Gonna Love Me Now",
+      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Cross The Line",
-        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Cross The Line",
-      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 246932,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 187390,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Man Of The Moment",
-        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Man Of The Moment",
-      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Man Of The Moment",
+        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Man Of The Moment",
+      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Denim & Diamonds",
         "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 194588,
       "name": "Girl Sports",
       "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Kentucky (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70l38e3JDxBKLO2Jo0LgEp"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Soul Machine",
-      "url": "https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG"
     }
   ],
   "unique_name": "Dirty Rock",

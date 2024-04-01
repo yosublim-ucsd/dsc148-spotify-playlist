@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,500 likes - 88 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,583 likes - 88 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 24 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
 | 25 | [I Will Wait](https://open.spotify.com/track/5LLv0UnROhcRiqBmR6p9Us) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [I Will Wait](https://open.spotify.com/album/4esnfOM5BXKnlTcF61sdCa) | 3:37 |
 | 26 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
-| 27 | [Keeper Of My Soul](https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Keeper Of My Soul](https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1) | 3:48 |
+| 27 | [Ransom](https://open.spotify.com/track/5WowSj4txQLAl48zdUQSZP) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Stained Glass Windows](https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb) | 4:35 |
 | 28 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 |
-| 29 | [Ransom](https://open.spotify.com/track/5WowSj4txQLAl48zdUQSZP) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Stained Glass Windows](https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb) | 4:35 |
+| 29 | [Keeper Of My Soul](https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Keeper Of My Soul](https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1) | 3:48 |
 | 30 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 31 | [I Need You \(Live\)](https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [I Need You \(Live\)](https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8) | 5:23 |
 | 32 | [I'm Yours](https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Truth \(Standard\)](https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO) | 7:49 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 87 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 |
 | 88 | [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 |
 
-Snapshot ID: `MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw`
+Snapshot ID: `MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1`

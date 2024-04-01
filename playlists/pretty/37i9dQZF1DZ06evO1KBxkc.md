@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,501 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,530 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 52 | [Booby Trap](https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:16 |
 | 53 | [Mood Swings](https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:36 |
 
-Snapshot ID: `Mjg1MzAwMjksMDAwMDAwMDBlNTRhNGQ0MGZmMjA0NTFkN2M1MTFjNzAzYjU1OGZhYg==`
+Snapshot ID: `Mjg1MzE0ODEsMDAwMDAwMDAwMWM1ZTg4MTA3NWI4NGQ4YjY3MDYwMzRkZjFiMzhjYg==`

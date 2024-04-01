@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Jacques Brel
 
-183 songs - 9 hr 50 min
+185 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 | 2024-03-22 |  |
 | [Hier encore](https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:23 | 2024-03-22 |  |
 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 | 2021-03-21 |  |
-| [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 | 2021-03-21 |  |
+| [Il venait d'avoir 18 ans](https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 2:56 | 2023-10-19 |  |
+| [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 | 2021-03-21 | 2024-04-01 |
 | [Il venait d'avoir 18 ans \- French Version](https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 2:55 | 2021-03-21 | 2022-07-29 |
 | [Il venait d'avoir 18 ans \- French Version](https://open.spotify.com/track/0rqikbE6dfd6R8rcR29KJO) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [D'ici et d'ailleurs \- Le meilleur de Dalida à travers le monde](https://open.spotify.com/album/4N8rDc5TXbGctoRkzo9ByU) | 2:59 | 2021-03-21 | 2022-11-13 |
 | [Il venait d'avoir 18 ans \- Japanese Version](https://open.spotify.com/track/7pIQ2FwtwwntxMMxiMN3Ok) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Escales Autour Du Monde](https://open.spotify.com/album/1PEp2qHqMLlo2wQtrB45JK) | 2:56 | 2023-10-19 | 2024-01-29 |
@@ -158,7 +159,8 @@
 | [Parlez\-moi d'amour](https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Parlez\-moi d'amour](https://open.spotify.com/album/7w5tAsVVbOdWgIEhKkSNzG) | 3:00 | 2024-03-22 |  |
 | [Paroles paroles](https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 4:03 | 2021-03-21 | 2022-07-29 |
 | [Paroles paroles](https://open.spotify.com/track/6TQwGGVZgUnUGjIWnNLPyJ) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Soirée en couple](https://open.spotify.com/album/2ztZc25tAbPm2gXEx4rFL4) | 4:05 | 2021-03-21 | 2022-11-13 |
-| [Paroles… paroles…](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 | 2021-03-21 |  |
+| [Paroles… paroles…](https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 4:05 | 2023-10-19 |  |
+| [Paroles… paroles…](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 | 2021-03-21 | 2024-04-01 |
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 | 2021-03-21 |  |
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/46Lyf9Cur09tBVBVA8GMKt) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Champions Of Europe](https://open.spotify.com/album/4Qjpudb7cTQe7BM6UxuHTu) | 2:33 | 2021-03-21 | 2022-11-13 |
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/6D5KhpY0TFfZWTYriDgErp) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Chansons Collected](https://open.spotify.com/album/1mJgaoLt3bJRoOY16VYd6G) | 2:33 | 2021-03-21 | 2022-11-07 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. STEMLINES on cover. Artwork by Thami Nabil",
-  "num_followers": 156266,
+  "num_followers": 156338,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWI1YTkxMDI5NWYyNTRiMmViZTU1Mjg5Y2ZkMmU4OWM5YTFjNWEy",
+  "snapshot_id": "MCw3NTQxZTE5Mjg3YTRjNTIzNzY2Nzc3MTlhZDkwNThjMWRhNzdkMTBl",
   "tracks": [
     {
       "added_at": "2024-03-06 06:00:00",
@@ -217,20 +217,20 @@
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+        "name": "Boeckner!",
+        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
       },
       "artists": [
         {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
         }
       ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -249,20 +249,20 @@
       "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "Boeckner!",
-        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
       },
       "artists": [
         {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
         }
       ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -279,38 +279,6 @@
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
-    },
-    {
-      "added_at": "2024-01-24 03:58:32",
-      "album": {
-        "name": "A time to love, a time to die",
-        "url": "https://open.spotify.com/album/4yoWc0oOrrMPEln5ADQUAW"
-      },
-      "artists": [
-        {
-          "name": "Amor Muere",
-          "url": "https://open.spotify.com/artist/6nrwVCgpbdrOfGiu8A0tVh"
-        },
-        {
-          "name": "Camille Mandoki",
-          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
-        },
-        {
-          "name": "Concepci\u00f3n Huerta",
-          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
-        },
-        {
-          "name": "Gibrana Cervantes",
-          "url": "https://open.spotify.com/artist/3ckZktRMn9jidQuRarXJ7T"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 312770,
-      "name": "LA",
-      "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -343,6 +311,38 @@
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
+    },
+    {
+      "added_at": "2024-01-24 03:58:32",
+      "album": {
+        "name": "A time to love, a time to die",
+        "url": "https://open.spotify.com/album/4yoWc0oOrrMPEln5ADQUAW"
+      },
+      "artists": [
+        {
+          "name": "Amor Muere",
+          "url": "https://open.spotify.com/artist/6nrwVCgpbdrOfGiu8A0tVh"
+        },
+        {
+          "name": "Camille Mandoki",
+          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
+        },
+        {
+          "name": "Concepci\u00f3n Huerta",
+          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+        },
+        {
+          "name": "Gibrana Cervantes",
+          "url": "https://open.spotify.com/artist/3ckZktRMn9jidQuRarXJ7T"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 312770,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Extinct but Still Alive",
+        "url": "https://open.spotify.com/album/14I6Gw5HhfOCyDE3Jo9qMu"
+      },
+      "artists": [
+        {
+          "name": "Mama Longhorn",
+          "url": "https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "Rowing High Rowing Low",
+      "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
+    },
+    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "Sweety Chant",
@@ -799,22 +815,6 @@
       "duration_ms": 781460,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Extinct but Still Alive",
-        "url": "https://open.spotify.com/album/14I6Gw5HhfOCyDE3Jo9qMu"
-      },
-      "artists": [
-        {
-          "name": "Mama Longhorn",
-          "url": "https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Rowing High Rowing Low",
-      "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -957,6 +957,42 @@
       "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
     },
     {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "touch the subconscious",
+        "url": "https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si"
+      },
+      "artists": [
+        {
+          "name": "SHIN KOKAWA",
+          "url": "https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k"
+        },
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 382224,
+      "name": "moon",
+      "url": "https://open.spotify.com/track/53efsv7kZof3mTNGTiuJ8F"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/5Oz3jQcdkQhGV7nDRITbr9"
+      },
+      "artists": [
+        {
+          "name": "Mia Koden",
+          "url": "https://open.spotify.com/artist/7klmdoyDc4W8SnRhFDVcDY"
+        }
+      ],
+      "duration_ms": 256088,
+      "name": "10easy",
+      "url": "https://open.spotify.com/track/4tbc7xmFrymbMc7kYDLWrL"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Ferris Parade",
@@ -981,26 +1017,6 @@
       "url": "https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "touch the subconscious",
-        "url": "https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si"
-      },
-      "artists": [
-        {
-          "name": "SHIN KOKAWA",
-          "url": "https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k"
-        },
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        }
-      ],
-      "duration_ms": 382224,
-      "name": "moon",
-      "url": "https://open.spotify.com/track/53efsv7kZof3mTNGTiuJ8F"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "MY BLACK CAT",
@@ -1015,22 +1031,6 @@
       "duration_ms": 149433,
       "name": "MY BLACK CAT",
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/5Oz3jQcdkQhGV7nDRITbr9"
-      },
-      "artists": [
-        {
-          "name": "Mia Koden",
-          "url": "https://open.spotify.com/artist/7klmdoyDc4W8SnRhFDVcDY"
-        }
-      ],
-      "duration_ms": 256088,
-      "name": "10easy",
-      "url": "https://open.spotify.com/track/4tbc7xmFrymbMc7kYDLWrL"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "Trances",
-        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
-      },
-      "artists": [
-        {
-          "name": "Julia Reidy",
-          "url": "https://open.spotify.com/artist/1gf9bjTKL4LChr7JUuR1H7"
-        }
-      ],
-      "duration_ms": 517998,
-      "name": "I",
-      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
         "name": "My Noise Is Nothing",
         "url": "https://open.spotify.com/album/6hG9IrYRySXpv1WYSk5nu3"
       },
@@ -1105,6 +1089,22 @@
       "url": "https://open.spotify.com/track/1izzRAv6eDzahDVryCP3dA"
     },
     {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Trances",
+        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
+      },
+      "artists": [
+        {
+          "name": "Julia Reidy",
+          "url": "https://open.spotify.com/artist/1gf9bjTKL4LChr7JUuR1H7"
+        }
+      ],
+      "duration_ms": 517998,
+      "name": "I",
+      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
+    },
+    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Nowhere",
@@ -1119,22 +1119,6 @@
       "duration_ms": 229602,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Your Light Cannot Be Extinguished",
-        "url": "https://open.spotify.com/album/23lTiMQzWhsiss19jcqm7S"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 216253,
-      "name": "Your Light Cannot Be Extinguished",
-      "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1153,20 +1137,20 @@
       "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/2uQB2kL4Nr8DxpuKIBYI8M"
+        "name": "Your Light Cannot Be Extinguished",
+        "url": "https://open.spotify.com/album/23lTiMQzWhsiss19jcqm7S"
       },
       "artists": [
         {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
         }
       ],
-      "duration_ms": 146680,
-      "name": "meow chat",
-      "url": "https://open.spotify.com/track/0PevRoduixzOwPe3Hgsheq"
+      "duration_ms": 216253,
+      "name": "Your Light Cannot Be Extinguished",
+      "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 502469,
       "name": "Streetcorn",
       "url": "https://open.spotify.com/track/0m3FbejKZ3KVTpZa1KjdmR"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/2uQB2kL4Nr8DxpuKIBYI8M"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "meow chat",
+      "url": "https://open.spotify.com/track/0PevRoduixzOwPe3Hgsheq"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1249,6 +1249,22 @@
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN"
+      },
+      "artists": [
+        {
+          "name": "Entele",
+          "url": "https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo"
+        }
+      ],
+      "duration_ms": 235140,
+      "name": "Z",
+      "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
+    },
+    {
       "added_at": "2024-01-10 04:07:01",
       "album": {
         "name": "QUANTA 1:11",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Z",
-        "url": "https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN"
+        "name": "Paradisia, Vol. 10",
+        "url": "https://open.spotify.com/album/3aHzXnf97IVgxMHZEDMDMe"
       },
       "artists": [
         {
-          "name": "Entele",
-          "url": "https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo"
+          "name": "SSIEGE",
+          "url": "https://open.spotify.com/artist/4m4ywwSd3EtlfquQLUHnyW"
         }
       ],
-      "duration_ms": 235140,
-      "name": "Z",
-      "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
+      "duration_ms": 209722,
+      "name": "Neo Blu",
+      "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
     },
     {
       "added_at": "2023-07-19 01:03:01",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Paradisia, Vol. 10",
-        "url": "https://open.spotify.com/album/3aHzXnf97IVgxMHZEDMDMe"
-      },
-      "artists": [
-        {
-          "name": "SSIEGE",
-          "url": "https://open.spotify.com/artist/4m4ywwSd3EtlfquQLUHnyW"
-        }
-      ],
-      "duration_ms": 209722,
-      "name": "Neo Blu",
-      "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "The 39 Steps",
         "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 288509,
       "name": "Medio Viva",
       "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
+    },
+    {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 220819,
+      "name": "Couversets",
+      "url": "https://open.spotify.com/track/406Z9mgMQDId0lMSUoPKxG"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1361,22 +1377,6 @@
       "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 220819,
-      "name": "Couversets",
-      "url": "https://open.spotify.com/track/406Z9mgMQDId0lMSUoPKxG"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "KAPITA\u0141KA",
@@ -1393,20 +1393,20 @@
       "url": "https://open.spotify.com/track/1UUewV1iQZRFfoHjSBPgTb"
     },
     {
-      "added_at": "2024-01-10 20:04:58",
+      "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "Anthem For Those Who Know",
-        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
+        "name": "Rainbow's End / In My Dreams I Find You Again",
+        "url": "https://open.spotify.com/album/0ozSGk5VHtpRGbNuMHvKij"
       },
       "artists": [
         {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+          "name": "Harmony Index",
+          "url": "https://open.spotify.com/artist/2S6dcUaN4P9imxRaiQJ9W9"
         }
       ],
-      "duration_ms": 200500,
-      "name": "Anthem For Those Who Know",
-      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
+      "duration_ms": 93176,
+      "name": "Rainbow's End",
+      "url": "https://open.spotify.com/track/1Gb4G9QFsEwReyWsmkwS2g"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1425,20 +1425,20 @@
       "url": "https://open.spotify.com/track/6Xmm7xYQZBdI1gIVZGIYnq"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
+      "added_at": "2024-01-10 20:04:58",
       "album": {
-        "name": "Rainbow's End / In My Dreams I Find You Again",
-        "url": "https://open.spotify.com/album/0ozSGk5VHtpRGbNuMHvKij"
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
       },
       "artists": [
         {
-          "name": "Harmony Index",
-          "url": "https://open.spotify.com/artist/2S6dcUaN4P9imxRaiQJ9W9"
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         }
       ],
-      "duration_ms": 93176,
-      "name": "Rainbow's End",
-      "url": "https://open.spotify.com/track/1Gb4G9QFsEwReyWsmkwS2g"
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
     },
     {
       "added_at": "2024-03-06 06:00:00",

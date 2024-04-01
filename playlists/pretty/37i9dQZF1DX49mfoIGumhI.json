@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 196566,
+  "num_followers": 196744,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDhlZDVlODQzZDY1MDgwYmRmMjU5OWMwNGRkYzJlNjc4YTY5OGQz",
+  "snapshot_id": "MCwxZTY1ZmVjZDgyZjMyNmJmMzExNTk5NjIzYWViYTAwNjBlYjJkMzQ3",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -971,18 +971,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 301960,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
+      "duration_ms": 327466,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 327466,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+      "duration_ms": 301960,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
     },
     {
       "added_at": "2022-12-30 20:18:36",

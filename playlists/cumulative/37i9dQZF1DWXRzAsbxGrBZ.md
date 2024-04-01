@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-118 songs - 13 hr 30 min
+119 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 | 2022-09-14 | 2024-01-13 |
 | [E.O.L \(Extraordinary Life\) \(Original LP Mix\)](https://open.spotify.com/track/7o0UkICXQlYARbMU6C4TTc) | [Nini Maluks](https://open.spotify.com/artist/4wt6OI7hl305rb96PueedT), [Pascale Yav](https://open.spotify.com/artist/73wxsmF4LKKCMsHJVIMH75) | [G.E.N.U.F.L.E.X.I.O.N](https://open.spotify.com/album/7l9FWrlJl4ANd95P9MC7RD) | 8:17 | 2022-09-29 | 2022-11-08 |
 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 | 2023-03-17 | 2024-01-24 |
-| [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 | 2023-05-12 |  |
+| [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 | 2023-05-12 | 2024-04-01 |
 | [Eternal Existence \- Original Mix](https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [New Beginning EP](https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4) | 6:42 | 2022-09-14 | 2023-05-13 |
 | [Eyesolation](https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [4 The Wolves](https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR) | 8:41 | 2023-11-09 |  |
 | [False Facade](https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza) | [DRMZ](https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ) | [False Facade](https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs) | 6:56 | 2022-09-14 | 2023-03-18 |
@@ -114,6 +114,7 @@
 | [Time To Dance](https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Time to Dance](https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV) | 7:50 | 2023-12-08 |  |
 | [To The World](https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A) | [Brazo Wa Afrika](https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP), [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [To The World](https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v) | 6:27 | 2022-09-14 |  |
 | [Trill is Gone \- Original Mix](https://open.spotify.com/track/6eHT2RqorlHgS68W6U62X2) | [Deep Xcape](https://open.spotify.com/artist/1PZwBIf3nPI7r8jvS0Oh9Z), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Sin City \[Italian Mafia \(God Father Edition\)\]](https://open.spotify.com/album/5qK2NsJpHTj6mcZ37BvozA) | 6:30 | 2022-09-14 | 2022-11-18 |
+| [Unprepared](https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e) | [Zinyo](https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg) | [Unprepared](https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3) | 6:45 | 2024-03-15 |  |
 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 | 2022-11-10 |  |
 | [VOICES](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [TARU](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 | 2023-12-08 |  |
 | [We Beg Your Pardon](https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [We Beg Your Pardon](https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu) | 7:11 | 2022-09-14 | 2023-03-18 |

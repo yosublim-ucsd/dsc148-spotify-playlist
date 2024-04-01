@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,669 likes - 129 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,670 likes - 129 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 26 | [On Me \(feat\. Cardi B\)](https://open.spotify.com/track/3DnZfpfe8wLeJgzc00gKeW) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:45 |
 | 27 | [Forgive Me](https://open.spotify.com/track/0qU3XhIH9xczYPUWV6OopS) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN) | 2:37 |
 | 28 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/6ntFBx30fCwVO2WEF8sJz1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0QFW85XzFgWQJcZzOhKQf0) | 2:22 |
-| 29 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |
+| 29 | [Bare Wit Me](https://open.spotify.com/track/0hi5V0ExKfjCz9zLxhVAcl) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:08 |
 | 30 | [F&MU](https://open.spotify.com/track/24QjawKdGJmsAIVe3EhzGH) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:14 |
 | 31 | [Good Good](https://open.spotify.com/track/3jK1QRugwuAKAKOrtac7a2) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 4:07 |
 | 32 | [Back Home \(feat\. Summer Walker\)](https://open.spotify.com/track/6t51aLe7rjZhKgONwt6btQ) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:14 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 85 | [Keep It Going](https://open.spotify.com/track/59O4w7NZgVqowQkcG8gs1i) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:53 |
 | 86 | [Ready Or Not \(with Busta Rhymes\)](https://open.spotify.com/track/13xxAy6jr030o2cCMv5MTX) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 2:37 |
 | 87 | [Not One Of Them](https://open.spotify.com/track/3yn1NU2GCUkdQ9d3KLvPay) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:08 |
-| 88 | [69](https://open.spotify.com/track/7HcuZWhsdGMULD6o3o0XA4) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:41 |
+| 88 | [69](https://open.spotify.com/track/1zSwtlAzKKGbbpEr4LHtEv) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:41 |
 | 89 | [Options](https://open.spotify.com/track/0ixRUk4zdEQ79TWoN4AEnz) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Options / Lie Like That](https://open.spotify.com/album/63NANMK2G7YvJ7NoDx9Khb) | 2:55 |
 | 90 | [Time Will Tell](https://open.spotify.com/track/30iYVELFKzXdKReWpZXgcn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:48 |
 | 91 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 98 | [In My Feelings](https://open.spotify.com/track/7BLP3w9ZIBBf4JeH9drYeW) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:36 |
 | 99 | [Stuck On You \(feat\. PnB Rock\)](https://open.spotify.com/track/5jAMZqnBULAQqx0lNXI6VA) | [Daniel Skye](https://open.spotify.com/artist/1pqYQmeqnqQU7X3DbuA7So), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Stuck On You \(feat\. PnB Rock\)](https://open.spotify.com/album/2oQ3J7XDCyveh0WGaFCruc) | 3:17 |
 | 100 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 |
-| 101 | [Try Again](https://open.spotify.com/track/5gCGyW2TZqA0POkNueFz2X) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:58 |
+| 101 | [Try Again](https://open.spotify.com/track/0STqc1tADAVkJvpbkd1fol) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:58 |
 | 102 | [Be the One](https://open.spotify.com/track/0g1u0CXybYSVLho9gvtLMC) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:41 |
 | 103 | [Secrets](https://open.spotify.com/track/6MdNiXqTGsDvgGCRUjXxWy) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Good Company](https://open.spotify.com/album/0wLgtwKkMwsrm0WeN68WgZ) | 3:09 |
 | 104 | [Sanctuary \(feat\. Big K.R.I.T.\)](https://open.spotify.com/track/5hYijRB4AJYveUDXBrbslS) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Trouble in Paradise](https://open.spotify.com/album/0xqUuEVN3srOCA51CprgIk) | 3:37 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 128 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 129 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `Mjg1MzA4NTAsMDAwMDAwMDA3ZGQ1M2U4MjI0ZmJmODJiOTM0NWViMTIzY2NiYzQzMw==`
+Snapshot ID: `Mjg1MzIyOTAsMDAwMDAwMDBlMmFlMDY3OWQyYTJhMTkxMzYyNjA0NjY5ZDc2YmYyOA==`

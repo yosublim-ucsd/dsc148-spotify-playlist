@@ -4,7 +4,7 @@
 
 > Adormecer ao som relaxante da chuva.
 
-433 songs - 20 hr 5 min
+434 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Pouring Rain & Rolling Thunder](https://open.spotify.com/track/6VEmDZ6uIdTdkM2hxJKNhF) | [Essential Nature Sounds](https://open.spotify.com/artist/5VhOnYoFtMQVsuUJMfXk0M) | [Dark Rain & Deep Thunder](https://open.spotify.com/album/57ur6LcL32QEuI2PXgZ0yK) | 3:31 | 2023-06-15 | 2023-12-21 |
 | [Pouring Rain And Thunder](https://open.spotify.com/track/6lZhsqlVmplDidqrUqCV8b) | [Berg & Sjo](https://open.spotify.com/artist/5DaWXcbvLdip9ADHVSwVVt) | [Ovader](https://open.spotify.com/album/3FFVMgDTGRlZNPWqj3TGwq) | 2:34 | 2023-06-15 |  |
 | [Pouring Thunderstorm](https://open.spotify.com/track/3LlZ9ksKEHA60uyRQIOSL4) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Rain & Thunder](https://open.spotify.com/album/6R3irvC35SviITh36UxCWr) | 2:43 | 2023-06-15 | 2024-03-21 |
-| [Precipitation](https://open.spotify.com/track/7jSpVGnPc3j3KS0W2KKnCJ) | [Imvula](https://open.spotify.com/artist/3r3j7rY4YaOCA5Fncnz6f6) | [Precipitation](https://open.spotify.com/album/5abBHqAyDaxxkt7j4LWBJI) | 3:36 | 2023-06-15 |  |
+| [Precipitation](https://open.spotify.com/track/7jSpVGnPc3j3KS0W2KKnCJ) | [Imvula](https://open.spotify.com/artist/3r3j7rY4YaOCA5Fncnz6f6) | [Precipitation](https://open.spotify.com/album/5abBHqAyDaxxkt7j4LWBJI) | 3:36 | 2023-06-15 | 2024-04-01 |
 | [Pure Air & Water](https://open.spotify.com/track/3nQbThFvoVnXOS0pHXcnTY) | [Stormour](https://open.spotify.com/artist/2Bl2FvNjbLuZb86bm3iGgp) | [Lust & Rain](https://open.spotify.com/album/3QDTk084OenliDFkX1gKbf) | 2:31 | 2023-06-15 | 2023-12-21 |
 | [Quality Rain](https://open.spotify.com/track/6wylgOavjiq5DxfwrBWDJp) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Rain Storms](https://open.spotify.com/album/7ipI3unaq9JtibJGg74yCQ) | 2:16 | 2023-06-15 |  |
 | [Quiet, Listen](https://open.spotify.com/track/6PUGWTnD1L8JmzmdogNUfS) | [Dropletecal](https://open.spotify.com/artist/2qOif0NcXyNAAhriR39lQ8) | [Evaporating Water](https://open.spotify.com/album/2OAmblyE8oR9F1Oac4sEIi) | 2:33 | 2023-06-15 |  |
@@ -406,6 +406,7 @@
 | [Thunderclaps](https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [A Storm Is Brewing](https://open.spotify.com/album/6fPAUNMUttiZ8pcEm2PdVy) | 2:33 | 2023-06-15 |  |
 | [Thunderstorm In the Forest](https://open.spotify.com/track/3D97oOZdpxItVqFoAwBfYC) | [Weather Watcher](https://open.spotify.com/artist/2wzYCm2bWxypuCR1UzL8Hw) | [Weather Watcher](https://open.spotify.com/album/2Xm7W3aJDAsQPYQD7eDcgC) | 2:34 | 2023-06-15 |  |
 | [Tonnerre Tropical](https://open.spotify.com/track/4g8Uwb4iR9NVsQA4zpixt5) | [Christophe Frédérique](https://open.spotify.com/artist/1tFG73IXT0OVdkSJ5qwTcA) | [Tonnerre Tropical](https://open.spotify.com/album/1gT4wCpiinP8wfbn9F91tF) | 2:18 | 2023-06-15 | 2024-03-15 |
+| [Tonnerre Tropical](https://open.spotify.com/track/74pOMv2JoMxXBCzr2E9moJ) | [Christophe Frédérique](https://open.spotify.com/artist/1tFG73IXT0OVdkSJ5qwTcA) | [Dreams Forget Me Not](https://open.spotify.com/album/1oOA4Ll30scr8m6h0RFF9R) | 2:18 | 2024-03-27 |  |
 | [Tormenta de la selva](https://open.spotify.com/track/2AtxBBgHbuuJFrv8h3U7ls) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Mal tiempo](https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr) | 2:12 | 2023-06-15 |  |
 | [Tormenta De Lluvia](https://open.spotify.com/track/5sIj5SGyT0k2CsZYGoue5n) | [Siente El Clima](https://open.spotify.com/artist/3FGa3dQAwHwZI8MvIM1SLq) | [Tormenta De Lluvia](https://open.spotify.com/album/0I40IaVOc2YHvx6k5iPuYi) | 2:06 | 2023-06-15 | 2023-12-21 |
 | [Tormenta Del Bosque](https://open.spotify.com/track/5iZmYfTncJKyX97m4cGZ8p) | [Tormenta Jamaicana](https://open.spotify.com/artist/7Fod6Ykml8hrQjL3p9vxgx) | [Tormenta Secreta](https://open.spotify.com/album/38ClULiKoCQaNZPgImivZf) | 2:18 | 2023-06-15 | 2023-12-21 |

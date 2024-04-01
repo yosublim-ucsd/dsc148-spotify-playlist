@@ -1,12 +1,12 @@
 {
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 261194,
+  "num_followers": 261178,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmI3ZDUzOWFkZWM4YzQ1MDIzZDdhM2Q0ZjI5MTQ3YmZjY2Y2MmJj",
+  "snapshot_id": "MCxmNTZlOWQyZGY4NGJkNjZhZjk3Zjc4YThkMDQxOWM0MTY5NWZlODgx",
   "tracks": [
     {
       "added_at": "2024-01-23 19:55:12",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh"
-      },
-      "artists": [
-        {
-          "name": "Howard Shore",
-          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
-        },
-        {
-          "name": "Edward Ross",
-          "url": "https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG"
-        }
-      ],
-      "duration_ms": 440800,
-      "name": "The Breaking of the Fellowship (feat. \"In Dreams\")",
-      "url": "https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Diwali Special Party Songs",
         "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 214207,
       "name": "Naacho Naacho (From \"Rrr\")",
       "url": "https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "Edward Ross",
+          "url": "https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG"
+        }
+      ],
+      "duration_ms": 440800,
+      "name": "The Breaking of the Fellowship (feat. \"In Dreams\")",
+      "url": "https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i"
     },
     {
       "added_at": "2024-01-23 19:55:12",

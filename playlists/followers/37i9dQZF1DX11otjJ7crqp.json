@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 75425,
+  "2024-04-01": 75488,
   "date_first_scraped": "2022-02-06",
   "description": "Essential new pop tracks. Cover: Isabel LaRosa",
   "name": "New Pop Picks",
@@ -20758,7 +20758,7 @@
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 143669,
+      "duration_ms": 140893,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft"
     },
@@ -64070,7 +64070,7 @@
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187200,
+      "duration_ms": 187433,
       "name": "oops, my bad!",
       "url": "https://open.spotify.com/track/0jz82skw9yHMKVdiq2H0t0"
     },
@@ -85636,6 +85636,24 @@
     },
     {
       "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -85665,7 +85683,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"

@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 482969,
+  "2024-04-01": 483190,
   "date_first_scraped": "2022-01-26",
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
   "name": "Easy Jazz",
@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226474,
+      "name": "Eat It Too",
+      "url": "https://open.spotify.com/track/662ds07EcqLRr0x6FW0iJD"
+    },
+    {
+      "album": {
         "name": "end credits",
         "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
       },
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 257000,
       "name": "I Try",
       "url": "https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1"

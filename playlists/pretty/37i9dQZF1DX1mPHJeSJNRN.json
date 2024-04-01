@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 14976,
+  "num_followers": 15070,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTcwODU1MWI4YzcxMTBiZDNlZTQ0ODJkMjZlYzU5OGU4ZmYzNTgy",
+  "snapshot_id": "MCw3Nzg3MjU3MDRlOGRhZWUwNTk2OTk3OTNkMzI0Yjk3ZmVlYjc0YzY5",
   "tracks": [
     {
       "added_at": "2024-03-20 14:51:50",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
         "name": "Duke Ellington Meets Coleman Hawkins",
         "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 311106,
       "name": "Little B's Poem - Remastered 1994",
       "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Here I'll Stay",
-      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 309706,
       "name": "The 59th Street Bridge Song (Feelin' Groovy)",
       "url": "https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Here I'll Stay",
+      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -1223,34 +1207,18 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
         }
       ],
-      "duration_ms": 384360,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 269856,
-      "name": "Promise of Spring",
-      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
+      "duration_ms": 178573,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1271,34 +1239,18 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Backlash",
-        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 401226,
-      "name": "Up Jumped Spring",
-      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1319,18 +1271,66 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
       },
       "artists": [
         {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
         }
       ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
+      "duration_ms": 269856,
+      "name": "Promise of Spring",
+      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 384360,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401226,
+      "name": "Up Jumped Spring",
+      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "The Art Of Elegance",
-        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
-      },
-      "artists": [
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "I\u2019ve Got A Crush On You",
-      "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Caity Gyorgy Quartet",
         "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 347088,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "The Art Of Elegance",
+        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "I\u2019ve Got A Crush On You",
+      "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Encore At The Blue Note (Live / New York City, NY / March 16-18, 1990)",
-        "url": "https://open.spotify.com/album/7jWi1CM5vqfXmsggmGoZRc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        },
-        {
-          "name": "Ray Brown",
-          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
-        }
-      ],
-      "duration_ms": 540040,
-      "name": "Here's That Rainy Day - Live At The Blue Note, New York City, NY / March 16-18, 1990",
-      "url": "https://open.spotify.com/track/0sZbZ36pWvOKhFK6HlxddR"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 219653,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Encore At The Blue Note (Live / New York City, NY / March 16-18, 1990)",
+        "url": "https://open.spotify.com/album/7jWi1CM5vqfXmsggmGoZRc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        }
+      ],
+      "duration_ms": 540040,
+      "name": "Here's That Rainy Day - Live At The Blue Note, New York City, NY / March 16-18, 1990",
+      "url": "https://open.spotify.com/track/0sZbZ36pWvOKhFK6HlxddR"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1599,18 +1599,46 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
       "artists": [
         {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 194173,
-      "name": "April Come She Will",
-      "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
+      "duration_ms": 191332,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "The Show Must Go On",
+        "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
+      },
+      "artists": [
+        {
+          "name": "Johanna Pettersson",
+          "url": "https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0"
+        },
+        {
+          "name": "Filip Ekestubbe",
+          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
+        },
+        {
+          "name": "Tomas Sj\u00f6dell",
+          "url": "https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv"
+        },
+        {
+          "name": "Adam Ross",
+          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Dont Rain on My Parade",
+      "url": "https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1635,22 +1663,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Simple Life",
         "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
       },
@@ -1663,6 +1675,22 @@
       "duration_ms": 357621,
       "name": "Needle and Candle",
       "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1707,34 +1735,6 @@
       "duration_ms": 259880,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/19DtZpLaBGZHQARScc4c5F"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
-        "name": "The Show Must Go On",
-        "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
-      },
-      "artists": [
-        {
-          "name": "Johanna Pettersson",
-          "url": "https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0"
-        },
-        {
-          "name": "Filip Ekestubbe",
-          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
-        },
-        {
-          "name": "Tomas Sj\u00f6dell",
-          "url": "https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv"
-        },
-        {
-          "name": "Adam Ross",
-          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Dont Rain on My Parade",
-      "url": "https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm"
     },
     {
       "added_at": "2024-03-20 14:51:50",

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 350029,
+  "num_followers": 350205,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2Y2YTg3YThmZmIwMTYyOTFmNDZjYTZmYjlhN2EzMDhiYTU5MDVm",
+  "snapshot_id": "MCwxNjgwODkxMmM0YzUxOWZiMTkyNTkzMjIwMzc3MDVhMDg3NjM2OGE4",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "You're Gonna Miss Me",
-      "url": "https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182440,
       "name": "Chances Are (with Ray Conniff & His Orchestra)",
       "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 164413,
+      "name": "You're Gonna Miss Me",
+      "url": "https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Frankie Avalon",
-        "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 144483,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 134560,
       "name": "Love Letters In The Sand - Single Version",
       "url": "https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Frankie Avalon",
+        "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
+      },
+      "artists": [
+        {
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+        }
+      ],
+      "duration_ms": 144483,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Golden Hits Collection",
-        "url": "https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "Walkin' After Midnight",
-      "url": "https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Command Performance",
         "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 127706,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3FzkbFgVGdg4zqyCMzUPM7"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Golden Hits Collection",
+        "url": "https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 154026,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b"
     },
     {
       "added_at": "2022-05-30 12:59:00",

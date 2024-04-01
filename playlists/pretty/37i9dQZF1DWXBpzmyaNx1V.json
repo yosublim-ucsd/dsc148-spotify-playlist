@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39500,
+  "num_followers": 39495,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjI0OTAyOWU4OWI1MTg4MTA0MmE4MDkxZmZlNmUzNzk3NjQwZGFi",
+  "snapshot_id": "MCw3MDZhMTU3NGEwZTkyNTRmZjZiYTM5NzBiODMwMTE5ZjlkZTVjNGJh",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186113,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
         "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 290713,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186113,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Pies sobre la tierra",
-        "url": "https://open.spotify.com/album/6AwupPymKbGJBX6Tfat1UB"
+        "name": "Nostalgia del Futuro",
+        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
         }
       ],
-      "duration_ms": 271788,
-      "name": "Todo Lo Que Quer\u00edas Saber",
-      "url": "https://open.spotify.com/track/15crIgsqt1x5jkMmZ9hUE9"
+      "duration_ms": 205224,
+      "name": "Nostalgia del Futuro",
+      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Nostalgia del Futuro",
-        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
+        "name": "Pies sobre la tierra",
+        "url": "https://open.spotify.com/album/6AwupPymKbGJBX6Tfat1UB"
       },
       "artists": [
         {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 205224,
-      "name": "Nostalgia del Futuro",
-      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
+      "duration_ms": 271788,
+      "name": "Todo Lo Que Quer\u00edas Saber",
+      "url": "https://open.spotify.com/track/15crIgsqt1x5jkMmZ9hUE9"
     },
     {
       "added_at": "2024-02-16 18:40:38",

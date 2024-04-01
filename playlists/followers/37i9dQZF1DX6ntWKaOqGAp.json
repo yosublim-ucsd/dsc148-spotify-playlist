@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 248154,
+  "2024-04-01": 248279,
   "date_first_scraped": "2023-01-14",
   "description": "The biggest Japanese rock hits right now.  Cover: Saba Sister (\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc)\u3000\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "J-Rock ON!!",
@@ -8405,10 +8405,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 178117,
       "name": "No Crime",
       "url": "https://open.spotify.com/track/2H3n7IXXc2nSOyJNxxpraj"
+    },
+    {
+      "album": {
+        "name": "PURE 40",
+        "url": "https://open.spotify.com/album/3ebUA1TA2F3IMkyFNjJN8E"
+      },
+      "artists": [
+        {
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179583,
+      "name": "No Crime",
+      "url": "https://open.spotify.com/track/7mZ2l20ga1cwVw7WVZWWkI"
     },
     {
       "album": {

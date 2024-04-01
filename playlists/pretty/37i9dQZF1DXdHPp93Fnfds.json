@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 144412,
+  "num_followers": 144419,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDk5ODdlMTBlNzhhNDUyNmIxN2EzNjEyNjI3YjQxNWYwMTkxYmFj",
+  "snapshot_id": "MCwzODRhYTExZTk1NzYyY2YzODg4NzhhOWQ0NGY1ODM4YmU1MjcwN2Rk",
   "tracks": [
     {
       "added_at": "2024-03-22 14:07:24",
@@ -343,26 +343,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Estamos Bajo el Agua",
-        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 151619,
-      "name": "Estamos Bajo el Agua",
-      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "berlin U5",
         "url": "https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "No s\u00e9 qu\u00e9 tienes",
         "url": "https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 174975,
       "name": "No s\u00e9 qu\u00e9 tienes",
       "url": "https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Bestia",
-        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 260618,
-      "name": "La Experiencia",
-      "url": "https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Sopita de pan",
         "url": "https://open.spotify.com/album/3XqCraq3luG498wyPggqup"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 264000,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
+      },
+      "artists": [
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 260618,
+      "name": "La Experiencia",
+      "url": "https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "COLAPSO",
-        "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 209247,
-      "name": "COLAPSO",
-      "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "COLAPSO",
+        "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 209247,
+      "name": "COLAPSO",
+      "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "Male",
+        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 147386,
       "name": "Todo Va A Cambiar",
       "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "Male",
-        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
-      },
-      "artists": [
-        {
-          "name": "Clara_mente",
-          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Male",
-      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Formas",
-      "url": "https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 184256,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Formas",
+      "url": "https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "AZ\u00daCAR",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
-      },
-      "artists": [
-        {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
-        }
-      ],
-      "duration_ms": 205398,
-      "name": "AZ\u00daCAR",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "La Loba",
         "url": "https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 186764,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "AZ\u00daCAR",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "duration_ms": 205398,
+      "name": "AZ\u00daCAR",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
         }
       ],
-      "duration_ms": 207436,
-      "name": "AMOR MINIMAL",
-      "url": "https://open.spotify.com/track/2xmhERSMywisE5yfTqYvd5"
+      "duration_ms": 205281,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0"
     }
   ],
   "unique_name": "Mujeres del Indie",

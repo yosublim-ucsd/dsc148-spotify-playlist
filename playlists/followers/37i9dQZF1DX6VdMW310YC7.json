@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 3709152,
+  "2024-04-01": 3709380,
   "date_first_scraped": "2020-02-29",
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
   "name": "Chill Tracks",
@@ -9588,6 +9588,32 @@
     },
     {
       "album": {
+        "name": "Flown",
+        "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235702,
+      "name": "Flown",
+      "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
+    },
+    {
+      "album": {
         "name": "Flutter (Feat. Madi)",
         "url": "https://open.spotify.com/album/762gMNCRrjyHEVuyUSQh4M"
       },
@@ -13127,7 +13153,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 262221,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"

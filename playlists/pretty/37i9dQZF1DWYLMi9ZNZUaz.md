@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,737 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,828 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 37 | [Cho Tôi Lang Thang](https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Tôi Lang Thang](https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V) | 4:18 |
 | 38 | [thế giới thần tiên](https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:50 |
 | 39 | [Mượn Rượu Tỏ Tình](https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Mượn Rượu Tỏ Tình](https://open.spotify.com/album/44gpk43ZzXo2grV47gOgTM) | 3:18 |
-| 40 | [NGTANOISE](https://open.spotify.com/track/57FeZINjlat9NLEhYUejmd) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [MFREE](https://open.spotify.com/artist/3Gx0fp4mXr6YU4DONMHqB8), [TUYEN VO](https://open.spotify.com/artist/0HhRjPFqN1sqrUpJA7NuDe) | [NGTANOISE](https://open.spotify.com/album/5dh8bC64DiQUb0o3E73LFc) | 2:59 |
+| 40 | [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 |
 | 41 | [Okeokeoke](https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Okeokeoke](https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri) | 2:19 |
 | 42 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 |
 | 43 | [tình yêu có nghĩa là gì?](https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:13 |
-| 44 | [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 |
+| 44 | [NGTANOISE](https://open.spotify.com/track/57FeZINjlat9NLEhYUejmd) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [MFREE](https://open.spotify.com/artist/3Gx0fp4mXr6YU4DONMHqB8), [TUYEN VO](https://open.spotify.com/artist/0HhRjPFqN1sqrUpJA7NuDe) | [NGTANOISE](https://open.spotify.com/album/5dh8bC64DiQUb0o3E73LFc) | 2:59 |
 | 45 | [Thanh Xuân](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuân](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 |
 | 46 | [Bật Nhạc Lên](https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Harmonie](https://open.spotify.com/artist/5UaJojKyJSqngDfoUw0P01) | [Bật Nhạc Lên](https://open.spotify.com/album/0YuGAT79ULNpdxzxWVXHFH) | 3:20 |
 | 47 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |
 | 48 | [Anh Chưa Biết Em](https://open.spotify.com/track/0U9TFIiCYcOqULZ2dYJcmu) | [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [Anh Chưa Biết Em](https://open.spotify.com/album/3AtUCcrqH1LnCRjkixPcKQ) | 2:58 |
 | 49 | [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 |
-| 50 | [XTC \(Xích Thêm Chút\) \(Remix\)](https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 4:03 |
+| 50 | [Đầu Đường Xó Chợ \(ft\. Lăng LD\)](https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Lăng LD](https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:04 |
 
-Snapshot ID: `MCxiY2Q0ZmQ2YTk5MTQyMDQ0ZWJkMjkyMDY4YTc4MjRiN2M0ZTM1MWFi`
+Snapshot ID: `MCw5YWE2ZjRmZjQyMTUxMDgzMzQxMjg0ZGM2MjIyYWRhZmQxYzg0MTc5`

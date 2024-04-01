@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55856,
+  "num_followers": 55868,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTdjODUyMzJkNWZkZDhjNjNlMjgxNjY2NzA0ZWU4Y2VhOTNmYjAw",
+  "snapshot_id": "MCwxNDUwOWNkN2JjMzkzM2U2NDBiZTI5NzUyMDJjOTQzMzA2ZjcxOTNl",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -371,22 +371,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 329466,
-      "name": "Freddie's Dead",
-      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 283573,
       "name": "Just Kissed My Baby",
       "url": "https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 329466,
+      "name": "Freddie's Dead",
+      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
-        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 362733,
-      "name": "Yes We Can Can",
-      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Jeannie's Getdown",
         "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 186348,
       "name": "A Message from the Meters",
       "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
+        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 362733,
+      "name": "Yes We Can Can",
+      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
     },
     {
-      "added_at": "2019-09-06 07:01:00",
-      "album": {
-        "name": "Drum Machine",
-        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
-      },
-      "artists": [
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Drum Machine",
-      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
-    },
-    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -1095,6 +1079,22 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
+    },
+    {
+      "added_at": "2019-09-06 07:01:00",
+      "album": {
+        "name": "Drum Machine",
+        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
+      },
+      "artists": [
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 245686,
       "name": "Ready to Live",
       "url": "https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1685,6 +1685,22 @@
       "url": "https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Run n' Fly",
+        "url": "https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw"
+      },
+      "artists": [
+        {
+          "name": "Run N' Fly",
+          "url": "https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Devon",
+      "url": "https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD"
+    },
+    {
       "added_at": "2019-09-06 07:01:00",
       "album": {
         "name": "TBNH",
@@ -1703,22 +1719,6 @@
       "duration_ms": 212252,
       "name": "Wired Up",
       "url": "https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Run n' Fly",
-        "url": "https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw"
-      },
-      "artists": [
-        {
-          "name": "Run N' Fly",
-          "url": "https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Devon",
-      "url": "https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD"
     }
   ],
   "unique_name": "Funk Drive",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,257 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,262 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 | 39 | [Suite ”Matsubokkuri” \-Funki saichousen!\-](https://open.spotify.com/track/4VSE6IQVNCSaA7ZJgghMFY) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:14 |
 | 40 | [Suite ”Matsubokkuri” \-Natsuzora to daikeikaku\-](https://open.spotify.com/track/1VLABP6DxPB7CbWqYDLiLC) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:37 |
 
-Snapshot ID: `MCwzMDlkNzgxZjdkYzMwMjVmYzJhOWVmNzBmMzM1N2IyMjYwNDJhYmM1`
+Snapshot ID: `MCw1NTRkY2I0OTA2Y2NkNGFlY2ExYjAxZjE3MmVjMmM5NDE0ZGQyNjc0`

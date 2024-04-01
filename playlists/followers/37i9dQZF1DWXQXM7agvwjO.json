@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 94616,
+  "2024-04-01": 94643,
   "date_first_scraped": "2022-03-28",
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: BANK (Indonesia)",
   "name": ".ORG",
@@ -15905,6 +15905,24 @@
       "duration_ms": 170204,
       "name": "sharp knife",
       "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
+    },
+    {
+      "album": {
+        "name": "She Likes to Dance",
+        "url": "https://open.spotify.com/album/4Ej7aO710TSFaKHBdwo7Xr"
+      },
+      "artists": [
+        {
+          "name": "Peej",
+          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245210,
+      "name": "She Likes to Dance",
+      "url": "https://open.spotify.com/track/26q20Hajvk9vLkaOY6eHYe"
     },
     {
       "album": {

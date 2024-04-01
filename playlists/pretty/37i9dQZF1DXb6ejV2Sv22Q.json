@@ -1,12 +1,12 @@
 {
   "description": "Raza... si dios me castigo con algo fue con dinero, nom\u00e1s pa que sepan AHHHHH JA JA JAAAAA",
-  "num_followers": 26625,
+  "num_followers": 26742,
   "original_name": "XD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTcxNjBlNTQyOGM0MmFkMWQ3MjQ0YzQzOTI2NjE3NzQ0OTU3Nzll",
+  "snapshot_id": "MCxiYjc3YzZkOGMyMGY0M2U0YjFlNWNkZjFiYzIwNzJiNTU1MmJlOTFm",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 206338,
-      "name": "Que Te Vas",
-      "url": "https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "classical phonk",
         "url": "https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 86160,
       "name": "classical phonk",
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 206338,
+      "name": "Que Te Vas",
+      "url": "https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ"
     },
     {
       "added_at": "2024-03-29 06:00:00",

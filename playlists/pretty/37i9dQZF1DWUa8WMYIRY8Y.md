@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,595 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,589 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 8 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
 | 9 | [Feel Alive](https://open.spotify.com/track/20dwwr5VsKtjOmPBSeIdxm) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [Feel Alive](https://open.spotify.com/album/7AcGQ0oCQfX55vHDU9VmCj) | 2:51 |
 | 10 | [Favourite Songs](https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Favourite Songs](https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9) | 3:34 |
-| 11 | [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 |
+| 11 | [Monaco](https://open.spotify.com/track/6AloHraR37w5Mn7kDlr3aR) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Interplay](https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld) | 4:15 |
 | 12 | [People In The Streets](https://open.spotify.com/track/2IxhaFpj0pMwL7Z3hatWWi) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Loss Of Life](https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa) | 5:36 |
 | 13 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 14 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 |
 | 50 | [Underneath](https://open.spotify.com/track/0QGFzGvqGnwb0mujqRtqL4) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Underneath](https://open.spotify.com/album/0ybov11Nf73XbQSjiiGG0M) | 4:29 |
 
-Snapshot ID: `MCw4MGUzMjA0MmY4YjZiMTlhMTU0YWZjMWEwYTQwODBlZTExNTNlOTNj`
+Snapshot ID: `MCwzZjU3Yjc2ZTg1ZjRjYTYzZTgzZDdhY2Q5NTk4MTI5OThhYWFmOTE2`

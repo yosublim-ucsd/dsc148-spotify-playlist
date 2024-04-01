@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 9381,
+  "num_followers": 9415,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzg5YjAwNzhlYjAxMDRlY2EyNTU1MzQyZWZjZWFhMzY4MTYyMWEw",
+  "snapshot_id": "MCw0NTc4NzRlMGI3YjQwY2NhMzBmMjE4NmFmYmJlOTU0OWZiZTRmMzQ3",
   "tracks": [
     {
       "added_at": "2024-03-29 00:01:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+        "name": "This Far by Grace",
+        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
       "artists": [
         {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+          "name": "Pastor Edwin Dadson",
+          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
         }
       ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+      "duration_ms": 293500,
+      "name": "This Far by Grace",
+      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "This Far by Grace",
-        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
       },
       "artists": [
         {
-          "name": "Pastor Edwin Dadson",
-          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 293500,
-      "name": "This Far by Grace",
-      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Live in Kumasi",
-        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Nyame Tumfo (Live)",
-      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+        "name": "Live in Kumasi",
+        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 164396,
-      "name": "Chosen",
-      "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
+      "duration_ms": 280000,
+      "name": "Nyame Tumfo (Live)",
+      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Man on a Mission",
-      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Deeper Touch",
         "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 368182,
       "name": "Lord Have Your Way",
       "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Man on a Mission",
+      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
     },
     {
       "added_at": "2024-03-29 00:01:00",

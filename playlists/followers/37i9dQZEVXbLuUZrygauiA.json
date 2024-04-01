@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 214694,
+  "2024-04-01": 214698,
   "date_first_scraped": "2022-02-09",
   "description": "Your daily update of the most viral tracks right now - Mexico.",
   "name": "Viral 50 - Mexico",
@@ -5581,7 +5581,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 157440,
       "name": "Capuchas",
       "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
@@ -8133,10 +8133,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 140016,
       "name": "De Culiac\u00e1n",
       "url": "https://open.spotify.com/track/6Stxd1HbnpNt1eusB1Feme"
+    },
+    {
+      "album": {
+        "name": "RIO CONTROL",
+        "url": "https://open.spotify.com/album/5N8dmJJ06H1577HPYZ0TFL"
+      },
+      "artists": [
+        {
+          "name": "zboouu",
+          "url": "https://open.spotify.com/artist/56vMvsXILxv0fAdQWuB1nu"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "De Culiac\u00e1n (Dembow)",
+      "url": "https://open.spotify.com/track/2UB0hET7GtZrTBnXPXGpGy"
     },
     {
       "album": {
@@ -12671,7 +12689,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
@@ -12805,6 +12823,24 @@
       "duration_ms": 68687,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
+    },
+    {
+      "album": {
+        "name": "From the Start",
+        "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150047,
+      "name": "From the Start",
+      "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
     },
     {
       "album": {
@@ -18253,7 +18289,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -25765,10 +25801,28 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 164025,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/0ApOZEtu1ToKyJe3lap8Az"
+    },
+    {
+      "album": {
+        "name": "RIO CONTROL",
+        "url": "https://open.spotify.com/album/5N8dmJJ06H1577HPYZ0TFL"
+      },
+      "artists": [
+        {
+          "name": "zboouu",
+          "url": "https://open.spotify.com/artist/56vMvsXILxv0fAdQWuB1nu"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163744,
+      "name": "Punta Cana",
+      "url": "https://open.spotify.com/track/2e8KAn7e8yhlDsWLxN8ecy"
     },
     {
       "album": {

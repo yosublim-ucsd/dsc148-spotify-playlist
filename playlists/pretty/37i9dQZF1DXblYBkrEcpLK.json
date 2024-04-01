@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u82b1\u6fa4\u9999\u83dc",
-  "num_followers": 156359,
+  "num_followers": 156419,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2U4ZTAwMDJjMTQ5YjM3ZjlhYzI5OTVkNmE3ODQ3NWIxZDM1NDM2",
+  "snapshot_id": "MCxhNzk1MjNmYTMxM2I3MjcyNzBlY2EwOWZkNzY3ZDhjYmM0OWE2NDYx",
   "tracks": [
     {
       "added_at": "2024-03-26 18:02:21",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-03-26 18:02:21",
       "album": {
-        "name": "\u5149\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 258265,
-      "name": "\u5149\u306e\u4e2d\u3078",
-      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
-    },
-    {
-      "added_at": "2024-03-26 18:02:21",
-      "album": {
         "name": "\u3089\u3076\u3058\u3085\u3066\u30fc\u3080",
         "url": "https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 195449,
       "name": "\u3089\u3076\u3058\u3085\u3066\u30fc\u3080",
       "url": "https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G"
+    },
+    {
+      "added_at": "2024-03-26 18:02:21",
+      "album": {
+        "name": "\u5149\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 258265,
+      "name": "\u5149\u306e\u4e2d\u3078",
+      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
     },
     {
       "added_at": "2024-03-26 18:02:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-26 18:02:21",
       "album": {
-        "name": "Honey Jet Coaster",
-        "url": "https://open.spotify.com/album/2E02rdPJI1oCGwkvqsU1ti"
-      },
-      "artists": [
-        {
-          "name": "nasuo",
-          "url": "https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Honey Jet Coaster",
-      "url": "https://open.spotify.com/track/6EV6ppWIOeRr2qZSpyh5GE"
-    },
-    {
-      "added_at": "2024-03-26 18:02:21",
-      "album": {
         "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
         "url": "https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 161166,
       "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
       "url": "https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3"
+    },
+    {
+      "added_at": "2024-03-26 18:02:21",
+      "album": {
+        "name": "Honey Jet Coaster",
+        "url": "https://open.spotify.com/album/2E02rdPJI1oCGwkvqsU1ti"
+      },
+      "artists": [
+        {
+          "name": "nasuo",
+          "url": "https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Honey Jet Coaster",
+      "url": "https://open.spotify.com/track/6EV6ppWIOeRr2qZSpyh5GE"
     },
     {
       "added_at": "2024-03-26 18:02:21",

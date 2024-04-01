@@ -4,7 +4,7 @@
 
 > This is r&b in Canada, elevate your aura with K\. Forest.
 
-982 songs - 2 day 3 hr 53 min
+983 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,7 +943,8 @@
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-01-06 | 2023-06-03 |
 | [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2023-05-19 | 2023-09-16 |
 | [We Make Sense](https://open.spotify.com/track/6Uv0pRytdE99Op5MYIfiJs) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [We Make Sense](https://open.spotify.com/album/7pD9IBIvAiHjT4nKKnA3D1) | 3:21 | 2023-03-24 | 2023-06-10 |
-| [Welcome to Nostalgia](https://open.spotify.com/track/42ES1zVyBVYY0oLeLTJK5Q) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Welcome to Nostalgia](https://open.spotify.com/album/5FfiLItrCZyXr8n9i7AuUm) | 3:41 | 2023-12-15 |  |
+| [Welcome to Nostalgia](https://open.spotify.com/track/42ES1zVyBVYY0oLeLTJK5Q) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Welcome to Nostalgia](https://open.spotify.com/album/5FfiLItrCZyXr8n9i7AuUm) | 3:41 | 2023-12-15 | 2024-04-01 |
+| [Welcome To Nostalgia](https://open.spotify.com/track/2PCu2I8llcLd1vOtv6Rk1F) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Welcome to Nostalgia](https://open.spotify.com/album/7L92ZHOZgkGzYCp0fvqWwX) | 3:42 | 2024-03-29 |  |
 | [WEST DISTRICT](https://open.spotify.com/track/1xJf1B1Pfl5eVSVV1nwN7j) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 5:03 | 2022-02-18 | 2022-06-25 |
 | [What A Way To Go](https://open.spotify.com/track/1BRaaNsHfcAFVZPJkmJgVp) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR), [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [What A Way To Go](https://open.spotify.com/album/0GqEB3z6bCc2OlR6aR8w5d) | 2:50 | 2023-12-08 | 2024-03-23 |
 | [what u need](https://open.spotify.com/track/7mXNYo4eXnKNBx2yicz5MD) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [what u need](https://open.spotify.com/album/1u5HgNFQPwFaniRb3jx69G) | 3:14 | 2022-02-18 | 2022-06-18 |

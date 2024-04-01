@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Wallows
 
-1,424 songs - 3 day 6 hr 21 min
+1,426 songs - 3 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,7 +764,8 @@
 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 | 2022-09-30 | 2022-11-12 |
 | [Little Ghost](https://open.spotify.com/track/0qnE2zGsoGm0GaWEYvMUUi) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass](https://open.spotify.com/album/61jBwWqfPNkDDHUtgKHRax) | 3:44 | 2023-10-13 | 2024-01-20 |
 | [Live it Up](https://open.spotify.com/track/69T4LVwrEv0QNGHmlGaPnd) | [Carter Cook](https://open.spotify.com/artist/0KHc7N6EG0MPyIgJCsEGff) | [Live it Up](https://open.spotify.com/album/2sIHgPFSCfdcRXDurrKFQI) | 1:59 | 2023-05-05 | 2023-05-24 |
-| [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 | 2024-03-29 |  |
+| [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 | 2024-03-29 | 2024-04-01 |
+| [Live Today](https://open.spotify.com/track/3wAUDos7BPWlHBetCruaD1) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Notebook Fantasy](https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX) | 2:52 | 2024-03-29 |  |
 | [Liz \(New York\)](https://open.spotify.com/track/1QrUVQTmRV2gOmg8tby37B) | [Geskle](https://open.spotify.com/artist/6vs7hYqS7v8KjGlZOv2DLN) | [Liz \(New York\)](https://open.spotify.com/album/1fv5jGrYUx7N8MWMLUGkNG) | 3:14 | 2022-07-15 | 2022-08-27 |
 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 | 2022-11-11 | 2022-11-19 |
 | [Loner](https://open.spotify.com/track/7fLb22ZSPkgPOCsOksCwtg) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Loner](https://open.spotify.com/album/5znBaBjG7vMjRdSdKcNV6Q) | 2:23 | 2022-05-20 | 2022-07-09 |
@@ -847,7 +848,8 @@
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-10-20 | 2024-03-09 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-06-07 | 2022-06-06 |
 | [Mommy Issues](https://open.spotify.com/track/1TfG5nLrJdIFT1hc3nOzLe) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Mommy Issues](https://open.spotify.com/album/2wrGVJfp4CGULkSPb4GNEO) | 2:43 | 2023-06-02 | 2023-08-12 |
-| [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 | 2024-03-15 |  |
+| [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 | 2024-03-15 | 2024-04-01 |
+| [Monaco](https://open.spotify.com/track/6AloHraR37w5Mn7kDlr3aR) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Interplay](https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld) | 4:15 | 2024-03-15 |  |
 | [Money](https://open.spotify.com/track/5Q1H7ASDiJpACNx5ziyhuN) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en) | 3:53 | 2021-10-08 | 2022-06-10 |
 | [MONKI](https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MONKI](https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm) | 2:44 | 2024-02-23 |  |
 | [Montana](https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:20 | 2021-06-07 | 2022-04-17 |

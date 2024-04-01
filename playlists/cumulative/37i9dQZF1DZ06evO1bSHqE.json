@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 251240,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "I'm a Slave 4 U",
       "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
@@ -786,6 +786,24 @@
       "duration_ms": 257493,
       "name": "Ooh La La (from \"The Smurfs 2\")",
       "url": "https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "Ooh Ooh Baby",
+      "url": "https://open.spotify.com/track/68rqXl8LTdwEd2u0QMkWvi"
     },
     {
       "album": {
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 172463,
       "name": "Toxic Las Vegas - Jamieson Shaw Remix (From The Original Motion Picture Soundtrack ELVIS) DELUXE EDITION",
       "url": "https://open.spotify.com/track/7JRTxurpdtXfdWRy8rlHrZ"

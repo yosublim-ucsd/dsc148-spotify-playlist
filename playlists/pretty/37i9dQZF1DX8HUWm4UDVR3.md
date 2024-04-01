@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Louisette & Amaury
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,815 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,827 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Moi du Passé](https://open.spotify.com/track/72bwy4wAvp7D2oRsZZ65pp) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW), [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Moi du Passé](https://open.spotify.com/album/1wxKnSrpD8XfrmOgAY0Vmw) | 3:07 |
 | 50 | [Forteresse](https://open.spotify.com/track/2dlsjJGFMoWD3Nu4YcIX09) | [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Forteresse](https://open.spotify.com/album/5bjLJg01d8FPkMKBdNxeQp) | 2:53 |
 
-Snapshot ID: `MCwyYTU1ZDk1YjNlN2IyMzQ0OTM4OGFiMGE3YzVmYmUzNmY4NDAzNjRl`
+Snapshot ID: `MCwxMTE3ZjFjZDNhMDYwZjE5ODk4YjIwNWQ1MmMwMjRkMzE4MWJkNDA3`

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 37246,
+  "num_followers": 37249,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmZjMTExNzY5NTVkOTljN2Q3Yjg0NTA0ZjVjY2FhYTJlZTJhM2Nj",
+  "snapshot_id": "MCw5OWFmMjRkZmVmZDBmYTAzZTVmZGY5ZDI3NzE1Mjc3YzU5ZjZiMmVj",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "Roteiro pra A\u00efnouz (Vol. 2)",
-        "url": "https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 267017,
-      "name": "auri sacra fames",
-      "url": "https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 143253,
       "name": "Ouro e fuzil",
       "url": "https://open.spotify.com/track/0OZR3UekFolO2c9ta18NNv"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "Roteiro pra A\u00efnouz (Vol. 2)",
+        "url": "https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 267017,
+      "name": "auri sacra fames",
+      "url": "https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi"
     },
     {
       "added_at": "2024-02-16 03:01:00",

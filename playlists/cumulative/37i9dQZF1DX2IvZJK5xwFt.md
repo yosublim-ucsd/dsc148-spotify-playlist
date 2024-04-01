@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Metallica
 
-560 songs - 1 day 10 hr 43 min
+561 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [LA FINE](https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [LA FINE](https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK) | 3:20 | 2022-12-15 | 2023-12-08 |
 | [Land of Smile](https://open.spotify.com/track/6lTBuxszarD3vejf6yMBnJ) | [The Young Wolf](https://open.spotify.com/artist/1D9YuAgk4GI9co3rvv5b1Y) | [Land of Smile](https://open.spotify.com/album/03C3715uWzXOjOuQIIdrbu) | 4:22 | 2022-05-06 | 2022-05-20 |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-28 | 2023-11-05 |
-| [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-10-27 |  |
+| [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-10-27 | 2024-04-01 |
+| [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 | 2024-03-21 |  |
 | [Last Call](https://open.spotify.com/track/0H8qdtJRkD6UcodZBdhEw4) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Last Call](https://open.spotify.com/album/0fMQ9pIlz9E9Po9PviHWxb) | 2:46 | 2023-05-25 | 2023-06-02 |
 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6OuMeKOWACC0acKVleXvTC) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/1MIXnmRStAxYzf7qufHpLR) | 4:07 | 2024-03-14 | 2024-03-22 |
 | [Leave Me Be](https://open.spotify.com/track/7Cz87d89aHhnk3MmGAG3L3) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum \(Deluxe Edition\)](https://open.spotify.com/album/61fYGxrlD51FLZGWSlX68q) | 3:33 | 2022-06-30 | 2022-09-30 |

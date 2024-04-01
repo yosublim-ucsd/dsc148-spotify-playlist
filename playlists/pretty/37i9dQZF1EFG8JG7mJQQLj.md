@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,817 likes - 420 songs - 1 day 0 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,824 likes - 420 songs - 1 day 0 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 87 | [Do It Like That](https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:25 |
 | 88 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
 | 89 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
-| 90 | [Why Do You Love Me](https://open.spotify.com/track/09rBX6mQFN1GFJgfqUQak5) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:51 |
-| 91 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
+| 90 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
+| 91 | [Why Do You Love Me](https://open.spotify.com/track/09rBX6mQFN1GFJgfqUQak5) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:51 |
 | 92 | [The Fighter \(feat\. Ryan Tedder\)](https://open.spotify.com/track/77ZdAoTHYoF6Umo76HFD4m) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles II](https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB) | 3:48 |
 | 93 | [Stay the Night](https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:36 |
 | 94 | [Particular Taste](https://open.spotify.com/track/4BH9zDv1Ys6kw0j3lU1hTx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:55 |
@@ -207,9 +207,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 197 | [Fuh You](https://open.spotify.com/track/3Qj39daVgJxbJ6NYRFehMg) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 3:23 |
 | 198 | [S.T.O.P \(feat\. Ryan Tedder\)](https://open.spotify.com/track/37TgrDSXlOQI1mAqASPI7F) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:34 |
 | 199 | [Don't Look Down](https://open.spotify.com/track/3cA7Xne5Zp9HEo69oOqLMc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 1:37 |
-| 200 | [Dear Santa](https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dear Santa](https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp) | 2:49 |
-| 201 | [Call Me Revenge \- Call of Duty: Modern Warfare 3](https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Call Me Revenge \(Call of Duty: Modern Warfare 3\)](https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux) | 2:46 |
-| 202 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
+| 200 | [Call Me Revenge \- Call of Duty: Modern Warfare 3](https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Call Me Revenge \(Call of Duty: Modern Warfare 3\)](https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux) | 2:46 |
+| 201 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
+| 202 | [Dear Santa](https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dear Santa](https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp) | 2:49 |
 | 203 | [We Remain \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/0G3iJ1r5SSv7nUBNCgBmwF) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [We Remain \(From "The Hunger Games: Catching Fire" Soundtrack\)](https://open.spotify.com/album/1eV7Ibmg1o9TVRfOB71l6f) | 4:00 |
 | 204 | [Words as Weapons](https://open.spotify.com/track/2xYtuB16vJd4bMMHoku26H) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 3:59 |
 | 205 | [NbHD](https://open.spotify.com/track/6zsFCfP4TK2J48tMYjb668) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:44 |
@@ -429,4 +429,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 419 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
 | 420 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `Mjg1MzA4NDAsMDAwMDAwMDBiMTA3NTM4MTBlZTc1MDgyYTBhZmM4N2E5NWJlNTgyMg==`
+Snapshot ID: `Mjg1MzIyODAsMDAwMDAwMDBlMjU2MDU5YTk3M2EyOWE2MWYyYWQ4NzIwZDc2N2FlNw==`

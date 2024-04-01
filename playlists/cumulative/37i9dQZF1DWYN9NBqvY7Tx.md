@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-494 songs - 1 day 2 hr 0 min
+495 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Forget You \(feat\. Gabry Ponte\) \[LUM!X VIP MIX\]](https://open.spotify.com/track/0HTTYoAKHZOOybFJH24lbv) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Forget You \(feat\. Gabry Ponte\) \[LUM!X VIP MIX\]](https://open.spotify.com/album/6TPq02HEuoWtmchqv4Ox77) | 2:49 | 2023-03-31 | 2023-07-19 |
 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 | 2023-07-18 |  |
 | [Friend Of Mine](https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Friend Of Mine](https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS) | 3:33 | 2024-01-19 | 2024-01-31 |
+| [Frikitona \- Slowboy Remix](https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Frikitona \(Slowboy Remix\)](https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA) | 2:18 | 2024-03-29 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-07-14 | 2023-03-25 |
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2022-06-10 | 2022-07-21 |
 | [FΛSHION \- Speed Up](https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/35L2KnjTRZIdd91mIXgjFm) | 2:06 | 2024-01-19 | 2024-02-23 |
@@ -311,7 +312,7 @@
 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-18 | 2023-11-09 |
 | [OneHundred](https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [OneHundred](https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE) | 3:09 | 2024-01-19 |  |
 | [Oohla Oohla](https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Oohla Oohla](https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs) | 2:23 | 2022-06-10 | 2022-06-30 |
-| [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 | 2023-05-05 |  |
+| [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 | 2023-05-05 | 2024-04-01 |
 | [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2022-07-14 | 2022-07-27 |
 | [Pandora](https://open.spotify.com/track/3ihpDP7D2ZK769grmaGjlO) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/4dxh48ZuZtwKbMQ5GCm0UI) | 3:41 | 2022-05-06 | 2022-07-29 |
 | [Paper Plane](https://open.spotify.com/track/3oht02g1mg6KywagA3bysC) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Paper Plane](https://open.spotify.com/album/3q53z26hzALpOERcaZ6nUt) | 2:33 | 2024-03-08 |  |

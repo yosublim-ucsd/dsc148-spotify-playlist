@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
-  "num_followers": 81783,
+  "num_followers": 81845,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDQ3ZWI1ZGY0MzVkMGQ0MmFkMjM5YWRlOGNhZWViMWM1ZmY3ZTYy",
+  "snapshot_id": "MCw4NTUxMGY1YmM2NmJlNzdiNmE0ZmJiM2FlNzU2YzFjNDY2YTM2MmRl",
   "tracks": [
     {
       "added_at": "2024-01-26 11:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Kings Kaleidoscope",
-        "url": "https://open.spotify.com/album/7em1z6RFOEdURjAEuJE352"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 241525,
-      "name": "Radiant Reason",
-      "url": "https://open.spotify.com/track/7fkDrV2fvORVEiUkmWEi6R"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Till It Kills Me",
         "url": "https://open.spotify.com/album/2LEBSDEECtxcoot8F0Cs8z"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Small Things",
-        "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
+        "name": "Kings Kaleidoscope",
+        "url": "https://open.spotify.com/album/7em1z6RFOEdURjAEuJE352"
       },
       "artists": [
         {
-          "name": "Bella Taylor Smith",
-          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
         }
       ],
-      "duration_ms": 176851,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
+      "duration_ms": 241525,
+      "name": "Radiant Reason",
+      "url": "https://open.spotify.com/track/7fkDrV2fvORVEiUkmWEi6R"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -723,6 +707,22 @@
       "duration_ms": 175443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/3MRPHk7P4vaj6N67sv3bWX"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Small Things",
+        "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "duration_ms": 176851,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Stand Up Eight",
-        "url": "https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 187688,
-      "name": "Stand Up Eight",
-      "url": "https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "First Things First",
         "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 149515,
       "name": "MORE!",
       "url": "https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Stand Up Eight",
+        "url": "https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 187688,
+      "name": "Stand Up Eight",
+      "url": "https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -975,22 +975,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "RIVALS",
-        "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli"
       },
       "artists": [
         {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "GAV",
-          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 187118,
-      "name": "RIVALS",
-      "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
+      "duration_ms": 243840,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1011,6 +1007,26 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "RIVALS",
+        "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "GAV",
+          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "RIVALS",
+      "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "So Much To Say (Pt. III)",
         "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 164542,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
-      },
-      "artists": [
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "That Feel",
         "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 163657,
       "name": "That Feel",
       "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "L",
-        "url": "https://open.spotify.com/album/7pJtu1Hs5IaC7cIncpN3C6"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "L",
-      "url": "https://open.spotify.com/track/13GUmWrOYPpjTS1Mf9LQih"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3qSl2EUB9MHWNZ7blQVOL4"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 203513,
       "name": "Close",
       "url": "https://open.spotify.com/track/7LO1oz9S57cbaygtuqMsJv"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "L",
+        "url": "https://open.spotify.com/album/7pJtu1Hs5IaC7cIncpN3C6"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "L",
+      "url": "https://open.spotify.com/track/13GUmWrOYPpjTS1Mf9LQih"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Greater Is He",
+        "url": "https://open.spotify.com/album/3Ah5hEwBGRZy0uBfzm5jMv"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "duration_ms": 180292,
+      "name": "ALL MY LIFE",
+      "url": "https://open.spotify.com/track/44HijDTWOym4XWqEFQD28Y"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Love Won't Let Me Go (Acoustic Version)",
         "url": "https://open.spotify.com/album/2bPEY2qGKlKdQyY8iKLTp6"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 209045,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/0Msp58EKLK7rxTbwQewtdC"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Greater Is He",
-        "url": "https://open.spotify.com/album/3Ah5hEwBGRZy0uBfzm5jMv"
-      },
-      "artists": [
-        {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
-        }
-      ],
-      "duration_ms": 180292,
-      "name": "ALL MY LIFE",
-      "url": "https://open.spotify.com/track/44HijDTWOym4XWqEFQD28Y"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Death in Reverse",
+        "url": "https://open.spotify.com/album/1UGW0FEM2zXsejRl8or0YE"
+      },
+      "artists": [
+        {
+          "name": "Emilie Weiss",
+          "url": "https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg"
+        },
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 236126,
+      "name": "Death in Reverse",
+      "url": "https://open.spotify.com/track/1gQBJLHT1uHoa52ZYlRK4X"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Blindman (Brother Isaiah, J.J. Wright and Friends)",
         "url": "https://open.spotify.com/album/0arKvAlRX9t3vUahRruaHL"
       },
@@ -1471,22 +1491,42 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Death in Reverse",
-        "url": "https://open.spotify.com/album/1UGW0FEM2zXsejRl8or0YE"
+        "name": "How I Love You",
+        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
       },
       "artists": [
         {
-          "name": "Emilie Weiss",
-          "url": "https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg"
+          "name": "SHEALY",
+          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
         },
         {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+          "name": "Brandon Love",
+          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
         }
       ],
-      "duration_ms": 236126,
-      "name": "Death in Reverse",
-      "url": "https://open.spotify.com/track/1gQBJLHT1uHoa52ZYlRK4X"
+      "duration_ms": 261000,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "How Could It Be",
+        "url": "https://open.spotify.com/album/2Vd91fcLaexOIU4SPQib7Z"
+      },
+      "artists": [
+        {
+          "name": "Cole McSween",
+          "url": "https://open.spotify.com/artist/2KMrZuKzJE2Pr0Ly5tgAPh"
+        },
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        }
+      ],
+      "duration_ms": 187687,
+      "name": "How Could It Be",
+      "url": "https://open.spotify.com/track/1NCmHKsOVm8j9toNyCzEfH"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1511,26 +1551,6 @@
       "duration_ms": 248307,
       "name": "Never Abandoned You - Acoustic Version",
       "url": "https://open.spotify.com/track/7bows2EMDBOfbuqS3pBF5o"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "How Could It Be",
-        "url": "https://open.spotify.com/album/2Vd91fcLaexOIU4SPQib7Z"
-      },
-      "artists": [
-        {
-          "name": "Cole McSween",
-          "url": "https://open.spotify.com/artist/2KMrZuKzJE2Pr0Ly5tgAPh"
-        },
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        }
-      ],
-      "duration_ms": 187687,
-      "name": "How Could It Be",
-      "url": "https://open.spotify.com/track/1NCmHKsOVm8j9toNyCzEfH"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1571,26 +1591,6 @@
       "duration_ms": 210000,
       "name": "Hope You Find Love",
       "url": "https://open.spotify.com/track/5BVQIDplvK9yVH6e4V20aw"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "How I Love You",
-        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
-      },
-      "artists": [
-        {
-          "name": "SHEALY",
-          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
-        },
-        {
-          "name": "Brandon Love",
-          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "JUST BE US",
-        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 142889,
-      "name": "JUST BE US",
-      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/1eNFSWubs0WkDEme69zu4j"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 160941,
       "name": "Good God",
       "url": "https://open.spotify.com/track/5j9qyTzGm87m41stQi6i4w"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "JUST BE US",
+        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 142889,
+      "name": "JUST BE US",
+      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "You Loved Me To You",
         "url": "https://open.spotify.com/album/08GGX1RK46V6vmEyk1GNMn"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 135882,
       "name": "You Loved Me To You",
       "url": "https://open.spotify.com/track/6z9tITZ9EtBDjPbLrK1BCG"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/0VKz993ynbnahm4mZcSvO9"
+      },
+      "artists": [
+        {
+          "name": "AOH Music",
+          "url": "https://open.spotify.com/artist/1llt760POSmdKmBFiMaz3m"
+        }
+      ],
+      "duration_ms": 189941,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/7hjnTV6828YbUjZJ3TGfUS"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "God's Chosen",
         "url": "https://open.spotify.com/album/0e52Ku1wajjrMXozW3f847"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 187586,
       "name": "God's Chosen",
       "url": "https://open.spotify.com/track/5nFpreEo4jY59tkTvfOV8L"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/0VKz993ynbnahm4mZcSvO9"
-      },
-      "artists": [
-        {
-          "name": "AOH Music",
-          "url": "https://open.spotify.com/artist/1llt760POSmdKmBFiMaz3m"
-        }
-      ],
-      "duration_ms": 189941,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/7hjnTV6828YbUjZJ3TGfUS"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Can I Get a Witness",
+        "url": "https://open.spotify.com/album/3SGtDcEbFg8ilsXmwEs1RM"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Can I Get a Witness",
+      "url": "https://open.spotify.com/track/4wa9fDSypocJR9E08iMkaS"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "if I can be honest",
         "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 260553,
       "name": "the healing song",
       "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Can I Get a Witness",
-        "url": "https://open.spotify.com/album/3SGtDcEbFg8ilsXmwEs1RM"
-      },
-      "artists": [
-        {
-          "name": "Justin Radford",
-          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Can I Get a Witness",
-      "url": "https://open.spotify.com/track/4wa9fDSypocJR9E08iMkaS"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Song Of Victory",
-        "url": "https://open.spotify.com/album/2eXAQQqcOQXzk53Q4qT8Ti"
-      },
-      "artists": [
-        {
-          "name": "Jack Cassidy",
-          "url": "https://open.spotify.com/artist/4mkHQk6HAQc82NESFcw4bs"
-        }
-      ],
-      "duration_ms": 250263,
-      "name": "Song Of Victory",
-      "url": "https://open.spotify.com/track/0SpUmGswitajAi8UBshRqD"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Candlelight",
         "url": "https://open.spotify.com/album/5TaylRZLl8LZJ9SAccvHQe"
       },
@@ -2711,6 +2695,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Song Of Victory",
+        "url": "https://open.spotify.com/album/2eXAQQqcOQXzk53Q4qT8Ti"
+      },
+      "artists": [
+        {
+          "name": "Jack Cassidy",
+          "url": "https://open.spotify.com/artist/4mkHQk6HAQc82NESFcw4bs"
+        }
+      ],
+      "duration_ms": 250263,
+      "name": "Song Of Victory",
+      "url": "https://open.spotify.com/track/0SpUmGswitajAi8UBshRqD"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "burning roses",
         "url": "https://open.spotify.com/album/7yHSF0unveiLFVbH5LzRJT"
       },
@@ -2727,18 +2727,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Virtuous Woman",
-        "url": "https://open.spotify.com/album/2uVYRZbOdXSouxGzQPshzR"
+        "name": "Let A Little Light In",
+        "url": "https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL"
       },
       "artists": [
         {
-          "name": "Ki Alexis",
-          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 184434,
-      "name": "Virtuous Woman",
-      "url": "https://open.spotify.com/track/4ogdAdXyUjQvWZfIrHnYKo"
+      "duration_ms": 258980,
+      "name": "Let A Little Light In",
+      "url": "https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR"
     }
   ],
   "unique_name": "Indie Spirit",

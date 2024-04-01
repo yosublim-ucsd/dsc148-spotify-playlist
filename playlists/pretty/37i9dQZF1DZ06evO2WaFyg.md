@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,333 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,373 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 48 | [Climax \(feat\. 6lack\)](https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [On the Run](https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO) | 3:09 |
 | 49 | [Want Me Dead \(feat\. 21 Savage\)](https://open.spotify.com/track/3GXjlz7evuodm50dfiDDWo) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:14 |
 | 50 | [die in california \(feat\. Gunna, Young Thug & Landon Barker\)](https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:27 |
-| 51 | [RUN \(feat\. Young Thug\)](https://open.spotify.com/track/4EPfeopXB7rDQGR4ae0Xmt) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:45 |
+| 51 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 |
 
-Snapshot ID: `Mjg1MzAwMjksMDAwMDAwMDA3YWI2MzQ4MzhhMDc4NjdkZDc1ODI4NDY0NTMzMWE1ZQ==`
+Snapshot ID: `Mjg1MzE0ODAsMDAwMDAwMDAzMTllYzE0OTQ0ZDM1ODgwZmE0MzA2MjU2MjIwYzRlMg==`

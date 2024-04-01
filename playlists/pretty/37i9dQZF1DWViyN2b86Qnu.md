@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Arca
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,652 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,697 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 27 | [ALEXITHYMIA](https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:15 |
 | 28 | [Spells](https://open.spotify.com/track/7w9pvfKwCbIc2K1v97ICkb) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Devi McCallion](https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I) | [Spells](https://open.spotify.com/album/0d5qdh50jjlmfJl4l9kcqP) | 2:23 |
 | 29 | [Cuero](https://open.spotify.com/track/6VylQ9FYNpKX2buDhXOql0) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Cuero](https://open.spotify.com/album/1WhwBtpQcnsbwwIvte1ORf) | 2:45 |
-| 30 | [Coconuts](https://open.spotify.com/track/6hU8gpgjZqgwjfjWYACwYR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:48 |
-| 31 | [i've made mistakes](https://open.spotify.com/track/5QPeUESYXOatQ9RdU8BQUZ) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 4:20 |
-| 32 | [Quick Fix](https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Quick Fix](https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn) | 4:18 |
-| 33 | [Big Mouth Bass](https://open.spotify.com/track/1cq5EfiHnIfh8UR5nbQhQg) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [Real Life](https://open.spotify.com/album/2nOCr4YMXvk3m3ze262yTN) | 2:47 |
-| 34 | [People Get Ready](https://open.spotify.com/track/7I1SawtevbQRvsucwNjt3g) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Memory Lane](https://open.spotify.com/album/6t4ZDwc8XaeiWwwLGG9mOr) | 2:31 |
-| 35 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
-| 36 | [And Groove \- Edit](https://open.spotify.com/track/1kwEdSUWNs9qNxM7rnsXCH) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:25 |
-| 37 | [Rakata](https://open.spotify.com/track/0hp5IJ83YpnglsrvGfIhIN) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:31 |
+| 30 | [i've made mistakes](https://open.spotify.com/track/5QPeUESYXOatQ9RdU8BQUZ) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 4:20 |
+| 31 | [Quick Fix](https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Quick Fix](https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn) | 4:18 |
+| 32 | [Big Mouth Bass](https://open.spotify.com/track/1cq5EfiHnIfh8UR5nbQhQg) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [Real Life](https://open.spotify.com/album/2nOCr4YMXvk3m3ze262yTN) | 2:47 |
+| 33 | [People Get Ready](https://open.spotify.com/track/7I1SawtevbQRvsucwNjt3g) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Memory Lane](https://open.spotify.com/album/6t4ZDwc8XaeiWwwLGG9mOr) | 2:31 |
+| 34 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
+| 35 | [And Groove \- Edit](https://open.spotify.com/track/1kwEdSUWNs9qNxM7rnsXCH) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:25 |
+| 36 | [Rakata](https://open.spotify.com/track/0hp5IJ83YpnglsrvGfIhIN) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:31 |
+| 37 | [Lost My Mind](https://open.spotify.com/track/4ol1eAIlmVpt6KRwdy2Bzm) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Lost My Mind](https://open.spotify.com/album/4khz6CgbiUS9TmeYv8gHhR) | 3:39 |
 | 38 | [Sliver Of Ice](https://open.spotify.com/track/6QxP947bbi8Gw4grsSJL8V) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz) | 3:41 |
 | 39 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
 | 40 | [Day After A Night With U](https://open.spotify.com/track/3K2fuhmE5ZS7gL717nJGlN) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx) | 5:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 49 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 |
 | 50 | [It's Ok to Be Sick](https://open.spotify.com/track/2M2TubCJPMDJXj8OEJiV1L) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl) | [Friends\. Lovers\. Favorites](https://open.spotify.com/album/6GEy3owNRRCycgZVqNdwVv) | 1:03 |
 
-Snapshot ID: `MCxkMjAxODhjM2NlYzg1MjM3YzFmZGZiZTJjMjg2ZTY2NjJjYjFlNTFi`
+Snapshot ID: `MCwxY2IxYjViYTczYmU2MzU0Y2RhZGRjNGU5ZTc2OWUzMWE4OTcwOTEx`

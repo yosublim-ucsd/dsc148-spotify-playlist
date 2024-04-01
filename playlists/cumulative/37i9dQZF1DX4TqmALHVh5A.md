@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : Luther
 
-145 songs - 7 hr 49 min
+146 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Le saut du tigre](https://open.spotify.com/track/2HWc8pXCVL3D3INJshlyYp) | [Aquaserge](https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s) | [Le saut du tigre](https://open.spotify.com/album/66OhazmOAiQAUw4kJ3R7GN) | 3:10 | 2024-03-28 |  |
 | [Le soleil](https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Le soleil](https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8) | 4:07 | 2023-09-28 | 2023-12-01 |
 | [Le téléphone](https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [Le téléphone](https://open.spotify.com/album/7xlJo76BopfAUd4rwiwDPv) | 2:42 | 2023-11-23 | 2023-12-01 |
-| [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 |  |
+| [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-04-01 |
+| [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 |  |
 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 | 2023-09-28 | 2023-10-20 |
 | [Lunettes du style](https://open.spotify.com/track/22kQGWbD8Pq8tdG1PzorJQ) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Lunettes du style](https://open.spotify.com/album/3UTwX4b6mg3wRf5qBl5wPN) | 3:35 | 2023-09-28 | 2023-11-24 |
 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-09-28 | 2023-11-03 |

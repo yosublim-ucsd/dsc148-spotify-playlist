@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 64 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 |
 | 65 | [Pure Cocaine](https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 2:34 |
 
-Snapshot ID: `MTkyMCxiZGUyNDQ0MjYzYjcyMGY3NTVkYjdjNzI5NGQ4MGJkNGI4YzgyZjEx`
+Snapshot ID: `MTkyMyw2NGNkOWMxNzMxYTBjMDRhOTFmYTdjYzRhMTczNGQwZjhiNDYwN2Q1`

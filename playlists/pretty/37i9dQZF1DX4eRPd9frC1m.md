@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,591,840 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,591,917 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 40 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 |
 | 41 | [PEACE LOVE & WUBZ](https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2) | 4:00 |
 | 42 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
-| 43 | [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 |
-| 44 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 |
+| 43 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 |
+| 44 | [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 |
 | 45 | [Asteroid](https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Asteroid](https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf) | 4:03 |
 | 46 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 |
 | 47 | [Save Me](https://open.spotify.com/track/7LkkWXUkyh3tk6C8SQbKef) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:07 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 54 | [Can We Be Free](https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [Can We Be Free](https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP) | 3:18 |
 | 55 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 |
 | 56 | [MEGAZORD](https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Bangers\[7\].Zip](https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV) | 2:43 |
-| 57 | [Rumble](https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [Apex](https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im) | 4:42 |
-| 58 | [NEXT LVL](https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [NEXT LVL](https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o) | 2:35 |
+| 57 | [NEXT LVL](https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [NEXT LVL](https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o) | 2:35 |
+| 58 | [Rumble](https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [Apex](https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im) | 4:42 |
 | 59 | [Trials](https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 2:13 |
 | 60 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
 | 61 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 |
 | 75 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
 
-Snapshot ID: `MCwzOGMxZmQ5ZGIyNGFmNWJiZGU3YmJiNmM3N2U2NzdiOWQzZjdjMzU4`
+Snapshot ID: `MCwxNWQzYjE5YTk3NTRmZTllZGUxNjRkYmJjNjg4MTAxMjY5NDViMDFm`

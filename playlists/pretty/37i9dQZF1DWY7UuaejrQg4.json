@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 82300,
+  "num_followers": 82323,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWM4NjU5NDEyZjkzODc3OTljOGVjMzU3MDMzNTUzNzA0NGFmMWQ2",
+  "snapshot_id": "MCw0YTg3YzcxNzZhN2I5NTBjYWJjY2RlMmRmMzk4MjU4NTg1OWMwNDkw",
   "tracks": [
     {
       "added_at": "2024-03-18 13:23:17",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Animal Kingdom",
         "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 329049,
       "name": "Boys Will Be Bugs",
       "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Chiquito",
-        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "Dontmakemefallinlove",
-      "url": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Chiquito",
+        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "Dontmakemefallinlove",
+      "url": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Say, Can You Hear",
-        "url": "https://open.spotify.com/album/1nCD1xKA9swhdJaoKFFngO"
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 189246,
-      "name": "Say, Can You Hear",
-      "url": "https://open.spotify.com/track/16Ky4KZFBlAnFzsgQOn5MT"
+      "duration_ms": 354640,
+      "name": "Star Treatment",
+      "url": "https://open.spotify.com/track/0b93tWwuoAC0nXe1CfR30I"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1111,38 +1111,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Tranquility Base Hotel & Casino",
-        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+        "name": "Say, Can You Hear",
+        "url": "https://open.spotify.com/album/1nCD1xKA9swhdJaoKFFngO"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 354640,
-      "name": "Star Treatment",
-      "url": "https://open.spotify.com/track/0b93tWwuoAC0nXe1CfR30I"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "Chiquito",
-        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Kwe$t",
-          "url": "https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "Summer Time High Time",
-      "url": "https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V"
+      "duration_ms": 189246,
+      "name": "Say, Can You Hear",
+      "url": "https://open.spotify.com/track/16Ky4KZFBlAnFzsgQOn5MT"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1163,6 +1143,26 @@
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Chiquito",
+        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Kwe$t",
+          "url": "https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "Summer Time High Time",
+      "url": "https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 234055,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "life's a beach",
         "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 174666,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 234055,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "I Can't Stand It",
-      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Pussy Is God",
         "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 205533,
       "name": "Pussy Is God",
       "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "I Can't Stand It",
+      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
     },
     {
       "added_at": "2024-03-18 13:23:17",

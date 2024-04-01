@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 26057,
+  "2024-04-01": 26069,
   "date_first_scraped": "2022-01-02",
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Mushkaa.",
   "name": "RADAR Espa\u00f1a",
@@ -1197,10 +1197,32 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 164138,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2"
+    },
+    {
+      "album": {
+        "name": "El Disfraz",
+        "url": "https://open.spotify.com/album/3mGHU6Au7nS9rOZoDlCvAP"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv"
     },
     {
       "album": {
@@ -1589,10 +1611,32 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 160695,
       "name": "habibi",
       "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
+    },
+    {
+      "album": {
+        "name": "habibi",
+        "url": "https://open.spotify.com/album/3jf2o5lDnLaSwv6JdZKq6v"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160695,
+      "name": "habibi",
+      "url": "https://open.spotify.com/track/4ocdwCiQn23eQbZvFw3pay"
     },
     {
       "album": {
@@ -4375,10 +4419,36 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 154549,
       "name": "Xarnega",
       "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
+    },
+    {
+      "album": {
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154549,
+      "name": "Xarnega",
+      "url": "https://open.spotify.com/track/4ABmdW0G3oDlanLL5rTbjq"
     },
     {
       "album": {

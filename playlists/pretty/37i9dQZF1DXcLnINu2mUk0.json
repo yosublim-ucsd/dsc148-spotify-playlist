@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego e Loony Johnson.",
-  "num_followers": 44672,
+  "num_followers": 44720,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDc4NTg1MTEyMWQyYWQ3Nzg4ZjdhZGVhNDk0NTY3NGU3ZGUzOTQ5",
+  "snapshot_id": "MCw3MWVmN2JmNTg0YTBhODcxYTE4YTUxMDk1NDE1YzI2NDMxYzhhYmMx",
   "tracks": [
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "CINTIA",
+        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
+      },
+      "artists": [
+        {
+          "name": "Cozzy 2x",
+          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
+        }
+      ],
+      "duration_ms": 169376,
+      "name": "CINTIA",
+      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 206553,
       "name": "Cores",
       "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "CINTIA",
-        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
-      },
-      "artists": [
-        {
-          "name": "Cozzy 2x",
-          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
-        }
-      ],
-      "duration_ms": 169376,
-      "name": "CINTIA",
-      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
     },
     {
       "added_at": "2024-03-29 00:00:00",

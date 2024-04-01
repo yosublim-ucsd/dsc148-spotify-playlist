@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,476 songs - 3 day 5 hr 0 min
+1,477 songs - 3 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [BURN](https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 1:51 | 2024-02-15 | 2024-03-24 |
 | [Busted](https://open.spotify.com/track/5q665ioJz9XT7eOKOvfLo8) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl), [Papito](https://open.spotify.com/artist/1nqRhwnC8Yc3jhUijre9fH) | [Busted](https://open.spotify.com/album/4k6ZaJOTjIPVIDaBcApRqF) | 2:49 | 2022-06-11 | 2022-06-19 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-06 |
+| [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8), [Mannschaft](https://open.spotify.com/artist/3AIknosYoaF6OgCcH10ZCy) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 | 2024-03-31 |  |
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2021-09-19 | 2021-09-26 |
 | [Calling For You \(feat\. 21 Savage\)](https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:45 | 2023-10-07 | 2023-10-12 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2021-04-04 | 2021-04-30 |
@@ -669,7 +670,7 @@
 | [Ik' Lige Nu](https://open.spotify.com/track/4sFcQqryIN1XFVsM0LQqNM) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:11 | 2022-01-15 | 2022-01-24 |
 | [Ikk' For Noget](https://open.spotify.com/track/1yQETALvNnPjfvTuzMZtCY) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 3:06 | 2023-11-11 | 2023-11-13 |
 | [Ikke Mere I Morgen](https://open.spotify.com/track/46wbdcRBbei6jGTAdZML5I) | [Murro](https://open.spotify.com/artist/03ypRuHCrCOsj2Nm16bPtX), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Ikke Mere I Morgen](https://open.spotify.com/album/1ZVYp1DqUxVo0SWs50alEh) | 3:11 | 2022-03-05 | 2022-03-07 |
-| [Imponeret/smukt&rigtigt](https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:39 | 2024-03-23 |  |
+| [Imponeret/smukt&rigtigt](https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:39 | 2024-03-23 | 2024-04-01 |
 | [IMY2 \(with Kid Cudi\)](https://open.spotify.com/track/7F9cT6hIRhnFCYP6GKS0tf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:12 | 2021-09-05 | 2021-09-06 |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-10-29 | 2022-10-31 |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-02 | 2022-04-30 |

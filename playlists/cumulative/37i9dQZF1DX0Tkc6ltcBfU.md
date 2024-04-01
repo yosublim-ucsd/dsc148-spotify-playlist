@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Future & Metro Boomin
 
-1,167 songs - 2 day 7 hr 26 min
+1,168 songs - 2 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,8 +575,9 @@
 | [Leave Her Alone](https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Leave Her Alone](https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL) | 2:27 | 2023-11-03 | 2023-11-18 |
 | [Leave In](https://open.spotify.com/track/3LWNhfOQNsHZAJmMM7K4PP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Leave In](https://open.spotify.com/album/4EoX2BPkGiVaKdbhftOf49) | 2:26 | 2023-10-27 | 2023-11-25 |
 | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/album/1O90Qra7WiVZIaT4oHKSTU) | 3:42 | 2023-02-17 | 2023-03-04 |
-| [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-29 |  |
+| [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-29 | 2024-04-01 |
 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 | 2024-03-29 | 2024-03-31 |
+| [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 | 2024-03-29 |  |
 | [Left Right](https://open.spotify.com/track/0r0KV3E7CjM0F5gH6Ku9Hf) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Left Right](https://open.spotify.com/album/59eyN6yBBk1oxIf7gH6WHx) | 3:16 | 2024-01-12 | 2024-01-27 |
 | [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 | 2023-11-18 |
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-17 |  |

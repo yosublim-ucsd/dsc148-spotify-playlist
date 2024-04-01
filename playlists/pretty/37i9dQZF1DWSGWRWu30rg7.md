@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Maira
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,567 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,574 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 3 | [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 |
 | 4 | [Sejati Tak Abadi](https://open.spotify.com/track/0WVvx0m73mfPxBP6tml1l4) | [Cev Kevin](https://open.spotify.com/artist/3sPafBlwKfHuAAeQauHBc5) | [Sejati Tak Abadi](https://open.spotify.com/album/5d6oTSC65VUGK49Sfn0Zem) | 4:23 |
 | 5 | [Wet](https://open.spotify.com/track/4u8IFN1MSABTMBOMrASpCp) | [Sampurna](https://open.spotify.com/artist/4FPCfg84YUp5CjtcSxQfv4) | [Wet](https://open.spotify.com/album/1t5jXibFF9Xk6fWRIWPSi9) | 2:38 |
-| 6 | [Bicara Remaja](https://open.spotify.com/track/7HMZ0FeAnXwdDfXhistLsp) | [Reiza](https://open.spotify.com/artist/1KYNKgh20hMkU99tVLSx8W), [The Imperium Cosmonauts](https://open.spotify.com/artist/7rERgKAK3vvvYWzoJVSFwR) | [Constella Infinitum](https://open.spotify.com/album/3fIAwCDc2dly3cNFP1zK8k) | 4:45 |
+| 6 | [Bicara Remaja](https://open.spotify.com/track/7HMZ0FeAnXwdDfXhistLsp) | [Reiza](https://open.spotify.com/artist/1KYNKgh20hMkU99tVLSx8W), [The Imperium Cosmonauts](https://open.spotify.com/artist/7rERgKAK3vvvYWzoJVSFwR) | [Constella Infinitum](https://open.spotify.com/album/3fIAwCDc2dly3cNFP1zK8k) | 4:44 |
 | 7 | [Hari Ini](https://open.spotify.com/track/5LRrey96feTmJSzU8WHyZv) | [Mahaswara](https://open.spotify.com/artist/5AWOu4BLbDaQFgm20NIu9l) | [Hari Ini](https://open.spotify.com/album/0hBSaibGkqcCVdj6GkEEl6) | 4:49 |
 | 8 | [Tied](https://open.spotify.com/track/5aaMXfXxpLcITCxkGfdIDr) | [goldthief](https://open.spotify.com/artist/3n692ho2icHxN2RMRSSwD8) | [Tied](https://open.spotify.com/album/0f7N710JNJQCLrlGFksj2x) | 3:48 |
 | 9 | [Anti Opia](https://open.spotify.com/track/6lVpIMkhOwaxXrDcttKDln) | [Leboer](https://open.spotify.com/artist/0Z7S1jj7pXj81H8o05h0G1) | [Anti Opia](https://open.spotify.com/album/0bqmZQVGdadCrw7Irls51e) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 99 | [Habibi](https://open.spotify.com/track/4so084KAl7FTLcXgfmqvY3) | [Tasha Bouslama](https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e) | [Habibi](https://open.spotify.com/album/7iFIzslrs0bIh0tSSoamYO) | 3:23 |
 | 100 | [God's Eye](https://open.spotify.com/track/6TwaLEeVKsnyjpcPuuOo3U) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI) | [God's Eye](https://open.spotify.com/album/5VvowtQo41m62NHjFaD2c7) | 2:06 |
 
-Snapshot ID: `MCxiM2ZkNTg2MWY3ODU3NWJjNmFjMDI4MThmOGIyOGZhNjc5NDQ1ZDAw`
+Snapshot ID: `MCxiY2U5ODQwNDI0MzZiYzIyNjIyYjgyMTMwMjQ5ZThlYjVlYTkxMDFh`

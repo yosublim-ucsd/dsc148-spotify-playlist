@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Ocevne
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,936 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,963 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Pense à moi](https://open.spotify.com/track/3RDtAL1G5w8wP48BUfyP1h) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Pense à moi](https://open.spotify.com/album/2GYitgU6elNH7vlCqQvbKE) | 3:24 |
 | 50 | [Rouge satin](https://open.spotify.com/track/0xcveWUzVD8Bn8a3lzQD47) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Rouge satin](https://open.spotify.com/album/3m1f6RSYhLrPRiR7wfm8pT) | 3:45 |
 
-Snapshot ID: `MCwzMDNjZmVlZGQ2ZmNhNGYzNDkyNmRkNGJiYWRiMzBhNjQxOGEwZjE5`
+Snapshot ID: `MCw1N2FkNzcwNzdjNTk3OGU2ZWZlYzFmOGRhZTg0MTBlNDdlMGNhODNi`

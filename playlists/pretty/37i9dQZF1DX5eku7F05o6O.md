@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,748 likes - 102 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,749 likes - 102 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,22 +87,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 77 | [Le vent m’appelle par mon prénom](https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Marie\-Pierre Arthur](https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ) | 4:13 |
 | 78 | [Je ne viendrai pas demain](https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Pink Lady](https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI) | 4:35 |
 | 79 | [Le long chemin \- version acoustique](https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Le long chemin \(version acoustique\)](https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB) | 3:40 |
-| 80 | [Les derniers jours](https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Fleur](https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh) | 5:04 |
-| 81 | [Ta Chance](https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU) | [Nerina Pallot](https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK) | [Ta Chance](https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T) | 4:28 |
+| 80 | [Ta Chance](https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU) | [Nerina Pallot](https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK) | [Ta Chance](https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T) | 4:28 |
+| 81 | [Les derniers jours](https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Fleur](https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh) | 5:04 |
 | 82 | [Dis\-moi](https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Dis\-moi](https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt) | 5:06 |
 | 83 | [Le plein de réconfort](https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8) | [Marie\-Ange](https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR) | [Le plein de réconfort](https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd) | 3:35 |
 | 84 | [Je ne t'oublie pas \- Bonus](https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 3:31 |
 | 85 | [Madame \(Version douce\)](https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [EP de malade](https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH) | 3:26 |
 | 86 | [L'hiver](https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Alexe](https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL) | 4:33 |
-| 87 | [Nord\-est](https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Nord\-est](https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0) | 4:03 |
-| 88 | [Pour Le Reste De Ma Vie](https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Volcano](https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj) | 4:45 |
+| 87 | [Pour Le Reste De Ma Vie](https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Volcano](https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj) | 4:45 |
+| 88 | [Nord\-est](https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Nord\-est](https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0) | 4:03 |
 | 89 | [Pour ce que valent tes larmes](https://open.spotify.com/track/7Hfl43JElWss3izWHvuE4E) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Politesses](https://open.spotify.com/album/09Khu4XKff31MN8pauQ08Y) | 4:38 |
 | 90 | [La pluie entre nous](https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [La pluie entre nous](https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN) | 3:40 |
 | 91 | [Oubliette](https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU) | [Flying Hórses](https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq) | [Tölt](https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX) | 5:44 |
 | 92 | [Jamais seule](https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop) | [Joëlle Saint\-Pierre](https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7) | [Et toi, tu fais quoi?](https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX) | 3:09 |
 | 93 | [Le courant](https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Le courant](https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr) | 3:14 |
-| 94 | [Habiter l'avenir](https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg) | [Steve Marin](https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u) | [Mélodica](https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO) | 3:25 |
-| 95 | [Samara](https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5) | [Sarah Bourdon](https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus) | [Vallée d'argent](https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr) | 4:44 |
+| 94 | [Samara](https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5) | [Sarah Bourdon](https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus) | [Vallée d'argent](https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr) | 4:44 |
+| 95 | [Habiter l'avenir](https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg) | [Steve Marin](https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u) | [Mélodica](https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO) | 3:25 |
 | 96 | [Il m'en aura fallu du temps](https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq) | [Charles\-Antoine Gosselin](https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F) | [Bleu Soleil](https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK) | 4:07 |
 | 97 | [Trente ans](https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH) | [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [À présent le passé](https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4) | 4:29 |
 | 98 | [Dactylo](https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m) | [Samuele](https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ) | [Les filles sages vont au paradis les autres vont où elles veulent](https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn) | 4:16 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 101 | [Grand mal](https://open.spotify.com/track/0LN18forBwwfYK9GU2vt92) | [ludovic alarie](https://open.spotify.com/artist/5YQJ21kmCLdhMccxqJoDWU) | [Ludovic Alarie](https://open.spotify.com/album/0FxH3Lu9Sxu501EFCauomP) | 4:50 |
 | 102 | [Ce monde](https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I) | [VAN Piunno](https://open.spotify.com/artist/7HQokVgxCA3pXAieQ9HuXI) | [Ce monde \- Single](https://open.spotify.com/album/0E6O5g66aIM69v7YjCw6ov) | 3:19 |
 
-Snapshot ID: `MCxjYmUxNzcyYWNmZGY3Y2NhZmViNTgzMWFjNDRmYWUyNzkxNGYyMjM0`
+Snapshot ID: `MCw1MGM0MTRjMzFiNDY0YzVkYTllMTZmMTQzNDM0YWE1YzZhYWNiYzBl`

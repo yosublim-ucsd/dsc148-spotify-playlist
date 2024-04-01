@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,394 likes - 104 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,520 likes - 104 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 103 | [27AM](https://open.spotify.com/track/0btuN3Oea2yRolMgI67uPO) | [zivve](https://open.spotify.com/artist/4uBfAtQBqmCA5dwvU6cq7v) | [27AM](https://open.spotify.com/album/7IEniMglg0CFSh8bKfGJen) | 1:35 |
 | 104 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 
-Snapshot ID: `MCw5ZjlmNDdmOTNkNzliNzdmZmFkOTM2MmZlMThlZWJhM2RkMDYxNjMy`
+Snapshot ID: `MCxhMjBkZTFjYWMwZjM4ZGQxYmZmYzQ0ZjYwYWM4NGMyZmI0MTYyNDRm`

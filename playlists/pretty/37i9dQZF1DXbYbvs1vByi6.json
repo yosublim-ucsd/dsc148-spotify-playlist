@@ -1,12 +1,12 @@
 {
   "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
-  "num_followers": 86671,
+  "num_followers": 86704,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWMwYWM5MTc5YWQ2MDBhOTZkYzFhYjk5MWM0MzQ1MGQxMmI1YWNk",
+  "snapshot_id": "MCxiNDgxODBiMGI2ZTM0NzMyMmY5NWIxMTU4OGU5NmQ0YTQ3OWExNTYy",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Go With The Flow",
-      "url": "https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Sleeping With Ghosts",
         "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 190573,
       "name": "The Bitter End",
       "url": "https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Go With The Flow",
+      "url": "https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Joy as an Act of Resistance.",
-        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 228831,
-      "name": "Never Fight A Man With A Perm",
-      "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Helicopter",
-      "url": "https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 240832,
       "name": "Sticks 'N' Stones",
       "url": "https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Helicopter",
+      "url": "https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
+        "name": "Bad Nerves",
+        "url": "https://open.spotify.com/album/2bs2CFgfCEYfNCwfholBYd"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
         }
       ],
-      "duration_ms": 151822,
-      "name": "Sha Sha Sha",
-      "url": "https://open.spotify.com/track/7BFwBubozsalZrZKGUAYJq"
+      "duration_ms": 140546,
+      "name": "Baby Drummer",
+      "url": "https://open.spotify.com/track/3AL0jiB2Ix2u6x1MKMNcQv"
     }
   ],
   "unique_name": "Sticky Floors",

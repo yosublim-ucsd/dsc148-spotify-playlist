@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: rhyu\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,401 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,403 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 104 | [New York](https://open.spotify.com/track/7xKt7i4Erx0UbSz8hsTaGY) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [New York](https://open.spotify.com/album/7gLt0wcQfPDPIJdQfcMFob) | 3:20 |
 | 105 | [crash](https://open.spotify.com/track/4gfWiAAXM73PQaORRWd3dZ) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2DQDpAr42xvWoio41HvGPB) | 3:58 |
 
-Snapshot ID: `MCwwYTBkYmMyODg2OGI3MTkwNjIzNzI0OWE2NjEzNjdjMjkxNzRlOTZj`
+Snapshot ID: `MCw5ZTg1YzA1MTg3M2Y3MGYzOTMyNjNkODNkODE3YTY4N2RjNjIxNjVj`

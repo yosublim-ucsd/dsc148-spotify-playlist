@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 2094,
+  "num_followers": 2103,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2U4NjYzODAzMTViMjlkYTQzOGM4Yzg0OTI1NTg0N2VjN2I1ODI1",
+  "snapshot_id": "MCwzMWE5ZDNhODhiMjY1M2JjYWQzYzIzNTc3MzVjZDRlNjY5ODUyMjgx",
   "tracks": [
     {
       "added_at": "2024-02-27 17:20:18",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -363,26 +363,6 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
-        "name": "Love Lies (with Normani)",
-        "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 201707,
-      "name": "Love Lies (with Normani)",
-      "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
     },
     {
       "added_at": "2024-02-27 17:20:18",
@@ -407,6 +387,26 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
+        "name": "Love Lies (with Normani)",
+        "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 201707,
+      "name": "Love Lies (with Normani)",
+      "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
     },
     {
       "added_at": "2024-02-27 17:20:18",

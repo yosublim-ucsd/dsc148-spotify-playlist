@@ -4,7 +4,7 @@
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-141 songs - 9 hr 19 min
+142 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 | 2024-01-01 |  |
 | [嘿，凌晨三點還醒著的人](https://open.spotify.com/track/0cBmRgkC0ZNBm6vdNReCv8) | [貝克小姐Miss Bac.](https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK) | [還在失眠的人啊](https://open.spotify.com/album/0iNiKVpNFDbAeac4ddgkUL) | 4:24 | 2024-03-25 |  |
 | [四季](https://open.spotify.com/track/40nry7vWyrLCxPD1HMZyFU) | [王忻辰](https://open.spotify.com/artist/61JBbdne26KjmyvOzjloSU) | [四季](https://open.spotify.com/album/6RpB8W94N6mQm1CHKDZMzd) | 3:22 | 2024-02-26 |  |
-| [因為我還年輕](https://open.spotify.com/track/0zH904rmpRKJuRsUER6oMi) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [大逆不道](https://open.spotify.com/album/4pmimPqqUWaflYZ0MCzNYn) | 3:30 | 2024-03-25 |  |
+| [因為我還年輕](https://open.spotify.com/track/0zH904rmpRKJuRsUER6oMi) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [大逆不道](https://open.spotify.com/album/4pmimPqqUWaflYZ0MCzNYn) | 3:30 | 2024-03-25 | 2024-04-01 |
+| [因為我還年輕](https://open.spotify.com/track/2lIOOMhGzCltMN6wL3QFst) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [大逆不道](https://open.spotify.com/album/2qelXUCybe7MKeFMJlRnfH) | 3:30 | 2024-03-25 |  |
 | [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-01-01 | 2024-01-23 |
 | [墜](https://open.spotify.com/track/3gRuL6nCuyPMzcUPGQp0F4) | [林逸欣](https://open.spotify.com/artist/1FAuGXJeTzpP5PSynOdxc5) | [墜](https://open.spotify.com/album/5ftpnjyFVpLfniI7LyWLcq) | 5:08 | 2024-01-01 | 2024-01-23 |
 | [夜太深 \- DJ默涵版](https://open.spotify.com/track/4lpsUO8FEul6BydBl5Ftmd) | [延子](https://open.spotify.com/artist/2NyKiSaDN5hru8EF51KbJ9) | [夜太深](https://open.spotify.com/album/4zpU3Air8IuVeGDGgQuGDt) | 3:23 | 2024-01-01 | 2024-01-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,686 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,750 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 96 | [Bésame Lento](https://open.spotify.com/track/702HgdUa5QILPolhhVoktM) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Bésame Lento](https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF) | 4:31 |
 | 97 | [Siempre Serás para Mí](https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Siempre Serás para Mí](https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe) | 3:33 |
 | 98 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 |
-| 99 | [Tenemos Que Admitirlo](https://open.spotify.com/track/0OaUt0opN99WQlxameVoUf) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/3T9Bipb4RjCKC5hcVmIn84) | 3:31 |
-| 100 | [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 |
+| 99 | [Sonríes Como Nadie](https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sonríes Como Nadie](https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy) | 3:16 |
+| 100 | [Tenemos Que Admitirlo](https://open.spotify.com/track/0OaUt0opN99WQlxameVoUf) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/3T9Bipb4RjCKC5hcVmIn84) | 3:31 |
 
-Snapshot ID: `MCwzODJjNzM5NzAxNzY0MDk5ZTQ0NmUyMWRiMjNjOWM5ODNkOTA4MGEx`
+Snapshot ID: `MCwyYzM1MDE2ZTczM2RjYTlmOGYxMGFlOWZhMmNiODg0ZGE0YTVkM2U4`

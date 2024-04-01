@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 23947,
+  "num_followers": 23980,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWViM2ZlYzVmNTg2MWEwZDRlMTZjMjc4ZjhjOGJlNTliMTEyMDcy",
+  "snapshot_id": "MCw2YjNiMzljNDY3NTU4ZGM3NmU4N2RmN2YwM2I2MGE3NzgzZWU1N2I2",
   "tracks": [
     {
       "added_at": "2023-12-22 23:46:17",
@@ -571,8 +571,8 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+        "name": "El Amor Es As\u00ed",
+        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 241410,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN"
+      "duration_ms": 176758,
+      "name": "Diez Noches de Desvelo",
+      "url": "https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
-      },
-      "artists": [
-        {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Cr\u00eda",
         "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 340040,
       "name": "En el Fresco de la Noche",
       "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "CARNAVALITO DEL DUENDE",
+        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "CARNAVALITO DEL DUENDE",
+      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Ambas - Maria Paula Godoy",
         "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 110291,
       "name": "El T\u00edmido (feat. Nahuel Pennisi)",
       "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "CARNAVALITO DEL DUENDE",
-        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "CARNAVALITO DEL DUENDE",
-      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Vuelve a Sonar",
-        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 164394,
-      "name": "Vuelve a Sonar",
-      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Como Un P\u00e1jaro Libre (Slidepack)",
         "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 196253,
       "name": "Do\u00f1a Ubenza",
       "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1139,22 +1139,6 @@
       "duration_ms": 263428,
       "name": "Coraz\u00f3n de Agua",
       "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Wi\u00f1ay",
-        "url": "https://open.spotify.com/album/0vKMwOpwogmFq8GZNOLzfl"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Wi\u00f1ay",
-      "url": "https://open.spotify.com/track/6SYH8a7ZpLXiPKAPRbNsGE"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1251,8 +1235,8 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Soy Semilla",
-        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+        "name": "Wi\u00f1ay",
+        "url": "https://open.spotify.com/album/0vKMwOpwogmFq8GZNOLzfl"
       },
       "artists": [
         {
@@ -1260,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 220941,
-      "name": "Algo de M\u00ed",
-      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
+      "duration_ms": 177142,
+      "name": "Wi\u00f1ay",
+      "url": "https://open.spotify.com/track/6SYH8a7ZpLXiPKAPRbNsGE"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1399,38 +1383,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Pasaje al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
-      },
-      "artists": [
-        {
-          "name": "Claudia Pir\u00e1n",
-          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Volver\u00e8 Siempre a San Juan",
-      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Cuando Vuelva a encontrarte",
-        "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
-      },
-      "artists": [
-        {
-          "name": "Mili Escudero y Agus Sol\u00e1",
-          "url": "https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Sue\u00f1ero",
-      "url": "https://open.spotify.com/track/3iJCbESRoT3JX1WC918Uqr"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Gaucha",
         "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
       },
@@ -1459,6 +1411,54 @@
       "duration_ms": 195527,
       "name": "P\u00e9talo de Sal",
       "url": "https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Soy Semilla",
+        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Algo de M\u00ed",
+      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Pasaje al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
+      },
+      "artists": [
+        {
+          "name": "Claudia Pir\u00e1n",
+          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Volver\u00e8 Siempre a San Juan",
+      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Cuando Vuelva a encontrarte",
+        "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
+      },
+      "artists": [
+        {
+          "name": "Mili Escudero y Agus Sol\u00e1",
+          "url": "https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "Sue\u00f1ero",
+      "url": "https://open.spotify.com/track/3iJCbESRoT3JX1WC918Uqr"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Una canastita",
-        "url": "https://open.spotify.com/album/4QigF4QvOuSDE3763lyLUB"
+        "name": "Dentro, El Silencio",
+        "url": "https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "Luna Monti",
+          "url": "https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd"
         }
       ],
-      "duration_ms": 136125,
-      "name": "Una canastita",
-      "url": "https://open.spotify.com/track/7axgUU3BUhRepMAILls8f6"
+      "duration_ms": 320266,
+      "name": "Lavandera Chaguanca",
+      "url": "https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s"
     },
     {
       "added_at": "2023-12-22 23:46:17",

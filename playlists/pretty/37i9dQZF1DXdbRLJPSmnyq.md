@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,933 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,066 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 69 | [あーあ。](https://open.spotify.com/track/5sNFmrc2sbS3LZ4WNxHFej) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [あーあ。](https://open.spotify.com/album/4XsXop0J1hE1Cmjm0upUfe) | 2:48 |
 | 70 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 |
 
-Snapshot ID: `MCwyNTQ2MGE0NzcyZWFjOTIwMGY4ODUyNTA0YTYxODE1OGNhY2Y1YTQy`
+Snapshot ID: `MCwwOGIxMDNlZjI2MmE5MTRhMmI2N2YxZDcyY2Y3NTU1OWU5Nzk1ODU4`

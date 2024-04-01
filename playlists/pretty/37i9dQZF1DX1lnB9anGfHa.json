@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 218027,
+  "num_followers": 218077,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzhiMzNkNTVkODYzNmY5YzM0YjVmZTcwN2NkNTUzOTI1YzdmMWQ1",
+  "snapshot_id": "MCwxZTg0NThlM2VjYjhlMGNkYmZjN2JmYTU4N2QyMWI0MDhhZDc1MmUy",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "duration_ms": 187632,
+      "name": "Even It Out",
+      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 320547,
       "name": "Close",
       "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
-      },
-      "artists": [
-        {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
-        }
-      ],
-      "duration_ms": 187632,
-      "name": "Even It Out",
-      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Da pacem",
-        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
-      },
-      "artists": [
-        {
-          "name": "Mykalle",
-          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "The Order of the Rain",
         "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 300000,
       "name": "The Order of the Rain",
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Da pacem",
+        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
+      },
+      "artists": [
+        {
+          "name": "Mykalle",
+          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Little Floating Oracles",
-        "url": "https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4"
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
       },
       "artists": [
         {
-          "name": "AT\u014cMI",
-          "url": "https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX"
-        },
-        {
-          "name": "Laura Masotto",
-          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
         }
       ],
-      "duration_ms": 410397,
-      "name": "Oracles",
-      "url": "https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp"
+      "duration_ms": 196891,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+        "name": "Little Floating Oracles",
+        "url": "https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4"
       },
       "artists": [
         {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+          "name": "AT\u014cMI",
+          "url": "https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX"
+        },
+        {
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
         }
       ],
-      "duration_ms": 196891,
-      "name": "The Fountain",
-      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
+      "duration_ms": 410397,
+      "name": "Oracles",
+      "url": "https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "QUANTA 1:11",
-        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 396071,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Image Langage",
         "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 176000,
       "name": "The House That Agnes Built",
       "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "QUANTA 1:11",
+        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 396071,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "The Disorder of Appearances",
+        "url": "https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "duration_ms": 394293,
+      "name": "An Interior of Strange Beauty",
+      "url": "https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Karada",
         "url": "https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Disorder of Appearances",
-        "url": "https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX"
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
       },
       "artists": [
         {
-          "name": "Ginevra Nervi",
-          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
         }
       ],
-      "duration_ms": 394293,
-      "name": "An Interior of Strange Beauty",
-      "url": "https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu"
+      "duration_ms": 282863,
+      "name": "A Garden by the Sea",
+      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1251,22 +1267,6 @@
       "duration_ms": 520719,
       "name": "Dois Litorais",
       "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 282863,
-      "name": "A Garden by the Sea",
-      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
     }
   ],
   "unique_name": "Terra Incognita",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,847 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,901 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 91 | [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 |
 | 92 | [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 |
 | 93 | [Fallen](https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Fallen](https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1) | 3:09 |
-| 94 | [Thirst \- Hex Cougar Remix](https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Thirst \(Hex Cougar Remix\)](https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd) | 3:24 |
-| 95 | [Sakura](https://open.spotify.com/track/3tI9Nc1gHcstyY5frjJnXH) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Conrad](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC) | [Sakura](https://open.spotify.com/album/2SMHHkfwPVK8wLpmuY1BPK) | 2:12 |
+| 94 | [Sakura](https://open.spotify.com/track/3tI9Nc1gHcstyY5frjJnXH) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Conrad](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC) | [Sakura](https://open.spotify.com/album/2SMHHkfwPVK8wLpmuY1BPK) | 2:12 |
+| 95 | [Thirst \- Hex Cougar Remix](https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Thirst \(Hex Cougar Remix\)](https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd) | 3:24 |
 | 96 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 |
 | 97 | [Glow In The Dark](https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Microworlds](https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C) | 3:29 |
-| 98 | [Pretty](https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Pretty](https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ) | 3:41 |
-| 99 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
+| 98 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
+| 99 | [Pretty](https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Pretty](https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ) | 3:41 |
 | 100 | [Skrt](https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6) | 3:01 |
 
-Snapshot ID: `MCwyOTkxNjI5MDA3MzAyZjA3MTM1MTY5N2I1OWQyZDcxZjg4MzMwOWNl`
+Snapshot ID: `MCxhMjczYzkzZmNjYTUwNWYyMmJmMDZkNmQ4MjljYjc5NzViMmMyODM5`

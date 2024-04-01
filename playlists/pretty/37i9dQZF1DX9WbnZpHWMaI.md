@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,102 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,114 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 99 | [Si Te Portas Bonito](https://open.spotify.com/track/5Qa679CkfZaEEsLGUBfXFp) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 5:01 |
 | 100 | [Undo U \- 4x4 Mix](https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U \(4x4 Mix\)](https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO) | 3:04 |
 
-Snapshot ID: `MCw3NzcyOWQ2MjU4ZTFmNzZkMGU3ZTFlMzU0ODJiZWU1YjNiZDVhMzFm`
+Snapshot ID: `MCwyYTkzZTBiYzAzYmM4OGQzNzE2NjdiY2U0NTY5ZDg2YmE1ODE5ODkz`

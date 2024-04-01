@@ -1,12 +1,12 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Sotam",
-  "num_followers": 129614,
+  "num_followers": 129636,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDU0ZDQ1NzdmMmNiNzNhOWViNjQ5YjQyNzBiNWIzZGZlYTc3MjQ5",
+  "snapshot_id": "MCxiNzFlMzg0MWI1MGY5YjMwY2YyYmFlNDI3ZWVmODk0MjdiMDA0N2Yx",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "De Lala - Spotify Singles",
         "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 160000,
       "name": "De Lala - Spotify Singles",
       "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Primeiro de Maio (Gostosas Inteligentes)",
+        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "Primeiro de Maio (Gostosas Inteligentes)",
+      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 218000,
       "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
       "url": "https://open.spotify.com/track/4TmIkfVvu5LOE2JADl8Brp"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Primeiro de Maio (Gostosas Inteligentes)",
-        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "Primeiro de Maio (Gostosas Inteligentes)",
-      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
     },
     {
       "added_at": "2024-03-29 03:01:00",

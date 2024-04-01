@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 149093,
+  "num_followers": 149160,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjA0OWU4ZGY4MzJhMDg4MGY3ODUwZDU3NTk5NzkzMmRjNGVhNWJi",
+  "snapshot_id": "MCxjMDY1ZWRjNmI4YTk4MWM2ZGU1MGFhMTMwMzk3NWY4NDI2MDM0M2Zk",
   "tracks": [
     {
       "added_at": "2024-03-26 15:40:14",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "La Cumbia De La Baliniza",
         "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 167235,
       "name": "La Cumbia De La Baliniza",
       "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 204293,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "El Final De Nuestra Historia",
-        "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 235853,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+        "name": "El Final De Nuestra Historia",
+        "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+      "duration_ms": 235853,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1235,6 +1235,34 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "EL AFERRAFTER",
+        "url": "https://open.spotify.com/album/5kCcwHW51rJXQbhBIBsXqU"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        },
+        {
+          "name": "Los Parna",
+          "url": "https://open.spotify.com/artist/25zjlPvogNayIBsBulQ2nM"
+        },
+        {
+          "name": "Mc Window",
+          "url": "https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU"
+        },
+        {
+          "name": "El Ca$h",
+          "url": "https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5"
+        }
+      ],
+      "duration_ms": 207807,
+      "name": "EL AFERRAFTER",
+      "url": "https://open.spotify.com/track/5goJAJjtJ0gR9MW5vSg3hy"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1271,6 +1299,22 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "Latino",
+        "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Y Sabor",
+          "url": "https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "La Cumbia de los Monjes",
+      "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "Si Te Hubieras Quedado",
         "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
       },
@@ -1287,38 +1331,22 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Coraz\u00f3n Enamorado",
-        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
+        "name": "Messirve mix 5",
+        "url": "https://open.spotify.com/album/7pw9Do4aXAbWamX4ZcKLoF"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         },
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 300840,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "Latino",
-        "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
-      },
-      "artists": [
-        {
-          "name": "Ritmo Y Sabor",
-          "url": "https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "La Cumbia de los Monjes",
-      "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
+      "duration_ms": 312737,
+      "name": "Messirve mix 5",
+      "url": "https://open.spotify.com/track/5piFBPcOsr6OWbBvNjJRuF"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1343,6 +1371,26 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "Coraz\u00f3n Enamorado",
+        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "Que Locura Fue Enamorarme de Ti (Remix)",
         "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
       },
@@ -1359,26 +1407,6 @@
       "duration_ms": 141453,
       "name": "Que Locura Fue Enamorarme de Ti (Remix)",
       "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "Messirve mix 5",
-        "url": "https://open.spotify.com/album/7pw9Do4aXAbWamX4ZcKLoF"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 312737,
-      "name": "Messirve mix 5",
-      "url": "https://open.spotify.com/track/5piFBPcOsr6OWbBvNjJRuF"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1539,34 +1567,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "EL AFERRAFTER",
-        "url": "https://open.spotify.com/album/5kCcwHW51rJXQbhBIBsXqU"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        },
-        {
-          "name": "Los Parna",
-          "url": "https://open.spotify.com/artist/25zjlPvogNayIBsBulQ2nM"
-        },
-        {
-          "name": "Mc Window",
-          "url": "https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU"
-        },
-        {
-          "name": "El Ca$h",
-          "url": "https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5"
-        }
-      ],
-      "duration_ms": 207807,
-      "name": "EL AFERRAFTER",
-      "url": "https://open.spotify.com/track/5goJAJjtJ0gR9MW5vSg3hy"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "No Puedo Olvidarte Cumbia Rosa",
         "url": "https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "M\u00e1s Negro Que la Noche",
         "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 155387,
       "name": "Una Wacha Piola",
       "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Ya No Est\u00e0s Aqu\u00ec",
-        "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
-        }
-      ],
-      "duration_ms": 262861,
-      "name": "Ya No Est\u00e0s Aqu\u00ec",
-      "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "Ya No Est\u00e0s Aqu\u00ec",
+        "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "duration_ms": 262861,
+      "name": "Ya No Est\u00e0s Aqu\u00ec",
+      "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Yo Quiero Chupar / Solo Exitos",
-        "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 215524,
-      "name": "Yo Quiero Chupar",
-      "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 193080,
       "name": "La colorada",
       "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Yo Quiero Chupar / Solo Exitos",
+        "url": "https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 215524,
+      "name": "Yo Quiero Chupar",
+      "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
     },
     {
       "added_at": "2024-03-26 15:40:14",

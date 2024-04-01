@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 26433,
+  "num_followers": 26435,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmI5MzljYmJlZmRjOTc0ZjRlY2Y0ZDRjNGE1OWY1ZDNmZWU5NWUx",
+  "snapshot_id": "MCw2NGFkOTM1ZmI0MTNhMmMxNDE1NGNhZmIwNTE0Mjk3OTljNTY2ZTkw",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Croupier Funk",
         "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
       },
@@ -1055,46 +1055,6 @@
       "duration_ms": 296542,
       "name": "Recipe",
       "url": "https://open.spotify.com/track/1Sdz6Kvfs1bYTK0kLRuUSz"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Kaos & Armon\u00eda",
-        "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
-      },
-      "artists": [
-        {
-          "name": "Orion XL",
-          "url": "https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Eco en el Silencio",
-      "url": "https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Flecha Verde",
-        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 183215,
-      "name": "Flecha Verde",
-      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1119,50 +1079,42 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX"
+        "name": "Flecha Verde",
+        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
       },
       "artists": [
         {
-          "name": "Papanegro",
-          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
         }
       ],
-      "duration_ms": 183312,
-      "name": "Nocaut",
-      "url": "https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT"
+      "duration_ms": 183215,
+      "name": "Flecha Verde",
+      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
     },
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Aeronave",
-        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
+        "name": "Kaos & Armon\u00eda",
+        "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
       },
       "artists": [
         {
-          "name": "Aeronave",
-          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "Aeronave",
-      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
+          "name": "Orion XL",
+          "url": "https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP"
+        },
         {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
         }
       ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+      "duration_ms": 221506,
+      "name": "Eco en el Silencio",
+      "url": "https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1183,6 +1135,54 @@
       "duration_ms": 227221,
       "name": "La Buena Vida",
       "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Aeronave",
+        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
+      },
+      "artists": [
+        {
+          "name": "Aeronave",
+          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "Aeronave",
+      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX"
+      },
+      "artists": [
+        {
+          "name": "Papanegro",
+          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+        }
+      ],
+      "duration_ms": 183312,
+      "name": "Nocaut",
+      "url": "https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Get Porn",
-        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
-      },
-      "artists": [
-        {
-          "name": "Free Anguila",
-          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
-        }
-      ],
-      "duration_ms": 343362,
-      "name": "Get Porn",
-      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Super 8",
         "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
@@ -1503,6 +1487,26 @@
       "duration_ms": 270706,
       "name": "Traffic (Groovin' de bondi)",
       "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "7 Am",
+        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
+      },
+      "artists": [
+        {
+          "name": "Afromama",
+          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
+        },
+        {
+          "name": "P1cky",
+          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
+        }
+      ],
+      "duration_ms": 239387,
+      "name": "7 Am",
+      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1543,22 +1547,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "7 Am",
-        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
+        "name": "Get Porn",
+        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
       "artists": [
         {
-          "name": "Afromama",
-          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
-        },
-        {
-          "name": "P1cky",
-          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
+          "name": "Free Anguila",
+          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
         }
       ],
-      "duration_ms": 239387,
-      "name": "7 Am",
-      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
+      "duration_ms": 343362,
+      "name": "Get Porn",
+      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
     },
     {
       "added_at": "2024-03-29 03:00:00",

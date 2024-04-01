@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 513689,
+  "2024-04-01": 513922,
   "date_first_scraped": "2022-09-23",
   "description": "Chasing that runner's high",
   "name": "Running Club",
@@ -2611,7 +2611,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 280853,
       "name": "New Rules - KREAM Remix",
       "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
@@ -2829,6 +2829,24 @@
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "album": {
+        "name": "Outside Of Love",
+        "url": "https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175628,
+      "name": "Outside Of Love",
+      "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
     },
     {
       "album": {

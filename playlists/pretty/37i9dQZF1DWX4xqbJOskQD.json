@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjgzMWFhMDE0YzQ2NjYyMjU3ODliN2IwMmIyZmRhN2I1Mjg3Y2Jj",
+  "snapshot_id": "MCxkMjc1MGE4ZTc4YTQzZDU2OTcwZmZhNDZhMWJhNjQxNzhmYTRhMmQ0",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -211,6 +211,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Mairzy Doats",
+      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "16 Most Requested Songs Of The 1950s. Volume One",
         "url": "https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Mairzy Doats",
-      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -327,6 +327,26 @@
       "duration_ms": 180840,
       "name": "Three Coins In The Fountain",
       "url": "https://open.spotify.com/track/2vZNvA8PEvBdeWr4EkZjLG"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
+        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Axel Stordahl And His Orchestra",
+          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
+      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -359,26 +379,6 @@
       "duration_ms": 185200,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
-        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Axel Stordahl And His Orchestra",
-          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
-      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -429,20 +429,20 @@
       "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
       },
       "artists": [
         {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
         }
       ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
+      "duration_ms": 171733,
+      "name": "Standing On the Corner",
+      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Standing On the Corner",
-      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Best Of The Ames",
@@ -527,6 +511,38 @@
       "duration_ms": 166520,
       "name": "Rag Mop",
       "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
+        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
+      },
+      "artists": [
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Ain't Gonna Worry 'Bout a Soul",
+      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -551,18 +567,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
-        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
       "artists": [
         {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+          "name": "The De Castro Sisters",
+          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Ain't Gonna Worry 'Bout a Soul",
-      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
+      "duration_ms": 170666,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -579,22 +595,6 @@
       "duration_ms": 160173,
       "name": "Fun And Fancy Free",
       "url": "https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
-      },
-      "artists": [
-        {
-          "name": "The De Castro Sisters",
-          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
     },
     {
       "added_at": "2020-08-17 22:49:59",

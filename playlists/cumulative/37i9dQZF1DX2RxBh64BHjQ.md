@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:23xFbA9rYgRX8mreqysWPc">Bossman Dlow</a>
 
-1,647 songs - 3 day 1 hr 43 min
+1,648 songs - 3 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -787,8 +787,9 @@
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 | 2023-09-02 |
 | [Leave Her Alone](https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Leave Her Alone](https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL) | 2:27 | 2023-11-03 | 2024-02-10 |
 | [Leave In](https://open.spotify.com/track/3LWNhfOQNsHZAJmMM7K4PP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Leave In](https://open.spotify.com/album/4EoX2BPkGiVaKdbhftOf49) | 2:26 | 2023-11-10 | 2024-01-20 |
-| [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-29 |  |
+| [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-29 | 2024-04-01 |
 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 | 2024-03-15 | 2024-03-31 |
+| [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 | 2024-03-29 |  |
 | [LECTRIC SLIDE](https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i) | 2:32 | 2022-09-23 | 2022-10-13 |
 | [LECTRIC SLIDE](https://open.spotify.com/track/2Cw6qLeiePD8OgSLvl39PO) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:32 | 2022-09-23 | 2022-10-15 |
 | [Legendary](https://open.spotify.com/track/7dFIUaovJ1U3Ey4dHV0IcY) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Legendary](https://open.spotify.com/album/5UfVCzzsMDdam2tutHmUbn) | 2:12 | 2023-03-17 | 2023-04-09 |

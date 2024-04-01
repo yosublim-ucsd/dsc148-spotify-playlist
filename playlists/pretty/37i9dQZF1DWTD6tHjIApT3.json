@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u5e7e\u7530\u308a\u3089 + ano",
-  "num_followers": 111355,
+  "num_followers": 111414,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzhkZDJiNjQ3MWFjYTdiZGJiNDAyNTUzYTBhZWZkZTkwM2E2MWQ3",
+  "snapshot_id": "MCw1ZGZjNjY4OGY0YzI2MTM3NmIyYjE2OGJiODZmMjJmY2NiZTg4ODQz",
   "tracks": [
     {
       "added_at": "2024-03-26 17:02:22",
@@ -879,8 +879,8 @@
     {
       "added_at": "2024-03-26 17:02:22",
       "album": {
-        "name": "Party!!",
-        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
+        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 258413,
-      "name": "Party!!",
-      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
+      "duration_ms": 228920,
+      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
     },
     {
       "added_at": "2024-03-26 17:02:22",
@@ -967,38 +967,6 @@
     {
       "added_at": "2024-03-26 17:02:22",
       "album": {
-        "name": "Any angle",
-        "url": "https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "Any angle",
-      "url": "https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg"
-    },
-    {
-      "added_at": "2024-03-26 17:02:22",
-      "album": {
-        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
-    },
-    {
-      "added_at": "2024-03-26 17:02:22",
-      "album": {
         "name": "Baby you",
         "url": "https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 163466,
       "name": "Baby you",
       "url": "https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb"
+    },
+    {
+      "added_at": "2024-03-26 17:02:22",
+      "album": {
+        "name": "Party!!",
+        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Party!!",
+      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
+    },
+    {
+      "added_at": "2024-03-26 17:02:22",
+      "album": {
+        "name": "Any angle",
+        "url": "https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "Any angle",
+      "url": "https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg"
     },
     {
       "added_at": "2024-03-26 17:02:22",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-26 17:02:22",
       "album": {
-        "name": "\u661f\u3081\u3050\u308b\u8a69",
-        "url": "https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC"
-      },
-      "artists": [
-        {
-          "name": "suis from Yorushika",
-          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
-        }
-      ],
-      "duration_ms": 201764,
-      "name": "\u661f\u3081\u3050\u308b\u8a69",
-      "url": "https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4"
-    },
-    {
-      "added_at": "2024-03-26 17:02:22",
-      "album": {
         "name": "Toryanse",
         "url": "https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 156556,
       "name": "Toryanse",
       "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
+    },
+    {
+      "added_at": "2024-03-26 17:02:22",
+      "album": {
+        "name": "\u661f\u3081\u3050\u308b\u8a69",
+        "url": "https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC"
+      },
+      "artists": [
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        }
+      ],
+      "duration_ms": 201764,
+      "name": "\u661f\u3081\u3050\u308b\u8a69",
+      "url": "https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4"
     },
     {
       "added_at": "2024-03-26 17:02:22",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-03-26 17:02:22",
       "album": {
-        "name": "Anytime Anywhere",
-        "url": "https://open.spotify.com/album/0yiK7Xlg6Fbhn7UtxrWzxa"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/79TlP0sKVFyCHazSXYKeI6"
-    },
-    {
-      "added_at": "2024-03-26 17:02:22",
-      "album": {
         "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
         "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 266373,
       "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
+    },
+    {
+      "added_at": "2024-03-26 17:02:22",
+      "album": {
+        "name": "Anytime Anywhere",
+        "url": "https://open.spotify.com/album/0yiK7Xlg6Fbhn7UtxrWzxa"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/79TlP0sKVFyCHazSXYKeI6"
     },
     {
       "added_at": "2024-03-26 17:02:22",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-03-26 17:02:22",
       "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 181479,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
-    },
-    {
-      "added_at": "2024-03-26 17:02:22",
-      "album": {
         "name": "\u4e00\u7dda",
         "url": "https://open.spotify.com/album/0bjEgjtsxq8WKiQD3cIDXw"
       },
@@ -1623,18 +1607,34 @@
     {
       "added_at": "2024-03-26 17:02:22",
       "album": {
-        "name": "Keep Your Fire Burning",
-        "url": "https://open.spotify.com/album/1BfntVU7Lx28sp7jgDvWs8"
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
       },
       "artists": [
         {
-          "name": "Mao Abe",
-          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
         }
       ],
-      "duration_ms": 202898,
-      "name": "Keep Your Fire Burning",
-      "url": "https://open.spotify.com/track/2Faxv8YFlTa3mJ468wgo6i"
+      "duration_ms": 181479,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+    },
+    {
+      "added_at": "2024-03-26 17:02:22",
+      "album": {
+        "name": "\u4e0d\u6cd5\u4fb5\u5165",
+        "url": "https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "\u4e0d\u6cd5\u4fb5\u5165",
+      "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
     },
     {
       "added_at": "2024-03-26 17:02:22",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-03-26 17:02:22",
       "album": {
-        "name": "\u4e0d\u6cd5\u4fb5\u5165",
-        "url": "https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp"
+        "name": "Keep Your Fire Burning",
+        "url": "https://open.spotify.com/album/1BfntVU7Lx28sp7jgDvWs8"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "Mao Abe",
+          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
         }
       ],
-      "duration_ms": 260066,
-      "name": "\u4e0d\u6cd5\u4fb5\u5165",
-      "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
+      "duration_ms": 202898,
+      "name": "Keep Your Fire Burning",
+      "url": "https://open.spotify.com/track/2Faxv8YFlTa3mJ468wgo6i"
     }
   ],
   "unique_name": "Women's Voice",

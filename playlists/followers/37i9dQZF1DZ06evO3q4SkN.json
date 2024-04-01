@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 556,
+  "2024-04-01": 556,
   "date_first_scraped": "2023-05-06",
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
   "name": "This Is Germaine Franco",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 88053,
       "name": "A Storm Approaches",
       "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 61293,
       "name": "George's Pancake Practice",
       "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 71879,
       "name": "Jordan's Glasses",
       "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 154638,
       "name": "Leaving Lone Pine Falls",
       "url": "https://open.spotify.com/track/6kMVwV8S6VV3LDgJ02dDwm"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 79280,
       "name": "Not It",
       "url": "https://open.spotify.com/track/4qQYUXly5uyHi10uLkaRha"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 86133,
       "name": "Simiana Derby Race",
       "url": "https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 244255,
       "name": "The Box",
       "url": "https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn"
@@ -1843,7 +1843,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 123480,
       "name": "The Legend Of The Phoenix",
       "url": "https://open.spotify.com/track/7jAuPo2gGQJGKCT9iDW1MQ"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 175466,
       "name": "Win And Still Be Me",
       "url": "https://open.spotify.com/track/5pGZTHvOc8gs1bN8xdYrmW"

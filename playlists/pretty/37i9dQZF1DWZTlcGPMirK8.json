@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 68135,
+  "num_followers": 68149,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTJhNTk2YmZjMGM2YjYxNmZhN2MyMjczYTRjMzZlMTk5NWM4ZWEz",
+  "snapshot_id": "MCw1NTFiOGQyYWYyMWYzNjNhNDZlMmNmMDgyYjA0NzdmMDBhZDZkYTVl",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
+        "name": "Two Shoes",
+        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
       },
       "artists": [
         {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Angels Brought Me Here",
-      "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
+      "duration_ms": 313053,
+      "name": "Two Shoes",
+      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Two Shoes",
-        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
       },
       "artists": [
         {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
         }
       ],
-      "duration_ms": 313053,
-      "name": "Two Shoes",
-      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
+      "duration_ms": 239306,
+      "name": "Angels Brought Me Here",
+      "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Ivy & The Big Apples",
-        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
-      },
-      "artists": [
-        {
-          "name": "Spiderbait",
-          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
-        }
-      ],
-      "duration_ms": 111293,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Age Of Reason",
         "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 213333,
       "name": "Two Strong Hearts",
       "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Ivy & The Big Apples",
+        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
+      },
+      "artists": [
+        {
+          "name": "Spiderbait",
+          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
+        }
+      ],
+      "duration_ms": 111293,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
     },
     {
       "added_at": "2022-04-18 02:03:22",

@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 457959,
+  "num_followers": 458008,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjNiM2E1MDkzMjIxNjhlZGE0OWU2NDgwZDVkYmJlNTc5ZDVmYTMz",
+  "snapshot_id": "MCxlNmIwNWY3NTVkMTdkMjA2MWY0ZjdiNGZkMmI4ZTliNWYzOGVjYmU3",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+        "name": "Qui\u00e9n Devuelve El Tiempo?",
+        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
       "artists": [
         {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+      "duration_ms": 210164,
+      "name": "Qui\u00e9n devuelve el tiempo?",
+      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Devuelve El Tiempo?",
-        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
         }
       ],
-      "duration_ms": 210164,
-      "name": "Qui\u00e9n devuelve el tiempo?",
-      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Rebeld\u00eda",
-        "url": "https://open.spotify.com/album/0L2eVylvt7VTyArK33f3Ze"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 232903,
-      "name": "Rebeld\u00eda",
-      "url": "https://open.spotify.com/track/2vEX0C5ShNHFvb2eR7FQrh"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Rebeld\u00eda",
+        "url": "https://open.spotify.com/album/0L2eVylvt7VTyArK33f3Ze"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 232903,
+      "name": "Rebeld\u00eda",
+      "url": "https://open.spotify.com/track/2vEX0C5ShNHFvb2eR7FQrh"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "La Bolsa",
-        "url": "https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        },
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 199541,
-      "name": "La Bolsa",
-      "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "El Enemigo",
         "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
       },
@@ -1323,6 +1303,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Contigo Me Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
+      },
+      "artists": [
+        {
+          "name": "Negros Vivos",
+          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Contigo Me Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Radical Park - Episodio 1",
         "url": "https://open.spotify.com/album/4FrZeUF3cWGyZ4HAwhQ79a"
       },
@@ -1343,22 +1339,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Contigo Me Encontr\u00e9",
-        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
-      },
-      "artists": [
-        {
-          "name": "Negros Vivos",
-          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Contigo Me Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Crazy Life",
         "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 213217,
       "name": "Crazy Life",
       "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "La Bolsa",
+        "url": "https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        },
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 199541,
+      "name": "La Bolsa",
+      "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Tengo Miedo",
+        "url": "https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Chamuyo",
         "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Tengo Miedo",
-        "url": "https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9"
+        "name": "Una cosa es el ska y otra cosa es el rocksteady",
+        "url": "https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C"
       },
       "artists": [
         {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
+      "duration_ms": 235602,
+      "name": "Seamos m\u00e1s que amigos - Remastered",
+      "url": "https://open.spotify.com/track/1gev95yWXDR4cv8WlkVxfm"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Una cosa es el ska y otra cosa es el rocksteady",
-        "url": "https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C"
+        "name": "Revolusound Contra Sistema",
+        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
       },
       "artists": [
         {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 235602,
-      "name": "Seamos m\u00e1s que amigos - Remastered",
-      "url": "https://open.spotify.com/track/1gev95yWXDR4cv8WlkVxfm"
+      "duration_ms": 184666,
+      "name": "Corrupci\u00f3n Ska",
+      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 172811,
       "name": "A partir de ah\u00ed",
       "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Revolusound Contra Sistema",
-        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Corrupci\u00f3n Ska",
-      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Mugre",
-        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "El Tren",
         "url": "https://open.spotify.com/album/4giecHJ5HxJ4mucYR3UByK"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 196845,
       "name": "El Tren",
       "url": "https://open.spotify.com/track/5mIJFCipaJ8IqFe5bNH56S"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
     },
     {
       "added_at": "2024-03-29 06:00:00",

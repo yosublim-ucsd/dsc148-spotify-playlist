@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-169 songs - 13 hr 17 min
+170 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Hallelujah Instead](https://open.spotify.com/track/2MjEaqylTvxnJpD4FpjiD6) | [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p), [Ike Ozaraga](https://open.spotify.com/artist/6h4Pma9HCStherLHOMlNFO) | [Hallelujah Instead](https://open.spotify.com/album/7wPnD9GquCu0L6e8nMGqrt) | 4:39 | 2022-04-15 |  |
 | [Have All Of Me \- Live](https://open.spotify.com/track/5dPe8ahss4C7NvjP1iiXOI) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH) | 7:56 | 2024-03-19 |  |
 | [Here](https://open.spotify.com/track/4kMA31fDbWXxbIO7A5Zd13) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Together – EP](https://open.spotify.com/album/54CX7lXUMplryuXFTCjkbM) | 5:46 | 2022-04-15 |  |
-| [Holy](https://open.spotify.com/track/56W2qptuhftndvAooq7vuE) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Holy](https://open.spotify.com/album/2Ga8mVx2VZc3gxiYKSbMkn) | 2:59 | 2024-03-19 |  |
+| [Holy](https://open.spotify.com/track/295zxNbaRxYp7cKmFEdwqG) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Soul Talk](https://open.spotify.com/album/4UxkhShMYwiB0klDme6XD5) | 2:59 | 2024-03-19 |  |
+| [Holy](https://open.spotify.com/track/56W2qptuhftndvAooq7vuE) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Holy](https://open.spotify.com/album/2Ga8mVx2VZc3gxiYKSbMkn) | 2:59 | 2024-03-19 | 2024-04-01 |
 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 | 2023-03-31 |  |
 | [I Believe](https://open.spotify.com/track/3KX8BuXC0wOWHeaZmVS7f9) | [Zack Sympson](https://open.spotify.com/artist/416D28zAVhFTjDuC6JqSdA), [Rachel Mills](https://open.spotify.com/artist/21d4U06RQBVu5hEWKV4hC0) | [I Believe](https://open.spotify.com/album/0iO6fYCTOPYurJHcrcoDYv) | 5:31 | 2022-04-15 |  |
 | [I Can Live Again \(Reimagined\)](https://open.spotify.com/track/4BNZyOQEWDrnpltb4IjKjV) | [thelukasband](https://open.spotify.com/artist/6QZIw3ZNQkMlypwr0xkwKE), [Julz Savard](https://open.spotify.com/artist/4zqtMz5qTefYQAwhQg3rUt) | [I Can Live Again \(Reimagined\)](https://open.spotify.com/album/7CpXmwCa0CRjBfBTCuse2Y) | 3:52 | 2022-04-15 |  |

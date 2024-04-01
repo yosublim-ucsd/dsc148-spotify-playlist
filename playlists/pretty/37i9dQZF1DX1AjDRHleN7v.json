@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 305787,
+  "num_followers": 305953,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTg4MjFlMDVlMjc0M2VjNjNlYjcxYjUzODNjMWRhYzg3MDE3OWY0",
+  "snapshot_id": "MCw3NGU3NWUzNTM2YTdkM2E0MDk3YTcwYmI5YmQyMjA3N2EwNzVmOTE5",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Pelo mundo",
-        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 196642,
-      "name": "Sereia",
-      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "T\u00f4 Em Casa",
         "url": "https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 166731,
       "name": "T\u00f4 Em Casa",
       "url": "https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Pelo mundo",
+        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 196642,
+      "name": "Sereia",
+      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Rouxin\u00f3is",
-        "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        }
-      ],
-      "duration_ms": 190410,
-      "name": "Rouxin\u00f3is",
-      "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Fica um Pouco Mais",
         "url": "https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 163250,
       "name": "Fica um Pouco Mais",
       "url": "https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Rouxin\u00f3is",
+        "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        }
+      ],
+      "duration_ms": 190410,
+      "name": "Rouxin\u00f3is",
+      "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Corri Demais",
-        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
-      },
-      "artists": [
-        {
-          "name": "Cau\u00ea Castro",
-          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
-        }
-      ],
-      "duration_ms": 178470,
-      "name": "Corri Demais",
-      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Um banda um",
         "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
       },
@@ -899,18 +883,38 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Jah Bless",
-        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
       "artists": [
         {
-          "name": "Gaiuna",
-          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
         }
       ],
-      "duration_ms": 207345,
-      "name": "Jah Bless",
-      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Entre Borboletas e Avi\u00f5es",
+        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 207808,
+      "name": "Rede no Coqueiro",
+      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -935,22 +939,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Entre Borboletas e Avi\u00f5es",
-        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
+        "name": "Jah Bless",
+        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
       },
       "artists": [
         {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+          "name": "Gaiuna",
+          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
         }
       ],
-      "duration_ms": 207808,
-      "name": "Rede no Coqueiro",
-      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
+      "duration_ms": 207345,
+      "name": "Jah Bless",
+      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 228844,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Lua Crescente",
         "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Minha Estrela",
-        "url": "https://open.spotify.com/album/11FAjoRU8boQc3AMNlZbkP"
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
       },
       "artists": [
         {
-          "name": "A\u00f4A",
-          "url": "https://open.spotify.com/artist/1m9TbzfSHdHp25ZFwy0WLl"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 157696,
-      "name": "Minha Estrela",
-      "url": "https://open.spotify.com/track/21W4h17bilDOuYBcv9857o"
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 312676,
       "name": "Doce Amor (Dulce Amor)",
       "url": "https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Minha Estrela",
+        "url": "https://open.spotify.com/album/11FAjoRU8boQc3AMNlZbkP"
+      },
+      "artists": [
+        {
+          "name": "A\u00f4A",
+          "url": "https://open.spotify.com/artist/1m9TbzfSHdHp25ZFwy0WLl"
+        }
+      ],
+      "duration_ms": 157696,
+      "name": "Minha Estrela",
+      "url": "https://open.spotify.com/track/21W4h17bilDOuYBcv9857o"
     }
   ],
   "unique_name": "Praiana",

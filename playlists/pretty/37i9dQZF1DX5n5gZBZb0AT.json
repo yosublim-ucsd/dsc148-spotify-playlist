@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 809774,
+  "num_followers": 810250,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmQ4YmMxM2FkMTliMjhkMDY5Y2FjMjFlMTcxZWQ5NWI0OTRjYmYx",
+  "snapshot_id": "MCwzYmNmODRiODI3YTI3ZGVkMzc1MWMyNjFlZjYwZjNlMmY4Nzc2MTk4",
   "tracks": [
     {
       "added_at": "2024-02-13 14:13:34",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
+        "name": "WINTER ARC FUNK",
+        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "duration_ms": 91875,
+      "name": "WINTER ARC FUNK",
+      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
         "name": "Brazilian Phonk Mano",
         "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
       },
@@ -651,18 +667,22 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
-        "name": "WINTER ARC FUNK",
-        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
+        "name": "Sequ\u00eancia da Dz7",
+        "url": "https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ"
       },
       "artists": [
         {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
         }
       ],
-      "duration_ms": 91875,
-      "name": "WINTER ARC FUNK",
-      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
+      "duration_ms": 119231,
+      "name": "Sequ\u00eancia da Dz7",
+      "url": "https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7"
     },
     {
       "added_at": "2024-02-13 14:13:34",
@@ -695,26 +715,6 @@
       "duration_ms": 84138,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
-        "name": "Sequ\u00eancia da Dz7",
-        "url": "https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ"
-      },
-      "artists": [
-        {
-          "name": "TRASHXRL",
-          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 119231,
-      "name": "Sequ\u00eancia da Dz7",
-      "url": "https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7"
     },
     {
       "added_at": "2024-02-13 14:13:34",

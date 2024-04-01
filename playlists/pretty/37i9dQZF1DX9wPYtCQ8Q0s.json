@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 338510,
+  "num_followers": 338495,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzBmYjFhNjBjNTAyZDllNjA5ZTM3NTE3Mzg3YzM0MjQ0NTc5ZmZh",
+  "snapshot_id": "MCw0MWYyNzQxYjU5MmNiNWZiNjE2ZTQ1YTlmZjRlYTQzODUwMjgzMjVm",
   "tracks": [
     {
       "added_at": "2024-03-22 18:01:27",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2024-03-22 18:01:27",
       "album": {
-        "name": "Imaterial",
-        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
       },
       "artists": [
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 152582,
-      "name": "War",
-      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
+      "duration_ms": 216247,
+      "name": "Fight Night",
+      "url": "https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5"
     },
     {
       "added_at": "2024-03-22 18:01:27",
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2024-03-22 18:01:27",
       "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+        "name": "Imaterial",
+        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 216247,
-      "name": "Fight Night",
-      "url": "https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5"
+      "duration_ms": 152582,
+      "name": "War",
+      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
     },
     {
       "added_at": "2024-03-22 18:01:27",

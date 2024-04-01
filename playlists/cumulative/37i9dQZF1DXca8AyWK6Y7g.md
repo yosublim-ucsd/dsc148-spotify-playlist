@@ -4,7 +4,7 @@
 
 > all the girls are getting in my car 📷: Maude Latour
 
-2,000 songs - 4 day 4 hr 49 min
+2,001 songs - 4 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Awash](https://open.spotify.com/track/70W9r4QKO03SeGxdxuo4I4) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Awash](https://open.spotify.com/album/2jkD1DxLkUGfJ8pp5iaE0T) | 3:09 | 2021-05-17 | 2021-10-16 |
 | [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 | 2024-02-27 |  |
 | [baby](https://open.spotify.com/track/0Jb9GMSMYC9SxFCe6uiDRG) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [baby](https://open.spotify.com/album/52JJV0EJpC8Ibu3X8EutWW) | 2:33 | 2021-08-19 | 2021-08-20 |
+| [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/track/01J9q2fcpP9OiEfs1ziyji) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/album/2wH4N8ZRRqhJ49K6qXV2m0) | 2:44 | 2024-03-29 |  |
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-04-01 | 2022-06-06 |
 | [Baby Don't Go](https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Baby Don't Go](https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9) | 2:32 | 2022-07-04 | 2022-12-10 |
 | [back n forth](https://open.spotify.com/track/0dWGqCYNm22qmhM0IvrJAu) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [back n forth](https://open.spotify.com/album/4hhnPuHPyMRpaz99RQSkPt) | 2:09 | 2021-10-10 | 2021-10-16 |
@@ -1204,7 +1205,7 @@
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-03-14 | 2021-08-28 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-18 | 2022-05-07 |
 | [Napkins](https://open.spotify.com/track/077ULIWZuzfn7YWJl8s01U) | [Tony Ferrari](https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T) | [Napkins](https://open.spotify.com/album/6lQ6RVsg9TiaXuV3a4llw9) | 2:34 | 2021-08-19 | 2021-10-13 |
-| [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 |  |
+| [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 | 2024-04-01 |
 | [Narcissistic](https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Narcissistic](https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr) | 2:50 | 2024-01-26 |  |
 | [Nasty](https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Nasty](https://open.spotify.com/album/0fvYSWu3eHfBdnFEFN4Md5) | 2:51 | 2022-06-24 | 2022-07-29 |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:41 | 2022-06-17 | 2022-09-03 |

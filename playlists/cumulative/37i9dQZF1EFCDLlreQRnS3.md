@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-99 songs - 5 hr 10 min
+100 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 | 2024-01-29 |  |
 | [We Are the Misfits](https://open.spotify.com/track/0DL6GTZ1WRIzIc5ciS6dzX) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [We Are the Misfits](https://open.spotify.com/album/5qoB0JB5ZLQS1VJs8YesPY) | 2:53 | 2024-01-29 |  |
 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 | 2024-01-29 |  |
-| [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2024-01-29 |  |
+| [Weekends](https://open.spotify.com/track/33PS3s3FyzBQp1bLx7mgKa) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Together](https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU) | 2:07 | 2024-03-31 |  |
+| [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2024-01-29 | 2024-04-01 |
 | [What I Wanted](https://open.spotify.com/track/4MyCzjfdQhGkPVHKnrIxht) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/2F4IY8wlSKM6a7Ri9vqw92) | 2:32 | 2024-01-29 |  |
 | [What I Wanted \- Dub Mix](https://open.spotify.com/track/2hz4fFw6cB0BBX8f9NkI7q) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t) | [What I Wanted](https://open.spotify.com/album/3LuNPzILkPXQIPUGN9K8ME) | 7:48 | 2024-01-29 |  |
 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/7zchcn4SERfMjsjOmWhdqh), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 | 2024-01-29 |  |

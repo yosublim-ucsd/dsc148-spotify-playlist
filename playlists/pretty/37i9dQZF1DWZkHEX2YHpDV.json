@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: The Story So Far",
-  "num_followers": 455525,
+  "num_followers": 455544,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGQwYjEzNThlNThkMDljNGEzNjVlZDc0ZTc0NzhlNGQ5MjQ3NDY0",
+  "snapshot_id": "MCw4ZjRmYzI2NjM5MTcyNGE2MzRhNmMyYTk5MGU1OTVjZGYyYTM0NTY0",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Waiting On A Twist Of Fate",
-        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 166844,
-      "name": "Waiting On A Twist Of Fate",
-      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
+      "duration_ms": 213191,
+      "name": "ANTHEM PART 3",
+      "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -467,34 +467,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+        "name": "Waiting On A Twist Of Fate",
+        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 213191,
-      "name": "ANTHEM PART 3",
-      "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+      "duration_ms": 166844,
+      "name": "Waiting On A Twist Of Fate",
+      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -511,6 +495,22 @@
       "duration_ms": 186137,
       "name": "Something Blue",
       "url": "https://open.spotify.com/track/1XQecFY99zarSryU7dS1RN"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Friends With Your EX",
+        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
+      },
+      "artists": [
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "duration_ms": 118933,
+      "name": "Friends With Your EX",
+      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Friends With Your EX",
-        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
-      },
-      "artists": [
-        {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Friends With Your EX",
-      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "GODDAMNITALL",
+        "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 196301,
+      "name": "GODDAMNITALL",
+      "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 178432,
       "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
       "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "GODDAMNITALL",
-        "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 196301,
-      "name": "GODDAMNITALL",
-      "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 171729,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "sleepwalking",
         "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 120855,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 171729,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Gray",
-        "url": "https://open.spotify.com/album/20fGJw0rld7cThO7quNyyR"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Gray",
-      "url": "https://open.spotify.com/track/4iDjqte9c2cUhaZKJT38vl"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Year Of The Vulture",
         "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 148882,
       "name": "Year Of The Vulture",
       "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Gray",
+        "url": "https://open.spotify.com/album/20fGJw0rld7cThO7quNyyR"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Gray",
+      "url": "https://open.spotify.com/track/4iDjqte9c2cUhaZKJT38vl"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "More Like A Crash",
-      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "GROWING UP ON THE INTERNET",
         "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Happiness is an Inside Job",
-        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
+      "duration_ms": 167880,
+      "name": "More Like A Crash",
+      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Happiness is an Inside Job",
+        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 230976,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "I Left You In Minnesota",
         "url": "https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 144272,
       "name": "Alone (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/7cPUCY8PwRVhamOe7p2j3u"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 230976,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
         }
       ],
-      "duration_ms": 173600,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
+      "duration_ms": 222617,
+      "name": "I MISS 2003",
+      "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "I WENT TO HELL AND BACK",
-        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 222617,
-      "name": "I MISS 2003",
-      "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "I'M IN THE MARKET TO PLEASE NO ONE",
         "url": "https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 212727,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 187679,
+      "name": "Are You Impressed?",
+      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "More Like A Crash",
         "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
@@ -1971,6 +1987,22 @@
       "duration_ms": 193814,
       "name": "Got Me All Wrong",
       "url": "https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "People That I Love Leave",
+        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "duration_ms": 149248,
+      "name": "People That I Love Leave",
+      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1995,22 +2027,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "People That I Love Leave",
-        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
-      },
-      "artists": [
-        {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
-        }
-      ],
-      "duration_ms": 149248,
-      "name": "People That I Love Leave",
-      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "It's Sorted",
         "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 244586,
       "name": "Life in a Bag",
       "url": "https://open.spotify.com/track/0nFnvVnps2gOH1YU5xAHD0"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 187679,
-      "name": "Are You Impressed?",
-      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Foxglove",
-        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 218552,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "SHE LOVES ME, SHE LOVES ME NOT",
         "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 182014,
       "name": "SHE LOVES ME, SHE LOVES ME NOT",
       "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 218552,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Thanks but No Thanks",
+        "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Don't Tempt Me Baby...",
         "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 156395,
       "name": "Don't Tempt Me Baby...",
       "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Thanks but No Thanks",
-        "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2371,18 +2371,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Would You Even",
-        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+        "name": "In Loving Memory",
+        "url": "https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
         }
       ],
-      "duration_ms": 172014,
-      "name": "Would You Even",
-      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
+      "duration_ms": 218979,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "In Loving Memory",
-        "url": "https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb"
+        "name": "Would You Even",
+        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
       },
       "artists": [
         {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
         }
       ],
-      "duration_ms": 218979,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql"
+      "duration_ms": 172014,
+      "name": "Would You Even",
+      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
-      },
-      "artists": [
-        {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Cardinals",
-      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "GOOD MOOD (feat. grandson)",
         "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 154680,
       "name": "GOOD MOOD (feat. grandson)",
       "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
+      },
+      "artists": [
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Cardinals",
+      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2531,6 +2531,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Hand Signals",
+        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "duration_ms": 161416,
+      "name": "Would You Tell Picasso To Sell His Guitars?",
+      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Cages",
         "url": "https://open.spotify.com/album/2vr9997EIlO8lNLN2azObV"
       },
@@ -2543,26 +2559,6 @@
       "duration_ms": 187819,
       "name": "Cages",
       "url": "https://open.spotify.com/track/44Hg66DPXP33pXVI1pHIRi"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "CYAN1DE (feat. Pete Wentz)",
-        "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        },
-        {
-          "name": "Pete Wentz",
-          "url": "https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD"
-        }
-      ],
-      "duration_ms": 231882,
-      "name": "CYAN1DE (feat. PETE WENTZ)",
-      "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
     }
   ],
   "unique_name": "The Scene",

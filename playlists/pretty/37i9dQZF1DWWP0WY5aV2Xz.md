@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWP0WY5aV2Xz.md) - [plain]
 
 > The official EA SPORTS NHL 24 soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,276 likes - 34 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,286 likes - 34 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWP0WY5aV2Xz.md) - [plain]
 | 20 | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV) | 2:36 |
 | 21 | [Bad Start](https://open.spotify.com/track/59kJsKhDIczxp1RNkUem1t) | [StrateJacket](https://open.spotify.com/artist/5qhI3XlY5mtuRdzyE125D5) | [Bad Start](https://open.spotify.com/album/69KFaZkt4QvYGEeA5C3TWm) | 2:36 |
 | 22 | [Vibration \(feat\. AR/CO\)](https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 4:02 |
-| 23 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
+| 23 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 |
 | 24 | [Last Man in the World](https://open.spotify.com/track/69YOn8zDCuOldm2xUpynsE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:42 |
 | 25 | [Up & Down](https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Up & Down](https://open.spotify.com/album/6VMrXUabbY8cFWLougHU5F) | 2:34 |
 | 26 | [California Dream Girl](https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [California Dream Girl](https://open.spotify.com/album/7Mu6gL29rc1hiFuVtYFvVs) | 3:00 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWP0WY5aV2Xz.md) - [plain]
 | 33 | [Boomerang](https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Boomerang](https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK) | 2:47 |
 | 34 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
 
-Snapshot ID: `MCw5NDZlMDE1MGU5NTA2YjRlYTA5NjJiMjBlYThjNmNlYjhkZDAxNmJi`
+Snapshot ID: `MCw2ZmQ3YmNjMTYzOTUyYzJiYjc3OWM5MjVkMWI4Y2Q0MmJlOTBkYjlm`

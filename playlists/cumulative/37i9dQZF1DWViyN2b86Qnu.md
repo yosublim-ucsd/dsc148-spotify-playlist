@@ -4,7 +4,7 @@
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Arca
 
-293 songs - 16 hr 33 min
+294 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Change the Locks](https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 4:29 | 2022-07-14 | 2022-08-17 |
 | [Cherry Pits](https://open.spotify.com/track/27xdKxIYRlXErxVK3k2bsR) | [Grayson](https://open.spotify.com/artist/2ElEn7LIxvcN1icdhbw2WM) | [Cherry Pits](https://open.spotify.com/album/6UCKuzFtM3pEmIbmurBLzG) | 3:26 | 2021-10-05 | 2023-04-01 |
 | [Coconuts](https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts](https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC) | 2:48 | 2022-02-20 | 2023-01-24 |
-| [Coconuts](https://open.spotify.com/track/6hU8gpgjZqgwjfjWYACwYR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:48 | 2024-03-30 |  |
+| [Coconuts](https://open.spotify.com/track/6hU8gpgjZqgwjfjWYACwYR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:48 | 2024-03-30 | 2024-04-01 |
 | [Collide](https://open.spotify.com/track/11HptaZiTyuGpvGgrDuhvY) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [GESS](https://open.spotify.com/artist/4rWV3JAgD6JrUiq5mpEJxY), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Collide](https://open.spotify.com/album/6SmzSMDrRZJuflBpUeSLeV) | 3:39 | 2021-10-05 | 2023-04-01 |
 | [Common Ground](https://open.spotify.com/track/23gYrvF0ebJIV6fwg3DbD3) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Brain Worms](https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho) | 3:20 | 2023-06-01 | 2024-03-31 |
 | [Common Ground](https://open.spotify.com/track/6KHwl6cpYdhHTcfhtvhw4h) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Common Ground](https://open.spotify.com/album/6oCuQoZRzSuRgBrMEfOemR) | 3:20 | 2023-05-30 | 2023-06-05 |
@@ -167,6 +167,7 @@
 | [Lonely But Not Alone](https://open.spotify.com/track/70SMq0djk5HdO0kc1YM2e9) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Lonely But Not Alone](https://open.spotify.com/album/24yrwo7fOZ5ID22hLzU43W) | 3:16 | 2021-10-05 | 2023-04-01 |
 | [LOSING MYSELF](https://open.spotify.com/track/42o73NUStZDhMYeW7lRLnm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 1](https://open.spotify.com/album/7HzXpoBSz66DB7G35p3oeO) | 2:56 | 2021-10-05 | 2022-09-16 |
 | [LOSING MYSELF](https://open.spotify.com/track/6MVyCFg9IHeS1E41aOUTpm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 2:56 | 2022-07-14 | 2023-04-01 |
+| [Lost My Mind](https://open.spotify.com/track/4ol1eAIlmVpt6KRwdy2Bzm) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Lost My Mind](https://open.spotify.com/album/4khz6CgbiUS9TmeYv8gHhR) | 3:39 | 2024-03-31 |  |
 | [Love Fell Down Around Me](https://open.spotify.com/track/0aP5Q8mXW452EPcx0pyxGm) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Postcards from Italia](https://open.spotify.com/album/08tPm4qIIEsDN0RHK2o7Om) | 4:08 | 2024-03-30 |  |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-05-31 | 2023-01-24 |
 | [Love Me More](https://open.spotify.com/track/6maG9OGek8E3dEwp0BwFjT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:23 | 2023-03-31 | 2023-05-30 |

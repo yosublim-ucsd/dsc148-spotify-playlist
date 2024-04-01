@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65537,
+  "num_followers": 65530,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGU2YmY5N2RjYzY2NGZmOWMyZWM2ZDExNDY5ZTAwYjQyZDc4NjEy",
+  "snapshot_id": "MCw1Njc4M2UzYTI4MzdiZTA2ZTgyYTIwOTUzMmJiMWFhY2ZhMzM0Yjk1",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Rise Like A Phoenix",
-        "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
-      },
-      "artists": [
-        {
-          "name": "Conchita Wurst",
-          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
-        }
-      ],
-      "duration_ms": 181989,
-      "name": "Rise Like A Phoenix",
-      "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Fr\u00e4mling 25 \u00e5r",
         "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Rhythm Inside",
-        "url": "https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx"
+        "name": "Rise Like A Phoenix",
+        "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
       },
       "artists": [
         {
-          "name": "Lo\u00efc Nottet",
-          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+          "name": "Conchita Wurst",
+          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
         }
       ],
-      "duration_ms": 172152,
-      "name": "Rhythm Inside",
-      "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
+      "duration_ms": 181989,
+      "name": "Rise Like A Phoenix",
+      "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -423,6 +407,22 @@
       "duration_ms": 158440,
       "name": "Making Your Mind Up",
       "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Rhythm Inside",
+        "url": "https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "duration_ms": 172152,
+      "name": "Rhythm Inside",
+      "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Essential",
-        "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Je t'adore - Eurovision Mix",
-      "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "To Hrono Stamatao",
         "url": "https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 180586,
       "name": "Shake It - Eurovision Version",
       "url": "https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Je t'adore - Eurovision Mix",
+      "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
     },
     {
       "added_at": "2023-05-05 17:20:54",

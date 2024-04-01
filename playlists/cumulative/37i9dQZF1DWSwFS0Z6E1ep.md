@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s.
 
-302 songs - 13 hr 4 min
+303 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,9 +294,10 @@
 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 | 2021-04-23 |  |
 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/3JvDEbXLKUxaNv0D0txup5) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Ray Charles Story Volume 2](https://open.spotify.com/album/5xNwNgXgT3ZbBGlNZyziNC) | 6:31 | 2022-06-07 |  |
 | [Whirlwind](https://open.spotify.com/track/0MDSiYP6H57fNyIeTLlcpy) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [The Memphis Sound](https://open.spotify.com/album/6xGfS4Tm1x5wqsyKrhivU2) | 2:04 | 2022-04-29 | 2022-11-13 |
-| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2021-04-23 |  |
+| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2021-04-23 | 2024-04-01 |
 | [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Whole Lotta Shakin' Going On / It'll Be Me](https://open.spotify.com/album/3yIm9sw7a2OScbcB1bPJeV) | 2:53 | 2022-04-29 | 2022-06-09 |
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2022-06-07 | 2023-05-31 |
+| [Whole Lotta Shakin' Going On \- Remastered 2022](https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Killer Keys Of Jerry Lee Lewis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB) | 2:53 | 2022-06-07 |  |
 | [Why Do Fools Fall In Love](https://open.spotify.com/track/7J8kI3q6POUYbcktEUmrAd) | [Frankie Lyman](https://open.spotify.com/artist/2R6miS8dVTl9U3ysRuY7sc) | [Doo Wop](https://open.spotify.com/album/3leCteg5EcBzMy5AJ6RMqY) | 2:21 | 2022-06-07 | 2022-11-14 |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 | 2022-06-07 |  |
 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 | 2021-04-23 | 2022-07-29 |

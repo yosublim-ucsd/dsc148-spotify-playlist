@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > she did her hyper\-homework
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,306 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,882 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 |
 | 100 | [FUN](https://open.spotify.com/track/5mlVnK8RkGob2oiFPXf0Ky) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [FUN](https://open.spotify.com/album/2ZIsPbcWIz2dhi5YCTvTkv) | 1:49 |
 
-Snapshot ID: `MCwzMjc1MDY5NmZlNmNiMDEzNmEwYWFlYjVlYTE2NThiMWFlNjM1OTJj`
+Snapshot ID: `MCxmYTQ2NTZmYjVlZTBkNjI3ZTNkODA0YTkyODNmOGUzYTNkNmNkZTdk`

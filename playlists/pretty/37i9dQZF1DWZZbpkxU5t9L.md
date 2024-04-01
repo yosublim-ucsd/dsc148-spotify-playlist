@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 野田洋次郎 & kZm
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,247 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,287 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 |
 | 60 | [虹](https://open.spotify.com/track/5zxOkA6L5DJpS0Ajb0Qx2t) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [虹/ひまわり/それがすべてさ](https://open.spotify.com/album/5MeDuYgJK9DYM1cO8zSAGs) | 4:08 |
 
-Snapshot ID: `MCw5MTJhNDk4ZWZhMGRlMTBjMDM4MzA5Y2E5OTc0M2VjY2EzZWVhMTU3`
+Snapshot ID: `MCw2YmRjMDNlNDkwODM1YmRjZTM2ZmI5Y2IyMTFmYTliZjZlYTAyZDdh`

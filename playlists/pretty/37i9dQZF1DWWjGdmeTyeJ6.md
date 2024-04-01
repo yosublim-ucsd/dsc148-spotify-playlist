@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: SPRINTS\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,759 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,858 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [December Song](https://open.spotify.com/track/2zmX9ZW7OXmB5wZ7xJPssM) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [December Song](https://open.spotify.com/album/7busnS3ClOoXxrNPwdeSg5) | 4:25 |
 | 100 | [See the Patterns](https://open.spotify.com/track/54rKzUySpkE6LOoFniDc4e) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp) | [See the Patterns](https://open.spotify.com/album/6OiXMsYRQaD0fCNwVEx6Xa) | 2:38 |
 
-Snapshot ID: `MCw2MzQxMmEwMzQ4MWQxNTQ1ODBkYmI1MGVlYWJlNDRkMmFmZTg2Mjlh`
+Snapshot ID: `MCwyY2I0MTY5YTQxYTBhMjhiYzE1NmRkYzVhY2YwNjk3NDM3M2YzZWFl`

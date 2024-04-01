@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,407 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,657 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 53 | [El Mes De Enero](https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:36 |
 | 54 | [Discúlpeme Amigo](https://open.spotify.com/track/6EUVkX1k1dpxb0uHqFA4NB) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:35 |
 | 55 | [La Mejor Opción](https://open.spotify.com/track/7A9x7OMm06SBjYHAalICS8) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [La Mejor Opción](https://open.spotify.com/album/7we22mTDfrYLTrtpCfXKgU) | 3:36 |
-| 56 | [Después de Ti](https://open.spotify.com/track/68Hvooe0kFHseO33GGiyWz) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Después de Ti](https://open.spotify.com/album/13EpUJ6wpVvbgEl3yj2Zp3) | 3:22 |
-| 57 | [Besitos En El Cuello](https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:28 |
+| 56 | [Besitos En El Cuello](https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:28 |
+| 57 | [Después de Ti](https://open.spotify.com/track/68Hvooe0kFHseO33GGiyWz) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Después de Ti](https://open.spotify.com/album/13EpUJ6wpVvbgEl3yj2Zp3) | 3:22 |
 | 58 | [La Tabla Del 1](https://open.spotify.com/track/4mzqMrRSKLr2pccw37z63y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Como Burro Sin Mecate](https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA) | 3:03 |
 | 59 | [Todas Son Iguales](https://open.spotify.com/track/1z9MHvR7w6VQMjLepUWFwm) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 2:53 |
 | 60 | [24 Horas \- Duo Versión Balada 1](https://open.spotify.com/track/20SAq18KTJRPa8PU2ZKjxx) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Sin Mirar Atrás \(24 Horas + Edition\)](https://open.spotify.com/album/5Ktg0zomp2GOFQMWaRcWEJ) | 3:32 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 62 | [Como Tortilla al Comal \- Estudio](https://open.spotify.com/track/0jfQ1QVYeMCbXvpg8rwqMh) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Como Tortilla al Comal \(Relanzamiento\)](https://open.spotify.com/album/29pYsVXfqCYLlmT9RGLoAw) | 3:10 |
 | 63 | [Como Burro Sin Mecate](https://open.spotify.com/track/62ilw5WsIN69ieZJMyeHed) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Como Burro Sin Mecate](https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA) | 2:51 |
 | 64 | [Miénteme](https://open.spotify.com/track/4irj9XwKWmBhg3QAbcrLJH) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Ojalá, Dios Quiera](https://open.spotify.com/album/7pQwd1nnxAAIvsIpXI7GLs) | 3:34 |
-| 65 | [Un Fin en Culiacán](https://open.spotify.com/track/37vF7elYtlTkViAUGFY078) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s) | 2:34 |
-| 66 | [Eres Mi Paz](https://open.spotify.com/track/0awSrFzOvDRklXhZSuRnMe) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 3:02 |
+| 65 | [Eres Mi Paz](https://open.spotify.com/track/0awSrFzOvDRklXhZSuRnMe) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 3:02 |
+| 66 | [Un Fin en Culiacán](https://open.spotify.com/track/37vF7elYtlTkViAUGFY078) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s) | 2:34 |
 | 67 | [Y Si Te Robo?](https://open.spotify.com/track/7uQDvbL52jBIIID4xtK4fo) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/75m8XGzKJKWr3vmmfiTOyf) | 2:48 |
 | 68 | [Perdí la Pose](https://open.spotify.com/track/2CPydcSEGdoMbcWj48fsia) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 2:37 |
 | 69 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/0Z0pPhqm32Caybjnozf0Vk) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse Para Ti](https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 99 | [Era Creyente](https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:14 |
 | 100 | [Mazatlán Carnaval](https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 4:04 |
 
-Snapshot ID: `MCw5MjZiMGJlMmJkYmVjNDNmZjg5NmQ2YWI4MGI0ZWQ0ZWU5NjFjODUy`
+Snapshot ID: `MCxkYjFiM2EzZGFjNGRlZjRjYWM5YjY1MzQ4M2U1ZTQ4OGY3NTcwY2M1`

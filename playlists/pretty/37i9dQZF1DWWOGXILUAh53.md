@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Whethan & Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,962 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,126 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 79 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 |
 | 80 | [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 |
 
-Snapshot ID: `MCwzNjlkZWJhNmFjOTkxMGVhZDQxZjZhODE4YTAwOTIwOTE2ZWE5ZmM1`
+Snapshot ID: `MCwxNDE0YzEwNTQzMjkyOWNmMGNhNzNlZGVjZjIzZDI0NzIwYTBlYWNh`

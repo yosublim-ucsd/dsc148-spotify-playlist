@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-341 songs - 20 hr 17 min
+342 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [还是你的笑容最可爱](https://open.spotify.com/track/6o0tRz6uSjA66A1LdEWwC6) | [音阙诗听](https://open.spotify.com/artist/6JZIgN9gEgNSS8lY5pmwbx), [泠鸢yousa](https://open.spotify.com/artist/5LyduAjWazekfgxC6M6rbk), [王梓钰](https://open.spotify.com/artist/5VNN9ctooTvYoBZKoGZ8Tr) | [还是你的笑容最可爱](https://open.spotify.com/album/1hY8IORuxUCrJlOVnH0FM5) | 2:45 | 2022-06-06 | 2022-07-22 |
 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 | 2022-07-25 |  |
 | [這樣就很好](https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [這樣就很好](https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8) | 3:26 | 2023-09-11 |  |
-| [遇到你 \- 電視劇《原來我很愛你》片頭曲](https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih), [萬鵬](https://open.spotify.com/artist/7rfYWk7WW24KDeU3nKJS3Z) | [遇到你 \(電視劇《原來我很愛你》片頭曲\)](https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1) | 4:05 | 2022-06-06 |  |
+| [遇到你 \- 電視劇《原來我很愛你》片頭曲](https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih), [萬鵬](https://open.spotify.com/artist/7rfYWk7WW24KDeU3nKJS3Z) | [遇到你 \(電視劇《原來我很愛你》片頭曲\)](https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1) | 4:05 | 2022-06-06 | 2024-04-01 |
 | [那一刻心動](https://open.spotify.com/track/2DspJPhiolrxUFIAnFfQ2L) | [大柯](https://open.spotify.com/artist/6a7NsPX4YpPVh1qQL5lrFq) | [那一刻心動](https://open.spotify.com/album/2o0W8GuTm30Ms9830PrUAA) | 3:42 | 2023-04-10 | 2023-04-18 |
 | [都怪那一眼\(Love at first sight\)\-電視劇<我的老闆是隻貓 >片頭曲](https://open.spotify.com/track/6uJ3uxT6lyZLKyr0DO57EB) | [Vera Yen](https://open.spotify.com/artist/08VvDNRmZUZ99QZb63qXgU) | [電視劇\(我的老闆是隻貓\)片頭曲&插曲](https://open.spotify.com/album/6QQVXygK29VWKR9Zt4VMM2) | 4:11 | 2022-06-27 | 2022-07-21 |
 | [阳光的陪伴](https://open.spotify.com/track/0RhNGs3Rj5vwv0NFoBTLVa) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [阳光的陪伴](https://open.spotify.com/album/5U3rbQPVdRmCdY7vQiFHDq) | 3:50 | 2022-06-06 | 2022-07-29 |
@@ -349,5 +349,6 @@
 | [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 | 2023-07-04 |
 | [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 | 2023-11-27 | 2024-01-13 |
 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 | 2022-06-13 |  |
+| [鼻子](https://open.spotify.com/track/7GbxcSJGFrN7aXZSjCb0a9) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [鼻子](https://open.spotify.com/album/2hi41dNrpBQBFdQBXuaMIx) | 3:52 | 2024-04-01 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

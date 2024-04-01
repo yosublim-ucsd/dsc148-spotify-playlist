@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,155 likes - 150 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,221 likes - 150 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 24 | [Miraculous Ways](https://open.spotify.com/track/0V2PDEmsSSAEysUwImGP5S) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Miraculous Ways](https://open.spotify.com/album/02J8l2kIgdxX3qxPqihX9D) | 4:23 |
 | 25 | [Have All Of Me \- Live](https://open.spotify.com/track/5dPe8ahss4C7NvjP1iiXOI) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH) | 7:56 |
 | 26 | [Diyos Na Buhay](https://open.spotify.com/track/215TyXOze2FWYHqpG0Shpf) | [Sidhimig](https://open.spotify.com/artist/4lz1EvoDByP3hMHyrm28dP) | [Diyos Na Buhay](https://open.spotify.com/album/5d5EUS1qO6YtMKoFomb0hD) | 4:01 |
-| 27 | [Holy](https://open.spotify.com/track/56W2qptuhftndvAooq7vuE) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Holy](https://open.spotify.com/album/2Ga8mVx2VZc3gxiYKSbMkn) | 2:59 |
+| 27 | [Holy](https://open.spotify.com/track/295zxNbaRxYp7cKmFEdwqG) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Soul Talk](https://open.spotify.com/album/4UxkhShMYwiB0klDme6XD5) | 2:59 |
 | 28 | [Tribes](https://open.spotify.com/track/7A6iCvA36tfeXuMHXa0hLD) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Tribes](https://open.spotify.com/album/5ZvBbZGgcqZupaYw7tr1TU) | 4:27 |
 | 29 | [God Is for Us](https://open.spotify.com/track/6eKUToZMHsTv93fm89AGEl) | [BEYOND MUS!C](https://open.spotify.com/artist/2sWgRyqEFiRwwjM0jrJcAo), [JASON FERREIRA](https://open.spotify.com/artist/2ueBDTjzp3KjsN3sFsAb6W) | [God Is for Us](https://open.spotify.com/album/0Rpt3UvPDW9ZM7pIzAoYg0) | 4:25 |
 | 30 | [Stronger](https://open.spotify.com/track/2I0Dvi7ujFSb7kirlAG5mF) | [Hope Music PH](https://open.spotify.com/artist/6O01ivbiwFip0rVDBubs3B) | [Stronger](https://open.spotify.com/album/2pAe1NvEYYCXlQanspdD17) | 5:10 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 149 | [Where Would I Be](https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5) | 4:04 |
 | 150 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MCxkZGQ2ODFhYWJjYjJmZGFiM2IyZjM3ZjUxMTA2NDc4NjcyNTc1NWE0`
+Snapshot ID: `MCxmZGVhZDEyNDNkODJlZDViZDA5MmVmMGQwNDY4NDk2MDI4NTUxOGU5`

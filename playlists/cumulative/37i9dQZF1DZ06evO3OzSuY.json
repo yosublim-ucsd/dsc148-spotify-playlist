@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Piano Acoustic Covers Vol 1",
+        "url": "https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Hugo Schneider",
+          "url": "https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233375,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"
+    },
+    {
+      "album": {
         "name": "Shake It Up: I <3 Dance",
         "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
       },

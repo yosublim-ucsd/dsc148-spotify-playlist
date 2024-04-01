@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,378 likes - 108 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,426 likes - 108 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Can U Dig That?](https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Can U Dig That?](https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy) | 3:14 |
 | 108 | [Spela lite Elvis](https://open.spotify.com/track/54LJGEXba0yVZnwCNMUsd9) | [Donnez](https://open.spotify.com/artist/4rMk4gSVtsxoOb7NPwF6hA) | [Spela lite Elvis](https://open.spotify.com/album/6VOY7bzVY5KyM5i5MClr5g) | 3:10 |
 
-Snapshot ID: `MCw5YjEzNmFlYjQ2ZDkzZjhkNTBlZjc4MzdhN2JhYTRjYTM5ZGI0MDU1`
+Snapshot ID: `MCw3OGFiODFiOTgwMDdlYzdiNTY5Yzk1M2M2MDVjZTNiNzc0YWM1ODk4`

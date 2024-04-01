@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 140431,
+  "num_followers": 140440,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTAwY2EyYTBjOTdiZGU1ZWJiZTExMjliMjA4NmFiMGQzZDQ3Y2Vj",
+  "snapshot_id": "MCw5MDAzMjNlMjhmMjA1OGQyNmUxY2ZmYzIwN2MyMGM4N2EwOWNjNzQ2",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 203106,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
-      },
-      "artists": [
-        {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
+      },
+      "artists": [
+        {
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/7sMn5JJ7rzgl9MmgucEXsZ"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "I'll Be Your Girl",
         "url": "https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 243800,
       "name": "Severed",
       "url": "https://open.spotify.com/track/38psZM2gA6UWA7rqqgOjGL"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/7sMn5JJ7rzgl9MmgucEXsZ"
     },
     {
       "added_at": "2023-10-23 19:19:23",

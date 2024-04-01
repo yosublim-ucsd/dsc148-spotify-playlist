@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 964760,
       "name": "Khabaram Raseeda",
       "url": "https://open.spotify.com/track/0q4658Fq3RFbtzxMyeo1HI"
@@ -6292,6 +6292,24 @@
       "duration_ms": 597866,
       "name": "Rabba Ho",
       "url": "https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n"
+    },
+    {
+      "album": {
+        "name": "Rabba Ho (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/1p5p51IUIGiIS0fEiZ16eC"
+      },
+      "artists": [
+        {
+          "name": "Mulazim Hussain",
+          "url": "https://open.spotify.com/artist/2suttLotEY0zAuXYPswTEq"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387399,
+      "name": "Rabba Ho - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/6SdjqpSFWqmaHLXTbEkblL"
     },
     {
       "album": {

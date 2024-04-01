@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTQ3OCxlMzhlODBkNDk1MTBiZDEwZDc1ZmRiNjJlY2I1YjZjZjlkYzZmNGJk",
+  "snapshot_id": "MTQ4MCxkNmRhYjYwYzU2YjY1YjkzMGFlY2NjMGVkOWU4NDY0N2NmODcxZGE2",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8027,6 +8027,38 @@
       "duration_ms": 258353,
       "name": "Divine Fault Line",
       "url": "https://open.spotify.com/track/0quhypMAHswXpRBXAqxS4G"
+    },
+    {
+      "added_at": "2024-03-31 20:54:10",
+      "album": {
+        "name": "Ted Lucas",
+        "url": "https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd"
+      },
+      "artists": [
+        {
+          "name": "Ted Lucas",
+          "url": "https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn"
+        }
+      ],
+      "duration_ms": 160194,
+      "name": "Plain & Sane & Simple Melody",
+      "url": "https://open.spotify.com/track/4DCEk28xejlUHLl0i9G7FA"
+    },
+    {
+      "added_at": "2024-03-31 22:19:34",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 415748,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/7cv8pIeOu1pkwCXW9D4Oef"
     }
   ],
   "unique_name": "Zacklog",

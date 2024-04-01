@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 40109,
+  "2024-04-01": 40119,
   "date_first_scraped": "2022-01-01",
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Laurence Nerbonne",
   "name": "Nouveaut\u00e9s francophones",
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 176040,
       "name": "_jun perseides",
       "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
@@ -11083,6 +11083,24 @@
       "duration_ms": 185453,
       "name": "Dis-moi t'es o\u00f9",
       "url": "https://open.spotify.com/track/7ndCfMwCqTpqWwWvlwau19"
+    },
+    {
+      "album": {
+        "name": "Dis-toi que c'est la vie",
+        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147405,
+      "name": "Dis-toi que c'est la vie",
+      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
     },
     {
       "album": {

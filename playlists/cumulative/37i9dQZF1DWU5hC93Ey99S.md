@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-469 songs - 1 day 1 hr 12 min
+470 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Better When You're Here](https://open.spotify.com/track/0AZ6ZpE8iYo7jNgxzOkyeb) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [Better When You're Here](https://open.spotify.com/album/5NtdPmn8NXO9WyzsypleZd) | 3:20 | 2023-10-12 | 2024-01-06 |
 | [Better When You're Here](https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [Better When You're Here](https://open.spotify.com/album/6iaLrXWXvl0yFGhN6xR5z5) | 3:20 | 2023-04-13 | 2023-12-07 |
 | [Blessyou](https://open.spotify.com/track/1NtxuDqsyMJfwk0K4wRpTN) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Blessyou](https://open.spotify.com/album/3YheYihN0ExFvL5atVNNtX) | 3:20 | 2023-11-30 | 2024-01-06 |
-| [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 | 2023-12-08 |  |
+| [BLINDED](https://open.spotify.com/track/1UiqtkLyYSF9RSXvkBskGy) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [BLINDED \(ONLYTHENEXT Remix\)](https://open.spotify.com/album/1Ngx2Q24qZR1opZ3N1diH2) | 4:00 | 2024-03-21 |  |
+| [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 | 2023-12-08 | 2024-04-01 |
 | [BLINDED](https://open.spotify.com/track/5e86PQ6kZGuMB3M9f4QSUu) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/4wP7WFvZGQUHyqYpYOeUz8) | 4:00 | 2023-12-08 | 2023-12-09 |
 | [Bounce](https://open.spotify.com/track/1WFHGHJcGJuzvAybmU5oQ0) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Bounce](https://open.spotify.com/album/1JVRTwsb069wBbLoFF9WeZ) | 2:25 | 2023-04-13 | 2024-01-06 |
 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-06-08 | 2024-01-06 |

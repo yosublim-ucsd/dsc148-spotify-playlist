@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 1141820,
+  "2024-04-01": 1141908,
   "date_first_scraped": "2019-07-30",
   "description": "Lorde has risen / Charli & Addison are screaming / Ryan x Beyonc\u00e9!!!!!",
   "name": "Lorem",
@@ -3363,10 +3363,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 159200,
       "name": "ask nicely",
       "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
+    },
+    {
+      "album": {
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL"
     },
     {
       "album": {

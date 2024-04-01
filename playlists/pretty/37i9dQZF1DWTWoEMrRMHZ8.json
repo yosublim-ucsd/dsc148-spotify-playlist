@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 346853,
+  "num_followers": 346900,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFjYWQxYzg2MjRkOWVlNzBiNmIwYjg1NGM4ZDRjZjA5Y2I1ZmJh",
+  "snapshot_id": "MCw4Y2ZiODkxNzU1MTc2NDRiYmFhM2YyZDNkOTllYjRjOWNlMWIzZWQ2",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "SERENA",
+        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 189713,
+      "name": "SERENA",
+      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Jardins Da Babil\u00f4nia",
         "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 177546,
       "name": "Jardins Da Babil\u00f4nia",
       "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "SERENA",
-        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 189713,
-      "name": "SERENA",
-      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Alcione 50 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 225119,
-      "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mEjmheFPc7L7n57YbwKfH"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Roupa Branca",
         "url": "https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 147770,
       "name": "Roupa Branca",
       "url": "https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Alcione 50 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 225119,
+      "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mEjmheFPc7L7n57YbwKfH"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "LIM\u00c3O",
-        "url": "https://open.spotify.com/album/7o8LOcVrGcSecxWCdDtaKT"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "LIM\u00c3O",
-      "url": "https://open.spotify.com/track/4jPUsd9EElz1AgiEM0axZG"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Novo Samba Sempre Novo",
         "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 237234,
       "name": "Retalhos De Cetim",
       "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "LIM\u00c3O",
+        "url": "https://open.spotify.com/album/7o8LOcVrGcSecxWCdDtaKT"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "LIM\u00c3O",
+      "url": "https://open.spotify.com/track/4jPUsd9EElz1AgiEM0axZG"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
         "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
         }
       ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1075,26 +1091,6 @@
       "duration_ms": 230441,
       "name": "De: Terra; Para: Humanidade",
       "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Theodoro",
-        "url": "https://open.spotify.com/album/0na2aMw9qRuBhwTanorbNQ"
-      },
-      "artists": [
-        {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
-        },
-        {
-          "name": "A Timeline",
-          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
-        }
-      ],
-      "duration_ms": 148186,
-      "name": "Estrela do Oriente",
-      "url": "https://open.spotify.com/track/5rg1EoerPjaGv00vWBy2MS"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1127,6 +1123,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Theodoro",
+        "url": "https://open.spotify.com/album/0na2aMw9qRuBhwTanorbNQ"
+      },
+      "artists": [
+        {
+          "name": "Theodoro Nag\u00f4",
+          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
+        },
+        {
+          "name": "A Timeline",
+          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
+        }
+      ],
+      "duration_ms": 148186,
+      "name": "Estrela do Oriente",
+      "url": "https://open.spotify.com/track/5rg1EoerPjaGv00vWBy2MS"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Afeto e Luta - Bruna Caram Canta Gonzaguinha",
         "url": "https://open.spotify.com/album/0Jac5fEWIbZz4YvVsa3SVs"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 207375,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/6535UwR6A0VkwXqnrDJgG9"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1295,6 +1295,30 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Love Songs, Vol. I",
+        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "BRUN\u00ca",
+          "url": "https://open.spotify.com/artist/1Xb6QnMiLu7H0IZgMY996F"
+        },
+        {
+          "name": "DeVito Cxrleone",
+          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "eu j\u00e1 n\u00e3o falo de amor",
+      "url": "https://open.spotify.com/track/1tPvz44w6JfROTBwRpUKhp"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1327,30 +1351,6 @@
       "duration_ms": 235586,
       "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Love Songs, Vol. I",
-        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "BRUN\u00ca",
-          "url": "https://open.spotify.com/artist/1Xb6QnMiLu7H0IZgMY996F"
-        },
-        {
-          "name": "DeVito Cxrleone",
-          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "eu j\u00e1 n\u00e3o falo de amor",
-      "url": "https://open.spotify.com/track/1tPvz44w6JfROTBwRpUKhp"
     }
   ],
   "unique_name": "Divina MPB",

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Elsa y Elmar.",
-  "num_followers": 122686,
+  "num_followers": 122729,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODFmMGZjY2MyNzM0YjRjZTkyNjc4ZDI1YzgzM2ZhZmQ4N2I1MjE4",
+  "snapshot_id": "MCxlYmJkNTFkNmY5OTIzNWY5N2VlNjk1M2UwYTNmZjg0ZWJiYWMzMGZk",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 181798,
       "name": "El Tiempo Est\u00e1 Despu\u00e9s",
       "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "El Perro Feroz",
+        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Diente de Le\u00f3n",
+      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "El Perro Feroz",
-        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
-      },
-      "artists": [
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
-        }
-      ],
-      "duration_ms": 140928,
-      "name": "Diente de Le\u00f3n",
-      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Capurgan\u00e1",
+        "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
+      },
+      "artists": [
+        {
+          "name": "Astola y Rat\u00f3n",
+          "url": "https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Capurgan\u00e1",
+      "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Las Plantas Crecen",
         "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 224501,
       "name": "la ra\u00edz",
       "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Capurgan\u00e1",
-        "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
-      },
-      "artists": [
-        {
-          "name": "Astola y Rat\u00f3n",
-          "url": "https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Capurgan\u00e1",
-      "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -947,22 +947,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
+        "name": "Al o\u00edrla cantar",
+        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
       "artists": [
         {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
         },
         {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
         }
       ],
-      "duration_ms": 217787,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
+      "duration_ms": 336330,
+      "name": "Al o\u00edrla cantar",
+      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -983,22 +983,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Al o\u00edrla cantar",
-        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
       },
       "artists": [
         {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
         },
         {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
         }
       ],
-      "duration_ms": 336330,
-      "name": "Al o\u00edrla cantar",
-      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+      "duration_ms": 217787,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Rumba en Cahuita",
+        "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 167752,
+      "name": "Rumba en Cahuita",
+      "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 157928,
       "name": "Continuar",
       "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Rumba en Cahuita",
-        "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 167752,
-      "name": "Rumba en Cahuita",
-      "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Una mica m\u00e9s",
-        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
-      },
-      "artists": [
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        },
-        {
-          "name": "Suu",
-          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
-        }
-      ],
-      "duration_ms": 261775,
-      "name": "Una mica m\u00e9s",
-      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "El Mundo y la Nada",
         "url": "https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 122821,
       "name": "Despi\u00e9rtame Cuando Llegues",
       "url": "https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Una mica m\u00e9s",
+        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
+      },
+      "artists": [
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        },
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+        }
+      ],
+      "duration_ms": 261775,
+      "name": "Una mica m\u00e9s",
+      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "El siglo del loro",
+        "url": "https://open.spotify.com/album/1p9J4Gk71sOHPFeEmJYVvP"
+      },
+      "artists": [
+        {
+          "name": "Pala",
+          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 100253,
+      "name": "Ponme",
+      "url": "https://open.spotify.com/track/7oGwZ9K8PbWEMCEmJS2esu"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "poquito",
         "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "El siglo del loro",
-        "url": "https://open.spotify.com/album/1p9J4Gk71sOHPFeEmJYVvP"
-      },
-      "artists": [
-        {
-          "name": "Pala",
-          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 100253,
-      "name": "Ponme",
-      "url": "https://open.spotify.com/track/7oGwZ9K8PbWEMCEmJS2esu"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Mi amor",
         "url": "https://open.spotify.com/album/0PoKNzX5Z7nTQgLzUZ8VSP"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "La Serrana",
-        "url": "https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS"
-      },
-      "artists": [
-        {
-          "name": "Karmento",
-          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
-        }
-      ],
-      "duration_ms": 265015,
-      "name": "La Serrana",
-      "url": "https://open.spotify.com/track/01h6ipg9kKVRfBpTywnKhb"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "El Vuelo",
         "url": "https://open.spotify.com/album/4V2o5BWHr885dH7i7kMSM9"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 329062,
       "name": "No Pasar\u00e1n",
       "url": "https://open.spotify.com/track/6qoi71vyo13PQeM1jPhMBv"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "La Serrana",
+        "url": "https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS"
+      },
+      "artists": [
+        {
+          "name": "Karmento",
+          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
+        }
+      ],
+      "duration_ms": 265015,
+      "name": "La Serrana",
+      "url": "https://open.spotify.com/track/01h6ipg9kKVRfBpTywnKhb"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        },
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "A volar (feat. Lido Pimienta)",
         "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
     },
     {
       "added_at": "2024-03-29 06:00:00",

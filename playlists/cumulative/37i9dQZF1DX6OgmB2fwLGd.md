@@ -4,7 +4,7 @@
 
 > Shotgun Willy, born and raised on the internet.
 
-984 songs - 1 day 16 hr 14 min
+985 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,8 +525,9 @@
 | [Law & Order pt\. 2](https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [50jittsteppa](https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf) | [Law & Order pt\. 2](https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM) | 3:59 | 2022-12-02 | 2023-01-26 |
 | [Lean Beef Patty](https://open.spotify.com/track/1qbADMsKCFmu08MhWPTZpb) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Lean Beef Patty](https://open.spotify.com/album/5ee7NlaQZi5TYOXRghp04b) | 1:47 | 2023-03-17 | 2023-07-15 |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 | 2023-05-13 |
-| [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-06 |  |
+| [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 | 2024-03-06 | 2024-04-01 |
 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 | 2024-03-06 | 2024-03-31 |
+| [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 | 2024-03-06 |  |
 | [Left Cheek \(Doo Doo Blick\)](https://open.spotify.com/track/1aKHgPHMKTJEmLkKmcbe3a) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Left Cheek \(Doo Doo Blick\)](https://open.spotify.com/album/2QCIxTKckQPH0slJpy7GV9) | 2:54 | 2022-09-07 | 2023-01-26 |
 | [less than me \(with NoCap\)](https://open.spotify.com/track/1giAAC2ehzhihRYA7sxYHO) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [WORLD DAMINATION](https://open.spotify.com/album/3N8tj0jEEDRSKwET5u3xgW) | 3:14 | 2022-09-16 | 2022-11-19 |
 | [Let U Go](https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72) | 2:08 | 2023-02-09 | 2023-04-17 |

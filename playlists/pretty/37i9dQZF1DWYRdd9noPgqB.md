@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,182 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,198 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Under Water / In Air](https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Under Water / In Air](https://open.spotify.com/album/3XvwFrw03TCLjWLeBonhDy) | 3:09 |
 | 50 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 |
 
-Snapshot ID: `MCxiY2Q4NjBiY2Q3ODg3MGNjMmZmNmJiNTdjYWE5YzUxOTQ5NGEyYTgw`
+Snapshot ID: `MCw0ZjZlNjdhNTI5NGU5NjMzNjE2NzZjODdkNDk5YTY4ZTQyZTg0N2M3`

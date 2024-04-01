@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 415586,
+  "num_followers": 415671,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTNlY2JkN2ZkYzQxMDkxYWY0NDE3NjA0ODdhNzE5ZDc0NDhlNzQ5",
+  "snapshot_id": "MCwyNDAzYWMyM2ZhOTkxNjUwZmZiNTJiMTVlNzY3MDdlNTc5YWFmYmM5",
   "tracks": [
     {
       "added_at": "2023-11-03 04:33:15",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Livres ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 447843,
-      "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Me Leva Pra Casa",
         "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 465885,
       "name": "Me Leva Pra Casa",
       "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Livres ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 447843,
+      "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
     },
     {
       "added_at": "2023-11-03 04:33:15",

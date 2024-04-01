@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 35819,
+  "num_followers": 35889,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjcyYTdlZWVhYzY4ODZiOWM5ZjFmOWJkNjgwODQzYmFhODNhN2U3",
+  "snapshot_id": "MCw2ZWNiZmEyNzAzNTRhMWI2MzI2YjM0MWE0ODMxNDcyM2JjZTkzNDA0",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -95,18 +95,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Con Sangre Ranchera",
-        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
+        "name": "Puras Pa'levantar la Polvadera",
+        "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
       },
       "artists": [
         {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
         }
       ],
-      "duration_ms": 136752,
-      "name": "A Qui\u00e9n No Le Gusta Eso",
-      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
+      "duration_ms": 171740,
+      "name": "El Son de la Tambora",
+      "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puras Pa'levantar la Polvadera",
-        "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
+        "name": "Con Sangre Ranchera",
+        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
       },
       "artists": [
         {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 171740,
-      "name": "El Son de la Tambora",
-      "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
+      "duration_ms": 136752,
+      "name": "A Qui\u00e9n No Le Gusta Eso",
+      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -175,22 +175,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "La Trayectoria! (De Arturo Camarillo)",
-        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
+        "name": "Justo a Tiempo",
+        "url": "https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc"
       },
       "artists": [
         {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
+          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
         }
       ],
-      "duration_ms": 164466,
-      "name": "Oye Traicionera",
-      "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
+      "duration_ms": 164186,
+      "name": "Pavido Navido",
+      "url": "https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -211,18 +207,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Justo a Tiempo",
-        "url": "https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc"
+        "name": "La Trayectoria! (De Arturo Camarillo)",
+        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
       },
       "artists": [
         {
-          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
-          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
         }
       ],
-      "duration_ms": 164186,
-      "name": "Pavido Navido",
-      "url": "https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY"
+      "duration_ms": 164466,
+      "name": "Oye Traicionera",
+      "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Aquel Amor (Desde Tingambato Michoacan)",
+        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
+      },
+      "artists": [
+        {
+          "name": "Banda los Chirimoyos",
+          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
+        }
+      ],
+      "duration_ms": 246903,
+      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 226306,
       "name": "Chinelo Carnavalero",
       "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Aquel Amor (Desde Tingambato Michoacan)",
-        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
-      },
-      "artists": [
-        {
-          "name": "Banda los Chirimoyos",
-          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
-        }
-      ],
-      "duration_ms": 246903,
-      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Mudanzas A La Luna",
-        "url": "https://open.spotify.com/album/6xJfh54aAD89uBv0b8EYIb"
+        "name": "Contra Viento y Marea",
+        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD"
+      "duration_ms": 261573,
+      "name": "Chineleando",
+      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -455,34 +455,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Contra Viento y Marea",
-        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
+        "name": "Mudanzas A La Luna",
+        "url": "https://open.spotify.com/album/6xJfh54aAD89uBv0b8EYIb"
       },
       "artists": [
         {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 261573,
-      "name": "Chineleando",
-      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "El Toro Meko (Serie Titanium)",
-        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
-      },
-      "artists": [
-        {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "El Huitzuque\u00f1o",
-      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
+      "duration_ms": 181440,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -503,6 +487,22 @@
       "duration_ms": 167100,
       "name": "Los Colorados (feat. Banda los Escamilla)",
       "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "El Toro Meko (Serie Titanium)",
+        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
+      },
+      "artists": [
+        {
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "El Huitzuque\u00f1o",
+      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Y Seguimos Loqueando!",
-        "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "El Torito de Petate - La Fiesta del Carnaval",
-      "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Que Chulo Es el Jaripeo",
         "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 211426,
       "name": "El Toro Requeson",
       "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Y Seguimos Loqueando!",
+        "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
+      },
+      "artists": [
+        {
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "El Torito de Petate - La Fiesta del Carnaval",
+      "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 190171,
       "name": "Conga Conguita",
       "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
     },
     {
       "added_at": "2022-08-02 22:31:47",

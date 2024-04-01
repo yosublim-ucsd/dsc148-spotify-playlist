@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,243 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,315 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 67 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 |
 | 68 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 |
 | 69 | [Backseat](https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 2:49 |
-| 70 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 |
-| 71 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 |
+| 70 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 |
+| 71 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 |
 | 72 | [Smack That](https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [CJ.](https://open.spotify.com/artist/1EUvNOgSHmGTn7sAkKGopj) | [Smack That](https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ) | 2:40 |
 | 73 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 |
 | 74 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 94 | [What You Got](https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [What You Got](https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh) | 2:40 |
 | 95 | [I Wanna](https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [I Wanna](https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR) | 2:35 |
 | 96 | [Move It \(with Luciana\)](https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Move It \(with Luciana\)](https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8) | 2:15 |
-| 97 | [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 |
-| 98 | [Losing My Head](https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Losing My Head](https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz) | 3:09 |
+| 97 | [Losing My Head](https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Losing My Head](https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz) | 3:09 |
+| 98 | [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 |
 | 99 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:04 |
 | 100 | [Free My Mind](https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/1W09O51MifKfx4XAl851q9) | 2:51 |
 
-Snapshot ID: `MCxkYmMxNzMzNjlhOWQwOTE2NDFlMzg5ZTkwNTI0NWNjOWI5ZDk3Yzcz`
+Snapshot ID: `MCwyMDc5MGMwYjQ5ZTk1NjNiNjE5NWQwMTg0NzNhMTdjNDU2MGZiNGFj`

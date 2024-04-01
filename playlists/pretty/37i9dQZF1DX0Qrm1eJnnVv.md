@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,105 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 30 | [Fig Leaf Rag](https://open.spotify.com/track/1yMqt5habP5GQsll993r1D) | [Knocky Parker](https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY) | [The Complete Piano Works of Scott Joplin](https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe) | 1:54 |
 | 31 | [Great Scott Rag](https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 2:57 |
 | 32 | [American Beauty Rag](https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z) | [Donald Beavers](https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5) | [100 Years of Ragtime](https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR) | 3:29 |
-| 33 | [Grace and Beauty](https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ) | [James Scott](https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ), [Brian Dykstra](https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY) | [Ragtime Classics, 1901\-1919](https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b) | 3:25 |
-| 34 | [Patricia Rag](https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6) | [Jazzou Jones](https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv) | [Hilarity](https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4) | 3:23 |
-| 35 | [Paramount Rag](https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7) | [Leslie Bridges](https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw) | [Classic Rags Piano Solos, Vol\. 4](https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul) | 2:45 |
+| 33 | [Patricia Rag](https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6) | [Jazzou Jones](https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv) | [Hilarity](https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4) | 3:23 |
+| 34 | [Paramount Rag](https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7) | [Leslie Bridges](https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw) | [Classic Rags Piano Solos, Vol\. 4](https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul) | 2:45 |
+| 35 | [Grace and Beauty](https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ) | [James Scott](https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ), [Brian Dykstra](https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY) | [Ragtime Classics, 1901\-1919](https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b) | 3:25 |
 | 36 | [Broadway Rag](https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb) | [Squeek Steele](https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF) | [Ragtime, Vol\. 1](https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK) | 3:37 |
 | 37 | [Sensation Rag](https://open.spotify.com/track/2PtZyMXdMvbimCmx9v6j8O) | [Donald Beavers](https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5) | [50 Ragtime Classics: The Best of Scott Joplin](https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY) | 2:28 |
 | 38 | [The Nonpareil](https://open.spotify.com/track/0hFZqcLNnXjFz14gZj34Hk) | [Knocky Parker](https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY) | [The Complete Piano Works of Scott Joplin](https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe) | 1:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 49 | [Something Doing](https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Greatest Ragtime Of The Century](https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj) | 3:16 |
 | 50 | [Scott Joplin's New Rag](https://open.spotify.com/track/49uqrtWArmME93qBRrHamC) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:28 |
 
-Snapshot ID: `MCw1Njk5NzYwMjQzMjlhY2VmNDU0MjlhYmRhN2RhMWRjMDM0YWZhNDg0`
+Snapshot ID: `MCxmOTg4MDkxYjliMDQxZDE5MGRiMmIyN2I3MmQyYzI3NjJjZDEwYWNi`

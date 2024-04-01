@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Kings of Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,468 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,585 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [What Am I Doing?](https://open.spotify.com/track/1nUAe12FA4B3HWoNGhvHCA) | [Teens in Trouble](https://open.spotify.com/artist/5Ac0juCmwJuRNiHSOVHG11) | [What's Mine](https://open.spotify.com/album/0Hs9STDRnOlNYj6uuNK0tI) | 2:31 |
 | 50 | [Never Said](https://open.spotify.com/track/3j8ZZlpKzdhDdcn2EWDhmB) | [Los Saints](https://open.spotify.com/artist/65kpk2PLBzVkgtG47hus0g) | [Never Said](https://open.spotify.com/album/1ObJHkOfVc1Q7qmwaa7TI5) | 2:33 |
 
-Snapshot ID: `MCw4MWE4MzAyNjVhYTdlNmQ0YmJmZDcyM2JkY2FmYjU2ZTdjMzQ1ZTgx`
+Snapshot ID: `MCwyZDFjZmFhOTgxNGNhMWU2NjZjODEyZDM1MmIxZjA3ZjE0MmM3NzA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is r&b in Canada, elevate your aura with K\. Forest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,565 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,598 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 69 | [THINKING OUT LOUD](https://open.spotify.com/track/2gKE5mQyhvORtwetc75NLE) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [THINKING OUT LOUD](https://open.spotify.com/album/18DqbEc8v0BYmlHggjMiyr) | 2:46 |
 | 70 | [won't make it](https://open.spotify.com/track/5fm2hA6xErpIpankZuyokX) | [amaka.](https://open.spotify.com/artist/3DpIpjmo3sLKbrHWjcjNk3) | [won't make it](https://open.spotify.com/album/7eZAxnerRWqAo5OxhWHRw2) | 3:20 |
 | 71 | [Fallin](https://open.spotify.com/track/4vrng88ZcFQjykEpHnDKgm) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Fallin](https://open.spotify.com/album/1EeN2rhse9oPfLZMJTBr4r) | 2:32 |
-| 72 | [Welcome to Nostalgia](https://open.spotify.com/track/42ES1zVyBVYY0oLeLTJK5Q) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Welcome to Nostalgia](https://open.spotify.com/album/5FfiLItrCZyXr8n9i7AuUm) | 3:41 |
+| 72 | [Welcome To Nostalgia](https://open.spotify.com/track/2PCu2I8llcLd1vOtv6Rk1F) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Welcome to Nostalgia](https://open.spotify.com/album/7L92ZHOZgkGzYCp0fvqWwX) | 3:42 |
 | 73 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 |
 | 74 | [Curious](https://open.spotify.com/track/1RxE69amBRSa0ywQf5iCVB) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [Curious](https://open.spotify.com/album/5kLXDsZRTG2vDhEcQ0uHWu) | 2:56 |
 | 75 | [Me n Mines](https://open.spotify.com/track/3Jd2FLjA34OGCw3hO06kCh) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE), [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Me n Mines](https://open.spotify.com/album/5N9GHJPeMXOWSRMfWk5ze5) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [JUST LIKE CANDY](https://open.spotify.com/track/6XG3FOWMN4AOvQoxVoLUI7) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [HARTTBREAK / am I enough?](https://open.spotify.com/album/1ROUWJo8rgIAEt6pm34ToK) | 2:40 |
 | 100 | [2AM](https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [8](https://open.spotify.com/album/5EkUPC1lK59jm0O0y1jswQ) | 2:37 |
 
-Snapshot ID: `MCxmMGQ1Y2Y2NTVlODE5MjY3OTc3ODZjZTBkMjM4MDM0ZWVmNWY3NzFk`
+Snapshot ID: `MCxmOTJjMDYyM2MwODQyODVmNjJlYWVmY2FiZTgzODFjZDMzM2IyZTEw`

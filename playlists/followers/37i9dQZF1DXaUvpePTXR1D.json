@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 142511,
+  "2024-04-01": 142519,
   "date_first_scraped": "2021-12-28",
   "description": "Sway your way through the evening.",
   "name": "Slow Dancing in the Living Room",
@@ -1145,10 +1145,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 255586,
       "name": "Forest",
       "url": "https://open.spotify.com/track/2su8wFMyRZCmi9dVb8gc55"
+    },
+    {
+      "album": {
+        "name": "Southern Curiosity",
+        "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255586,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/30mNJGEEHxCMJxGVor9zTc"
     },
     {
       "album": {

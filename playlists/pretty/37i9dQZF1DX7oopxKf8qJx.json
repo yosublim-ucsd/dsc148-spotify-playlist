@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 86673,
+  "num_followers": 86757,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTk0Nzk0ZWFjYWI4OGM5YWU5ZDdmZmY1M2E1M2IwNGVlM2EzMDNm",
+  "snapshot_id": "MCxiMzczODBkYmQzODVmMDRkZDcxZDcxYzhkY2Y5NDcxMzkyZmJjZjE3",
   "tracks": [
     {
       "added_at": "2024-03-20 13:27:06",
@@ -871,22 +871,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
       "artists": [
         {
           "name": "Henry Mancini",
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "Hugo Winterhalter",
-          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
         }
       ],
-      "duration_ms": 156546,
-      "name": "The Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe"
+      "duration_ms": 179066,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -1167,18 +1163,22 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
       },
       "artists": [
         {
           "name": "Henry Mancini",
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Hugo Winterhalter",
+          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+      "duration_ms": 156546,
+      "name": "The Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe"
     }
   ],
   "unique_name": "Classic Easy Listening",

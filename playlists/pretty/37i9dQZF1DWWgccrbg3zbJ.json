@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 240665,
+  "num_followers": 241285,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWIzMTM5MTg1YmQyNTA3YTNhNmEyOTM5YzZmMTlmY2E0MGRmODdm",
+  "snapshot_id": "MCwwOWEwNjIwZDRiYjAxZGY0ZGVlNWI4MjVjOTk2MmRiMDc5YTc2N2Mx",
   "tracks": [
     {
       "added_at": "2024-03-19 13:50:16",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
-        "name": "Rio Revisited",
-        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 320520,
-      "name": "Dindi - Live",
-      "url": "https://open.spotify.com/track/48RHQgGgCGI0q2Wyyl4cJu"
+      "duration_ms": 154240,
+      "name": "Eu Vim Da Bahia",
+      "url": "https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr"
     },
     {
       "added_at": "2024-03-19 13:50:16",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+        "name": "Rio Revisited",
+        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 154240,
-      "name": "Eu Vim Da Bahia",
-      "url": "https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr"
+      "duration_ms": 320520,
+      "name": "Dindi - Live",
+      "url": "https://open.spotify.com/track/48RHQgGgCGI0q2Wyyl4cJu"
     },
     {
       "added_at": "2024-03-19 13:50:16",

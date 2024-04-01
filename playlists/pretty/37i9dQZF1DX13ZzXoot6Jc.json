@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: The Reklaws",
-  "num_followers": 456232,
+  "num_followers": 456241,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTkwNWIzNDgyYjRmN2UxYmRlNGEwMTNjM2NiM2MwOGJiZjIxMjU3",
+  "snapshot_id": "MCxiMmM0OGZhOWViNTQ0NDU1MGFhMWY3M2IzY2I0OGY5NTM2ZTEyYzMz",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Highway Desperado",
-        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Whiskey Drink",
-      "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Wandering Star",
         "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 223764,
       "name": "Mornings With You (with Kaitlin Butts)",
       "url": "https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Whiskey Drink",
+      "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "The Whiskey's Gone",
+        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "The Whiskey's Gone",
+      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 157777,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "The Whiskey's Gone",
-        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "The Whiskey's Gone",
-      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Come Get Your Memory",
+        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Come Get Your Memory",
+      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "I'll Be Here",
         "url": "https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 247459,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Come Get Your Memory",
-      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 209109,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/4k6zSLCDhm0pjLAVbLrF5P"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
     },
     {
       "added_at": "2024-03-29 04:01:00",

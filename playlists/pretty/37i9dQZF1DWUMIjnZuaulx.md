@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:2b9paaAwb2Xd3iR1LSnCDN">Brent Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,501 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,574 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Amazing Grace \(Always\)](https://open.spotify.com/track/1cQgvWzXSr3VZmWUbrlY3D) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Jalen Seawright](https://open.spotify.com/artist/5puI4C97ehRfRMIYD1jmdY), [Alina Oliver Emeribe](https://open.spotify.com/artist/58ESnXSGitotN6hVfgUVTK), [Marv Hudgins](https://open.spotify.com/artist/6IoG49XANg9rJ8pZM94b58) | [Amazing Grace \(Always\)](https://open.spotify.com/album/4iESmBCklPuETbVUW7yenz) | 5:58 |
 | 100 | [Planted](https://open.spotify.com/track/5E6lx3w4GqLbKPKQrYyFIn) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b), [Ethan Kent](https://open.spotify.com/artist/6tkZDZILZdLZaCuY801ef3) | [Planted](https://open.spotify.com/album/0iPVkBWSUkUvRs3GMAK5Pm) | 4:02 |
 
-Snapshot ID: `MCw0Yzg2MTBlZGNiOTlhOTVhNGNjODlkODY3ZmVmNzExYTVmNjJkZTYw`
+Snapshot ID: `MCw3NTg4ODI2NDhlYTBhZTY2ZjAyZmY4ZDVhOGEwZDRmNzRhZDhmMjU2`

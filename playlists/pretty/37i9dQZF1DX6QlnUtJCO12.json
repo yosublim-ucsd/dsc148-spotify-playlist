@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 43955,
+  "num_followers": 43985,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2NiYjAyMTk3MWM0NmQ4M2E2MmY0NGVkYTIzMWUwOTYwN2IzZGJi",
+  "snapshot_id": "MCw0MDhjNjllZjY0Njk1NDE4OThiZjA3OTEwOWMyMjNkNTIwN2Y5YzFi",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -263,18 +263,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Lord Melody Sings Calypso",
-        "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
+        "name": "Calypso - Best of Trinidad",
+        "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
       },
       "artists": [
         {
-          "name": "Lord Melody",
-          "url": "https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka"
+          "name": "King Radio",
+          "url": "https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Carnival Proclamation",
-      "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
+      "duration_ms": 161960,
+      "name": "Mathilda",
+      "url": "https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -295,22 +295,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso - Best of Trinidad",
-        "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
-      },
-      "artists": [
-        {
-          "name": "King Radio",
-          "url": "https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Mathilda",
-      "url": "https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
         "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 149093,
       "name": "Mister Give Me de Rent",
       "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Lord Melody Sings Calypso",
+        "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
+      },
+      "artists": [
+        {
+          "name": "Lord Melody",
+          "url": "https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Carnival Proclamation",
+      "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.1",
-        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
-      },
-      "artists": [
-        {
-          "name": "Sam Manning",
-          "url": "https://open.spotify.com/artist/6MFvKHJHRpB6kWx3AMvvT4"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Lieutnant Julian",
-      "url": "https://open.spotify.com/track/351Zm4ZUKWT7qW7rXVoFkr"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "The Man Who Never Ever Worried",
         "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 403800,
       "name": "Move Yuh Foot",
       "url": "https://open.spotify.com/track/5q2F1S4m2b85HpJOOl2KDQ"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.1",
+        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
+      },
+      "artists": [
+        {
+          "name": "Sam Manning",
+          "url": "https://open.spotify.com/artist/6MFvKHJHRpB6kWx3AMvvT4"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Lieutnant Julian",
+      "url": "https://open.spotify.com/track/351Zm4ZUKWT7qW7rXVoFkr"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.1",
-        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
-      },
-      "artists": [
-        {
-          "name": "The Tiger",
-          "url": "https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "The Man Who Never Ever Worried",
         "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 317720,
       "name": "Illegitimate Children",
       "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.1",
+        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
+      },
+      "artists": [
+        {
+          "name": "The Tiger",
+          "url": "https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X"
     },
     {
       "added_at": "2021-04-23 15:05:50",

@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 280650,
+  "num_followers": 280671,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjM5NTkxYTk4NDA1NGRhOGM3ZDBiNDAwZmUwZWU5OGIzNTI2MDcx",
+  "snapshot_id": "MCw4NWIwMDU4OWUxYWY1OTVmOGQ3YWU3NDhjODJjYjUxMDQzOTYwOGMy",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -419,22 +419,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "LUNA 18",
-        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 176160,
-      "name": "MALAVIDA (feat. Evlay)",
-      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
+      "duration_ms": 231066,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -455,18 +451,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
       "artists": [
         {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
         }
       ],
-      "duration_ms": 231066,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
+      "duration_ms": 176160,
+      "name": "MALAVIDA (feat. Evlay)",
+      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Lo Que Hay Dentro de M\u00ed",
         "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 258573,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Instinto Felino",
+        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 188431,
+      "name": "Lo Que Nadie Supo Dar",
+      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Instinto Felino",
-        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 188431,
-      "name": "Lo Que Nadie Supo Dar",
-      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Una sensaci\u00f3n",
-        "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 197169,
-      "name": "Una sensaci\u00f3n",
-      "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Himno (para los que est\u00e1n jodidos)",
         "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 185790,
       "name": "Himno (para los que est\u00e1n jodidos)",
       "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Una sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 197169,
+      "name": "Una sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Ocho",
-        "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
       },
       "artists": [
         {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Toda Mi Fe",
-      "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+        "name": "Ocho",
+        "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
         }
       ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+      "duration_ms": 199000,
+      "name": "Toda Mi Fe",
+      "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "No Me Odio Tanto",
-        "url": "https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB"
-      },
-      "artists": [
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 178251,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Se\u00f1orita Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 158478,
       "name": "Se\u00f1orita Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "No Me Odio Tanto",
+        "url": "https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 178251,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp"
     },
     {
       "added_at": "2024-03-15 04:00:00",

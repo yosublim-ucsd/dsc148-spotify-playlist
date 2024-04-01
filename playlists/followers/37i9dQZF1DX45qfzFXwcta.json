@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 329589,
+  "2024-04-01": 329675,
   "date_first_scraped": "2022-07-30",
   "description": "Instrumental beats from (and influenced by) Hip-Hop's golden era; to help you study, work and vibe. ",
   "name": "Boom Bap Focus",
@@ -610,6 +610,28 @@
     },
     {
       "album": {
+        "name": "Yancey Boys (Instrumentals)",
+        "url": "https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263973,
+      "name": "DFTF (J Dilla instrumental)",
+      "url": "https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2"
+    },
+    {
+      "album": {
         "name": "Do You Believe? EP",
         "url": "https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak"
       },
@@ -683,24 +705,6 @@
       "duration_ms": 259760,
       "name": "Drugs - Instrumental",
       "url": "https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P"
-    },
-    {
-      "album": {
-        "name": "Yancey Boys (Instrumentals) Produced By Jay Dee Aka J Dilla",
-        "url": "https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "date_added": "2023-06-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 264019,
-      "name": "DTFT (Instrumental)",
-      "url": "https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2"
     },
     {
       "album": {

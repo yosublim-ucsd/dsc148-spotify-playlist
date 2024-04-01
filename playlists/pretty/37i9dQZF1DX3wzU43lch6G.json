@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 102977,
+  "num_followers": 102986,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWJiZWZlNjI4NjMyZDVhNjQ5MzJhZTEzYmIyMTZmZTc2Mzk3ZDg5",
+  "snapshot_id": "MCxiZmFlZmY1ZjkxMzkwYmIwMTUxZTZhNzA5MTk1ZTkwYWVlN2QzOWE4",
   "tracks": [
     {
       "added_at": "2024-02-22 21:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 195805,
-      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
-      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Durum \u015eark\u0131lar\u0131",
         "url": "https://open.spotify.com/album/4qczrbpvQeGJrIym4k1oo6"
       },
@@ -699,6 +683,42 @@
       "duration_ms": 232625,
       "name": "Kimler Gelmi\u015f",
       "url": "https://open.spotify.com/track/2MDgUGZ4HbtwzKd1GWZTFL"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 195805,
+      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "\u00c7apk\u0131nca",
+        "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        },
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
+        }
+      ],
+      "duration_ms": 218789,
+      "name": "\u00c7apk\u0131nca",
+      "url": "https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -735,26 +755,6 @@
       "duration_ms": 177661,
       "name": "Ben Her Zaman Sana A\u015f\u0131kt\u0131m",
       "url": "https://open.spotify.com/track/4CWwQBDEI444gJh9rSg6iB"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "\u00c7apk\u0131nca",
-        "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        },
-        {
-          "name": "Ozan Bayra\u015fa",
-          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
-        }
-      ],
-      "duration_ms": 218789,
-      "name": "\u00c7apk\u0131nca",
-      "url": "https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn"
     },
     {
       "added_at": "2024-02-22 21:00:00",

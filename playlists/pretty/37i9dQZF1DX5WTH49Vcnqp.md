@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,252 likes - 79 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,340 likes - 79 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 46 | [What's Love \(feat\. MUNA\)](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love \(feat\. MUNA\)](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 |
 | 47 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 |
 | 48 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
-| 49 | [Coasting On Fumes](https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Coasting On Fumes](https://open.spotify.com/album/1qoYoRgVcg7bdx41TQjJ0z) | 3:46 |
+| 49 | [Coasting On Fumes](https://open.spotify.com/track/2ugm5xrknLV6xum8cN5zGb) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [What's For Breakfast?](https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3) | 3:46 |
 | 50 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 3:53 |
 | 51 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 52 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 78 | [Radiosoul \- Single Version](https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE) | 3:38 |
 | 79 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:21 |
 
-Snapshot ID: `MCwxOTU1MzRjYTA3MGE3NTQ1MmYzYTljMmFlNDBhYzEzZWM3N2EwMjU0`
+Snapshot ID: `MCwwOGEwODA0MDZjNWY0OTk2OTg5ODJmYWE0OGY5ODBkZjRlMGVlYjgw`

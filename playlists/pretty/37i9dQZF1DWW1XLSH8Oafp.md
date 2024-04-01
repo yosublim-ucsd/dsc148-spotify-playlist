@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Two Shell
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,309 likes - 150 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,363 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 75 | [head](https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [head](https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p) | 2:17 |
 | 76 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
 | 77 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 |
-| 78 | [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 |
+| 78 | [BLINDED](https://open.spotify.com/track/1UiqtkLyYSF9RSXvkBskGy) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [BLINDED \(ONLYTHENEXT Remix\)](https://open.spotify.com/album/1Ngx2Q24qZR1opZ3N1diH2) | 4:00 |
 | 79 | [on my own](https://open.spotify.com/track/7Lm6wV3xhU1ZRhXjejARRG) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [focus](https://open.spotify.com/album/5ZMmKV7bXG909IMbp2ezWJ) | 3:30 |
 | 80 | [Boy Next Door](https://open.spotify.com/track/2Oj0gV4VfPwcBjgX1hDoMx) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Boy Next Door](https://open.spotify.com/album/4Bv33Y5ZQPCwB135L78eRH) | 3:15 |
 | 81 | [nome](https://open.spotify.com/track/2tpkpCZjxJ4fRtruR6mfGR) | [Karo](https://open.spotify.com/artist/4t8Wy4slFXJK31m7WpiIB4), [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [nome](https://open.spotify.com/album/2w2F0lqhVsp8xVREfFsoem) | 2:26 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [red blue and green lights](https://open.spotify.com/track/4ukDpDWiKtqT4RYQzdrYte) | [bh](https://open.spotify.com/artist/1dVRx37Q3qfuHf9Ke9u2OU), [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [red blue and green lights](https://open.spotify.com/album/6UsNAxGaGSKuqJj7VmWnIt) | 3:31 |
 | 150 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
 
-Snapshot ID: `MCxhYmZhNWE5ZGJmOWU2M2I2ZmFiMGE5NTQzYWY1ZGEwZGNiMmYwOWQ0`
+Snapshot ID: `MCxlYzY1MzI3NzAwODcyN2FmZmZjYTIyZTc1NjNlYWFiYjgwMTFlZTI1`

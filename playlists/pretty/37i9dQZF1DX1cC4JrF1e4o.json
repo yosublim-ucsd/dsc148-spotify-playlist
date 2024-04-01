@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 401483,
+  "num_followers": 401647,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWFhNmJiNGUwZTU4OTFmMjFhOTQ5MWY3NjU3ZmMwNGY1MTJkZWJm",
+  "snapshot_id": "MCxjZGQ5NWEzOTQwYmU0NTJlMGJkODMzZmVlMDE2MmU5NDAxNWMyNTVk",
   "tracks": [
     {
       "added_at": "2023-10-24 04:44:54",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Danke Schoen",
-        "url": "https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT"
-      },
-      "artists": [
-        {
-          "name": "Wayne Newton",
-          "url": "https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "Danke Schoen",
-      "url": "https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 216573,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "Danke Schoen",
+        "url": "https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT"
+      },
+      "artists": [
+        {
+          "name": "Wayne Newton",
+          "url": "https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "Danke Schoen",
+      "url": "https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5"
     },
     {
       "added_at": "2023-10-24 04:44:54",

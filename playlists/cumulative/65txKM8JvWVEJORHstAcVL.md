@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(24/3/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(31/3/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-52 songs - 2 hr 37 min
+53 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [HERE TO STAY](https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf) | [Sofia Coll](https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd) | [HERE TO STAY](https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG) | 2:38 | 2024-02-05 |  |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-26 |  |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-11-05 | 2024-03-18 |
-| [Jenifer](https://open.spotify.com/track/2MeWCYKsmvPt8HSYVYVEUJ) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Jenifer](https://open.spotify.com/album/1YwlKixpiLKJB0cBcKDngh) | 2:56 | 2024-01-14 |  |
+| [Jenifer](https://open.spotify.com/track/2MeWCYKsmvPt8HSYVYVEUJ) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Jenifer](https://open.spotify.com/album/1YwlKixpiLKJB0cBcKDngh) | 2:56 | 2024-01-14 | 2024-04-01 |
 | [L'amor no està de moda](https://open.spotify.com/track/6TaI6JIjyveCJHHXpBwn2U) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Segur que m'equivoco](https://open.spotify.com/album/4awdI4rXM5frg5VH6Zkk7k) | 2:13 | 2023-12-31 |  |
 | [La meva sort](https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [La meva sort](https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9) | 2:34 | 2024-02-18 |  |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2024-02-05 |  |
@@ -40,6 +40,7 @@
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-09-24 |  |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2023-12-24 |  |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-10-15 |  |
+| [Puntería](https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Puntería](https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp) | 3:01 | 2024-03-31 |  |
 | [Que et vagi bé](https://open.spotify.com/track/0fHRlLll6OrPc4d0oh5f1s) | [Sopa De Cabra](https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D), [Triquell](https://open.spotify.com/artist/68CQGYnlJfrMyRcd255jVW) | [Que et vagi bé](https://open.spotify.com/album/6PSGKLjXhDJkaOKTuwTJEr) | 3:04 | 2024-03-17 |  |
 | [Rikiti](https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Rikiti](https://open.spotify.com/album/1suSSaPoQLN8CufLXvEdVF) | 2:26 | 2023-09-10 |  |
 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 | 2023-11-19 |  |

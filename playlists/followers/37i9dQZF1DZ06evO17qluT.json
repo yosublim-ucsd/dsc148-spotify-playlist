@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 46010,
+  "2024-04-01": 46049,
   "date_first_scraped": "2023-09-19",
   "description": "This is BK. The essential tracks, all in one playlist.",
   "name": "This Is BK",
@@ -1009,6 +1009,36 @@
       "duration_ms": 158943,
       "name": "N\u00e3o Preciso Que Voc\u00ea Duvide",
       "url": "https://open.spotify.com/track/3Cx69RPbGwXtBYJeMwUkZc"
+    },
+    {
+      "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "N\u00e9 Segredo",
+      "url": "https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44"
     },
     {
       "album": {

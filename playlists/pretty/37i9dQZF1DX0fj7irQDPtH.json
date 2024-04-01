@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 33040,
+  "num_followers": 33093,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDE0MGMzMjM4NTVjNjA1NWVmMjY2MzdmNTI4YTA3MDAxY2JmY2Qz",
+  "snapshot_id": "MCxhZDA1OTBlMGE4Zjc2YThhZGVjNTc4NjBlZWI4NzQzYTIzMWVjZGFh",
   "tracks": [
     {
       "added_at": "2021-12-16 01:15:04",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 229405,
-      "name": "Afuera Del Planeta",
-      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "Travesuras",
         "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 195369,
       "name": "Travesuras",
       "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 229405,
+      "name": "Afuera Del Planeta",
+      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Coraz\u00f3n En La Maleta",
-      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "En el Sendero",
         "url": "https://open.spotify.com/album/4ywP8NavqBobYqGbbY6QWb"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 255040,
       "name": "Nada",
       "url": "https://open.spotify.com/track/0K93vBqSbCePIqOm3MiZuX"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Coraz\u00f3n En La Maleta",
+      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
     },
     {
       "added_at": "2021-12-16 01:15:04",

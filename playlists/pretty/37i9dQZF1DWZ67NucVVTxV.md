@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,304 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,329 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [Dejavu](https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 |
 | 80 | [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 |
 
-Snapshot ID: `MCxiNmU0ODYxMzU3MmYwZTg4YzIxYThhOWUzOTkxOTQwNWFlNmJmMDk3`
+Snapshot ID: `MCxhN2FlZDgyNGNiYjY3NzY5OWNmMjQ3NzlmODRmMTVmZWJmYWQxMjFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,809 likes - 30 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,848 likes - 30 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Birks' Works](https://open.spotify.com/track/3M0FAe7CW9it276C9Wz1Io) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 4:56 |
 | 30 | [Theme From New York, New York \- 2008 Remastered](https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:24 |
 
-Snapshot ID: `MCwyNDU1ODk4YjUyN2JjZDc4ZjU5MzY3MzZjMzFhYjcyMmYyYTFmYjFi`
+Snapshot ID: `MCxjOGViNTQ5YzFiY2JjMDQxYWMzYWY0OWE5ODJkMjNkNDY2MDhiYWVl`

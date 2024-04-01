@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU?si=sUOsQZ2ORoCmAMghEm\_hqw">Flier</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,050 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,055 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Fly](https://open.spotify.com/track/1bl9eXOR5fBlPdZg3Nwr0A) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We) | [Fly](https://open.spotify.com/album/3b62lg9qZylXGvbXTY5BSf) | 2:33 |
 | 50 | [Hello](https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Hello](https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK) | 3:09 |
 
-Snapshot ID: `MCw5ZjlmZTM1NGRlMzdmZjkxMGEyNTVmMGU2OWVmMTc1NmJkNGMzZWVl`
+Snapshot ID: `MCwzZGVjZTU5ZjcwZjMwNDA1MGJiMDg4N2FhMGRhZjNhMjJjMzhiMmQx`

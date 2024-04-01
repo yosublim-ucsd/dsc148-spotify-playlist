@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Becky G & Tyla",
-  "num_followers": 114867,
+  "num_followers": 114875,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGZhYzdkNDU3NjU4NDljNzQwNGVlZWQ4NmZlOTM0ZGU0ZjhlYTMw",
+  "snapshot_id": "MCxmOTYyMmY2NjI0NDExZDM5MGQ1NTJjN2Y4MDlmZTM5YTk0NTM2YmIw",
   "tracks": [
     {
       "added_at": "2024-03-29 22:42:24",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-03-29 22:42:24",
       "album": {
-        "name": "Guava Rose",
-        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "Guava Rose",
-      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
-    },
-    {
-      "added_at": "2024-03-29 22:42:24",
-      "album": {
         "name": "Drogba (Joanna) [Global Latin Version]",
         "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 197214,
       "name": "Drogba (Joanna) - Global Latin Version",
       "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
+    },
+    {
+      "added_at": "2024-03-29 22:42:24",
+      "album": {
+        "name": "Guava Rose",
+        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "Guava Rose",
+      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
     },
     {
       "added_at": "2024-03-29 22:42:24",

@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-348 songs - 1 day 8 hr 23 min
+349 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Hallogallo](https://open.spotify.com/track/1v3Hh6pN38de4fHXA9d2ln) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/5mSfp2tWNqeZPcZ77X86wr) | 10:07 | 2021-07-30 | 2022-07-29 |
 | [Hallogallo](https://open.spotify.com/track/6ny7YlXEPYSN2iDdXX50Xs) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/2Dv3peyPvUPG6iFqo5amZL) | 10:07 | 2021-07-30 | 2023-04-30 |
 | [Han\-Tyumi, The Confused Cyborg](https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Murder of the Universe](https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS) | 2:21 | 2021-07-30 |  |
-| [Harmonium](https://open.spotify.com/track/2BZ3CfmnZ5DM9P5zGuE7SH) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid) | 5:55 | 2021-07-30 |  |
+| [Harmonium](https://open.spotify.com/track/2BZ3CfmnZ5DM9P5zGuE7SH) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid) | 5:55 | 2021-07-30 | 2024-04-01 |
 | [Harmonium](https://open.spotify.com/track/5YImseqdMxhOnz0skslbKw) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 5:55 | 2021-07-30 | 2023-02-10 |
 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 | 2021-07-30 |  |
 | [Hero](https://open.spotify.com/track/3MBImoJoOnqCyzW3L4WKfK) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! 75](https://open.spotify.com/album/5WvkGu24ipDKjOFzlXsDIy) | 7:11 | 2021-07-30 | 2023-02-03 |
@@ -303,6 +303,7 @@
 | [Tangerine](https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:53 | 2021-07-30 |  |
 | [Tangerine](https://open.spotify.com/track/58Jr3maV9Kv94R8F3imczl) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Tangerine](https://open.spotify.com/album/2eazd6scouDAol8kgQUJRn) | 2:55 | 2021-07-30 | 2022-07-29 |
 | [The Light That Will Cease To Fail](https://open.spotify.com/track/0P9XN1acf0KdYBfzc7ymTz) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Super 45](https://open.spotify.com/album/0F5hFgbTqzIOTT8O88e98L) | 3:24 | 2021-07-30 | 2022-08-10 |
+| [The Light That Will Cease To Fail](https://open.spotify.com/track/5vIBuWzTPATMxCljQ6eEE7) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Little Pieces Of Stereolab \(A Switched On Sampler\)](https://open.spotify.com/album/1UP2H3LAUb6y1GO19PES8F) | 3:24 | 2021-07-30 |  |
 | [The Perfect Crime](https://open.spotify.com/track/7v2SOuHmuUzyFOemw8hqNB) | [The Stroppies](https://open.spotify.com/artist/6r5Oeuk1Jrn6TxkwcZVXYY) | [The Perfect Crime](https://open.spotify.com/album/3tKXSYiAIZcamtY0TvRsKs) | 4:40 | 2022-03-11 | 2023-01-26 |
 | [The Pulse](https://open.spotify.com/track/4IZaX9YDhGG9sbZtGDpRLo) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [LP](https://open.spotify.com/album/3WIwlESqNDJjhxuUjLLSUd) | 5:56 | 2021-07-30 | 2023-01-26 |
 | [The Pulse](https://open.spotify.com/track/5UPCDdclsMsl8h3jCB36vk) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [LP](https://open.spotify.com/album/0Ao6st67h8ANVAOcKdc7Vu) | 5:56 | 2021-07-30 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-321 songs - 18 hr 56 min
+322 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Adorn](https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP) | 3:13 | 2019-05-26\* | 2019-06-19 |
 | [All I Need](https://open.spotify.com/track/0ZsWurOpUo8u4fjMygvSAG) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 3:04 | 2022-04-15 | 2022-07-29 |
 | [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/track/6TaqooOXAEcijL6G1AWS2K) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/album/5cOhR878H8hC3UsxYq5Xyv) | 3:49 | 2019-05-26\* | 2020-05-01 |
-| [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2024-02-02 |  |
+| [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2024-02-02 | 2024-04-01 |
 | [All Pride Aside with Summer Walker](https://open.spotify.com/track/22AA9DAGtvphqfx01NJuMj) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Shelley FKA DRAM](https://open.spotify.com/album/6NgnKl9MwZm5yZnc1W2z1t) | 4:18 | 2021-05-05 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/3p0Y1C5jhaqyKW7d9oskXA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Alone](https://open.spotify.com/album/1y0ZiIIVOVdpg5lXkAJ36c) | 2:58 | 2019-06-19\* | 2022-03-07 |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2024-02-02 |  |
@@ -67,6 +67,7 @@
 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 | 2024-02-02 | 2024-03-30 |
 | [Crazy](https://open.spotify.com/track/4MrHylaApgwWavJtwf38bK) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Crazy](https://open.spotify.com/album/2nPU9yXkRsrmPVxxmdsZ0i) | 3:07 | 2023-12-01 | 2024-03-09 |
 | [Cry 4 U](https://open.spotify.com/track/7pKwUPlNzY9HDN7lGL4KjR) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [513](https://open.spotify.com/album/6NDmSdY3c1glA8GPk3jYrn) | 2:35 | 2022-05-20 | 2022-07-27 |
+| [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-03-29 |  |
 | [Cutting Ties](https://open.spotify.com/track/6lJ5aSxKHCwNBoWkZT3JeJ) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Cutting Ties](https://open.spotify.com/album/5wy7JKTWa3JRjvQT7cWOcq) | 4:21 | 2019-06-19\* | 2020-07-01 |
 | [Dark Times](https://open.spotify.com/track/0Gi17qCJh9e9RJxLaYkm9l) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Beauty Behind The Madness](https://open.spotify.com/album/28ZKQMoNBB0etKXZ97G2SN) | 4:20 | 2019-05-26\* | 2021-10-16 |
 | [Dead To Me](https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Dead To Me](https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY) | 2:13 | 2022-05-13 | 2022-11-14 |

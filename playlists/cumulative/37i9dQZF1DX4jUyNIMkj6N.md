@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-271 songs - 16 hr 42 min
+272 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,12 +116,13 @@
 | [Holding Hands](https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI) | [The Sparks Flew Up](https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm) | 2:33 | 2021-12-02 | 2022-07-17 |
 | [Homesick](https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:13 | 2021-12-02 | 2023-01-28 |
 | [Homesick](https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:13 | 2023-01-26 |  |
-| [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 | 2024-02-22 |  |
+| [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 | 2024-02-22 | 2024-04-01 |
 | [House by the Sea](https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Set The House on Fire](https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP) | 3:38 | 2021-12-02 | 2022-06-10 |
 | [How Can I Know](https://open.spotify.com/track/4WMbHn5MP9t5D1WTmLgHd5) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [How Can I Know](https://open.spotify.com/album/6CEfPLzkQ0Qju7dOoDd6sx) | 3:40 | 2022-06-09 | 2022-07-01 |
 | [Hunting Sky](https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr) | 3:15 | 2021-12-02 | 2022-07-16 |
 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 | 2022-07-14 | 2023-09-08 |
 | [Hymn](https://open.spotify.com/track/2MXX8H5R8UMmI5oYzgqrYA) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [Hymn](https://open.spotify.com/album/5TXCV14ZfHcQrJTruMbQNp) | 5:35 | 2023-11-30 | 2024-03-15 |
+| [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 | 2024-03-21 |  |
 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 | 2023-04-27 |  |
 | [I Waited For You](https://open.spotify.com/track/5FDm33MpQRTmQ8GNcJEwcU) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/1Sxc4lT1ZIF56J4C3WkcjL) | 3:24 | 2021-12-02 | 2022-07-29 |
 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 | 2022-07-14 | 2023-04-29 |

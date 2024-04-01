@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Jenna Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,719 likes - 180 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,776 likes - 180 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 13 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 |
 | 14 | [How'd You Do It](https://open.spotify.com/track/0XYzGp6QbYfbKXBqrvpnnt) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [How'd You Do It](https://open.spotify.com/album/5twKnz2lzgaG2sku7lmVMj) | 2:40 |
 | 15 | [King Of The World](https://open.spotify.com/track/6yK2aEEVtYTmQ2ca3wja3S) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [King Of The World](https://open.spotify.com/album/2YP4ubZ2u87XOAkeRaKwlU) | 3:19 |
-| 16 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 |
+| 16 | [saw ur mom at the grocery store](https://open.spotify.com/track/43dMjUNngCeGOLtLW4qCPE) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/5lBxtFhs297uE8DZqPWP5e) | 4:13 |
 | 17 | [Stone Harbor](https://open.spotify.com/track/7gTcD9zdcjHTRBnrpAQwbD) | [Holdyn Barder](https://open.spotify.com/artist/6PIHqwkUR98s655qDrXMeo) | [Stone Harbor](https://open.spotify.com/album/4k95Vi7LSRuJIQJUih6yoV) | 3:46 |
 | 18 | [Changed](https://open.spotify.com/track/59CcTuZW4YDSAok0ZOOTgx) | [Taryn Papa](https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW) | [Changed](https://open.spotify.com/album/2UrcEgREB1xJGXDNNlJcxv) | 2:48 |
 | 19 | [I Hate You, I Miss You](https://open.spotify.com/track/5poM4F7HghGQYZaL9Y7DuS) | [Kelci Ashton](https://open.spotify.com/artist/1LoPrAqvgkgd0zJgCKll6h) | [I Hate You, I Miss You](https://open.spotify.com/album/7p6DF9uWZyN3OkyXin3fi7) | 3:22 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 179 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 180 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCxhMzVmY2E0MzlmMTczYTIxOWE3M2VlM2JhMGZhY2IxYmQ5NTI4Zjg5`
+Snapshot ID: `MCxjN2UyMWY4ZDA3YTc3YTYwZjZiYmU3ZTZiMmRmOGFiNmVmZmUxZWMw`

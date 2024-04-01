@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Xamuel, Sidoka, DJ Matt D
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,940 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,928 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Déjà vu](https://open.spotify.com/track/4oyWfZjNKuheKH8j22XM1k) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Déjà vu](https://open.spotify.com/album/4T4tlfQtR6yQabbiMyplxP) | 2:25 |
 | 75 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
 
-Snapshot ID: `MCw1YTkwYjQ4ODIyYzc2MjZlN2M2MzA5Zjc0MzE4MTMzMWQwZDQ3YmQw`
+Snapshot ID: `MCwwYjYyMDI0YzdjMjU0NTIzOTg1YzIyMzA2M2IwMjRkYjY2NTY5ZmQ3`

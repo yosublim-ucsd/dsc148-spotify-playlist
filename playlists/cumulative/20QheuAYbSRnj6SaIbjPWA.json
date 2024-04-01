@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "151a",
+        "url": "https://open.spotify.com/album/57hpjWfEY0q8USDRrMYMef"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236246,
+      "name": "I Am the Antichrist to You",
+      "url": "https://open.spotify.com/track/3tnfHy341CDlAtcSmUtuOG"
+    },
+    {
+      "album": {
         "name": "In Spite of the Weather (Bill Ryder-Jones Re-Imagining)",
         "url": "https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy"
       },

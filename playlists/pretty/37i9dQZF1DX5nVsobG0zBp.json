@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: T-Rex.  ",
-  "num_followers": 60260,
+  "num_followers": 60323,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmJiMDY3MGJmMjRmZmQ3MDc0ZmJhYjdhNmNmYzkzODNlZDg4NzQz",
+  "snapshot_id": "MCw3MDRjNGE2NTNiNDg4NTA4MDdmNGEyYTgyMTc1Y2RiNTVhYTFiOGM1",
   "tracks": [
     {
       "added_at": "2024-03-29 00:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "Somos Iguais",
+      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "EUROPA (feat. Gson)",
         "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 216800,
       "name": "EUROPA (feat. Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "Somos Iguais",
-      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -611,22 +611,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+        "name": "Lisabona",
+        "url": "https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 191679,
-      "name": "Tou Bem (feat. Lhast)",
-      "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
+      "duration_ms": 192976,
+      "name": "Lisabona",
+      "url": "https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -647,18 +643,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Lisabona",
-        "url": "https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN"
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
         }
       ],
-      "duration_ms": 192976,
-      "name": "Lisabona",
-      "url": "https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F"
+      "duration_ms": 191679,
+      "name": "Tou Bem (feat. Lhast)",
+      "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "MINA D'OURO",
+        "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        },
+        {
+          "name": "HOODZ",
+          "url": "https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "MONCLER",
+      "url": "https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Marselha",
         "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 312506,
       "name": "JAMANTAH",
       "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "MINA D'OURO",
-        "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
-      },
-      "artists": [
-        {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
-        },
-        {
-          "name": "HOODZ",
-          "url": "https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "MONCLER",
-      "url": "https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -983,22 +983,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "SYSTEM",
-        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
+        "name": "NUVENS",
+        "url": "https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "Jo\u00e3o Maia Ferreira",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
         }
       ],
-      "duration_ms": 246368,
-      "name": "TRIBUNAL",
-      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
+      "duration_ms": 157664,
+      "name": "NUVENS",
+      "url": "https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1059,18 +1055,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "NUVENS",
-        "url": "https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb"
+        "name": "SYSTEM",
+        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
       },
       "artists": [
         {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
         }
       ],
-      "duration_ms": 157664,
-      "name": "NUVENS",
-      "url": "https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G"
+      "duration_ms": 246368,
+      "name": "TRIBUNAL",
+      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "F\u00ednix MG",
-          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
-        }
-      ],
-      "duration_ms": 336528,
-      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
-      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Quando Me Chamam",
         "url": "https://open.spotify.com/album/5aQgWokEdJ4aeHpgqijW8Z"
       },
@@ -1179,6 +1159,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "La\u00e7os",
+        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Hoji N'ka ta Rola",
         "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
       },
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "La\u00e7os",
-        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
         }
       ],
-      "duration_ms": 206315,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
+      "duration_ms": 336528,
+      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
+      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2024-03-29 00:00:00",

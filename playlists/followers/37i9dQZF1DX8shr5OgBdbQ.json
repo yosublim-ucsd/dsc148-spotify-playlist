@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 502674,
+  "2024-04-01": 502802,
   "date_first_scraped": "2022-05-14",
   "description": "centuries-old sailor songs gone viral - it's sea shanty season, baby.",
   "name": "Sea Shanties",
@@ -514,6 +514,44 @@
     },
     {
       "album": {
+        "name": "The Wellermen",
+        "url": "https://open.spotify.com/album/5mp34jvXpdx6dJeagEkMkL"
+      },
+      "artists": [
+        {
+          "name": "The Wellermen",
+          "url": "https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16"
+        },
+        {
+          "name": "Ebucs",
+          "url": "https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ"
+        },
+        {
+          "name": "Eric Hollaway",
+          "url": "https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l"
+        },
+        {
+          "name": "Daniel Brevik",
+          "url": "https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7"
+        },
+        {
+          "name": "Davide Dalmonte",
+          "url": "https://open.spotify.com/artist/1RSqmcLE8D3i6NTXiCTDfj"
+        },
+        {
+          "name": "Bobby Bass",
+          "url": "https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278442,
+      "name": "Hoist The Colours",
+      "url": "https://open.spotify.com/track/2zdNjnpw2V1DBpx653KK8M"
+    },
+    {
+      "album": {
         "name": "Hoist the Colours (Bass Singers Version)",
         "url": "https://open.spotify.com/album/4IhOtHh7kgmYJXLzS0SEzX"
       },
@@ -537,7 +575,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 278442,
       "name": "Hoist the Colours - Bass Singers Version",
       "url": "https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW"

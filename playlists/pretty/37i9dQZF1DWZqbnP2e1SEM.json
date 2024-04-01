@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGExOGE2MDg3MzA2NjA2NTBhZDdhOTAzNzg0ZWU2Y2RkZmUwYzUw",
+  "snapshot_id": "MCwyZmFlZDdkMzdkNjVmMmE4NmY5NmVmNDVmY2NlNjczOGI4Mzg0OTNk",
   "tracks": [
     {
       "added_at": "2023-11-22 17:23:28",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "Party All The Time",
-        "url": "https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "HVRR",
-          "url": "https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde"
-        }
-      ],
-      "duration_ms": 129860,
-      "name": "Party All The Time",
-      "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
+        "name": "Party All The Time",
+        "url": "https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "HVRR",
+          "url": "https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde"
+        }
+      ],
+      "duration_ms": 129860,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 174215,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2023-11-22 17:23:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
-        "name": "My Purple iPod Nano (2nd Gen)",
-        "url": "https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU"
-      },
-      "artists": [
-        {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
-        }
-      ],
-      "duration_ms": 164661,
-      "name": "My Purple iPod Nano (2nd Gen)",
-      "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
         "name": "Want You To Want Me",
         "url": "https://open.spotify.com/album/1hX3AjSsrrWoxJQgMXPVpu"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 187814,
       "name": "Want You To Want Me",
       "url": "https://open.spotify.com/track/3k1L3RdcNeZaL82al94JpC"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
+        "name": "My Purple iPod Nano (2nd Gen)",
+        "url": "https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU"
+      },
+      "artists": [
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "duration_ms": 164661,
+      "name": "My Purple iPod Nano (2nd Gen)",
+      "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
     },
     {
       "added_at": "2023-11-22 17:23:28",

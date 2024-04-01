@@ -4,7 +4,7 @@
 
 > Maren Morris is taking over to celebrate Women's History Month on EQUAL US!
 
-1,296 songs - 2 day 21 hr 7 min
+1,297 songs - 2 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-09-07 | 2022-10-06 |
 | [Ashley](https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:48 | 2023-02-01 | 2023-03-02 |
 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-03-11 | 2024-03-31 |
+| [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 | 2024-03-14 |  |
 | [Astrovan](https://open.spotify.com/track/6dzv7MDq3nNNFNn1d2pyDa) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [Outsiders](https://open.spotify.com/album/6ppiuzhxXpSTw1LDNDG5Nc) | 4:13 | 2023-02-01 | 2023-03-02 |
 | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn) | 5:17 | 2022-01-05 | 2022-02-03 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-07-05 | 2024-01-27 |
@@ -1137,7 +1138,7 @@
 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 | 2023-07-05 | 2023-08-03 |
 | [think of drugs](https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [think of drugs](https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF) | 3:05 | 2022-06-01 | 2022-07-07 |
 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 | 2022-08-03 | 2022-09-09 |
-| [This Is My Life](https://open.spotify.com/track/4X4x3S7PuYXd9Mn8QB3pNx) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [This Is My Life \(Bontan Remix\)](https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG) | 3:01 | 2024-03-11 |  |
+| [This Is My Life](https://open.spotify.com/track/4X4x3S7PuYXd9Mn8QB3pNx) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [This Is My Life \(Bontan Remix\)](https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG) | 3:01 | 2024-03-11 | 2024-04-01 |
 | [This Is My Life](https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [This Is My Life](https://open.spotify.com/album/65r6PbiURn3vzNaKkfgxF2) | 3:01 | 2024-01-26 | 2024-03-02 |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-11-02 | 2022-12-01 |
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-04-05 | 2023-05-04 |

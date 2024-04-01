@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:7EHtFdWeBK26GJ5lKt02SV\">Reblah</a>",
-  "num_followers": 81898,
+  "num_followers": 81959,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTcxZWFkMTQ5YzkxMDhkODY0YWM5NjBiYmY0YWZlYmU4YTQ4MzIz",
+  "snapshot_id": "MCwyYjkzNzkxOThjZDk2MzRhM2JmNDc4ODU5MTc0MjNlNmNiNmY1MDI0",
   "tracks": [
     {
       "added_at": "2024-02-23 09:40:22",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Praises",
         "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 244300,
       "name": "Praises",
       "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "PRAISE YOUR NAME",
+        "url": "https://open.spotify.com/album/14AVnCZS82Y9Nsxqc4wwE4"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        }
+      ],
+      "duration_ms": 197456,
+      "name": "PRAISE YOUR NAME",
+      "url": "https://open.spotify.com/track/6ps4Zeolnh6O30i6wMh9t8"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Amplify",
         "url": "https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG"
       },
@@ -1239,30 +1263,6 @@
       "duration_ms": 189382,
       "name": "Right Here (It Must Be)",
       "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "PRAISE YOUR NAME",
-        "url": "https://open.spotify.com/album/14AVnCZS82Y9Nsxqc4wwE4"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Drakare",
-          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
-        }
-      ],
-      "duration_ms": 197456,
-      "name": "PRAISE YOUR NAME",
-      "url": "https://open.spotify.com/track/6ps4Zeolnh6O30i6wMh9t8"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/0joYYR4TL8DkCTf1h9TDrV"
+      },
+      "artists": [
+        {
+          "name": "Hiro Lyon",
+          "url": "https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX"
+        }
+      ],
+      "duration_ms": 234083,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/472sq2KIqwom2LvsZ3OXMD"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Beside Me",
         "url": "https://open.spotify.com/album/5FPFTd2KVC70Ysowxwhwhd"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 153962,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Banger",
-        "url": "https://open.spotify.com/album/0joYYR4TL8DkCTf1h9TDrV"
-      },
-      "artists": [
-        {
-          "name": "Hiro Lyon",
-          "url": "https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX"
-        }
-      ],
-      "duration_ms": 234083,
-      "name": "Banger",
-      "url": "https://open.spotify.com/track/472sq2KIqwom2LvsZ3OXMD"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "upperroom",
-        "url": "https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3"
-      },
-      "artists": [
-        {
-          "name": "Gaetan Judd",
-          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
-        }
-      ],
-      "duration_ms": 152878,
-      "name": "less is more",
-      "url": "https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 117955,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "upperroom",
+        "url": "https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3"
+      },
+      "artists": [
+        {
+          "name": "Gaetan Judd",
+          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
+        }
+      ],
+      "duration_ms": 152878,
+      "name": "less is more",
+      "url": "https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1939,6 +1939,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "For my mind",
+        "url": "https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        }
+      ],
+      "duration_ms": 153469,
+      "name": "For my mind",
+      "url": "https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 549421,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/6A8RrYAg9aG0BLTcrBt3k5"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "For my mind",
-        "url": "https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm"
-      },
-      "artists": [
-        {
-          "name": "Monaze",
-          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
-        },
-        {
-          "name": "Drakare",
-          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
-        }
-      ],
-      "duration_ms": 153469,
-      "name": "For my mind",
-      "url": "https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f"
     },
     {
       "added_at": "2024-02-23 09:40:22",

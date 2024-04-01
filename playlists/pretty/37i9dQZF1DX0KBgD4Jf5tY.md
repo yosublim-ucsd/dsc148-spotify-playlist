@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:1ByonnOisC5Owt0tfsyzGc">Coca Puma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,150 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,152 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [+ Gatto ␥](https://open.spotify.com/track/6EURiUwW3f08bpSSiQRFUO) | [Alberi Alti](https://open.spotify.com/artist/1I7RPyc2iQvqwHX1XDymUf) | [Mi Prometti Che Starai Bene ? ⍋](https://open.spotify.com/album/2KZnJoFc8hoPCBEfdABsA5) | 2:40 |
 | 50 | [MI PADRE E MI MADRE](https://open.spotify.com/track/25Gyz8oaZhDZwW88db8D3g) | [madze](https://open.spotify.com/artist/0fb1ryrNAVgx2wrWMUKqti) | [MI PADRE E MI MADRE](https://open.spotify.com/album/0cOROLD2s0uLv5l8Q8F0ae) | 2:33 |
 
-Snapshot ID: `MCxmZWVjMGNhOTZiYjE1OTkyYmFjNTMxN2I2NTMwMGRkMjBjYTE3ODk3`
+Snapshot ID: `MCxjZTJiOGQ0ZjNiMjkzMjAzYTRlZDNkOGNjOWZhODExNjE5ZWI1MGI5`

@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 131698,
+  "num_followers": 131765,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Q0ZmQxMWU4NGEwNDQ4NjUyNjliMGNhNDRhMzIyZmQ0ZWU4ZTg3",
+  "snapshot_id": "MCwyOTYwYzNjMGIwZTM3YjA1Y2U0MjkwMmE4ZjI3YzZmZGFiYjIwMDE1",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Bossatrap",
         "url": "https://open.spotify.com/album/1mQRelSZ2JllBKN7esf5hR"
       },
@@ -467,26 +487,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        }
-      ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Elephunk",
         "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Sem Nostalgia",
-        "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "Amor em Jacum\u00e3",
-      "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Achados e Perdidos",
         "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 259040,
       "name": "Vem Menina",
       "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Sem Nostalgia",
+        "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "Amor em Jacum\u00e3",
+      "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Condom Black",
+        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+      },
+      "artists": [
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Dias de Janeiro",
+      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Ameixa",
         "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 246177,
       "name": "Ameixa",
       "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Condom Black",
-        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
-      },
-      "artists": [
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Dias de Janeiro",
-      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "SEM MALDADE",
-        "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 170465,
-      "name": "SEM MALDADE",
-      "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "TU",
         "url": "https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "SEM MALDADE",
+        "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 170465,
+      "name": "SEM MALDADE",
+      "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Beto Villares",
         "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 206386,
       "name": "Rio da Bossa Nova",
       "url": "https://open.spotify.com/track/07tHMgxtVHlo10234lOBML"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Tom Jobim",
-        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
-      },
-      "artists": [
-        {
-          "name": "Edley INC.",
-          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
-        }
-      ],
-      "duration_ms": 248839,
-      "name": "Tom Jobim",
-      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
+        "name": "Tom Jobim",
+        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
       },
       "artists": [
         {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "Edley INC.",
+          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
         }
       ],
-      "duration_ms": 274537,
-      "name": "Bossa Velha",
-      "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
+      "duration_ms": 248839,
+      "name": "Tom Jobim",
+      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 123596,
       "name": "Noite Quente de Ver\u00e3o",
       "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 274537,
+      "name": "Bossa Velha",
+      "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
     },
     {
       "added_at": "2023-06-23 03:00:00",

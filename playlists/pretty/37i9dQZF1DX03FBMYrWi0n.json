@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: blesse",
-  "num_followers": 4366,
+  "num_followers": 4379,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDdhMTc4OTgzOTNiZjcwNWExYjBlNWJlYmU1ZGVhNDBlODNlMWVl",
+  "snapshot_id": "MCxhZThkMGUxZDIzZmUzNmQ0NjYwYzBmM2FmYmFkOGEzZWNjYTlkNTk2",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Pas tr\u00e8s perspicace",
         "url": "https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Aire de plastique",
-        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
       "artists": [
         {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
         }
       ],
-      "duration_ms": 247996,
-      "name": "Aire de plastique",
-      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -415,22 +431,6 @@
       "duration_ms": 122253,
       "name": "Celui qui attend",
       "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 253546,
-      "name": "La vie attend pas",
-      "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Temp\u00eate",
         "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 209680,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 253546,
+      "name": "La vie attend pas",
+      "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "O\u00f9 nos corps s'en vont mourir",
+        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "INDIGESTE",
         "url": "https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX"
       },
@@ -1007,34 +1023,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "O\u00f9 nos corps s'en vont mourir",
-        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
       "artists": [
         {
-          "name": "Marco Ema",
-          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
         }
       ],
-      "duration_ms": 177413,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Ce qu'on aura",
-        "url": "https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl"
-      },
-      "artists": [
-        {
-          "name": "Reno McCarthy",
-          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
-        }
-      ],
-      "duration_ms": 236965,
-      "name": "Ce qu'on aura",
-      "url": "https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl"
+      "duration_ms": 131015,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
+        "name": "Ce qu'on aura",
+        "url": "https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl"
       },
       "artists": [
         {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+          "name": "Reno McCarthy",
+          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
         }
       ],
-      "duration_ms": 131015,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+      "duration_ms": 236965,
+      "name": "Ce qu'on aura",
+      "url": "https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Viendras-tu pleurer?",
-        "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Viendras-tu pleurer?",
-      "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -1135,18 +1119,34 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Wildside",
-        "url": "https://open.spotify.com/album/2O9rJrHjjSPaVavkd7XvLw"
+        "name": "Viendras-tu pleurer?",
+        "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
       },
       "artists": [
         {
-          "name": "Ragers",
-          "url": "https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH"
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
         }
       ],
-      "duration_ms": 142875,
-      "name": "Wildside",
-      "url": "https://open.spotify.com/track/3uKyQ0vwpo43PbIXj4vyNp"
+      "duration_ms": 207013,
+      "name": "Viendras-tu pleurer?",
+      "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Piscine hors terre",
+        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "duration_ms": 211570,
+      "name": "Piscine hors terre",
+      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Piscine hors terre",
-        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
+        "name": "Wildside",
+        "url": "https://open.spotify.com/album/2O9rJrHjjSPaVavkd7XvLw"
       },
       "artists": [
         {
-          "name": "Les Trois Accords",
-          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+          "name": "Ragers",
+          "url": "https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH"
         }
       ],
-      "duration_ms": 211570,
-      "name": "Piscine hors terre",
-      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
+      "duration_ms": 142875,
+      "name": "Wildside",
+      "url": "https://open.spotify.com/track/3uKyQ0vwpo43PbIXj4vyNp"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "sadguitar_V777.wav",
-        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
+        "name": "Sweet Mont\u00e9r\u00e9gie",
+        "url": "https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3"
       },
       "artists": [
         {
-          "name": "Emma Beko",
-          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+          "name": "Alex Burger",
+          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
         }
       ],
-      "duration_ms": 237022,
-      "name": "sadguitar_V777.wav",
-      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
+      "duration_ms": 229413,
+      "name": "Sweet mont\u00e9r\u00e9gie",
+      "url": "https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw"
     }
   ],
   "unique_name": "ALT_QC",

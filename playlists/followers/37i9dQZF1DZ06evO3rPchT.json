@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 63396,
+  "2024-04-01": 63446,
   "date_first_scraped": "2023-02-09",
   "description": "This is HARDY. The essential tracks, all in one playlist.",
   "name": "This Is HARDY",
@@ -995,6 +995,40 @@
       "duration_ms": 197666,
       "name": "The Worst Country Song Of All Time",
       "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
+    },
+    {
+      "album": {
+        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
+        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170112,
+      "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
+      "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
     },
     {
       "album": {

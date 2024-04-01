@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,125,311 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125,368 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 80 | [Get Numb To It! \- Single Version](https://open.spotify.com/track/3kPb7l4s1ANu4mPcNPznhb) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Get Numb To It!](https://open.spotify.com/album/37Pa9oKkwu6OEgNEmItCLC) | 3:13 |
 | 81 | [Give It Back to Me](https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Give It Back to Me](https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0) | 4:22 |
 | 82 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 |
-| 83 | [Coasting On Fumes](https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Coasting On Fumes](https://open.spotify.com/album/1qoYoRgVcg7bdx41TQjJ0z) | 3:46 |
+| 83 | [Coasting On Fumes](https://open.spotify.com/track/2ugm5xrknLV6xum8cN5zGb) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [What's For Breakfast?](https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3) | 3:46 |
 | 84 | [Purple Land](https://open.spotify.com/track/5qrHETjgWMxAKFgtwLh7c7) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Purple Land](https://open.spotify.com/album/6nCsKsiwHD56q1t9SLcBUP) | 4:53 |
 | 85 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 86 | [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 99 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 |
 | 100 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 |
 
-Snapshot ID: `MCw0NjE3MTJkMTQ3MTE1YWNjZjFhYTMyY2ViYjNjMDVjM2YwNTM1NzQ4`
+Snapshot ID: `MCxjNTQ5MWRiNmNlY2I2MTQzMzhhYzFkMDhhM2Q4ZjIyMWRiYTNmZmNk`

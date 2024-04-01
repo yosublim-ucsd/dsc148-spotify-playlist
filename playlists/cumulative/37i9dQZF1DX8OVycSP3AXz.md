@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-107 songs - 4 hr 46 min
+108 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,9 +51,10 @@
 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 2:55 | 2022-06-28 |  |
 | [Il fait trop beau pour travailler](https://open.spotify.com/track/4Xt6do7xmBqVEs1G6vkPlh) | [Les Parisiennes](https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H) | [Il Fait Trop Beau Pour Travailler](https://open.spotify.com/album/3qYJhooIMPsv0O501RunHQ) | 2:20 | 2021-07-26 |  |
 | [Il fait trop beau pour travailler](https://open.spotify.com/track/5ATfGq3HBnsrzLDRj8mkYL) | [Les Parisiennes](https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:20 | 2022-06-28 | 2023-11-17 |
-| [Itsi bitsi petit bikini](https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 2:16 | 2022-06-28 |  |
+| [Itsi bitsi petit bikini](https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 2:16 | 2022-06-28 | 2024-04-01 |
 | [Itsi bitsi petit bikini](https://open.spotify.com/track/26zpCtNVJjHG2jgEW0a76g) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [D'ici et d'ailleurs \- Le meilleur de Dalida à travers le monde](https://open.spotify.com/album/4N8rDc5TXbGctoRkzo9ByU) | 2:21 | 2022-06-28 | 2022-11-13 |
 | [Itsi Bitsi Petit Bikini / Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini](https://open.spotify.com/track/3AmaOYSLccL1G0dw9SC8eQ) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Hit Parade Best Of](https://open.spotify.com/album/5MPOyZcY2WCcALz7YbNr05) | 2:17 | 2021-07-26 | 2022-07-29 |
+| [Itsi bitsi, petit bikini \(Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini\)](https://open.spotify.com/track/6eR0yZIqp05NEuHoXYF6lh) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Garde\-moi la dernière danse](https://open.spotify.com/album/04wABefhL8JQa2Ey3zUuHS) | 2:18 | 2022-06-28 |  |
 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 | 2022-06-28 |  |
 | [J'entends siffler le train](https://open.spotify.com/track/0nxE1Ed9fbfLw6oVHR6N3N) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Nouvelle Vague](https://open.spotify.com/album/3RD8OwrRIVqE37lTzqD0XD) | 3:23 | 2021-07-26 | 2022-07-29 |
 | [J'entends siffler le train](https://open.spotify.com/track/487LFx8UVLxUsDAdetnCp2) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [les plus belles chansons](https://open.spotify.com/album/0dvnB0KschqGz0ezdnWsmO) | 3:23 | 2022-06-28 |  |

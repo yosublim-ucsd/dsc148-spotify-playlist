@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=Vorxq4xxTKecyE2YS573dw"> حسين الجسمي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,070 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,170 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [3 ساعات متواصله](https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3 ساعات متواصله](https://open.spotify.com/album/6D0QUBe255j5ThQQPEbXYv) | 3:11 |
 | 50 | [Men Sokat](https://open.spotify.com/track/3fPOOQ7oYuHdZtwKtKtGEN) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Men Sokat](https://open.spotify.com/album/7jzjziJDLOejnGPgSwosfO) | 3:13 |
 
-Snapshot ID: `MCxmYzJkMWMxYjU3YTMxZGQwNjg2NWQ3ZGJkYzA3MjQ4OWQ2ZTcyMzhh`
+Snapshot ID: `MCwzYWRmNmMyMzIxOTRjMzUyMmMzMGI3YWJjMDg3MGQwMDkzNmJkOWMz`

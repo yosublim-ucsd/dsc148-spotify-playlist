@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Paroles\u2026 paroles\u2026",
+        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS"
+    },
+    {
+      "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 179666,
       "name": "Il venait d'avoir 18 ans",
       "url": "https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN"
@@ -2725,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "Paroles\u2026 paroles\u2026",
+        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        {
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245146,
+      "name": "Paroles\u2026 paroles\u2026",
+      "url": "https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs"
+    },
+    {
+      "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
@@ -2740,7 +2780,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 245666,
       "name": "Paroles\u2026 paroles\u2026",
       "url": "https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD"

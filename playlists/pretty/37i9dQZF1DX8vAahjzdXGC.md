@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,421 likes - 111 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,439 likes - 111 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Second Gear](https://open.spotify.com/track/4rt9bnHdMk636bZk80yX4M) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Second Gear](https://open.spotify.com/album/21vErs9lrBQ3JRhwvXq5fI) | 3:06 |
 | 111 | [Wannabesad Song](https://open.spotify.com/track/4yqxny2mF54hWTaYaixHt3) | [Door Plant](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Wannabesad Song](https://open.spotify.com/album/7GPhrj2rvTB4wwqLX8UnzQ) | 3:05 |
 
-Snapshot ID: `MCxiNWJlOWViOTQyMGI0NzQzZTc4NGVmMTVhNTdkNjUwNGFhNjc2M2Yw`
+Snapshot ID: `MCw1YjMxMTU2OGYwMzRiNzliNGU1MTFkNWY4NmZhOThhMDkzMjc0MWY1`

@@ -1,12 +1,12 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 89609,
+  "num_followers": 89651,
   "original_name": "Cumbia pa' carretear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGQ3Yjc2YTgyYzNlZTZkMDY5NTJhYThlNmE4MzAyNjc5MjMwOGJk",
+  "snapshot_id": "MCw1OTNhZTdhYzUzNDgxNDFhMmQ5MTJiNWI5YzI0MTdiNjE4ZWU3MTQz",
   "tracks": [
     {
       "added_at": "2024-03-29 15:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 180912,
-      "name": "Cinco D\u00edas",
-      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 224352,
       "name": "Su Florcita",
       "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 180912,
+      "name": "Cinco D\u00edas",
+      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+        "name": "Furia Loca",
+        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "La Gran Magia Tropical",
+          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
         }
       ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+      "duration_ms": 190970,
+      "name": "Furia Loca (Mujer C\u00f3smica)",
+      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Furia Loca",
-        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
       "artists": [
         {
-          "name": "La Gran Magia Tropical",
-          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 190970,
-      "name": "Furia Loca (Mujer C\u00f3smica)",
-      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "15A\u00f1ero",
-        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Para dormir contigo otra vez",
-      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Imperio de la Cumbia",
         "url": "https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 287193,
       "name": "La Carretera 1",
       "url": "https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "15A\u00f1ero",
+        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Para dormir contigo otra vez",
+      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Sin Remedio",
-        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
-      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "17 Hits",
         "url": "https://open.spotify.com/album/1cJXdbu4wHVf4dYoDy5Dyn"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 467533,
       "name": "Megamix: Como Dejar de Amarte / Hoy Que Te Vas / La Mesa del Rincon / Charro para Rato",
       "url": "https://open.spotify.com/track/58f4umXEEGdf1S75sXWXGZ"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Sin Remedio",
+        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
+      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Bebe Dame / Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 268518,
-      "name": "Bebe Dame / Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 202706,
       "name": "Gotitas",
       "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Bebe Dame / Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 268518,
+      "name": "Bebe Dame / Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1527,22 +1527,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "El Legado",
-        "url": "https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH"
+        "name": "Cumbia E' Plaza",
+        "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
       },
       "artists": [
         {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
-        },
-        {
-          "name": "Alegr\u00eca",
-          "url": "https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV"
+          "name": "Sonora 5 Estrellas",
+          "url": "https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1"
         }
       ],
-      "duration_ms": 80373,
-      "name": "S\u00faper Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/5husfNVE2aTxGddNuMACxA"
+      "duration_ms": 272085,
+      "name": "Supermandoneao",
+      "url": "https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Cumbia E' Plaza",
-        "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
+        "name": "El Legado",
+        "url": "https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH"
       },
       "artists": [
         {
-          "name": "Sonora 5 Estrellas",
-          "url": "https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1"
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        },
+        {
+          "name": "Alegr\u00eca",
+          "url": "https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV"
         }
       ],
-      "duration_ms": 272085,
-      "name": "Supermandoneao",
-      "url": "https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev"
+      "duration_ms": 80373,
+      "name": "S\u00faper Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/5husfNVE2aTxGddNuMACxA"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Destruye",
+        "url": "https://open.spotify.com/album/696bj0AMsu8y5wED4IJCVC"
+      },
+      "artists": [
+        {
+          "name": "Potencia",
+          "url": "https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "No Te Marches",
+      "url": "https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Iconos Kitsch",
         "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
       },
@@ -1671,26 +1687,6 @@
       "duration_ms": 209005,
       "name": "Boquita De Caramelo",
       "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "El Legado",
-        "url": "https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
-        },
-        {
-          "name": "Alegr\u00eca",
-          "url": "https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV"
-        }
-      ],
-      "duration_ms": 77760,
-      "name": "Porque Te Quiero",
-      "url": "https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH"
     }
   ],
   "unique_name": "Cumbia pa' carretear",

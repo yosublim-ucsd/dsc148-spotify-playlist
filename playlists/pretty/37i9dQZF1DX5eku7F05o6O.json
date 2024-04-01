@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3748,
+  "num_followers": 3749,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmUxNzcyYWNmZGY3Y2NhZmViNTgzMWFjNDRmYWUyNzkxNGYyMjM0",
+  "snapshot_id": "MCw1MGM0MTRjMzFiNDY0YzVkYTllMTZmMTQzNDM0YWE1YzZhYWNiYzBl",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
-      },
-      "artists": [
-        {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
-        }
-      ],
-      "duration_ms": 304040,
-      "name": "Les derniers jours",
-      "url": "https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Ta Chance",
         "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 268276,
       "name": "Ta Chance",
       "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "duration_ms": 304040,
+      "name": "Les derniers jours",
+      "url": "https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Nord-est",
-        "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 243977,
-      "name": "Nord-est",
-      "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 285026,
       "name": "Pour Le Reste De Ma Vie",
       "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Nord-est",
+        "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 243977,
+      "name": "Nord-est",
+      "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "M\u00e9lodica",
-        "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
-      },
-      "artists": [
-        {
-          "name": "Steve Marin",
-          "url": "https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Habiter l'avenir",
-      "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Vall\u00e9e d'argent",
         "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 284000,
       "name": "Samara",
       "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "M\u00e9lodica",
+        "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
+      },
+      "artists": [
+        {
+          "name": "Steve Marin",
+          "url": "https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Habiter l'avenir",
+      "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
     },
     {
       "added_at": "2021-02-06 03:12:40",

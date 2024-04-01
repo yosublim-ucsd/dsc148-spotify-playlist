@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,140 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,155 likes - 75 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Nothing to Say \(Ao Vivo No Sonastério\)](https://open.spotify.com/track/6t1hIdEgJMzQpxVftqXBn1) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [ANGRA ilumina Sonastério](https://open.spotify.com/album/41EHhF2a7vaGt57f3ACyDy) | 6:30 |
 | 75 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 |
 
-Snapshot ID: `MCw3NWU4Y2I1MGQ2OWRiNWMyMmY1YzE1MWYwMjJhNWIxM2Q0NmQ5ZTI0`
+Snapshot ID: `MCw5YjU3NDU4NzFjMDc1NjYxODdmNGIwZjdjOTVmMmMxNmY5MWRkNmJj`

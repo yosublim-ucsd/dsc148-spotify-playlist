@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: 72-HOUR POST-FIGHT",
-  "num_followers": 28432,
+  "num_followers": 28455,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yjc1YTRlNWU4NjY5Mzc2ZTYyMGUyMmVkYTc2YjY2YWQ1NzRmYjFj",
+  "snapshot_id": "MCw2YzYxZTQwNjc5MTI2MDA0NGRiZjQ1MTBlMDFhZDVmY2YyNDYxM2M4",
   "tracks": [
     {
       "added_at": "2024-03-28 13:43:07",
@@ -115,22 +115,18 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "Libidine (Orginal Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4FYs2SbGNF8Di9iAedjuml"
+        "name": "Caosmosi",
+        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
       },
       "artists": [
         {
-          "name": "Nora Orlandi",
-          "url": "https://open.spotify.com/artist/3p6nLdwfXNkENb2NplCvyv"
-        },
-        {
-          "name": "Stelvio Cipriani",
-          "url": "https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ"
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
         }
       ],
-      "duration_ms": 263520,
-      "name": "Libidine 8",
-      "url": "https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m"
+      "duration_ms": 303733,
+      "name": "Caosmosi",
+      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -151,26 +147,6 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",
-        "url": "https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
-        }
-      ],
-      "duration_ms": 241318,
-      "name": "Howls",
-      "url": "https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
         "name": "D'Improvviso",
         "url": "https://open.spotify.com/album/5uMkplQohrSjoclLGmLpTe"
       },
@@ -183,6 +159,26 @@
       "duration_ms": 188133,
       "name": "D'Improvviso",
       "url": "https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Libidine (Orginal Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4FYs2SbGNF8Di9iAedjuml"
+      },
+      "artists": [
+        {
+          "name": "Nora Orlandi",
+          "url": "https://open.spotify.com/artist/3p6nLdwfXNkENb2NplCvyv"
+        },
+        {
+          "name": "Stelvio Cipriani",
+          "url": "https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Libidine 8",
+      "url": "https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -203,18 +199,22 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "Caosmosi",
-        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
+        "name": "Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",
+        "url": "https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI"
       },
       "artists": [
         {
-          "name": "Addict Ameba",
-          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
         }
       ],
-      "duration_ms": 303733,
-      "name": "Caosmosi",
-      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
+      "duration_ms": 241318,
+      "name": "Howls",
+      "url": "https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "Cantautore piccolino",
-        "url": "https://open.spotify.com/album/7A9WRw1RV9dBg31s7RLBsq"
-      },
-      "artists": [
-        {
-          "name": "Sergio Cammariere",
-          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
-        }
-      ],
-      "duration_ms": 386653,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/5C9nneUkf6RBJqhhHKkyr3"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
         "name": "Maison Maravilha",
         "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 310466,
       "name": "Normalmente",
       "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Cantautore piccolino",
+        "url": "https://open.spotify.com/album/7A9WRw1RV9dBg31s7RLBsq"
+      },
+      "artists": [
+        {
+          "name": "Sergio Cammariere",
+          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
+        }
+      ],
+      "duration_ms": 386653,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5C9nneUkf6RBJqhhHKkyr3"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "So In Love",
-        "url": "https://open.spotify.com/album/7q23yp60B3p77Szqf7rsnU"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "That Old Black Magic",
-      "url": "https://open.spotify.com/track/4h5GePlHdEXeGmrPBru2cT"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
         "name": "Non mi resta che tacere",
         "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 275291,
       "name": "Non mi resta che tacere",
       "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/7q23yp60B3p77Szqf7rsnU"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "That Old Black Magic",
+      "url": "https://open.spotify.com/track/4h5GePlHdEXeGmrPBru2cT"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
+        "name": "La Strada Invisibile",
+        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
+      },
+      "artists": [
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 288616,
+      "name": "Tuareg",
+      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
         "name": "NON-BACKGROUND MUSIC",
         "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
       },
@@ -1279,26 +1299,6 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "La Strada Invisibile",
-        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
-      },
-      "artists": [
-        {
-          "name": "Rita Marcotulli",
-          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
-        },
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 288616,
-      "name": "Tuareg",
-      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
         "name": "For Those I Never Knew",
         "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
@@ -1311,26 +1311,6 @@
       "duration_ms": 269139,
       "name": "How Far Can You Fly? (Ladder) - Original Version",
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -1379,6 +1359,26 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
         "name": "Ma Gnossienne",
         "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "Projekt Drums Vol. 1",
-        "url": "https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH"
-      },
-      "artists": [
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        },
-        {
-          "name": "Nate Wood",
-          "url": "https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR"
-        }
-      ],
-      "duration_ms": 270626,
-      "name": "GREEN STREET feat. Nate Wood",
-      "url": "https://open.spotify.com/track/1lU8Ae52lIvRxHzlcoDPJH"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
         "name": "Racconti mediterranei",
         "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 454173,
       "name": "Canzone di Nausicaa",
       "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Projekt Drums Vol. 1",
+        "url": "https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH"
+      },
+      "artists": [
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        },
+        {
+          "name": "Nate Wood",
+          "url": "https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "GREEN STREET feat. Nate Wood",
+      "url": "https://open.spotify.com/track/1lU8Ae52lIvRxHzlcoDPJH"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -1535,22 +1535,18 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "M'berra",
-        "url": "https://open.spotify.com/album/5BblnhMflAtl1Iz1FCoFsG"
+        "name": "The Space Between Disguises",
+        "url": "https://open.spotify.com/album/5bwECKMUgSnnW6twzDDVj3"
       },
       "artists": [
         {
-          "name": "Khalab",
-          "url": "https://open.spotify.com/artist/7y31SHFbPMfSy2pJbeYQI3"
-        },
-        {
-          "name": "M'berra Ensemble",
-          "url": "https://open.spotify.com/artist/5FqZynIWuXBOQU3fEIulak"
+          "name": "Simone Baron & Arco Belo",
+          "url": "https://open.spotify.com/artist/6bZqYnlj0tt2iVQ0VlCezY"
         }
       ],
-      "duration_ms": 232584,
-      "name": "The Western Guys",
-      "url": "https://open.spotify.com/track/5u2BJIr3c9kazCyBFQevvn"
+      "duration_ms": 319546,
+      "name": "Buciumeana Kadynja",
+      "url": "https://open.spotify.com/track/1YuXhA7m2RjpH2uVqyIk0N"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -1575,22 +1571,22 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "Est\u00e1tica",
-        "url": "https://open.spotify.com/album/55dQMTSoTPQwpTSrTSZCAk"
+        "name": "M'berra",
+        "url": "https://open.spotify.com/album/5BblnhMflAtl1Iz1FCoFsG"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "Khalab",
+          "url": "https://open.spotify.com/artist/7y31SHFbPMfSy2pJbeYQI3"
         },
         {
-          "name": "Concepci\u00f3n Huerta",
-          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+          "name": "M'berra Ensemble",
+          "url": "https://open.spotify.com/artist/5FqZynIWuXBOQU3fEIulak"
         }
       ],
-      "duration_ms": 325000,
-      "name": "Est\u00e1tica",
-      "url": "https://open.spotify.com/track/77a4RGIZTjb3vKtQ2o5iMO"
+      "duration_ms": 232584,
+      "name": "The Western Guys",
+      "url": "https://open.spotify.com/track/5u2BJIr3c9kazCyBFQevvn"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -1611,6 +1607,26 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
+        "name": "Est\u00e1tica",
+        "url": "https://open.spotify.com/album/55dQMTSoTPQwpTSrTSZCAk"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        },
+        {
+          "name": "Concepci\u00f3n Huerta",
+          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+        }
+      ],
+      "duration_ms": 325000,
+      "name": "Est\u00e1tica",
+      "url": "https://open.spotify.com/track/77a4RGIZTjb3vKtQ2o5iMO"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
         "name": "Unconscious Collective",
         "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
@@ -1623,6 +1639,42 @@
       "duration_ms": 289634,
       "name": "Transe Napolitaine",
       "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+      },
+      "artists": [
+        {
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+        }
+      ],
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "My Songbook",
+        "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Simona Severini",
+          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
+        }
+      ],
+      "duration_ms": 340493,
+      "name": "My Heart in a Song",
+      "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
     },
     {
       "added_at": "2024-03-28 13:43:07",
@@ -1667,226 +1719,6 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
-      },
-      "artists": [
-        {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
-        }
-      ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "My Songbook",
-        "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Simona Severini",
-          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
-        }
-      ],
-      "duration_ms": 340493,
-      "name": "My Heart in a Song",
-      "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "Tati",
-        "url": "https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 392266,
-      "name": "Cornettology",
-      "url": "https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "Terra",
-        "url": "https://open.spotify.com/album/5XuwMH0VjRqYV08snTz2Ct"
-      },
-      "artists": [
-        {
-          "name": "HUMA",
-          "url": "https://open.spotify.com/artist/5ZOESxsv0POIyiKktO4PFW"
-        },
-        {
-          "name": "Alberto Lincetto",
-          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
-        },
-        {
-          "name": "Stefano Cosi",
-          "url": "https://open.spotify.com/artist/2mDnSIwAFJY552K4jQ6RaO"
-        }
-      ],
-      "duration_ms": 327208,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/6XoSBOoPBw2mRlPSGRQyh1"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "Lost River",
-        "url": "https://open.spotify.com/album/0oQAUEkwBwKufuPqMhgoM4"
-      },
-      "artists": [
-        {
-          "name": "Michele Rabbia",
-          "url": "https://open.spotify.com/artist/0PrEXi9LcYr5j82OZLNyNA"
-        },
-        {
-          "name": "Gianluca Petrella",
-          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
-        },
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        }
-      ],
-      "duration_ms": 345880,
-      "name": "What The Water Brings",
-      "url": "https://open.spotify.com/track/4RAyGVtJSj2EGZqUA3qGOD"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "Aut Aut",
-        "url": "https://open.spotify.com/album/6dNBzk5mE3uEWBllvMbdvd"
-      },
-      "artists": [
-        {
-          "name": "Andrea Biondi",
-          "url": "https://open.spotify.com/artist/2rf3CCkBInxeMdrIUnczNP"
-        },
-        {
-          "name": "Jacopo Ferrazza",
-          "url": "https://open.spotify.com/artist/6JQTj3KJJullWlmszH1VbJ"
-        }
-      ],
-      "duration_ms": 400165,
-      "name": "Groovy",
-      "url": "https://open.spotify.com/track/23VZlYt2HpWP5VeAO6zFSb"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "Desertico",
-        "url": "https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Fresu Devil Quartet",
-          "url": "https://open.spotify.com/artist/3HwP2Snx52kveIRHh9k62Z"
-        }
-      ],
-      "duration_ms": 353310,
-      "name": "Desertico",
-      "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "Ipotesi",
-        "url": "https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa"
-      },
-      "artists": [
-        {
-          "name": "Simona Severini",
-          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
-        }
-      ],
-      "duration_ms": 197953,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "The Enja Heritage Collection: Thorn",
-        "url": "https://open.spotify.com/album/67rTLugyNX03X8zatBUAWx"
-      },
-      "artists": [
-        {
-          "name": "Antonio Fara\u00f2",
-          "url": "https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Drew Gress",
-          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 454026,
-      "name": "Time Back",
-      "url": "https://open.spotify.com/track/1F1Nm8dXWjSqmQItbENbAD"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
-        "name": "Ten Stops",
-        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
-      },
-      "artists": [
-        {
-          "name": "Simone Locarni",
-          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
-        },
-        {
-          "name": "Andrea Dulbecco",
-          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
-        },
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Riccardo Fioravanti",
-          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
-        }
-      ],
-      "duration_ms": 344596,
-      "name": "Ten Stops",
-      "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
-    },
-    {
-      "added_at": "2024-03-28 13:43:07",
-      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1919,34 +1751,190 @@
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "Integra",
-        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+        "name": "Aurum",
+        "url": "https://open.spotify.com/album/0dzcOq4Tn4NLVQJTnttUfs"
       },
       "artists": [
         {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+          "name": "Piero Delle Monache",
+          "url": "https://open.spotify.com/artist/2JFA9BRChlRo2w7gTTKaXa"
         }
       ],
-      "duration_ms": 254773,
-      "name": "Vibrare",
-      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
+      "duration_ms": 371466,
+      "name": "La risacca",
+      "url": "https://open.spotify.com/track/5WHclQJvdxDgLMcQqmYqGu"
     },
     {
       "added_at": "2024-03-28 13:43:07",
       "album": {
-        "name": "Something In Our Way",
-        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
+        "name": "Desertico",
+        "url": "https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt"
       },
       "artists": [
         {
-          "name": "Danilo Rea",
-          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Fresu Devil Quartet",
+          "url": "https://open.spotify.com/artist/3HwP2Snx52kveIRHh9k62Z"
         }
       ],
-      "duration_ms": 336666,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
+      "duration_ms": 353310,
+      "name": "Desertico",
+      "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Aut Aut",
+        "url": "https://open.spotify.com/album/6dNBzk5mE3uEWBllvMbdvd"
+      },
+      "artists": [
+        {
+          "name": "Andrea Biondi",
+          "url": "https://open.spotify.com/artist/2rf3CCkBInxeMdrIUnczNP"
+        },
+        {
+          "name": "Jacopo Ferrazza",
+          "url": "https://open.spotify.com/artist/6JQTj3KJJullWlmszH1VbJ"
+        }
+      ],
+      "duration_ms": 400165,
+      "name": "Groovy",
+      "url": "https://open.spotify.com/track/23VZlYt2HpWP5VeAO6zFSb"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Lost River",
+        "url": "https://open.spotify.com/album/0oQAUEkwBwKufuPqMhgoM4"
+      },
+      "artists": [
+        {
+          "name": "Michele Rabbia",
+          "url": "https://open.spotify.com/artist/0PrEXi9LcYr5j82OZLNyNA"
+        },
+        {
+          "name": "Gianluca Petrella",
+          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
+        },
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "duration_ms": 345880,
+      "name": "What The Water Brings",
+      "url": "https://open.spotify.com/track/4RAyGVtJSj2EGZqUA3qGOD"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/5XuwMH0VjRqYV08snTz2Ct"
+      },
+      "artists": [
+        {
+          "name": "HUMA",
+          "url": "https://open.spotify.com/artist/5ZOESxsv0POIyiKktO4PFW"
+        },
+        {
+          "name": "Alberto Lincetto",
+          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
+        },
+        {
+          "name": "Stefano Cosi",
+          "url": "https://open.spotify.com/artist/2mDnSIwAFJY552K4jQ6RaO"
+        }
+      ],
+      "duration_ms": 327208,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/6XoSBOoPBw2mRlPSGRQyh1"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Ipotesi",
+        "url": "https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa"
+      },
+      "artists": [
+        {
+          "name": "Simona Severini",
+          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
+        }
+      ],
+      "duration_ms": 197953,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Tati",
+        "url": "https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 392266,
+      "name": "Cornettology",
+      "url": "https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Ten Stops",
+        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
+      },
+      "artists": [
+        {
+          "name": "Simone Locarni",
+          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
+        },
+        {
+          "name": "Andrea Dulbecco",
+          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Riccardo Fioravanti",
+          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
+        }
+      ],
+      "duration_ms": 344596,
+      "name": "Ten Stops",
+      "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
+    },
+    {
+      "added_at": "2024-03-28 13:43:07",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
+      },
+      "artists": [
+        {
+          "name": "Federico Bosio",
+          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
+        }
+      ],
+      "duration_ms": 146618,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
     }
   ],
   "unique_name": "Jazz Italia",

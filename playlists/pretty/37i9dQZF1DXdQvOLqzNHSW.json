@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 977755,
+  "num_followers": 977790,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzFjNzUyNmE2MGQxOWMyOWM3NDZmMzI3OGQ3OGIwNmE3ZjlmMjU1",
+  "snapshot_id": "MCwwMGExMTZjMjhhNGRiZTFhZmU5NmM4NTUzNjVjYWEzZDcwNTVmYTRl",
   "tracks": [
     {
       "added_at": "2024-01-04 16:08:54",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Rabid Dog",
-        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
+        "name": "Pixie Dust",
+        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
         }
       ],
-      "duration_ms": 239814,
-      "name": "Rabid Dog",
-      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
+      "duration_ms": 183716,
+      "name": "Pixie Dust",
+      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Pixie Dust",
-        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
+        "name": "Rabid Dog",
+        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
       },
       "artists": [
         {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 183716,
-      "name": "Pixie Dust",
-      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
+      "duration_ms": 239814,
+      "name": "Rabid Dog",
+      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/5KMM5rZU1frov5gNAHL8GE"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "MUTUAL",
+      "url": "https://open.spotify.com/track/7ssXkZztV1Fe60nO1pvTiK"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
         "name": "Stay Proud of Me",
         "url": "https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 156026,
       "name": "Let's Go to Trader Joe's",
       "url": "https://open.spotify.com/track/69j9dsNUQQPBab9vCBu99r"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "Beige",
-        "url": "https://open.spotify.com/album/5KMM5rZU1frov5gNAHL8GE"
-      },
-      "artists": [
-        {
-          "name": "Flozigg",
-          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "MUTUAL",
-      "url": "https://open.spotify.com/track/7ssXkZztV1Fe60nO1pvTiK"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 150402,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Moon Soul",
         "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 66000,
       "name": "La La La",
       "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 150402,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
-      },
-      "artists": [
-        {
-          "name": "Jelly Crystal",
-          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
-        }
-      ],
-      "duration_ms": 221692,
-      "name": "Don Lemon",
-      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Hundred Fifty Roses",
         "url": "https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 96525,
       "name": "Flowers & Honey Interlude",
       "url": "https://open.spotify.com/track/6DsvXic2O817vrPB0btljC"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "duration_ms": 221692,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
-      },
-      "artists": [
-        {
-          "name": "Insightful",
-          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "DD",
-      "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "I Ask Nothing of You",
         "url": "https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 254300,
       "name": "Human Breach",
       "url": "https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
+      },
+      "artists": [
+        {
+          "name": "Insightful",
+          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "DD",
+      "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
+        "name": "hurt me enough",
+        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Archie",
+          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
+        }
+      ],
+      "duration_ms": 186032,
+      "name": "hurt me enough",
+      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 170616,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/2yyM5THIv0BU4Jo1twbXaL"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "hurt me enough",
-        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
-      },
-      "artists": [
-        {
-          "name": "Nathan Archie",
-          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
-        }
-      ],
-      "duration_ms": 186032,
-      "name": "hurt me enough",
-      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Check Please",
-        "url": "https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS"
-      },
-      "artists": [
-        {
-          "name": "Alan Chang",
-          "url": "https://open.spotify.com/artist/0vYLvMZ5Io4mFGTsiIvo7g"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Love As A Weapon",
-      "url": "https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Shadowglow (Deluxe)",
         "url": "https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp"
       },
@@ -1647,22 +1631,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Slipping Into Color",
-        "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
+        "name": "Check Please",
+        "url": "https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "April + VISTA",
-          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+          "name": "Alan Chang",
+          "url": "https://open.spotify.com/artist/0vYLvMZ5Io4mFGTsiIvo7g"
         }
       ],
-      "duration_ms": 190074,
-      "name": "Nowhere Else To Go",
-      "url": "https://open.spotify.com/track/6vuGONUpoMGw36V5ihXglV"
+      "duration_ms": 208080,
+      "name": "Love As A Weapon",
+      "url": "https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1687,18 +1667,42 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "What's Even Real Anymore",
-        "url": "https://open.spotify.com/album/0V2M8ekAk65ZSYK33TsfJL"
+        "name": "Slipping Into Color",
+        "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
       },
       "artists": [
         {
-          "name": "Old Man Canyon",
-          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
         }
       ],
-      "duration_ms": 249548,
-      "name": "What's Even Real Anymore",
-      "url": "https://open.spotify.com/track/11JY5F9rxxqOXrtdx4KyVp"
+      "duration_ms": 190074,
+      "name": "Nowhere Else To Go",
+      "url": "https://open.spotify.com/track/6vuGONUpoMGw36V5ihXglV"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "cerulean city",
+        "url": "https://open.spotify.com/album/3imChyPypWxBE6TOE1iF0U"
+      },
+      "artists": [
+        {
+          "name": "stoop lee",
+          "url": "https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX"
+        },
+        {
+          "name": "Dayo Gold",
+          "url": "https://open.spotify.com/artist/3LX6M5W9w8EepNFUif72jY"
+        }
+      ],
+      "duration_ms": 150372,
+      "name": "cerulean city",
+      "url": "https://open.spotify.com/track/0fpezCsCOmR22MdRQkrviN"
     }
   ],
   "unique_name": "late night vibes",

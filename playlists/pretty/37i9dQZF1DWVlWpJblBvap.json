@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 560195,
+  "num_followers": 560400,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDFkNzMwMDQwNzE2ZDMwNjhjMzQ1NDFmN2NmZmQxNzUwZDcxNDYz",
+  "snapshot_id": "MCxmNTY2NmY1ZDFlYTc0NTM0ZWVjNjI3OWNiY2MzMDc5YWJlNGNjNGIx",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "This Is a Move",
-        "url": "https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "This Is a Move",
-      "url": "https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 297640,
       "name": "Praise You In This Storm",
       "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "This Is a Move",
+        "url": "https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "This Is a Move",
+      "url": "https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Good Good Father",
-        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
+        "name": "The Heart Of Worship",
+        "url": "https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 297146,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
+      "duration_ms": 320600,
+      "name": "The Heart Of Worship",
+      "url": "https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "The Heart Of Worship",
-        "url": "https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf"
+        "name": "Good Good Father",
+        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 320600,
-      "name": "The Heart Of Worship",
-      "url": "https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j"
+      "duration_ms": 297146,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
     },
     {
       "added_at": "2023-02-18 03:38:32",

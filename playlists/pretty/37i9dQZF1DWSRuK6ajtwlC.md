@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. La Fiera de Ojinaga en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,257 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,449 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Me Rehuso](https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Me Rehuso](https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY) | 2:47 |
 | 75 | [Ya No Me Dueles](https://open.spotify.com/track/0MDYYptUiQEqB7srakmdXh) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Ya No Me Dueles](https://open.spotify.com/album/1tjCoF8LJF1K5bABaPFsR6) | 2:23 |
 
-Snapshot ID: `MCwxMDcwNTIxNWI3N2ZiZDNlMzBkNGM4YWZhZGExNjc5YzA0NmQ3YmY5`
+Snapshot ID: `MCw5ODYxMmZiNjFjZDc4MjkxYjZhYzliNDdlM2NkMGY2ODU3YzgwOWEz`

@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 30606,
+  "num_followers": 30667,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjIyYTlkZjg1M2NjN2I1NzY1OTk2ZjE1NzJlMzNkYWMxMGYyMjI4",
+  "snapshot_id": "MCw5MzE5ZWIyZTAxZDQ4YWZhMWY2OTI4YWEyNzVmMjU4MzhkNmVkOTU1",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Macromedas",
-        "url": "https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl"
-      },
-      "artists": [
-        {
-          "name": "Zoniacs",
-          "url": "https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO"
-        }
-      ],
-      "duration_ms": 153993,
-      "name": "Macromedas",
-      "url": "https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Strings Of Serenity",
         "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 171250,
       "name": "Strings Of Serenity",
       "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Macromedas",
+        "url": "https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl"
+      },
+      "artists": [
+        {
+          "name": "Zoniacs",
+          "url": "https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO"
+        }
+      ],
+      "duration_ms": 153993,
+      "name": "Macromedas",
+      "url": "https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Cestrum Nocturnum",
-        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 195171,
-      "name": "Cestrum Nocturnum",
-      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Voices of Ether",
         "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 147801,
       "name": "Voices of Ether",
       "url": "https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Cestrum Nocturnum",
+        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 195171,
+      "name": "Cestrum Nocturnum",
+      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Soulful Serenity",
-        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
-      },
-      "artists": [
-        {
-          "name": "Neoterikoi",
-          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
-        }
-      ],
-      "duration_ms": 184251,
-      "name": "Soulful Serenity",
-      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/0veARGclLULEvfaKbbLr0H"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 209259,
       "name": "Ananda",
       "url": "https://open.spotify.com/track/3uq6352VXgMMJ2VvVXLgI0"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Soulful Serenity",
+        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
+      },
+      "artists": [
+        {
+          "name": "Neoterikoi",
+          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
+        }
+      ],
+      "duration_ms": 184251,
+      "name": "Soulful Serenity",
+      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Treetop Whisperer",
-        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
-      },
-      "artists": [
-        {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
-        }
-      ],
-      "duration_ms": 190687,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/0pP3iJlExImW0IusI2wy6Q"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 151266,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/0Xho0q1PiEDX0jrtxYuBUe"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "duration_ms": 190687,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Rishis",
-        "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
-      },
-      "artists": [
-        {
-          "name": "Skye Saraswati",
-          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
-        }
-      ],
-      "duration_ms": 203310,
-      "name": "Rishis",
-      "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Ancient Prayer",
         "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 176796,
       "name": "Ancient Prayer",
       "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Rishis",
+        "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "duration_ms": 203310,
+      "name": "Rishis",
+      "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Fond Memories",
-        "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
-      },
-      "artists": [
-        {
-          "name": "Seeking Balance",
-          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Fond Memories",
-      "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Terrestrial",
         "url": "https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 183857,
       "name": "Terrestrial",
       "url": "https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Fond Memories",
+        "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Fond Memories",
+      "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Sounds Of The Earth",
-        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
-      },
-      "artists": [
-        {
-          "name": "Soliaga",
-          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "Sounds Of The Earth",
-      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Testanaadee",
         "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 184512,
       "name": "Testanaadee",
       "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Sounds Of The Earth",
+        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
+      },
+      "artists": [
+        {
+          "name": "Soliaga",
+          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "Sounds Of The Earth",
+      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Undertow",
-        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
-      },
-      "artists": [
-        {
-          "name": "Gleework",
-          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Healing Solfeggio 528 Hz",
         "url": "https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 154000,
       "name": "Healing Solfeggio 528 Hz",
       "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Astral Devotion",
-        "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
-      },
-      "artists": [
-        {
-          "name": "FloatSpace",
-          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
-        }
-      ],
-      "duration_ms": 217274,
-      "name": "Astral Devotion - Spa 432Hz",
-      "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Captain Speaking",
         "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 377250,
       "name": "Captain Speaking",
       "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Astral Devotion",
+        "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
+      },
+      "artists": [
+        {
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
+        }
+      ],
+      "duration_ms": 217274,
+      "name": "Astral Devotion - Spa 432Hz",
+      "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
     },
     {
       "added_at": "2023-12-15 11:35:26",

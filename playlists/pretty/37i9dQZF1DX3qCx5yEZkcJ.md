@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,337 likes - 80 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,366 likes - 80 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 26 | [still in ....](https://open.spotify.com/track/3QZtoMYK4wJaLxXdtTEdrr) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [implosion](https://open.spotify.com/album/28gUQdla0Mu1xi3Y5UJWWv) | 3:22 |
 | 27 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 |
 | 28 | [oak](https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [oak](https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg) | 2:10 |
-| 29 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 |
-| 30 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 |
+| 29 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 |
+| 30 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 |
 | 31 | [Love Letter](https://open.spotify.com/track/5NlG6wkRWwPrKel04bKkYK) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE) | 1:56 |
 | 32 | [Goldrush](https://open.spotify.com/track/1BdfLgmoreHU2chfGQHSUg) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [GOLDRUSH](https://open.spotify.com/album/5GFs9h5XRszs1Q768Aagsz) | 2:08 |
 | 33 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 37 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 |
 | 38 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 |
 | 39 | [Malibu](https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Malibu](https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1) | 2:22 |
-| 40 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
-| 41 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 |
+| 40 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 |
+| 41 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
 | 42 | [Undercurrent](https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Whitecaps](https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0) | 2:07 |
 | 43 | [Laguna Beach](https://open.spotify.com/track/73EdXxEhsF5NoaH5BZQNPk) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Travels](https://open.spotify.com/album/6dPrjTpoGfTm9d4EaLA8Ru) | 1:49 |
 | 44 | [Please Chill](https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Zoning Out Vol\. 2](https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn) | 2:05 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 47 | [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 |
 | 48 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 |
 | 49 | [Sewin' Love \- Instrumental](https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Main Source \(Instrumentals\)](https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG) | 2:58 |
-| 50 | [A Tribute To First Love](https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [A Tribute to First Love](https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM) | 4:13 |
-| 51 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 |
+| 50 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 |
+| 51 | [A Tribute To First Love](https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [A Tribute to First Love](https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM) | 4:13 |
 | 52 | [Think for Yourself](https://open.spotify.com/track/6TgguvjwUbXg18vyLihVxv) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Radio Moonspatz](https://open.spotify.com/album/0n0HZ3zcyl4INlWTw36I0m) | 2:30 |
 | 53 | [Rock](https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Rock](https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO) | 2:03 |
 | 54 | [Spring](https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Spring](https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A) | 4:23 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 65 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 |
 | 66 | [Restless Minds](https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Restless Minds](https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP) | 2:09 |
 | 67 | [Notes](https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV) | [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [Beats On Boat: Hazy Year](https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U) | 2:47 |
-| 68 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 |
-| 69 | [Evening Drive](https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j) | [Milo Who](https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6) | [Evening Drive](https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR) | 2:08 |
+| 68 | [Evening Drive](https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j) | [Milo Who](https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6) | [Evening Drive](https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR) | 2:08 |
+| 69 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 |
 | 70 | [Whenever](https://open.spotify.com/track/4zH1IA6sy4kU4CXavEvOqi) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Whenever](https://open.spotify.com/album/1lQ6jOdtPJXrVAit9k7UzZ) | 2:00 |
 | 71 | [Bopatron](https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg) | 3:16 |
 | 72 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 |
 | 80 | [Soft Spot](https://open.spotify.com/track/2cfgnwGPrKkcvVjuxzSt6s) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/7zy4ZCdOKzyEg2d9mjdLpk) | 2:55 |
 
-Snapshot ID: `MCxiM2U1MTE5YWJhMTg5YTFlNjNiMjk1ZmRlYzlmZTNjYzU4ZDIzYTFl`
+Snapshot ID: `MCw4YzFjNTIyNjAxYmJlMzVkNjgxNTE4OThhMjMyYzQzMDE0YzIwOTU0`

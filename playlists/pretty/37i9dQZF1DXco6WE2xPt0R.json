@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 113402,
+  "num_followers": 113450,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE4MWFkNTAzZDdjNmMxNjI1MWNmOTEwNjJmZjRjZGU5OTM3Mjc4",
+  "snapshot_id": "MCw2OWE5Yzk1YmI1NTcxMWRmYWQ2ZjI0ZGU0MzE0OTUyMmFiZmMxNzM0",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Julie.",
+      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "I Left My Heart In Ladera",
         "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Julie.",
-      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Perfect Stranger (feat. Kenny Lattimore)",
-        "url": "https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Kenny Lattimore",
-          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
-        }
-      ],
-      "duration_ms": 231580,
-      "name": "Perfect Stranger (feat. Kenny Lattimore)",
-      "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Good Morning Gorgeous (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Perfect Stranger (feat. Kenny Lattimore)",
+        "url": "https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "duration_ms": 231580,
+      "name": "Perfect Stranger (feat. Kenny Lattimore)",
+      "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Juslisen (Special Edition)",
+        "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Previouscats",
+      "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/3ynGv03Sdz2FIWxsLPhVJ3"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/7DPXIv3DSRxRB7N75HMrH8"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Juslisen (Special Edition)",
-        "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Previouscats",
-      "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "beat of a slow dance",
+        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "beat of a slow dance",
+      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 159365,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "beat of a slow dance",
-        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "beat of a slow dance",
-      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Starfruit",
-        "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/1se4RSxZWhrAyguuWKZxgJ"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/6AcsZZ2w0lPCkdCXdeZsyh"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "New Growth",
-        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
       },
       "artists": [
         {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
         }
       ],
-      "duration_ms": 177053,
-      "name": "No Pussy For Losers",
-      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
+      "duration_ms": 161573,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/1se4RSxZWhrAyguuWKZxgJ"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 277173,
       "name": "Friends To Lovers",
       "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "New Growth",
+        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "No Pussy For Losers",
+      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Eventually Pt. 1",
         "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 235000,
       "name": "Wake Up Baby",
       "url": "https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2024-03-22 03:01:00",

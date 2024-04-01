@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1720146,
+  "num_followers": 1720151,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmViYzVjMzZmOGFkYjNjZjg5MThlNTc5MTNlYzE2MmJhZGVjN2E1",
+  "snapshot_id": "MCxmODk0NWUzNDIxM2MxNWVlYjRlYWIzNTNlYjg4M2RjMGE1ZjA2ZTQx",
   "tracks": [
     {
       "added_at": "2024-03-21 08:22:30",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 132024,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Listen to Your Heart",
         "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 186153,
       "name": "Listen to Your Heart",
       "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 132024,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "All Star - Acoustic",
-        "url": "https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1"
-      },
-      "artists": [
-        {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
-        }
-      ],
-      "duration_ms": 230535,
-      "name": "All Star - Acoustic",
-      "url": "https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "The Scientist",
         "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 275732,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "All Star - Acoustic",
+        "url": "https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "duration_ms": 230535,
+      "name": "All Star - Acoustic",
+      "url": "https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Call Me Maybe - Acoustic",
-        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
-      },
-      "artists": [
-        {
-          "name": "Scottie",
-          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
-        }
-      ],
-      "duration_ms": 210473,
-      "name": "Call Me Maybe - Acoustic",
-      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 201600,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Call Me Maybe - Acoustic",
+        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "duration_ms": 210473,
+      "name": "Call Me Maybe - Acoustic",
+      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Here I Go Again - Acoustic EP",
-        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 252307,
-      "name": "Here I Go Again - Acoustic",
-      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Hands To Myself",
         "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Here I Go Again - Acoustic EP",
+        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 252307,
+      "name": "Here I Go Again - Acoustic",
+      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 206101,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
+      },
+      "artists": [
+        {
+          "name": "J. Seasons",
+          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
+        }
+      ],
+      "duration_ms": 157611,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -807,22 +823,6 @@
       "duration_ms": 197851,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
-      },
-      "artists": [
-        {
-          "name": "J. Seasons",
-          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
-        }
-      ],
-      "duration_ms": 157611,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Chasing Pavements",
+        "url": "https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "duration_ms": 180034,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 132789,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "Chasing Pavements",
-        "url": "https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0"
-      },
-      "artists": [
-        {
-          "name": "Demi Femme",
-          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
-        }
-      ],
-      "duration_ms": 180034,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "All of me - Acoustic",
         "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd"
       },
       "artists": [
         {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+          "name": "Shelby Park",
+          "url": "https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet"
         }
       ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+      "duration_ms": 140617,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1175,22 +1191,6 @@
       "duration_ms": 202076,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "You Raise Me Up",
-        "url": "https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd"
-      },
-      "artists": [
-        {
-          "name": "Shelby Park",
-          "url": "https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet"
-        }
-      ],
-      "duration_ms": 140617,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Out Of My Head And Back In My Bed",
-        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
+        "name": "Kissing Other People (Acoustic)",
+        "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
       },
       "artists": [
         {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 190561,
-      "name": "Out Of My Head And Back In My Bed",
-      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
+      "duration_ms": 192374,
+      "name": "Kissing Other People - Acoustic",
+      "url": "https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Kissing Other People (Acoustic)",
-        "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
+        "name": "Out Of My Head And Back In My Bed",
+        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
         }
       ],
-      "duration_ms": 192374,
-      "name": "Kissing Other People - Acoustic",
-      "url": "https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY"
+      "duration_ms": 190561,
+      "name": "Out Of My Head And Back In My Bed",
+      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
     },
     {
       "added_at": "2024-03-21 08:22:30",

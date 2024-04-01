@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 670918,
+  "num_followers": 670960,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGFkYmIyMjY2MzFlNTM0ZmQ2ODhhMzlkMGJmNWIxZjE2NDE3ZDAz",
+  "snapshot_id": "MCw5ZTY5NmRiNDk4N2M1MWVmMzVhOWU2NGE5MWQyOWY4ZTNiMzNjOTli",
   "tracks": [
     {
       "added_at": "2021-10-20 20:06:54",
@@ -23,6 +23,22 @@
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2024-03-22 19:16:05",
@@ -43,22 +59,6 @@
       "duration_ms": 176606,
       "name": "Fr\u00eda",
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -383,22 +383,26 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Serenatas Frente al Mar",
-        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
+        "name": "Cumbia Sobre el Mar / Inmortales (El B\u00faho Remixes)",
+        "url": "https://open.spotify.com/album/1iHJ1yT7T5juouGV7IkeRN"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         },
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 197850,
-      "name": "Serenatas Frente al Mar",
-      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
+      "duration_ms": 312914,
+      "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/0p8LlXT1FG9vnrCH70dbuo"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -423,6 +427,26 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Serenatas Frente al Mar",
+        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 197850,
+      "name": "Serenatas Frente al Mar",
+      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Traspasa",
         "url": "https://open.spotify.com/album/4SgkWnlMfXsXPJcYArOYTl"
       },
@@ -435,30 +459,6 @@
       "duration_ms": 213986,
       "name": "Buen Viaje",
       "url": "https://open.spotify.com/track/53Jf3ChStU9gJy69jUYRVw"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Cumbia Sobre el Mar / Inmortales (El B\u00faho Remixes)",
-        "url": "https://open.spotify.com/album/1iHJ1yT7T5juouGV7IkeRN"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Flowering Inferno",
-          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 312914,
-      "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/0p8LlXT1FG9vnrCH70dbuo"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Black Catbird",
         "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 165593,
       "name": "Black Catbird",
       "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi"
     },
     {
-      "added_at": "2023-02-09 18:14:43",
-      "album": {
-        "name": "costas de coral",
-        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 188841,
-      "name": "costas de coral",
-      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
-    },
-    {
       "added_at": "2022-02-25 03:00:34",
       "album": {
         "name": "Laberinto (Bosq Remix)",
@@ -971,6 +955,22 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2023-02-09 18:14:43",
+      "album": {
+        "name": "costas de coral",
+        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188841,
+      "name": "costas de coral",
+      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
-    },
-    {
       "added_at": "2022-07-01 02:47:32",
       "album": {
         "name": "Sacatela",
@@ -1175,6 +1159,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Tengo Lo Que Tengo",
-        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
-      },
-      "artists": [
-        {
-          "name": "Jimena Angel",
-          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
-        }
-      ],
-      "duration_ms": 203664,
-      "name": "Tengo Lo Que Tengo",
-      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 228186,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Tengo Lo Que Tengo",
+        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
+      },
+      "artists": [
+        {
+          "name": "Jimena Angel",
+          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Tengo Lo Que Tengo",
+      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1573,24 +1573,20 @@
       "url": "https://open.spotify.com/track/2Zh91nwJJNTyE6WzXfuZrO"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2022-08-08 22:50:57",
       "album": {
-        "name": "Ta Que Tiembla (Pachyman Remix)",
-        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/2HSmF2WgfCh78aKjTdouGd"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        },
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Ta Que Tiembla - Pachyman Remix",
-      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
+      "duration_ms": 162127,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/6z1SwjA8rwq3us02vNucJ0"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1609,20 +1605,24 @@
       "url": "https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk"
     },
     {
-      "added_at": "2022-08-08 22:50:57",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Amapola",
-        "url": "https://open.spotify.com/album/2HSmF2WgfCh78aKjTdouGd"
+        "name": "Ta Que Tiembla (Pachyman Remix)",
+        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
       },
       "artists": [
         {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        },
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 162127,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/6z1SwjA8rwq3us02vNucJ0"
+      "duration_ms": 201290,
+      "name": "Ta Que Tiembla - Pachyman Remix",
+      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1829,22 +1829,6 @@
       "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Archivos Pt.1",
-        "url": "https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu"
-      },
-      "artists": [
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
-        }
-      ],
-      "duration_ms": 157522,
-      "name": "Tu Me Dijiste Que Venias",
-      "url": "https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1"
-    },
-    {
       "added_at": "2022-04-23 04:18:59",
       "album": {
         "name": "SIM SIM SIM",
@@ -1875,6 +1859,22 @@
       "duration_ms": 235437,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/6pHX4yF2JKjZdSk25DWJKv"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Archivos Pt.1",
+        "url": "https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "duration_ms": 157522,
+      "name": "Tu Me Dijiste Que Venias",
+      "url": "https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1"
     },
     {
       "added_at": "2021-10-20 20:06:54",

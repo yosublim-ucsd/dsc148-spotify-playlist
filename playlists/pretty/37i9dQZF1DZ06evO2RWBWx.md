@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 
 > This is imase\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,114 likes - 19 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,131 likes - 19 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 18 | [逃避行](https://open.spotify.com/track/05qprPlYZoqBvtVKmSAXHT) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:12 |
 | 19 | [あべこべ](https://open.spotify.com/track/0q45T1ketsZRdCSwGOqgyW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:20 |
 
-Snapshot ID: `Mjg1MzAwMjgsMDAwMDAwMDAyNGUwZTliNzgwZGVjM2QyMmY1MzVmZDMyMGYxNzQ4Yw==`
+Snapshot ID: `Mjg1MzE0ODEsMDAwMDAwMDA3NTI5NjYwNTQ1YTIyNzkxMjJmMzczYjAzNmY1ZWM2OQ==`

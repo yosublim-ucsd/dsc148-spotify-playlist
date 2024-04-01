@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 15237,
+  "num_followers": 15248,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjA5YmQyZWFiMTAyMjU3YmZhMjgzMTBkNjU2NDI4MjJiNDUyYzdi",
+  "snapshot_id": "MCxkMjE3ZmQwMzg1NjVjZDI4MzlkYTllMDU2NzVkNWNjMmRlMzYwMjZi",
   "tracks": [
     {
       "added_at": "2024-03-08 06:36:14",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 222305,
-      "name": "Shining on Your Night",
-      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
-        "name": "Encounter, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
         }
       ],
-      "duration_ms": 221947,
-      "name": "The Night",
-      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -379,6 +363,22 @@
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
+        "name": "Encounter, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 221947,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 212093,
       "name": "Pit a Pat",
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
-        "name": "Seasonal Hiatus",
-        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "One Moment",
-      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -511,6 +495,22 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
+        "name": "Seasonal Hiatus",
+        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "One Moment",
+      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
     },
     {
       "added_at": "2024-03-08 06:36:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-03-08 06:36:14",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "WANT U",
-      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
-    },
-    {
-      "added_at": "2024-03-08 06:36:14",
-      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
+    },
+    {
+      "added_at": "2024-03-08 06:36:14",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "WANT U",
+      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
     },
     {
       "added_at": "2024-03-08 06:36:14",

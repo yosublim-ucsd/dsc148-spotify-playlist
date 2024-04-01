@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 42 min 46 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [En Tú Mirar](https://open.spotify.com/track/2pCWgXDq6tFEEghX6WZPx3) | [Electrodomesticos](https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn) | [La Nueva Canción Chilena](https://open.spotify.com/album/08lEyz3gFdUbvqeC2FiyWf) | 3:33 |
-| 2 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 |
-| 3 | [\(I've Had\) The Time Of My Life \- theme from the motion picture "Dirty Dancing"](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
-| 4 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
-| 5 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
-| 6 | [40 Days](https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 3:15 |
-| 7 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 |
-| 8 | [The Lantern](https://open.spotify.com/track/7qj8mZU3xkiHldtxOz4Our) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1965\-1967](https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5) | 4:25 |
-| 9 | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/track/080ycKBJ1LcOY0Q5UKAGf6) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Alessandra Salinas](https://open.spotify.com/artist/75yUCGnQnc6K7fg7qptCkO) | [DON'T CALL THIS LUCK, THAT'S DISRESPECTFUL](https://open.spotify.com/album/0S6F6t2LaifS3ATo6N1Dmx) | 3:02 |
-| 10 | [Who Will Pray?](https://open.spotify.com/track/6CHaO7cERnB9P0GVTVcNDQ) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [We Came As Romans](https://open.spotify.com/album/2bb60qwBSPJRVW5w7hgSIX) | 3:23 |
-| 11 | [Dance With U](https://open.spotify.com/track/7admpnx6uCD1rkkcxlJEJH) | [Leo Brown](https://open.spotify.com/artist/44NtFX5OfUfdUIVYoGE3ND) | [Dance With U](https://open.spotify.com/album/48IwGFznorkRVpsRtqqatu) | 2:51 |
-| 12 | [Carnival](https://open.spotify.com/track/5TbDM1PBTyODDCTGEoDCxL) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Life \(Remastered\)](https://open.spotify.com/album/7uatFjjGOQoccdiFh8uOHx) | 3:36 |
+| 1 | [In The Shadow Of The Valley Of Death](https://open.spotify.com/track/7i99EGRhbAYb3njgRkmeIi) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Holy Wood \[International Version \(UK\)\]](https://open.spotify.com/album/16lx9kcFNxARXK1uVII9b7) | 4:09 |
+| 2 | [Something \(Practically\)](https://open.spotify.com/track/23uwpMxRrhQiLPzMkuOfBq) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [Something \(Practically\) / Tape My Mouth](https://open.spotify.com/album/4oZhA997LWyuwzpLtIdCEV) | 4:46 |
+| 3 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 |
+| 4 | [Distraction](https://open.spotify.com/track/3Jh5Eh8F3QQ4iVbymcBXKc) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Apocalyptica](https://open.spotify.com/album/62lYlptpx7mNVfcJT4B0br) | 3:56 |
+| 5 | [Ghost](https://open.spotify.com/track/5bWcHqWcvffvkjD6fKDKzY) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Alps](https://open.spotify.com/album/0vHOjAoABNzk4qlbBrcwac) | 3:44 |
+| 6 | [Crash Down](https://open.spotify.com/track/6rv4iqNjPnVgfGDoT74GsF) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Rise \(Deluxe Version\)](https://open.spotify.com/album/4V9EJcLkKs0iZvbhsfQbrc) | 3:22 |
+| 7 | [Perico](https://open.spotify.com/track/57LGhr0kY4isaQdv301bg6) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy) | [Perico](https://open.spotify.com/album/5eTqqeddLq4MH4QmRRbCql) | 3:34 |
+| 8 | [The Lake](https://open.spotify.com/track/4QFQUzdNfBadSHzI2tYFfu) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Blood on Ice](https://open.spotify.com/album/2UFmtZa9BZ4PWQCeXgo2jw) | 6:42 |
+| 9 | [Ladrón De Buena Suerte](https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:31 |
+| 10 | [El Frio Misterio \- Remaster 2002 / Album Version](https://open.spotify.com/track/1z9xCoVQQ4lrc7Z21ec9hI) | [Electrodomesticos](https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn) | [Grandes Exitos](https://open.spotify.com/album/4kvbUPVD7UJHKtqDiMsnBg) | 5:04 |
+| 11 | [UNTIL IT BREAKS \- Acapella](https://open.spotify.com/track/4E1qOPflKFdZCWSNiNTs18) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS: Acapellas and Instrumentals](https://open.spotify.com/album/7qRKpkP0jSOlBMLYZhAMCh) | 3:43 |
+| 12 | [Dancing in the Street \- 2002 Remaster](https://open.spotify.com/track/6FnuMo55jNECTDdS1nD5H0) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Dancing In The Street E.P.](https://open.spotify.com/album/25vNR2X4RTa0UJ9aKqaXqz) | 3:24 |
 
-Snapshot ID: `NzEsYmY3ZGM0MzIwY2ViMzFhODliNmVhYzNmYWM1MjE3ZmM4YjFkZTIxMQ==`
+Snapshot ID: `NzIsYzcxNTFiZmIzODc1YWQzYmMxMmRkMDY0NDIzNWQ2NjM4ODQzYTFmYQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 290788,
+  "num_followers": 290779,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTg3ZmYxOWRkYTYxMWE4YzA3ZTJkZjRhNzlhNTM3MjlmYTUxMjNl",
+  "snapshot_id": "MCw0ZGM5OGQ4YmI0YTlkY2E3OTFiNDZmMzM2MmZkMzIxNmI4MmUyZTI1",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Pensamento",
         "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 139200,
       "name": "Pensamento",
       "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -979,38 +979,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Inverso Deluxe",
-        "url": "https://open.spotify.com/album/3nFMC9ymV5tTd0AWBL5XJT"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Mc Maha",
-          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
-        },
-        {
-          "name": "Pascon",
-          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
-        }
-      ],
-      "duration_ms": 127631,
-      "name": "Plano B",
-      "url": "https://open.spotify.com/track/5HRh0H2ysMXXMwupxIYlzu"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
       },
@@ -1047,6 +1015,38 @@
       "duration_ms": 169868,
       "name": "FOME",
       "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Inverso Deluxe",
+        "url": "https://open.spotify.com/album/3nFMC9ymV5tTd0AWBL5XJT"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Mc Maha",
+          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        },
+        {
+          "name": "Pascon",
+          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
+        }
+      ],
+      "duration_ms": 127631,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/5HRh0H2ysMXXMwupxIYlzu"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2024-03-29 03:00:00",

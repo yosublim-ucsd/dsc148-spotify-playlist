@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-912 songs - 1 day 11 hr 28 min
+913 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Chill Sunday](https://open.spotify.com/track/73iDfMEG9TA3nUa4uimF5M) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Smoodmood](https://open.spotify.com/artist/5gWiSoKQnuzN6SzukwZhei), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Chill Sunday](https://open.spotify.com/album/3VDNyeqxKu5L5HsfMrSzv0) | 1:51 | 2023-01-20 | 2023-10-06 |
 | [chillin' at cosmic flight](https://open.spotify.com/track/5fxbWUC21KPOTVDfUVuyFF) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [chillin' at cosmic flight](https://open.spotify.com/album/3KVdh66EJZmY7jh41ydTNu) | 2:45 | 2022-05-13 | 2023-09-29 |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-04-15 | 2022-05-14 |
+| [choose to do](https://open.spotify.com/track/4CxeDRUKuzvFOOAvfq2jhe) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [choose to do](https://open.spotify.com/album/0bK9IWuEvpKjnrc3MOqFTy) | 2:20 | 2024-03-22 |  |
 | [Chrome](https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV) | [Mother Keem](https://open.spotify.com/artist/1URTwMVukB95vRmJwK9cWS) | [Chrome](https://open.spotify.com/album/0iMllOANJGQu2WNyZgpLIb) | 1:52 | 2024-03-01 |  |
 | [Cirrus](https://open.spotify.com/track/6ro25aEQrcKY8qo86jg8KN) | [Gemp](https://open.spotify.com/artist/7aGBJiUws3qcoRhY2lUizy) | [Cirrus](https://open.spotify.com/album/5SgQGMKFt3t6n1FdCucvji) | 2:23 | 2022-06-10 | 2022-07-08 |
 | [City Glow](https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [City Glow](https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d) | 2:55 | 2022-04-22 |  |
@@ -318,7 +319,7 @@
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-15 |  |
 | [hot sauce expert](https://open.spotify.com/track/6Y9htoJ4aK8doMsrfSjfZk) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [hot sauce expert](https://open.spotify.com/album/6ENsgfts4fxKpxve4szGlD) | 2:03 | 2024-01-12 |  |
 | [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 | 2022-11-11 | 2022-11-25 |
-| [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 | 2022-12-09 |  |
+| [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 | 2022-12-09 | 2024-04-01 |
 | [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 | 2022-11-11 | 2022-12-15 |
 | [human anatomy](https://open.spotify.com/track/4UL6Rt5I5des7YDW4nwrUD) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [human anatomy](https://open.spotify.com/album/4X5yOQEfWCZZlPnXPPYQAK) | 2:20 | 2023-04-03 |  |
 | [Hush](https://open.spotify.com/track/4AAxteXXwBqVchz26932uB) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Hush](https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay) | 2:24 | 2023-09-29 |  |

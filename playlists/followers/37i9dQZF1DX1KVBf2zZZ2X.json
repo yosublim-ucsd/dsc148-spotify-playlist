@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 38181,
+  "2024-04-01": 38387,
   "date_first_scraped": "2023-04-03",
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
   "name": "Soft Nature Music",
@@ -165,6 +165,24 @@
       "duration_ms": 118000,
       "name": "Amicitia",
       "url": "https://open.spotify.com/track/4tARuHIlzeVp0XCdz2QlRj"
+    },
+    {
+      "album": {
+        "name": "Ancient Canopy (Forest)",
+        "url": "https://open.spotify.com/album/7u6Zi2FR0K3xYJ1efkel9h"
+      },
+      "artists": [
+        {
+          "name": "Asajj Sadie",
+          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Ancient Canopy (Forest)",
+      "url": "https://open.spotify.com/track/0UO8UzZOloodYVBliWxzA1"
     },
     {
       "album": {
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 147786,
       "name": "Nova",
       "url": "https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E"

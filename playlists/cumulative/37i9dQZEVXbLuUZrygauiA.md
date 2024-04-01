@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,797 songs - 4 day 1 hr 7 min
+1,798 songs - 4 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [Gravity](https://open.spotify.com/track/44LVgFZvUcBYo98vy71tvd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Talk](https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS) | 6:20 | 2022-03-29 | 2022-04-09 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-05 | 2023-11-01 |
+| [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 | 2024-03-31 |  |
 | [Gustarme Tanto](https://open.spotify.com/track/0fcibnTsBtSPMqLLsrwdPh) | [Zcar JPG](https://open.spotify.com/artist/2ob3mlhTI7y5BZXVmjIL18) | [Gustarme Tanto](https://open.spotify.com/album/1ui8WIFvvrwID8raHWwiQf) | 1:54 | 2024-01-19 | 2024-02-12 |
 | [Hala Madrid ...y nada más](https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC) | [Real Madrid](https://open.spotify.com/artist/52tiVHeB0x2XvFAyajG1BZ), [Red'One](https://open.spotify.com/artist/26quetZGT3Ru0s5nJNSbCB) | [Hala Madrid ...y nada más](https://open.spotify.com/album/3P5MjGvpfwLCz0VBciW86q) | 2:57 | 2022-05-31 | 2022-06-06 |
 | [Halloween Theme](https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Cody Carpenter](https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg), [Daniel Davies](https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP) | [Halloween \(Original 2018 Motion Picture Soundtrack\)](https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM) | 3:02 | 2023-11-02 | 2023-11-07 |
@@ -1177,7 +1178,7 @@
 | [Pal Amor Soy Malo](https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pal Amor Soy Malo](https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC) | 2:36 | 2023-08-08 | 2023-09-15 |
 | [Pal Amor Soy Malo \- Remix](https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Pal Amor Soy Malo \(Remix\)](https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF) | 2:36 | 2023-09-14 | 2023-10-04 |
 | [Paloma Ajena](https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj) | [La Banda Tecno De Beto Y Juan](https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I) | [Cumbia Con Clase](https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop) | 4:14 | 2024-02-25 | 2024-03-24 |
-| [Paloma Ajena](https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk) | [La Banda Tecno De Beto Y Juan](https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I) | [Cumbia Con Clase](https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy) | 4:14 | 2024-03-23 |  |
+| [Paloma Ajena](https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk) | [La Banda Tecno De Beto Y Juan](https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I) | [Cumbia Con Clase](https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy) | 4:14 | 2024-03-23 | 2024-04-01 |
 | [Pan de Muerto](https://open.spotify.com/track/6LtNv6UPBAuaT5ZWMDCkOt) | [Charlie Canta Cuentos](https://open.spotify.com/artist/4bTM2bvYn0pD4PVmjsGz21) | [La Leyenda de la Nahuala](https://open.spotify.com/album/3m9YAAwSgtX89SYG4y67VL) | 3:52 | 2023-11-04 | 2023-11-08 |
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-02-21 | 2023-03-01 |
 | [Pantano](https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Pantano](https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad) | 3:20 | 2022-03-26 | 2022-04-20 |

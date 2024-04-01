@@ -4,7 +4,7 @@
 
 > Fresh takes\- from new revisions and iconic covers to unexpected versions.
 
-100 songs - 5 hr 0 min
+101 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [You Win Again](https://open.spotify.com/track/4YPF5mxTXI5layiJPmYjV4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Basement Tapes Complete: The Bootleg Series, Vol\. 11 \(Deluxe Edition\)](https://open.spotify.com/album/5a8SaZSkhxar6eYgd5u3o9) | 2:43 | 2023-09-15 |  |
 | [You Win Again](https://open.spotify.com/track/2exOOQqpfyXCir3bXvchOc) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Saturday Night With Conway Twitty](https://open.spotify.com/album/2ZPDIeahJBQKQqUCUJrDec) | 2:24 | 2023-09-15 |  |
 | [You Win Again](https://open.spotify.com/track/1ZpeTgQwYgLwDxx8pmMFzq) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [You Don't Know Me](https://open.spotify.com/album/3bzZVajbaLMuDW8EO3si8O) | 3:18 | 2023-09-15 |  |
-| [You Win Again](https://open.spotify.com/track/4y8ywNIMdbvewiSbdKwx0o) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:22 | 2023-09-15 |  |
+| [You Win Again](https://open.spotify.com/track/4y8ywNIMdbvewiSbdKwx0o) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:22 | 2023-09-15 | 2024-04-01 |
+| [You Win Again](https://open.spotify.com/track/36qLSZ1LLlLb51neyv7cUn) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:21 | 2023-09-15 |  |
 | [You Win Again](https://open.spotify.com/track/5h46D4Wj4jI8SmAbnoCPlH) | [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [Hank Williams Timeless](https://open.spotify.com/album/6Wuq8Fn9q0QmTchA8xnR3L) | 4:30 | 2023-09-15 |  |
 | [You Win Again](https://open.spotify.com/track/0nUpzEu5Z38n2h56Rge8Db) | [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [Best of Hank Wilson](https://open.spotify.com/album/216X79IbZ4SkB6vJdscvEo) | 3:13 | 2023-09-15 |  |
 | [You're Gonna Change \- 2002 Remaster](https://open.spotify.com/track/2Zu3QKzcz94qTMyHcrEjgF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Roses in the Snow \(Deluxe Edition\)](https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O) | 2:37 | 2023-09-15 |  |

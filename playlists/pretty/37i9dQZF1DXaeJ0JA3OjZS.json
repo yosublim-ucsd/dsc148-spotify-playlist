@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 105863,
+  "num_followers": 106159,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTc3ODRiZGMwNThiNTEwZjAyOGYwN2UwNDkwY2RiM2M3NzJiOGJk",
+  "snapshot_id": "MCw1Mjc0ZTJjYmIyMjdmNzg0ZGIwZDE5ODYyYzMzYWZjYThlOTUyNDE1",
   "tracks": [
     {
       "added_at": "2024-02-23 17:17:16",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175778,
-      "name": "Cuadra los Parientes - En Vivo",
-      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
         "name": "Corridos de Caballos",
         "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 243500,
       "name": "El 2 Estados",
       "url": "https://open.spotify.com/track/42qBJPH22Hdw0e3yqPTU2q"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175778,
+      "name": "Cuadra los Parientes - En Vivo",
+      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
       },
       "artists": [
         {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
         }
       ],
-      "duration_ms": 138130,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH"
+      "duration_ms": 205165,
+      "name": "El Moro de Cumpas",
+      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
       },
       "artists": [
         {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
         }
       ],
-      "duration_ms": 205165,
-      "name": "El Moro de Cumpas",
-      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
+      "duration_ms": 138130,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 165341,
       "name": "Mi Caballo Pobre",
       "url": "https://open.spotify.com/track/2CzhEXk8qVDbvzF2Czy5wk"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "El Herradero - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 276760,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "El Herradero - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
     },
     {
       "added_at": "2024-02-23 17:17:16",

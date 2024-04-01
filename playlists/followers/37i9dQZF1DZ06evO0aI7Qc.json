@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 273343,
+  "2024-04-01": 273599,
   "date_first_scraped": "2022-06-02",
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
   "name": "This Is Luis R Conriquez",
@@ -1989,6 +1989,28 @@
       "duration_ms": 151104,
       "name": "Los Pajaros (En Vivo)",
       "url": "https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf"
+    },
+    {
+      "album": {
+        "name": "Mala Leche",
+        "url": "https://open.spotify.com/album/2oKkq5YYPnzXZAWyFsz6yM"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151957,
+      "name": "Mala Leche",
+      "url": "https://open.spotify.com/track/2eZmL5cT6dapzGGiJURZxT"
     },
     {
       "album": {

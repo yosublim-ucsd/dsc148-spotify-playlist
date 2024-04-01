@@ -9085,6 +9085,40 @@
     },
     {
       "album": {
+        "name": "Lineman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nJvtkOE5xy4LNW82AJaVl"
+      },
+      "artists": [
+        {
+          "name": "Lekha. R",
+          "url": "https://open.spotify.com/artist/2W0ClaxNGHOk1I8ceMxX9R"
+        },
+        {
+          "name": "Rishan Deepak",
+          "url": "https://open.spotify.com/artist/52K2m7dAzmUYZhbI3ZhZwW"
+        },
+        {
+          "name": "Anushka M",
+          "url": "https://open.spotify.com/artist/0sQI6lZ23Pk88G4wmlCbW6"
+        },
+        {
+          "name": "Achintya K Bhat",
+          "url": "https://open.spotify.com/artist/433Hy4e7ShqMxQu3e4LtMd"
+        },
+        {
+          "name": "School Teacher",
+          "url": "https://open.spotify.com/artist/2LorSF0rNxklS1tXKn1xQd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144071,
+      "name": "Happy Birthday London Sparrow",
+      "url": "https://open.spotify.com/track/49ZFsBxIpNiQXm93yZHhY0"
+    },
+    {
+      "album": {
         "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
         "url": "https://open.spotify.com/album/7CM0HHVTI6lXDIow8uizGT"
       },
@@ -13846,7 +13880,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 144071,
       "name": "London Sparrow (From \"Lineman\")",
       "url": "https://open.spotify.com/track/31HZKevJLqUiSj63X73J54"

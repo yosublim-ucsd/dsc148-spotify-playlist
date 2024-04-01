@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-880 songs - 2 day 6 hr 52 min
+881 songs - 2 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [A King To Rise](https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [A King To Rise](https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG) | 3:08 | 2022-06-10 | 2022-09-03 |
 | [A Mind Short Circuiting](https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [A Mind Short Circuiting](https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ) | 4:27 | 2024-03-01 |  |
 | [A Night in Hell](https://open.spotify.com/track/78dflnXmmb9kBDNk7XIdYn) | [Deathbeds AU](https://open.spotify.com/artist/2CA3NHP7ecfgsgczb2TApg), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [A Night in Hell](https://open.spotify.com/album/1W4QsTaFs8zjnQg2mhizEk) | 3:32 | 2022-07-13 | 2022-07-23 |
-| [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/03bMtNTGGn75YAMuiNT4zM) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/album/0YJse223Mkv5Ie0nTU4r3v) | 3:23 | 2024-03-01 |  |
+| [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/03bMtNTGGn75YAMuiNT4zM) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/album/0YJse223Mkv5Ie0nTU4r3v) | 3:23 | 2024-03-01 | 2024-04-01 |
+| [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/0NuzLCfyqRnN8hAgw7rAPJ) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Death Is Little More](https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ) | 3:23 | 2024-03-08 |  |
 | [A Shot in the Dark](https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Shot in the Dark](https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u) | 3:12 | 2022-04-08 | 2022-05-21 |
 | [A Stranger I Remain](https://open.spotify.com/track/0YOGApjOdX5BrFKxmccUyT) | [GO!! Light Up!](https://open.spotify.com/artist/1hIAVfmKI8rbfgdO1EQG1c) | [A Stranger I Remain](https://open.spotify.com/album/3apA50v3LWM6VILq8yl1Zj) | 3:33 | 2022-04-01 | 2022-06-11 |
 | [A Vigil for the Living](https://open.spotify.com/track/5HRTORbVTL0VsUkpgxY2R8) | [Census](https://open.spotify.com/artist/0o2Xha4B3DDLDiP0J6naoZ) | [A Vigil for the Living](https://open.spotify.com/album/01eDgrFRR4sc96XbSyM9uN) | 3:02 | 2021-12-17 | 2022-01-22 |

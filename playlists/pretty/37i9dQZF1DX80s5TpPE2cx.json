@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 9284,
+  "num_followers": 9297,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmNlYTBkYjY2NGVlNDg2OWVmNThhZmQ0NTNlN2NmYTMxZWFiNDJl",
+  "snapshot_id": "MCxmMTJkMWI3NGUzZTVhZTRjMDhlY2ExZTcxNjYwMjk2YjZmY2ZlYTNm",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1043,18 +1043,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Sunsets in Lagos",
-        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
+        "name": "MASTA",
+        "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
       },
       "artists": [
         {
-          "name": "Bella Alubo",
-          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 223896,
-      "name": "Aiya",
-      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
+      "duration_ms": 210000,
+      "name": "Tighter",
+      "url": "https://open.spotify.com/track/6mDGTjuEKhX8TtcLD4NMpA"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "MASTA",
-        "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
+        "name": "Sunsets in Lagos",
+        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
       },
       "artists": [
         {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Tighter",
-      "url": "https://open.spotify.com/track/6mDGTjuEKhX8TtcLD4NMpA"
+      "duration_ms": 223896,
+      "name": "Aiya",
+      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
     },
     {
       "added_at": "2024-03-01 00:01:00",

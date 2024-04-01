@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,643 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,908 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 59 | [Eu Sou Free](https://open.spotify.com/track/7yaAq7FKFtjrndst1JTNoA) | [Sempre Livre](https://open.spotify.com/artist/5CorrQPbOid8RKf5rCpxG7) | [Avião De Combate](https://open.spotify.com/album/6TE19Nr6Sf1SLBuCdBzynG) | 3:47 |
 | 60 | [Adelaide \(You'll Be Illin'\)](https://open.spotify.com/track/4Ih8VpfrjulVJteZTXOJHS) | [Inimigos Do Rei](https://open.spotify.com/artist/6vTljcFMuDleItFOuSKoyj) | [Inimigos Do Rei](https://open.spotify.com/album/1gc8qtJ5R7lzKYIHu96EZj) | 3:15 |
 
-Snapshot ID: `MCxiZDgzOTYzNGFkY2NlNTcwMzhiZjkxNGMzOGYxMGE0ZTY4ZGM4MTJi`
+Snapshot ID: `MCxlM2VkMjBjZjk0Yjk0OWY5ZGMzMTg5NDQyNDFlNjc2ZjRiZDBjNjI0`

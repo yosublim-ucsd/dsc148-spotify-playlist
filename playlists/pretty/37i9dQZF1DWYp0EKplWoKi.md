@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde las estrellas de la Música Mexicana se juntan\. MC Davo y Los Dos Carnales en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,689 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,710 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [LEYENDA](https://open.spotify.com/track/45LzMBMAtMP6IeWBqd8mUR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/69TuNGeXi7iah9B755lakY) | 4:48 |
 | 50 | [Cerramos la Gucci](https://open.spotify.com/track/548CEsTMQebmJBXscI8X11) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Cerramos La Gucci](https://open.spotify.com/album/3z9FUdR7OZKVgjlOBNq0mK) | 3:02 |
 
-Snapshot ID: `MCwwMjYxYTNmMDAzY2E4ZDFhYTMxNjdhZTE2YjNiMjc0N2EwYThhMjIx`
+Snapshot ID: `MCwzMDhhYjM2NmUyMWVmN2I4MWUxZTM2M2JhNjk0MWJlOTA3NjAwNjFm`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,906 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,935 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
 | 2 | [Twist à Saint\-Tropez](https://open.spotify.com/track/5zUJlRQyzxw09Jv1hDgL5h) | [Les Chats Sauvages](https://open.spotify.com/artist/60U5Nsvpj5mJics5PcIkmd), [Dick Rivers](https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR) | [Est\-ce que tu le sais ? \(avec Dick Rivers\)](https://open.spotify.com/album/2eusU9U7fLiHhsQwoiFiou) | 1:44 |
-| 3 | [Itsi bitsi petit bikini](https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 2:16 |
+| 3 | [Itsi bitsi, petit bikini \(Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini\)](https://open.spotify.com/track/6eR0yZIqp05NEuHoXYF6lh) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Garde\-moi la dernière danse](https://open.spotify.com/album/04wABefhL8JQa2Ey3zUuHS) | 2:18 |
 | 4 | [Souvenirs, souvenirs](https://open.spotify.com/track/1DDdDbmbEDsFXEXgxBmvFQ) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Souvenirs, Souvenirs](https://open.spotify.com/album/55wZUMJJK62Yb1QoQK7imL) | 2:09 |
 | 5 | [Harley Davidson](https://open.spotify.com/track/0wXKL7dVWwl8LZjbhKMGPr) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot Show 67](https://open.spotify.com/album/0uhqJFy7MI5yJHdgofylnN) | 2:28 |
 | 6 | [J'entends siffler le train](https://open.spotify.com/track/487LFx8UVLxUsDAdetnCp2) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [les plus belles chansons](https://open.spotify.com/album/0dvnB0KschqGz0ezdnWsmO) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/5dPrYYQcqfZh3Wg3cnS43w) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MCxlZmEyMzRhYWIwYmQzYmE3ODQ0M2ZiMTI2YTFlOTFlY2M2MGZjNmUz`
+Snapshot ID: `MCxlMGFiOTMzY2Y2Mzk0YzBmYmUyMjZjNzIyODUzMjM3ZWYyMWVhN2I0`

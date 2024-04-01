@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Djo
 
-1,331 songs - 3 day 3 hr 36 min
+1,332 songs - 3 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-14 |  |
 | [Close Quarters](https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters](https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif) | 3:40 | 2023-10-19 | 2024-01-26 |
 | [Clueless In Suburbia](https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Clueless In Suburbia](https://open.spotify.com/album/1BMcInMvgt6NOxxcWvv1hz) | 3:17 | 2022-01-26 | 2022-03-11 |
-| [Coasting On Fumes](https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Coasting On Fumes](https://open.spotify.com/album/1qoYoRgVcg7bdx41TQjJ0z) | 3:46 | 2024-03-14 |  |
+| [Coasting On Fumes](https://open.spotify.com/track/2ugm5xrknLV6xum8cN5zGb) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [What's For Breakfast?](https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3) | 3:46 | 2024-03-25 |  |
+| [Coasting On Fumes](https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Coasting On Fumes](https://open.spotify.com/album/1qoYoRgVcg7bdx41TQjJ0z) | 3:46 | 2024-03-14 | 2024-04-01 |
 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 | 2022-12-22 | 2023-03-25 |
 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 | 2023-04-06 | 2023-04-14 |
 | [Cold Touch](https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Cold Touch](https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj) | 2:10 | 2023-05-18 | 2023-06-30 |

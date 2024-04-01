@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14400,
+  "num_followers": 14404,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWVkOWQwYjkwMGRlZGEyYzM3YmY3YTkyYWZmYmZjYmE0N2ExY2Y0",
+  "snapshot_id": "MCw5NTY3M2FkMTViOTgwZGVhZjhhYTI4OTk1YmRhYWI3Yjg3YmQzYWQy",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SO COOL",
-        "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 201273,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "A bicycle Ride",
         "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 222853,
       "name": "Me to You, You to Me",
       "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "SO COOL",
+        "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 201273,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Atlantis Princess - The 3rd Album",
-        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Atlantis Princess",
-      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "\uace0\ubc31\ud558\uae30 \uc88b\uc740 \ub0a0",
         "url": "https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 228153,
       "name": "\ube44\ubc00\ubc88\ud638 486",
       "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Girls On Top",
-        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Girls On Top",
-      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "F.Scott Fitzgerald's Way Of Love",
         "url": "https://open.spotify.com/album/1CZPjxxCPflMkO5c1brcPb"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 222171,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Story of someone I know",
+        "url": "https://open.spotify.com/album/6sfusYb200S4DfUMfaM3Sh"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Story of someone I know",
+      "url": "https://open.spotify.com/track/6qnOvA4WbP3HdYd1DFRoCr"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Ames Room",
         "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 263079,
       "name": "Then Then Then",
       "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Story of someone I know",
-        "url": "https://open.spotify.com/album/6sfusYb200S4DfUMfaM3Sh"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Story of someone I know",
-      "url": "https://open.spotify.com/track/6qnOvA4WbP3HdYd1DFRoCr"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -943,6 +943,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Hi~",
+        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Hi~",
+      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Hi~",
-        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
       },
       "artists": [
         {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 207426,
-      "name": "Hi~",
-      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
+      "duration_ms": 252906,
+      "name": "\ucc28\ub9c8...",
+      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1023,22 +1039,6 @@
       "duration_ms": 278400,
       "name": "\uae30\ub300",
       "url": "https://open.spotify.com/track/1Y85YkVzlmqXXZsj1XE1EF"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "\ucc28\ub9c8...",
-      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Shady Girl",
-        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "Shady Girl",
-      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Chapter 5 Letter",
         "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 228866,
       "name": "0%",
       "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Shady Girl",
+        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "Shady Girl",
+      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Digital Bounce",
-        "url": "https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6"
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
       "artists": [
         {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
         }
       ],
-      "duration_ms": 218120,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u"
+      "duration_ms": 259626,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Like The Bible",
-        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+        "name": "Digital Bounce",
+        "url": "https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6"
       },
       "artists": [
         {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
         }
       ],
-      "duration_ms": 259626,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
+      "duration_ms": 218120,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1399,6 +1399,22 @@
       "duration_ms": 220760,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Stylish\u2026",
+        "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 240658,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/6zWL2EkbtZMcE0XcKMUxDJ"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1435,22 +1451,6 @@
       "duration_ms": 234841,
       "name": "An old love story",
       "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Stylish\u2026",
-        "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 240658,
-      "name": "Hey Girl",
-      "url": "https://open.spotify.com/track/6zWL2EkbtZMcE0XcKMUxDJ"
     },
     {
       "added_at": "2021-03-11 16:26:11",

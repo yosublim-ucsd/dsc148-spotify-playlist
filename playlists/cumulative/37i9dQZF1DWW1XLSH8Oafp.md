@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Two Shell
 
-857 songs - 1 day 23 hr 54 min
+858 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [BFF ∞](https://open.spotify.com/track/6ZD4kUMlsur1pzcyLUAJR8) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [STARBORN \(mixtape\)](https://open.spotify.com/album/0yPEAiOzEmWEDeRd1tj78N) | 1:59 | 2023-04-14 | 2023-10-06 |
 | [Bicstan](https://open.spotify.com/track/0b6WQuGWBGaRvAReIbx4uT) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar \(Megamix\)](https://open.spotify.com/album/3fvbf15lOAF0RcVQ84X7ow) | 4:45 | 2022-07-01 | 2022-11-12 |
 | [big ballin](https://open.spotify.com/track/7jYd6GwT72RhhKMTZ64Z1H) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [big ballin](https://open.spotify.com/album/3ZmWgh6RplgIZS69iOOMnO) | 2:15 | 2023-02-27 | 2023-09-15 |
-| [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 | 2024-01-29 |  |
+| [BLINDED](https://open.spotify.com/track/1UiqtkLyYSF9RSXvkBskGy) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [BLINDED \(ONLYTHENEXT Remix\)](https://open.spotify.com/album/1Ngx2Q24qZR1opZ3N1diH2) | 4:00 | 2024-03-25 |  |
+| [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 | 2024-01-29 | 2024-04-01 |
 | [BLOOD SUPERNOVA](https://open.spotify.com/track/335asThakDPPTHFVxMEeDn) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [BLOOD SUPERNOVA](https://open.spotify.com/album/4cnfIsqfpYz51KPKZUG07m) | 3:58 | 2022-06-24 | 2022-08-06 |
 | [Bloodrave](https://open.spotify.com/track/7o6xRFPRYBVcoI7NnBGlbn) | [TRANCEMAN2000](https://open.spotify.com/artist/6s9u44nih7GcT9kXBqM2Xr) | [001](https://open.spotify.com/album/41on8glM4XHdCbjvncuBwQ) | 6:33 | 2022-11-03 | 2023-06-23 |
 | [bloody mary](https://open.spotify.com/track/4UpfzD7yre0D0JKpnzjRE5) | [2504](https://open.spotify.com/artist/3s6Gdmnv9MuQNX2E7i5EMr), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX), [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [bloody mary](https://open.spotify.com/album/0xmKvBjH3CSOG6tKdpoMAY) | 2:09 | 2023-11-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503 likes - 76 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,590 likes - 76 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 75 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 |
 | 76 | [NGL](https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 4:00 |
 
-Snapshot ID: `MCw4Zjc2NzU3YmIxZmNlMGIwNzY4NDQyM2FkMDQzOGRkMGNkMGUzY2Mw`
+Snapshot ID: `MCw5ODdmNDlhM2Y3YzU4YjA4NDYyZDQzOTAzMTkyZTcyOWE1ZjVlYzg1`

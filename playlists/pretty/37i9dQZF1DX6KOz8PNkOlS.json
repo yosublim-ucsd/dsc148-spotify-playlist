@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 447943,
+  "num_followers": 448110,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTI1YmYzYmQ5ZjNiNGUxZTdiZTczOWQ4YjIyYzU1YmEyMDVlNTU1",
+  "snapshot_id": "MCw0ZmQ1NTZiMDZjY2VlMTQ4MjJkNTQwY2U2YjkwOGYyZDNlYmM4OTEx",
   "tracks": [
     {
       "added_at": "2023-09-25 02:25:33",
@@ -709,6 +709,26 @@
       "url": "https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b"
     },
     {
+      "added_at": "2023-06-02 02:31:02",
+      "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Origin (Deluxe Edition)",
@@ -759,26 +779,6 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
-    },
-    {
-      "added_at": "2023-06-02 02:31:02",
-      "album": {
-        "name": "You Knew",
-        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Where Do You Go",
-        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Do You Love Her Now / He",
         "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 274995,
       "name": "Do You Love Her Now",
       "url": "https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
       "added_at": "2023-04-05 03:20:02",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Aliso",
-        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
-      },
-      "artists": [
-        {
-          "name": "Malena Zavala",
-          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "If It Goes",
-      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
-    },
-    {
       "added_at": "2022-09-09 13:33:50",
       "album": {
         "name": "Look To Him",
@@ -995,6 +979,22 @@
       "duration_ms": 251533,
       "name": "Look To Him",
       "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Aliso",
+        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
+      },
+      "artists": [
+        {
+          "name": "Malena Zavala",
+          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "If It Goes",
+      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 228694,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
-    },
-    {
       "added_at": "2023-03-30 03:13:10",
       "album": {
         "name": "Mormor",
@@ -1243,6 +1227,22 @@
       "duration_ms": 133377,
       "name": "Bayou",
       "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
     },
     {
       "added_at": "2022-09-29 00:10:44",
@@ -1665,6 +1665,26 @@
       "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
+    },
+    {
       "added_at": "2022-01-26 18:13:44",
       "album": {
         "name": "Saturday Yawning",
@@ -1695,26 +1715,6 @@
       "duration_ms": 198084,
       "name": "Tru Love",
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Denitia",
-          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
     },
     {
       "added_at": "2021-10-15 03:01:31",

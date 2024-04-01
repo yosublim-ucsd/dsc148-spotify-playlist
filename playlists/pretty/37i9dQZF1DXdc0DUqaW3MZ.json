@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 333649,
+  "num_followers": 333739,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTIxYTkxNGI2MzllMjE5ODkyYTljOGI0ZWFmNDcwMzhkOTg1ZDA0",
+  "snapshot_id": "MCwyNDVlZTYzYmFjNTkxNzRlODA1YTI3ZTk0YzcwYTAwMzVjN2ExYzJh",
   "tracks": [
     {
       "added_at": "2024-03-22 15:38:32",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
         "name": "Sweating",
         "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 204685,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
     },
     {
       "added_at": "2024-03-22 15:38:32",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
         "name": "Holier (JD. REID Remix feat. Shygirl)",
         "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "People",
-      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
-        "name": "FYO",
-        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 164963,
-      "name": "FYO",
-      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
     },
     {
       "added_at": "2024-03-22 15:38:32",
@@ -1155,6 +1139,22 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
+        "name": "FYO",
+        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 164963,
+      "name": "FYO",
+      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
     },
     {
       "added_at": "2024-03-22 15:38:32",

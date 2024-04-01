@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Shakira está en el Top 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,577 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,876 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [HUMO](https://open.spotify.com/track/6H4LDyUCXw8uiWXaDCNM1Z) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [HUMO](https://open.spotify.com/album/6R9iJwxP9e2XBEsMYlXXqt) | 1:50 |
 | 100 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
 
-Snapshot ID: `MCw5YjZiYzc3ZTFkNmZlYzhiOGRmYTRhMTljYjgxMTdiN2IzYjlhMTUw`
+Snapshot ID: `MCwyNThiOWU3NzZiMzFiODgwNWMwM2VhNDQ0OTAwODIxZDJkOGRjYjQx`

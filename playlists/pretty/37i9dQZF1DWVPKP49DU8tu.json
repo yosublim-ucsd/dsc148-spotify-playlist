@@ -1,12 +1,12 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 356580,
+  "num_followers": 356626,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2YyYjkzODgwMjYwYTg4MDk3Y2FjY2JlNzJlODdhODE3NjEwZTcz",
+  "snapshot_id": "MCw0N2JjYjFiMmNhNmYyYjlmYWQ2ZTI1MDhmNWRlMTEwMDA0NmExYjNk",
   "tracks": [
     {
       "added_at": "2024-03-27 14:38:52",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Know-It-All",
-        "url": "https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Know-It-All",
+        "url": "https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 277476,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Tutto Qui",
-        "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 211783,
-      "name": "Tutto Qui",
-      "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Tutto Qui",
+        "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 211783,
+      "name": "Tutto Qui",
+      "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Onda Alta",
-        "url": "https://open.spotify.com/album/0VXxWeYHwVAP2HiOBG5Evx"
-      },
-      "artists": [
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 214556,
-      "name": "Onda Alta",
-      "url": "https://open.spotify.com/track/586qiIWHIkjYnfwnIAFY38"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Escapology",
         "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 263866,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Onda Alta",
+        "url": "https://open.spotify.com/album/0VXxWeYHwVAP2HiOBG5Evx"
+      },
+      "artists": [
+        {
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+        }
+      ],
+      "duration_ms": 214556,
+      "name": "Onda Alta",
+      "url": "https://open.spotify.com/track/586qiIWHIkjYnfwnIAFY38"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "DUE ALTALENE",
-        "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "DUE ALTALENE",
-      "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -1511,22 +1495,18 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
+        "name": "DUE ALTALENE",
+        "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
         }
       ],
-      "duration_ms": 156346,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
+      "duration_ms": 197142,
+      "name": "DUE ALTALENE",
+      "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1543,6 +1523,26 @@
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 156346,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1583,38 +1583,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Pazza",
-        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
-      },
-      "artists": [
-        {
-          "name": "Loredana Bert\u00e8",
-          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
-        }
-      ],
-      "duration_ms": 168166,
-      "name": "Pazza",
-      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
       },
@@ -1627,6 +1595,22 @@
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Pazza",
+        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "duration_ms": 168166,
+      "name": "Pazza",
+      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1647,6 +1631,22 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2024-03-27 14:38:52",

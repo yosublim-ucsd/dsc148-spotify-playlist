@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,991 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,046 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 40 | [Where The Love Go?](https://open.spotify.com/track/6AcH0LfJlSzhHQqzWaxU5Y) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:20 |
 | 41 | [Hit My Line](https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [Hit My Line](https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5) | 2:27 |
 | 42 | [God Good](https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [God Good](https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG) | 2:33 |
-| 43 | [BLESSINGS](https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN) | [MTM Isaiah](https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy) | [BLESSINGS](https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6) | 2:52 |
-| 44 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
+| 43 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
+| 44 | [BLESSINGS](https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN) | [MTM Isaiah](https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy) | [BLESSINGS](https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6) | 2:52 |
 | 45 | [Nothin to Do with It](https://open.spotify.com/track/0Topatv6lvMQE8DKtETF3e) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Nothin to Do with It](https://open.spotify.com/album/1yY41P2uR08Ymc14y4j4Jj) | 2:29 |
 | 46 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 |
 | 47 | [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 50 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
 | 51 | [NO WEAPON](https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [NO WEAPON](https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF) | 3:44 |
 | 52 | [Tricky](https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Tricky](https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB) | 2:12 |
-| 53 | [Respect My Team](https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Respect My Team](https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe) | 3:47 |
+| 53 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 |
 | 54 | [Pray for Me](https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pray for Me](https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H) | 2:45 |
-| 55 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 |
+| 55 | [Respect My Team](https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Respect My Team](https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe) | 3:47 |
 | 56 | [They Didn’t Know II](https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [They Didn’t Know II](https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA) | 2:58 |
 | 57 | [Slidin'](https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [H O L O G R A P H I C](https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm) | 2:44 |
 | 58 | [CATFISH](https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CATFISH](https://open.spotify.com/album/2a9DwZ7PIgBX9sV956vyID) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [KIDS](https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [KIDS](https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh) | 2:13 |
 | 100 | [Clean](https://open.spotify.com/track/5brNzhgKWKCFlEcaFAScQD) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/33JIrFLH6BC8tX6Uus6iNm) | 2:48 |
 
-Snapshot ID: `MCw0NTE3ZjkwODc4ZWY5ZGE0ZDJkOWE2ODEzZWMwYmIwMTBmMWUwMTVh`
+Snapshot ID: `MCxhOTVkZmM3OTE2ZWFkMDA0YWViMzU2MWY0MWI2YzcyMDE5YjE0OGM0`

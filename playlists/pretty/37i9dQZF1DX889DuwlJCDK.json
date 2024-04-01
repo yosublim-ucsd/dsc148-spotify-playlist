@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: This Is LAST",
-  "num_followers": 12654,
+  "num_followers": 12668,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjg0YzJkNTQzYTJkMWEwZjkzOGI5MmEyZjU5YWFmNjZjYTQwMzkz",
+  "snapshot_id": "MCw5NTFkNTk3OGQ5YTM5ODI1NTc3YTE4MDc5NzAwMWYzNDJjNzUxMGVi",
   "tracks": [
     {
       "added_at": "2024-03-26 17:58:57",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-26 17:58:57",
       "album": {
-        "name": "\u9762\u5f71",
-        "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
-      },
-      "artists": [
-        {
-          "name": "Novelbright",
-          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "\u9762\u5f71",
-      "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
-    },
-    {
-      "added_at": "2024-03-26 17:58:57",
-      "album": {
         "name": "\u30ea\u30ab",
         "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 216366,
       "name": "\u30ea\u30ab",
       "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
+    },
+    {
+      "added_at": "2024-03-26 17:58:57",
+      "album": {
+        "name": "\u9762\u5f71",
+        "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "\u9762\u5f71",
+      "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
     },
     {
       "added_at": "2024-03-26 17:58:57",

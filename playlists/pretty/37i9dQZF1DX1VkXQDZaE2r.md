@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,824 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,830 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 3 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 4 | [Le bracelet](https://open.spotify.com/track/04uauFxLrz9VTsqQpsGKMa) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:27 |
 | 5 | [Elena's Sound\-World](https://open.spotify.com/track/7gpa2umN5eZhM40DOB3L0z) | [Sinoia Caves](https://open.spotify.com/artist/3PiClMYSnMYHCc2T11m9cd) | [Beyond The Black Rainbow \- Original Soundtrack](https://open.spotify.com/album/5cbwOeQ5ScNqV942hoet9P) | 5:10 |
-| 6 | [Cannibal Holocaust \(Main Theme\)](https://open.spotify.com/track/3N9fFHXzJXzdmDzb4iYm8y) | [Riz Ortolani](https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG) | [Cannibal Holocaust](https://open.spotify.com/album/5Lyyt4rsAUOPXOJavlJ2XV) | 2:57 |
-| 7 | [La ragazza dalla pelle di luna \- Extended Version](https://open.spotify.com/track/2kdEQFbmRUPL4AQdjytPMZ) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La ragazza dalla pelle di luna](https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg) | 3:25 |
+| 6 | [La ragazza dalla pelle di luna \- Extended Version](https://open.spotify.com/track/2kdEQFbmRUPL4AQdjytPMZ) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La ragazza dalla pelle di luna](https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg) | 3:25 |
+| 7 | [Cannibal Holocaust \(Main Theme\)](https://open.spotify.com/track/3N9fFHXzJXzdmDzb4iYm8y) | [Riz Ortolani](https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG) | [Cannibal Holocaust](https://open.spotify.com/album/5Lyyt4rsAUOPXOJavlJ2XV) | 2:57 |
 | 8 | [Deja Vu](https://open.spotify.com/track/2GSXCJIdyPZJoRynXpwkvn) | [Ataraxia](https://open.spotify.com/artist/5kn8t9YN76msojqGv6hgIz), [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [The Unexplained](https://open.spotify.com/album/5CYVndFVBDUo22RBVUXxAn) | 3:19 |
 | 9 | [Eclisse Slow \- From "L'eclisse" Original Soundtrack](https://open.spotify.com/track/69BaxWBmAUjcV7sIcjPpRe) | [Giovanni Fusco](https://open.spotify.com/artist/1F5SQQuwQRm2k2V43hiWXe) | [Eclisse Slow \(From "L'eclisse" Original Soundtrack\)](https://open.spotify.com/album/555qESlMB4pcaHjEvM15H7) | 2:44 |
 | 10 | [Teresa, Lark of Ascension](https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 49 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
 | 50 | [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 |
 
-Snapshot ID: `MCw2ZWJhNmVjZjVmNjAxMDg5MTE1NWY0ZjE5YTI5M2M5M2EwNTNhOGE2`
+Snapshot ID: `MCw4ZTNlY2NlYmM2MTQxYWUwNzZhOWQxYzRjNjEyMjcxOTA0OTQ2NzNl`

@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 804262,
+  "2024-04-01": 804445,
   "date_first_scraped": "2020-10-13",
   "description": "Future K-Pop hits! Cover: Dynamicduo",
   "name": "K-Pop Rising",
@@ -299,7 +299,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 166974,
       "name": "25 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac"
@@ -1723,6 +1723,24 @@
       "duration_ms": 184706,
       "name": "Bird",
       "url": "https://open.spotify.com/track/0ePOUs38vMTdOVjvqVHXu1"
+    },
+    {
+      "album": {
+        "name": "<Pre 1 : Birth>",
+        "url": "https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS"
     },
     {
       "album": {
@@ -9111,7 +9129,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 277000,
       "name": "La Mar",
       "url": "https://open.spotify.com/track/4QXcrw2uElBPXrWcx7RkQ0"
@@ -10416,6 +10434,24 @@
     },
     {
       "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
         "name": "\u56de:Walpurgis Night",
         "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
       },
@@ -10539,7 +10575,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
@@ -12557,7 +12593,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 200933,
       "name": "PASTEL",
       "url": "https://open.spotify.com/track/4q0CYq46WxuMBCrXcs57vq"
@@ -15972,6 +16008,24 @@
     },
     {
       "album": {
+        "name": "The 1st Mini Album 'WE UNIS'",
+        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188133,
+      "name": "SUPERWOMAN",
+      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox"
       },
@@ -16635,7 +16689,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 209877,
       "name": "The Way to love myself",
       "url": "https://open.spotify.com/track/0FT9NEMK3ndpjPNFwfOSjh"

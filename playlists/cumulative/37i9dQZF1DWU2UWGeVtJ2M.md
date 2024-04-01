@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-311 songs - 17 hr 10 min
+312 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 | 2022-07-25 | 2024-01-24 |
 | [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 | 2023-12-04 | 2024-01-05 |
 | [circle of feelings](https://open.spotify.com/track/0Zr57tyrXXfbnjejbNWwfg) | [g y l s](https://open.spotify.com/artist/5P9ZfGxqKllKQuq3xBfWSk) | [circle of feelings](https://open.spotify.com/album/3PvBRlnbO6mZSD4WwsV4c8) | 3:03 | 2022-06-06 | 2022-07-26 |
-| [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 | 2024-03-22 |  |
+| [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 | 2024-03-22 | 2024-04-01 |
 | [Cloud](https://open.spotify.com/track/35kirOag3DTj2NZyvxfba5) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cloud](https://open.spotify.com/album/2spfiRY5MvsWFa81ZRnhp2) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [Cloud 9 \(feat\. Juan Periquet, Kakie & Cub Fuque\)](https://open.spotify.com/track/388eLgpqeex2oOj9DxKEYI) | [Luis Villanueva](https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX), [Cub Fuque](https://open.spotify.com/artist/47Vr0uma5dXBQ0nkSmqCXU), [Juan Periquet](https://open.spotify.com/artist/6zuxhwzRvx4f0Yeryu207j), [kakie](https://open.spotify.com/artist/3rMkO05Kgt99HDp4P41cbk) | [VOL\. 1 \(feat\. Kakie & Cub Fuque\)](https://open.spotify.com/album/4G4Ey7HMOteTfkYqYvcQDM) | 5:41 | 2022-06-06 | 2022-07-29 |
 | [cloud9](https://open.spotify.com/track/2KO0sztUM1YycUiP5Ny8Dg) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy), [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [cloud9](https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK) | 3:09 | 2022-06-06 | 2022-07-29 |
@@ -244,6 +244,7 @@
 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 | 2022-06-06 | 2024-01-24 |
 | [Sanctuary](https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 3:00 | 2024-01-22 |  |
 | [Say It](https://open.spotify.com/track/1ZbH2WzZhjiODZfsX2raPz) | [Christian Theseira](https://open.spotify.com/artist/3A1xszV6hJ3dQeL3WJWuWy) | [Say It](https://open.spotify.com/album/3wJIX9Azv22IAW2s2bkuZO) | 3:33 | 2022-06-06 | 2022-07-29 |
+| [Scarred for Tryin.](https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Scarred for Tryin.](https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF) | 3:07 | 2024-04-01 |  |
 | [SCORPIO](https://open.spotify.com/track/7dWO43BlUXzAImVYT7i2Ss) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [SCORPIO](https://open.spotify.com/album/65le9QamYEtftvHtjeKHP0) | 3:21 | 2022-06-06 | 2022-07-29 |
 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 | 2023-07-10 |  |
 | [Seventeen](https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Seventeen](https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd) | 4:25 | 2022-07-25 | 2023-10-30 |

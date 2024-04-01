@@ -1,12 +1,12 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1131658,
+  "num_followers": 1131723,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzVjMzFlODBhZGM4MDY1NGE4ZjQ2Yjg4M2MwNWUzMjc1OTc2NDNm",
+  "snapshot_id": "MCwyMzY5NTdhZGFkNTc4MzllYTEzOGE5Y2I3NjE2YzYyZDJiZjM1ZTU0",
   "tracks": [
     {
       "added_at": "2024-02-09 20:08:05",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "I Know I'm Funny haha",
         "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 224680,
       "name": "In A Good Way",
       "url": "https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "You're Somebody Else",
-        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 232666,
       "name": "Something About Us",
       "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "You're Somebody Else",
+        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting on You)",
       "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Tiny Moves",
-        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 228381,
-      "name": "Tiny Moves",
-      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Tiny Moves",
+        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Petals For Armor",
-        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 212894,
-      "name": "Crystal Clear",
-      "url": "https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 235266,
       "name": "Youuu",
       "url": "https://open.spotify.com/track/1JsVSz41mZAl02GXUApmGp"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Petals For Armor",
+        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 212894,
+      "name": "Crystal Clear",
+      "url": "https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Adore",
         "url": "https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 184999,
       "name": "Adore",
       "url": "https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
     },
     {
       "added_at": "2024-02-09 20:08:05",

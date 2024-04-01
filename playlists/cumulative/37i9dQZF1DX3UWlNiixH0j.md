@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Mega Shinnosuke
 
-1,449 songs - 3 day 17 hr 42 min
+1,450 songs - 3 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,7 +840,7 @@
 | [The River Knew](https://open.spotify.com/track/4q6sBVIne9Q1HlMprdEfr2) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [The River Knew](https://open.spotify.com/album/6XLYjNWihFvpv7br0QYtVr) | 3:25 | 2023-02-02 | 2023-02-10 |
 | [The Yonder](https://open.spotify.com/track/3IRdpIbyz1HriL6M3bAnb8) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 2:33 | 2024-03-05 |  |
 | [The Yonder](https://open.spotify.com/track/3vxcTeFdHXeBzBq59sovEj) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/7IiryjEryXiL3wRNWItITE) | 2:33 | 2024-02-13 | 2024-02-29 |
-| [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 | 2024-01-23 |  |
+| [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 | 2024-01-23 | 2024-04-01 |
 | [Theme park](https://open.spotify.com/track/03vL5ThjjFD8ALjZjRSVlL) | [Jan flu](https://open.spotify.com/artist/3KuNGrXzOFrVtQvi8czDCR) | [Theme park](https://open.spotify.com/album/7gP1UZ7y4LIGKGI0vKNxcS) | 2:19 | 2023-12-12 | 2024-01-10 |
 | [They're Red Hot \- feat\. June Yamagishi](https://open.spotify.com/track/7APw1et2PAe9WOnCUjbR1a) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP), [June Yamagishi](https://open.spotify.com/artist/4O3xGRz8xKHwDKGv5kkFfG) | [30 Scratchy Backroad Blues](https://open.spotify.com/album/56tnB5QGRR9wPtWFO6cEkz) | 4:00 | 2024-03-19 |  |
 | [Things Will Be Done Before You Come](https://open.spotify.com/track/3ukGUIYkWua4IWvHYSH3kD) | [Lanes](https://open.spotify.com/artist/2vnttceAbzvspOhe3zyN5i) | [Things Will Be Done Before You Come](https://open.spotify.com/album/7jOdfY3G7UMSNl85y0YGho) | 4:15 | 2024-01-25 | 2024-01-31 |
@@ -1214,6 +1214,7 @@
 | [共振](https://open.spotify.com/track/41o30p9zWXn1SbdODFZBjf) | [Arakoi](https://open.spotify.com/artist/2jJfXAB5K7ZlK1H7xQt0tl) | [響鳴](https://open.spotify.com/album/2lw6n33b4NK9oLeioBCBd6) | 5:14 | 2024-01-16 | 2024-01-24 |
 | [冬越え](https://open.spotify.com/track/4hf6Vgy3AbYlzZiBHnyA48) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [冬越え](https://open.spotify.com/album/47OBebnmm2E2xo6tASrtGT) | 4:04 | 2024-03-12 | 2024-03-14 |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-29 |  |
+| [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 | 2024-03-26 |  |
 | [反時代ゲーム](https://open.spotify.com/track/6UtOG4MMEvcorjOSyQ4APY) | [佐藤優介](https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L) | [反時代ゲーム](https://open.spotify.com/album/2rmyOj27rXl2mpZenIKSeM) | 4:59 | 2023-10-03 | 2023-10-06 |
 | [可可 feat\. ぷにぷに電機](https://open.spotify.com/track/1rcljy3U53XvlXFgh7BsSs) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [可可 feat\. ぷにぷに電機](https://open.spotify.com/album/7LpxpVbQ1vLrqWOejWVY4d) | 4:05 | 2023-09-19 | 2023-09-21 |
 | [台詞](https://open.spotify.com/track/57hdi7FlcurVOe7OoFmxA9) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [台詞](https://open.spotify.com/album/0zAMh6XVhD76qzMUqE04jH) | 4:05 | 2024-02-27 |  |

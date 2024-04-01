@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft Zendaya ",
-  "num_followers": 525844,
+  "num_followers": 525838,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjA5MmFjNzJlMmNmMzgzZDMwY2JiZmM4NWIzODFlNzk1NzA1NzBl",
+  "snapshot_id": "MCxkM2QxOTIzMzNjMmYzNTE5YjRiNGY2YTIyMWE3YzM4NGJjYWQzNDA3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "VAN GOGH",
-        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
-      },
-      "artists": [
-        {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "VAN GOGH",
-      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "All My Girls Like To Fight",
         "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 232712,
       "name": "All My Girls Like To Fight",
       "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "VAN GOGH",
+        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "VAN GOGH",
+      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 139017,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "I Love You Jennifer B",
         "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Conveniency",
-        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
       },
       "artists": [
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
         }
       ],
-      "duration_ms": 142720,
-      "name": "Conveniency",
-      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
+      "duration_ms": 139017,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 318917,
       "name": "Dancing Elephants",
       "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Conveniency",
+        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 142720,
+      "name": "Conveniency",
+      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Raging Bull",
-        "url": "https://open.spotify.com/album/6IBZWEdXKc9XFaugGU9kxj"
-      },
-      "artists": [
-        {
-          "name": "Romeo + Juliet",
-          "url": "https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2"
-        }
-      ],
-      "duration_ms": 254675,
-      "name": "Gem",
-      "url": "https://open.spotify.com/track/6hJhUQW7VtRSpFFCMOuNXx"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Body Move",
         "url": "https://open.spotify.com/album/3cCuqxwQ3zfQ9XBQjmg5Ed"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 176950,
       "name": "Body Move",
       "url": "https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Raging Bull",
+        "url": "https://open.spotify.com/album/6IBZWEdXKc9XFaugGU9kxj"
+      },
+      "artists": [
+        {
+          "name": "Romeo + Juliet",
+          "url": "https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2"
+        }
+      ],
+      "duration_ms": 254675,
+      "name": "Gem",
+      "url": "https://open.spotify.com/track/6hJhUQW7VtRSpFFCMOuNXx"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1707,26 +1707,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "THE ANGEL YOU DON'T KNOW",
-        "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
+        "name": "FLOOR",
+        "url": "https://open.spotify.com/album/5xXW8DOUsy5NbepZy1eDdS"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
         },
         {
-          "name": "Kyu Steed",
-          "url": "https://open.spotify.com/artist/7KDgQWTOnYMsPqI61gxVUy"
-        },
-        {
-          "name": "6",
-          "url": "https://open.spotify.com/artist/3iF2oCv5pVQ19uwoaBK9qW"
+          "name": "Icee Red",
+          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
         }
       ],
-      "duration_ms": 180485,
-      "name": "C\u00c9LINE",
-      "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
+      "duration_ms": 125688,
+      "name": "FLOOR",
+      "url": "https://open.spotify.com/track/7gyvK89g8L6WKtiXfNBX1J"
     }
   ],
   "unique_name": "'fit check",

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Tyla",
-  "num_followers": 551946,
+  "num_followers": 552148,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2Y0ZjY5OThlMDNlY2FlM2FjNTZhOGI1ZjBjYTRmY2U3ZWYxMzRl",
+  "snapshot_id": "MCw0MTE3MjA4YzQyM2E1YmIyZWY5OTFlNWRhOTYzMjE0MmU3Y2RlZGRk",
   "tracks": [
     {
       "added_at": "2024-03-29 06:48:38",
@@ -743,6 +743,26 @@
     {
       "added_at": "2024-03-29 06:48:38",
       "album": {
+        "name": "Till We Die (feat. Ruger)",
+        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 183289,
+      "name": "Till We Die (feat. Ruger)",
+      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "added_at": "2024-03-29 06:48:38",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
-      "added_at": "2024-03-29 06:48:38",
-      "album": {
-        "name": "Till We Die (feat. Ruger)",
-        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 183289,
-      "name": "Till We Die (feat. Ruger)",
-      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
     },
     {
       "added_at": "2024-03-29 06:48:38",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-29 06:48:38",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY"
-      },
-      "artists": [
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        }
-      ],
-      "duration_ms": 162818,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD"
-    },
-    {
-      "added_at": "2024-03-29 06:48:38",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 173571,
       "name": "Mumu",
       "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
+    },
+    {
+      "added_at": "2024-03-29 06:48:38",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "duration_ms": 162818,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD"
     },
     {
       "added_at": "2024-03-29 06:48:38",

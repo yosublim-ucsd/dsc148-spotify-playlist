@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 11235,
+  "2024-04-01": 11236,
   "date_first_scraped": "2022-10-01",
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg\">Henry Ate</a> ",
   "name": "Indie GO",
@@ -5586,6 +5586,28 @@
     },
     {
       "album": {
+        "name": "It Was Always You (Siempre Fuiste T\u00fa)",
+        "url": "https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "It Was Always You (Siempre Fuiste T\u00fa)",
+      "url": "https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl"
+    },
+    {
+      "album": {
         "name": "blotter baby",
         "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
       },
@@ -6591,7 +6613,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 187653,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/152r40YkplZWECHc392lTa"

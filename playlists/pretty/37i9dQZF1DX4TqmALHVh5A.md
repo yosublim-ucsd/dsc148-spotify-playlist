@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Luther
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,436 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,446 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 17 | [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 |
 | 18 | [Le saut du tigre](https://open.spotify.com/track/2HWc8pXCVL3D3INJshlyYp) | [Aquaserge](https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s) | [Le saut du tigre](https://open.spotify.com/album/66OhazmOAiQAUw4kJ3R7GN) | 3:10 |
 | 19 | [Paradis](https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Paradis](https://open.spotify.com/album/22BjV2YN9xoEPqwJKQ3GRU) | 2:51 |
-| 20 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 |
+| 20 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 |
 | 21 | [CLAIRIÈRE](https://open.spotify.com/track/2oMkFzQlvWaJBYjJPcHiMU) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [CLAIRIÈRE](https://open.spotify.com/album/089lVl2UqcXFCc6Xy87WCP) | 2:49 |
 | 22 | [KLNX](https://open.spotify.com/track/63cOm5jCSwyRG9szlKdBcC) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [KLNX](https://open.spotify.com/album/7kDH9ZPKK5JhmWUUSR1lcj) | 3:30 |
 | 23 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Gare à la nuit](https://open.spotify.com/track/4G6dlO9xjCklF062LILK7J) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Gare à la nuit](https://open.spotify.com/album/2O4SxhHbq8BlWSV5mNyPG2) | 3:58 |
 | 50 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 |
 
-Snapshot ID: `MCw0ODNmNjI4N2Y5YmE4OWFiNDQwZjA0ZjU4NmEzZjcwZGUzMjFlZmE0`
+Snapshot ID: `MCwxODgyNzZhNDI5YjViYWQ3NzUxMTUzNWNkYTY4YzhjZTcxNmEyODI3`

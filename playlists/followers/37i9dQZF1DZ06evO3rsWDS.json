@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 4585,
+  "2024-04-01": 4590,
   "date_first_scraped": "2023-03-11",
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
   "name": "This Is Chiquis",
@@ -301,6 +301,24 @@
       "duration_ms": 225920,
       "name": "Devu\u00e9lveme El Amor",
       "url": "https://open.spotify.com/track/2SfvqP7CmfIBct2KxFEnlp"
+    },
+    {
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
     },
     {
       "album": {

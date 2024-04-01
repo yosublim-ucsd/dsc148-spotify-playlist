@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 177638,
+  "num_followers": 177687,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWJjMDU1MmVmMjEzMjZiMzIyNDEyMTAwNzBkODM4OWU2YjI1YmQ4",
+  "snapshot_id": "MCxiY2I1MjU0MGFjMDFjMDk1NzE5NWY4YmQ0OWJlYTBjMGY1YzAwOTVj",
   "tracks": [
     {
       "added_at": "2024-03-01 12:45:26",
@@ -485,26 +485,6 @@
       "url": "https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs"
     },
     {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 246944,
-      "name": "Dance with My Ghost (feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "This Is It",
@@ -523,6 +503,26 @@
       "duration_ms": 263503,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 246944,
+      "name": "Dance with My Ghost (feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -689,24 +689,28 @@
       "url": "https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX"
     },
     {
-      "added_at": "2024-03-01 12:45:26",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/0XDch3owENNks3bapuFjAs"
       },
       "artists": [
         {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
         },
         {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
         }
       ],
-      "duration_ms": 238003,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
+      "duration_ms": 211547,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -731,6 +735,42 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0yzOf4gdeVEOK34yvtwJ0t"
       },
@@ -749,20 +789,28 @@
       "url": "https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU"
     },
     {
-      "added_at": "2024-03-01 12:45:26",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+        "name": "Crazy Love (ANUQRAM Remix)",
+        "url": "https://open.spotify.com/album/5EkwcV1x0pkD5wWJNaNG7U"
       },
       "artists": [
         {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Zo\u00eb Johnston",
+          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
+        },
+        {
+          "name": "ANUQRAM",
+          "url": "https://open.spotify.com/artist/05HPAdadViWOL8mwgYhet8"
         }
       ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+      "duration_ms": 256450,
+      "name": "Crazy Love - ANUQRAM Remix",
+      "url": "https://open.spotify.com/track/0rQscieJqmFbGM7uZpisXu"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -809,30 +857,6 @@
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Crazy Love (ANUQRAM Remix)",
-        "url": "https://open.spotify.com/album/5EkwcV1x0pkD5wWJNaNG7U"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Zo\u00eb Johnston",
-          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
-        },
-        {
-          "name": "ANUQRAM",
-          "url": "https://open.spotify.com/artist/05HPAdadViWOL8mwgYhet8"
-        }
-      ],
-      "duration_ms": 256450,
-      "name": "Crazy Love - ANUQRAM Remix",
-      "url": "https://open.spotify.com/track/0rQscieJqmFbGM7uZpisXu"
-    },
-    {
       "added_at": "2024-03-01 12:45:26",
       "album": {
         "name": "Lost Gravity EP",
@@ -867,6 +891,22 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
         "name": "Another Riff For The Good Times / Daydreaming",
         "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
       },
@@ -883,62 +923,6 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/0XDch3owENNks3bapuFjAs"
-      },
-      "artists": [
-        {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        },
-        {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
-        },
-        {
-          "name": "RAHH",
-          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
-        }
-      ],
-      "duration_ms": 211547,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
         "name": "Alkantara",
         "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 216393,
       "name": "Alkantara",
       "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1001,36 +1001,20 @@
       "url": "https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE"
-    },
-    {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Piece Of Art",
-        "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
       },
       "artists": [
         {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         }
       ],
-      "duration_ms": 196751,
-      "name": "Piece Of Art",
-      "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 150000,
       "name": "Paint My Tomorrow",
       "url": "https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Piece Of Art",
+        "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "duration_ms": 196751,
+      "name": "Piece Of Art",
+      "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1153,6 +1153,26 @@
       "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
     },
     {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "All My Love (feat. Bryn Christopher)",
+        "url": "https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9"
+      },
+      "artists": [
+        {
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "All My Love (feat. Bryn Christopher)",
+      "url": "https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap"
+    },
+    {
       "added_at": "2024-03-01 12:45:26",
       "album": {
         "name": "Brightest Lights Remixed",
@@ -1175,26 +1195,6 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "All My Love (feat. Bryn Christopher)",
-        "url": "https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9"
-      },
-      "artists": [
-        {
-          "name": "Young Bombs",
-          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
-        },
-        {
-          "name": "Bryn Christopher",
-          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "All My Love (feat. Bryn Christopher)",
-      "url": "https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap"
     },
     {
       "added_at": "2024-03-01 12:45:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OLd5MrIVlk.md) - [plain]
 
 > Come on board and bring along all your hopes and dreams\. Listen to the music from and inspired by ONE PIECE, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,231 likes - 89 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,271 likes - 89 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OLd5MrIVlk.md) - [plain]
 | 88 | [Get Out Of My Restaurant Now](https://open.spotify.com/track/7wItE5m37lixFqGfWcsFrD) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [One Piece Big Band](https://open.spotify.com/artist/6LblTqTQrZt3nOzku8rgyy) | [Mixtape from Baratie \(from the Netflix Series "One Piece"\)](https://open.spotify.com/album/4t1c9UpLCg3Fldvo0vAb2w) | 2:05 |
 | 89 | [Party At Baratie](https://open.spotify.com/track/6g4Nhz9Ymkn0N95y4y3qy4) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [One Piece Big Band](https://open.spotify.com/artist/6LblTqTQrZt3nOzku8rgyy) | [Mixtape from Baratie \(from the Netflix Series "One Piece"\)](https://open.spotify.com/album/4t1c9UpLCg3Fldvo0vAb2w) | 1:52 |
 
-Snapshot ID: `MCw1Nzk4YTAyZjNkNGE1ZWQ0NzY3OGJmZTg3NmY3NzI0ZWVhNDZkOWEw`
+Snapshot ID: `MCxhYmEzYTRlYTRjYWZmZWFjNDU1M2M3NzAzY2YyZDAyMGIwZTQ4NmFl`

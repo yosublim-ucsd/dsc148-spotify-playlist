@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 190736,
+  "2024-04-01": 190776,
   "date_first_scraped": "2022-05-23",
   "description": "Las rolas para escuchar mientras trabajas.",
   "name": "Chambeando",
@@ -6745,7 +6745,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 237640,
       "name": "Terrenal",
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
@@ -7477,7 +7477,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 171266,
       "name": "Y T\u00fa - Ranchera",
       "url": "https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL"

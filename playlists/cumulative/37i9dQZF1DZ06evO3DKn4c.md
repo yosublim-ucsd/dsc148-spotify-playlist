@@ -4,7 +4,7 @@
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 35 min
+43 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Sangue de Free](https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Sangue de Free](https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1) | 3:30 | 2023-09-18 |  |
 | [Sangue de Free \- Acústico](https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rael Convida: Black Alien \(Acústico\)](https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl) | 2:57 | 2023-09-18 |  |
 | [Sinto Muito Baby](https://open.spotify.com/track/2lYxvijVdMI2BypfDcbUEC) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2) | [Gordão Chefe](https://open.spotify.com/album/7smhjQ669H4bokR2oE9GeV) | 5:31 | 2023-09-18 |  |
+| [Somos o Mundo](https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:14 | 2024-03-31 |  |
 | [Take Ten](https://open.spotify.com/track/33KkhOpxBmBr2Jor1gs11d) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:33 | 2023-09-18 |  |
-| [Terra](https://open.spotify.com/track/3hSmKgxQlmAD3H29BwIm6h) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:16 | 2023-09-18 |  |
+| [Terra](https://open.spotify.com/track/3hSmKgxQlmAD3H29BwIm6h) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:16 | 2023-09-18 | 2024-04-01 |
 | [Terra \- Acústico](https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rael Convida: Black Alien \(Acústico\)](https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl) | 4:01 | 2023-09-18 |  |
 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 | 2023-09-18 |  |
 | [Um Bom Lugar](https://open.spotify.com/track/2QvXPaXSw3NtAV4gDW8NNn) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:05 | 2023-09-18 |  |

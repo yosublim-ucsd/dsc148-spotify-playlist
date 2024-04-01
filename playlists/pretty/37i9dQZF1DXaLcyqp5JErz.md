@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,240 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,427 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 53 | [Abraça\-Me \- Ao Vivo em BH](https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Abraça\-Me \(Paixão Fogo e Glória\) \[Ao Vivo em BH\]](https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX) | 14:07 |
 | 54 | [Vai Valer a Pena \- Ao Vivo](https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia \(ao Vivo\)](https://open.spotify.com/album/0xXNfRTcKA1nhuls2DC7Tj) | 4:57 |
 | 55 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 |
-| 56 | [Tempo de Vencer](https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Seleção De Ouro](https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ) | 4:00 |
-| 57 | [Autor da Minha Fé \(feat\. Paulo Cézar\)](https://open.spotify.com/track/3Nf2lSDsZY6YHctnDVX7rc) | [Grupo Logos](https://open.spotify.com/artist/41XTLrYfIdtr8frsp8Em5C), [Paulo Cézar](https://open.spotify.com/artist/59tkQh4975FMO2hfRLVfc7) | [Autor da Minha Fé](https://open.spotify.com/album/4V2xVSZcqaYna4EmoCU9uY) | 4:50 |
+| 56 | [Autor da Minha Fé \(feat\. Paulo Cézar\)](https://open.spotify.com/track/3Nf2lSDsZY6YHctnDVX7rc) | [Grupo Logos](https://open.spotify.com/artist/41XTLrYfIdtr8frsp8Em5C), [Paulo Cézar](https://open.spotify.com/artist/59tkQh4975FMO2hfRLVfc7) | [Autor da Minha Fé](https://open.spotify.com/album/4V2xVSZcqaYna4EmoCU9uY) | 4:50 |
+| 57 | [Tempo de Vencer](https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Seleção De Ouro](https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ) | 4:00 |
 | 58 | [Deserto](https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Deserto](https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK) | 5:02 |
 | 59 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 |
 | 60 | [Tua Unção](https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4) | [Ministério Nova Jerusalém](https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Aba Pai](https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq) | 8:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCwyN2RlOTQ5Yjg3NzU4NGIzMDQzMGNjNGE2ZmIxOGY3MmU2NWYxY2M5`
+Snapshot ID: `MCxkZDI2ZmZmNjU2OWRjM2MwYTM0ZTgwMWU0NjJjZGJlZDIzMjUxODQw`

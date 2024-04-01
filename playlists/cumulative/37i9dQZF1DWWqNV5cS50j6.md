@@ -4,7 +4,7 @@
 
 > ?! ft\. Artemas
 
-1,628 songs - 3 day 6 hr 19 min
+1,629 songs - 3 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,7 +789,7 @@
 | [Kismet](https://open.spotify.com/track/24hPnL2Yr82INEk0YUWCJr) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [Kismet](https://open.spotify.com/album/516DgQVkrtnV5vmQ5SOxPu) | 2:51 | 2020-10-13\* | 2020-11-03 |
 | [kora](https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [kora](https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc) | 4:42 | 2021-10-09 | 2021-10-16 |
 | [Krunk](https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 3:07 | 2021-02-27 |  |
-| [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 |  |
+| [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 | 2024-04-01 |
 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-03-29 | 2022-04-08 |
 | [Last Night!](https://open.spotify.com/track/4RxkErsYUmi1WyjGQvIrxH) | [Gaff](https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ) | [Last Night!](https://open.spotify.com/album/0P7Ws5NtZDmCZuKM8iOkEB) | 2:57 | 2020-10-13\* | 2021-02-13 |
 | [LATE NIGHT](https://open.spotify.com/track/4nMh9zhSlFnUj6vF8mG7IM) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [LATE NIGHT](https://open.spotify.com/album/4zjkHnGvh38hYeGAf7jFG7) | 5:08 | 2020-12-22 | 2021-02-20 |
@@ -1470,6 +1470,7 @@
 | [TONY WITH THE NISSAN](https://open.spotify.com/track/4z9Ll96ItvR0uuwjorIRD1) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [WELL$](https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ) | [TONY WITH THE NISSAN](https://open.spotify.com/album/7r0by8x5iebJjcxaegEU3o) | 2:49 | 2021-10-15 | 2022-02-12 |
 | [Too Late \(To Call\)](https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Too Late \(To Call\)](https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz) | 3:41 | 2022-03-18 | 2022-10-26 |
 | [Too Much, Give Up](https://open.spotify.com/track/6CNNrc4exL7MLYBvzNbXUT) | [vōx](https://open.spotify.com/artist/4epdWRtuY7tFHyV7mIW7pE) | [This Body](https://open.spotify.com/album/3B7ZSwtUsvEFoxIcPjdih0) | 3:28 | 2020-10-13\* | 2020-11-03 |
+| [Too Slow](https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Too Slow](https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7) | 2:04 | 2024-03-29 |  |
 | [Top Again](https://open.spotify.com/track/2KGL937zymqeogaH2rqPuT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [a liquid breakfast](https://open.spotify.com/album/0kMBrNsoiD2MjGnpzYVaVE) | 3:07 | 2021-05-22 | 2022-02-23 |
 | [Top Again \(feat\. Saba\)](https://open.spotify.com/track/0k2HFzw2iQENrU2oWtVJEb) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 3:07 | 2022-08-27 | 2022-10-05 |
 | [Tramp](https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Volume II](https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma) | 3:44 | 2022-04-08 | 2022-07-19 |

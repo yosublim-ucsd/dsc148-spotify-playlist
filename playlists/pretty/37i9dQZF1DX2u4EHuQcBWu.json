@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 190024,
+  "num_followers": 190089,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjEyYzk0OWMzODUzMzhjODU5ODUxNmU2MjgyNDA5NzhiOWM3ZGU3",
+  "snapshot_id": "MCw3MTkzYjk3Mjk2ODliNmRmYmI1NzJlN2Q4MzZjMzc3ZWEzMDI0ZDhl",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -371,42 +371,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "This is Not America (feat. Ibeyi)",
-        "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 231332,
-      "name": "This is Not America (feat. Ibeyi)",
-      "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Mercedes Sosa En Argentina (En Directo)",
-        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "Como La Cigarra - En Directo",
-      "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "El Derecho de Vivir en Paz",
         "url": "https://open.spotify.com/album/72TMw0zavcWwbzU8j2gOmg"
       },
@@ -535,6 +499,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Mercedes Sosa En Argentina (En Directo)",
+        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Como La Cigarra - En Directo",
+      "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Pateando Piedras",
         "url": "https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW"
       },
@@ -551,18 +531,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "This is Not America (feat. Ibeyi)",
+        "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
+      "duration_ms": 231332,
+      "name": "This is Not America (feat. Ibeyi)",
+      "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -579,6 +563,22 @@
       "duration_ms": 248466,
       "name": "S\u00f3lo Le Pido A Dios",
       "url": "https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Plata Ta T\u00e1",
-        "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "Plata Ta T\u00e1",
-      "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "La Bala",
         "url": "https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 253360,
       "name": "Sacar la Voz",
       "url": "https://open.spotify.com/track/1tR0tdHtTapWhGkUAEfgVR"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Plata Ta T\u00e1",
+        "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "Plata Ta T\u00e1",
+      "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 184378,
-      "name": "Antipatriarca",
-      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Viva Italia",
         "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
       },
@@ -807,26 +791,6 @@
       "duration_ms": 292040,
       "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
       "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 215579,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -847,6 +811,42 @@
       "duration_ms": 249733,
       "name": "Calma Pueblo (feat. Omar Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 184378,
+      "name": "Antipatriarca",
+      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 215579,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Cantos revolucionarios de america latina",
         "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 270160,
       "name": "Hasta siempre",
       "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/4N7aFyo10qOsLA6hV2b4RL"
-      },
-      "artists": [
-        {
-          "name": "Fiskales Ad-Hok",
-          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
-        }
-      ],
-      "duration_ms": 128573,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/5vHv37nWrQKPVlzsL0R4Zp"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Mostros",
         "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 266386,
       "name": "El Barz\u00f3n",
       "url": "https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/4N7aFyo10qOsLA6hV2b4RL"
+      },
+      "artists": [
+        {
+          "name": "Fiskales Ad-Hok",
+          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+        }
+      ],
+      "duration_ms": 128573,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/5vHv37nWrQKPVlzsL0R4Zp"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
         "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 240716,
       "name": "El Mundo Que Nos Toc\u00f3 Vivir",
       "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1751,22 +1751,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Gieco Y Heredia En Vivo",
-        "url": "https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3"
+        "name": "Mensajes Del Alma",
+        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
       },
       "artists": [
         {
           "name": "Le\u00f3n Gieco",
           "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
         }
       ],
-      "duration_ms": 226120,
-      "name": "Todavia Cantamos",
-      "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"
+      "duration_ms": 253200,
+      "name": "Cinco Siglos Igual",
+      "url": "https://open.spotify.com/track/3fL89NetmOyr0q8c4eg8XD"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1851,18 +1847,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Mensajes Del Alma",
-        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
+        "name": "Gieco Y Heredia En Vivo",
+        "url": "https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3"
       },
       "artists": [
         {
           "name": "Le\u00f3n Gieco",
           "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Cinco Siglos Igual",
-      "url": "https://open.spotify.com/track/3fL89NetmOyr0q8c4eg8XD"
+      "duration_ms": 226120,
+      "name": "Todavia Cantamos",
+      "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

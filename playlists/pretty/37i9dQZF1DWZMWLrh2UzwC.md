@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,685 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,686 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 99 | [Sunday Song](https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Sunday Song](https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb) | 3:30 |
 | 100 | [Wannabesad Song](https://open.spotify.com/track/4yqxny2mF54hWTaYaixHt3) | [Door Plant](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Wannabesad Song](https://open.spotify.com/album/7GPhrj2rvTB4wwqLX8UnzQ) | 3:05 |
 
-Snapshot ID: `MCw4ZmY3ZWZjYWI5NzdlNjU3MDgwMmJiMmU0MzMzMTk2N2M0YzhlZmRl`
+Snapshot ID: `MCw0ZGIyNTVmZGIxYWNhNmVmYTliNjBlZTVmYjI4MzlmYjYwZDlkMDdk`

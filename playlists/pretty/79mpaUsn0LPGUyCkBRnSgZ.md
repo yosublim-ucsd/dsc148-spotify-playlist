@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 483 songs - 1 day 7 hr 45 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 485 songs - 1 day 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -491,5 +491,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 481 | [Stanley Kubrick](https://open.spotify.com/track/7rzhQEtfMy3Xinzs0aLnaQ) | [Angry Blackmen](https://open.spotify.com/artist/5wgdXBYakv0C8v0b6hxnpC) | [The Legend of ABM](https://open.spotify.com/album/5KwBvabWfSo1rHbFldITCS) | 2:32 |
 | 482 | [Rodeo World Champion](https://open.spotify.com/track/38qRLcv80LRCvuYNaNUeJX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 0:57 |
 | 483 | [Divine Fault Line](https://open.spotify.com/track/0quhypMAHswXpRBXAqxS4G) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:18 |
+| 484 | [Plain & Sane & Simple Melody](https://open.spotify.com/track/4DCEk28xejlUHLl0i9G7FA) | [Ted Lucas](https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn) | [Ted Lucas](https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd) | 2:40 |
+| 485 | [Habitat](https://open.spotify.com/track/7cv8pIeOu1pkwCXW9D4Oef) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [11:11](https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE) | 6:55 |
 
-Snapshot ID: `MTQ3OCxlMzhlODBkNDk1MTBiZDEwZDc1ZmRiNjJlY2I1YjZjZjlkYzZmNGJk`
+Snapshot ID: `MTQ4MCxkNmRhYjYwYzU2YjY1YjkzMGFlY2NjMGVkOWU4NDY0N2NmODcxZGE2`

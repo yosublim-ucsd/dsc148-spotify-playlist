@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 259513,
+  "2024-04-01": 259535,
   "date_first_scraped": "2022-05-26",
   "description": "Chill tunes for mellow moods.",
   "name": "Mellow Mood",
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 145174,
       "name": "Our Story",
       "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
@@ -2721,7 +2721,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 236842,
       "name": "Zender",
       "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"

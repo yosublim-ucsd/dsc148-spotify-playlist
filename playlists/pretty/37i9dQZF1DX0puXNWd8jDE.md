@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,178 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,205 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 21 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 |
 | 22 | [四季](https://open.spotify.com/track/40nry7vWyrLCxPD1HMZyFU) | [王忻辰](https://open.spotify.com/artist/61JBbdne26KjmyvOzjloSU) | [四季](https://open.spotify.com/album/6RpB8W94N6mQm1CHKDZMzd) | 3:22 |
 | 23 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 |
-| 24 | [因為我還年輕](https://open.spotify.com/track/0zH904rmpRKJuRsUER6oMi) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [大逆不道](https://open.spotify.com/album/4pmimPqqUWaflYZ0MCzNYn) | 3:30 |
+| 24 | [因為我還年輕](https://open.spotify.com/track/2lIOOMhGzCltMN6wL3QFst) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [大逆不道](https://open.spotify.com/album/2qelXUCybe7MKeFMJlRnfH) | 3:30 |
 | 25 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 26 | [樓上的房東](https://open.spotify.com/track/6AXBFFN1CgKiqHrT2fJ9lB) | [MC HotDog](https://open.spotify.com/artist/4maR8o69pil8CrclOiFVVW) | [髒藝術家](https://open.spotify.com/album/5qfvZYTRNedzR4sNWKc73k) | 3:18 |
 | 27 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 59 | [十年](https://open.spotify.com/track/1b6IRkQ6owDaUYRwmHxr3W) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [你的陳奕迅 \(國語精選\)](https://open.spotify.com/album/3YpIH5mASoFetVQjgvazZa) | 3:25 |
 | 60 | [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 |
 
-Snapshot ID: `MCwxZGQ1YTJjZWU2YzQ3MzMzY2M0ZmM4ODM5ZjIxZjE5NjdiZjFmZGVh`
+Snapshot ID: `MCw1MWU1ZjBjZjQ1NDViYjgxNmQzZTFjNzA1MDhlOTFlZjA5ODc5Yzk3`

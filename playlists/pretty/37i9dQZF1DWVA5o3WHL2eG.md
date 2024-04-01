@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
 | 18 | [Gewinner/Verlierer](https://open.spotify.com/track/0vI6FSBe84ukpxPqxeJ3J7) | [Sandra](https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7) | [Gewinner/Verlierer](https://open.spotify.com/album/3jnNB8BNnn1CbnXvTh2rYb) | 3:55 |
 | 19 | [notfallkontakt](https://open.spotify.com/track/109bR6XBcMXL8aDs3WCTXJ) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [notfallkontakt](https://open.spotify.com/album/3S3xMZu8K08zcNw9UGDCVA) | 2:16 |
-| 20 | [Hölle \(TW\)](https://open.spotify.com/track/12u7o9mLjgFOy7V2V2IGqg) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Hölle \(TW\)](https://open.spotify.com/album/0oo1trj26v7QHN1N3KkBqT) | 2:52 |
-| 21 | [No Regrets](https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY) | [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O) | [No Regrets](https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I) | 2:54 |
+| 20 | [No Regrets](https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY) | [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O) | [No Regrets](https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I) | 2:54 |
+| 21 | [Hölle \(TW\)](https://open.spotify.com/track/12u7o9mLjgFOy7V2V2IGqg) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Hölle \(TW\)](https://open.spotify.com/album/0oo1trj26v7QHN1N3KkBqT) | 2:52 |
 | 22 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 |
 | 23 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
 | 24 | [I Will Eat Your God](https://open.spotify.com/track/50fSMJZuhlRBTWBfrP5Ok2) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [I Will Eat Your God](https://open.spotify.com/album/6sxjCVFBShuKQmVghGFFn5) | 2:42 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [Weisser Staub](https://open.spotify.com/track/2PiZe6jvv4nBVYRh8PzPUh) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Weisser Staub](https://open.spotify.com/album/3YY50i3nFEQw4io6tT3EXl) | 2:51 |
 | 38 | [Radikal Banal](https://open.spotify.com/track/28cDOb9EYaRwUdtSsHVVa1) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Radikal Banal](https://open.spotify.com/album/2c7guZ0nilZ0U3iu7Clbl4) | 2:07 |
 | 39 | [Kalte Schulter](https://open.spotify.com/track/4bTis2gVldWMF55hsdYNMC) | [Taby Pilgrim](https://open.spotify.com/artist/6oS2OIN8AtdBOenF1bm2eI) | [Kalte Schulter](https://open.spotify.com/album/5Q1jdh1D5Yoy4rOG3rW9wT) | 2:18 |
-| 40 | [ES KOMMT WIE ES KOMMT](https://open.spotify.com/track/0so6AvYLf56ChikC5mJXsT) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [ES KOMMT WIE ES KOMMT](https://open.spotify.com/album/4d3l88AdBQRkqbMnbEiFhh) | 2:29 |
-| 41 | [Boo](https://open.spotify.com/track/72EZc3MXWL2tk7u2qjLF0a) | [NASHI44](https://open.spotify.com/artist/2v6rUpbFB5iHW6hR91BIpL) | [Boo](https://open.spotify.com/album/2EME7prHxKUh4O7zm5GQ84) | 1:52 |
+| 40 | [Boo](https://open.spotify.com/track/72EZc3MXWL2tk7u2qjLF0a) | [NASHI44](https://open.spotify.com/artist/2v6rUpbFB5iHW6hR91BIpL) | [Boo](https://open.spotify.com/album/2EME7prHxKUh4O7zm5GQ84) | 1:52 |
+| 41 | [ES KOMMT WIE ES KOMMT](https://open.spotify.com/track/0so6AvYLf56ChikC5mJXsT) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [ES KOMMT WIE ES KOMMT](https://open.spotify.com/album/4d3l88AdBQRkqbMnbEiFhh) | 2:29 |
 | 42 | [Move](https://open.spotify.com/track/5mIMA0poDQeUAzMYiTIV6N) | [ELLE YEN](https://open.spotify.com/artist/0unuA09fW5b4KYiAirTpIy) | [Move](https://open.spotify.com/album/1qrOItjZ2IKaB6edjYWuh4) | 2:28 |
 | 43 | [Cleopatra](https://open.spotify.com/track/3a4JqVlVcCeey7FxJMMEyO) | [HONNY](https://open.spotify.com/artist/62aclYsGZKLP2kgEShQBx7) | [Straight Outta Tanger](https://open.spotify.com/album/5YAsunlDLu4XnwwgIiGyAq) | 2:19 |
 | 44 | [grütze \- bist du gut im atmen](https://open.spotify.com/track/43pKbbLyLJZl47GxMtsGmy) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [grütze \- bist du gut im atmen](https://open.spotify.com/album/1TNb8ZZ30qT6FhnOFAtPEy) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Slumber Party](https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw) | [Tigerhead](https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Slumber Party](https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N) | 5:54 |
 | 50 | [Sweatpants](https://open.spotify.com/track/4osqqu4H2Ts6muCYD94sCZ) | [Wonda](https://open.spotify.com/artist/5PMaM5VNkcijAx2PjszugR) | [Sweatpants](https://open.spotify.com/album/3GrSygb044hjoQZhpW8g1h) | 2:16 |
 
-Snapshot ID: `MCxiOGE3NzI3MzRmYjFiNzNjZWI0NDlhNzZjOTg0N2I3MDgyY2M5YmJh`
+Snapshot ID: `MCw3NGVhYTJiZWJmYmJiNjY1YWE1ZDAwZmQwMDhhOWIwZWQ2MzBhMGEx`

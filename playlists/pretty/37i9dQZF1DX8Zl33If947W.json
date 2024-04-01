@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 162342,
+  "num_followers": 162419,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmEzODI1NzU3YzIxMmU0NmRhMDBlM2Y0M2Q0ZmUxNjY0YjA3NThm",
+  "snapshot_id": "MCwwYzRjNjEwZjllMWQwNTZhZjYzMWY5NjkwY2ViMjU1OWI1N2I1ZjA2",
   "tracks": [
     {
       "added_at": "2024-02-09 07:01:34",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Nador",
-        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
-      },
-      "artists": [
-        {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Lieblingsmensch",
-      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Schwei\u00dfperlen",
         "url": "https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 200946,
       "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
       "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Muttersprache (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Connor",
-          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Wie sch\u00f6n du bist",
-      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -407,6 +391,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Muttersprache (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Wie sch\u00f6n du bist",
+      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Mit Dir",
         "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
-        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
-      },
-      "artists": [
-        {
-          "name": "Die Toten Hosen",
-          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Alles aus Liebe",
-      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 180186,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
+        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
+      },
+      "artists": [
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Alles aus Liebe",
+      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
-      },
-      "artists": [
-        {
-          "name": "Alexander Eder",
-          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
-        }
-      ],
-      "duration_ms": 147825,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Boh\u00e8me",
         "url": "https://open.spotify.com/album/6xiAsRGDcZ0cGz3o9CE06i"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 181666,
       "name": "Das Spiel",
       "url": "https://open.spotify.com/track/7lHHTWfwo1twOeQGMwr6cp"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
     },
     {
       "added_at": "2024-02-09 07:01:34",

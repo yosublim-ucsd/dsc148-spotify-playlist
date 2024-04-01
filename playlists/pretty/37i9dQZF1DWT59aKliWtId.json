@@ -1,12 +1,12 @@
 {
   "description": "a high-quality alternative blend ft. Mt. Joy",
-  "num_followers": 103648,
+  "num_followers": 103660,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBiZTdlNTgyYmMwMGIxNDVjMmVlNmY2ZWNjYzEwZDZlYTRmZDU3",
+  "snapshot_id": "MCw5NzUwNWJhZDBiODhlZjI1MjU5MDhkNmQwMDY2MDExYzZhMTFhMzI1",
   "tracks": [
     {
       "added_at": "2024-03-18 22:34:47",
@@ -455,22 +455,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "The Hardest Part (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -491,18 +487,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+        "name": "The Hardest Part (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+      "duration_ms": 176048,
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Love Lines",
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 221534,
+      "name": "One Like You",
+      "url": "https://open.spotify.com/track/4AKxFYKasB3lbakwXLkQWy"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Mars To Liverpool",
         "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 220940,
       "name": "Mars To Liverpool",
       "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Love Lines",
-        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 221534,
-      "name": "One Like You",
-      "url": "https://open.spotify.com/track/4AKxFYKasB3lbakwXLkQWy"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Mood Ring",
-        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 177080,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 158568,
       "name": "dopamine",
       "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        },
+        {
+          "name": "James Mercer",
+          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Burial Ground",
+      "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Love Of A Girl",
         "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 236426,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        },
-        {
-          "name": "James Mercer",
-          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Burial Ground",
-      "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "We Make Hits",
-        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Pretty Vicious",
         "url": "https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 310300,
       "name": "Pretty Vicious",
       "url": "https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Big Love",
+        "url": "https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Big Love",
+      "url": "https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Burn The Hard Drive (feat. Mura Masa)",
         "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 192832,
       "name": "Burn The Hard Drive (feat. Mura Masa)",
       "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Big Love",
-        "url": "https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Big Love",
-      "url": "https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Water Underground",
-        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Water Underground",
-      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Don\u2019t Wanna Love U",
         "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 209418,
       "name": "Don\u2019t Wanna Love U",
       "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Water Underground",
+        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Water Underground",
+      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Cowboy Tumbleweed",
-        "url": "https://open.spotify.com/album/3lJcMnimBy6eAJgdL4V55R"
-      },
-      "artists": [
-        {
-          "name": "FIGHTMASTER",
-          "url": "https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw"
-        }
-      ],
-      "duration_ms": 232936,
-      "name": "Cowboy Tumbleweed",
-      "url": "https://open.spotify.com/track/5tnguwr2vzXKmoFoJqxCwd"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Strange Disciple",
         "url": "https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK"
       },
@@ -2091,6 +2075,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Cowboy Tumbleweed",
+        "url": "https://open.spotify.com/album/3lJcMnimBy6eAJgdL4V55R"
+      },
+      "artists": [
+        {
+          "name": "FIGHTMASTER",
+          "url": "https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw"
+        }
+      ],
+      "duration_ms": 232936,
+      "name": "Cowboy Tumbleweed",
+      "url": "https://open.spotify.com/track/5tnguwr2vzXKmoFoJqxCwd"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Tilt At The Wind No More",
         "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
       },
@@ -2103,22 +2103,6 @@
       "duration_ms": 212081,
       "name": "Smoke & Ribbons",
       "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Wild Days",
-        "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 219349,
-      "name": "Wild Days",
-      "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2151,6 +2135,22 @@
       "duration_ms": 209360,
       "name": "Pull the Rope",
       "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Wild Days",
+        "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 219349,
+      "name": "Wild Days",
+      "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
     },
     {
       "added_at": "2024-03-18 22:34:47",

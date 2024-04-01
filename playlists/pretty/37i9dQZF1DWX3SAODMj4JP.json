@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 137668,
+  "num_followers": 137736,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw",
+  "snapshot_id": "MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "sentido",
+        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 289985,
+      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
+      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "III (Studio Sessions)",
         "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 352173,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "sentido",
-        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 289985,
-      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
-      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
     },
     {
       "added_at": "2023-10-06 04:04:27",

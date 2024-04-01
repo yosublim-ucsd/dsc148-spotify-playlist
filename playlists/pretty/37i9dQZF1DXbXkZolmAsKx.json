@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 9401,
+  "num_followers": 9411,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzM1MWQ4OTY2ZmQ5YTk0NTQ1NjMwNmYxYWM2YzZiM2ZjOGNlYThm",
+  "snapshot_id": "MCw0NmEzZWJhMzlhZTBmZmYzZDdkYWUwNDRhMDYwMTQ2NWQzMjljMTBi",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Magic Place",
-        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Cloak",
-      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 249700,
       "name": "Narkopop 4",
       "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Magic Place",
+        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Cloak",
+      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Atomos",
+        "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 469213,
+      "name": "Atomos VII",
+      "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 407999,
       "name": "Atelier",
       "url": "https://open.spotify.com/track/71mFfICCJkyn4gyYjnoiDL"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Atomos",
-        "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
-      },
-      "artists": [
-        {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
-        }
-      ],
-      "duration_ms": 469213,
-      "name": "Atomos VII",
-      "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1219,6 +1219,38 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "chapter",
+        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
+      },
+      "artists": [
+        {
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "soft rime",
+      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+      },
+      "artists": [
+        {
+          "name": "Darshan Ambient",
+          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Infra",
         "url": "https://open.spotify.com/album/7zwjum4hz8odYpeZrSZyz2"
       },
@@ -1251,38 +1283,6 @@
       "duration_ms": 244786,
       "name": "Infra 1",
       "url": "https://open.spotify.com/track/3c7ZpMEp2doDCVm1Rw7Vf3"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "chapter",
-        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
-      },
-      "artists": [
-        {
-          "name": "Hirotaka Shirotsubaki",
-          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
-        }
-      ],
-      "duration_ms": 287843,
-      "name": "soft rime",
-      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Fire Light",
-        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
-      },
-      "artists": [
-        {
-          "name": "Darshan Ambient",
-          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Vantaa",
-        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
-      },
-      "artists": [
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 490500,
-      "name": "Luotasi",
-      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "American Woman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 106643,
       "name": "Search Party",
       "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Vantaa",
+        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 490500,
+      "name": "Luotasi",
+      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "LUX 1",
-        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 212839,
-      "name": "LUX 1.4",
-      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Travels in Constants Volume 24",
         "url": "https://open.spotify.com/album/690BSJU73zkz1gbUJ9AkAE"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "21 Exoticism ESCAP",
-        "url": "https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h"
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
       "artists": [
         {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 197581,
-      "name": "Gentle Flight",
-      "url": "https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X"
+      "duration_ms": 212839,
+      "name": "LUX 1.4",
+      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1723,6 +1707,22 @@
       "duration_ms": 296133,
       "name": "Living Lens",
       "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "21 Exoticism ESCAP",
+        "url": "https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 197581,
+      "name": "Gentle Flight",
+      "url": "https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X"
     }
   ],
   "unique_name": "Ambient 2010s",

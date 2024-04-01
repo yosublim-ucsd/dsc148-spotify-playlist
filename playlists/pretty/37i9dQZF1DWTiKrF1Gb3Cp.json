@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 199734,
+  "num_followers": 199783,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjU2NTA0Y2Q2YWRlYWUxOGUzZjIwMmEwODMzZjdiOWYwNjc4N2Y5",
+  "snapshot_id": "MCw2NDYwYzU3NWM0YjQwNjYwYmJmN2M5OTM4ZjMyNjgzMWY5NWViM2Vl",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 215745,
-      "name": "77",
-      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Cuerno Mio",
         "url": "https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 167720,
       "name": "Cuerno Mio",
       "url": "https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Locofon\u00edas",
         "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 235728,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1739,8 +1739,8 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Viviendo Recio",
-        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
+        "name": "Nosotros Somos la Under Side Karnal",
+        "url": "https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL"
       },
       "artists": [
         {
@@ -1748,9 +1748,9 @@
           "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
         }
       ],
-      "duration_ms": 306744,
-      "name": "Sangre De Barrio",
-      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
+      "duration_ms": 308485,
+      "name": "Ni Muy Muy Ni Tan Tan",
+      "url": "https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1891,8 +1891,8 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Nosotros Somos la Under Side Karnal",
-        "url": "https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL"
+        "name": "Viviendo Recio",
+        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
       },
       "artists": [
         {
@@ -1900,9 +1900,9 @@
           "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
         }
       ],
-      "duration_ms": 308485,
-      "name": "Ni Muy Muy Ni Tan Tan",
-      "url": "https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2"
+      "duration_ms": 306744,
+      "name": "Sangre De Barrio",
+      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
     },
     {
       "added_at": "2024-03-15 06:00:00",

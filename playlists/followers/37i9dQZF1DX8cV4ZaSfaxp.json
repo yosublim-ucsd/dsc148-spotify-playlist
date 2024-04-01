@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 51185,
+  "2024-04-01": 51217,
   "date_first_scraped": "2022-05-15",
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
@@ -1515,6 +1515,24 @@
       "duration_ms": 190287,
       "name": "Diver",
       "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+    },
+    {
+      "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0"
     },
     {
       "album": {
@@ -4371,7 +4389,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 202218,
       "name": "SEOUL CITY POP",
       "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"

@@ -1,12 +1,12 @@
 {
   "description": "C\u00e1rgate de energia con el eclipse solar ",
-  "num_followers": 16639,
+  "num_followers": 16667,
   "original_name": "Eclipse Solar ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTQ4NmM4Njg5ZmJlZTRkZGNjMWE2ZDBhZTMzYzcyODE1MWNlZThm",
+  "snapshot_id": "MCxlYzVhM2JiMjQ4MDUyMTQ5OGMyYWRhNWEyZjFiM2FiMjVkYzg4Zjli",
   "tracks": [
     {
       "added_at": "2024-03-27 21:09:50",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
-        "name": "SINO",
-        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Quiero Ver",
-      "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
-    },
-    {
-      "added_at": "2024-03-27 21:09:50",
-      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 314173,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
+    },
+    {
+      "added_at": "2024-03-27 21:09:50",
+      "album": {
+        "name": "SINO",
+        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Quiero Ver",
+      "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
     },
     {
       "added_at": "2024-03-27 21:09:50",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 130427,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
-    },
-    {
-      "added_at": "2024-03-27 21:09:50",
-      "album": {
         "name": "Harvest Moon",
         "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 303213,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
+    },
+    {
+      "added_at": "2024-03-27 21:09:50",
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 130427,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
     },
     {
       "added_at": "2024-03-27 21:09:50",

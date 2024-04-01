@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,418 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,442 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 13 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 |
 | 14 | [Clearly](https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN) | [Clearly](https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u) | 3:43 |
 | 15 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 |
-| 16 | [Take My Heart](https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW) | [Jordan Biel](https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw) | [Instrumental Worship Music, Vol\. 1](https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx) | 5:30 |
-| 17 | [For The One \- Instrumental](https://open.spotify.com/track/7ph250c2s06TIsL18QceuA) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 4:01 |
+| 16 | [For The One \- Instrumental](https://open.spotify.com/track/7ph250c2s06TIsL18QceuA) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 4:01 |
+| 17 | [Take My Heart](https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW) | [Jordan Biel](https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw) | [Instrumental Worship Music, Vol\. 1](https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx) | 5:30 |
 | 18 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 |
 | 19 | [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 |
 | 20 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 75 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv), [Ellisha Carter](https://open.spotify.com/artist/2vEOfYrqqx0Crq1UH7joYE) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 |
 | 76 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 |
 | 77 | [Anthem](https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK) | [SpiritFit Music](https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew) | [Spirit Stretch \(For Christian Yoga, Relaxation and Massage\)](https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4) | 5:46 |
-| 78 | [The Promise](https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [The Promise](https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF) | 5:52 |
-| 79 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
+| 78 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
+| 79 | [The Promise](https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [The Promise](https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF) | 5:52 |
 | 80 | [Abba \- Live](https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Worship Initiative, Vol\. 28 \(Live\)](https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0) | 6:31 |
 | 81 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 |
 | 82 | [Every Mountain View](https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh) | [Carinthia](https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU) | [Fields](https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s) | 6:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
 | 100 | [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 |
 
-Snapshot ID: `MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1`
+Snapshot ID: `MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0`

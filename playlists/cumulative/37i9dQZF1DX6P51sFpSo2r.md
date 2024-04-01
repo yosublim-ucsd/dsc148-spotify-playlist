@@ -2,7 +2,7 @@
 
 ### [Metalcore Classics](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r)
 
-> The perfect mix between old\-school and modern Metalcore\. Cover: A7X
+> The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
 82 songs - 5 hr 25 min
 

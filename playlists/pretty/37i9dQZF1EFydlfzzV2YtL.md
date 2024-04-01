@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,264 likes - 156 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266 likes - 156 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 48 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 |
 | 49 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 50 | [The Other Side \(Alessia Cara Version\)](https://open.spotify.com/track/5stBjr01wRUJa6BGqkxPD7) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Other Side \(Alessia Cara Version\)](https://open.spotify.com/album/0xK3vVeEMBZCn0CVTTaYL9) | 3:19 |
-| 51 | [Unlonely](https://open.spotify.com/track/7Igc6JB0xPDcn5yRkkVGQX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:51 |
-| 52 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
+| 51 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
+| 52 | [Unlonely](https://open.spotify.com/track/7Igc6JB0xPDcn5yRkkVGQX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:51 |
 | 53 | [Should've Been Me](https://open.spotify.com/track/27Bm0wnZk7NGFGYoTuYM8Y) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Should've Been Me](https://open.spotify.com/album/14knqLZ1yBtkXtGRXgFgYp) | 4:04 |
 | 54 | [Drop In the Ocean \(feat\. AronChupa\)](https://open.spotify.com/track/07idyjb93qYavu1s29HtBi) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 2:57 |
 | 55 | [Safety Pin](https://open.spotify.com/track/5leyWMqJqUXT7wc70koshC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Sounds Good Feels Good \(Deluxe\)](https://open.spotify.com/album/43v9cUsP5K0hvu9iyuAzmZ) | 3:29 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 103 | [Maradona](https://open.spotify.com/track/5D8JdpIbqKKmeQf4FXT614) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:43 |
 | 104 | [Last Goodbye \(feat\. Tove Styrke & Stefflon Don\)](https://open.spotify.com/track/6Vly9VOZmMnHDDambtb32p) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:19 |
 | 105 | [Old School \- Acoustic](https://open.spotify.com/track/1Vd2VTgJs2ej0Y6VGKnNqh) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [Old School \(Acoustic\)](https://open.spotify.com/album/1yHzPtoin3VLu2h72Y3dW5) | 3:36 |
-| 106 | [Prisoner](https://open.spotify.com/track/5hrrgSG5jauJS19Qjvb7En) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Prisoner](https://open.spotify.com/album/3yCz55vgyI64tU4IkFw0F8) | 3:15 |
-| 107 | [Hollow](https://open.spotify.com/track/1DQiQmwleN5zdUSWZlMpGQ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:32 |
+| 106 | [Hollow](https://open.spotify.com/track/1DQiQmwleN5zdUSWZlMpGQ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:32 |
+| 107 | [Prisoner](https://open.spotify.com/track/5hrrgSG5jauJS19Qjvb7En) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Prisoner](https://open.spotify.com/album/3yCz55vgyI64tU4IkFw0F8) | 3:15 |
 | 108 | [Solo Mission](https://open.spotify.com/track/0oxPA3C0E3zkEDkfYogCb0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 4:25 |
 | 109 | [I Hope You Change Your Mind](https://open.spotify.com/track/5fWBKbbsXFSgCpCQ69YhOi) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:24 |
 | 110 | [Good Die Young](https://open.spotify.com/track/2qV4oFPfGjIH4bg9L8mjkJ) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Good Die Young](https://open.spotify.com/album/1Lcii5tFpuOZEco0rQiubv) | 3:28 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 155 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 156 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Mjg1MzA4NTAsMDAwMDAwMDA0ODRmZjg3ZmFlNGU0N2YzNDE3Yzg1YmVjNGE2ODlhMA==`
+Snapshot ID: `Mjg1MzIyOTAsMDAwMDAwMDA2M2E0MTgzY2FjYTA3NjU2N2JmOGZhODBlMTJkNjQ2ZA==`

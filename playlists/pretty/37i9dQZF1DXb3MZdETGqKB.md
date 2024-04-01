@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,537 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,566 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 |
 | 100 | [Can't Judge a Book By It's Cover](https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Can't Judge a Book By It's Cover](https://open.spotify.com/album/3Doi1QZvtbTwiV1e4eNv4R) | 2:42 |
 
-Snapshot ID: `MCwxMTNmNDI2ZjE4NGE5MjZkYTdjNzZjYWQyNGQzZDk0MGIxNzY3OWE2`
+Snapshot ID: `MCw3Y2ZlODYyNjQxYjdiYTk0YTE4ODU2OTJmOTBmYTg1ODE2N2NiNjNl`

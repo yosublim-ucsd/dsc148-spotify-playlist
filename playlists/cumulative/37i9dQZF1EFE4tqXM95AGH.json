@@ -122,6 +122,24 @@
     {
       "album": {
         "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201865,
+      "name": "85",
+      "url": "https://open.spotify.com/track/2pipRHTv8rCeRyZL3smnsT"
+    },
+    {
+      "album": {
+        "name": "The Good Parts",
         "url": "https://open.spotify.com/album/7iUXqVtetCXWU5Paf3E0Ir"
       },
       "artists": [
@@ -132,7 +150,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 201865,
       "name": "85",
       "url": "https://open.spotify.com/track/51Aj7h94bLlm8xEXFLaxJ7"

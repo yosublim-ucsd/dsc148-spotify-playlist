@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-435 songs - 1 day 6 hr 47 min
+437 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [It’s A Love Thing](https://open.spotify.com/track/15zX0XOLYS0GWnuXJe0jTa) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [XX](https://open.spotify.com/album/3B6JmsgFu4k50ctzvjQ414) | 6:24 | 2020-10-30 | 2022-03-18 |
 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 | 2022-03-18 | 2023-08-26 |
 | [Just a Taste](https://open.spotify.com/track/7JGBzcii3TqDSv1JQOtui6) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [HERO](https://open.spotify.com/album/3ZRYpCfUbMbwHPA39R2CJ1) | 4:00 | 2020-10-30 | 2022-03-15 |
-| [Just Coolin’ \(feat\. Ryan La Valette\)](https://open.spotify.com/track/0Q0gGYn7U7NT9FEbB8kmVU) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Just Coolin' \(feat\. Ryan La Valette\)](https://open.spotify.com/album/5eI4zyIaA9RVfusOeTdLrH) | 4:34 | 2024-03-29 |  |
+| [Just Coolin’ \(feat\. Ryan La Valette\)](https://open.spotify.com/track/0Q0gGYn7U7NT9FEbB8kmVU) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Just Coolin' \(feat\. Ryan La Valette\)](https://open.spotify.com/album/5eI4zyIaA9RVfusOeTdLrH) | 4:34 | 2024-03-29 | 2024-04-01 |
+| [Just Coolin’ \(feat\. Ryan La Valette\)](https://open.spotify.com/track/4buONxCYsAehQ0IoNg3xhS) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Gentle and Smooth](https://open.spotify.com/album/7pyxMFsFpWZVbgu3dV7dSL) | 4:34 | 2024-03-29 |  |
 | [Just In Featuring](https://open.spotify.com/track/3VCrmUwo226twtuuZ1nqpk) | [Justin Lee Schultz](https://open.spotify.com/artist/7442ege95ki2gp7bwhOSs1), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just In](https://open.spotify.com/album/0GiX2kkHdRgOVhaCkKBSI5) | 4:05 | 2021-01-22 | 2022-03-12 |
 | [Just Like That](https://open.spotify.com/track/1fvkvO7ChgVpd7GgfQp1Rl) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/1b5hoGgy61t9KWCui4JBkc) | 3:56 | 2023-03-03 | 2023-04-22 |
 | [Just One Of Those Things](https://open.spotify.com/track/0cPgDhXIJMX45AIRCdzYZz) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Just One of Those Things](https://open.spotify.com/album/4ECH1gTcz4Svspd0UrgwCT) | 4:06 | 2022-07-22 | 2022-08-09 |
@@ -357,7 +358,8 @@
 | [Still Got It](https://open.spotify.com/track/2aryC91gGWrtN4Xe00pDIN) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [A New Day](https://open.spotify.com/album/299mWpZxdi2ddAcJJEDmnH) | 4:43 | 2020-10-30 | 2022-03-17 |
 | [Stockholm Summer](https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:55 | 2020-10-30 | 2022-03-18 |
 | [Straight to the Point](https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Straight to the Point](https://open.spotify.com/album/2xgDe9WhVacLda2qrFB511) | 4:02 | 2021-10-01 | 2022-09-17 |
-| [Straighten Up](https://open.spotify.com/track/5ZhgyPGq8kVOTrwm60T73w) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Straighten Up](https://open.spotify.com/album/6qPWVg4MxBEIFoG2O8XdnG) | 3:54 | 2024-02-16 |  |
+| [Straighten Up](https://open.spotify.com/track/13Y1NLZ57TRjwRlREzPBhO) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Straighten Up](https://open.spotify.com/album/0MkO3rfW5V6nENmUdIBfwf) | 3:54 | 2024-02-16 |  |
+| [Straighten Up](https://open.spotify.com/track/5ZhgyPGq8kVOTrwm60T73w) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Straighten Up](https://open.spotify.com/album/6qPWVg4MxBEIFoG2O8XdnG) | 3:54 | 2024-02-16 | 2024-04-01 |
 | [Strasbourg / St\. Denis \(feat\. Dr Derek Scott\)](https://open.spotify.com/track/0YD0deFXaCmwJEtZxgjUHf) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Dr Derek Scott](https://open.spotify.com/artist/2miOGhYr50EB1eY2Sm0uii) | [Going Home](https://open.spotify.com/album/26iW490GVru2pH1WWU2Lln) | 4:41 | 2020-10-30 | 2022-03-18 |
 | [Stratosphere](https://open.spotify.com/track/2W540AXgdQY51tgniBvmIo) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Poetry In Motion](https://open.spotify.com/album/3HUr0DgkXGWecERNILMjg9) | 4:40 | 2020-10-30 | 2022-03-15 |
 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 | 2022-07-01 | 2024-01-27 |

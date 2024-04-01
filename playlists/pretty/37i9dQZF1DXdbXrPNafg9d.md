@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,246 likes - 175 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,313 likes - 175 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 9 | [AMAMA](https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA) | 3:10 |
 | 10 | [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 |
 | 11 | [Shell \(with Jordana\)](https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Got Him! \(Deluxe\)](https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7) | 2:19 |
-| 12 | [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 |
+| 12 | [Live Today](https://open.spotify.com/track/3wAUDos7BPWlHBetCruaD1) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Notebook Fantasy](https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX) | 2:52 |
 | 13 | [How We See The Light](https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [How We See The Light](https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f) | 4:45 |
 | 14 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 |
 | 15 | [Human Nature](https://open.spotify.com/track/7q2euBzunDGE9082q4eRV0) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Rufus](https://open.spotify.com/album/1OMJLY7DGl3BdzmG9MEXeA) | 2:45 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 100 | [Come Back Home](https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Come Back Home](https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P) | 2:42 |
 | 101 | [The Make Believe](https://open.spotify.com/track/0JpcQdQnDvAIhShz61N9jm) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [The Make Believe](https://open.spotify.com/album/12LEJQjLucN7zD2Uhx3EJq) | 3:17 |
 | 102 | [Dancing in the Club](https://open.spotify.com/track/6WM7lXStlVKnYpeM6Q5EIA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Dancing in the Club](https://open.spotify.com/album/4bbgIXYIqLp7SnauWEWClv) | 4:47 |
-| 103 | [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 |
+| 103 | [Monaco](https://open.spotify.com/track/6AloHraR37w5Mn7kDlr3aR) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Interplay](https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld) | 4:15 |
 | 104 | [Spin The Block](https://open.spotify.com/track/28iI7pOj51BlKlEwhmplaT) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Spin The Block](https://open.spotify.com/album/7AjozjGfrhjIgdgWvd7pg2) | 4:12 |
 | 105 | [Lost Boys](https://open.spotify.com/track/14RHVhgK4QxsOCQcu4R1Q3) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Lost Boys](https://open.spotify.com/album/6a33WVVukUWB0gNetjTBmm) | 2:40 |
 | 106 | [televangelic](https://open.spotify.com/track/0uX83ddRiglEmNOS8TD1GS) | [Sierra Spirit](https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR) | [televangelic](https://open.spotify.com/album/5opYjN0vZhRiewIzp33NxY) | 3:43 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Alone At Last](https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [47](https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t) | 2:57 |
 | 175 | [OMG](https://open.spotify.com/track/2NU2HTpGWHgO8RPX7CjxEz) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [OMG](https://open.spotify.com/album/3MrC7rsycSJmM1YjMbDyyM) | 4:10 |
 
-Snapshot ID: `MCwwYzMwM2I3Mjk4MjliOWNiOTczNmVmYTk1YjE2ZTI0ZDE5MjM1MDc4`
+Snapshot ID: `MCwyNjJkMTI0N2U1NDcwYTIwNTRjYzEyNGU0ZmMwNWE0NzllZjgwMTEz`

@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 60448,
+  "num_followers": 60554,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjg3Y2M5ZGVkZWI0Y2UyMDQzZWFmZGYwNjBlNDA0NzZmODljMzVj",
+  "snapshot_id": "MCxmN2ViZTNiMjg3NjZmMjhhMTQ5MzRkMTllNWVmODRlNWEyZmZiZTZk",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Match For My Memory",
-        "url": "https://open.spotify.com/album/1btxskaPEUaAs39MnammfS"
+        "name": "Stick That In Your Country Song",
+        "url": "https://open.spotify.com/album/7wWQFNpOLyRK6y4Ch1NaQe"
       },
       "artists": [
         {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 179878,
-      "name": "Match For My Memory",
-      "url": "https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo"
+      "duration_ms": 228706,
+      "name": "Stick That In Your Country Song",
+      "url": "https://open.spotify.com/track/5lH14PEjAXYuMTz0Dd4L1D"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Stick That In Your Country Song",
-        "url": "https://open.spotify.com/album/7wWQFNpOLyRK6y4Ch1NaQe"
+        "name": "Match For My Memory",
+        "url": "https://open.spotify.com/album/1btxskaPEUaAs39MnammfS"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
         }
       ],
-      "duration_ms": 228706,
-      "name": "Stick That In Your Country Song",
-      "url": "https://open.spotify.com/track/5lH14PEjAXYuMTz0Dd4L1D"
+      "duration_ms": 179878,
+      "name": "Match For My Memory",
+      "url": "https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo"
     }
   ],
   "unique_name": "Beast Mode Country",

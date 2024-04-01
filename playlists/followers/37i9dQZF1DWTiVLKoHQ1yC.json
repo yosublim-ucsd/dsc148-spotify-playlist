@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 177638,
+  "2024-04-01": 177687,
   "date_first_scraped": "2022-04-20",
   "description": "Come alive with this progressive & melodic house selection.",
   "name": "Melodic & Euphoric",
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 217915,
       "name": "Mwaki - Franky Wah Remix",
       "url": "https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1"
@@ -2507,6 +2507,32 @@
       "duration_ms": 199897,
       "name": "Sunlight - Rodriguez Jr. Remix",
       "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/0XDch3owENNks3bapuFjAs"
+      },
+      "artists": [
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        },
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211547,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA"
     },
     {
       "album": {

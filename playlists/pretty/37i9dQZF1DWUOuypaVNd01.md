@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,246 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,249 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 11 | [Negócios](https://open.spotify.com/track/6bFpc6JpRkBjgba0bES4QV) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Negócios](https://open.spotify.com/album/0NaTmb6Ar7mF9RYefids93) | 2:37 |
 | 12 | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl) | 3:27 |
 | 13 | [Lembro](https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Lembro](https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT) | 2:44 |
-| 14 | [auri sacra fames](https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 4:27 |
-| 15 | [Ouro e fuzil](https://open.spotify.com/track/0OZR3UekFolO2c9ta18NNv) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 2:23 |
+| 14 | [Ouro e fuzil](https://open.spotify.com/track/0OZR3UekFolO2c9ta18NNv) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 2:23 |
+| 15 | [auri sacra fames](https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 4:27 |
 | 16 | [99 Não É 100](https://open.spotify.com/track/5lzlMq5i4IlnN9S5PiPssP) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Rock Danger Worldwide/Chile](https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o) | 3:14 |
 | 17 | [COSTA QUENTE](https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [COSTA QUENTE](https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8) | 2:46 |
 | 18 | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Ruas da Leste](https://open.spotify.com/track/5tpqkzcDvvIAHmkBJEhUyK) | [Teixeirw](https://open.spotify.com/artist/2pzOuwEHKoZ3ZRGz0ovblx), [Beats by GorJah](https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU) | [Ruas da Leste](https://open.spotify.com/album/0eBzFsIYzN6yZUAhmkCSYY) | 2:49 |
 | 50 | [TODO DIA](https://open.spotify.com/track/5TV95jrxQilQxTLFok8kxK) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [TODO DIA \- \(Drill de Verão\)](https://open.spotify.com/album/6kmklNIw2GN520PAZsAj0m) | 1:43 |
 
-Snapshot ID: `MCw1NmZjMTExNzY5NTVkOTljN2Q3Yjg0NTA0ZjVjY2FhYTJlZTJhM2Nj`
+Snapshot ID: `MCw5OWFmMjRkZmVmZDBmYTAzZTVmZGY5ZDI3NzE1Mjc3YzU5ZjZiMmVj`

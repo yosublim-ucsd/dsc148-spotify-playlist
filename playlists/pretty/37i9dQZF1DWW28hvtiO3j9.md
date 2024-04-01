@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,957 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,048 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 13 | [Love Was Really Gone \- 2018 Remaster](https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 5:47 |
 | 14 | [WINDY SUMMER](https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:06 |
 | 15 | [Riverside Hotel \- 2020 Remix](https://open.spotify.com/track/6DVQXBOMRvrCjHYbrirvHL) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [NEVER ENDING SUMMER REMIX](https://open.spotify.com/album/44dHale91iIB64OLX7m40c) | 4:27 |
-| 16 | [I'm in Love](https://open.spotify.com/track/5RSpR665UGsu1FFEq1pG8R) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:53 |
+| 16 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 |
 | 17 | [アクアマリンのままでいて \- 2021 Remix](https://open.spotify.com/track/3lIgUSh6MzLR0x6jg6EMlZ) | [Carlos Toshiki And Omega Tribe](https://open.spotify.com/artist/3ZSJOcGvaMOI6Op3PYpMM9) | [The Reverb 2022 OMEGA TRIBE \(WARNER MUSIC JAPAN Edition\)](https://open.spotify.com/album/36gn7tmmZceCd3SxHLBrg5) | 4:31 |
-| 18 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 |
+| 18 | [I'm in Love](https://open.spotify.com/track/5RSpR665UGsu1FFEq1pG8R) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:53 |
 | 19 | [Love Trip](https://open.spotify.com/track/4dxRUlwCaI9nHUGrfWbLqT) | [Miki Asakura](https://open.spotify.com/artist/6i78fiwTmtgGhVeyQIdITv) | [HIP CITY](https://open.spotify.com/album/4ATf4dCMffq9ikKjoIcoQ4) | 3:44 |
 | 20 | [midnight cruisin'](https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 4:43 |
 | 21 | [指切り](https://open.spotify.com/track/4cqT8OWWECOOKV4VZELuPs) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [大瀧詠一 乗合馬車\(Omnibus\) 50th Anniversary Edition](https://open.spotify.com/album/1uUVkfscVqO6dvHEmURoLp) | 3:36 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 38 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
 | 39 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
 | 40 | [LIGHT'N UP](https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [LIGHT'N UP](https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7) | 5:48 |
-| 41 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 |
-| 42 | [色彩都市](https://open.spotify.com/track/1NPwuNYRugoQz8y5HTnIBL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [cliche \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/4al3d0A9Ial2N26xVMa2EM) | 3:34 |
-| 43 | [FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER](https://open.spotify.com/track/2pzmWqLgCSQDYzGZs0jGsN) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:01 |
+| 41 | [FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER](https://open.spotify.com/track/2pzmWqLgCSQDYzGZs0jGsN) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:01 |
+| 42 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 |
+| 43 | [色彩都市](https://open.spotify.com/track/1NPwuNYRugoQz8y5HTnIBL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [cliche \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/4al3d0A9Ial2N26xVMa2EM) | 3:34 |
 | 44 | [Ocean Side](https://open.spotify.com/track/6T0a8AFfS62waTXaTAIhWR) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/43MH8ZrLAL15xHRmIyAr46) | 4:38 |
 | 45 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
 | 46 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
 | 50 | [スノッブな夜へ](https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 4:51 |
 
-Snapshot ID: `MCxhMDczMTU3ZThlODQyM2VhNTgzZmNjMDU3YmRmYTg5ZGQ4ZTE0NzY4`
+Snapshot ID: `MCw2OThlMTVhZGQwYmE1MjY1NmExYWQzMmVmODc3YTY5NzdkMzUwMzc3`

@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Nourished by Time
 
-6,779 songs - 16 day 11 hr 50 min
+6,781 songs - 16 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3509,7 +3509,8 @@
 | [Little Things](https://open.spotify.com/track/41YZXlOIGKmaa3RJpBn2Qy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Little Things/Sparrow](https://open.spotify.com/album/3ZftJ3ZvQf8Sas1pUVSjZU) | 5:44 | 2021-08-14 | 2021-10-02 |
 | [Little Wing](https://open.spotify.com/track/0nLRcAbhEuVtlJzMGS9elE) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Little Wing](https://open.spotify.com/album/78l59VKRD9Yo4x6TRfqoou) | 3:43 | 2023-10-06 | 2023-11-11 |
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2023-10-06 | 2023-11-11 |
-| [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 | 2024-03-29 |  |
+| [Live Today](https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Live Today](https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt) | 2:52 | 2024-03-29 | 2024-04-01 |
+| [Live Today](https://open.spotify.com/track/3wAUDos7BPWlHBetCruaD1) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Notebook Fantasy](https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX) | 2:52 | 2024-03-29 |  |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-09-25 | 2021-11-20 |
 | [Livin in Hell](https://open.spotify.com/track/2kOtoHo90KPbk8AD0pXMGN) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq) | [Livin in Hell](https://open.spotify.com/album/0CGPXjEQFjsBLvolwXTONL) | 3:06 | 2022-11-11 | 2022-11-26 |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-04-24 | 2021-06-26 |
@@ -3884,7 +3885,8 @@
 | [Mommy](https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mommy](https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby) | 3:07 | 2023-03-03 | 2023-04-09 |
 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-03-08 |  |
 | [Mona](https://open.spotify.com/track/1B9Qu8ZjY2sV1Y7tBJeQIP) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [Seeing Other People](https://open.spotify.com/album/4dbLyPv4WsUm01DUUOJlhV) | 4:15 | 2019-05-26\* | 2019-06-15 |
-| [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 | 2024-03-15 |  |
+| [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 | 2024-03-15 | 2024-04-01 |
+| [Monaco](https://open.spotify.com/track/6AloHraR37w5Mn7kDlr3aR) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Interplay](https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld) | 4:15 | 2024-03-15 |  |
 | [Money \(Hymn\)](https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Honeychurch](https://open.spotify.com/album/0c6eomNguQ6ymqB6ZFowUu) | 4:19 | 2021-01-23 | 2021-03-14 |
 | [money body](https://open.spotify.com/track/5IU0tq0QipMw6lUrQlRQtV) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/3LtPIBWo8MYD5jqJIClfe8) | 3:22 | 2023-09-15 | 2023-11-11 |
 | [money body](https://open.spotify.com/track/7bGez9GvqOQa1DGzylJSAE) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/7dEyLHxFvzCOIax3k4IYU9) | 3:22 | 2023-09-15 | 2023-10-06 |

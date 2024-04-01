@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Country Wizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,528 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,535 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [Israel & Palestine Tears \- Freestyle](https://open.spotify.com/track/1hnL006ccbtZuepaGvfEKJ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3), [Yogo Beats](https://open.spotify.com/artist/4kdhLH9zjxk50h38W4NhwP) | [Israel & Palestine Tears \(Freestyle\)](https://open.spotify.com/album/4sNn9Mo6H9ePvEMoSAeltF) | 5:48 |
 | 50 | [\(STRESS FREE\) KHALI MAJONZI](https://open.spotify.com/track/1NSECJ25M3bai2rT9thl2F) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn) | [\(STRESS FREE\) KHALI MAJONZI](https://open.spotify.com/album/3ZKfEfyyly1eiHevgWENeP) | 3:23 |
 
-Snapshot ID: `MCxhNGMxNDBlZDhhNDRjZTNiMmM3Y2ZhMDlmYzBlZDVjMzZjN2Y5ZGZm`
+Snapshot ID: `MCxmOWMzMjhmMjk3Mzc0ZGQ5NjBhMDJlNDc3OGRhNzAzZjVhYzYyN2Ix`

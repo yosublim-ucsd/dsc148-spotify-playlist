@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Jenna Davis
 
-324 songs - 17 hr 9 min
+325 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Running With Scissors](https://open.spotify.com/track/5FGrZwdOQCzg3eRZra9js9) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 2:51 | 2022-04-29 |  |
 | [Sad](https://open.spotify.com/track/2h9TXJfGr4rKRm5SPs4DEs) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Sad](https://open.spotify.com/album/5ZMzBphtzLY90oPXAm5chP) | 3:15 | 2022-06-10 |  |
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-01-14 | 2022-08-02 |
-| [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 | 2021-12-31 |  |
+| [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 | 2021-12-31 | 2024-04-01 |
+| [saw ur mom at the grocery store](https://open.spotify.com/track/43dMjUNngCeGOLtLW4qCPE) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/5lBxtFhs297uE8DZqPWP5e) | 4:13 | 2024-03-29 |  |
 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 | 2022-06-03 |  |
 | [Second Guessing](https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Second Guessing](https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD) | 3:09 | 2023-01-13 |  |
 | [Secret](https://open.spotify.com/track/5ZOy8RnkCaTRFAhLxJDBql) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Secret](https://open.spotify.com/album/40cTaPb1jF6KiiykwR0fEO) | 2:46 | 2021-12-31 |  |

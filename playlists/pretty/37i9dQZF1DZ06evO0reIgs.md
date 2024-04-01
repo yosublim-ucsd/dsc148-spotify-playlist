@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,516 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,513 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 50 | [O Troco \- Ao Vivo](https://open.spotify.com/track/44dzl8rVR1mMPccqsc0rdV) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Troco \(Ao Vivo\)](https://open.spotify.com/album/0qmayW0UP1sJLj6eX0g1EM) | 3:11 |
 | 51 | [Hey Boy](https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:05 |
 
-Snapshot ID: `Mjg1MzAwMjgsMDAwMDAwMDBmMjVjZDg4ODhjOTllMzAyMzljN2UzNzFiZThkZTBkMg==`
+Snapshot ID: `Mjg1MzE0ODEsMDAwMDAwMDA3NjA4YzhjNzk4YzZjMTUxMmUxMThmMWMyMGYwOTk2ZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 
 > Fresh takes\- from new revisions and iconic covers to unexpected versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,529 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,559 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 | 23 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/2JXszkWU3bRlh2mzJDTtON) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Gold \- Greatest Hits](https://open.spotify.com/album/02fXxBBnewKb71ZQ3Bu39I) | 3:37 |
 | 24 | [Your Cheatin' Heart](https://open.spotify.com/track/2xlU7o3osEO626vyimEDjj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Soul On Top](https://open.spotify.com/album/7xlfdwVcoxzv4QDLbCxYvx) | 2:56 |
 | 25 | [I Can't Help It \(If I'm Still in Love With You\)](https://open.spotify.com/track/53Bex6cEx3P7tG1z488jeo) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 2:45 |
-| 26 | [You Win Again](https://open.spotify.com/track/4y8ywNIMdbvewiSbdKwx0o) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:22 |
+| 26 | [You Win Again](https://open.spotify.com/track/36qLSZ1LLlLb51neyv7cUn) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:21 |
 | 27 | [Still In Love](https://open.spotify.com/track/5VbWuWX0XUJu3ZC2BjG5JC) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Myra Lee](https://open.spotify.com/album/6PL6ypUuA52EvfZ0xJO7x7) | 3:29 |
 | 28 | [Lost Highway](https://open.spotify.com/track/5So0PoHqPXdRSAs0TRtqeR) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Scattered](https://open.spotify.com/album/06iGGLNnQrEjhP9JkG7Kgo) | 2:59 |
 | 29 | [Cold, Cold Heart](https://open.spotify.com/track/2kChATTuiIliELTKptiNYH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 1](https://open.spotify.com/album/08K5tm5D6hn49sqEUKbnn0) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 | 99 | [A Picture From Life's Other Side](https://open.spotify.com/track/6RAaXt1sgIsSFMoymNKmwp) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [My Dusty Road](https://open.spotify.com/album/1E5FIJQthMmgyZIZKmIqor) | 3:08 |
 | 100 | [There'll Be No Teardrops Tonight \- Live](https://open.spotify.com/track/2sYa3YE4VXL7G4YjCScBld) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Live from Tokyo](https://open.spotify.com/album/6NgDM8AzELeSAQlmHNWvnv) | 2:42 |
 
-Snapshot ID: `MCxhMTU3MWEyODgzNDQ2NThhZGE2NTJmYzllODk0OTA5ZmRlOWFkZjdk`
+Snapshot ID: `MCw4MjEzYmRjODQ5ODU3OTBmNTRmZTE2YjA4MzM1YTViYWZjNDZkZGVi`

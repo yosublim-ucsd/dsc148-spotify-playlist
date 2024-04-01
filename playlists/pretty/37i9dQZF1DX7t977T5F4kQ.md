@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,428 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,441 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [Dede](https://open.spotify.com/track/6DhvDRUZK6vvMShO2flK1I) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4) | [Dede](https://open.spotify.com/album/0N7O3CtbK6wcZwVzDkqK5A) | 2:53 |
 | 85 | [Not Good Alone](https://open.spotify.com/track/5AuTu4aIJDB1pBEvEMN9Es) | [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [JC Machin](https://open.spotify.com/artist/2FEnjKB2FwfbtfpCkUlEvi) | [Not Good Alone](https://open.spotify.com/album/7pjqxEIqprQ26c3bqGOrKL) | 3:04 |
 
-Snapshot ID: `MCwzMjk5Y2I4ZTRlMGU5NDkwMjQ4NzliNGE2NzJiNWEwOWYxMzhmMGMy`
+Snapshot ID: `MCw4M2VjNzg1MWJjODAzYjFhMTU5OTNlZjk4YmQ0YjczMjJjYjE3OTlm`

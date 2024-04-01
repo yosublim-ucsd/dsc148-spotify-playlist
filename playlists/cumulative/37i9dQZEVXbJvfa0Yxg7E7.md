@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,589 songs - 3 day 10 hr 41 min
+1,590 songs - 3 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-11-30 | 2023-12-30 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-30 | 2022-08-01 |
 | [Cigarettes](https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Cigarettes](https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi) | 3:47 | 2022-02-05 | 2022-02-07 |
-| [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 | 2024-03-23 |  |
+| [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 | 2024-03-23 | 2024-04-01 |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-05-21 | 2022-05-25 |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2022-11-05 | 2022-11-12 |
 | [CIRCUS MAXIMUS](https://open.spotify.com/track/4GL9GMX9t7Qkprvf1YighZ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:18 | 2023-07-29 | 2023-08-02 |
@@ -1125,6 +1125,7 @@
 | [Pikenes Jens 2024 \(Partysnekk\)](https://open.spotify.com/track/0rLhveYoDgncC1dHbDjSLE) | [Phill](https://open.spotify.com/artist/1caxfZzRftKxfWglKFyXEj), [Gutterommet](https://open.spotify.com/artist/55X2mGZWaFXgnyt5dAvbXv) | [Pikenes Jens](https://open.spotify.com/album/7Ia36oNhbVY4eLI2RhD7e0) | 3:04 | 2023-10-27 | 2023-11-20 |
 | [Piller i Hjertet](https://open.spotify.com/track/4SBEZonvKrv7ry9TRXbbWp) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Piller i Hjertet](https://open.spotify.com/album/0RPOc7YHscNSXy5SLSbyZR) | 2:09 | 2024-02-10 | 2024-03-24 |
 | [Pinne for landet](https://open.spotify.com/track/0jefzmTNGgqmxVgMbNWdOa) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Pinne for landet](https://open.spotify.com/album/1ekZkKGOkHcbZY9aHr5Xsj) | 3:17 | 2022-04-16 | 2023-04-12 |
+| [Pinne for landet](https://open.spotify.com/track/1OFyDTPrZdrvs4EG2fopJr) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Pinne for landet](https://open.spotify.com/album/5kqDWEfIFkPcAZ0lFJl3VG) | 3:17 | 2024-03-31 |  |
 | [Pinne for landet](https://open.spotify.com/track/0oXVouNs5TbKXbeZfgkpzi) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Pinne for landet](https://open.spotify.com/album/6mxmtvGf8ED28YVNMo8xY7) | 2:59 | 2023-01-09 | 2023-01-29 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |
 | [Piruss \(Hjemmesnekk\)](https://open.spotify.com/track/63lf9AhjpI4lI2JGPsGK19) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW), [Joe Rock](https://open.spotify.com/artist/2l5ZAGdHNQnBS3YWnAMchH), [HUNKS](https://open.spotify.com/artist/6NwfkxMpOT39moOpzTznDM), [Pi$h](https://open.spotify.com/artist/5hlQ75tehrfiRANSAA9gFQ) | [PIRUSS 2024](https://open.spotify.com/album/07UE6BcEut3B0XyPlCruND) | 2:46 | 2024-02-08 | 2024-02-13 |

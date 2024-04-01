@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,632 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,631 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 57 | [ミュージアムジカ](https://open.spotify.com/track/2y7Cll24OufSOnWmvdzPDe) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 3:53 |
 | 58 | [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 |
 | 59 | [Growing Smiles！](https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles！](https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T) | 4:33 |
-| 60 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 |
-| 61 | [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 |
+| 60 | [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 |
+| 61 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 |
 | 62 | [Hungry?](https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM NEW STAGE EPISODE：02 THE 虎牙道](https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx) | 3:41 |
 | 63 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 |
 | 64 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [SPARKLE SIGN](https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS) | [木村 龍 \(CV.濱 健人\)](https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 3:42 |
 | 75 | [VOY@GER \- SideM Ver.](https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [VOY@GER \(SideM盤\)](https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r) | 5:39 |
 
-Snapshot ID: `MCw5NDkwZDRjNWRjMTY0YTkyMzk3M2FlMTliMTFiY2RmODRkNDBmYTA1`
+Snapshot ID: `MCw0NTNmM2YwMWU1MmUwNTAwNTk5NzI2MmQzNDhmODMxMTEyYzNhM2Jj`

@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Royal & the Serpent + GAYLE
 
-727 songs - 1 day 13 hr 37 min
+728 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Longer The Wait, Harder The Fall](https://open.spotify.com/track/3VE9VWg6xk831ZlHeNI71r) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Longer The Wait, Harder The Fall](https://open.spotify.com/album/4r6ECFQehmlqeVtjN7bT8C) | 3:42 | 2022-03-24 | 2022-04-17 |
 | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/track/3G2FS86ctPb7BqRH9Cp9M6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3O1ZHXPJBX6CKBaxzlH5c3) | 3:20 | 2022-03-17 | 2023-11-18 |
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-03-17 |  |
+| [Loud](https://open.spotify.com/track/0Nb7cvBprOkNhHMrmvKkd2) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Loud](https://open.spotify.com/album/4E8ZvvYHiGS9uUVgyMmE1A) | 3:07 | 2024-03-08 |  |
 | [Loud](https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Loud](https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc) | 3:07 | 2023-12-15 | 2024-03-31 |
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2023-09-08 | 2024-02-21 |
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-03-17 | 2022-07-29 |
@@ -596,7 +597,7 @@
 | [Sometimes](https://open.spotify.com/track/0uDsj6KuyEjlFoqQvBcpD4) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Sometimes](https://open.spotify.com/album/0pBAd71oIWyzc7hNeUxbXG) | 3:48 | 2022-03-24 | 2022-04-19 |
 | [Sonder](https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:20 | 2023-11-17 |  |
 | [Sorry](https://open.spotify.com/track/7CURMjvpE285aV8VGBhznH) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Sorry](https://open.spotify.com/album/0lptWsj6UNwuRbcMg3WOfe) | 3:00 | 2022-03-24 | 2022-04-20 |
-| [Sorry Brody](https://open.spotify.com/track/7I38u9kvZwZdFseFdFqzcO) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Sorry Brody](https://open.spotify.com/album/0gSPIJGyXhraeebrMXYnXr) | 2:35 | 2024-02-20 |  |
+| [Sorry Brody](https://open.spotify.com/track/7I38u9kvZwZdFseFdFqzcO) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Sorry Brody](https://open.spotify.com/album/0gSPIJGyXhraeebrMXYnXr) | 2:35 | 2024-02-20 | 2024-04-01 |
 | [SOS](https://open.spotify.com/track/3SSC5g9auGK1JfNdnA5hzQ) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [SOS](https://open.spotify.com/album/36OibxF0mtieO9z1yxmMZJ) | 3:37 | 2022-03-24 | 2022-04-20 |
 | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2) | 2:49 | 2022-03-17 | 2022-07-21 |
 | [sound off](https://open.spotify.com/track/5nCWUq99mmY6yMzcxSBU1o) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [sound off](https://open.spotify.com/album/78fvUggdmI7wpbma4KhqVo) | 1:39 | 2022-03-24 | 2022-04-08 |

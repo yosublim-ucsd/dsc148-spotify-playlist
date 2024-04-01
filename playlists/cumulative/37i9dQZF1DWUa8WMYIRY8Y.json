@@ -1770,10 +1770,28 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 255440,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt"
+    },
+    {
+      "album": {
+        "name": "Interplay",
+        "url": "https://open.spotify.com/album/1c4LaTbETiMvWC8y6afvld"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255440,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/6AloHraR37w5Mn7kDlr3aR"
     },
     {
       "album": {

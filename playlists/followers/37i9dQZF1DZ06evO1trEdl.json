@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 5805,
+  "2024-04-01": 5807,
   "date_first_scraped": "2022-05-26",
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
   "name": "This Is The Three Degrees",
@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "New Dimensions",
+        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333813,
+      "name": "Falling In Love Again",
+      "url": "https://open.spotify.com/track/5VK5CQ38Ey5lMqUUcnIDOj"
+    },
+    {
+      "album": {
         "name": "The Roulette Years",
         "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
@@ -371,7 +389,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 293906,
       "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
       "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
@@ -497,7 +515,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 234146,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"

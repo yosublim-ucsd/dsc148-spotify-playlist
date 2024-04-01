@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Tony 2Milli in cover 🐍 🏒
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,783 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,789 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Ekip](https://open.spotify.com/track/7158jz8FPmq8DkrqDjIDB6) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Ekip](https://open.spotify.com/album/1u94zj4rvh7F7pRTKkNC81) | 2:35 |
 | 50 | [Chicago Freestyle](https://open.spotify.com/track/4PyJpuibdpUIjPFbMKw4sH) | [Joe Scacchi](https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R), [Tommy Toxxic](https://open.spotify.com/artist/6K9Uwn6aqWqDEYrbOIu6RO), [Prince](https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI), [Yang Pava](https://open.spotify.com/artist/5cDK2syFcjpSdd4qn9nnon) | [Billy Da Kid](https://open.spotify.com/album/6j2EBqnRLvuAANH6SguMAi) | 3:46 |
 
-Snapshot ID: `MCw4NzRiZmUyMmIwMTZhZjVlMWEyODg0NzY3ODQ1MzM3Y2QyMGI3MTQ2`
+Snapshot ID: `MCxjODExMDA5NmM1ZmZkMjJlZmJjZTFhOGIzYzZhNWEyM2M4OGNjMGE1`

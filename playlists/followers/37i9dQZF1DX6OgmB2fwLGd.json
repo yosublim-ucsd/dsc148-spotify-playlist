@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 1398941,
+  "2024-04-01": 1398941,
   "date_first_scraped": "2021-12-21",
   "description": "Shotgun Willy, born and raised on the internet.",
   "name": "Internet People",
@@ -10141,7 +10141,7 @@
     {
       "album": {
         "name": "Leaving the Lot",
-        "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
+        "url": "https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8"
       },
       "artists": [
         {
@@ -10152,6 +10152,24 @@
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189381,
+      "name": "Leaving the Lot",
+      "url": "https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD"
+    },
+    {
+      "album": {
+        "name": "Leaving the Lot",
+        "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-31",
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"

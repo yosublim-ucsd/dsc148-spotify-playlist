@@ -106,10 +106,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 393266,
       "name": "Another Plan of Attack",
       "url": "https://open.spotify.com/track/5u9PNSeBMU7oavllA0MCmi"
+    },
+    {
+      "album": {
+        "name": "Revolution in Motion",
+        "url": "https://open.spotify.com/album/0uPgoCXqTnQHJG3DZIJsHw"
+      },
+      "artists": [
+        {
+          "name": "The Disco Biscuits",
+          "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393266,
+      "name": "Another Plan of Attack",
+      "url": "https://open.spotify.com/track/6z8lUADbhHlP3eKNfVtqjZ"
     },
     {
       "album": {

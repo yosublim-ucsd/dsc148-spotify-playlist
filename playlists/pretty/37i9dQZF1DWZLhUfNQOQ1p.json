@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 247029,
+  "num_followers": 247047,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGY5ZGJjMTMwMDE5ZDVmMjRjOGUyODA5ZWEyMGFjNTRmZTMzNzgw",
+  "snapshot_id": "MCxkYjhiMzM3OTNiZDJhMDQwMDc1ODBjYzUwNWRkYzc1MjhiZjBmZTUw",
   "tracks": [
     {
       "added_at": "2024-03-28 11:28:43",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-03-28 11:28:43",
       "album": {
-        "name": "Everything Eventually Ends",
-        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Everything Eventually Ends",
-      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
-    },
-    {
-      "added_at": "2024-03-28 11:28:43",
-      "album": {
         "name": "Ask Me / Mesmerize",
         "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 193795,
       "name": "Ask Me",
       "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
+    },
+    {
+      "added_at": "2024-03-28 11:28:43",
+      "album": {
+        "name": "Everything Eventually Ends",
+        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everything Eventually Ends",
+      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
     },
     {
       "added_at": "2024-03-28 11:28:43",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-03-28 11:28:43",
       "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+    },
+    {
+      "added_at": "2024-03-28 11:28:43",
+      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
-    },
-    {
-      "added_at": "2024-03-28 11:28:43",
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
     },
     {
       "added_at": "2024-03-28 11:28:43",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-03-28 11:28:43",
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
+    },
+    {
+      "added_at": "2024-03-28 11:28:43",
+      "album": {
         "name": "Born a Loser",
         "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 167093,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2024-03-28 11:28:43",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 344546,
-      "name": "Keep the Fire Burning",
-      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
     },
     {
       "added_at": "2024-03-28 11:28:43",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-03-28 11:28:43",
       "album": {
-        "name": "JOY (Head To The Sky)",
-        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 230650,
-      "name": "JOY (Head To The Sky)",
-      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
-    },
-    {
-      "added_at": "2024-03-28 11:28:43",
-      "album": {
         "name": "All Becomes Okay",
         "url": "https://open.spotify.com/album/7MahUqJc9Nv28t3i6LHpF3"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 228162,
       "name": "Truth",
       "url": "https://open.spotify.com/track/2Z2gj2b0aWREukQZtRGMR6"
+    },
+    {
+      "added_at": "2024-03-28 11:28:43",
+      "album": {
+        "name": "JOY (Head To The Sky)",
+        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 230650,
+      "name": "JOY (Head To The Sky)",
+      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
     },
     {
       "added_at": "2024-03-28 11:28:43",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-03-28 11:28:43",
       "album": {
-        "name": "I Go",
-        "url": "https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "I Go - Edit",
-      "url": "https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq"
-    },
-    {
-      "added_at": "2024-03-28 11:28:43",
-      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 355480,
       "name": "Poundland Anthem",
       "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+    },
+    {
+      "added_at": "2024-03-28 11:28:43",
+      "album": {
+        "name": "I Go",
+        "url": "https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Go - Edit",
+      "url": "https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq"
     },
     {
       "added_at": "2024-03-28 11:28:43",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-03-28 11:28:43",
       "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 234926,
-      "name": "Era - Edit",
-      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
-    },
-    {
-      "added_at": "2024-03-28 11:28:43",
-      "album": {
         "name": "Need a Hit",
         "url": "https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 233200,
       "name": "Need a Hit",
       "url": "https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh"
+    },
+    {
+      "added_at": "2024-03-28 11:28:43",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 234926,
+      "name": "Era - Edit",
+      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
     },
     {
       "added_at": "2024-03-28 11:28:43",

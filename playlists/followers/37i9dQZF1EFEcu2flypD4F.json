@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 9749,
+  "2024-04-01": 9747,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV\">Sia</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Sia",
@@ -2745,6 +2745,24 @@
     {
       "album": {
         "name": "I Am Me",
+        "url": "https://open.spotify.com/album/7Bgtodjks7aKmZHI91xwUg"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248933,
+      "name": "I Am Me",
+      "url": "https://open.spotify.com/track/3DV7noSx1US7DCWIlF2OC6"
+    },
+    {
+      "album": {
+        "name": "I Am Me",
         "url": "https://open.spotify.com/album/7vTGbvxPtww79iawl8YCqk"
       },
       "artists": [
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 248933,
       "name": "I Am Me",
       "url": "https://open.spotify.com/track/6LeKTJ0WenhrE9iNLJxQBB"

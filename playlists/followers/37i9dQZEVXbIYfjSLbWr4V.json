@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 4873,
+  "2024-04-01": 4876,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most played tracks right now - Belarus.",
   "name": "Top 50 - Belarus",
@@ -261,7 +261,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 103311,
       "name": "F*CK OFF",
       "url": "https://open.spotify.com/track/0w9ZBj1sdjzemjX2E8WONY"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -837,10 +837,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 112000,
       "name": "\u0411\u0410\u0421",
       "url": "https://open.spotify.com/track/43vEJEFIUdbxNOJehmIMLu"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0420\u0410\u0422",
+        "url": "https://open.spotify.com/album/0D0jRtbsXBdq5lBbgHwox7"
+      },
+      "artists": [
+        {
+          "name": "MACAN",
+          "url": "https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "\u0411\u0420\u0410\u0422",
+      "url": "https://open.spotify.com/track/5998AmqMB04aCyNe92B0I7"
     },
     {
       "album": {
@@ -859,6 +877,28 @@
       "duration_ms": 131681,
       "name": "\u0412 \u044d\u0442\u043e\u0439 \u0442\u0440\u0430\u0432\u0435",
       "url": "https://open.spotify.com/track/4FC3B2ogUmH7TJVo9gHNZC"
+    },
+    {
+      "album": {
+        "name": "\u0412\u043e\u0440\u0443\u044e \u0430\u043b\u043a\u043e\u0433\u043e\u043b\u044c",
+        "url": "https://open.spotify.com/album/0qdMwFrbaCqUvhq8L6dGvy"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u0412\u0421\u042d",
+          "url": "https://open.spotify.com/artist/51SL7oheJDglSid1IlFRVM"
+        },
+        {
+          "name": "FLOKI",
+          "url": "https://open.spotify.com/artist/11F0zmakkhI0gw4l3PEiyM"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156891,
+      "name": "\u0412\u043e\u0440\u0443\u044e \u0430\u043b\u043a\u043e\u0433\u043e\u043b\u044c",
+      "url": "https://open.spotify.com/track/0pcApW2mSPlkjBEbX3OMOs"
     },
     {
       "album": {
@@ -1037,7 +1077,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 148000,
       "name": "\u0437\u0438\u043c\u0430",
       "url": "https://open.spotify.com/track/0cOftxEWGyu4XAqEsqmdWS"
@@ -1792,6 +1832,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0443\u043a\u0438\u043d\u044b \u0434\u0435\u0442\u0438",
+        "url": "https://open.spotify.com/album/1PV414X1IyI0enzFicFBwJ"
+      },
+      "artists": [
+        {
+          "name": "1.Kla$",
+          "url": "https://open.spotify.com/artist/2KbKmQQqFN6MgbWViBVl06"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218998,
+      "name": "\u0421\u0443\u043a\u0438\u043d\u044b \u0434\u0435\u0442\u0438",
+      "url": "https://open.spotify.com/track/6sp8FsxehQt23pATaY9Gt5"
+    },
+    {
+      "album": {
         "name": "\u0422\u0430\u0440\u043e",
         "url": "https://open.spotify.com/album/07si0ibZYD3rpaLcoFToEj"
       },
@@ -1855,6 +1913,32 @@
       "duration_ms": 197027,
       "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/2BzKk0GMWtW5dfkOb62mJc"
+    },
+    {
+      "album": {
+        "name": "AA LANGUAGE",
+        "url": "https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "ANIKV",
+          "url": "https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132649,
+      "name": "\u0422\u0435\u0441\u043d\u043e",
+      "url": "https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw"
     },
     {
       "album": {

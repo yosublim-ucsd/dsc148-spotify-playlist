@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,992 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,095 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 15 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 16 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm) | 2:01 |
 | 17 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
-| 18 | [Danger In Your Eyes](https://open.spotify.com/track/2PQeK7uGoKfc1sGRTN1cFR) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:53 |
-| 19 | [Truth And Rights](https://open.spotify.com/track/4UDhprhFPKxJZ2ChNSJsKG) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:01 |
+| 18 | [Mark My Word](https://open.spotify.com/track/1uVnn2BEEwbcSmV0YVIGL2) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:14 |
+| 19 | [Danger In Your Eyes](https://open.spotify.com/track/2PQeK7uGoKfc1sGRTN1cFR) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:53 |
 | 20 | [Waiting In Vain](https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 4:16 |
-| 21 | [Mark My Word](https://open.spotify.com/track/1uVnn2BEEwbcSmV0YVIGL2) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:14 |
+| 21 | [Truth And Rights](https://open.spotify.com/track/4UDhprhFPKxJZ2ChNSJsKG) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:01 |
 | 22 | [The Lord Is With Me](https://open.spotify.com/track/4D9l6fyrjLYvhALDmrBXBk) | [Jackie Opel](https://open.spotify.com/artist/4H5WEBeEt0zGNPA8bzPlJI) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:43 |
 | 23 | [Surfin](https://open.spotify.com/track/79HIvcu6xOekJTWPIFSe9P) | [Ernest Ranglin](https://open.spotify.com/artist/6RTCb5pWKinqlUyG2qacit) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 2:26 |
 | 24 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 |
 | 60 | [Drum Song](https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU) | [Devon "Soul" Russell](https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:53 |
 
-Snapshot ID: `MCw5NDk0YmZlNTY3ZmYxMjA4NWEwNTZlNmMyYTRkNzk2MWE4NmMzNjA4`
+Snapshot ID: `MCxiZmUyMjBlNDVjN2E2N2ZjNGY4MmVjZTU5YmZlYjFmNWUyMDJiN2E1`

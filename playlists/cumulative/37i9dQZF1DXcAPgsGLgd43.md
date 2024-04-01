@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-210 songs - 11 hr 37 min
+211 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 | 2021-10-08 | 2023-11-11 |
 | [Baile Go](https://open.spotify.com/track/66sIS8GvfZxKQ2v6bNc2RY) | [Nicole Fiallo](https://open.spotify.com/artist/73UetSYlADQU9aDYjakZsc), [Jungle Punk](https://open.spotify.com/artist/02Ul6F8yJslGTFZNtSp2mk), [Skillaton](https://open.spotify.com/artist/2erqQ0nRNkcR29J1Qtutkk) | [Baile Go](https://open.spotify.com/album/1IOIYo8oJtYEGY4EKjTrYT) | 6:30 | 2024-03-22 |  |
 | [Balafon](https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd) | [Blvckr](https://open.spotify.com/artist/1Uh9u2rcNvMsoYgbgBsj6y) | [Balafon](https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2) | 2:53 | 2023-11-10 | 2024-02-19 |
-| [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 | 2023-12-15 |  |
+| [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 | 2023-12-15 | 2024-04-01 |
 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 | 2021-10-08 | 2023-11-11 |
 | [Bandolera \(feat\. Buza\)](https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [Buza](https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB) | [Bandolera \(feat\. Buza\)](https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh) | 2:55 | 2024-02-02 |  |
 | [Bate](https://open.spotify.com/track/5XqlAVM4qxMBhLg3Kz3SBd) | [Allan Nunez](https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI), [Space Fear](https://open.spotify.com/artist/6IXNeDq3vqabaZwqpnYIql) | [Bate](https://open.spotify.com/album/1G1Belfj7e8SYLbF9YSWHu) | 5:15 | 2023-11-10 | 2023-11-18 |
@@ -82,6 +82,7 @@
 | [El Hoyo](https://open.spotify.com/track/4efCIxfbgtf27uvOD0c3cB) | [Francis Davila](https://open.spotify.com/artist/4JT4DG5QVDffNJBv3UuaE6) | [El Hoyo](https://open.spotify.com/album/7bB62uup0K7tg2yzsppwlr) | 3:35 | 2023-12-01 | 2023-12-21 |
 | [El Nacimiento](https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [El Nacimiento](https://open.spotify.com/album/7AvAEDeUXJjKYJZOrCMhM1) | 3:23 | 2024-02-02 | 2024-02-05 |
 | [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 | 2024-02-18 |
+| [Espantapájaros \- Captain Planet Remix](https://open.spotify.com/track/4m7PfIMZoBtdL4LZ0qtP8W) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Espantapájaros \(Captain Planet Remix\)](https://open.spotify.com/album/6hZ9Q3g6K6INboa4DFWglx) | 4:25 | 2024-03-29 |  |
 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 | 2024-03-21 |
 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 |  |
 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 | 2023-12-15 | 2024-03-27 |

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7076,
+  "num_followers": 7083,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTFjYzZhZmZkNjQ5ZjhjMjUyMjFiOTUzOWY2MTU4MzM4NjgzY2Q3",
+  "snapshot_id": "MCxhNGMyZDJhNDgxMDM1YjEzMzBiYTdhNTRkYjcxNzgzNmZiYTBhMTg1",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "I Am The Moon: I. Crescent",
-        "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 334600,
-      "name": "Hear My Dear",
-      "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "King of a Land",
         "url": "https://open.spotify.com/album/1oTVSpkoMbY4CiQC1NAVFG"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 273400,
       "name": "Pagan Run",
       "url": "https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "I Am The Moon: I. Crescent",
+        "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 334600,
+      "name": "Hear My Dear",
+      "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Babe I'm Gonna Leave You (Extended Version)",
-        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 294945,
-      "name": "Babe I'm Gonna Leave You - Extended Version",
-      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Babe I'm Gonna Leave You (Extended Version)",
+        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 294945,
+      "name": "Babe I'm Gonna Leave You - Extended Version",
+      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
       },
@@ -491,6 +491,42 @@
       "duration_ms": 299306,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "duration_ms": 226710,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -519,38 +555,34 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
         }
       ],
-      "duration_ms": 194474,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
+      "duration_ms": 213168,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
       },
       "artists": [
         {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
         }
       ],
-      "duration_ms": 226710,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -567,22 +599,6 @@
       "duration_ms": 245066,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Saxton",
-          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
-        }
-      ],
-      "duration_ms": 213168,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -623,18 +639,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -655,18 +671,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
       "artists": [
         {
-          "name": "Rich McFeather",
-          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
         }
       ],
-      "duration_ms": 215553,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -683,22 +699,6 @@
       "duration_ms": 215440,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "In The Morning, When We Rise",
-        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
-      },
-      "artists": [
-        {
-          "name": "Christof van der Ven",
-          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
-        }
-      ],
-      "duration_ms": 232725,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Alpine Gold",
+        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
+      },
+      "artists": [
+        {
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "It's So Easy",
+      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Alpine Gold",
-        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "It's So Easy",
-      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Rollin' with the Punches",
         "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Sugah Rush",
         "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 160594,
       "name": "Sugah Rush",
       "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     },
     {
       "added_at": "2024-03-07 23:00:00",

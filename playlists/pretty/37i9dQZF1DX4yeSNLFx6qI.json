@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1702246,
+  "num_followers": 1702311,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzlkNDQwNWY5NGZlNGRlMTc2ZmRhODUxNDc3ZWNhMGEwZTFjOWUx",
+  "snapshot_id": "MCxhYmMyNzJmNmVjY2Q4MTllMTVmYjVjYmI4ZjZhYjdjNjUxZDhiMTY5",
   "tracks": [
     {
       "added_at": "2024-03-21 20:36:15",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "Gracias por Nada",
-        "url": "https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 123658,
-      "name": "Gracias por Nada",
-      "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
+      "duration_ms": 283893,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+        "name": "Gracias por Nada",
+        "url": "https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 283893,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6"
+      "duration_ms": 123658,
+      "name": "Gracias por Nada",
+      "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "De M\u00e9xico",
-        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
-    },
-    {
-      "added_at": "2024-03-21 20:36:15",
-      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 214527,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+    },
+    {
+      "added_at": "2024-03-21 20:36:15",
+      "album": {
+        "name": "De M\u00e9xico",
+        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 199140,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "Si Fuera M\u00eda - EP",
-        "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
-      "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
-    },
-    {
-      "added_at": "2024-03-21 20:36:15",
-      "album": {
         "name": "Circo Soledad",
         "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 231680,
       "name": "El Que Olvida",
       "url": "https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k"
+    },
+    {
+      "added_at": "2024-03-21 20:36:15",
+      "album": {
+        "name": "Si Fuera M\u00eda - EP",
+        "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
-    },
-    {
-      "added_at": "2024-03-21 20:36:15",
-      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 194836,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
+    },
+    {
+      "added_at": "2024-03-21 20:36:15",
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 202867,
-      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
-      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
-    },
-    {
-      "added_at": "2024-03-21 20:36:15",
-      "album": {
         "name": "Lluvia: Rain City Vol.2",
         "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 199497,
       "name": "Negar",
       "url": "https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF"
+    },
+    {
+      "added_at": "2024-03-21 20:36:15",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 202867,
+      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
+      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
-    },
-    {
-      "added_at": "2024-03-21 20:36:15",
-      "album": {
         "name": "Amar Sin Mentiras",
         "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
+    },
+    {
+      "added_at": "2024-03-21 20:36:15",
+      "album": {
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
     },
     {
       "added_at": "2024-03-21 20:36:15",

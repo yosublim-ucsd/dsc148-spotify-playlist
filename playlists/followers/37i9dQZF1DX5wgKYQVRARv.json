@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 533086,
+  "2024-04-01": 533167,
   "date_first_scraped": "2021-12-21",
   "description": "New and recent favorites of Prog Metal. Cover: TesseracT",
   "name": "Progressive Metal",
@@ -147,6 +147,24 @@
       "duration_ms": 490000,
       "name": "A Fool's Desire",
       "url": "https://open.spotify.com/track/3iqeydjiG4T08jMJjttLKw"
+    },
+    {
+      "album": {
+        "name": "Stories to Forget",
+        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
+      },
+      "artists": [
+        {
+          "name": "Words Of Farewell",
+          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281187,
+      "name": "A Lesser King",
+      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
     },
     {
       "album": {
@@ -4817,7 +4835,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 214499,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/3oCwdUiyKIwp6SigQXoopU"

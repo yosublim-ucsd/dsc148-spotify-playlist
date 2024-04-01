@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > welcome to your comfort zone
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,329 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,363 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6ZDd9TtKIdcJj52VE7Tjde) | [Manic Days](https://open.spotify.com/artist/4jKMpFEEMrKkXswFf3NaF2) | [Mirrors](https://open.spotify.com/album/60GVwbfwo2ULcSy4IhxqgV) | 4:25 |
 | 50 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 |
 
-Snapshot ID: `MCxjY2Q0NDllNTU0ZTc1ZjdjYmE3YzA3Mjk2ZDgwMjBhOWZiMjlmOTk0`
+Snapshot ID: `MCw2ZWI2NGQwYzQyYjU0Nzg2MDFmMmM3ZmQzYzY3N2QyOGFhMjgzYzg1`

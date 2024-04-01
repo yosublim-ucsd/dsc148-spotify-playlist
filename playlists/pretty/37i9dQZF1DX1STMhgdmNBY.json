@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 74251,
+  "num_followers": 74306,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjRmMjIzODkzYzY3NTRlZGJkMWI3NDA3MWE1MjkzNTJmNzJhMTQ4",
+  "snapshot_id": "MCxkNGQ3ZTdjMGZiZWE1ZTM1OTcwMDI2ZWExNzQ2ZjUzMjNkMzU3N2I4",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
-        "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
-      },
-      "artists": [
-        {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        },
-        {
-          "name": "Larry Davis",
-          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
-        }
-      ],
-      "duration_ms": 347880,
-      "name": "Givin' Up On Love",
-      "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Get Back To The Land",
         "url": "https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
+        "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        },
+        {
+          "name": "Larry Davis",
+          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
+        }
+      ],
+      "duration_ms": 347880,
+      "name": "Givin' Up On Love",
+      "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son"
-      },
-      "artists": [
-        {
-          "name": "CHERISE",
-          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
-        }
-      ],
-      "duration_ms": 270752,
-      "name": "Violet Nights",
-      "url": "https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "duration_ms": 270752,
+      "name": "Violet Nights",
+      "url": "https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA"
     },
     {
       "added_at": "2023-10-05 13:06:44",

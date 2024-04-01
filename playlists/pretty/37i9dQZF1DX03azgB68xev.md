@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,696 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,724 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 40 | [Letting Go](https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Letting Go](https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF) | 3:46 |
 | 41 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 |
 | 42 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
-| 43 | [True Love](https://open.spotify.com/track/690c43quycAQBnis0vi4mY) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 2:55 |
-| 44 | [This Is Freedom \(Ain't No Rock\) \- Live](https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [This Is Freedom \(Ain't No Rock\) \[Live\]](https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v) | 5:44 |
+| 43 | [This Is Freedom \(Ain't No Rock\) \- Live](https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [This Is Freedom \(Ain't No Rock\) \[Live\]](https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v) | 5:44 |
+| 44 | [True Love](https://open.spotify.com/track/690c43quycAQBnis0vi4mY) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 2:55 |
 | 45 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 |
 | 46 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 |
 | 47 | [Unashamed](https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Unashamed](https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 |
 | 80 | [Leaving The 99 \- Remix](https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Leaving The 99 \(Remix\)](https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze) | 4:02 |
 
-Snapshot ID: `MCxjNjBiYTQ4NTZjMmI4ODJmZGIyM2U4NTIyYTNiMGFjMTM0YTAyYTU1`
+Snapshot ID: `MCxhMTJhMjQyMTMxOWY1MjdhNmYyOGE1NDEyNTUxYmI2MGExZDM1MDQw`

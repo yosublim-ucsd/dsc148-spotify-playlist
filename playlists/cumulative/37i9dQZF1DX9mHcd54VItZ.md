@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=23DKVGDdQx2UwAtMSwcAWA">Prime Circle</a>
 
-462 songs - 1 day 3 hr 38 min
+463 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 | 2022-08-09 |
 | [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 | 2021-10-07 | 2022-11-18 |
 | [Bones](https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o) | [Avolver](https://open.spotify.com/artist/4EAEBDaLWbbNMdZaZN5m3H) | [Bones](https://open.spotify.com/album/6VMjSQFJ3538k9UyZVQn1d) | 3:41 | 2023-07-28 | 2023-09-29 |
-| [Brainmash](https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y) | [Taxi Violence](https://open.spotify.com/artist/3EVMIaXyxgpMr0RfN0tka6) | [Soul Shake](https://open.spotify.com/album/04D9j7lpxVlFKPTfSbcGJL) | 4:01 | 2024-01-04 |  |
+| [Brainmash](https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y) | [Taxi Violence](https://open.spotify.com/artist/3EVMIaXyxgpMr0RfN0tka6) | [Soul Shake](https://open.spotify.com/album/04D9j7lpxVlFKPTfSbcGJL) | 4:01 | 2024-01-04 | 2024-04-01 |
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-17 | 2022-11-18 |
 | [Bumper Sticker](https://open.spotify.com/track/7ggujZS2laihBf6IWHEtC3) | [Berry](https://open.spotify.com/artist/13w9tIoAE9FSWhwgjz7XKd) | [Bumper Sticker](https://open.spotify.com/album/0IJag3C2mx1xw7ZqFPixG8) | 2:54 | 2023-12-21 | 2024-01-05 |
 | [Burn It](https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Burn It](https://open.spotify.com/album/5zKgkvUdr5MXfaJBRvRyOi) | 2:32 | 2023-07-06 | 2023-09-16 |
@@ -238,6 +238,7 @@
 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 | 2024-01-04 |  |
 | [Kwart Voor Agt](https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu) | [Lliam Meredith](https://open.spotify.com/artist/4sPxPaCiavoNQIVjvXqJG9) | [Kwart Voor Agt](https://open.spotify.com/album/4xBSzNEi7mGjeLmZd3GGAN) | 2:29 | 2023-11-24 | 2024-01-05 |
 | [Laatnag\-sonop\-koebaai](https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Laatnag\-sonop\-koebaai](https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN) | 3:49 | 2022-11-24 | 2023-03-03 |
+| [Langs Die Straat](https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Langs Die Straat](https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj) | 3:31 | 2024-03-29 |  |
 | [Last Stand](https://open.spotify.com/track/6Q8CVI78we0VBcoNWjvHCZ) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Last Stand](https://open.spotify.com/album/0WP7arJEFFalCREptv9VS0) | 4:49 | 2023-08-04 | 2023-09-29 |
 | [Last Tear](https://open.spotify.com/track/7KXty1ex5eJ9sMgJRdTDXf) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Last Tear](https://open.spotify.com/album/1GxkqKs4ZdP2mW42p1FpMS) | 4:01 | 2022-01-21 | 2022-11-18 |
 | [Last Train](https://open.spotify.com/track/11hwRTYLm0gWMxYGnzUGE8) | [The Varsity Project](https://open.spotify.com/artist/1cJARVxXvfAxfobUWb6BFz) | [Last Train](https://open.spotify.com/album/5pbEoEmqn6QIp5t9ucNNl1) | 5:18 | 2023-04-20 | 2023-06-23 |

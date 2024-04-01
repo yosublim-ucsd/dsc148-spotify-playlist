@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 161544,
+  "num_followers": 161605,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mjc3MzdmMDVmMjMyMGIxMTVlODY1NzEzODZlMzY2Nzk5Mjg5OGY2",
+  "snapshot_id": "MCw5YzQyNWNiODQ4ZWRmMjEwM2MwMTA0MGUwNjQxODk1OWIxOGJiZDI0",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Steady, Thyself (Piano Version)",
-        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
-      },
-      "artists": [
-        {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
-        }
-      ],
-      "duration_ms": 185387,
-      "name": "Steady, Thyself (Piano Version)",
-      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
       },
@@ -115,22 +99,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Motifs in F# Major (Reimagined)",
-        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
+        "name": "Steady, Thyself (Piano Version)",
+        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
       },
       "artists": [
         {
-          "name": "Solar Sleeper",
-          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
-        },
-        {
-          "name": "rhubiqs",
-          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
         }
       ],
-      "duration_ms": 331287,
-      "name": "Motifs in F# Major - Reimagined",
-      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
+      "duration_ms": 185387,
+      "name": "Steady, Thyself (Piano Version)",
+      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -147,6 +127,26 @@
       "duration_ms": 105145,
       "name": "Frankenthaler",
       "url": "https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Motifs in F# Major (Reimagined)",
+        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
+      },
+      "artists": [
+        {
+          "name": "Solar Sleeper",
+          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
+        },
+        {
+          "name": "rhubiqs",
+          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+        }
+      ],
+      "duration_ms": 331287,
+      "name": "Motifs in F# Major - Reimagined",
+      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Sad Cello & Piano XXII",
         "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 132000,
       "name": "Tired Mind",
       "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "No Time But Eternity",
-        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
-      },
-      "artists": [
-        {
-          "name": "Corciolli",
-          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
-        }
-      ],
-      "duration_ms": 399544,
-      "name": "No Time But Eternity",
-      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Sea Notes",
         "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 128684,
       "name": "Flight of the Sea Birds",
       "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "No Time But Eternity",
+        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
+      },
+      "artists": [
+        {
+          "name": "Corciolli",
+          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
+        }
+      ],
+      "duration_ms": 399544,
+      "name": "No Time But Eternity",
+      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Efterskalv",
-        "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
-      },
-      "artists": [
-        {
-          "name": "Vargkvint",
-          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
-        }
-      ],
-      "duration_ms": 229350,
-      "name": "Efterskalv",
-      "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 163124,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5IUQOzC9u2IMs6FcGEe5pX"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Efterskalv",
+        "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
+      },
+      "artists": [
+        {
+          "name": "Vargkvint",
+          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+        }
+      ],
+      "duration_ms": 229350,
+      "name": "Efterskalv",
+      "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
     },
     {
       "added_at": "2023-06-27 16:12:39",

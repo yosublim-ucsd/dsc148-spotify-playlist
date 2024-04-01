@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,982 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,017 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Limitless \(feat\. Althea Rene\)](https://open.spotify.com/track/4zqOfFCfXkADvDjDPrAiCE) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Limitless \(feat\. Althea Rene\)](https://open.spotify.com/album/24ECA9LpmOuurQIioCabKC) | 4:20 |
 | 2 | [Groovin' at the Symphony Hall](https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Groovin' at the Symphony Hall](https://open.spotify.com/album/4VSFMb03AlbMAuELJFwS0X) | 4:13 |
 | 3 | [Like Butter \- radio single](https://open.spotify.com/track/0An6pi6xlDUYBeEoy1ln7k) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Like Butter](https://open.spotify.com/album/3uoqyLYjUzMIL33UdX9Ggc) | 4:09 |
-| 4 | [Just Coolin’ \(feat\. Ryan La Valette\)](https://open.spotify.com/track/0Q0gGYn7U7NT9FEbB8kmVU) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Just Coolin' \(feat\. Ryan La Valette\)](https://open.spotify.com/album/5eI4zyIaA9RVfusOeTdLrH) | 4:34 |
+| 4 | [Just Coolin’ \(feat\. Ryan La Valette\)](https://open.spotify.com/track/4buONxCYsAehQ0IoNg3xhS) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [Gentle and Smooth](https://open.spotify.com/album/7pyxMFsFpWZVbgu3dV7dSL) | 4:34 |
 | 5 | [Takeoff](https://open.spotify.com/track/3OZH6wxvbYmAl59gWCZVNH) | [Jordan Love](https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9) | [Takeoff](https://open.spotify.com/album/1GF8HUnK3a2AUKSqmEA2uB) | 4:27 |
 | 6 | [Night at The Roxy](https://open.spotify.com/track/38Q1oUU0e63Utf171NKImr) | [Alexander Zonjic](https://open.spotify.com/artist/23TIk45a0EumQgVir5CgS7), [James Lloyd](https://open.spotify.com/artist/33EdGAT6HNpc9dFzyMGYje), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Night at The Roxy](https://open.spotify.com/album/5QatqMQakA9HLKFI60FhK7) | 4:13 |
 | 7 | [Fly By](https://open.spotify.com/track/0oNPCOuuS2RzBgFgJX8kdt) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Unstoppable](https://open.spotify.com/album/3yzAabPvqBDSnN1vBe3RQY) | 4:15 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 18 | [Tighten Up](https://open.spotify.com/track/2UbVCeUDdrTeEPOXNep8AW) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb) | [Tighten Up](https://open.spotify.com/album/6zxIf0gr0GqrDBJNi7wvSi) | 4:19 |
 | 19 | [Brother to Brother](https://open.spotify.com/track/1T4fHkHBTsJmzN3QroEnq1) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [Brother to Brother](https://open.spotify.com/album/1dd1qS6eGynRg0gveEkPPv) | 4:33 |
 | 20 | [My Heartbeat](https://open.spotify.com/track/2lbERBaaAjFNCFRKhgYCVS) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp), [Kaleah Wooten](https://open.spotify.com/artist/48B0j1uBLkXxYbjiaGeJwE) | [My Heartbeat](https://open.spotify.com/album/2u2rzgAlvbbtsWJjN08aZH) | 3:51 |
-| 21 | [Straighten Up](https://open.spotify.com/track/5ZhgyPGq8kVOTrwm60T73w) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Straighten Up](https://open.spotify.com/album/6qPWVg4MxBEIFoG2O8XdnG) | 3:54 |
+| 21 | [Straighten Up](https://open.spotify.com/track/13Y1NLZ57TRjwRlREzPBhO) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Straighten Up](https://open.spotify.com/album/0MkO3rfW5V6nENmUdIBfwf) | 3:54 |
 | 22 | [Feel Flows](https://open.spotify.com/track/1zrMpVPjvooyqOsjPZZrlC) | [Gentleman Professional](https://open.spotify.com/artist/0LXqQL6oACVpXh9S49sn5h) | [Feel Flows](https://open.spotify.com/album/5waUq656AW2oTIsSaYFPnz) | 4:02 |
 | 23 | [Float](https://open.spotify.com/track/4zVo95cjwpGFBFtyODKJcc) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Float](https://open.spotify.com/album/2e8uLf2PwWsjqf4NFMN2Xh) | 4:19 |
 | 24 | [Be Free](https://open.spotify.com/track/0RbZ0AtXAl4tOJjbalq9v1) | [Kevin Jackson](https://open.spotify.com/artist/2W7GdChFwdxmp6mF69KO4W) | [Be Free](https://open.spotify.com/album/6XFpzBsUMzIzIGs1shA3Sr) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCw4YjdiN2NjMjJiODAwZjZkMWIyZTllMTQyZjg5YWFjNzBlMTE0N2Nk`
+Snapshot ID: `MCxlMTBlNzk3NGRkYWQyZTA1MzE4MTFhNTU4YzNlNjllMDFlZmRjYjQy`

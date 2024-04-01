@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Ventino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,171 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,170 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 89 | [Canto](https://open.spotify.com/track/5MQDQ5RAkpJrFaQfFdjvt6) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [De Lo Que Nada Fue](https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b) | 4:09 |
 | 90 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 
-Snapshot ID: `MCxlN2YyODQzMGNjMmJiZmZlZjEzMDI4NjQ3YTM0NTFiNjcwYmZkZmM0`
+Snapshot ID: `MCw0ODMzNWU2ODcwZjM0ZGY2MDA2Y2JjYjZkNjcwNDE1NzMzMGYyNDBh`

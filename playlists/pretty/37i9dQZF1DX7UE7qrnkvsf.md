@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,256 likes - 429 songs - 1 day 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,243 likes - 429 songs - 1 day 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -438,4 +438,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 428 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 |
 | 429 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 |
 
-Snapshot ID: `MCw4YzdlNzU2MjcxNzQ2MWYxNzdkNjc0NzFjNzYzYTI1MjE2NmM0MmQ5`
+Snapshot ID: `MCw3MjY3N2I5N2MwOWU4M2JhMmRiOTcyZmQ4MzRhNWFmMTA5YTE5MGVk`

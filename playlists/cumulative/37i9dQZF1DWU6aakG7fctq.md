@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Conociendo Rusia
 
-591 songs - 1 day 8 hr 47 min
+592 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Enculado \- feat\. Nsqk](https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:21 | 2023-03-02 | 2023-08-05 |
 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-19 | 2023-02-18 |
 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 | 2024-03-01 |  |
-| [Era Primavera](https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Era Primavera](https://open.spotify.com/album/6neGV0F44OSV979QtmColK) | 4:11 | 2024-03-01 |  |
+| [Era Primavera](https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Era Primavera](https://open.spotify.com/album/6neGV0F44OSV979QtmColK) | 4:11 | 2024-03-01 | 2024-04-01 |
 | [eres tú](https://open.spotify.com/track/5KCFS6c5GhzM1TgyO6d7sA) | [andremustdie](https://open.spotify.com/artist/6J3J7gELfiEqZIiW7gVNrw) | [eres tú](https://open.spotify.com/album/12Ep09eLbxAdh811FhGitb) | 2:31 | 2022-01-10 | 2022-07-28 |
 | [Eros \(Claroscuro\)](https://open.spotify.com/track/0Np2OCGA4rAcUcdaTSjuH3) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Eros \(Claroscuro\)](https://open.spotify.com/album/2rlEjJNhUnJS8kq95BqrMM) | 2:48 | 2024-02-09 | 2024-02-11 |
 | [Escaparnos](https://open.spotify.com/track/3XA8AUMd7XzjcDKM8OYKvp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Escaparnos](https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7) | 3:25 | 2022-08-19 | 2022-10-01 |
@@ -206,7 +206,7 @@
 | [Golden](https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Golden](https://open.spotify.com/album/3Am1lg4zNAItrrJ9shk9nH) | 3:38 | 2021-11-18 | 2022-11-24 |
 | [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 | 2024-02-02 |  |
 | [Hace 10 Años](https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Hace 10 Años](https://open.spotify.com/album/71f277kinxputEU6wff8To) | 3:04 | 2022-10-27 | 2022-12-02 |
-| [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 | 2023-06-23 | 2024-03-31 |
+| [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 | 2023-06-23 |  |
 | [Hacedora](https://open.spotify.com/track/3CaqjyISMBli311fJtv44h) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Hacedora](https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk) | 2:07 | 2023-01-20 | 2023-04-29 |
 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 | 2021-11-18 | 2022-11-25 |
 | [happy in a haze / butterfly to ya](https://open.spotify.com/track/7F8dQNzJENUAysbOtKrKvl) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [happy in a haze / butterfly to ya](https://open.spotify.com/album/6SD7OOPSugwnXpSbwesrqm) | 3:20 | 2021-11-18 | 2022-07-26 |
@@ -272,6 +272,7 @@
 | [lo que el viento se llevó](https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [lo que el viento se llevó](https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG) | 3:18 | 2022-12-30 | 2023-02-13 |
 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 | 2021-11-18 | 2022-11-25 |
 | [lo siento](https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [lo siento](https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv) | 3:12 | 2023-03-03 | 2023-05-13 |
+| [Lo Siento](https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Lo Siento](https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje) | 2:55 | 2024-03-29 |  |
 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 | 2023-09-01 | 2023-10-15 |
 | [Lockdown](https://open.spotify.com/track/1S6JBFByksSIbXmxHQRrfy) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Lockdown](https://open.spotify.com/album/350zv3w3vKRXIS8tKWzGcx) | 4:23 | 2021-11-18 | 2022-07-29 |
 | [Locochona](https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Locochona](https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX) | 2:28 | 2023-03-31 | 2023-06-03 |
@@ -425,7 +426,7 @@
 | [Presente](https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Presente](https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70) | 5:12 | 2023-04-28 | 2024-01-27 |
 | [Primer encuentro](https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Primer encuentro](https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm) | 4:06 | 2024-03-22 |  |
 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 | 2023-12-08 |  |
-| [Profugos del tiempo](https://open.spotify.com/track/6T8sxv2RHncb1sft7hNZUF) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Zelmar](https://open.spotify.com/artist/7vqg7ZilgoVyxxEVOr1SGJ) | [Profugos del tiempo](https://open.spotify.com/album/7Ln1X59GCd2Jaokf3CiTcL) | 2:55 | 2024-02-23 |  |
+| [Profugos del tiempo](https://open.spotify.com/track/6T8sxv2RHncb1sft7hNZUF) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Zelmar](https://open.spotify.com/artist/7vqg7ZilgoVyxxEVOr1SGJ) | [Profugos del tiempo](https://open.spotify.com/album/7Ln1X59GCd2Jaokf3CiTcL) | 2:55 | 2024-02-23 | 2024-04-01 |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2021-11-18 | 2022-11-25 |
 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 | 2023-03-03 | 2023-08-19 |
 | [Que no me encuentre](https://open.spotify.com/track/3Nb4ygzwmt8CNIb3fZ2Pk1) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Que no me encuentre](https://open.spotify.com/album/0C0K2Mf3DyY7cgJoPgI5eH) | 3:06 | 2023-03-24 | 2023-04-01 |

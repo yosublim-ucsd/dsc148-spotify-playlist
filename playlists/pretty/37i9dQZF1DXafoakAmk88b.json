@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: hemlocke springs",
-  "num_followers": 44338,
+  "num_followers": 44359,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGQwODg5M2QzYzgzMTM4ZWQxOTMxZjRjMDcwYjljNDkxZTYwYzVh",
+  "snapshot_id": "MCxlZmZiMjAyNzY4MjA0MWExNzA2ZmE1ZDM3NTY4M2RjNzU5OWRlYzY0",
   "tracks": [
     {
       "added_at": "2024-03-25 15:15:23",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "the ride-",
-      "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
-    },
-    {
-      "added_at": "2024-02-10 01:44:05",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 211626,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK"
+    },
+    {
+      "added_at": "2024-02-10 01:44:05",
+      "album": {
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "the ride-",
+      "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
     },
     {
       "added_at": "2024-02-28 19:34:23",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "The End of the World",
-        "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
+        "name": "killer",
+        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
       },
       "artists": [
         {
-          "name": "Black Hibiscus",
-          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
+      "duration_ms": 176876,
+      "name": "killer",
+      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     }
   ],
   "unique_name": "Indie Frequency",

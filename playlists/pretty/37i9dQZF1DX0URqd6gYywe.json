@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 123516,
+  "num_followers": 123643,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODI1N2IzMWJjYWIzY2M2OGY4NTI2NjliNjdlZTQ4YWYzZmVhYThh",
+  "snapshot_id": "MCwxMmZiY2I2Y2Q3NjU0NWJlNDdiN2JjN2NhNzM3ZTE4YWFiZmVkMTQ4",
   "tracks": [
     {
       "added_at": "2024-03-22 14:06:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-22 14:06:57",
       "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "Motor Psico",
-      "url": "https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0"
-    },
-    {
-      "added_at": "2024-03-22 14:06:57",
-      "album": {
         "name": "Ay Ay Ay",
         "url": "https://open.spotify.com/album/7DApDgESPxFvCUbZWVXVHB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 330826,
       "name": "Ando Ganas (Llora Llora)",
       "url": "https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC"
+    },
+    {
+      "added_at": "2024-03-22 14:06:57",
+      "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Motor Psico",
+      "url": "https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0"
     },
     {
       "added_at": "2024-03-22 14:06:57",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-22 14:06:57",
       "album": {
-        "name": "3er Arco",
-        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Todo Pasa",
-      "url": "https://open.spotify.com/track/28lnhTSWkiBngKkT1ik12n"
-    },
-    {
-      "added_at": "2024-03-22 14:06:57",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2024-03-22 14:06:57",
       "album": {
+        "name": "Hijos Del Culo",
+        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Desconexi\u00f3n Sideral",
+      "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
+    },
+    {
+      "added_at": "2024-03-22 14:06:57",
+      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-03-22 14:06:57",
       "album": {
-        "name": "Hijos Del Culo",
-        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
+        "name": "3er Arco",
+        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Desconexi\u00f3n Sideral",
-      "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
+      "duration_ms": 338000,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/28lnhTSWkiBngKkT1ik12n"
     },
     {
       "added_at": "2024-03-22 14:06:57",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-22 14:06:57",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233868,
-      "name": "Va a Ser Dif\u00edcil Olvidar",
-      "url": "https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm"
-    },
-    {
-      "added_at": "2024-03-22 14:06:57",
-      "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 254546,
       "name": "Basta de Llamarme As\u00ed",
       "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
+    },
+    {
+      "added_at": "2024-03-22 14:06:57",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233868,
+      "name": "Va a Ser Dif\u00edcil Olvidar",
+      "url": "https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm"
     },
     {
       "added_at": "2024-03-22 14:06:57",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-03-22 14:06:57",
       "album": {
-        "name": "Arariyo",
-        "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
+        "name": "Verano en Capital",
+        "url": "https://open.spotify.com/album/4YVyoJ9fhJ1r39NSstEa2O"
       },
       "artists": [
         {
-          "name": "Et\u00e9 & Los Problems",
-          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
         }
       ],
-      "duration_ms": 270007,
-      "name": "Arariyo",
-      "url": "https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN"
+      "duration_ms": 167436,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/21m9e0BX7sb55CWSpsmIQy"
     }
   ],
   "unique_name": "Baladas Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Becky G & Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,867 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,875 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 49 | [Baila Kumi](https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Baila Kumi](https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav) | 3:26 |
 | 50 | [before](https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:55 |
 | 51 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
-| 52 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 |
-| 53 | [Drogba \(Joanna\) \- Global Latin Version](https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Chosen Few](https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v) | [Drogba \(Joanna\) \[Global Latin Version\]](https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq) | 3:17 |
+| 52 | [Drogba \(Joanna\) \- Global Latin Version](https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Chosen Few](https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v) | [Drogba \(Joanna\) \[Global Latin Version\]](https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq) | 3:17 |
+| 53 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 |
 | 54 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |
 | 55 | [Mimosas \- Remix](https://open.spotify.com/track/07grlLnIM285o7Y69mge5L) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Mimosas \(Remix\)](https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9) | 4:33 |
 | 56 | [Zimenice](https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Tezzla](https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3) | [Zimenice](https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Obrinn](https://open.spotify.com/artist/50jpd7AIFmv5ki7QBv2WgY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V) | 3:51 |
 | 70 | [lo siento](https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:25 |
 
-Snapshot ID: `MCwxOGZhYzdkNDU3NjU4NDljNzQwNGVlZWQ4NmZlOTM0ZGU0ZjhlYTMw`
+Snapshot ID: `MCxmOTYyMmY2NjI0NDExZDM5MGQ1NTJjN2Y4MDlmZTM5YTk0NTM2YmIw`

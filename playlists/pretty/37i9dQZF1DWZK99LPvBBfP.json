@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 258755,
+  "num_followers": 258951,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGE4MGI1M2ZhYjNlNWRhNWI3OWE0NzA4MGM0ZDNiOWU1OTA4NmUy",
+  "snapshot_id": "MCw4NWE3OWJiZjhmZmM0MTIyNWIwMThhNzY3ODU5OTZjNWQ0Y2RjODc5",
   "tracks": [
     {
       "added_at": "2024-03-22 15:59:52",
@@ -183,22 +183,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Hypnotica (Benny Benassi Presents The Biz)",
-        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
       },
       "artists": [
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
         }
       ],
-      "duration_ms": 285570,
-      "name": "Satisfaction - Isak Original Extended",
-      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -255,18 +251,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+        "name": "Hypnotica (Benny Benassi Presents The Biz)",
+        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
       "artists": [
         {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+      "duration_ms": 285570,
+      "name": "Satisfaction - Isak Original Extended",
+      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Foundation",
+        "url": "https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH"
+      },
+      "artists": [
+        {
+          "name": "Ten City",
+          "url": "https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi"
+        }
+      ],
+      "duration_ms": 255200,
+      "name": "That's the Way Love Is - Underground Mix; Edit",
+      "url": "https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Paul Oakenfold - Mount Everest: The Base Camp Mix",
         "url": "https://open.spotify.com/album/5L6PMFprTx841pBTxV6bqZ"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 416333,
       "name": "Destination Calabria - Extended Mix",
       "url": "https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Foundation",
-        "url": "https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH"
-      },
-      "artists": [
-        {
-          "name": "Ten City",
-          "url": "https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi"
-        }
-      ],
-      "duration_ms": 255200,
-      "name": "That's the Way Love Is - Underground Mix; Edit",
-      "url": "https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh"
     },
     {
       "added_at": "2024-03-22 15:59:52",

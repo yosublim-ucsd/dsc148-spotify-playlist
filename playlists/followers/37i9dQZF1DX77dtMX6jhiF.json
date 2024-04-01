@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 12778,
+  "2024-04-01": 12785,
   "date_first_scraped": "2022-10-03",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
   "name": "Damson Idris' Taste",
@@ -79,7 +79,7 @@
     {
       "album": {
         "name": "The Album",
-        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+        "url": "https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI"
       },
       "artists": [
         {
@@ -90,6 +90,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 128651,
+      "name": "Bare Wit Me",
+      "url": "https://open.spotify.com/track/0hi5V0ExKfjCz9zLxhVAcl"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-31",
       "duration_ms": 128651,
       "name": "Bare Wit Me",
       "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"

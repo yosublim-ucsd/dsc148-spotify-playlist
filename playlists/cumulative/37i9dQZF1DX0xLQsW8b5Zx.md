@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-193 songs - 8 hr 36 min
+194 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Frankie Please](https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph) | 2:43 | 2022-05-06 | 2022-07-29 |
 | [Get Rhythm](https://open.spotify.com/track/3KB1Z1mQulL4SdJTmrbTyO) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Get Rhythm](https://open.spotify.com/album/0cQCTZVaKrSV8tHh6FECLN) | 2:12 | 2022-05-06 | 2022-07-27 |
 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 | 2022-07-05 |  |
+| [Glad All Over](https://open.spotify.com/track/6Xs8va9c9ZgR2cLKSlo466) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Blue Suede Shoes](https://open.spotify.com/album/120QlqCRbDq0MQdDBZa3c7) | 1:39 | 2023-10-27 |  |
 | [Go Go Go](https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [Ooby Dooby / Go Go Go](https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY) | 2:06 | 2022-05-06 | 2024-01-31 |
 | [Good Golly Miss Molly](https://open.spotify.com/track/1fMMRoalpb7E8m5FsAta2y) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Very Best Of Little Richard](https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu) | 2:07 | 2022-05-06 | 2022-07-29 |
 | [Good Golly, Miss Molly](https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:09 | 2022-07-05 |  |
@@ -193,7 +194,7 @@
 | [We Wanna Boogie](https://open.spotify.com/track/6QeidKP5ydccQtr3SBqkON) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [Red Headed Woman / We Wanna Boogie](https://open.spotify.com/album/0yhlMMYB5mGpdlbtWvqDe9) | 2:24 | 2022-05-06 | 2022-07-12 |
 | [Welcome to My Hell](https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 3:08 | 2022-05-06 |  |
 | [When I See Ya!](https://open.spotify.com/track/1Xc4ZsXxe2qHaulqzVYFE7) | [TT Grace](https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc) | [When I See Ya!](https://open.spotify.com/album/7bgRDpABKZIMwp0J9IGjHV) | 2:51 | 2022-05-06 | 2022-07-26 |
-| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2022-09-02 |  |
+| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2022-09-02 | 2024-04-01 |
 | [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 | 2022-07-05 | 2022-11-18 |
 | [Whole Lotta Shakin' Going On](https://open.spotify.com/track/19J1kwHa3sgxLwaWDleGhd) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1](https://open.spotify.com/album/7zfrzVi5p5mN06ydeH8ptF) | 2:53 | 2022-05-06 | 2022-07-29 |
 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 | 2022-05-06 | 2024-03-17 |

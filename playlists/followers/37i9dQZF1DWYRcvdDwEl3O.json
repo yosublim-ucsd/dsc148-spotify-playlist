@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 194277,
+  "2024-04-01": 194308,
   "date_first_scraped": "2022-11-03",
   "description": "Focus, study or let yourself daydream to these atmospheric, instrumental tracks. ",
   "name": "Chilled Focus",
@@ -1453,6 +1453,24 @@
     {
       "album": {
         "name": "Round",
+        "url": "https://open.spotify.com/album/3oSrsdpTbsx0UcfnCLP17Q"
+      },
+      "artists": [
+        {
+          "name": "Steven Gutheinz",
+          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163945,
+      "name": "Pattern of Water",
+      "url": "https://open.spotify.com/track/0ErDq5zZU1hdvZtKoq4uJ7"
+    },
+    {
+      "album": {
+        "name": "Round",
         "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
       },
       "artists": [
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 163945,
       "name": "Pattern of Water",
       "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"

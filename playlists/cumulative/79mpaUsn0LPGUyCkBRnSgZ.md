@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-637 songs - 1 day 17 hr 45 min
+639 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2024-01-05 |  |
 | [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2023-11-22 |  |
 | [Great No One](https://open.spotify.com/track/4c03SdScyZkFELVKv70fna) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Future Me Hates Me](https://open.spotify.com/album/3tEbzW0ERmSIPNVekmeYOl) | 3:22 | 2022-12-09 |  |
+| [Habitat](https://open.spotify.com/track/7cv8pIeOu1pkwCXW9D4Oef) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [11:11](https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE) | 6:55 | 2024-03-31 |  |
 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2024-01-17 |  |
 | [Halfway Home](https://open.spotify.com/track/7J7PHMvf2i8ENxS4IS9jgl) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Dear Science](https://open.spotify.com/album/5c310xauiTULqfhkqvZdBa) | 5:31 | 2023-12-16 |  |
 | [Handle With Care](https://open.spotify.com/track/1vQxicuNSODoBECPMFjHMG) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:19 | 2024-01-08 |  |
@@ -418,6 +419,7 @@
 | [Pin It Down](https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:06 | 2023-12-25 | 2024-03-28 |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2023-02-24 | 2023-12-14 |
 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 | 2023-12-04 | 2024-01-08 |
+| [Plain & Sane & Simple Melody](https://open.spotify.com/track/4DCEk28xejlUHLl0i9G7FA) | [Ted Lucas](https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn) | [Ted Lucas](https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd) | 2:40 | 2024-03-31 |  |
 | [Plainsong \- 2010 Remaster](https://open.spotify.com/track/7MkWXuDcqo09FmVut8Ugkl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(2010 Remaster\)](https://open.spotify.com/album/0A13JySVHzBoRZFk2o89Wl) | 5:17 | 2023-11-30 |  |
 | [Plantasia](https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 3:21 | 2022-04-29 | 2023-07-29 |
 | [Plastic 100°C](https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 5:16 | 2022-05-19 |  |

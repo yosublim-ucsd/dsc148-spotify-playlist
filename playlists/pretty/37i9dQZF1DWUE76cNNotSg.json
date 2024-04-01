@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 517882,
+  "num_followers": 518026,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTNjYTk3ODAwYmQ3OGVjYjkzMThmYTU4OGE3ZThiNWUyZWJiZDEy",
+  "snapshot_id": "MCxjODNhMDM5ODcyNTZhNmJhMjZlYzE1YzYwMWJlZjNiZDhlNTNiNjhj",
   "tracks": [
     {
       "added_at": "2024-03-29 15:15:38",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-03-29 15:15:38",
       "album": {
-        "name": "Love Will Save Me",
-        "url": "https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 277561,
-      "name": "Love Will Save Me",
-      "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
-    },
-    {
-      "added_at": "2024-03-29 15:15:38",
-      "album": {
         "name": "Fabrique Club",
         "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 227697,
       "name": "Fais rien (Petit Biscuit Remix)",
       "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
+    },
+    {
+      "added_at": "2024-03-29 15:15:38",
+      "album": {
+        "name": "Love Will Save Me",
+        "url": "https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 277561,
+      "name": "Love Will Save Me",
+      "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
     },
     {
       "added_at": "2024-03-29 15:15:38",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-03-29 15:15:38",
       "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 336867,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2024-03-29 15:15:38",
+      "album": {
         "name": "Borrowed Time (feat. Forest Claudette)",
         "url": "https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 193687,
       "name": "Borrowed Time (feat. Forest Claudette)",
       "url": "https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake"
-    },
-    {
-      "added_at": "2024-03-29 15:15:38",
-      "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 336867,
-      "name": "Taking Over",
-      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
     },
     {
       "added_at": "2024-03-29 15:15:38",

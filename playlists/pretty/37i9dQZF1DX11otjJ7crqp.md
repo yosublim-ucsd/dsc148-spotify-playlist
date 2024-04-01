@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,425 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,488 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [I DON'T FW THE FLAKES](https://open.spotify.com/track/2sky8DrRy8pN488vkJM7CA) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [I DON'T FW THE FLAKES](https://open.spotify.com/album/3IeKmJ9KLRQeYjWeqQmEtU) | 2:45 |
 | 99 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
 
-Snapshot ID: `MCxmMGE5NmFlYzJiYzE0MmU0OTY1MWVhMTljMzIyMGI0MmRmNDQxZWQ0`
+Snapshot ID: `MCwwOGZiMzFhNzA5NDNiZDQxZWZhMzNjYWZmYjA5MWE1NTQ1MzIzZjk2`

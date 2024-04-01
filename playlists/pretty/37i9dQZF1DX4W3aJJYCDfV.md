@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Beyoncé \(pictured\), Becky Hill, Sainté and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,539 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,590 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 124 | [Two Minds](https://open.spotify.com/track/2UN6XV2SoVeNCnfPPwM9VN) | [NNAOMI](https://open.spotify.com/artist/090EWlBj3AVmlXIcHaNPpW) | [Two Minds](https://open.spotify.com/album/2f6ZN6pK2cKYhw5QIUY5a8) | 1:58 |
 | 125 | [Bite The Bridle](https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Yellow Roses](https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0) | 4:16 |
 
-Snapshot ID: `MCw1NjI4MTQxNTM5YzczZTQ0M2MwNDQ2MWUxMDE3MWJhYWIwMmU2Yzk5`
+Snapshot ID: `MCxmZDA0ZTg3NjY3MjdmOTU0YWU4Y2FiNmU4ZmFiYjkzMGExNDg1YzIy`

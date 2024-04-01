@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ariah
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,582 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,576 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Nossa Amizade](https://open.spotify.com/track/3OiDED20S9xhjGL0TZ6mb5) | [Anima Mea](https://open.spotify.com/artist/5Cu2zpWPt83iBOsNBdgvOI) | [Nossa Amizade](https://open.spotify.com/album/4ZTbVtTCuViTg5bG7v6N3J) | 3:17 |
 | 75 | [I'M THE ONE \- Vivo na Cecília](https://open.spotify.com/track/2vkyCw8NdbvcBIsK0rjSZQ) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [I'M THE ONE \(Vivo na Cecília\)](https://open.spotify.com/album/6B11qJhDjlKeGAJ525BjfQ) | 2:28 |
 
-Snapshot ID: `MCw0NTliMWJlYzNlNTkzMWJkYzRjNjFlYTU3MjcxYWI2MjU4ZDg1YjM0`
+Snapshot ID: `MCw0Y2U4NzhkMTY4NWYwNjY0OTRkMGNkMjUyZWZkZDQyNjRlYjA0MDFi`

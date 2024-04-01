@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,140 likes - 82 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,179 likes - 82 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 69 | [Leaves Expanded May Be Prevailing Blue Mixed with Yellow of the Sand](https://open.spotify.com/track/3hnRzyIRl3y4FyIGBBc2qW) | [Shane Carruth](https://open.spotify.com/artist/47MxpW1RYHRpHu56qhC1xh) | [Upstream Color \(Original Motion Picture Score\)](https://open.spotify.com/album/1eP1f5yEWk8qvkw7k0zDiI) | 2:25 |
 | 70 | [Slow 30's Room](https://open.spotify.com/track/03IBiVgBzhNrZSwES3Hyjf) | [David Lynch](https://open.spotify.com/artist/0WluQkhiQsQJ14sLXqDnVK), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Twin Peaks \(Limited Event Series Soundtrack\)](https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ) | 2:06 |
 | 71 | [Monsters Theme](https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 4:55 |
-| 72 | [What Have We Done to Each Other?](https://open.spotify.com/track/4MZ5bInx0P1oZXbU8QPVeN) | [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM) | [Gone Girl \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/3RP0tRQ51HVC57O8q9jCw2) | 2:30 |
+| 72 | [What Have We Done to Each Other?](https://open.spotify.com/track/4MZ5bInx0P1oZXbU8QPVeN) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Gone Girl \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/3RP0tRQ51HVC57O8q9jCw2) | 2:30 |
 | 73 | [As if It Would Have a Universal and Memorable Ending](https://open.spotify.com/track/4OE9cWZn8m5e2ivQ9JIyAM) | [Shane Carruth](https://open.spotify.com/artist/47MxpW1RYHRpHu56qhC1xh) | [Upstream Color \(Original Motion Picture Score\)](https://open.spotify.com/album/1eP1f5yEWk8qvkw7k0zDiI) | 1:41 |
 | 74 | [Love](https://open.spotify.com/track/5XIROml6NGQvRdDiEQ7Hy7) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Soundtrack Album\)](https://open.spotify.com/album/0MJwS1KqklO8tr95IJAcQA) | 5:10 |
 | 75 | [Open Foe](https://open.spotify.com/track/2MQl9KSDTXUYy2FiKm11XI) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 2:08 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 81 | [The Turing Test](https://open.spotify.com/track/24tp9KQWD7EVkPiHcO1pPE) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 4:34 |
 | 82 | [Joe's Life](https://open.spotify.com/track/6YQrZEPXUz18Bi5kyOAZgw) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:40 |
 
-Snapshot ID: `MCxhOWM2ZmQ1Mzc4OTY5ZjExNGM5NzgzY2U2ZGFkZDhhMDBkNDA3NjFl`
+Snapshot ID: `MCxlOTdmZjY2MTAyNTY0MmEzNTMxNGY3NjNiOWVkZTMyMWU0MDg0MTBk`

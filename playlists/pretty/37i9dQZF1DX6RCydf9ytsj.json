@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 616769,
+  "num_followers": 617023,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDZmZjA5NmVlY2Q1M2IwY2RlOGE4NTQ2YzFmZTQwOWRjNzgzMWI5",
+  "snapshot_id": "MCw5ZDFkZjFkMGUzNTFmM2UzMzRkNDIzOGM1MWIzNzBiNDY3YmQyYTYz",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+        "name": "Who's Gonna Fill Their Shoes",
+        "url": "https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL"
       },
       "artists": [
         {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 199680,
-      "name": "(There's) No Gettin' Over Me",
-      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
+      "duration_ms": 150520,
+      "name": "The One I Loved Back Then (The Corvette Song)",
+      "url": "https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Who's Gonna Fill Their Shoes",
-        "url": "https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 150520,
-      "name": "The One I Loved Back Then (The Corvette Song)",
-      "url": "https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 163106,
       "name": "Common Man",
       "url": "https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "(There's) No Gettin' Over Me",
+      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -679,22 +679,6 @@
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "I Wouldn't Have Missed It For The World",
-      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -743,6 +727,22 @@
       "duration_ms": 193400,
       "name": "You Look So Good In Love",
       "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "I Wouldn't Have Missed It For The World",
+      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
-      },
-      "artists": [
-        {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Two Dozen Roses",
-      "url": "https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 218613,
       "name": "Mountain Music",
       "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Dukes Of Hazzard",
-        "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 126586,
-      "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
-      "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Friday Night Blues",
         "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 198453,
       "name": "Friday Night Blues",
       "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Dukes Of Hazzard",
+        "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 126586,
+      "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
+      "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "West By West",
-        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
       },
       "artists": [
         {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 160533,
-      "name": "Jose Cuervo",
-      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
+      "duration_ms": 199600,
+      "name": "I'd Love To Lay You Down",
+      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
+        "name": "West By West",
+        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
         }
       ],
-      "duration_ms": 199600,
-      "name": "I'd Love To Lay You Down",
-      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
+      "duration_ms": 160533,
+      "name": "Jose Cuervo",
+      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Just Sylvia",
         "url": "https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 199200,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1703,18 +1703,34 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "I Love 'Em All",
-        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
       "artists": [
         {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 221280,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
+      "duration_ms": 222400,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "My Favorite Memory",
+      "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1735,34 +1751,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+        "name": "I Love 'Em All",
+        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
         }
       ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "My Favorite Memory",
-      "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
+      "duration_ms": 221280,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2287,18 +2287,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
       "artists": [
         {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
         }
       ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
+      "duration_ms": 239440,
+      "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2319,22 +2323,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
         }
       ],
-      "duration_ms": 239440,
-      "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2023-08-21 19:29:52",

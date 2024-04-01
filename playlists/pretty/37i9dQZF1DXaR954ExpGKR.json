@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 185205,
+  "num_followers": 185331,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDUxNDFlZTNmZThlM2RhZTI3OGIyODBiZWZkZDdiOGI1Y2U2NGZl",
+  "snapshot_id": "MCxkNTY0YmZkNjJjZTM5MWU0MDRmMmYyNjhlMTJhZmFkZjRlMTJjNjVi",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
+        "name": "Bruk off Yuh Back",
+        "url": "https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Bruk off Yuh Back",
+      "url": "https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
         "name": "Te Menti",
         "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 187129,
       "name": "Te Menti",
       "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Bruk off Yuh Back",
-        "url": "https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "Bruk off Yuh Back",
-      "url": "https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Cuando Salga La Luna",
-        "url": "https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL"
-      },
-      "artists": [
-        {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Cuando Salga La Luna",
-      "url": "https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Traag",
         "url": "https://open.spotify.com/album/5MHVtiFIv6DASkrHsgbOXE"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 189619,
       "name": "Traag",
       "url": "https://open.spotify.com/track/5fySAmiBZEILTlSwo8n4Wi"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Cuando Salga La Luna",
+        "url": "https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Cuando Salga La Luna",
+      "url": "https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq"
     },
     {
       "added_at": "2023-09-22 07:16:39",

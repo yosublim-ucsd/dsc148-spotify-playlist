@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Diego Torres",
-  "num_followers": 48451,
+  "num_followers": 48510,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBkMTU1Y2JkYTY5MTZiNGEzZGIyMDQ5Mzk0MDAxZGNjMDc2ODNj",
+  "snapshot_id": "MCxkNWQ3M2EyYTJiZjY1OTFmYTQyZDNjOTA0ODNjNzAwZjdjZWU1NjE3",
   "tracks": [
     {
       "added_at": "2024-03-22 14:09:51",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Todo el D\u00eda As\u00ed",
-        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 215492,
-      "name": "Todo el D\u00eda As\u00ed",
-      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Todo el D\u00eda As\u00ed",
+        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 215492,
+      "name": "Todo el D\u00eda As\u00ed",
+      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "An\u0303os Luz",
-      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Me Diste la Espalda",
-        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 202492,
-      "name": "Me Diste la Espalda",
-      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
+      "duration_ms": 193246,
+      "name": "An\u0303os Luz",
+      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1043,6 +1027,22 @@
       "duration_ms": 207133,
       "name": "La Fuerza del Enga\u00f1o",
       "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF"
-      },
-      "artists": [
-        {
-          "name": "Luz Gaggi",
-          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
-        }
-      ],
-      "duration_ms": 193021,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/1insvPZ3iQa5iTixWUpAMr"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 267960,
       "name": "Coraz\u00f3n Salvaje",
       "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "duration_ms": 193021,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/1insvPZ3iQa5iTixWUpAMr"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "AWCH",
-        "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
+        "name": "Mala Sangre",
+        "url": "https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
         }
       ],
-      "duration_ms": 189756,
-      "name": "AWCH",
-      "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
+      "duration_ms": 149610,
+      "name": "La Ara\u00f1a",
+      "url": "https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
-        "name": "Mala Sangre",
-        "url": "https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7"
+        "name": "AWCH",
+        "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
       },
       "artists": [
         {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 149610,
-      "name": "La Ara\u00f1a",
-      "url": "https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj"
+      "duration_ms": 189756,
+      "name": "AWCH",
+      "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
     },
     {
       "added_at": "2024-03-22 14:09:51",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-03-22 14:09:51",
       "album": {
+        "name": "Aqua di Emma",
+        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 162327,
+      "name": "Te Dar\u00eda",
+      "url": "https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr"
+    },
+    {
+      "added_at": "2024-03-22 14:09:51",
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 232252,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7"
-    },
-    {
-      "added_at": "2024-03-22 14:09:51",
-      "album": {
-        "name": "Aqua di Emma",
-        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 162327,
-      "name": "Te Dar\u00eda",
-      "url": "https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr"
     },
     {
       "added_at": "2024-03-22 14:09:51",

@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 334535,
+  "num_followers": 334598,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGUwMWY1MWUzODk3Mzg2NGRlNDk3OTQ1ZjVkODJiYTk0OWY1OTFi",
+  "snapshot_id": "MCxkYjZjMmFjYjNkYTRhNDdjOGQ1MjViZTQ5Y2U3YzdhMWQyMjgzZWIy",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
-      "added_at": "2022-12-07 00:42:21",
-      "album": {
-        "name": "Forest Theory",
-        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Bamboo",
-          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
-        }
-      ],
-      "duration_ms": 231648,
-      "name": "Universal Sound",
-      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Empty",
@@ -699,6 +683,22 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2022-12-07 00:42:21",
+      "album": {
+        "name": "Forest Theory",
+        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bamboo",
+          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
+        }
+      ],
+      "duration_ms": 231648,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
-      "added_at": "2022-08-03 02:59:28",
-      "album": {
-        "name": "FOREVERANDEVERNOMORE",
-        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "There Were Bells",
-      "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
-    },
-    {
       "added_at": "2022-09-30 02:45:34",
       "album": {
         "name": "Music for Animals",
@@ -843,6 +827,22 @@
       "duration_ms": 1622575,
       "name": "Briefly",
       "url": "https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf"
+    },
+    {
+      "added_at": "2022-08-03 02:59:28",
+      "album": {
+        "name": "FOREVERANDEVERNOMORE",
+        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "There Were Bells",
+      "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
     }
   ],
   "unique_name": "Deep Listening",

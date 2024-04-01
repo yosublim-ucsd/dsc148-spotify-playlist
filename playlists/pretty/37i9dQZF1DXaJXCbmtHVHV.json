@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Lainey Wilson",
-  "num_followers": 541665,
+  "num_followers": 541903,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzUwMzcxOGY1NjJmZGJkY2FmNDFhMTNjZjQwYWFlYTk4YzNiOTU3",
+  "snapshot_id": "MCwwODBlMWQxZjcyZTYzMDA5ZDM5NjEzNmE0MDgyYzcxYTdiNGIzMmNj",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Creek Will Rise",
-        "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
-      },
-      "artists": [
-        {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "Creek Will Rise",
-      "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 249872,
       "name": "Russell County Line",
       "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Creek Will Rise",
+        "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "Creek Will Rise",
+      "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
     },
     {
       "added_at": "2024-03-29 04:00:00",

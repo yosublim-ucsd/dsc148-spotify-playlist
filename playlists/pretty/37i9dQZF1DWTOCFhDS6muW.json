@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 23542,
+  "num_followers": 23564,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWZiYzk0MTIyNjdhNWQyZmI0NzJjMTIyZjljMzE0M2E2MjFlYzFj",
+  "snapshot_id": "MCwyNDQyMWQ3MGQ3M2ZjM2Y3Yjg4OGQ2ZTE5MmY4ZWExOGY0YWVjNDhj",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -27,6 +27,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Afro Punta 2 Diversity",
+        "url": "https://open.spotify.com/album/7i3icRBoz4sIUhFQsYbjWw"
+      },
+      "artists": [
+        {
+          "name": "Lil June Afro Punta",
+          "url": "https://open.spotify.com/artist/1GGJqRN2ghXJ2w83Nf6FMS"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/4CHL91BCEIgpqGS8ii1sqN"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Metela Sacala",
         "url": "https://open.spotify.com/album/1IWoViU3wYy3dVcoMdNh93"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 181983,
       "name": "Metela Sacala",
       "url": "https://open.spotify.com/track/3xaCZSSnVHUNIHQab4YdVz"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Afro Punta 2 Diversity",
-        "url": "https://open.spotify.com/album/7i3icRBoz4sIUhFQsYbjWw"
-      },
-      "artists": [
-        {
-          "name": "Lil June Afro Punta",
-          "url": "https://open.spotify.com/artist/1GGJqRN2ghXJ2w83Nf6FMS"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/4CHL91BCEIgpqGS8ii1sqN"
     },
     {
       "added_at": "2020-05-26 15:53:13",

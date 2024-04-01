@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 38256,
+  "2024-04-01": 38265,
   "date_first_scraped": "2022-10-29",
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
   "name": "This Is Saweetie",
@@ -1319,10 +1319,32 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 176401,
       "name": "Richtivities",
       "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "album": {
+        "name": "Richtivities (Sped Up/Slowed Down)",
+        "url": "https://open.spotify.com/album/57wS2WvGKqbyTXDV5zEWHH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166521,
+      "name": "Richtivities - Sped Up",
+      "url": "https://open.spotify.com/track/5kcc4yvAbPihMKmZODTade"
     },
     {
       "album": {
@@ -1403,7 +1425,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 191599,
       "name": "Slow Clap (with Saweetie)",
       "url": "https://open.spotify.com/track/0xLf1SbCnuFfBRbDNauT5b"

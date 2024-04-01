@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1557343,
+  "num_followers": 1557782,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTY3MGY4NDc4YmExMDc0ODExZmY2YWI3YzM4MmU0NGE4ZDk3YTZi",
+  "snapshot_id": "MCw5YmIyNzAwMDUxNmU4MjJjODIyNmE5MTdiZTA1ZmZhN2U1N2JhNTcx",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Headliners",
-        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 219618,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
       "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Headliners",
+        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
-      },
-      "artists": [
-        {
-          "name": "Olive",
-          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
-        },
-        {
-          "name": "Black Olive",
-          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "You're Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Western Dream",
         "url": "https://open.spotify.com/album/2kscq6zA1a9vFQy8MsWFM0"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 401360,
       "name": "World, Hold On (Children of the Sky)",
       "url": "https://open.spotify.com/track/04jZqMtDNKGjIsRdf5vHtK"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+      },
+      "artists": [
+        {
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
+        },
+        {
+          "name": "Black Olive",
+          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "You're Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Vocal Trance Hits - The Anthems",
-        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
-      },
-      "artists": [
-        {
-          "name": "John O'Callaghan",
-          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
-        },
-        {
-          "name": "Sarah Howells",
-          "url": "https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw"
-        }
-      ],
-      "duration_ms": 151621,
-      "name": "Find Yourself",
-      "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 191106,
       "name": "Love Don't Let Me Go (Walking Away) (David Guetta vs. The Egg)",
       "url": "https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Vocal Trance Hits - The Anthems",
+        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
+      },
+      "artists": [
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        },
+        {
+          "name": "Sarah Howells",
+          "url": "https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw"
+        }
+      ],
+      "duration_ms": 151621,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Army Of Two",
         "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 187500,
       "name": "Army Of Two - Radio Version",
       "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Only One (Radio Edit)",
-      "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Toys Are Nuts Remixes",
         "url": "https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 306000,
       "name": "Toys Are Nuts - Hardwell & Rehab Remix",
       "url": "https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Only One (Radio Edit)",
+      "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "The Girl You Lost To Cocaine",
-        "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
-      "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 171280,
       "name": "Make Your Move - Radio Edit",
       "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "The Girl You Lost To Cocaine",
+        "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
+      "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
     },
     {
       "added_at": "2023-03-22 14:00:00",

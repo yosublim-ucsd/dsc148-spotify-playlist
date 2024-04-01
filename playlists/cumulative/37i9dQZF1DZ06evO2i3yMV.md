@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-116 songs - 6 hr 35 min
+117 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Eats The Tale](https://open.spotify.com/track/0FDK9Vl9rgWm6PO5TBamvT) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6Gua9T9kD4nkga4fqhMwFB) | 3:43 | 2024-02-07 |  |
 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 | 2023-05-02 |  |
 | [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/0hlXa1QoFPuMaTKjWccv98) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 2:49 | 2023-05-02 | 2023-11-11 |
+| [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 2:49 | 2024-03-31 |  |
 | [Fried for the Night](https://open.spotify.com/track/6JFh4QqTwsad0Mn16eZqc7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:10 | 2023-05-02 | 2024-02-03 |
 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 | 2024-02-02 |  |
 | [Gamble](https://open.spotify.com/track/2ahtfg7eIq70ftILthfSnr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 2:26 | 2023-05-02 | 2024-02-10 |
@@ -51,7 +52,7 @@
 | [Green](https://open.spotify.com/track/0fhyPqMIwWmEMmScVOXk0H) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 3:58 | 2023-05-29 | 2024-01-11 |
 | [Heart on the Ground](https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:31 | 2024-03-04 |  |
 | [Heart on the Ground](https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:31 | 2023-05-02 | 2023-12-14 |
-| [House of Dal](https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 4:26 | 2024-03-28 |  |
+| [House of Dal](https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 4:26 | 2024-03-28 | 2024-04-01 |
 | [House of Dal](https://open.spotify.com/track/4psFTXt6MSnrYTAiOYiwGg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:26 | 2023-05-02 | 2023-12-14 |
 | [I Wish I Could \(feat\. Selah Sue\)](https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 4:26 | 2024-02-08 |  |
 | [I Wish I Could \(feat\. Selah Sue\)](https://open.spotify.com/track/6bfoNQLQk8pU1hcd0esCii) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:26 | 2023-05-02 | 2024-02-09 |

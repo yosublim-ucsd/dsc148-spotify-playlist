@@ -1,9 +1,27 @@
 {
-  "2024-03-31": 45746,
+  "2024-04-01": 45756,
   "date_first_scraped": "2022-09-17",
   "description": "This is Rancid. The essential tracks, all in one playlist.",
   "name": "This Is Rancid",
   "tracks": [
+    {
+      "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116573,
+      "name": "100 Years",
+      "url": "https://open.spotify.com/track/5Xo1fVEsW5u24XPWOH1UxL"
+    },
     {
       "album": {
         "name": "Rancid",
@@ -287,7 +305,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 120480,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
@@ -399,6 +417,24 @@
       "duration_ms": 125693,
       "name": "East Bay Night",
       "url": "https://open.spotify.com/track/6WVak6Y3Fyts2tYsNMujru"
+    },
+    {
+      "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74213,
+      "name": "Endrina",
+      "url": "https://open.spotify.com/track/6WWcprIFKb9XErXU9jtcRZ"
     },
     {
       "album": {
@@ -658,6 +694,24 @@
     },
     {
       "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Killing Zone",
+      "url": "https://open.spotify.com/track/4RwTDMkDtNqlmerkrEZS4y"
+    },
+    {
+      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -687,7 +741,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 193437,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
@@ -1443,7 +1497,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 58333,
       "name": "Track Fast",
       "url": "https://open.spotify.com/track/7yFYeo1l8wU6LEolRPS6wg"

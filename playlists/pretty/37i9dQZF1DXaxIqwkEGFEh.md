@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,000 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,085 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GTA](https://open.spotify.com/track/4XF9fk0STp9hx8xn5Suwpz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:53 |
 | 2 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 |
-| 3 | [Leaving the Lot](https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/6PHADlrkwfjeHiko54R2K8) | 3:09 |
+| 3 | [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 |
 | 4 | [Non Believer](https://open.spotify.com/track/3FRYmCRHCavq3Y6aCj11Px) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Non Believer](https://open.spotify.com/album/4lQxLqMHEEFXlhcnZKEjcF) | 3:27 |
 | 5 | [Die Trying](https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:33 |
 | 6 | [Subject](https://open.spotify.com/track/5ulhSfhwH8HJtYtYUTCTdg) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Subject](https://open.spotify.com/album/2URgWzMdduouoVGG0zSzPf) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 |
 | 100 | [Heard Of Me](https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Heard Of Me](https://open.spotify.com/album/21EvF7Ad9W7agK0o0vSBqz) | 3:44 |
 
-Snapshot ID: `MCwzMWEwMzE5NDJlZDVmNzA0NjdhNjIzOTgwNzYwYWVkYTE5NTVhNjQ1`
+Snapshot ID: `MCw3MWVkMGVlNGZjNzQ1Y2JmNDhiNGI2MWZjYzdiZTc3NDY1YTJiODc5`

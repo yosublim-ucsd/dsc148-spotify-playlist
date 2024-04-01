@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 35 min
+66 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Malas Decisiones](https://open.spotify.com/track/7uNwhb9YKbT8poWlUN1L46) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 2:59 | 2024-01-29 |  |
 | [Mariachi Tumbado](https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Tumbado](https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7) | 2:48 | 2024-01-29 |  |
 | [Me Gusta Tener De a Dos \(Live\)](https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:37 | 2024-01-29 |  |
-| [Mentiras](https://open.spotify.com/track/2A1O05xCTx3gzPVqTfV1cP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:51 | 2024-01-29 |  |
+| [Mentiras](https://open.spotify.com/track/2A1O05xCTx3gzPVqTfV1cP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:51 | 2024-01-29 | 2024-04-01 |
 | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Llegadores](https://open.spotify.com/artist/2lhN8TPwOos3I4qeGuc9B2), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf) | 4:41 | 2024-01-29 |  |
 | [MI TIEMPO ES YA](https://open.spotify.com/track/3LXRN5pz0PAy4KL042chGz) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:39 | 2024-01-29 | 2024-02-11 |
 | [Mujer Mujer \(Live\)](https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:18 | 2024-01-29 |  |
@@ -59,6 +59,7 @@
 | [NO TE VAYAS](https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [NO TE VAYAS](https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL) | 3:18 | 2024-03-23 |  |
 | [Pa Que Sepan De Una Vez](https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL) | [Carlos Y Los Del Monte Sinai](https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Pa Que Sepan De Una Vez](https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G) | 2:57 | 2024-01-29 |  |
 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 | 2024-01-29 | 2024-03-15 |
+| [PRC \- En Vivo](https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:11 | 2024-03-31 |  |
 | [Quítate La Ropa](https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Crónicas De Un Corazón Roto](https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz) | 3:20 | 2024-01-29 |  |
 | [SALUDOS A MI VIEJÓN](https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Alberto H](https://open.spotify.com/artist/5aOm6iaKxo35g41zaju8kd) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:14 | 2024-01-29 |  |
 | [Se Mamó El Becerro \- Live](https://open.spotify.com/track/0Tub36OHl0gXQ4SfTkWDip) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Así Nomás Live](https://open.spotify.com/album/3DjJVXAcfVMOixi8slv9gT) | 4:57 | 2024-03-02 |  |

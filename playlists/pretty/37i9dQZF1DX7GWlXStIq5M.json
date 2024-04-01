@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Clau",
-  "num_followers": 363818,
+  "num_followers": 363813,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTEyZjYzNjY1Yzc5NjIzNTQ3ZmI0YjE5YjE4NmQ1NmE1ZWEyYjky",
+  "snapshot_id": "MCw5NmY1NmM4OTNmZTQ0ZDcxMDA2NzFiZjc0NzM2OTRiNTJjNjY1NTJk",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Meu Mel",
+        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
+      },
+      "artists": [
+        {
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Meu Mel",
+      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Calor Dobrado",
         "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 156000,
       "name": "Calor Dobrado",
       "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Meu Mel",
-        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
-      },
-      "artists": [
-        {
-          "name": "Bella Angel",
-          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Meu Mel",
-      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Ai, Que Calor",
-        "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ai, Que Calor",
-      "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Piquezin do WC",
         "url": "https://open.spotify.com/album/0NNho9WRvEmkK3GvtzM3QV"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Ai, Que Calor",
+        "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ai, Que Calor",
+      "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
     },
     {
       "added_at": "2024-03-29 03:00:00",

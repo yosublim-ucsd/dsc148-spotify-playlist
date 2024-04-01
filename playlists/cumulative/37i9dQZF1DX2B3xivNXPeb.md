@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-341 songs - 20 hr 43 min
+342 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Broke Boy](https://open.spotify.com/track/3838GU9hh6VrvDi1f8jaU9) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Broke Boy](https://open.spotify.com/album/41JJ9tFO5YyZycfEUhzv0F) | 2:52 | 2022-02-14 | 2022-07-29 |
 | [Broke Boy](https://open.spotify.com/track/7IFFuUYZTa5CUNz099dUqB) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Broke Boy \(Stripped\)](https://open.spotify.com/album/2ucYRTvbEdi5ThvEZ4kUBe) | 2:53 | 2022-02-14 | 2022-12-28 |
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-02-14 | 2022-07-29 |
+| [Burning Up](https://open.spotify.com/track/3i7ENwWlZ5yLWvQqhuTuzu) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Burning Up](https://open.spotify.com/album/1R584CKmkHdy2sBzyeNN5D) | 3:14 | 2024-03-29 |  |
 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 | 2023-01-10 | 2024-03-09 |
 | [Came Thru](https://open.spotify.com/track/74XVOhXsPxH3h2WfzowVHZ) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Came Thru](https://open.spotify.com/album/13AAQF1ds0legttoSUV573) | 2:37 | 2024-03-22 |  |
 | [Camera Flash](https://open.spotify.com/track/1rIBE3itNuNeRRhSSm8jWV) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Camera Flash](https://open.spotify.com/album/7bEQUBzTqJDymrO9oVXmSd) | 3:35 | 2022-02-14 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 | 2023-01-10 | 2024-03-23 |
 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 | 2022-02-14 | 2022-12-28 |
 | [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 | 2023-01-10 |  |
-| [IOU](https://open.spotify.com/track/2Yil8y4YADc3sMtY3YqpWY) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [IOU](https://open.spotify.com/album/24GmXwooEdNANcH1eixZCs) | 3:30 | 2024-02-23 |  |
+| [IOU](https://open.spotify.com/track/2Yil8y4YADc3sMtY3YqpWY) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [IOU](https://open.spotify.com/album/24GmXwooEdNANcH1eixZCs) | 3:30 | 2024-02-23 | 2024-04-01 |
 | [It Might Take a Woman](https://open.spotify.com/track/59FVrD6JZb0PsF1Ok9AoPb) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [It Might Take a Woman](https://open.spotify.com/album/7HZYjMfb9uZg2rcmbDPF1u) | 3:10 | 2022-02-14 | 2022-07-29 |
 | [It's Been A Week](https://open.spotify.com/track/7ubDr5F9DWHYZjFX42jHnp) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [It’s Been A Week](https://open.spotify.com/album/72cu7PDY50JqN8UY0VBdgW) | 2:59 | 2024-03-22 |  |
 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2022-12-28 | 2023-01-11 |

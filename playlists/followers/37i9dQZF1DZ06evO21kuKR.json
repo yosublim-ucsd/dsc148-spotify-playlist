@@ -1,5 +1,5 @@
 {
-  "2024-03-31": 85316,
+  "2024-04-01": 85341,
   "date_first_scraped": "2022-10-29",
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
   "name": "This Is Moneybagg Yo",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 163760,
       "name": "Ain't See It Coming (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
@@ -334,6 +334,28 @@
     },
     {
       "album": {
+        "name": "Bussin (with Rob49)",
+        "url": "https://open.spotify.com/album/4k19gVgEFR3eja9YAore44"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Bussin (with Rob49)",
+      "url": "https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2"
+    },
+    {
+      "album": {
         "name": "Public Housing",
         "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
       },
@@ -419,7 +441,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-31",
       "duration_ms": 173396,
       "name": "Dior (feat. Gunna)",
       "url": "https://open.spotify.com/track/683tYxiTlWzupDpaZ2mCv4"

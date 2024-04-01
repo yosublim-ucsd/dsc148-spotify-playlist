@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Dhvani Bhanushali
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,214 likes - 64 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,393 likes - 64 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 63 | [Tu Meri Hai](https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tu Meri Hai](https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC) | 3:55 |
 | 64 | [Dil Kya Kare](https://open.spotify.com/track/05cPakbRjt3D3Zsn8HqXDS) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh) | [Dil Kya Kare](https://open.spotify.com/album/23mkzLZ198waE7RzeA14m5) | 3:17 |
 
-Snapshot ID: `MCwzZGZjZWQwZWIxNWE5ZGYyZmEyZjhiNmMxZDA1MDgxYzMwZjcxYjFj`
+Snapshot ID: `MCw5MWVlYTAxZjY0ODM3ODM2ZjM0MThmNjY4NDFmYmJlN2Y2YzI2ODNh`

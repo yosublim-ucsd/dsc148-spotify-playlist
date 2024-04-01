@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1029204,
+  "num_followers": 1029478,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmZhN2U5M2IzZDdhYTA3NzFmZThkNzA1MTEyZmFlNTMyNzQzOWUw",
+  "snapshot_id": "MCwzZGMyMGExZDg1YWE1ZjQ3ZmJhOGU3YjViOGZjODUyNDg1Y2YwMTI0",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
-        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Forever Young - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Forever Young - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 239360,
       "name": "Fade To Grey",
       "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Debaser",
-      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Head on the Door",
         "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203266,
       "name": "Close to Me - 2006 Remaster",
       "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Debaser",
+      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Fehler im System (2023 Remaster)",
         "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 303903,
       "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
       "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 259106,
-      "name": "Road to Nowhere",
-      "url": "https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Fine Young Cannibals",
         "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Chris Isaak",
-        "url": "https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
       },
       "artists": [
         {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 253906,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
+      "duration_ms": 259106,
+      "name": "Road to Nowhere",
+      "url": "https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1255,6 +1239,22 @@
       "duration_ms": 277688,
       "name": "Someone Somewhere (In Summertime)",
       "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Chris Isaak",
+        "url": "https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 253906,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Sparkle In The Rain",
+        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Waterfront - Remastered 2002",
+      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Aural Sculpture",
         "url": "https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 418173,
       "name": "Living in Another World - 1997 Remaster",
       "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Sparkle In The Rain",
-        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Waterfront - Remastered 2002",
-      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Pink Opaque",
-        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Pearly-Dewdrops' Drops - 7\" Version",
-      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 171506,
       "name": "Our Lips Are Sealed",
       "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Pink Opaque",
+        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Pearly-Dewdrops' Drops - 7\" Version",
+      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Pillow Lips",
+        "url": "https://open.spotify.com/album/42RB64zuH7lk1Jivd8MbhL"
+      },
+      "artists": [
+        {
+          "name": "Modern English",
+          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "I Melt With You - Rerecorded",
+      "url": "https://open.spotify.com/track/2JkJydLG7jkVnQHkusnoYV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Be Yourself Tonight",
         "url": "https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI"
       },
@@ -2087,22 +2103,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Pillow Lips",
-        "url": "https://open.spotify.com/album/42RB64zuH7lk1Jivd8MbhL"
-      },
-      "artists": [
-        {
-          "name": "Modern English",
-          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "I Melt With You - Rerecorded",
-      "url": "https://open.spotify.com/track/2JkJydLG7jkVnQHkusnoYV"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Spike",
+        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Private Revolution",
         "url": "https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 268493,
       "name": "Ship of Fools",
       "url": "https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Spike",
-        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Veronica",
-      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2335,18 +2335,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
       "artists": [
         {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Tugboat",
-      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
+      "duration_ms": 197533,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Tugboat",
+      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Stoned and Dethroned",
         "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
       },
@@ -2383,18 +2399,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+        "name": "Playlist: The Very Best of A Flock of Seagulls",
+        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
       },
       "artists": [
         {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G"
+      "duration_ms": 330426,
+      "name": "Wishing (If I Had a Photograph of You)",
+      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2411,22 +2427,6 @@
       "duration_ms": 289080,
       "name": "Quiet Life",
       "url": "https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Playlist: The Very Best of A Flock of Seagulls",
-        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 330426,
-      "name": "Wishing (If I Had a Photograph of You)",
-      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
     },
     {
       "added_at": "2023-05-03 07:47:14",

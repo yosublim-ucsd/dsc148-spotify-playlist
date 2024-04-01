@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze\. Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,885 likes - 121 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,225 likes - 121 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 120 | [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 |
 | 121 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 
-Snapshot ID: `MCw3NzRlYTY5ZjNkYmU1N2Q4MTVlYzA5N2M3NGQyN2JmM2JlNzRjZmNj`
+Snapshot ID: `MCxlYTFkYTE3ODM5MmI5ODg4MDk4NGM0ZjA5OWNmZDAxZWZiMWI2ZDk5`

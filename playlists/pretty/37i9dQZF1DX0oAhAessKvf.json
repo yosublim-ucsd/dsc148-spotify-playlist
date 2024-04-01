@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 115804,
+  "num_followers": 115856,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODUwMzA2YjM1NjE4ZmRmOTdmNDEyNDFlNzY4YzE2NGViOGFmMWVm",
+  "snapshot_id": "MCxlYWY0MDM1MTEwMzMxNzY5OGQwMzM1N2EyZjcxYzRkMzVkNGUxMjNm",
   "tracks": [
     {
       "added_at": "2024-03-25 13:06:06",
@@ -515,18 +515,42 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/2TfyOwS5WUBjviqlduUbzZ"
+        "name": "Underground Reggaeton \"The Best Of Radio Version\", Vol. 1",
+        "url": "https://open.spotify.com/album/0GHlZQPbwecsZ30EiAihMc"
       },
       "artists": [
         {
           "name": "Alberto Stylee",
           "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/2R2C8r0t9p98AnGzUnOLAe"
+        },
+        {
+          "name": "Chesina",
+          "url": "https://open.spotify.com/artist/4drWsJ0fgeZ4fcMJ8MR8Zr"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Mexicano",
+          "url": "https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR"
+        },
+        {
+          "name": "Micol y Manuel",
+          "url": "https://open.spotify.com/artist/7nuJDLQzYGL3L1OJiCw5qp"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
         }
       ],
-      "duration_ms": 225462,
-      "name": "Perros y Gatas",
-      "url": "https://open.spotify.com/track/3wS1njCO85Eo9iQ6gs7740"
+      "duration_ms": 273623,
+      "name": "Playero Street Mix 2 Radio Version",
+      "url": "https://open.spotify.com/track/1iyS2ur2NqtiwQTSWHZq5Q"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -603,42 +627,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Underground Reggaeton \"The Best Of Radio Version\", Vol. 1",
-        "url": "https://open.spotify.com/album/0GHlZQPbwecsZ30EiAihMc"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/2TfyOwS5WUBjviqlduUbzZ"
       },
       "artists": [
         {
           "name": "Alberto Stylee",
           "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/2R2C8r0t9p98AnGzUnOLAe"
-        },
-        {
-          "name": "Chesina",
-          "url": "https://open.spotify.com/artist/4drWsJ0fgeZ4fcMJ8MR8Zr"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Mexicano",
-          "url": "https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR"
-        },
-        {
-          "name": "Micol y Manuel",
-          "url": "https://open.spotify.com/artist/7nuJDLQzYGL3L1OJiCw5qp"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
         }
       ],
-      "duration_ms": 273623,
-      "name": "Playero Street Mix 2 Radio Version",
-      "url": "https://open.spotify.com/track/1iyS2ur2NqtiwQTSWHZq5Q"
+      "duration_ms": 225462,
+      "name": "Perros y Gatas",
+      "url": "https://open.spotify.com/track/3wS1njCO85Eo9iQ6gs7740"
     },
     {
       "added_at": "2024-03-25 13:06:06",

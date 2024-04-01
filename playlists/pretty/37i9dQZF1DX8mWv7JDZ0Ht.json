@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio",
-  "num_followers": 434636,
+  "num_followers": 434664,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGExMzY1MTU1ZTQ2ZGFjMmViYWNhMTcwZjM3ZTgxMmQwZDQ4MzUx",
+  "snapshot_id": "MCw1OGM3ODRhY2I1ZDUyN2MyYzczYmVhZjAwNTBhYmIyNGNhN2NhNjAz",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Carinha De Problema",
-        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Carinha De Problema",
-      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Breve",
         "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 213103,
       "name": "Breve",
       "url": "https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Carinha De Problema",
+        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Carinha De Problema",
+      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "calma na alma",
         "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 149285,
       "name": "calma na alma",
       "url": "https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
       },
       "artists": [
         {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 143661,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-03-29 03:00:00",

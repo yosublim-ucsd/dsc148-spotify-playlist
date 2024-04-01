@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,119 likes - 48 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,189 likes - 48 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 47 | [One More Time \(feat\. Chante Moore\)](https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:01 |
 | 48 | [We've Saved the Best for Last](https://open.spotify.com/track/2LqA7jb7WOlsxTHlzEOG1b) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Silhouette](https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi) | 4:18 |
 
-Snapshot ID: `Mjg1MzAwMjksMDAwMDAwMDBmMWI4YWY4YzZjNWQzNWFmNDc1YjkzMjM4OWYzNDZhNw==`
+Snapshot ID: `Mjg1MzE0ODEsMDAwMDAwMDBhM2RjN2JiNWJiY2RlYThhNTQxMzI4ZGFkMGE3ZTlkMw==`

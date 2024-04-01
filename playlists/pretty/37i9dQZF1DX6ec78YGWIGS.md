@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,810 likes - 95 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,877 likes - 95 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 94 | [NAVI](https://open.spotify.com/track/0ax5zJXD0Vq0XpeiIc8rJc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAVI](https://open.spotify.com/album/7GFmnERl0J8pNu0IMQ2Fwi) | 2:15 |
 | 95 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 |
 
-Snapshot ID: `MCwxMzk1NThlZTA3ODg5YzA2NDQ0NWYxOThmZjE4MzA4OGE3NzhkZDYz`
+Snapshot ID: `MCxiMzY1NDMxMGFlZWFjZjhhYWM1YzZhY2E4NmFhMThkOWU5ZDhlZjQy`

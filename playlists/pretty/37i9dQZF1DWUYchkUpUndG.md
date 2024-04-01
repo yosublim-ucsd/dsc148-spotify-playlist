@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h?si=bQVOO23uRpSjmhTSUg1Svg>TESTIMONY JAGA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,604 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,629 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 57 | [Imodola \(Orodoro\)](https://open.spotify.com/track/7I4ciBbzLKrA4SXgAYJDEf) | [Ludara Dave](https://open.spotify.com/artist/3PNY2sEj1fAOjVGE9GqGZo) | [Imodola \(Orodoro\)](https://open.spotify.com/album/0uyXzDsdlpWjxtDUGCIEQZ) | 5:26 |
 | 58 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 |
 | 59 | [CE CHEMIN](https://open.spotify.com/track/68O8biQpEb7B3Fi1NFjpbP) | [Thethe MAKABI.M](https://open.spotify.com/artist/1LKW4ix9wcurZFh4i3O43J) | [BAKOYEBA NDENGE NINI ?](https://open.spotify.com/album/09Y7WWb9U5EpCYXHfRC6Gf) | 7:58 |
-| 60 | [Aye O](https://open.spotify.com/track/1gKYBRttcD0aOJ9TQXOztZ) | [Joseph Kwesi Kai](https://open.spotify.com/artist/4jXMIaSmhlUdpfJnVQ1WKA), [Ps Isaiah Fosu Kwakye Jnr.](https://open.spotify.com/artist/3ztTjTRkeMlIA5kzq26SaC) | [Aye O](https://open.spotify.com/album/5Hx4kaB6U0zoDBNuRAb2vh) | 13:47 |
+| 60 | [Aye O](https://open.spotify.com/track/1gKYBRttcD0aOJ9TQXOztZ) | [Joseph Kwesi Kai](https://open.spotify.com/artist/65EpGa9RvYJ5QS6VusjH7A), [Ps Isaiah Fosu Kwakye Jnr.](https://open.spotify.com/artist/3ztTjTRkeMlIA5kzq26SaC) | [Aye O](https://open.spotify.com/album/5Hx4kaB6U0zoDBNuRAb2vh) | 13:47 |
 | 61 | [Flood My Heart](https://open.spotify.com/track/3Qavrob4kwk4zQAggJdTNz) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Flood My Heart](https://open.spotify.com/album/1SU2ZkfvnAFGOzKvDwBJoP) | 2:25 |
 | 62 | [Marvelous Doings \(Spontaneous Worship Version\)](https://open.spotify.com/track/5OnOeFYExzoCWgOxn63hcu) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [Marvelous Doings \(Spontaneous Worship Version\)](https://open.spotify.com/album/75HJkOc8W0lSzErYF9eMAe) | 15:38 |
 | 63 | [Pressure \(NGFN\)](https://open.spotify.com/track/7tKKOnQ8F5vTCZYoqqOUqA) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Majemu](https://open.spotify.com/artist/5w4AeRwjaVNl2Gb44iqjHD), [YARB TRIBE](https://open.spotify.com/artist/0HjrZUriO6xTLd9GGiNKMA) | [Pressure \(NGFN\)](https://open.spotify.com/album/2y5ObYgYeKar0Y0QpYMPjx) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Onitooto \(The Truthful One\)](https://open.spotify.com/track/7uMVU2QvAU6eLHSnY1Ty8k) | [The Resurrection Movement](https://open.spotify.com/artist/4FHmaNql8g0yLUBJqVLKZ1) | [Truthful One](https://open.spotify.com/album/7MYta9Px7npJGFZx8p1QeW) | 4:37 |
 | 100 | [Solid Rock](https://open.spotify.com/track/7uVr9obMaWNOmUSoAj70eX) | [Nimi Stix](https://open.spotify.com/artist/39jgj6aYzq1eltNM1IcEwm), [Odianose](https://open.spotify.com/artist/7lTDouO7ug3ETSmO5QnAnG) | [Solid Rock](https://open.spotify.com/album/6OO6O3tWK2GtU2nPyVcdpt) | 2:44 |
 
-Snapshot ID: `MCxiZjg5NmQyYzZhMGJjNTk5NTYxNTE4YzYzNjY5OTU3NDY3MTQ3MGRi`
+Snapshot ID: `MCw0YzExNWI2ZmQ5YzA0ZmJlMzExYzA4YjEyYzAwMTJjY2QzZjRjNmIy`

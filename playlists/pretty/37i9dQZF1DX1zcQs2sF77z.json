@@ -1,12 +1,12 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 213114,
+  "num_followers": 213223,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDczZGZjZmNhNjhjNjViZWJiN2I5OTEzMmFmNmJiOTFkOWU3NjY2",
+  "snapshot_id": "MCxkNjRmNDIwNjFmY2Q4YTFkNmRlOTk1NmY0ZmJlZjBhNTVhOGNlZTMw",
   "tracks": [
     {
       "added_at": "2024-02-07 16:41:16",
@@ -923,18 +923,22 @@
     {
       "added_at": "2024-02-07 16:41:16",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
       },
       "artists": [
         {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 157432,
-      "name": "Pjanoo - Radio Edit",
-      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     }
   ],
   "unique_name": "Dancefloor Classics",

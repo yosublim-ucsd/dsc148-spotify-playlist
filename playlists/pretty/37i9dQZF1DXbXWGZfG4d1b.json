@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22053,
+  "num_followers": 22062,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTdmNTA0ZTQ0ZWRkYzBjMjliZjgwYzZmMDRjOGQzNmI1MzQ1NDMy",
+  "snapshot_id": "MCxlNzhhNTA3Y2VlZDc4ZGFkNGE1ZWZkYjAwMjRhM2U1OGQ4NzUwODM2",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
+        "name": "Tiembla",
+        "url": "https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB"
       },
       "artists": [
         {
-          "name": "El Club Audiovisual",
-          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
         }
       ],
-      "duration_ms": 186059,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
+      "duration_ms": 216830,
+      "name": "Tiembla",
+      "url": "https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Tiembla",
-        "url": "https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB"
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
       },
       "artists": [
         {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
         }
       ],
-      "duration_ms": 216830,
-      "name": "Tiembla",
-      "url": "https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT"
+      "duration_ms": 186059,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Humo y Menta",
-        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
-      },
-      "artists": [
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        },
-        {
-          "name": "Charlie Desidney",
-          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "Humo y Menta",
-      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Puedo Con Esto (Fuera de Foco)",
         "url": "https://open.spotify.com/album/6lUeoa01dpqJvnHuNt5vZO"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 234792,
       "name": "Puedo Con Esto (Fuera de Foco)",
       "url": "https://open.spotify.com/track/11X6kG43B9w6uPLnx9ZlQf"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Humo y Menta",
+        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        },
+        {
+          "name": "Charlie Desidney",
+          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "Humo y Menta",
+      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "mutar la piel",
         "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 173875,
       "name": "mutar la piel",
       "url": "https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 224737,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Lapso",
         "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 185314,
       "name": "Tanto Az\u00facar",
       "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Curriculum Completo",
-        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        },
-        {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Curriculum Completo",
-      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     },
     {
       "added_at": "2024-03-29 03:00:00",

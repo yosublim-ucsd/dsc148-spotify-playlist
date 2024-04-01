@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Joan Sebastian en portada",
-  "num_followers": 1846042,
+  "num_followers": 1847344,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjkzY2Q1MmJkYTNkMGEyYWNkYWU3Y2NmY2U3ZjJjNTA4NWQzNzNk",
+  "snapshot_id": "MCwyM2JmZmVlMmYwN2Y0ZDQyOTkzNDFjZDlhODNhNTg1ZTQwNDc3OTE1",
   "tracks": [
     {
       "added_at": "2024-03-27 23:32:53",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "Espero Con Ansias",
-      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
-    },
-    {
-      "added_at": "2024-03-27 23:32:53",
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
@@ -1219,18 +1203,34 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 221387,
-      "name": "Para Impresionarte",
-      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
+      "duration_ms": 214146,
+      "name": "Espero Con Ansias",
+      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2024-03-27 23:32:53",
+      "album": {
+        "name": "Cuando Quieras Quiero",
+        "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
+      },
+      "artists": [
+        {
+          "name": "Claudio Alcaraz",
+          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Hola, \u00bfQue Tal?",
+      "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
     },
     {
       "added_at": "2024-03-27 23:32:53",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "Cuando Quieras Quiero",
-        "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
       },
       "artists": [
         {
-          "name": "Claudio Alcaraz",
-          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Hola, \u00bfQue Tal?",
-      "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
+      "duration_ms": 221387,
+      "name": "Para Impresionarte",
+      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
     },
     {
       "added_at": "2024-03-27 23:32:53",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
+    },
+    {
+      "added_at": "2024-03-27 23:32:53",
+      "album": {
         "name": "M\u00e1s Adelante",
         "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 183360,
       "name": "El Antes Y El Despu\u00e9s",
       "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
-    },
-    {
-      "added_at": "2024-03-27 23:32:53",
-      "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
     },
     {
       "added_at": "2024-03-27 23:32:53",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2024-03-27 23:32:53",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
-    },
-    {
-      "added_at": "2024-03-27 23:32:53",
-      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 217200,
       "name": "Cuando Fuimos Nada",
       "url": "https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y"
+    },
+    {
+      "added_at": "2024-03-27 23:32:53",
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2024-03-27 23:32:53",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "El Ultimo Trago",
-        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Frio De Ausencia",
-      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
-    },
-    {
-      "added_at": "2024-03-27 23:32:53",
-      "album": {
         "name": "Palabra de Hombre",
         "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
+    },
+    {
+      "added_at": "2024-03-27 23:32:53",
+      "album": {
+        "name": "El Ultimo Trago",
+        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frio De Ausencia",
+      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
     },
     {
       "added_at": "2024-03-27 23:32:53",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "S\u00f3lo Contigo",
-        "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
-    },
-    {
-      "added_at": "2024-03-27 23:32:53",
-      "album": {
         "name": "Me Gusta Todo De Ti",
         "url": "https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 120240,
       "name": "La Cuichi",
       "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
+    },
+    {
+      "added_at": "2024-03-27 23:32:53",
+      "album": {
+        "name": "S\u00f3lo Contigo",
+        "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
     },
     {
       "added_at": "2024-03-27 23:32:53",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3yf7ChHaHsfVTnq7b9c0Xt"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 186120,
-      "name": "Derecho De Antig\u00fcedad",
-      "url": "https://open.spotify.com/track/37MzlcXgRH5rzTJYcSX2RD"
-    },
-    {
-      "added_at": "2024-03-27 23:32:53",
-      "album": {
         "name": "Exitos De Banda M-1",
         "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 175403,
       "name": "No Se\u00f1or Apache",
       "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
+    },
+    {
+      "added_at": "2024-03-27 23:32:53",
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3yf7ChHaHsfVTnq7b9c0Xt"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 186120,
+      "name": "Derecho De Antig\u00fcedad",
+      "url": "https://open.spotify.com/track/37MzlcXgRH5rzTJYcSX2RD"
     },
     {
       "added_at": "2024-03-27 23:32:53",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+      },
+      "artists": [
+        {
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+        }
+      ],
+      "duration_ms": 205055,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
+    },
+    {
+      "added_at": "2024-03-27 23:32:53",
+      "album": {
         "name": "Puras De Viento En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
@@ -2407,38 +2423,6 @@
     {
       "added_at": "2024-03-27 23:32:53",
       "album": {
-        "name": "CicatrIIIces",
-        "url": "https://open.spotify.com/album/1VYDeQWyxknywWWMTLzpUW"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 166174,
-      "name": "CicatrIIIces",
-      "url": "https://open.spotify.com/track/4S5TXZJiBYatTkl17gwHq5"
-    },
-    {
-      "added_at": "2024-03-27 23:32:53",
-      "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
-      },
-      "artists": [
-        {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
-        }
-      ],
-      "duration_ms": 205055,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
-    },
-    {
-      "added_at": "2024-03-27 23:32:53",
-      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 189240,
       "name": "Que Te Entregues Hoy",
       "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
+    },
+    {
+      "added_at": "2024-03-27 23:32:53",
+      "album": {
+        "name": "CicatrIIIces",
+        "url": "https://open.spotify.com/album/1VYDeQWyxknywWWMTLzpUW"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 166174,
+      "name": "CicatrIIIces",
+      "url": "https://open.spotify.com/track/4S5TXZJiBYatTkl17gwHq5"
     }
   ],
   "unique_name": "Cl\u00e1sicas de Banda",

@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, C4 Pedro & Bruna Amado.  ",
-  "num_followers": 198031,
+  "num_followers": 198117,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVhNmNlODBlODJhNGQzMDU1Njk0NDY4ZWQ3N2Q1M2QyYjRjOWJi",
+  "snapshot_id": "MCw1M2Q5ZmIxZDA5YjMwMjU3OGY5N2Q2MGNjZWE0Mzc3NTE0OGYyMzU2",
   "tracks": [
     {
       "added_at": "2024-03-29 00:00:00",
@@ -647,18 +647,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
+        "name": "Safadeza",
+        "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
       },
       "artists": [
         {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+          "name": "Helio Baiano",
+          "url": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
+        },
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
         }
       ],
-      "duration_ms": 202113,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
+      "duration_ms": 189064,
+      "name": "Safadeza",
+      "url": "https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -679,22 +683,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Safadeza",
-        "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
       },
       "artists": [
         {
-          "name": "Helio Baiano",
-          "url": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
-        },
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
         }
       ],
-      "duration_ms": 189064,
-      "name": "Safadeza",
-      "url": "https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ"
+      "duration_ms": 202113,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Se Eu Pudesse",
-        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
-      },
-      "artists": [
-        {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 196567,
-      "name": "Se Eu Pudesse",
-      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 238790,
       "name": "Bela",
       "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Se Eu Pudesse",
+        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 196567,
+      "name": "Se Eu Pudesse",
+      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Sabi",
-        "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
       },
       "artists": [
         {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
         }
       ],
-      "duration_ms": 200983,
-      "name": "Sabi",
-      "url": "https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7"
+      "duration_ms": 263906,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
+        "name": "Sabi",
+        "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
       },
       "artists": [
         {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 263906,
-      "name": "Puro",
-      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
+      "duration_ms": 200983,
+      "name": "Sabi",
+      "url": "https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Homem Que \u00c9 Homem",
+        "url": "https://open.spotify.com/album/0zs00lhtRYNtvzWDaC3NeQ"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 216868,
+      "name": "Homem Que \u00c9 Homem",
+      "url": "https://open.spotify.com/track/5HEow9A4pAs7dle5zDXnfb"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Dpos D' Quarentena",
         "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 184242,
       "name": "Cabo Verde",
       "url": "https://open.spotify.com/track/4ZaJIFetJil7VcxS6v4acb"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Homem Que \u00c9 Homem",
-        "url": "https://open.spotify.com/album/0zs00lhtRYNtvzWDaC3NeQ"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 216868,
-      "name": "Homem Que \u00c9 Homem",
-      "url": "https://open.spotify.com/track/5HEow9A4pAs7dle5zDXnfb"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1615,26 +1615,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Preparado",
-        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
+        "name": "J\u00e1 Deu",
+        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
       "artists": [
         {
-          "name": "Rapaz 100 Juiz",
-          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
         },
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Klasszik",
-          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 279299,
-      "name": "Preparado",
-      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
+      "duration_ms": 227685,
+      "name": "J\u00e1 Deu",
+      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1659,22 +1655,26 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "J\u00e1 Deu",
-        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
+        "name": "Preparado",
+        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
       },
       "artists": [
         {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
         },
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Klasszik",
+          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
         }
       ],
-      "duration_ms": 227685,
-      "name": "J\u00e1 Deu",
-      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
+      "duration_ms": 279299,
+      "name": "Preparado",
+      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Sempre Sonhei (feat. Yasmine)",
-        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 239189,
-      "name": "Sempre Sonhei (feat. Yasmine)",
-      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "J\u00e1 N\u00e3o Sei",
         "url": "https://open.spotify.com/album/2iXz4njIp9glteqBnOHNnv"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 265250,
       "name": "J\u00e1 N\u00e3o Sei",
       "url": "https://open.spotify.com/track/59FhY6j1jchU3WGZ2BxuGx"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     },
     {
       "added_at": "2024-03-29 00:00:00",

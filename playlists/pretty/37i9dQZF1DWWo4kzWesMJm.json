@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 150943,
+  "num_followers": 151010,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmE3NDFiMDI2ZTE0Y2Q3Y2YwYTM1YWI2ZjYxMmFkOWU4MGI4MTMz",
+  "snapshot_id": "MCw1NzRkYTc3MGIwM2ZlNGJlNTY0MGVlYzg0ZmViNTY2Njk4Nzg0NzM0",
   "tracks": [
     {
       "added_at": "2024-03-11 10:01:59",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "La vingtaine",
         "url": "https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 176786,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 156413,
+      "name": "Celui qui part",
+      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "Cats On Trees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 176618,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "Miroirs",
-        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        }
-      ],
-      "duration_ms": 156413,
-      "name": "Celui qui part",
-      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Nonante-Cinq",
-        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 210706,
       "name": "Le chemin (feat. Sita)",
       "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Nonante-Cinq",
+        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Mauvais r\u00eave",
-        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Mauvais r\u00eave",
-      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "La vitesse",
         "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 198973,
       "name": "Mon c\u0153ur",
       "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Derri\u00e8re l'amour",
         "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 173733,
       "name": "Gabrielle",
       "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "L'instant d'apr\u00e8s",
-        "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        },
-        {
-          "name": "Pascal Obispo",
-          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "Mourir demain",
-      "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Les Annees Barclay",
         "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
       },
@@ -1115,34 +1095,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "La femme id\u00e9ale",
-        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+        "name": "L'instant d'apr\u00e8s",
+        "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
       "artists": [
         {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Nous deux contre le reste du monde",
-      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
-      },
-      "artists": [
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        },
         {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
         }
       ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
+      "duration_ms": 217186,
+      "name": "Mourir demain",
+      "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1175,6 +1143,38 @@
       "duration_ms": 178133,
       "name": "Le lion est mort ce soir",
       "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "La femme id\u00e9ale",
+        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Nous deux contre le reste du monde",
+      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
       },
       "artists": [
         {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
         }
       ],
-      "duration_ms": 201138,
-      "name": "Call on me - feat. Ed Sheeran",
-      "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
     }
   ],
   "unique_name": "Bleu Blanc Route",
