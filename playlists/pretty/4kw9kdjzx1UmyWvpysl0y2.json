@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126654,
+  "num_followers": 126644,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYzMSxjMmNjZGMwZmVlYWVlNWNmNjk5NTBjOTFjYTA4ZTE2YjNjZGNhY2Uy",
+  "snapshot_id": "NDYzNSxiNDRjYWI2OWY5NWNkMjU4YWY3OTNlM2Y4Y2RjNjIwYzcxYWQzMmM1",
   "tracks": [
+    {
+      "added_at": "2024-04-01 16:05:40",
+      "album": {
+        "name": "The Banana Song",
+        "url": "https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 165677,
+      "name": "The Banana Song",
+      "url": "https://open.spotify.com/track/1fTxD2WAaESaaXJqg2av2X"
+    },
+    {
+      "added_at": "2024-04-01 16:05:11",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5oKMHgS24Ikp9APo5xi1lr"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
+    },
     {
       "added_at": "2024-03-28 17:15:09",
       "album": {
@@ -1131,42 +1167,6 @@
       "duration_ms": 104000,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi"
-    },
-    {
-      "added_at": "2024-01-09 17:09:39",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t"
-      },
-      "artists": [
-        {
-          "name": "Finding Mero",
-          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH"
-    },
-    {
-      "added_at": "2024-01-08 14:37:10",
-      "album": {
-        "name": "4D",
-        "url": "https://open.spotify.com/album/7dPYE1Uoic9mBMFgwcqPaR"
-      },
-      "artists": [
-        {
-          "name": "Bad Computer",
-          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
-        },
-        {
-          "name": "Ryan Coss",
-          "url": "https://open.spotify.com/artist/22TzutcnmM3B1e7mWLY0f7"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "4D",
-      "url": "https://open.spotify.com/track/2v4bGopODBEOQqWzg31R2s"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

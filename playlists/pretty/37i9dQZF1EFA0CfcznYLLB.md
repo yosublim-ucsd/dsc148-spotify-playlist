@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,941 likes - 317 songs - 16 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,940 likes - 317 songs - 16 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,8 +309,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 299 | [untitled](https://open.spotify.com/track/0jGrk16kW6xHgjKtUAtbqZ) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [One of a Kind](https://open.spotify.com/album/1B7vpCJ1CosgbHmkBnyHoN) | 3:27 |
 | 300 | [Come up \(feat\. Jon Boi & Winnin Team Re Up\)](https://open.spotify.com/track/16nMSyWXJBRd06OZLg5pQq) | [80's Baby](https://open.spotify.com/artist/5kd46m3RX2fWbVWMWwdWSZ), [Jon Boi](https://open.spotify.com/artist/0QD0svZ9OP0wPDWvkBiKMN), [Winnin Team Re Up](https://open.spotify.com/artist/60gGDTGfTs1GkaIFXdvrVn) | [Money Power Respect, Vol\. 1: Veracity](https://open.spotify.com/album/4LukCg8EUFDY6dHDwQpTBe) | 4:59 |
 | 301 | [My Last Breath](https://open.spotify.com/track/7ntUiOKzqJq7ZRIrfHNPsA) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [My Last Breath](https://open.spotify.com/album/5VcD6Qz1hga1DMqVfunb7i) | 2:11 |
-| 302 | [I Want War](https://open.spotify.com/track/7yn6VmqXSV92zaRdBY73zu) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [I Want War](https://open.spotify.com/album/4kgvJeUeG2yD2K8AyVLDoW) | 2:18 |
-| 303 | [Look Fear In The Eyes](https://open.spotify.com/track/7gc4pjDiOzg3lSQEr5udpk) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Look Fear In The Eyes](https://open.spotify.com/album/6OikY1sexKi2gbfRyEbW7U) | 2:23 |
+| 302 | [Look Fear In The Eyes](https://open.spotify.com/track/7gc4pjDiOzg3lSQEr5udpk) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Look Fear In The Eyes](https://open.spotify.com/album/6OikY1sexKi2gbfRyEbW7U) | 2:23 |
+| 303 | [I Want War](https://open.spotify.com/track/7yn6VmqXSV92zaRdBY73zu) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [I Want War](https://open.spotify.com/album/4kgvJeUeG2yD2K8AyVLDoW) | 2:18 |
 | 304 | [Please](https://open.spotify.com/track/0cjzcacNsOaYrGQzrFsALs) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 4:12 |
 | 305 | [Conversation](https://open.spotify.com/track/15y5mA2FpZlnb0vREdNAco) | [Dmitry Ashin](https://open.spotify.com/artist/3edLk4iRsslLKRHVGqMAoR) | [Interview](https://open.spotify.com/album/0TQ6gANy1GlAjLijEa0MUX) | 5:26 |
 | 306 | [Married to Ben Franklin](https://open.spotify.com/track/24yigWZXf5VCUbNxgY4xJ9) | [D.Carr](https://open.spotify.com/artist/0MlRmUUF2s0CeAzDFxRmAV) | [Married to Ben Franklin](https://open.spotify.com/album/6Wzc9oZ2aFPUnzRa4Bbwvy) | 4:23 |
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 316 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 317 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `Mjg1MzIyOTAsMDAwMDAwMDBlYjM2Y2Q0NzdiYWIzYjU4MGY0OGQ2NjRlMjc5Mzc5ZA==`
+Snapshot ID: `Mjg1MzM3MzAsMDAwMDAwMDBkNjhjYzdkZDJlN2M5M2E3MDZjODhiNjk2MDM2ZmFmZg==`

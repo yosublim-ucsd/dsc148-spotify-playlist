@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Secret Sisters
 
-1,962 songs - 4 day 23 hr 35 min
+1,963 songs - 4 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1168,7 +1168,8 @@
 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 | 2022-10-28 | 2022-12-17 |
 | [No Stopping Now](https://open.spotify.com/track/7h83f3EJFK11nbTQcFu8Bo) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [No Stopping Now](https://open.spotify.com/album/7wrXsMvM3FCeLamY17ZJd9) | 3:45 | 2021-12-17 | 2022-04-09 |
 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 | 2024-01-19 | 2024-03-16 |
-| [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/0G0f65AP53H6JUGRXrBRln) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/album/3pNABFA4mXkk49OmRG7Ku7) | 4:17 | 2024-02-23 |  |
+| [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/0G0f65AP53H6JUGRXrBRln) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/album/3pNABFA4mXkk49OmRG7Ku7) | 4:17 | 2024-02-23 | 2024-04-02 |
+| [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/4PiggwP9xfFdEzopJNVZaI) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Piano Piano 2](https://open.spotify.com/album/747D0AWcVto0ZQIKFkYtMS) | 4:17 | 2024-02-23 |  |
 | [No Wonder](https://open.spotify.com/track/3Of5QKghuS7DanlkQgNW7g) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [More Than One Way Home](https://open.spotify.com/album/6txFFnAPZu1cLGAOvtLJ7s) | 3:09 | 2024-03-08 |  |
 | [North Country Girl](https://open.spotify.com/track/7FE3mLKIjNzKNYYoUtqhnc) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [North Country Girl](https://open.spotify.com/album/6gheTdNKqPtJfTofdcVPv4) | 4:35 | 2023-09-29 | 2023-12-09 |
 | [North Country Ride](https://open.spotify.com/track/73nximTdhI20YGMIqGnXxU) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [North Country Ride](https://open.spotify.com/album/5XKqqmanbOENPhD1voaosl) | 6:08 | 2023-04-28 | 2023-07-08 |

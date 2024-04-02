@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 3318794,
+  "2024-04-02": 3319064,
   "date_first_scraped": "2022-10-25",
   "description": "This is The Beatles. The essential tracks, all in one playlist.",
   "name": "This Is The Beatles",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 117013,
       "name": "Do You Want To Know A Secret - Remastered 2009",
       "url": "https://open.spotify.com/track/7Aobt67JnaF7qN8jCCKvHq"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 140400,
       "name": "I Feel Fine - Remastered 2009",
       "url": "https://open.spotify.com/track/4gxs9En3aoaOm2J5wNMMm9"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 120853,
       "name": "Please Please Me - Remastered 2009",
       "url": "https://open.spotify.com/track/6EHuOufBeL6vk3TvVJB5qo"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 133506,
       "name": "Till There Was You - Remastered 2009",
       "url": "https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm"

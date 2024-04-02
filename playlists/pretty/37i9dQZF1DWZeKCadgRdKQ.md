@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,359,182 likes - 168 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,360,098 likes - 168 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 167 | [In Due Time](https://open.spotify.com/track/433T7mnFe3pkrTZfnYtq7A) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [The Hideout](https://open.spotify.com/album/7Jz7LKyufYL6fPRRkaUe3F) | 2:15 |
 | 168 | [Wheel of Zodiac](https://open.spotify.com/track/5Uj3rUYghH7vcKl5IiitWC) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [The Gathering](https://open.spotify.com/album/3QuRI71gWqj1HxTmQdBMhF) | 2:15 |
 
-Snapshot ID: `MCxjMWFjNGQ1OWI1N2FhNTIwZTkzYjliZDFhOWE2MTlhMDljYjM0M2Q2`
+Snapshot ID: `MCw2ZjFkZGE4NmRjZDcwMjI5YzE4N2JiZDQzZDg3OThjMWI0MTQ1MDM2`

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 195894,
+  "2024-04-02": 195901,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -8717,7 +8717,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 164083,
       "name": "I Live After I Died",
       "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
@@ -9345,6 +9345,24 @@
       "duration_ms": 176471,
       "name": "Island of the Sun",
       "url": "https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0"
+    },
+    {
+      "album": {
+        "name": "It Only Took A Minute For My Country To Love Country",
+        "url": "https://open.spotify.com/album/5qy5IRA4wbhszGPzBvocqg"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153853,
+      "name": "It Only Took A Minute For My Country To Love Country",
+      "url": "https://open.spotify.com/track/2wrcvWfL9Acs0l2RtCvzQV"
     },
     {
       "album": {
@@ -12921,7 +12939,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 177882,
       "name": "N\u00e4r dimman sjunker",
       "url": "https://open.spotify.com/track/7jN5eFTpas9sslUGf2KnAA"
@@ -15151,7 +15169,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 170963,
       "name": "Scream",
       "url": "https://open.spotify.com/track/5rdDxpAeWCtUL8As9xMkG0"

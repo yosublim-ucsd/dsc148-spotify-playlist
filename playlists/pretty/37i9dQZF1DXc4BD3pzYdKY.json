@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
-  "num_followers": 152112,
+  "num_followers": 152194,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTkxOTg5Y2ZmYzM5NzE0YWQ4MmZhZjlmNjAxOTY2NThjMTk3ZmRm",
+  "snapshot_id": "MCwzYzk3MWVlMTczMmUyYzllNDVkMDIxZGZkZDAwNWY4ZDdlZGI0NjVm",
   "tracks": [
     {
       "added_at": "2024-03-29 20:46:50",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
+        "name": "The Way You Act",
+        "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 130627,
+      "name": "The Way You Act",
+      "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 163500,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
-        "name": "The Way You Act",
-        "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 130627,
-      "name": "The Way You Act",
-      "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "Dead Or Alive Pt. 1",
-        "url": "https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 174771,
-      "name": "VICTORY LAP",
-      "url": "https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 216000,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
+        "name": "Dead Or Alive Pt. 1",
+        "url": "https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 174771,
+      "name": "VICTORY LAP",
+      "url": "https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
+        "name": "Code of Conduct",
+        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 138154,
+      "name": "Code of Conduct",
+      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
         "name": "Bands",
         "url": "https://open.spotify.com/album/5veg02OZ3szLtOtf4D5eHB"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 197229,
       "name": "Bands",
       "url": "https://open.spotify.com/track/1jutX4tpnkTBu94RsGKDX3"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
-        "name": "Code of Conduct",
-        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 138154,
-      "name": "Code of Conduct",
-      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "BOATS",
-        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 144294,
-      "name": "Nothing Into Something",
-      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
         "name": "Real Talk",
         "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 200097,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
+        "name": "BOATS",
+        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 144294,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
         "name": "IN MY ROOM",
         "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
       },
@@ -1151,22 +1135,18 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "yall need GOD",
-        "url": "https://open.spotify.com/album/21pmy9nQjAEl1dmWjUS9oT"
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
       },
       "artists": [
         {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
-        },
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 170666,
-      "name": "yall need GOD",
-      "url": "https://open.spotify.com/track/763bzzQDRW8pSYg7iPXMRZ"
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -1187,6 +1167,26 @@
       "duration_ms": 136019,
       "name": "Hands on Me",
       "url": "https://open.spotify.com/track/4fJPzIrLQPeHl9ONB4bPCD"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
+        "name": "yall need GOD",
+        "url": "https://open.spotify.com/album/21pmy9nQjAEl1dmWjUS9oT"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        },
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "yall need GOD",
+      "url": "https://open.spotify.com/track/763bzzQDRW8pSYg7iPXMRZ"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "KEEPER",
-        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
-      },
-      "artists": [
-        {
-          "name": "Amar",
-          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
-        },
-        {
-          "name": "Vianca \"The Grace\"",
-          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "KEEPER",
-      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp"
       },
@@ -1479,18 +1459,22 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "For A Reason",
-        "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
+        "name": "KEEPER",
+        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
       },
       "artists": [
         {
-          "name": "Starringo",
-          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
         }
       ],
-      "duration_ms": 161872,
-      "name": "For A Reason",
-      "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
+      "duration_ms": 238285,
+      "name": "KEEPER",
+      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -1511,6 +1495,22 @@
       "duration_ms": 135831,
       "name": "Poetic Pain",
       "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
+        "name": "For A Reason",
+        "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
+      },
+      "artists": [
+        {
+          "name": "Starringo",
+          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+        }
+      ],
+      "duration_ms": 161872,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/5EVL8WwIapteEq99UjlJnj"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/7G0esvWTtqyussJ1KWkuTp"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 201717,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/3rAGol5YWMzVBKqjXoJzp2"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 186713,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
+        "name": "4am",
+        "url": "https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
         }
       ],
-      "duration_ms": 186713,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
+      "duration_ms": 197154,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -1667,22 +1683,6 @@
       "duration_ms": 175558,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0kXufwWYE2M1qB2xWalZRv"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6"
-      },
-      "artists": [
-        {
-          "name": "V.I.C",
-          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
-        }
-      ],
-      "duration_ms": 197154,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd"
     },
     {
       "added_at": "2024-03-29 20:46:50",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2024-03-29 20:46:50",
       "album": {
-        "name": "Dirty Floors (feat. 1K Phew)",
-        "url": "https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Dirty Floors (feat. 1K Phew)",
-      "url": "https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF"
-    },
-    {
-      "added_at": "2024-03-29 20:46:50",
-      "album": {
         "name": "VINE",
         "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 195500,
       "name": "VINE",
       "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
+    },
+    {
+      "added_at": "2024-03-29 20:46:50",
+      "album": {
+        "name": "Dirty Floors (feat. 1K Phew)",
+        "url": "https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Dirty Floors (feat. 1K Phew)",
+      "url": "https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF"
     },
     {
       "added_at": "2024-03-29 20:46:50",

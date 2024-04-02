@@ -126,7 +126,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 206153,
       "name": "A PURO DOLOR",
       "url": "https://open.spotify.com/track/7Ho0Xbf3vHdBJiTbQocuxQ"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "eternal sunshine",
       "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 366200,
       "name": "La Memoria",
       "url": "https://open.spotify.com/track/4jdvNdmgHxlNGmX3BACU76"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 208093,
       "name": "Los Dinosaurios",
       "url": "https://open.spotify.com/track/3VCKdfJAL8DTDlwZw5O6Ik"
@@ -3131,6 +3131,40 @@
     },
     {
       "album": {
+        "name": "Perreando Sola",
+        "url": "https://open.spotify.com/album/4zb8FgRRGk74SFTUJ81vCJ"
+      },
+      "artists": [
+        {
+          "name": "2mileros",
+          "url": "https://open.spotify.com/artist/3OAj7vUyUxSDUO0vSzNNlI"
+        },
+        {
+          "name": "KEV",
+          "url": "https://open.spotify.com/artist/1LyzBzKx2WkyZryRXUf9F2"
+        },
+        {
+          "name": "Nuno.w",
+          "url": "https://open.spotify.com/artist/3w2J3VDmUanaq2U1hO1p33"
+        },
+        {
+          "name": "Ezelinn",
+          "url": "https://open.spotify.com/artist/7t40e6QgPXtjz49hmwy85U"
+        },
+        {
+          "name": "Chris LA",
+          "url": "https://open.spotify.com/artist/7b7CyP9FGowIqxtxPTO4B1"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149072,
+      "name": "Perreando Sola",
+      "url": "https://open.spotify.com/track/4Mj7m2CEZojrkHQmzihuJ3"
+    },
+    {
+      "album": {
         "name": "Piel",
         "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
       },
@@ -3260,7 +3294,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 204705,
       "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv"
@@ -3632,7 +3666,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"

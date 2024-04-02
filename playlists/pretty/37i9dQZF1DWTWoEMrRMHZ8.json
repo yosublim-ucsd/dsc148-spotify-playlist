@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 346900,
+  "num_followers": 346925,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2ZiODkxNzU1MTc2NDRiYmFhM2YyZDNkOTllYjRjOWNlMWIzZWQ2",
+  "snapshot_id": "MCw4OWFjYWQxYzg2MjRkOWVlNzBiNmIwYjg1NGM4ZDRjZjA5Y2I1ZmJh",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -103,18 +103,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+        "name": "Idiota Raiz (Deixa Ir)",
+        "url": "https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+      "duration_ms": 154137,
+      "name": "Idiota Raiz (Deixa Ir)",
+      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -139,22 +143,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Idiota Raiz (Deixa Ir)",
-        "url": "https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM"
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
       "artists": [
         {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 154137,
-      "name": "Idiota Raiz (Deixa Ir)",
-      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Gerando na Alta",
         "url": "https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 143933,
       "name": "Maria Maria - Spotify Singles",
       "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Meu Parceiro Belchior",
-        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
-      },
-      "artists": [
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        },
-        {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "duration_ms": 166006,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Meu Parceiro Belchior",
+        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        },
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        }
+      ],
+      "duration_ms": 166006,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "A Vida N\u00e3o \u00c9 Bela",
-        "url": "https://open.spotify.com/album/7AYUKZDi4MWzQSnCzl3r0d"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nogueira",
-          "url": "https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4"
-        },
-        {
-          "name": "Lucca Sim\u00f5es",
-          "url": "https://open.spotify.com/artist/5Pg64pCF0TA6lZmDz23CXZ"
-        }
-      ],
-      "duration_ms": 159683,
-      "name": "As Solid\u00f5es",
-      "url": "https://open.spotify.com/track/7iqA3zeTLdSCTRgdse2fIw"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "O Amor Mata Sim",
         "url": "https://open.spotify.com/album/1xbBPaoeswYFhlas5WJxih"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 179215,
       "name": "O Amor Mata Sim",
       "url": "https://open.spotify.com/track/2RGHqHbXDiP4iMu12oImWA"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "A Vida N\u00e3o \u00c9 Bela",
+        "url": "https://open.spotify.com/album/7AYUKZDi4MWzQSnCzl3r0d"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nogueira",
+          "url": "https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4"
+        },
+        {
+          "name": "Lucca Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/5Pg64pCF0TA6lZmDz23CXZ"
+        }
+      ],
+      "duration_ms": 159683,
+      "name": "As Solid\u00f5es",
+      "url": "https://open.spotify.com/track/7iqA3zeTLdSCTRgdse2fIw"
     },
     {
       "added_at": "2024-03-29 03:00:00",

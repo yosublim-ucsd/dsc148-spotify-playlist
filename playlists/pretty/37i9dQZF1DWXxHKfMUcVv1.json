@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 115285,
+  "num_followers": 115313,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjRiNTYxZjUzYWE1YTQ2MzM0MDJkNGVmNGJkNDg2OGJmYmQ0Njg3",
+  "snapshot_id": "MCxiYzNiMGMxYjc3MTZlNmVjNjQyNDRiNGViNTU5YTQ1MjZjNWYzOTlm",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Dificil de igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 251626,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Dificil de igualar",
-      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "My Destiny",
-        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
-      },
-      "artists": [
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 212591,
-      "name": "Mi Mujer",
-      "url": "https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Sr. Pombero",
         "url": "https://open.spotify.com/album/0iOmkDSi03jHzBSAZV9t5D"
       },
@@ -407,6 +391,38 @@
       "duration_ms": 214586,
       "name": "Cada D\u00eda",
       "url": "https://open.spotify.com/track/28raHTrN34eAYiZfXzVcwb"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
+      },
+      "artists": [
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "duration_ms": 212591,
+      "name": "Mi Mujer",
+      "url": "https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -463,38 +479,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp"
-      },
-      "artists": [
-        {
-          "name": "Andy El Unico",
-          "url": "https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla"
-        }
-      ],
-      "duration_ms": 223242,
-      "name": "Perdi mi amor",
-      "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "El Gallo Rojo",
         "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
       },
@@ -515,6 +499,38 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Si Yo Fuera El",
+      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp"
+      },
+      "artists": [
+        {
+          "name": "Andy El Unico",
+          "url": "https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla"
+        }
+      ],
+      "duration_ms": 223242,
+      "name": "Perdi mi amor",
+      "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Si Yo Fuera El",
-      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "El Rey del Norte",
-        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ternura",
-          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Olv\u00eddame Si Puedes",
         "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 198773,
       "name": "Pobre De Mis Ojos",
       "url": "https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "El Rey del Norte",
+        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ternura",
+          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Los Meketrefes grandes exitos",
-        "url": "https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e"
-      },
-      "artists": [
-        {
-          "name": "Los Meketrefes",
-          "url": "https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj"
-        }
-      ],
-      "duration_ms": 180195,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Nena Buena",
         "url": "https://open.spotify.com/album/68GJuJAXjGNo1XXa726aUR"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 153933,
       "name": "Nena Buena",
       "url": "https://open.spotify.com/track/6mVv3xXy1P398JJcJwaFTq"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Los Meketrefes grandes exitos",
+        "url": "https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e"
+      },
+      "artists": [
+        {
+          "name": "Los Meketrefes",
+          "url": "https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj"
+        }
+      ],
+      "duration_ms": 180195,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Hemisferios",
-        "url": "https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh"
-      },
-      "artists": [
-        {
-          "name": "La De Roberto",
-          "url": "https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "Hemisferios",
-      "url": "https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
         "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 215981,
       "name": "Una Cerveza",
       "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Hemisferios",
+        "url": "https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh"
+      },
+      "artists": [
+        {
+          "name": "La De Roberto",
+          "url": "https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U"
+        }
+      ],
+      "duration_ms": 209773,
+      "name": "Hemisferios",
+      "url": "https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy"
     },
     {
       "added_at": "2024-01-12 16:17:07",

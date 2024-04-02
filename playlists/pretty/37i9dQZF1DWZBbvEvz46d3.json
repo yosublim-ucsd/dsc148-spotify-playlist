@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 65782,
+  "num_followers": 65789,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGExOTM0YzlkYmZhMGMwNDhkZjM2ZWNhMTEwMzhhNzEzZWNhYzkz",
+  "snapshot_id": "MCw3OGJmZWU2YjFjNTQ5ZDEyZWI1YjE3MWU0N2MyNzMwYmQyNjA0MGE2",
   "tracks": [
     {
       "added_at": "2024-02-09 12:36:46",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Obrazki",
         "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 193973,
       "name": "Na zawsze i na wieczno\u015b\u0107",
       "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Milosc",
-        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
-      },
-      "artists": [
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Peron",
-      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Komponuj\u0105c siebie",
         "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 229666,
       "name": "Najnowszy Klip",
       "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Milosc",
+        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Peron",
+      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Nic dwa razy (W. Szymborska)",
-        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Nic dwa razy (W. Szymborska)",
-      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Marek Grechuta - 40 piosenek",
         "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 104733,
       "name": "B\u0119dziesz moj\u0105 pani\u0105",
       "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Nic dwa razy (W. Szymborska)",
+        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Nic dwa razy (W. Szymborska)",
+      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "P\u00f3ki to nie zabronione (The Best)",
+        "url": "https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V"
+      },
+      "artists": [
+        {
+          "name": "Kobranocka",
+          "url": "https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF"
+        }
+      ],
+      "duration_ms": 294066,
+      "name": "Kocham ci\u0119 jak irlandi\u0119",
+      "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Wkr\u0119ceni nie ufaj mi",
         "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 210662,
       "name": "Porady Na Zdrady [Dreszcze]",
       "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "P\u00f3ki to nie zabronione (The Best)",
-        "url": "https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V"
-      },
-      "artists": [
-        {
-          "name": "Kobranocka",
-          "url": "https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF"
-        }
-      ],
-      "duration_ms": 294066,
-      "name": "Kocham ci\u0119 jak irlandi\u0119",
-      "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "Po prostu Krawczyk. Antologia przeboj\u00f3w",
+        "url": "https://open.spotify.com/album/0ugZB6bS4YDKSXr51CxHNu"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Krawczyk",
+          "url": "https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Bo Jeste\u015b Ty",
+      "url": "https://open.spotify.com/track/4YvQ9fgBWflsCa0hQWPSY0"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Tamta dziewczyna",
         "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 222865,
       "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
       "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Po prostu Krawczyk. Antologia przeboj\u00f3w",
-        "url": "https://open.spotify.com/album/0ugZB6bS4YDKSXr51CxHNu"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Krawczyk",
-          "url": "https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "Bo Jeste\u015b Ty",
-      "url": "https://open.spotify.com/track/4YvQ9fgBWflsCa0hQWPSY0"
     },
     {
       "added_at": "2024-02-09 12:36:46",

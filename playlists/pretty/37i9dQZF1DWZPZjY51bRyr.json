@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 30667,
+  "num_followers": 30736,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzE5ZWIyZTAxZDQ4YWZhMWY2OTI4YWEyNzVmMjU4MzhkNmVkOTU1",
+  "snapshot_id": "MCw5NjIyYTlkZjg1M2NjN2I1NzY1OTk2ZjE1NzJlMzNkYWMxMGYyMjI4",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Mesmeric Quietude",
-        "url": "https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9"
-      },
-      "artists": [
-        {
-          "name": "Wes Gold",
-          "url": "https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH"
-        }
-      ],
-      "duration_ms": 149795,
-      "name": "Mesmeric Quietude",
-      "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Pure And Calm",
         "url": "https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 165639,
       "name": "Pure And Calm",
       "url": "https://open.spotify.com/track/663LF9heB9sWluligQWpG8"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Mesmeric Quietude",
+        "url": "https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9"
+      },
+      "artists": [
+        {
+          "name": "Wes Gold",
+          "url": "https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH"
+        }
+      ],
+      "duration_ms": 149795,
+      "name": "Mesmeric Quietude",
+      "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Compass of Peace 528 Hz",
-        "url": "https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai"
-      },
-      "artists": [
-        {
-          "name": "Doctor Hz",
-          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Compass of Peace 528 Hz",
-      "url": "https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Devine Minds",
         "url": "https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194880,
       "name": "Devine Minds",
       "url": "https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Compass of Peace 528 Hz",
+        "url": "https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Compass of Peace 528 Hz",
+      "url": "https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Spiritual Echoes",
-        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
-      },
-      "artists": [
-        {
-          "name": "Bernie Longo",
-          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Spiritual Echoes",
-      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Prkahm Mindbeats",
         "url": "https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 160750,
       "name": "Clearings",
       "url": "https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Spiritual Echoes",
+        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Spiritual Echoes",
+      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Joyous Flow",
+        "url": "https://open.spotify.com/album/1rTRvKgABDgCZUrm6FxAKQ"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "duration_ms": 197555,
+      "name": "Joyous Flow",
+      "url": "https://open.spotify.com/track/6IW2PQXNR6BOkAJUWJMoyZ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Finding Enoughness",
         "url": "https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 200706,
       "name": "Wander",
       "url": "https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Joyous Flow",
-        "url": "https://open.spotify.com/album/1rTRvKgABDgCZUrm6FxAKQ"
-      },
-      "artists": [
-        {
-          "name": "Ara Amar",
-          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
-        }
-      ],
-      "duration_ms": 197555,
-      "name": "Joyous Flow",
-      "url": "https://open.spotify.com/track/6IW2PQXNR6BOkAJUWJMoyZ"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Asha",
-        "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
-      },
-      "artists": [
-        {
-          "name": "Sleep Advisor",
-          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
-        }
-      ],
-      "duration_ms": 154751,
-      "name": "Asha",
-      "url": "https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Somniloquy",
         "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 112999,
       "name": "Polysomnography",
       "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "duration_ms": 154751,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Forgiving the Night",
-        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
-      },
-      "artists": [
-        {
-          "name": "Shorenights",
-          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Forgiving the Night",
-      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Calm Cosmos",
         "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 137250,
       "name": "Calm Cosmos",
       "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Forgiving the Night",
+        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Forgiving the Night",
+      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
-      },
-      "artists": [
-        {
-          "name": "Zoe Connelly",
-          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
-        }
-      ],
-      "duration_ms": 136820,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 143755,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Connelly",
+          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
+        }
+      ],
+      "duration_ms": 136820,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "528 Hz - Depth",
+        "url": "https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8"
+      },
+      "artists": [
+        {
+          "name": "Willow Bird",
+          "url": "https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "528 Hz - Depth",
+      "url": "https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "432 Hz Delta Earth",
         "url": "https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas"
       },
@@ -2471,22 +2487,6 @@
       "duration_ms": 194000,
       "name": "Big Sky",
       "url": "https://open.spotify.com/track/1pBLOl4l4pNgejlBywS0jz"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "528 Hz - Depth",
-        "url": "https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8"
-      },
-      "artists": [
-        {
-          "name": "Willow Bird",
-          "url": "https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "528 Hz - Depth",
-      "url": "https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "U\u0219\u0101 Dhy\u0101na",
-        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
-      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Majestica",
         "url": "https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 266400,
       "name": "Sunset Relief",
       "url": "https://open.spotify.com/track/17qnGb6b5J4RzA6F4g2nFU"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
+      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
     }
   ],
   "unique_name": "Wellness (2)",

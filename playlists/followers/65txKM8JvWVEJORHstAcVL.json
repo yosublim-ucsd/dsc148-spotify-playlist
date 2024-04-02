@@ -1,8 +1,8 @@
 {
-  "2024-04-01": 28591,
+  "2024-04-02": 28594,
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (24/3/2024)",
+  "name": "LA LLISTA DE FLAIXBAC (31/3/2024)",
   "tracks": [
     {
       "album": {
@@ -443,7 +443,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 176813,
       "name": "Jenifer",
       "url": "https://open.spotify.com/track/2MeWCYKsmvPt8HSYVYVEUJ"
@@ -655,6 +655,28 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
+        "name": "Punter\u00eda",
+        "url": "https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Punter\u00eda",
+      "url": "https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: St\. Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,118 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,121 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Oh Mah Gad!](https://open.spotify.com/track/36mym2nvmQk45l9B7mEWvX) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Oh Mah Gad!](https://open.spotify.com/album/6HA4esc9cqG9WNF9BbPRTj) | 2:35 |
 | 100 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 |
 
-Snapshot ID: `MCxmZmQ4N2Y1NmI4OGNkODMzMjlmZDYzNTJhYTcxMjkwMzU3ZmYzZjA0`
+Snapshot ID: `MCw3ODJjYzkzNzFjYWE0OGU4YzQ4NDEwMDdjMzJjNTk1MjhlMGNmZWE0`

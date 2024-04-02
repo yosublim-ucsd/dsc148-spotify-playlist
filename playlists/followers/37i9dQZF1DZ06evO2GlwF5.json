@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 15108,
+  "2024-04-02": 15111,
   "date_first_scraped": "2022-08-11",
   "description": "This is Maaya Sakamoto. The essential tracks, all in one playlist.",
   "name": "This Is Maaya Sakamoto",
@@ -111,6 +111,24 @@
       "duration_ms": 331465,
       "name": "birds",
       "url": "https://open.spotify.com/track/4LJiorJdPtMw2zXjfceIfD"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30fc\u30b8\u30fc\u30ea\u30b9\u30cb\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314181,
+      "name": "bitter sweet",
+      "url": "https://open.spotify.com/track/0iTj35gQ63rzonSmuHg7kx"
     },
     {
       "album": {
@@ -675,7 +693,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 297293,
       "name": "un_mute",
       "url": "https://open.spotify.com/track/3u5awR3XHHpmdn0nQWf5ul"

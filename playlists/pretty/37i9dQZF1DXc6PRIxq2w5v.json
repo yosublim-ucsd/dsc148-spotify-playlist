@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 166896,
+  "num_followers": 166970,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWNiMmRiYTNiNGUyMjE2ZjE3NmMwZWU4NTg3NTBhMTYzNjQyNzQz",
+  "snapshot_id": "MCw0ZDZkNzEwYTdiZjhlZWIxODU3Mzc3NWE0NmYxMjBkNmE4ZjUzNTgw",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -127,30 +127,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Limitado",
-        "url": "https://open.spotify.com/album/50ec60lL8WRQH77Wqx1rXt"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        },
-        {
-          "name": "F\u00e1bio Casagrande",
-          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
-        }
-      ],
-      "duration_ms": 183892,
-      "name": "Limitado",
-      "url": "https://open.spotify.com/track/3zSJaVOG3CScUJ4UdPi6IN"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Prazer Jesus",
         "url": "https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt"
       },
@@ -195,6 +171,54 @@
       "duration_ms": 169173,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/2jpK1jHZpKNgemDB38gMuA"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Limitado",
+        "url": "https://open.spotify.com/album/50ec60lL8WRQH77Wqx1rXt"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
+        }
+      ],
+      "duration_ms": 183892,
+      "name": "Limitado",
+      "url": "https://open.spotify.com/track/3zSJaVOG3CScUJ4UdPi6IN"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Viv\u00eancias",
+        "url": "https://open.spotify.com/album/6VCbpqc4zqIRdBPUPM5F6K"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Viv\u00eancias",
+      "url": "https://open.spotify.com/track/0jmfZfkd9y1aqT7nvyFssH"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -251,70 +275,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Servo do Senhor",
-        "url": "https://open.spotify.com/album/5TmgIGi5LKWx8xJzBBtga8"
-      },
-      "artists": [
-        {
-          "name": "Educky",
-          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
-        },
-        {
-          "name": "Todah Urban",
-          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
-        }
-      ],
-      "duration_ms": 159656,
-      "name": "Servo do Senhor",
-      "url": "https://open.spotify.com/track/3udsCR5xMRiw69hU4bj4qu"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Viv\u00eancias",
-        "url": "https://open.spotify.com/album/6VCbpqc4zqIRdBPUPM5F6K"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Viv\u00eancias",
-      "url": "https://open.spotify.com/track/0jmfZfkd9y1aqT7nvyFssH"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Ah Teu (Sample: Naquela Mesa)",
-        "url": "https://open.spotify.com/album/4jUUWhkXEtqTuMp98OThIv"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 165031,
-      "name": "Ah Teu (Sample: Naquela Mesa)",
-      "url": "https://open.spotify.com/track/3VYaIt0YgMlaTS6QOhNtF8"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Hosana",
         "url": "https://open.spotify.com/album/1I0VpGgH26ul84YeFjoH2r"
       },
@@ -359,6 +319,46 @@
       "duration_ms": 104582,
       "name": "Deus N\u00e3o Usa Rolex",
       "url": "https://open.spotify.com/track/1z4UoXYJNZiyGPfCyLRrWk"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Servo do Senhor",
+        "url": "https://open.spotify.com/album/5TmgIGi5LKWx8xJzBBtga8"
+      },
+      "artists": [
+        {
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+        }
+      ],
+      "duration_ms": 159656,
+      "name": "Servo do Senhor",
+      "url": "https://open.spotify.com/track/3udsCR5xMRiw69hU4bj4qu"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Ah Teu (Sample: Naquela Mesa)",
+        "url": "https://open.spotify.com/album/4jUUWhkXEtqTuMp98OThIv"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 165031,
+      "name": "Ah Teu (Sample: Naquela Mesa)",
+      "url": "https://open.spotify.com/track/3VYaIt0YgMlaTS6QOhNtF8"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -459,42 +459,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Pela Manh\u00e3",
-        "url": "https://open.spotify.com/album/07p5qILARDVfkIH6fQuQ0T"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "F\u00e1bio Casagrande",
-          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
-        }
-      ],
-      "duration_ms": 132968,
-      "name": "Pela Manh\u00e3",
-      "url": "https://open.spotify.com/track/2QHMbD5U9awGhvHGcVIh5v"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "100 Versos",
-        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "100 Versos",
-      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
         "url": "https://open.spotify.com/album/3s5vcKGvTawT9YXMojqO9d"
       },
@@ -527,22 +491,18 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Jesus Saves Bro",
-        "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
+        "name": "100 Versos",
+        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
       },
       "artists": [
         {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 169016,
-      "name": "Jesus Saves Bro",
-      "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
+      "duration_ms": 158663,
+      "name": "100 Versos",
+      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -567,8 +527,28 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Multiplica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
+        "name": "Jesus Saves Bro",
+        "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 169016,
+      "name": "Jesus Saves Bro",
+      "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Pela Manh\u00e3",
+        "url": "https://open.spotify.com/album/07p5qILARDVfkIH6fQuQ0T"
       },
       "artists": [
         {
@@ -580,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
         }
       ],
-      "duration_ms": 163183,
-      "name": "Multiplica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
+      "duration_ms": 132968,
+      "name": "Pela Manh\u00e3",
+      "url": "https://open.spotify.com/track/2QHMbD5U9awGhvHGcVIh5v"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -603,6 +583,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "God Feat. Me",
+        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 176934,
+      "name": "Mateus 6.6",
+      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Se o Esp\u00edrito de Deus Se Move em Mim",
         "url": "https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO"
       },
@@ -619,22 +615,6 @@
       "duration_ms": 130515,
       "name": "Se o Esp\u00edrito de Deus Se Move em Mim",
       "url": "https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "God Feat. Me",
-        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 176934,
-      "name": "Mateus 6.6",
-      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -719,26 +699,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Olho pro C\u00e9u",
-        "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
+        "name": "Multiplica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
       },
       "artists": [
         {
-          "name": "WC12",
-          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
         },
         {
-          "name": "Gem\u00e3o",
-          "url": "https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
         }
       ],
-      "duration_ms": 228668,
-      "name": "Olho pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
+      "duration_ms": 163183,
+      "name": "Multiplica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -759,6 +735,30 @@
       "duration_ms": 171340,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Olho pro C\u00e9u",
+        "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
+      },
+      "artists": [
+        {
+          "name": "WC12",
+          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
+        },
+        {
+          "name": "Gem\u00e3o",
+          "url": "https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        }
+      ],
+      "duration_ms": 228668,
+      "name": "Olho pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Amor \u00c1gape",
         "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 326028,
       "name": "Amor \u00c1gape",
       "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Doming\u00e3o",
         "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 143114,
       "name": "Doming\u00e3o",
       "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -1295,6 +1311,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Meu Primeiro Amor",
+        "url": "https://open.spotify.com/album/1GnENPwUsv1h03yBeFT8W7"
+      },
+      "artists": [
+        {
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Azero",
+          "url": "https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/0AGpTYmXuygXrjiixCBFD8"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Quebrantado (Remix)",
         "url": "https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP"
       },
@@ -1315,42 +1351,6 @@
       "duration_ms": 228888,
       "name": "Quebrantado - Remix",
       "url": "https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Meu Primeiro Amor",
-        "url": "https://open.spotify.com/album/1GnENPwUsv1h03yBeFT8W7"
-      },
-      "artists": [
-        {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Azero",
-          "url": "https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Meu Primeiro Amor",
-      "url": "https://open.spotify.com/track/0AGpTYmXuygXrjiixCBFD8"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Rasgou o V\u00e9u",
-        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
-      },
-      "artists": [
-        {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Rasgou o V\u00e9u",
-      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Eu Era Servo",
         "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
       },
@@ -1507,22 +1487,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
@@ -1559,6 +1523,42 @@
       "duration_ms": 155300,
       "name": "Prosseguir",
       "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Rasgou o V\u00e9u",
+        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Rasgou o V\u00e9u",
+      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1635,6 +1635,30 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Lesgo",
+        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Cordeiro",
         "url": "https://open.spotify.com/album/5pySYiNZgW3G9hsbzHZM4i"
       },
@@ -1659,30 +1683,6 @@
       "duration_ms": 168175,
       "name": "Cordeiro",
       "url": "https://open.spotify.com/track/3Rvmkv36zo0y3yqLyCvVB5"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Lesgo",
-        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
-      },
-      "artists": [
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Lesgo",
-      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2024-03-29 03:01:00",

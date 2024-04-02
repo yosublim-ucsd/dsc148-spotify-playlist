@@ -4,7 +4,7 @@
 
 > Porque no to' e' Dembow en RD loco\. Portada: Tokischa
 
-325 songs - 15 hr 52 min
+326 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Empitolao](https://open.spotify.com/track/4tQnilHRVEzX1Braalyl21) | [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Empitolao](https://open.spotify.com/album/1mnw44Nqepxr4TrdvfRm8a) | 2:04 | 2023-02-17 | 2023-07-15 |
 | [En Detone](https://open.spotify.com/track/7jVZ71GmvJo85idzeTudtZ) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Olle Jey](https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH) | [En Detone](https://open.spotify.com/album/0gcZC4UXD1B6Ky6IV3XTHz) | 2:02 | 2022-03-15 | 2022-07-29 |
 | [En Detone](https://open.spotify.com/track/6ayhb2zGzFKv4cC1kH6XAx) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Olle Jey](https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH), [Drumz LT](https://open.spotify.com/artist/7LQVujKoQp86vom82YHV14), [Berto Lokera](https://open.spotify.com/artist/4huvJpp8DdgopunvvUy2Xs) | [En Detone](https://open.spotify.com/album/6bDglsSOalMjpNNDrOv3EP) | 2:02 | 2022-06-03 | 2023-02-18 |
-| [En Manada](https://open.spotify.com/track/71GL1EVxnJQhrZaNX3ZrMM) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [En Manada](https://open.spotify.com/album/4GRWtFeComKH2ArqIgCsRT) | 2:07 | 2024-03-22 |  |
+| [En Manada](https://open.spotify.com/track/71GL1EVxnJQhrZaNX3ZrMM) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [En Manada](https://open.spotify.com/album/4GRWtFeComKH2ArqIgCsRT) | 2:07 | 2024-03-22 | 2024-04-02 |
 | [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Eiden y Hacky](https://open.spotify.com/artist/2GZsR7HeNCAH0GeChpQto8) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 | 2023-05-26 | 2024-02-02 |
 | [En Que Tu Ta Tu No Ta En Nah \- En Vivo](https://open.spotify.com/track/7G2nyEQlxrZ7pLEw4WXZPB) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [En Que Tu Ta Tu No Ta En Nah \(En Vivo\)](https://open.spotify.com/album/34UMsVZ5txNzdOKwGS9EKd) | 3:02 | 2022-06-03 | 2022-11-12 |
 | [En Que Tu Ta Tu No Ta En Nah \- En Vivo](https://open.spotify.com/track/72blRbRNl6ZEem3twjMj6m) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [En Que Tu Ta Tu No Ta En Nah \(En Vivo\)](https://open.spotify.com/album/20DNSwcITz5EaBPWZGzkC4) | 3:12 | 2022-03-15 | 2022-07-29 |
@@ -273,6 +273,7 @@
 | [Solo](https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Solo](https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4) | 3:51 | 2024-03-27 |  |
 | [Sorprendeme](https://open.spotify.com/track/2xg6TN2gnemvt19f9W5P4m) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Sorprendeme](https://open.spotify.com/album/0yEsVqPVQDyLWAOxvghL4N) | 2:48 | 2023-08-09 |  |
 | [Soy de la Calle](https://open.spotify.com/track/5O1wqBKLhNxGMb7C1vjV0X) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Soy de la Calle](https://open.spotify.com/album/158gh6DuAj5QIckvZ1WA7J) | 3:01 | 2024-02-15 | 2024-03-23 |
+| [Suano](https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Suano](https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh) | 2:17 | 2024-04-01 |  |
 | [Susana](https://open.spotify.com/track/1zFQCh4SlsnfIRL9HYcemL) | [El Pastor RD](https://open.spotify.com/artist/4plI4LITOF226K197LazKR), [Most Wanted La Familia](https://open.spotify.com/artist/57yFqDKqy5QnBIBAjy2qz6) | [Susana](https://open.spotify.com/album/0zrkkaZKG4VeqbvEcxBoUY) | 1:48 | 2023-09-29 | 2024-01-13 |
 | [Sushi](https://open.spotify.com/track/09GpTKIbVAYdVBalUf5Piz) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Real Unidad](https://open.spotify.com/artist/7nC9Qq3c3RisY9vYcwItzT) | [Sushi](https://open.spotify.com/album/7g4edTQkCDWUEjM3D7f6Xx) | 2:43 | 2024-03-22 |  |
 | [Susu](https://open.spotify.com/track/1qN76meSBGWaR5uaBqJu61) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Susu](https://open.spotify.com/album/30h62ee5kOBlpi2GH7SQbO) | 2:54 | 2022-11-11 | 2022-12-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Pippa Crossland\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,728 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,739 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 89 | [Outside](https://open.spotify.com/track/1ozbAvJ5hZmycQbh4GQGjI) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Outside](https://open.spotify.com/album/0baK4pePflG8hjaOPxiyiJ) | 2:36 |
 | 90 | [He Don't](https://open.spotify.com/track/4AFJ1Wr1pee9bpWT5PgKN0) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [He Don't](https://open.spotify.com/album/6L7wHBVw78HrnYxxZuZzlm) | 2:28 |
 
-Snapshot ID: `MCwyYTk2YmQ3NDk3NzhlYzcwYzA4YmNjN2MyYTQ5NTQ3NWFiNTc3YmFj`
+Snapshot ID: `MCwxNmIxMzliNzRlN2ZlODdiZDM2ZTBkMGJhMWFmNzVjMTU2YTNlMDQ5`

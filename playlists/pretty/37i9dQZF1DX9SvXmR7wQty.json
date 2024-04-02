@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Laurence Nerbonne",
-  "num_followers": 40119,
+  "num_followers": 40126,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTI0YjE3MGY3NzZlMjBmMjExNmJlOWY5ZjA5ZmY1MWNkMDcxNTkx",
+  "snapshot_id": "MCw2YWU3NzY3MGMxNGFkMTAxMjE5MzE4Y2UxZjQyMjEzMDk2MWI2ZGIx",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "HHHH",
+        "url": "https://open.spotify.com/album/0uleKHAzZR8auY98Vddkxc"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/09iCConrp2c78DObRUgiNP"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "SOLSAD",
         "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 203720,
       "name": "Loin d'ici",
       "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "HHHH",
-        "url": "https://open.spotify.com/album/0uleKHAzZR8auY98Vddkxc"
-      },
-      "artists": [
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/09iCConrp2c78DObRUgiNP"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Clique",
-        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
-      },
-      "artists": [
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        }
-      ],
-      "duration_ms": 181974,
-      "name": "Clique",
-      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Faut que tu m'aimes",
         "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 192998,
       "name": "Faut que tu m'aimes",
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Clique",
+        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 181974,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Si t'es pas l\u00e0",
-        "url": "https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Si t'es pas l\u00e0",
-      "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "blue (yes, i love you)",
         "url": "https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 102000,
       "name": "blue (yes, i love you)",
       "url": "https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Si t'es pas l\u00e0",
+        "url": "https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Si t'es pas l\u00e0",
+      "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -787,6 +787,50 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Matata",
+        "url": "https://open.spotify.com/album/6loazP7tFix6vicTNHi2Qs"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Matata",
+      "url": "https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Bushi Tape 3",
+        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
+      },
+      "artists": [
+        {
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Oc\u00e9ane",
+      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Recommence-moi",
         "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
       },
@@ -819,46 +863,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Parisienne High Level",
-        "url": "https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 151414,
-      "name": "Parisienne High Level",
-      "url": "https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Matata",
-        "url": "https://open.spotify.com/album/6loazP7tFix6vicTNHi2Qs"
-      },
-      "artists": [
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        },
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Matata",
-      "url": "https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Dis-toi que c'est la vie",
         "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
       },
@@ -875,38 +879,34 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Je pense \u00e0 vous",
-        "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
+        "name": "Goumin",
+        "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
       },
       "artists": [
         {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 172263,
-      "name": "Je pense \u00e0 vous",
-      "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
+      "duration_ms": 154773,
+      "name": "Abim\u00e9",
+      "url": "https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Bushi Tape 3",
-        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
+        "name": "Parisienne High Level",
+        "url": "https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp"
       },
       "artists": [
         {
-          "name": "BU$HI",
-          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
         }
       ],
-      "duration_ms": 184360,
-      "name": "Oc\u00e9ane",
-      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
+      "duration_ms": 151414,
+      "name": "Parisienne High Level",
+      "url": "https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

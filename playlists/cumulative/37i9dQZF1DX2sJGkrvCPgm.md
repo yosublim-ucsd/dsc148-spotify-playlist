@@ -4,12 +4,12 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-351 songs - 22 hr 5 min
+352 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(There’s No Place Like\) Home for the Holidays](https://open.spotify.com/track/1DH6zhxdbHU5NU3tnelKrw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [\(There’s No Place Like\) Home for the Holidays](https://open.spotify.com/album/4QM16VhapZKE1haa2QdXkv) | 2:21 | 2023-12-15 | 2024-02-03 |
-| [\[the night the sky joined in\]](https://open.spotify.com/track/09haRxFNHvJw3wiC1HK4Vd) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[the night the sky joined in\]](https://open.spotify.com/album/4d5DlbsJbmVEvKR6bM5JLH) | 3:18 | 2021-12-24 |  |
+| [\[the night the sky joined in\]](https://open.spotify.com/track/09haRxFNHvJw3wiC1HK4Vd) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[the night the sky joined in\]](https://open.spotify.com/album/4d5DlbsJbmVEvKR6bM5JLH) | 3:18 | 2021-12-24 | 2024-04-02 |
 | [A Christmas Alleluia \- Live](https://open.spotify.com/track/5ZxHipYAxiIQ22iCP2wL28) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:31 | 2021-12-24 | 2022-07-18 |
 | [Adore \- Live](https://open.spotify.com/track/4XfPvAopzTR0N9TYqJUAdo) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:45 | 2021-12-24 | 2022-07-21 |
 | [Adore You](https://open.spotify.com/track/1iQ27gSsVIiBfz9zfEXrL9) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [All This Time / Adore You](https://open.spotify.com/album/0stJdABPTcNa3tb3LyaW6g) | 4:17 | 2021-12-24 | 2022-07-29 |
@@ -167,6 +167,7 @@
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-24 |  |
 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 | 2021-12-24 |  |
 | [In the Bleak Mid Winter \(All I Can Do\) \- Edit](https://open.spotify.com/track/6HZZBfALYl5XO3sTggthHw) | [Cathy Burton](https://open.spotify.com/artist/34ejTUpXgcgk63yNgmOspG) | [In the Bleak Midwinter \(All I Can Do\)](https://open.spotify.com/album/7ybOF0hOhyNhofQXBAToNw) | 2:58 | 2021-12-24 | 2022-07-22 |
+| [In the Bleak Midwinter](https://open.spotify.com/track/3WzsXVs2coPBkiLw3RqAGN) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Christmas](https://open.spotify.com/album/4wgqzyCxFkxl6Wo1HpackI) | 4:40 | 2023-12-15 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/3HhJXoQwER0UpyjpnyZvz6) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Christmas](https://open.spotify.com/album/22wy6SWWn8Z060twQibq0L) | 4:42 | 2021-12-24 | 2022-07-28 |
 | [Into The Silent Night](https://open.spotify.com/track/46uvLymiSHV7NvrUOFWU2t) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \| The EP](https://open.spotify.com/album/1CVBbMq1j6uDcoMtlsuOt8) | 3:18 | 2021-12-24 | 2022-07-27 |
 | [Into the Silent Night](https://open.spotify.com/track/4iO58g1avsDxYztLwpyCg6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \(Extended\)](https://open.spotify.com/album/72K9NLsisYGlynNMb1ywMB) | 3:18 | 2021-12-24 |  |

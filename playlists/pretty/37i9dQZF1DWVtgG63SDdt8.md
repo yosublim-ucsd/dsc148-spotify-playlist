@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:5nO7Yt0Jon48sqKR6VME4T">Joe L Barnes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,912 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,004 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 |
 | 100 | [IJWKY](https://open.spotify.com/track/2uicNrocSQorEbXFoJFwaZ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [IJWKY](https://open.spotify.com/album/2t34sAEr0XKDjAbsNblaUy) | 3:05 |
 
-Snapshot ID: `MCw2MWYwYmRjZTg0OTcxYmMyOWQwMTA3NGNkYjk5NWJjNDAwZGE0MGNj`
+Snapshot ID: `MCw5NDlkZTNiZjYwZjdmNWZjYmY2ODY4NjU0MzQ3ZWZhNmY3YTY1Nzli`

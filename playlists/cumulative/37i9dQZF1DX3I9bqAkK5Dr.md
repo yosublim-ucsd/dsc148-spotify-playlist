@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-239 songs - 14 hr 35 min
+240 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Chilipi Gnapakam](https://open.spotify.com/track/0fOP4QWtRFAL0tze8ensBC) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Chilipi Gnapakam](https://open.spotify.com/album/2FfHQomoZy33NCV5DT4TKL) | 3:58 | 2023-10-09 | 2023-12-30 |
 | [Chilipi Gnapakam Female Version](https://open.spotify.com/track/6OpwxZxIW10ir69O7VKlED) | [Pragathi Kanadamane](https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl) | [Chilipi Gnapakam Female Version](https://open.spotify.com/album/5lfL6nkYydI20rYyHn22Sj) | 4:00 | 2023-10-17 | 2023-11-08 |
 | [Chinnari Chinnari](https://open.spotify.com/track/0utRRwGdq6bLJrHTjx4MMJ) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Chinnari Chinnari](https://open.spotify.com/album/76QF9hI6MKq9WymR4MknN7) | 3:25 | 2023-02-17 | 2023-05-23 |
-| [Choopultho](https://open.spotify.com/track/37G3Mabw6o250OpJX24vTp) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Choopultho](https://open.spotify.com/album/55Ik0PjSYOhVnb7yfyV1Rk) | 2:13 | 2024-02-14 |  |
+| [Choopultho](https://open.spotify.com/track/37G3Mabw6o250OpJX24vTp) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Choopultho](https://open.spotify.com/album/55Ik0PjSYOhVnb7yfyV1Rk) | 2:13 | 2024-02-14 | 2024-04-02 |
 | [Choosthunna Choosthunna](https://open.spotify.com/track/1KSM8nh7qcMk9DC9BxyMKt) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [From The Bottom of My Heart](https://open.spotify.com/album/5uLM5Pxs42aenO0tcqoYNP) | 3:17 | 2023-03-01 | 2023-06-20 |
 | [Chusaane Eevele](https://open.spotify.com/track/46Um0yvfG4sTaqZMGZdVq6) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Chusaane Eevele](https://open.spotify.com/album/5khSYBDWpdAiglRtrMCIba) | 3:07 | 2023-05-08 | 2024-01-04 |
 | [Chusaane Eevele](https://open.spotify.com/track/5xB8uAKjvql9Hfz84G4z2E) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Chusaane Eevele](https://open.spotify.com/album/2Tg3MXvSWCkJ4tFf40fdLQ) | 3:07 | 2023-05-08 | 2024-03-27 |
@@ -148,6 +148,7 @@
 | [Ninne Ninne](https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu) | [Ninne Ninne](https://open.spotify.com/album/5Sm18efBdqqLZEfdEtQGmF) | 4:16 | 2024-02-14 |  |
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 | 2023-11-21 |
 | [Nuv Lenide](https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd) | [K S Harisankar](https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU) | [Nuv Lenide](https://open.spotify.com/album/2YTVIdEEygqyJF969Va698) | 3:43 | 2022-07-18 | 2023-05-23 |
+| [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 | 2024-04-01 |  |
 | [Nuvve Kada Na Pranam](https://open.spotify.com/track/2qi73fWzCmtgf6ObJEvliy) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nuvve Kada Na Pranam](https://open.spotify.com/album/5mBu2KuE00fe7FBxUKyXR2) | 3:50 | 2023-08-29 | 2023-09-23 |
 | [Nuvve Naa Lokam](https://open.spotify.com/track/7F1p60yC1Gb7De3omM8335) | [Pavan Kumar Harisomayajula](https://open.spotify.com/artist/1AATURikxHdk3SN6OEcF5l) | [Nuvve Naa Lokam](https://open.spotify.com/album/2kjrdeVEGpLxC4KIrQSxz6) | 4:27 | 2023-07-10 | 2023-07-25 |
 | [Nuvve Oka Sainyam](https://open.spotify.com/track/3BF1XYVHGSB1ijw3qDVwZ5) | [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb) | [Nuvve Oka Sainyam](https://open.spotify.com/album/6ypkqH11ztrhbFQXTDYoDP) | 2:31 | 2023-03-16 | 2023-05-26 |

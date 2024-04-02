@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Artemas",
-  "num_followers": 477763,
+  "num_followers": 477829,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDBkYzYyMmExM2MyNDcxMDY0MWM2YTkzNTMxYjQwODliMDdkZTY1",
+  "snapshot_id": "MCw0ZTJkODdhNDNlM2I5ZWUzZDU4NWI1Yjc0NjE1NmM3ZjAwNjJhY2Ez",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Overwhelmed",
         "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 159293,
       "name": "overwhelmed",
       "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "PATCHWERK",
-        "url": "https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 141591,
-      "name": "PATCHWERK",
-      "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "PATCHWERK",
+        "url": "https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 141591,
+      "name": "PATCHWERK",
+      "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -691,18 +691,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Level Days",
-        "url": "https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY"
+        "name": "GAY 4 ME (feat. Lauren Sanderson)",
+        "url": "https://open.spotify.com/album/0WcKjG4bTuQImNakhGTaSM"
       },
       "artists": [
         {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 186150,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL"
+      "duration_ms": 174739,
+      "name": "GAY 4 ME (feat. Lauren Sanderson)",
+      "url": "https://open.spotify.com/track/4Fc69fSv8xattALHt7aaC3"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -723,22 +727,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "GAY 4 ME (feat. Lauren Sanderson)",
-        "url": "https://open.spotify.com/album/0WcKjG4bTuQImNakhGTaSM"
+        "name": "Level Days",
+        "url": "https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY"
       },
       "artists": [
         {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        },
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
         }
       ],
-      "duration_ms": 174739,
-      "name": "GAY 4 ME (feat. Lauren Sanderson)",
-      "url": "https://open.spotify.com/track/4Fc69fSv8xattALHt7aaC3"
+      "duration_ms": 186150,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "off saint dominique EP",
+        "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        },
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 156225,
+      "name": "fall apart (with glaive)",
+      "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "IT'S NOT A PHASE",
         "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
@@ -1087,22 +1107,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "off saint dominique EP",
-        "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
       },
       "artists": [
         {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        },
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "Rosenfeld",
+          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
         }
       ],
-      "duration_ms": 156225,
-      "name": "fall apart (with glaive)",
-      "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
+      "duration_ms": 138946,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 180093,
       "name": "save urself (runaway)",
       "url": "https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosenfeld",
-          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Time Isn't Real",
-        "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Can You Feel The Sun",
         "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 223671,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Time Isn't Real",
+        "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E"
-      },
-      "artists": [
-        {
-          "name": "BAYBE",
-          "url": "https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS"
-        }
-      ],
-      "duration_ms": 146506,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
         "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 189920,
       "name": "Sing To Me",
       "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E"
+      },
+      "artists": [
+        {
+          "name": "BAYBE",
+          "url": "https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "rusty",
         "url": "https://open.spotify.com/album/12sM1DPfzb1nmSAWVrUxsG"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 135882,
       "name": "rusty",
       "url": "https://open.spotify.com/track/3ntxIRgurUskKaJ8F7jnXr"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1459,26 +1459,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "The Catastrophists EP",
-        "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
       },
       "artists": [
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         }
       ],
-      "duration_ms": 251707,
-      "name": "Lightning Over Mexico",
-      "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+      "duration_ms": 222105,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1499,18 +1491,26 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Failed at Math(s)",
-        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+        "name": "The Catastrophists EP",
+        "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
       "artists": [
         {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 222105,
-      "name": "Portraits",
-      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
+      "duration_ms": 251707,
+      "name": "Lightning Over Mexico",
+      "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Dead",
-        "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
-      },
-      "artists": [
-        {
-          "name": "Baby Jane",
-          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
-        }
-      ],
-      "duration_ms": 157565,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "flowers",
         "url": "https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 161322,
       "name": "flowers",
       "url": "https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Dead",
+        "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
+      },
+      "artists": [
+        {
+          "name": "Baby Jane",
+          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
     },
     {
       "added_at": "2024-03-22 04:01:00",

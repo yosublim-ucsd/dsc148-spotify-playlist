@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 1399,
+  "2024-04-02": 1398,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -2323,7 +2323,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -2875,7 +2875,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
@@ -3261,6 +3261,24 @@
       "duration_ms": 165714,
       "name": "\u0414\u0410\u041b\u0415\u041a\u041e",
       "url": "https://open.spotify.com/track/6yQFlN6H3imONjhmvhfhbb"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0430\u0440\u0438\u0442\u0435 \u0436\u0435\u043d\u0449\u0438\u043d\u0430\u043c \u0446\u0432\u0435\u0442\u044b",
+        "url": "https://open.spotify.com/album/14eQ0n0KzNG7UFjgjR8BPp"
+      },
+      "artists": [
+        {
+          "name": "Jazzdauren",
+          "url": "https://open.spotify.com/artist/6LHhwQEDfU2Azja0CU42DS"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "\u0414\u0430\u0440\u0438\u0442\u0435 \u0436\u0435\u043d\u0449\u0438\u043d\u0430\u043c \u0446\u0432\u0435\u0442\u044b",
+      "url": "https://open.spotify.com/track/3T4NFCEeCZ4djrs8pBzJgg"
     },
     {
       "album": {
@@ -3729,7 +3747,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 197804,
       "name": "\u041d\u0435 \u043f\u0435\u0440\u0435\u0436\u0438\u0432\u0430\u0439",
       "url": "https://open.spotify.com/track/1aELpuvNXAizGG5Rhi49as"
@@ -4246,6 +4264,24 @@
     },
     {
       "album": {
+        "name": "\u0441\u043e \u043c\u043d\u043e\u0439 \u0432\u043e\u044e\u0435\u0442 \u0441\u0430\u0442\u0430\u043d\u0430",
+        "url": "https://open.spotify.com/album/7Fd1frW52N7e2XvdAjvdC4"
+      },
+      "artists": [
+        {
+          "name": "Puszkaaa!",
+          "url": "https://open.spotify.com/artist/4VRS7zRNjVlpvzZ5FU9jNs"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209548,
+      "name": "\u0441\u043e \u043c\u043d\u043e\u0439 \u0432\u043e\u044e\u0435\u0442 \u0441\u0430\u0442\u0430\u043d\u0430",
+      "url": "https://open.spotify.com/track/0kbL82tFIlw0c9bO5ddGaK"
+    },
+    {
+      "album": {
         "name": "\u0421\u043e \u041c\u043d\u043e\u0439 \u0412\u043e\u044e\u0435\u0442 \u0421\u0430\u0442\u0430\u043d\u0430 (tik tok verison)",
         "url": "https://open.spotify.com/album/6A6UHDi8LOTqhEfocWXlWL"
       },
@@ -4257,7 +4293,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 209548,
       "name": "\u0421\u043e \u041c\u043d\u043e\u0439 \u0412\u043e\u044e\u0435\u0442 \u0421\u0430\u0442\u0430\u043d\u0430 (tik tok verison)",
       "url": "https://open.spotify.com/track/1Gfd0rK8Uzqn7Vp5RwnuBy"

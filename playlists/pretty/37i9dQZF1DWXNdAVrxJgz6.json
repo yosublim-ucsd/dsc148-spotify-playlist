@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 136657,
+  "num_followers": 136867,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFiM2EzZGFjNGRlZjRjYWM5YjY1MzQ4M2U1ZTQ4OGY3NTcwY2M1",
+  "snapshot_id": "MCw5MjZiMGJlMmJkYmVjNDNmZjg5NmQ2YWI4MGI0ZWQ0ZWU5NjFjODUy",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "El Cantautor del Pueblo",
         "url": "https://open.spotify.com/album/2mqVKf4l1zeWVTu5fV82pu"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 254853,
       "name": "No Elegi Conocerte",
       "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -403,38 +403,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Un Hombre Normal",
-        "url": "https://open.spotify.com/album/0JrrexttdAK01fNFZOulo1"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 255853,
-      "name": "Un Hombre Normal",
-      "url": "https://open.spotify.com/track/7tUgcu6nBx2MxlFaiDh7nY"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Me Gusta Tu Vieja",
-      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Cuando El Sol Salga Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
@@ -447,6 +415,22 @@
       "duration_ms": 187760,
       "name": "Cuando el Sol Salga Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Un Hombre Normal",
+        "url": "https://open.spotify.com/album/0JrrexttdAK01fNFZOulo1"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 255853,
+      "name": "Un Hombre Normal",
+      "url": "https://open.spotify.com/track/7tUgcu6nBx2MxlFaiDh7nY"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Me Gusta Tu Vieja",
+      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "M\u00e1s Adelante",
         "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 225666,
       "name": "Si Yo Te Contara",
       "url": "https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Necesito Due\u00f1a - Ranchera Version",
+      "url": "https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Necesito Due\u00f1a",
-        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1rYEKI8cDhyGCzbVkoGGPL"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 181506,
-      "name": "Necesito Due\u00f1a - Ranchera Version",
-      "url": "https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4"
+      "duration_ms": 197865,
+      "name": "Ya No Te Cuadra",
+      "url": "https://open.spotify.com/track/30j7zzxPc55kozL1dCnp9I"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -575,22 +591,6 @@
       "duration_ms": 184066,
       "name": "Carita De Perd\u00f3n",
       "url": "https://open.spotify.com/track/6apOgi25sgEaVSJO7znHCg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1rYEKI8cDhyGCzbVkoGGPL"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197865,
-      "name": "Ya No Te Cuadra",
-      "url": "https://open.spotify.com/track/30j7zzxPc55kozL1dCnp9I"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Mi Persona Preferida",
-        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "Mi Persona Preferida",
-      "url": "https://open.spotify.com/track/1cGLvBYglYjIi3ikty2lBe"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Idolos De Mexico Para El Mundo",
         "url": "https://open.spotify.com/album/03QeaYk3AUCbRQFBQdXOZG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 219373,
       "name": "Para Impresionarte",
       "url": "https://open.spotify.com/track/3zhLYl0tIzHUx6UxD1KP0C"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Mi Persona Preferida",
+        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Mi Persona Preferida",
+      "url": "https://open.spotify.com/track/1cGLvBYglYjIi3ikty2lBe"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Vive y D\u00e9jame Vivir",
-        "url": "https://open.spotify.com/album/6YiHMEAUyDwPZSQasQH17w"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Vive Y D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/77WQrnphsSnSxyQElfqvbg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/2xz3Rtzw7yz9LYNy3YNWMR"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 171920,
       "name": "Te Compro",
       "url": "https://open.spotify.com/track/4KpUDh9Vr9oiTO4hIFCoqH"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Vive y D\u00e9jame Vivir",
+        "url": "https://open.spotify.com/album/6YiHMEAUyDwPZSQasQH17w"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Vive Y D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/77WQrnphsSnSxyQElfqvbg"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Hombre De Rancho",
+        "url": "https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Se Me Sigue Notando",
+      "url": "https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/0nhYBDq7AGkaOFqrqYwN2I"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 249360,
       "name": "El Pr\u00f3ximo Viernes - Live Version",
       "url": "https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Hombre De Rancho",
-        "url": "https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Se Me Sigue Notando",
-      "url": "https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "A Partir De Cero",
-        "url": "https://open.spotify.com/album/5woXyeG8vsUGsA6T0gH5oY"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/6UY7NGQBMV8TLVxr9oMOvE"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Como Tortilla al Comal (Relanzamiento)",
         "url": "https://open.spotify.com/album/29pYsVXfqCYLlmT9RGLoAw"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Como Burro Sin Mecate",
-        "url": "https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA"
+        "name": "A Partir De Cero",
+        "url": "https://open.spotify.com/album/5woXyeG8vsUGsA6T0gH5oY"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
         }
       ],
-      "duration_ms": 171493,
-      "name": "Como Burro Sin Mecate",
-      "url": "https://open.spotify.com/track/62ilw5WsIN69ieZJMyeHed"
+      "duration_ms": 178613,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/6UY7NGQBMV8TLVxr9oMOvE"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 154662,
       "name": "Un Fin en Culiac\u00e1n",
       "url": "https://open.spotify.com/track/37vF7elYtlTkViAUGFY078"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Como Burro Sin Mecate",
+        "url": "https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Como Burro Sin Mecate",
+      "url": "https://open.spotify.com/track/62ilw5WsIN69ieZJMyeHed"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "La Joya",
-        "url": "https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 194154,
-      "name": "Era Creyente",
-      "url": "https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Que No Se Caiga el Ritmo (Deluxe)",
         "url": "https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 244760,
       "name": "Mazatl\u00e1n Carnaval",
       "url": "https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "La Joya",
+        "url": "https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 194154,
+      "name": "Era Creyente",
+      "url": "https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi"
     }
   ],
   "unique_name": "Cancionero Espinoza Paz",

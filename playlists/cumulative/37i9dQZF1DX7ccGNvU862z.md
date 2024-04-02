@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7ccGNvU862z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ccGNvU862z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ccGNvU862z)
 
-### [ฮิปฮอป ของมันต้องฟัง](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
+### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลงฮิปฮอปฮิตล่าสุด จัดให้ที่นี่เลย\. ศิลปิน: DIAMOND MQT
+> Rhyme Elite Artist League\. ฮิปฮอปของจริง ไม่ต้องอ้างอิงใคร\. ศิลปิน:  Saran
 
 371 songs - 20 hr 49 min
 

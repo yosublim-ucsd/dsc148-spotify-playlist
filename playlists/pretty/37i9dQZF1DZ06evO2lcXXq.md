@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,700 likes - 41 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,731 likes - 41 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 40 | [Turbulent Skies \- INOY Remix; Fan Remix Contest Winner](https://open.spotify.com/track/0W4idZcj495GpBU2OyzM7z) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Inoy](https://open.spotify.com/artist/2cqZUPVhr93BKziDU7xQFW) | [Turbulent Skies \(INOY Remix; Fan Remix Contest Winner\)](https://open.spotify.com/album/0WXfHn4bqds12sHIBHrDha) | 3:50 |
 | 41 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 |
 
-Snapshot ID: `Mjg1MzE0ODEsMDAwMDAwMDBlOTJmMzI5ODM3YTlmYjRiNDYwMTQzYmNhZGVkYTBjMQ==`
+Snapshot ID: `Mjg1MzI4OTUsMDAwMDAwMDAwOTFhOWJlNDJhODU0M2E4NjBlNzc5N2EyOTc0NDgyZA==`

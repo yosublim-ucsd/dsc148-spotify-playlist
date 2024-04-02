@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 834298,
+  "2024-04-02": 834435,
   "date_first_scraped": "2022-02-09",
   "description": "Aprovecha hasta la \u00faltima gota de vacaci\u00f3n en compa\u00f1\u00eda de Carin Leon y Leon Bridges ",
   "name": "Novedades Viernes MX",
@@ -54051,10 +54051,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 172880,
       "name": "Live Today",
       "url": "https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8"
+    },
+    {
+      "album": {
+        "name": "Notebook Fantasy",
+        "url": "https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Live Today",
+      "url": "https://open.spotify.com/track/3wAUDos7BPWlHBetCruaD1"
     },
     {
       "album": {

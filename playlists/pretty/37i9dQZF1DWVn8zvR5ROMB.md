@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Dylan Scott, Beyoncé, Josh Ross and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,387 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,633 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 40 | [Who Knew](https://open.spotify.com/track/5Mr6sAj3FMX4nCxErLTv8p) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Who Knew](https://open.spotify.com/album/0a6djAftnj9ApNI89AKxhQ) | 3:02 |
 | 41 | [Somewhere in a Silverado](https://open.spotify.com/track/1tCDz9dNleKxYoF8fAYwwC) | [Kaylin Roberson](https://open.spotify.com/artist/0AywuUmKBjTTsU4ZrVf7JS) | [Somewhere in a Silverado](https://open.spotify.com/album/6rAHfORlKvpwN1mP6FKSz8) | 2:51 |
 | 42 | [Dab a Dolly](https://open.spotify.com/track/4u7wRpbvJt3riG5ytdE3yO) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7), [Kirstie Kraus](https://open.spotify.com/artist/52AOYp2tdqCd2iUHpa5Pex) | [Dab a Dolly](https://open.spotify.com/album/184oVbr0EftAmvVtr7iBM7) | 3:06 |
-| 43 | [Someone You Loved](https://open.spotify.com/track/3KWjECRzCzAGlT5U9cYdwl) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Someone You Loved](https://open.spotify.com/album/07P0QCjKA7OUvTPX3744mz) | 2:53 |
-| 44 | [Yard Sale](https://open.spotify.com/track/2nd5sC05faWHl5HkW0ME6E) | [Alaura Lynne](https://open.spotify.com/artist/3IxcwR6roop7eFUSCygNTA) | [Yard Sale](https://open.spotify.com/album/2QKckgKaqZtTx4dfjdTW3G) | 3:27 |
-| 45 | [Breaking Up](https://open.spotify.com/track/1qz5yZ3W4rjGbg0hABap6h) | [Johnny Gates](https://open.spotify.com/artist/2qwlFTAV2LVhQ01ljAyWJz) | [Breaking Up](https://open.spotify.com/album/44jCOFC98PFh3jLez44vd6) | 2:57 |
-| 46 | [Back Home](https://open.spotify.com/track/188dmU8jghbfwmClm8ffUf) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Back Home](https://open.spotify.com/album/6IH7Y2UV6YjHQVLz6OPVKM) | 2:52 |
-| 47 | [Nightmare](https://open.spotify.com/track/6Wl8KfnErfO6fTzaUVAtYk) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Nightmare](https://open.spotify.com/album/6f2Po7BhT7nk76dIyePgVf) | 4:01 |
-| 48 | [Cozy](https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Cozy](https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9) | 3:37 |
-| 49 | [Good While It Lasted](https://open.spotify.com/track/3Rh3ZtELZPAJNA0rw5Qk7I) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Good While It Lasted](https://open.spotify.com/album/20AGk78QMdkHwaDBaW8QRA) | 3:06 |
-| 50 | [Down Like That](https://open.spotify.com/track/42guoHqmHMGkArGFoiMU3v) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Down Like That](https://open.spotify.com/album/7bqmIpXCCzm0YrsEwq93fj) | 3:18 |
+| 43 | [It's You That Makes Me](https://open.spotify.com/track/0UAZaFGXWqUq6sDfb9nNtb) | [Bobby Watson](https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD) | [It's You That Makes Me](https://open.spotify.com/album/5ZLzfIqsqLmAhH4uCn7awm) | 3:48 |
+| 44 | [Someone You Loved](https://open.spotify.com/track/3KWjECRzCzAGlT5U9cYdwl) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Someone You Loved](https://open.spotify.com/album/07P0QCjKA7OUvTPX3744mz) | 2:53 |
+| 45 | [Yard Sale](https://open.spotify.com/track/2nd5sC05faWHl5HkW0ME6E) | [Alaura Lynne](https://open.spotify.com/artist/3IxcwR6roop7eFUSCygNTA) | [Yard Sale](https://open.spotify.com/album/2QKckgKaqZtTx4dfjdTW3G) | 3:27 |
+| 46 | [Breaking Up](https://open.spotify.com/track/1qz5yZ3W4rjGbg0hABap6h) | [Johnny Gates](https://open.spotify.com/artist/2qwlFTAV2LVhQ01ljAyWJz) | [Breaking Up](https://open.spotify.com/album/44jCOFC98PFh3jLez44vd6) | 2:57 |
+| 47 | [Back Home](https://open.spotify.com/track/188dmU8jghbfwmClm8ffUf) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Back Home](https://open.spotify.com/album/6IH7Y2UV6YjHQVLz6OPVKM) | 2:52 |
+| 48 | [Nightmare](https://open.spotify.com/track/6Wl8KfnErfO6fTzaUVAtYk) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Nightmare](https://open.spotify.com/album/6f2Po7BhT7nk76dIyePgVf) | 4:01 |
+| 49 | [Cozy](https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Cozy](https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9) | 3:37 |
+| 50 | [Good While It Lasted](https://open.spotify.com/track/3Rh3ZtELZPAJNA0rw5Qk7I) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Good While It Lasted](https://open.spotify.com/album/20AGk78QMdkHwaDBaW8QRA) | 3:06 |
+| 51 | [Down Like That](https://open.spotify.com/track/42guoHqmHMGkArGFoiMU3v) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Down Like That](https://open.spotify.com/album/7bqmIpXCCzm0YrsEwq93fj) | 3:18 |
 
-Snapshot ID: `MCxhMGNjZGFlYTBlMzk1ZjJkYjY0Zjk3MTkwZDg1YWM3YTcyMTE3YjUx`
+Snapshot ID: `MCwxZGYyYTQ1MzAxNGVlMzkwM2FhZGJkMGQ4MmU3OWY1NjE1NGNlMjcy`

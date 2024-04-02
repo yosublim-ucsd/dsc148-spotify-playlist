@@ -1,12 +1,12 @@
 {
   "description": "The latest music from our Country Heroes. Cover: Sawyer Brown ",
-  "num_followers": 251449,
+  "num_followers": 251451,
   "original_name": "New Traditions Country Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWZhYmFjYjM2OTIyNThiYTQwMzkzYzIzYTc3NDgxYzU5YmMwMGFk",
+  "snapshot_id": "MCxlMTczYjc4YTRlZjA3YjhlZjJiNzJmZDQzMGJlMjNjYmZlYjhiZGMz",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2356,6 +2356,10 @@
           "url": "https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p"
         },
         {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        },
+        {
           "name": "Tanya Tucker",
           "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
@@ -2698,6 +2702,10 @@
         {
           "name": "Eddie Montgomery",
           "url": "https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p"
+        },
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
       "duration_ms": 199482,
@@ -3202,6 +3210,10 @@
         {
           "name": "Eddie Montgomery",
           "url": "https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p"
+        },
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
       "duration_ms": 196502,

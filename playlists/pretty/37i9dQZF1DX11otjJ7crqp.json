@@ -1,12 +1,12 @@
 {
   "description": "Essential new pop tracks. Cover: Isabel LaRosa",
-  "num_followers": 75488,
+  "num_followers": 75514,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGZiMzFhNzA5NDNiZDQxZWZhMzNjYWZmYjA5MWE1NTQ1MzIzZjk2",
+  "snapshot_id": "MCwzNjdjZjg5YzFjYjEyYmNmOWQ4MzA0ZWExNDI5MzdlODJkZTJkOTY2",
   "tracks": [
     {
       "added_at": "2024-03-29 04:17:53",
@@ -849,70 +849,6 @@
       "url": "https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "YOU DON'T LIKE ME",
-        "url": "https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4"
-      },
-      "artists": [
-        {
-          "name": "Dylan J",
-          "url": "https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "YOU DON'T LIKE ME",
-      "url": "https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Demonology",
-        "url": "https://open.spotify.com/album/6RTDS1jeBqwzyEIuVrNBuI"
-      },
-      "artists": [
-        {
-          "name": "Candi Carpenter",
-          "url": "https://open.spotify.com/artist/1puU6o4S6FqGkdcPoImWVr"
-        }
-      ],
-      "duration_ms": 201814,
-      "name": "Antisocial Butterfly",
-      "url": "https://open.spotify.com/track/2jAiYIjEutcfjngDwACVfU"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Let's Talk",
-        "url": "https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO"
-      },
-      "artists": [
-        {
-          "name": "Hana Effron",
-          "url": "https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj"
-        }
-      ],
-      "duration_ms": 233610,
-      "name": "Let's Talk",
-      "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Like You Boy",
-        "url": "https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Shay",
-          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
-        }
-      ],
-      "duration_ms": 169021,
-      "name": "Like You Boy",
-      "url": "https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5"
-    },
-    {
       "added_at": "2024-03-22 00:00:00",
       "album": {
         "name": "In Search Of The Antidote",
@@ -1519,6 +1455,22 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
+    },
+    {
+      "added_at": "2024-03-22 00:00:00",
+      "album": {
         "name": "My Mouth (la la la)",
         "url": "https://open.spotify.com/album/41JIT907XyLYcUYlyXWAj7"
       },
@@ -1597,22 +1549,6 @@
       "url": "https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi"
     },
     {
-      "added_at": "2024-03-22 00:00:00",
-      "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 237567,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Dead Inside",
@@ -1645,20 +1581,84 @@
       "url": "https://open.spotify.com/track/2sky8DrRy8pN488vkJM7CA"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+        "name": "YOU DON'T LIKE ME",
+        "url": "https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Dylan J",
+          "url": "https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z"
         }
       ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+      "duration_ms": 164000,
+      "name": "YOU DON'T LIKE ME",
+      "url": "https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Demonology",
+        "url": "https://open.spotify.com/album/6RTDS1jeBqwzyEIuVrNBuI"
+      },
+      "artists": [
+        {
+          "name": "Candi Carpenter",
+          "url": "https://open.spotify.com/artist/1puU6o4S6FqGkdcPoImWVr"
+        }
+      ],
+      "duration_ms": 201814,
+      "name": "Antisocial Butterfly",
+      "url": "https://open.spotify.com/track/2jAiYIjEutcfjngDwACVfU"
+    },
+    {
+      "added_at": "2024-04-01 18:23:24",
+      "album": {
+        "name": "Time on Mars",
+        "url": "https://open.spotify.com/album/2Tx52c5OYwdLMs8gOjCgWr"
+      },
+      "artists": [
+        {
+          "name": "Ando's Record Shop",
+          "url": "https://open.spotify.com/artist/48lrLbua7sELWf7H6SNR8g"
+        }
+      ],
+      "duration_ms": 179559,
+      "name": "Time on Mars",
+      "url": "https://open.spotify.com/track/7cvfKIw3Ak7SqWQkevoGzs"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO"
+      },
+      "artists": [
+        {
+          "name": "Hana Effron",
+          "url": "https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Like You Boy",
+        "url": "https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Shay",
+          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
+        }
+      ],
+      "duration_ms": 169021,
+      "name": "Like You Boy",
+      "url": "https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5"
     }
   ],
   "unique_name": "New Pop Picks",

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 122205,
+  "2024-04-02": 122228,
   "date_first_scraped": "2024-01-21",
   "description": "\u5077\u7df4\u4e0d\u662f\u7f6a\u3001\u6296\u97f3\u7121\u6240\u8b02\u3001\u6700\u65b0\u66f2\u76ee\u8b93\u4f60\u5168\u53f0\u5305\u5ec2\u4efb\u610f\u8d70\u8df3\uff01",
   "name": "\u6211\u611b K \u6b4c",
@@ -815,10 +815,28 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 210418,
       "name": "\u56e0\u70ba\u6211\u9084\u5e74\u8f15",
       "url": "https://open.spotify.com/track/0zH904rmpRKJuRsUER6oMi"
+    },
+    {
+      "album": {
+        "name": "\u5927\u9006\u4e0d\u9053",
+        "url": "https://open.spotify.com/album/2qelXUCybe7MKeFMJlRnfH"
+      },
+      "artists": [
+        {
+          "name": "Asiaboy \u7981\u85e5\u738b \uff06 Lizi \u6817\u5b50",
+          "url": "https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210418,
+      "name": "\u56e0\u70ba\u6211\u9084\u5e74\u8f15",
+      "url": "https://open.spotify.com/track/2lIOOMhGzCltMN6wL3QFst"
     },
     {
       "album": {

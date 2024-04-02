@@ -4,7 +4,7 @@
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-374 songs - 14 hr 47 min
+375 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Folsom Prison Blues](https://open.spotify.com/track/5UMiYb0Np44O59EgCcyPuC) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Original Sun Recordings](https://open.spotify.com/album/7IAOE5YbqmDGImgpJEIePh) | 2:52 | 2020-10-11 | 2023-04-28 |
 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/0QJfFSRDRKq9LEkFpiJkI5) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:13 | 2020-10-11 | 2023-04-28 |
 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 | 2023-04-27 |  |
-| [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 | 2020-10-11 |  |
+| [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 | 2020-10-11 | 2024-04-02 |
+| [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 | 2020-10-11 |  |
 | [Get With It](https://open.spotify.com/track/5QcUVbOUwiSoELlxts0kRt) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN), [Jody](https://open.spotify.com/artist/6iG9ILvwJZ95VMb16eOu9s), [Jerry](https://open.spotify.com/artist/5nCpMbyl42U9ycL0Ap9e3X) | [Meteor Rockabilly & Hillbilly Recordings](https://open.spotify.com/album/4sgpsMEO6wV4RRdsYhcqsx) | 2:04 | 2020-10-11 | 2022-07-29 |
 | [Get with It](https://open.spotify.com/track/16GMlvbWHeWXHYzJCVtD6d) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN), [Jody & Jerry](https://open.spotify.com/artist/60vvMCwC7lmGNhzcY4393t) | [Meteor Rockabilly & Hillbilly Recordings](https://open.spotify.com/album/2rQOB86QUXGmEHjWvduZbm) | 2:04 | 2020-10-11 | 2023-04-28 |
 | [Glad All Over](https://open.spotify.com/track/3WR9NvsWoj5TPyZvY59iaf) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Complete Carl Perkins On Sun](https://open.spotify.com/album/6UDmNH9k2Z8crlU0FyM7AD) | 1:39 | 2020-10-11 | 2022-11-13 |

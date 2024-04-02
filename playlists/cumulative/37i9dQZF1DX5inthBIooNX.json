@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-30",
-  "description": "\"the realization that each random passerby is living a life as vivid and complex as your own.\"",
+  "description": "A playlist for the eclipse. Photo credits: NASA",
   "name": "sonder",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 67639,
       "name": "97 Dreamin",
       "url": "https://open.spotify.com/track/0pZXSGQpcwc4At4utLwMpz"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 56742,
       "name": "Adios, Florida (Snippet)",
       "url": "https://open.spotify.com/track/6ZfHhzYnUPGAcw6IwI4Qvk"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 116013,
       "name": "All We Can't See",
       "url": "https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 85399,
       "name": "Back in Time",
       "url": "https://open.spotify.com/track/6KVyd6WJOcjvr0HVKWfHa6"
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126959,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
+    },
+    {
+      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -301,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Kid A",
+        "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251426,
+      "name": "Everything In Its Right Place",
+      "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8"
+    },
+    {
+      "album": {
         "name": "Just Piano",
         "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
       },
@@ -330,7 +366,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 46065,
       "name": "Glisten by the Wind",
       "url": "https://open.spotify.com/track/4gzZmBLq2t7667jnDoamDL"
@@ -348,7 +384,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 83426,
       "name": "Go Round",
       "url": "https://open.spotify.com/track/3CKsKWOasAzsjlhdWk9DGs"
@@ -424,7 +460,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 76346,
       "name": "Grenadine",
       "url": "https://open.spotify.com/track/2rso25m7GZBGpliSBgbn2V"
@@ -442,7 +478,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 51893,
       "name": "Gretchen Ross",
       "url": "https://open.spotify.com/track/4tA8bvabxXpq8BDc2T0xoz"
@@ -460,7 +496,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 258637,
       "name": "Hand Covers Bruise",
       "url": "https://open.spotify.com/track/1v0uVPU6BWcbog5BiWLWVa"
@@ -478,7 +514,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 77299,
       "name": "How our love grows",
       "url": "https://open.spotify.com/track/5mlbfxIXIRnxgFtqnwsYas"
@@ -532,10 +568,28 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 124830,
       "name": "I'm Going Insane",
       "url": "https://open.spotify.com/track/7k7OnHjIds0DI1utuzrEIT"
+    },
+    {
+      "album": {
+        "name": "Idea 22",
+        "url": "https://open.spotify.com/album/7rr9rPuCY2EaPCnyrUXevZ"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Idea 22",
+      "url": "https://open.spotify.com/track/1FCsK0oKWCtDOYRPYSrYgO"
     },
     {
       "album": {
@@ -604,7 +658,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 84880,
       "name": "Into The Freedom",
       "url": "https://open.spotify.com/track/24QC8iKOu1ns7pnw4qQden"
@@ -784,7 +838,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 76202,
       "name": "M for Magic",
       "url": "https://open.spotify.com/track/3Jm43KXzT4lqhBk5bDvYml"
@@ -820,7 +874,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 276800,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
@@ -874,7 +928,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 60003,
       "name": "Past, Present & Future - Intro",
       "url": "https://open.spotify.com/track/254QTqbIfInFIF38D2N48W"
@@ -936,7 +990,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 85449,
       "name": "Prelude 1 (Recomposed)",
       "url": "https://open.spotify.com/track/0AIWC4sO42tZQ2y9YHSatp"
@@ -972,7 +1026,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 62040,
       "name": "Pt. 5, Harmony Acceptance",
       "url": "https://open.spotify.com/track/4jrGjNNU0ZGV2mWhCzfBx4"
@@ -1066,7 +1120,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 89716,
       "name": "Supermarket",
       "url": "https://open.spotify.com/track/7fTsKBsnYyk0IG0zVNduEM"
@@ -1138,7 +1192,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 93657,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/26g48sI8nJSWGtLecKZrej"
@@ -1156,7 +1210,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 72722,
       "name": "Vinegar Hill",
       "url": "https://open.spotify.com/track/4ekCMv9SKM77U5neGncKJw"
@@ -1174,7 +1228,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 68648,
       "name": "Wall St Underwater",
       "url": "https://open.spotify.com/track/6Akgw11QF5Jkupra8meh3p"
@@ -1214,7 +1268,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 88075,
       "name": "When You Gain Something, You Have to Sacrifice Something Else",
       "url": "https://open.spotify.com/track/7zgA7pzeeUB6Luut8LaUGd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,233 likes - 31 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,312 likes - 31 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 30 | [Salmo 23](https://open.spotify.com/track/0ZqtF3wEbBIwfItBjuqyy4) | [Dort](https://open.spotify.com/artist/55J6E4RG9NM379yUE7F9A0) | [Salmo 23](https://open.spotify.com/album/68M07CNpq6vftxAy3UYSB9) | 5:00 |
 | 31 | [A Benção \- The Blessing](https://open.spotify.com/track/7ni7ZHhG5wLh2x4DeQnzI8) | [Musical Songsdei](https://open.spotify.com/artist/5O1bWmXcQoWFeW4QhmEMIb) | [Wedding Songs](https://open.spotify.com/album/6idu1dWtpDqDgRMqe2duxu) | 4:10 |
 
-Snapshot ID: `MCxjYjkxODY5Y2VjOWQ4ZTNjZjE2YjIzYmRhNjc4YmYwYTJjNDZjODVh`
+Snapshot ID: `MCxhYzhjNjVjNmZiYzI4ZDE5YTIyYWU1YzVkNzc5ZGYzOWM5YWQ3ZDkz`

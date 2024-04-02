@@ -4,7 +4,7 @@
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-112 songs - 5 hr 36 min
+120 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beyond Stillness](https://open.spotify.com/track/67PdNBxAbTOC7Tc1siRsrx) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Beyond Stillness](https://open.spotify.com/album/4rdtBWNEGTtROhwD3DCq10) | 2:13 | 2023-09-28 |  |
 | [Bless the rain](https://open.spotify.com/track/4316Vo0mHiEqYZyPaAO8QJ) | [Tin Shui](https://open.spotify.com/artist/5hSVBR00vPBcQuAfvY1sZs) | [Bless the rain](https://open.spotify.com/album/5drsnpcHv3MDvyAFzsANay) | 2:32 | 2023-10-06 | 2023-10-10 |
 | [Blue Moon Shadow \(528 Hz Rain\)](https://open.spotify.com/track/75VC0x88Tb6kKoSNRjxZKL) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Blue Moon Shadow \(528 Hz Rain\)](https://open.spotify.com/album/73ajiWPZKRnw9lN3faZS0K) | 2:34 | 2023-11-18 |  |
+| [Brilliant World \(in a Rainy Forest\)](https://open.spotify.com/track/4R0xjxBd9Bw5vK7HKGLcet) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Eternal Rain at Sundown](https://open.spotify.com/album/3BQJFnK18sQMUoqA4SInFP) | 2:16 | 2024-04-01 |  |
 | [Bukit](https://open.spotify.com/track/2KSjKyWL5ufQayk8mB5hrr) | [Semaphore](https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV) | [Bukit](https://open.spotify.com/album/3FTXsBYk3StM8DqtnIG8vM) | 3:19 | 2024-03-20 |  |
 | [By The Lakehouse](https://open.spotify.com/track/05DFwrJqmwjlv6tcNfuJ3q) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [By The Lakehouse](https://open.spotify.com/album/3gzwA51J94cjdbljjKfVcE) | 3:03 | 2023-09-28 |  |
 | [Cabinessence \(Sound Bath\)](https://open.spotify.com/track/0zE61QnSwzduQyweBA1hr5) | [Aleksy Nowak](https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw) | [Cabinessence \(Sound Bath\)](https://open.spotify.com/album/7eVsjzBFWYFv2Djm9WzG3K) | 2:30 | 2023-09-28 |  |
@@ -31,6 +32,7 @@
 | [Calm Rain](https://open.spotify.com/track/2nTHw14msDQ9sco7fcUidP) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Calm Rain](https://open.spotify.com/album/53Jsc0HT5ImsCirTV5Rcyo) | 2:09 | 2024-01-25 |  |
 | [Calm Sleep Music & Rain](https://open.spotify.com/track/6QbXkyj5Sh6vNoXYLiXfWA) | [Soothing Music for Sleep](https://open.spotify.com/artist/3hY8SgPZVIq0BM94IvjB5c) | [Deep Sleep Thunder Music](https://open.spotify.com/album/6qFcO6MRvVuF1BJpw02Hjo) | 3:17 | 2023-09-28 |  |
 | [Caressed By Nature \(Meditation\)](https://open.spotify.com/track/4vv3Uhv2v7w1Wc95PG06r6) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Caressed By Nature](https://open.spotify.com/album/5b7yMlVMpZUTejQMXx0h75) | 2:59 | 2023-10-26 |  |
+| [Cascading](https://open.spotify.com/track/4pRiTsu1z2NLPaG0TBQqZU) | [Elo Ído](https://open.spotify.com/artist/1S4ObFh6g1dWEvQP26Msgt) | [Cascading](https://open.spotify.com/album/2PUShhDP6ly2PG51y6WxeL) | 2:32 | 2024-04-01 |  |
 | [Celeste](https://open.spotify.com/track/4vTOrAXAOgUoweADeF5I0C) | [Diego Arjona](https://open.spotify.com/artist/5tV23HA3cl3k59vnG6ezxu) | [Celeste](https://open.spotify.com/album/046UDQYp92ZrRdQpOMc30n) | 5:52 | 2023-09-28 |  |
 | [Cellistine Dream \- Sound Bath](https://open.spotify.com/track/1kcVpfErfA5DfUN2K3pctw) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Cellistine Dream \- Sound Bath](https://open.spotify.com/album/2eA6yUZ24IYQmKwhu9mMTa) | 3:18 | 2024-01-25 |  |
 | [Circle of Solitude \(in the Rain\)](https://open.spotify.com/track/1go1DH4MbQDYmMo0ee1u8k) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Returning to the Moment & Circle of Solitude](https://open.spotify.com/album/15OItHbcXHD0A2Rs9leWEh) | 3:56 | 2023-11-18 |  |
@@ -51,6 +53,7 @@
 | [Eternal Rain Spaces](https://open.spotify.com/track/5H6GgWSTOkYVBGxZLJCNHh) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Rain Spaces](https://open.spotify.com/album/116k71os24eH1FC7Xu7JI3) | 2:50 | 2024-01-25 |  |
 | [Ethereal Rain](https://open.spotify.com/track/26ZOVa1ptC1ZDhH5K5QtQ5) | [Aurora Avery](https://open.spotify.com/artist/1PnqJKNlsztufhgWQKb8C0) | [Ethereal Rain](https://open.spotify.com/album/6JL6xio7jdQu6RjX55Fjwu) | 2:20 | 2023-09-28 |  |
 | [Ethereal Streams](https://open.spotify.com/track/724uQNAOlvYTAUxZA51nyp) | [Klara Ericsson](https://open.spotify.com/artist/0p6O1VFehc49qi21Rb7fXO) | [Ethereal Streams](https://open.spotify.com/album/6AlaKLwqvstM2sfDfyiphy) | 2:32 | 2024-03-11 |  |
+| [Ethos](https://open.spotify.com/track/1qRBMVDyC7WZUzLS6Ezfqc) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Ethos](https://open.spotify.com/album/2NvwFQYsrsuPWuZmA1uR81) | 2:27 | 2024-04-01 |  |
 | [Evighet Rain](https://open.spotify.com/track/5RYXKxCk5nqe4VWwrimXa6) | [Jungussen](https://open.spotify.com/artist/0pEakNfx2p7HQU6e3Ow9jW) | [Evighet Rain](https://open.spotify.com/album/7IJsF3kqxRkA6rzcOMGYRz) | 3:06 | 2023-11-18 |  |
 | [Fading](https://open.spotify.com/track/4flk006uKVh8NDHggpwdyD) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Fading](https://open.spotify.com/album/3Ozgr3NwCMB2YLaZEFKmR4) | 4:07 | 2023-09-28 |  |
 | [Far Away](https://open.spotify.com/track/7l1XV19coB7tAqnpuU3oHf) | [Divine Moments](https://open.spotify.com/artist/4rK7cbO86S7SvbdVdSNhKf) | [Far Away](https://open.spotify.com/album/1loIi1focCClaqBK1gScgK) | 2:17 | 2023-09-28 |  |
@@ -76,10 +79,13 @@
 | [Miracle Rain \(432 Hz Sound Bath\)](https://open.spotify.com/track/6aNnR1Xau3n35cHfrSL3mN) | [Particles And Waves](https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa) | [Miracle Rain \(432 Hz Sound Bath\)](https://open.spotify.com/album/5wtSK4bMNcNl1y70i75lbr) | 2:32 | 2024-03-11 |  |
 | [Mitis Pluvia](https://open.spotify.com/track/4thtH0IVSDYUstA7Cjcxxn) | [Calmisi](https://open.spotify.com/artist/70ES1wACbZKHnLEeysUGMy) | [Fragmenta Naturae](https://open.spotify.com/album/74iBgpnMVEiSvsjeeG0zqV) | 3:25 | 2023-09-28 |  |
 | [Monsoon](https://open.spotify.com/track/5pLYknTeDigMvxg31KynI3) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Monsoon](https://open.spotify.com/album/0Aigr5sEj7d86CR8iGx9hF) | 2:44 | 2023-09-28 |  |
+| [Morning Dew](https://open.spotify.com/track/62KxDbTklmKAmA0NxZPruB) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [Morning Dew](https://open.spotify.com/album/3DlXFw444WeWvPJhfPdFgE) | 2:37 | 2024-04-01 |  |
 | [Mosaic Patterns](https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Mosaic Patterns](https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot) | 2:53 | 2023-09-28 |  |
 | [Mysa](https://open.spotify.com/track/3Z7iE9pqHhR3e1FF53XLi0) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Mysa](https://open.spotify.com/album/30A9vur8Pyj8Gt2ddgqZq5) | 2:43 | 2024-03-11 |  |
+| [Mystery Way](https://open.spotify.com/track/2t7ISBAuCNtyzRJhD552L6) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Mystery Way](https://open.spotify.com/album/77C99WW2rb4k9KBfSzoJkh) | 3:50 | 2024-04-01 |  |
 | [Natural Spirit](https://open.spotify.com/track/0mWtYOhlnlUsVLCO1opzLJ) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:48 | 2023-09-28 |  |
 | [Nature's Dream](https://open.spotify.com/track/3hHlAxssSJ6naUBniRTzsx) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Nature's Dream](https://open.spotify.com/album/1MvkxYOgCJwvxv4l5u5uvJ) | 3:14 | 2024-03-01 |  |
+| [Niijima Ame](https://open.spotify.com/track/7uQZnNSX1PNS3hUNZRr6F6) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Niijima Ame](https://open.spotify.com/album/2YWcbL8QZB36qrYzQz83CA) | 3:26 | 2024-04-01 |  |
 | [Oliono Forest Sound Bath](https://open.spotify.com/track/3m7xaoSVwB16C5OU8Jy780) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Oliono Forest Sound Bath](https://open.spotify.com/album/15XhmBVsNJGEEuqHA39yuf) | 2:40 | 2024-01-25 |  |
 | [On Quietude](https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [On Quietude](https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB) | 2:48 | 2024-03-01 |  |
 | [One In All \(Rainforest 432 Hz\)](https://open.spotify.com/track/1mRrap2H5etyXZaOXRRCRc) | [Nayanni](https://open.spotify.com/artist/2dx6xmAZP2n29B0nf6uh3J) | [One In All \(Rainforest 432 Hz\)](https://open.spotify.com/album/5nrwQhD3xxOrnXjmZZccth) | 3:02 | 2023-10-26 |  |
@@ -89,6 +95,7 @@
 | [Rain Prayer](https://open.spotify.com/track/0KDGpRp7Zl1OEEmmwyxjbU) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Rain Prayer](https://open.spotify.com/album/3CRIJMs11ENdGlDDCIgZof) | 2:42 | 2024-01-25 |  |
 | [Raindrop Prayer](https://open.spotify.com/track/3lYPgg6r6YodM83wxxKUln) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Raindrop Prayer](https://open.spotify.com/album/6nfmM3nUxDfcza9gRRKvuI) | 2:51 | 2024-03-20 |  |
 | [Rainfall](https://open.spotify.com/track/1JijyH27FEgUfQI6VJ39hQ) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Rainfall](https://open.spotify.com/album/5doTmyH5erYnc3GMQwZVgX) | 2:31 | 2023-09-28 | 2023-10-10 |
+| [Raining 528 Hz](https://open.spotify.com/track/6tfXf057OK4KnvtgLJTCcS) | [Gilbert Frost](https://open.spotify.com/artist/2uyHDj3s1k5eEG46b0pj3h) | [Raining 528 Hz](https://open.spotify.com/album/0H020aSL40KeGimZNKeeN7) | 2:37 | 2024-04-01 |  |
 | [Raining Stars](https://open.spotify.com/track/6P0X2zwmhyEHDAOM1i36Zq) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Raining Stars](https://open.spotify.com/album/0jcX6O8NchXVLxrwyjP3Dt) | 3:28 | 2023-10-20 |  |
 | [Recalibrated Mind](https://open.spotify.com/track/4VmbFJJGKSKxWkO1L6z0Ca) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Crystal Sound Bath Sanctuary](https://open.spotify.com/album/0F9ckcZjOUN0mvg1tU2yil) | 3:28 | 2023-09-28 |  |
 | [Resonated](https://open.spotify.com/track/6mJ2jGd01xZZ07PNW0rypK) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Resonated](https://open.spotify.com/album/7H9nGdRXUSlxTmdFJCO3P7) | 2:40 | 2023-10-20 |  |
@@ -118,6 +125,7 @@
 | [Tiny Drops](https://open.spotify.com/track/2SS4t6ABtW8gtttkGEsVlg) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Tiny Drops](https://open.spotify.com/album/3KHk3X4aUhBQqUYwJoN2gC) | 3:06 | 2023-09-28 |  |
 | [Tlaloc](https://open.spotify.com/track/47Jl4uiYh1YsI6p22spyJx) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Tlaloc](https://open.spotify.com/album/2JK0jsBHru5azOMkMRLdxQ) | 3:32 | 2023-09-28 |  |
 | [Unfettered Imagination \(in the Rain\)](https://open.spotify.com/track/7BAIkOT7Qtef7SgwncSWCQ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [The Stars Above](https://open.spotify.com/album/7i0B94HHrcWWNjz46LsqQl) | 3:16 | 2024-03-01 |  |
+| [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-04-01 |  |
 | [weightless mind \(in city rain\)](https://open.spotify.com/track/4hlcTaPaCqiE3PfBs5iuHh) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 2:40 | 2023-09-28 |  |
 | [État De Repos \(Sound Bath\)](https://open.spotify.com/track/0WppWEOtqO5FRPg757dCc7) | [Petit Rêveur](https://open.spotify.com/artist/0F0GPPH7uwzb5LXBW6lmQY) | [État De Repos \(Sound Bath\)](https://open.spotify.com/album/6ApTreUEFUFd15SpFozK5y) | 2:45 | 2024-01-25 |  |
 

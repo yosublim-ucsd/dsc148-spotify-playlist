@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego e Loony Johnson.",
-  "num_followers": 44720,
+  "num_followers": 44772,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWVmN2JmNTg0YTBhODcxYTE4YTUxMDk1NDE1YzI2NDMxYzhhYmMx",
+  "snapshot_id": "MCxiNDc4NTg1MTEyMWQyYWQ3Nzg4ZjdhZGVhNDk0NTY3NGU3ZGUzOTQ5",
   "tracks": [
     {
       "added_at": "2024-03-29 00:00:00",
@@ -147,6 +147,26 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 193492,
       "name": "Impec",
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Nada a Esconder",
         "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
       "artists": [
         {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 208119,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -659,6 +639,26 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 208119,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 178815,
       "name": "CorDaPele",
       "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -755,28 +739,8 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Lidar",
-      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
       },
       "artists": [
         {
@@ -784,29 +748,9 @@
           "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 182876,
-      "name": "23:40",
-      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -831,18 +775,42 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Sem Ti",
-        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 155050,
-      "name": "Sem Ti",
-      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Lidar",
+      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -867,6 +835,22 @@
       "duration_ms": 209150,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -943,38 +927,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
       "artists": [
         {
           "name": "Van Zee",
           "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
         }
       ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
+      "duration_ms": 182876,
+      "name": "23:40",
+      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -991,6 +955,22 @@
       "duration_ms": 213600,
       "name": "Fica Pra Depois",
       "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1087,6 +1067,26 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Neblina",
-        "url": "https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw"
-      },
-      "artists": [
-        {
-          "name": "Trista",
-          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Neblina",
-      "url": "https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Me perdoa",
         "url": "https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 177391,
       "name": "Me perdoa",
       "url": "https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw"
+      },
+      "artists": [
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Quero Encontrar",
-        "url": "https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh"
+        "name": "CINTIA",
+        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
       },
       "artists": [
         {
-          "name": "Burrz",
-          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+          "name": "Cozzy 2x",
+          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Quero Encontrar",
-      "url": "https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT"
+      "duration_ms": 169376,
+      "name": "CINTIA",
+      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "CINTIA",
-        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
+        "name": "Quero Encontrar",
+        "url": "https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh"
       },
       "artists": [
         {
-          "name": "Cozzy 2x",
-          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
         }
       ],
-      "duration_ms": 169376,
-      "name": "CINTIA",
-      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
+      "duration_ms": 180000,
+      "name": "Quero Encontrar",
+      "url": "https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "louCura",
-        "url": "https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev"
-      },
-      "artists": [
-        {
-          "name": "CHEWIE",
-          "url": "https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR"
-        }
-      ],
-      "duration_ms": 206553,
-      "name": "Cores",
-      "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Party All Night",
         "url": "https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 192000,
       "name": "Party All Night",
       "url": "https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "louCura",
+        "url": "https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev"
+      },
+      "artists": [
+        {
+          "name": "CHEWIE",
+          "url": "https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR"
+        }
+      ],
+      "duration_ms": 206553,
+      "name": "Cores",
+      "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/6lDKhi2lp3EtRJGscCEQj5"
-      },
-      "artists": [
-        {
-          "name": "Nina R.A.E.",
-          "url": "https://open.spotify.com/artist/0QnClU5NDTqMBuZdNTyvK0"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/7I5LvUS8ETkDKZJLhst5rk"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Encandeia",
         "url": "https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Hubris",
-        "url": "https://open.spotify.com/album/0ZF8f1SLDIObSCU98tfgJB"
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/6lDKhi2lp3EtRJGscCEQj5"
       },
       "artists": [
         {
-          "name": "E.Se",
-          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+          "name": "Nina R.A.E.",
+          "url": "https://open.spotify.com/artist/0QnClU5NDTqMBuZdNTyvK0"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Hubris",
-      "url": "https://open.spotify.com/track/1Ol1SZBJ0xnZH1SZ4Ua6W3"
+      "duration_ms": 177600,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/7I5LvUS8ETkDKZJLhst5rk"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 245083,
       "name": "osciLAR",
       "url": "https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Hubris",
+        "url": "https://open.spotify.com/album/0ZF8f1SLDIObSCU98tfgJB"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Hubris",
+      "url": "https://open.spotify.com/track/1Ol1SZBJ0xnZH1SZ4Ua6W3"
     },
     {
       "added_at": "2024-03-29 00:00:00",

@@ -4079,6 +4079,24 @@
     },
     {
       "album": {
+        "name": "Tristesse",
+        "url": "https://open.spotify.com/album/1RiCsE4TpGZXwemtMWfLg7"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186693,
+      "name": "Tristesse",
+      "url": "https://open.spotify.com/track/5LZBJNHFun1mKDsDUZSA8b"
+    },
+    {
+      "album": {
         "name": "N\u00e9o-Romance (Extended Version)",
         "url": "https://open.spotify.com/album/7c2cqEPUmdwXr5upWoKpQs"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 3667,
+  "2024-04-02": 3671,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9\">Carole King</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Carole King",
@@ -4327,6 +4327,24 @@
       "duration_ms": 216400,
       "name": "To Love",
       "url": "https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte"
+    },
+    {
+      "album": {
+        "name": "Under My Feet",
+        "url": "https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174588,
+      "name": "Under My Feet",
+      "url": "https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y"
     },
     {
       "album": {

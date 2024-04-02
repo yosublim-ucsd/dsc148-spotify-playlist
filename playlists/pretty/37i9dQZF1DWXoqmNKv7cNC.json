@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas a todo volumen! ",
-  "num_followers": 103270,
+  "num_followers": 103274,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjg5NGRlMTQzMTRhODZiOGM5MDdhNWVlNDNhYmEwYTJlNjVjNTMy",
+  "snapshot_id": "MCwyMGFmOGZiZTRlNWU2YTQ3ZjlhMmY0Y2ZmYjIzYzE1ODRmNzU3ZDQ1",
   "tracks": [
     {
       "added_at": "2024-03-22 06:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "Ojo X Ojo",
+        "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Ojo X Ojo",
+      "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "1TRAGO",
         "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
       },
@@ -179,6 +195,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Continental",
         "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
       },
@@ -199,38 +231,6 @@
       "duration_ms": 204613,
       "name": "Continental",
       "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Ojo X Ojo",
-        "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Ojo X Ojo",
-      "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "EL FINAL",
         "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "la calle",
-        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
         }
       ],
-      "duration_ms": 243999,
-      "name": "la calle",
-      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
+      "duration_ms": 198253,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 198173,
       "name": "Caminar Sola",
       "url": "https://open.spotify.com/track/1zPTcSyXcCTJ6emw1FgYSI"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "la calle",
+        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 243999,
+      "name": "la calle",
+      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "cada que...",
         "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/4i2Gvi7vMbrr1IGvSfUSYd"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Mala Suerte",
-        "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
-      },
-      "artists": [
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
-        }
-      ],
-      "duration_ms": 180312,
-      "name": "Mala Suerte",
-      "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Chupetones",
         "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 204000,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Mala Suerte",
+        "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
+      },
+      "artists": [
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "duration_ms": 180312,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "OTM",
+        "url": "https://open.spotify.com/album/5bgM2zZ6BIezZgLGJP1s50"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 127208,
+      "name": "OTM",
+      "url": "https://open.spotify.com/track/7wnSvBYZF4YZbM92M6tyBy"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Hasta Salvarnos X Aid\u00ea Mulher",
         "url": "https://open.spotify.com/album/6lDbuJ5YVZdRrCqUW0QiCK"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 136447,
       "name": "Hasta Salvarnos X Aid\u00ea Mulher",
       "url": "https://open.spotify.com/track/71JGJPoF27yk9qQp3dZ6DU"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "OTM",
-        "url": "https://open.spotify.com/album/5bgM2zZ6BIezZgLGJP1s50"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 127208,
-      "name": "OTM",
-      "url": "https://open.spotify.com/track/7wnSvBYZF4YZbM92M6tyBy"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "POLVO",
+        "url": "https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        },
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "POLVO",
+      "url": "https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
       },
@@ -1235,22 +1255,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "POLVO",
-        "url": "https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD"
+        "name": "Deseo",
+        "url": "https://open.spotify.com/album/538eMtVsAjAPX2ej9MidBB"
       },
       "artists": [
         {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        },
-        {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
         }
       ],
-      "duration_ms": 240000,
-      "name": "POLVO",
-      "url": "https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa"
+      "duration_ms": 182520,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/4TDkLHGVGpkZI0D9MKnJuM"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 249600,
       "name": "El Espejo Y El Oro",
       "url": "https://open.spotify.com/track/2ntloEnUxFOFgQ6lh6Xlob"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Deseo",
-        "url": "https://open.spotify.com/album/538eMtVsAjAPX2ej9MidBB"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Deseo",
-      "url": "https://open.spotify.com/track/4TDkLHGVGpkZI0D9MKnJuM"
     },
     {
       "added_at": "2024-03-22 06:00:00",

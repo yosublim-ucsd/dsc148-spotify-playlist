@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Tierra Whack
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,825 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,912 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Hot Spot](https://open.spotify.com/track/2q5E2qgXkrLg1KPiWXYoWl) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Hot Spot](https://open.spotify.com/album/1yKM0mzIww5Fofrx5WnGNA) | 3:07 |
 | 100 | [Run Home](https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Run Home](https://open.spotify.com/album/1TxyiJUOTL8nNeKzFp5sLx) | 3:19 |
 
-Snapshot ID: `MCwyYzRiZmY2N2Y1NTU0OTJjN2RkOTA5ODQwNmNlMDYxNjVjOTEyM2Q1`
+Snapshot ID: `MCw3NWMyODUyNTA1ZTUzNjEyOWYxMGRmYzk0NmYzM2QwZTgyM2U2M2M0`

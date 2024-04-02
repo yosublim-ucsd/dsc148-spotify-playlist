@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Daniil Trifonov & Sergey Babayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,906 likes - 78 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,979 likes - 78 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 77 | [Quartet for Flute and String Trio No.5 "Alla Turca" in A Major, K.331: III\. Alla Turca](https://open.spotify.com/track/71VFYOEaMV5vY6EMCePV0b) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Trio Quodlibet](https://open.spotify.com/artist/6SfVuYOBfCgdSfiBqqgy72), [Andrea Mogavero](https://open.spotify.com/artist/1SG1TAgtyRxwZ62b6qgvLE) | [Wolfgang Amadeus Mozart: 5 New Quartets for Flute and String Trio](https://open.spotify.com/album/0JhWxCywoaYHM9p8jjOSd7) | 3:25 |
 | 78 | [Chromatic Fantasia & Fugue in D Minor, BWV 903: I\. Fantasia](https://open.spotify.com/track/6mvX10CvAqm9esiHTVVlnI) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Benjamin Alard](https://open.spotify.com/artist/4uFc3nNRcsjoW8CxOLkIPk) | [Johann Sebastian Bach: Chromatic Fantasia & Fugue in D Minor, BWV 903: I\. Fantasia](https://open.spotify.com/album/4JzheDk7V9WAjUmJpVJ2aA) | 6:08 |
 
-Snapshot ID: `MCxhOWNiM2M0MjRjYTA1NDdlMTAyMjgwZmQzNmU3YTBkNjA4NDdiOGI1`
+Snapshot ID: `MCxjYmM3OTI5ZmJjY2Y3ODBlZGI5MmMwODk1ZGVhMzU3ZmEzZWU5ZWY5`

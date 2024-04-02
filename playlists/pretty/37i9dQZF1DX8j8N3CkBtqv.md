@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Akshath, Soham Mukherji
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,671 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,695 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Parwaaz](https://open.spotify.com/track/30yLu7ZxVdCC78PeljUek0) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Parwaaz](https://open.spotify.com/album/3Hs3LgTNTl5zZyvbhsdPSm) | 3:30 |
 | 75 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 |
 
-Snapshot ID: `MCxmMTI1OTcxMzNlZjdhOWJlYjU5ZTI2M2IzMjM0OTdkNDUwMmZkYTc1`
+Snapshot ID: `MCw3ZDVlMWY4NzhhYjgzZTVmMjY5NDZkNDU4Njc5OTIwMWMwZDg0NjI2`

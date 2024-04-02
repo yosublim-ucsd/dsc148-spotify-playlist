@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,458 songs - 3 day 10 hr 46 min
+1,459 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Dreams](https://open.spotify.com/track/1fIPygKXkjzBpjRskS0Pmc) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Dreams](https://open.spotify.com/album/1IMo1qn4dTkVQsnletWLRD) | 3:07 | 2020-06-12 | 2022-04-05 |
 | [Dreams](https://open.spotify.com/track/2J3TcdKkdU42R9zWqWi6LJ) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Dreams](https://open.spotify.com/album/2wvHFdSUM3Q6Dtu7dowYpf) | 3:18 | 2021-11-13 | 2022-07-27 |
 | [Dreams](https://open.spotify.com/track/0md12GKBGH8ZuLG2fTfGUz) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/1pyh6iM7r1lvWgab6BEMMs) | 4:31 | 2022-04-14 | 2022-04-19 |
+| [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2023-12-15 |  |
 | [Drift Away](https://open.spotify.com/track/4l4dW1br6X5I8PiuoKWQ4H) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Drift Away](https://open.spotify.com/album/3I6JJ37J4J1cpBY59pob1K) | 2:58 | 2019-07-31 | 2021-05-17 |
 | [Drink About](https://open.spotify.com/track/2GGGm4MLQynB3I4E4ycIYC) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About](https://open.spotify.com/album/4qwwcF4H82Pm1UGR8CVtUj) | 3:02 | 2019-08-04 | 2021-03-19 |
 | [Drowning](https://open.spotify.com/track/1GPnYjrkZEI0ysGvch8I8e) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Sorana](https://open.spotify.com/artist/2YCfL0ncXSqaq0LraYbVPj) | [Drowning](https://open.spotify.com/album/5FjrHTvuT3hmuBt62Tj0tA) | 2:36 | 2019-08-26 | 2022-04-19 |
@@ -1424,7 +1425,7 @@
 | [Wildflower](https://open.spotify.com/track/5ZBlQeRIVG4vmfKnRDhKZj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Wildflower](https://open.spotify.com/album/5O0JSBmOjYljULpfYq15st) | 3:40 | 2020-06-12 | 2022-04-13 |
 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 | 2019-08-05 | 2022-04-07 |
 | [Wish You Well](https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Wish You Well](https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ) | 3:25 | 2019-07-31 | 2022-04-19 |
-| [Without You \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 | 2022-10-27 |  |
+| [Without You \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 | 2022-10-27 | 2024-04-02 |
 | [Without You \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/6WbADFqMvR8N5u0BvtsWQE) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/6LaLU27ZPXimJIbpbiOahr) | 3:01 | 2019-07-30 | 2022-04-10 |
 | [Without You Now \(feat\. AJ Mitchell\)](https://open.spotify.com/track/4LjF33zge6eszlGqqkcFJ8) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Without You Now \(feat\. AJ Mitchell\)](https://open.spotify.com/album/3XPJGtffVqAWjS2xguYZ5f) | 2:51 | 2019-07-30 | 2022-04-20 |
 | [Woke Up Late](https://open.spotify.com/track/4GtxDqRqnAmHtmyPhSmXY4) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Woke Up Late](https://open.spotify.com/album/6hpgfU365ufyuVGWrrIYG5) | 3:02 | 2019-08-06 | 2019-08-08 |

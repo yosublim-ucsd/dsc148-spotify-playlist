@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Dylan Scott, Beyoncé, Josh Ross and more.
 
-6,229 songs - 14 day 5 hr 32 min
+6,230 songs - 14 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2875,6 +2875,7 @@
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/2AYgvrtpFIbF6Fkb02WVZ6) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 2:56 | 2022-12-20 | 2022-12-27 |
 | [It's True](https://open.spotify.com/track/67dUtWComJOfqLFM0LANC9) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [It's True](https://open.spotify.com/album/5SIvPIgEWccqPO94dcSz3E) | 3:52 | 2023-07-14 | 2023-07-29 |
 | [It's You](https://open.spotify.com/track/6IaU01HjdIQimBmOdAjdcf) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [VK](https://open.spotify.com/artist/4CYxG1N5jv7OtBX8Ql2wly) | [It's You](https://open.spotify.com/album/313CwbceayWkGkp8G97ciF) | 3:21 | 2024-02-02 | 2024-02-10 |
+| [It's You That Makes Me](https://open.spotify.com/track/0UAZaFGXWqUq6sDfb9nNtb) | [Bobby Watson](https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD) | [It's You That Makes Me](https://open.spotify.com/album/5ZLzfIqsqLmAhH4uCn7awm) | 3:48 | 2024-04-01 |  |
 | [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/6kfDpP0HWb9Q67iaPs5HZw) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 2:21 | 2022-12-20 | 2022-12-27 |
 | [I’ll Be Damned](https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [I’ll Be Damned](https://open.spotify.com/album/4PjzPyI2uEAnKW603XKKSc) | 3:08 | 2023-08-18 | 2023-08-26 |
 | [I’ll Love You Longer](https://open.spotify.com/track/13lLmvl8tzv1tnJwjFke0E) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [At The End Of The Dirt Road EP](https://open.spotify.com/album/7nGR62G64rKcDTrGcjj3qC) | 3:07 | 2023-06-02 | 2023-06-10 |

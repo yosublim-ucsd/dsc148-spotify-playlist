@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "Wenn die Tage l\u00e4nger werden und die Luft w\u00e4rmer - diese Tracks begleiten dich in den Fr\u00fchling und \u00fcber das Osterwochenende.",
+  "description": "Wenn die Tage l\u00e4nger werden und die Luft w\u00e4rmer - diese Tracks begleiten dich in den Fr\u00fchling.",
   "name": "Fr\u00fchlings Chillout",
   "tracks": [
     {
@@ -258,6 +258,32 @@
       "duration_ms": 138652,
       "name": "Bad Influence",
       "url": "https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa"
+    },
+    {
+      "album": {
+        "name": "Nur",
+        "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
+      },
+      "artists": [
+        {
+          "name": "Fynn Kliemann",
+          "url": "https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS"
+        },
+        {
+          "name": "Philipp Schw\u00e4r",
+          "url": "https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg"
+        },
+        {
+          "name": "Klinger",
+          "url": "https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "Bau mich auseinander (Piano Version)",
+      "url": "https://open.spotify.com/track/0Ok8KfWfiI84vEYHbtX4TE"
     },
     {
       "album": {
@@ -644,7 +670,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 124080,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"

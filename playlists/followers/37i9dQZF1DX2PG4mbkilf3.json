@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 164598,
+  "2024-04-02": 164643,
   "date_first_scraped": "2022-02-24",
   "description": "This is r&b in Canada, elevate your aura with K. Forest.",
   "name": "Mood Ring ",
@@ -18115,10 +18115,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 221702,
       "name": "Welcome to Nostalgia",
       "url": "https://open.spotify.com/track/42ES1zVyBVYY0oLeLTJK5Q"
+    },
+    {
+      "album": {
+        "name": "Welcome to Nostalgia",
+        "url": "https://open.spotify.com/album/7L92ZHOZgkGzYCp0fvqWwX"
+      },
+      "artists": [
+        {
+          "name": "Ruben Young",
+          "url": "https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF"
+        },
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222001,
+      "name": "Welcome To Nostalgia",
+      "url": "https://open.spotify.com/track/2PCu2I8llcLd1vOtv6Rk1F"
     },
     {
       "album": {

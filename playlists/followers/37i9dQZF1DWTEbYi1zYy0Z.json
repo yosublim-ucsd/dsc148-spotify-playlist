@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 61017,
+  "2024-04-02": 61161,
   "date_first_scraped": "2021-12-21",
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
   "name": "New Smooth Jazz",
@@ -3841,10 +3841,32 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 274500,
       "name": "Just Coolin\u2019 (feat. Ryan La Valette)",
       "url": "https://open.spotify.com/track/0Q0gGYn7U7NT9FEbB8kmVU"
+    },
+    {
+      "album": {
+        "name": "Gentle and Smooth",
+        "url": "https://open.spotify.com/album/7pyxMFsFpWZVbgu3dV7dSL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Ryan La Valette",
+          "url": "https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274500,
+      "name": "Just Coolin\u2019 (feat. Ryan La Valette)",
+      "url": "https://open.spotify.com/track/4buONxCYsAehQ0IoNg3xhS"
     },
     {
       "album": {
@@ -6869,7 +6891,7 @@
     {
       "album": {
         "name": "Straighten Up",
-        "url": "https://open.spotify.com/album/6qPWVg4MxBEIFoG2O8XdnG"
+        "url": "https://open.spotify.com/album/0MkO3rfW5V6nENmUdIBfwf"
       },
       "artists": [
         {
@@ -6880,6 +6902,24 @@
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234589,
+      "name": "Straighten Up",
+      "url": "https://open.spotify.com/track/13Y1NLZ57TRjwRlREzPBhO"
+    },
+    {
+      "album": {
+        "name": "Straighten Up",
+        "url": "https://open.spotify.com/album/6qPWVg4MxBEIFoG2O8XdnG"
+      },
+      "artists": [
+        {
+          "name": "Gino Rosaria",
+          "url": "https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-01",
       "duration_ms": 234589,
       "name": "Straighten Up",
       "url": "https://open.spotify.com/track/5ZhgyPGq8kVOTrwm60T73w"

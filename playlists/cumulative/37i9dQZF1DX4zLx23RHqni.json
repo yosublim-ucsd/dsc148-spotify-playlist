@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Aasa Malli",
+        "url": "https://open.spotify.com/album/5HkwcdH3bgI7ATBRteLAwx"
+      },
+      "artists": [
+        {
+          "name": "Saisharan",
+          "url": "https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3"
+        },
+        {
+          "name": "Aravind Karneeswaran",
+          "url": "https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Aasa Malli",
+      "url": "https://open.spotify.com/track/1RYMjs2HX9rVIcM5AjueRt"
+    },
+    {
+      "album": {
         "name": "Aasai Thathumbucha (From \"Think Specials\")",
         "url": "https://open.spotify.com/album/3QYy54XF4blbxaliCTMnsw"
       },

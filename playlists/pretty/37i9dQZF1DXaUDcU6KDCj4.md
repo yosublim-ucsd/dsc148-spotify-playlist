@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Secret Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,466 likes - 152 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,483 likes - 152 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 115 | [Cutting Thru The Country](https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Cutting Thru The Country](https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf) | 3:24 |
 | 116 | [All My Friends](https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [All My Friends](https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8) | 3:17 |
 | 117 | [Last Call](https://open.spotify.com/track/4YzFdkExcAeNBPVYgd0EB7) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi) | [Last Call](https://open.spotify.com/album/5t84kmuEEIzPnReHfvOgdY) | 2:49 |
-| 118 | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/0G0f65AP53H6JUGRXrBRln) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/album/3pNABFA4mXkk49OmRG7Ku7) | 4:17 |
+| 118 | [No Surprises \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/4PiggwP9xfFdEzopJNVZaI) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Piano Piano 2](https://open.spotify.com/album/747D0AWcVto0ZQIKFkYtMS) | 4:17 |
 | 119 | [rotted out with flies](https://open.spotify.com/track/0u7184d6EPWJxkezc4eUI0) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [rotted out with flies](https://open.spotify.com/album/52tlFFs7KNpFypEpjNgPvK) | 3:00 |
 | 120 | [don't toy with me](https://open.spotify.com/track/0H4cAH32Y9SAMDDI8Jn1uH) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [softer](https://open.spotify.com/album/5RTAt4fXcpwHfqp6oSbfYl) | 2:37 |
 | 121 | [Flight to JFK \(Alt\. Version\)](https://open.spotify.com/track/0veWoFat2XdwUCjzXMcTQt) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Theo Kandel](https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q) | [Flight to JFK \(Alt\. Version\)](https://open.spotify.com/album/5Npl2PHi06WvVoNVGw9mu3) | 4:08 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 151 | [Revival](https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:05 |
 | 152 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 
-Snapshot ID: `MCxiNDNjYjBmZWMyNjg1MGY5ZGIwMWNlYjYxMjk1NzBmZDEyNjlmMmVj`
+Snapshot ID: `MCw2ZGQ2NWIyNWE0YWRjZGI5ODg2NDU3MjEwNjA2ZWFiN2FhNGVmZGI1`

@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-261 songs - 14 hr 59 min
+262 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2022-08-25 | 2023-08-07 |
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 | 2023-02-03 |  |
 | [Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [JISOKURY](https://open.spotify.com/artist/1q18hSxRDapqXvqPityx3Z) | [Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 | 2022-10-02 |  |
-| [Minsu Is Confused](https://open.spotify.com/track/26OCm1BoM09I3jIXYQhVsx) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Minsu Is Confused](https://open.spotify.com/album/7iQarceFKVFWHCXTOLPcqi) | 3:46 | 2022-09-06 |  |
+| [Minsu is confused](https://open.spotify.com/track/1KBGmamfkXuZ3hzrellsK1) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Minsu is confused](https://open.spotify.com/album/7c0Q0uVFwsW65lZebImHmu) | 3:46 | 2023-08-09 |  |
+| [Minsu Is Confused](https://open.spotify.com/track/26OCm1BoM09I3jIXYQhVsx) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Minsu Is Confused](https://open.spotify.com/album/7iQarceFKVFWHCXTOLPcqi) | 3:46 | 2022-09-06 | 2024-04-02 |
 | [MINSU\(민수\) \- Stage Comment 1](https://open.spotify.com/track/50lRtCCyp5IeIU4sHWxxU7) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:16 | 2022-10-06 |  |
 | [MINSU\(민수\) \- Stage Comment 2](https://open.spotify.com/track/2SwnmgZ4EWSY1qb3Eq0zvM) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:33 | 2022-10-06 |  |
 | [MINSU\(민수\) \- Stage Comment 3](https://open.spotify.com/track/2kO0Uofh44I3BrmWYt32L5) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:42 | 2022-10-06 |  |

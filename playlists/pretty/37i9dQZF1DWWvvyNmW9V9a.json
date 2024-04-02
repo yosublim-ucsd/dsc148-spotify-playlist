@@ -1,12 +1,12 @@
 {
   "description": "God, I'm so boring, and I'm so rude!",
-  "num_followers": 2163967,
+  "num_followers": 2163907,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjkxYTZkMDllODYzYmZmNGY5Nzc5MTU4ZTdlYzM5MDdiZWUwZjI0",
+  "snapshot_id": "MCw2MzI3YWVkY2I5NDdiYWI4ZTQ0NjhmYzIyOTE3ZTE4MjM5YTgxMTBj",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
     },
     {
+      "added_at": "2024-04-01 16:48:30",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 189638,
+      "name": "JOLENE",
+      "url": "https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy"
+    },
+    {
       "added_at": "2024-03-29 04:17:04",
       "album": {
         "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
@@ -371,6 +387,22 @@
       "duration_ms": 227625,
       "name": "Little Bit Better",
       "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
+    },
+    {
+      "added_at": "2024-04-01 16:01:23",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 132278,
+      "name": "west side",
+      "url": "https://open.spotify.com/track/1whfVLMKWqAX3uk97VXsNN"
     },
     {
       "added_at": "2024-03-01 05:00:00",

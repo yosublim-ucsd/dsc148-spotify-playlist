@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 777631,
+  "num_followers": 777696,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjhkZTM3OTQ4ZWY5NWY1ZDYzMzE0ZDJmNTM5MmVhNDc2N2ZmMWUw",
+  "snapshot_id": "MCxjYmEyZTc2YTE0ZGU4Y2Y4ZjAzYWM2MDJhYzZkOTdkZmRiNWU3YTcx",
   "tracks": [
     {
       "added_at": "2024-03-08 14:49:28",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 166337,
-      "name": "Pique Djavan - Ao Vivo",
-      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Interessante",
         "url": "https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 172693,
       "name": "Interessante",
       "url": "https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 166337,
+      "name": "Pique Djavan - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -487,6 +487,42 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "Exagerado",
         "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
       },
@@ -539,42 +575,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Estandarte",
         "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 198039,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
         "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 191933,
       "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
       "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198039,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 301346,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Frejat Ao Vivo No Rock In Rio",
+        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "Por Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "N",
         "url": "https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Frejat Ao Vivo No Rock In Rio",
-        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 215253,
-      "name": "Por Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Algo Parecido",
         "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
       },
@@ -923,6 +923,26 @@
       "duration_ms": 225018,
       "name": "Algo Parecido",
       "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -979,26 +999,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Agridoce",
         "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Sim E N\u00e3o",
         "url": "https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "A Bolha",
-        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 183542,
-      "name": "O Amor \u00e9 o Segredo",
-      "url": "https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg"
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Ideologia",
-        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
+        "name": "A Bolha",
+        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
       },
       "artists": [
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Minha Flor Meu Beb\u00ea",
-      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
+      "duration_ms": 183542,
+      "name": "O Amor \u00e9 o Segredo",
+      "url": "https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Ideologia",
+        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Minha Flor Meu Beb\u00ea",
+      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "As Super Novas",
         "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Bela Flor",
-      "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 132306,
       "name": "Totalmente Seu",
       "url": "https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Bela Flor",
+      "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Ivete Sangalo",
-        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
+        "name": "Silva Canta Marisa",
+        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
       },
       "artists": [
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 249440,
-      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
-      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
+      "duration_ms": 195400,
+      "name": "Beija Eu",
+      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Silva Canta Marisa",
-        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Beija Eu",
-      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Minha Felicidade",
         "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Sad Baile",
-        "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
+        "name": "Ivete Sangalo",
+        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
       },
       "artists": [
         {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 170614,
-      "name": "Sad Baile",
-      "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
+      "duration_ms": 249440,
+      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
+      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Sad Baile",
+        "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "duration_ms": 170614,
+      "name": "Sad Baile",
+      "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 169250,
       "name": "Cortejo",
       "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1423,22 +1439,6 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "C\u00e1ssia Eller Em Casa",
-        "url": "https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 249941,
-      "name": "Luz Dos Olhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/4h4YauU9V7Hckg3nSeDVdA"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 182768,
       "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
       "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "C\u00e1ssia Eller Em Casa",
+        "url": "https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 249941,
+      "name": "Luz Dos Olhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/4h4YauU9V7Hckg3nSeDVdA"
     },
     {
       "added_at": "2024-03-08 14:49:28",

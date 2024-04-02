@@ -4,7 +4,7 @@
 
 > 
 
-659 songs - 1 day 7 hr 9 min
+663 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [No Doubt](https://open.spotify.com/track/11tz24eBH29z4yPx01s2AY) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [No Doubt](https://open.spotify.com/album/72QkBajuAgdgr6RWfcSDeX) | 1:12 | 2022-12-21 | 2023-05-09 |
 | [No GTA](https://open.spotify.com/track/2KWiF5QT2RmU14FY0OpSMs) | [Kyo's Archive](https://open.spotify.com/artist/2FpNF5iV8lJemYTag40891) | [No GTA](https://open.spotify.com/album/0l77TROiVAD8cVEzn0kSGn) | 2:15 | 2022-10-24 | 2023-05-09 |
 | [No Hook](https://open.spotify.com/track/2vW0uLpB4C9FS1EnNuQRPz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:11 | 2023-08-14 | 2024-03-05 |
+| [No Joke](https://open.spotify.com/track/37ehwQANnRHdqvWdPlkFWA) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:15 | 2024-04-01 |  |
 | [No Morals](https://open.spotify.com/track/6QjkUOZr21m8iSyHBiR5s5) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:36 | 2023-01-27 | 2023-04-17 |
 | [No Respect](https://open.spotify.com/track/6M8Z8jdOfl1IksxfdEgH1z) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [No Respect](https://open.spotify.com/album/25suTRbGTSETjPEsoKR5GT) | 2:09 | 2023-01-11 | 2023-04-12 |
 | [No Rules](https://open.spotify.com/track/7kmXrIxANoDbLpPbDoeF3E) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/4ctaWxkPM0fPkUMB2nYClO) | [Rookie Of The Year](https://open.spotify.com/album/22aL7K3nl0vFqguOI5LQdv) | 2:54 | 2022-11-01 | 2023-04-12 |
@@ -567,6 +568,7 @@
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-03 | 2024-03-05 |
 | [Sydney Sweeney](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [Sydney Sweeney](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 | 2024-02-08 |  |
 | [Take Care](https://open.spotify.com/track/5sIRKku7AvqAjXhwarDo3X) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Remember Who Started The Wave](https://open.spotify.com/album/6nysREY0T9gDFJoQY1sAEr) | 2:44 | 2023-01-07 | 2023-04-12 |
+| [Take It \(Look Nice\)](https://open.spotify.com/track/4KCMYCy2e1rXqrtHT3xrSF) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe) | [Larry Leaks](https://open.spotify.com/album/6DXdOvjqHKwzF8nRUTbQvj) | 2:41 | 2024-04-01 |  |
 | [Take It To Trial](https://open.spotify.com/track/5oIc9JH730QeKxjtjkXv2y) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:04 | 2022-07-10 | 2023-12-14 |
 | [Talk 2 God](https://open.spotify.com/track/5dA0iENzuQGYKZpCKU4nnN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 2:49 | 2024-03-28 |  |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-12-01 | 2023-12-14 |
@@ -604,6 +606,7 @@
 | [Tootheache & Gaslighting!](https://open.spotify.com/track/3x0ObDVWg0iQiZ19v9aaXX) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy) | 2:47 | 2023-04-03 | 2023-05-09 |
 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 | 2022-04-09 |  |
 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-08-07 | 2024-03-05 |
+| [Treacherous](https://open.spotify.com/track/7zTuJaP8fvMWMy6DdkC9U5) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Treacherous](https://open.spotify.com/album/4oniEHUSpIyuFH7iIV0rV9) | 1:55 | 2024-04-01 |  |
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2022-09-26 |  |
 | [Trippin](https://open.spotify.com/track/4huciygZHFSjTP5DHmPs20) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 2:19 | 2023-12-27 | 2024-03-05 |
 | [Trippple H](https://open.spotify.com/track/1ydS1YSLGA9ESh7GROrnWR) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Thot Slayer 2](https://open.spotify.com/album/1PrvzRiC3jFGKR0GRSkLz4) | 3:32 | 2022-08-14 | 2023-05-09 |
@@ -620,6 +623,7 @@
 | [Under Us](https://open.spotify.com/track/35OomqV1ZxoVYNB0SF9Ysd) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:24 | 2022-02-25 | 2023-12-14 |
 | [Up off X](https://open.spotify.com/track/78MPwJNNwlQMbKLbF1kxKN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 3:18 | 2022-09-09 | 2023-05-09 |
 | [URUS FREESTYLE](https://open.spotify.com/track/4Osh1jJU2EhKoTgnEK3i8s) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:38 | 2022-12-16 | 2023-12-14 |
+| [Usain](https://open.spotify.com/track/1eUqSndw8Wq35xKCIL0K7C) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe) | [Larry Leaks](https://open.spotify.com/album/6DXdOvjqHKwzF8nRUTbQvj) | 3:30 | 2024-04-01 |  |
 | [V\-Friends](https://open.spotify.com/track/7FUx1SDHG4Im52aKu3iCXC) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 1:45 | 2023-12-27 | 2024-03-05 |
 | [Vampire Hour](https://open.spotify.com/track/1U29Vg8V5ivbxirZaG7XAR) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:34 | 2023-12-06 | 2024-03-05 |
 | [Vaxuum Sealed \(feat\. BabyTron\)](https://open.spotify.com/track/4vQ3Ve7jnU7EDKJtZJqm39) | [Drego & Beno](https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Sorry We Was Trapping](https://open.spotify.com/album/3JQerOwjyEEIYBKQoHmH1s) | 2:25 | 2023-01-07 | 2023-12-14 |

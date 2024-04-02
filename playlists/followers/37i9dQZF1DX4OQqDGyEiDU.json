@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 83208,
+  "2024-04-02": 83226,
   "date_first_scraped": "2022-06-10",
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
   "name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
@@ -1022,12 +1022,12 @@
       "artists": [
         {
           "name": "NAKISO",
-          "url": "https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y"
+          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
         }
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "DOKUZU",
       "url": "https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0"
@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 234733,
       "name": "Kagerou Days",
       "url": "https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z"

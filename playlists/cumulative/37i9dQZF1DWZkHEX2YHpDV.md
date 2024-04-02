@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: The Story So Far
 
-1,171 songs - 2 day 13 hr 53 min
+1,172 songs - 2 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Box for My Organs](https://open.spotify.com/track/3x3pgmn0vj4bpRl0QmMlJS) | [Barely Civil](https://open.spotify.com/artist/74dHRGIRdRKjzmxl4yF0Ig) | [Box for My Organs](https://open.spotify.com/album/2vASoXhqCVl6AlMghPPbtZ) | 3:40 | 2022-04-01 | 2022-04-19 |
 | [Brace Yourself](https://open.spotify.com/track/4yoWprv7DUH6JViAyPbab0) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Brace Yourself](https://open.spotify.com/album/4ZN4SqtD9wDhO0jSbF4zin) | 3:27 | 2022-02-04 | 2022-07-14 |
 | [Brag](https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Brag](https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T) | 3:13 | 2024-02-09 | 2024-03-30 |
+| [Brag](https://open.spotify.com/track/1ncDsmvCGzO1U1aMWk0ijO) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Brag](https://open.spotify.com/album/45cMuraIAjgFrNYNqP3jnA) | 3:13 | 2024-03-22 |  |
 | [BRAIN DEAD](https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BRAIN DEAD](https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t) | 2:01 | 2023-12-15 |  |
 | [Brain Dead](https://open.spotify.com/track/5RNpU9KdygX7sFRUwpY1Jt) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Brain Dead](https://open.spotify.com/album/41yWIvdu2ZjZQ6C8igUYlY) | 3:17 | 2022-03-25 | 2022-04-17 |
 | [Brakeless](https://open.spotify.com/track/5RDCND3o9XN2yyoRy6pZUX) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Brakeless](https://open.spotify.com/album/6I70YiT1SKa5CEb8CE4s4n) | 3:43 | 2021-12-10 | 2022-06-25 |
@@ -167,7 +168,7 @@
 | [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 | 2022-07-08 | 2024-02-25 |
 | [Bury Me \(Tonight!\)](https://open.spotify.com/track/0f5AnyyQexdQ1FrPGU3zUa) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Bury Me \(Tonight!\)](https://open.spotify.com/album/1IxkN8ASRLNQ2e6s8itlfH) | 2:59 | 2021-12-10 | 2022-07-28 |
 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-07-14 |  |
-| [Cages](https://open.spotify.com/track/44Hg66DPXP33pXVI1pHIRi) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Cages](https://open.spotify.com/album/2vr9997EIlO8lNLN2azObV) | 3:07 | 2024-01-19 |  |
+| [Cages](https://open.spotify.com/track/44Hg66DPXP33pXVI1pHIRi) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Cages](https://open.spotify.com/album/2vr9997EIlO8lNLN2azObV) | 3:07 | 2024-01-19 | 2024-04-02 |
 | [California](https://open.spotify.com/track/4GgYQ04m0nhgN2h1fYQ7pE) | [Windup Space](https://open.spotify.com/artist/4H2g3KaJp1Pxfy7wHmEtOb) | [Shelter](https://open.spotify.com/album/7gopBwDmdk8VAwuJrlxhvK) | 3:49 | 2022-04-08 | 2022-04-21 |
 | [California Castaway](https://open.spotify.com/track/2u886WpuUpcl7Nuovab5gJ) | [Cydeways](https://open.spotify.com/artist/398HIuiMcfxwWLwAUD5Z2G) | [California Castaway](https://open.spotify.com/album/5QccXS6QfJcvwy9kBs4516) | 3:41 | 2022-01-14 | 2022-07-29 |
 | [Call From You](https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Little Green House](https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj) | 3:01 | 2023-04-28 | 2023-11-11 |

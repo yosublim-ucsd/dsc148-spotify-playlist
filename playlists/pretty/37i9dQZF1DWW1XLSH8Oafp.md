@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Two Shell
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,363 likes - 150 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,418 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [red blue and green lights](https://open.spotify.com/track/4ukDpDWiKtqT4RYQzdrYte) | [bh](https://open.spotify.com/artist/1dVRx37Q3qfuHf9Ke9u2OU), [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [red blue and green lights](https://open.spotify.com/album/6UsNAxGaGSKuqJj7VmWnIt) | 3:31 |
 | 150 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
 
-Snapshot ID: `MCxlYzY1MzI3NzAwODcyN2FmZmZjYTIyZTc1NjNlYWFiYjgwMTFlZTI1`
+Snapshot ID: `MCxhYmZhNWE5ZGJmOWU2M2I2ZmFiMGE5NTQzYWY1ZGEwZGNiMmYwOWQ0`

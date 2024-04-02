@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Only Murders in the Building, Flamin’ Hot, A Small Light, Tiny Beautiful Things, and FX's SHOGUN, now streaming on Hulu.
 
-91 songs - 4 hr 16 min
+92 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Till It Hits the Ground](https://open.spotify.com/track/3w190QG6aB6I0uGlVI5zG5) | [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg) | [High Fidelity \(Original Soundtrack\)](https://open.spotify.com/album/0zXA2xmkw5x4iN4Cb3j13P) | 3:06 | 2024-01-05 |  |
 | [Today We Launch](https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 2:14 | 2024-01-05 |  |
 | [Violin Concerto in G Major, Op\. 8, No\. 2: I\. Allegro](https://open.spotify.com/track/3rd8fjFT9AupdVa4Kr3k1h) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Randall Goosby](https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K), [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Chevalier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y2KkTMbsx3E35iUTb971k) | 9:59 | 2024-01-05 |  |
+| [We Were the Lucky Ones Theme \- From "We Were the Lucky Ones"](https://open.spotify.com/track/6rLHxGO1sQOy4FYJpSYneN) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [We Were the Lucky Ones Theme \(From "We Were the Lucky Ones"\)](https://open.spotify.com/album/5rGJ5VIUpHLa9nNYrjhN86) | 2:46 | 2024-04-01 |  |
 | [We're Back \(Persons of Interest\)](https://open.spotify.com/track/7rhF7tvuOdveyQ74ophxml) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building: Season 2 \(Original Score\)](https://open.spotify.com/album/4mSME5Jj4ANMDdgZ6ZJWYH) | 1:16 | 2024-01-05 |  |
 | [Welcome To Tranquillum](https://open.spotify.com/track/4Nas18mvIkKUAnZaGUBDwd) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Miles Hankins](https://open.spotify.com/artist/4tqMA2ZNL5HvWLy3OKUia6) | [Nine Perfect Strangers \(Original Series Soundtrack\)](https://open.spotify.com/album/6IEFqwgyEboJzqneOMkJiA) | 2:11 | 2024-01-05 |  |
 | [What About You?](https://open.spotify.com/track/5hVh1duhaWQMUOFIrOoOhj) | [Jay Wadley](https://open.spotify.com/artist/2PeCz2k4MORlxOMjTXFp6o) | [Fire Island \(Original Soundtrack\)](https://open.spotify.com/album/2KSxudYLPeiMLQYITsxnRd) | 2:57 | 2024-01-05 |  |

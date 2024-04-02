@@ -4,7 +4,7 @@
 
 > Thunder is coming.
 
-102 songs - 11 hr 42 min
+103 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Glow](https://open.spotify.com/track/0LF29vtBiXGfFdLzq0dkdo) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 4:16 | 2020-10-20\* |  |
 | [Glósóli](https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 6:15 | 2022-01-17 |  |
 | [Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/3sE83l3A58DipFp3EzNLiE) | 6:26 | 2020-10-20\* | 2022-07-29 |
-| [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory \(Expanded And Remastered\)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 4:52 | 2020-10-20\* |  |
+| [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory \(Expanded And Remastered\)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 4:52 | 2020-10-20\* | 2024-04-02 |
 | [Happiness](https://open.spotify.com/track/1KUJsacldmadJ5T3juQAh0) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/6DnHgNxkgdAQcdWkEPSMUz) | 9:20 | 2020-10-20\* | 2022-07-29 |
 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 | 2022-01-17 |  |
 | [Happiness \- 2019 Remaster](https://open.spotify.com/track/369SPXhIIEEwJ6UQKnlwHJ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 9:19 | 2022-09-30 | 2022-11-13 |
@@ -62,6 +62,7 @@
 | [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 | 2022-01-17 | 2023-10-20 |
 | [Logic Of A Dream](https://open.spotify.com/track/4pp3ilXwxKvWRsDSm3Ld8K) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Logic Of A Dream](https://open.spotify.com/album/5OaYHqiXnYW8tSAmHfOqBZ) | 6:37 | 2020-10-20\* | 2022-07-29 |
 | [Love in the Void](https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 5:03 | 2023-10-19 |  |
+| [Magik](https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Sirens](https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV) | 6:41 | 2023-10-19 |  |
 | [Memorial \(feat\. Chelsea Wolfe\)](https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Memorial](https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp) | 3:45 | 2021-06-09 |  |
 | [Mlàdek](https://open.spotify.com/track/1begl8Bjbo8q1eVtr5XGOV) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Empros](https://open.spotify.com/album/2evkzWDPHn96GZ0In9GG1w) | 7:39 | 2020-10-20\* | 2023-03-01 |
 | [Mogwai Fear Satan](https://open.spotify.com/track/0fvUM4C6KiRGfXEcUeNZXZ) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team](https://open.spotify.com/album/5ti3kMHpKAF98D6PWPFFyn) | 16:19 | 2023-02-28 | 2023-10-20 |

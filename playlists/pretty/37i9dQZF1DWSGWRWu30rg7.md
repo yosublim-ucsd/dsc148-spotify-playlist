@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Maira
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,574 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,577 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 99 | [Habibi](https://open.spotify.com/track/4so084KAl7FTLcXgfmqvY3) | [Tasha Bouslama](https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e) | [Habibi](https://open.spotify.com/album/7iFIzslrs0bIh0tSSoamYO) | 3:23 |
 | 100 | [God's Eye](https://open.spotify.com/track/6TwaLEeVKsnyjpcPuuOo3U) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI) | [God's Eye](https://open.spotify.com/album/5VvowtQo41m62NHjFaD2c7) | 2:06 |
 
-Snapshot ID: `MCxiY2U5ODQwNDI0MzZiYzIyNjIyYjgyMTMwMjQ5ZThlYjVlYTkxMDFh`
+Snapshot ID: `MCxiM2ZkNTg2MWY3ODU3NWJjNmFjMDI4MThmOGIyOGZhNjc5NDQ1ZDAw`

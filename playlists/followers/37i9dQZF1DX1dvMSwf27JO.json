@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 525838,
+  "2024-04-02": 525821,
   "date_first_scraped": "2021-12-21",
   "description": "music to get fly to ft Zendaya ",
   "name": "'fit check",
@@ -2293,7 +2293,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 180485,
       "name": "C\u00c9LINE",
       "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
@@ -3083,6 +3083,28 @@
       "duration_ms": 125688,
       "name": "FLOOR",
       "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
+    },
+    {
+      "album": {
+        "name": "FLOOR",
+        "url": "https://open.spotify.com/album/5xXW8DOUsy5NbepZy1eDdS"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        },
+        {
+          "name": "Icee Red",
+          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125688,
+      "name": "FLOOR",
+      "url": "https://open.spotify.com/track/7gyvK89g8L6WKtiXfNBX1J"
     },
     {
       "album": {

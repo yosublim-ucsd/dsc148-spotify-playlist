@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Company",
+        "url": "https://open.spotify.com/album/27wKqJduPSSn7zodO9M4A9"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148237,
+      "name": "Peaceful Company",
+      "url": "https://open.spotify.com/track/6KlrwjduHOLFdtGwwAwDUY"
+    },
+    {
+      "album": {
         "name": "Tantra",
         "url": "https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1"
       },

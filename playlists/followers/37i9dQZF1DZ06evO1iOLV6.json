@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 8832,
+  "2024-04-02": 8834,
   "date_first_scraped": "2021-12-29",
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
   "name": "This Is Patoranking",
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 239706,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 192006,
       "name": "Gyal Like You",
       "url": "https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 203093,
       "name": "Miracle Baby",
       "url": "https://open.spotify.com/track/4SiIa6dMiUzC9X1gz0OSYq"
@@ -2697,7 +2697,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 281453,
       "name": "Wait Refix",
       "url": "https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL"

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 432181,
+  "2024-04-02": 432205,
   "date_first_scraped": "2021-12-28",
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
   "name": "Latin Dinner",
@@ -1827,7 +1827,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 221986,
       "name": "En Medio Del Jard\u00edn",
       "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
@@ -2597,7 +2597,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 262989,
       "name": "Maria Cristina",
       "url": "https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS"

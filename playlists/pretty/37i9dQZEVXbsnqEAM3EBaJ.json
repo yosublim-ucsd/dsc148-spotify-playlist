@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MjgwMjAsMDAwMDAwMDBhOTU3NjEzZWU1ZDc4ZWRmMGFkZWY1ZjMwMTgwZTc1MQ==",
+  "snapshot_id": "Mjg1MjgwMjAsMDAwMDAwMDA1YWEyODM0MjhjYzRjYzk1ZTAwOTk4NTI1OGI0MmZlNA==",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Hasta La Verdad / Esquemas Juveniles (En Vivo en Teatro Municipal)",
-        "url": "https://open.spotify.com/album/3awhJRhSGf7W1l4hh9NePi"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 223967,
-      "name": "Esquemas Juveniles - En Vivo en Teatro Municipal",
-      "url": "https://open.spotify.com/track/216rA2DznHEIi60e9NUG1t"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Machine Head (Remix 2024 / Remaster 2024)",
         "url": "https://open.spotify.com/album/1PYl2uQNd51wwrEVsjEgg1"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 241253,
       "name": "Never Before - 2024 Remix",
       "url": "https://open.spotify.com/track/3cwWeSvjUz2FGDA9VlPsOW"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Hasta La Verdad / Esquemas Juveniles (En Vivo en Teatro Municipal)",
+        "url": "https://open.spotify.com/album/3awhJRhSGf7W1l4hh9NePi"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 223967,
+      "name": "Esquemas Juveniles - En Vivo en Teatro Municipal",
+      "url": "https://open.spotify.com/track/216rA2DznHEIi60e9NUG1t"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Friendly Fire: A Cappella + Instrumental",
+        "url": "https://open.spotify.com/album/2JGoWZYDsksSiHcRqbGa3o"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 178692,
+      "name": "Friendly Fire (A Cappella)",
+      "url": "https://open.spotify.com/track/5zHpUKsgIVxB7H20nN3Xy8"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Sleepers / Translating The Name (Live)",
         "url": "https://open.spotify.com/album/1YZ7UDGuD8tJdkkhXpChdU"
       },
@@ -187,6 +203,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "S\u2019old (Acoustic)",
         "url": "https://open.spotify.com/album/4fO8xivU0iLXNWAeDoqcuk"
       },
@@ -199,22 +231,6 @@
       "duration_ms": 159142,
       "name": "S\u2019old (Acoustic)",
       "url": "https://open.spotify.com/track/3K3piObEj9QrcJq1kFuhgY"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Friendly Fire: A Cappella + Instrumental",
-        "url": "https://open.spotify.com/album/2JGoWZYDsksSiHcRqbGa3o"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 178692,
-      "name": "Friendly Fire (A Cappella)",
-      "url": "https://open.spotify.com/track/5zHpUKsgIVxB7H20nN3Xy8"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -259,18 +275,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+        "name": "Zig Zag",
+        "url": "https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         }
       ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+      "duration_ms": 254285,
+      "name": "Zig Zag",
+      "url": "https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -287,22 +303,6 @@
       "duration_ms": 186866,
       "name": "Emptiness",
       "url": "https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Zig Zag",
-        "url": "https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 254285,
-      "name": "Zig Zag",
-      "url": "https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "LIES WE TELL OURSELVES",
-        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "LIES WE TELL OURSELVES",
-      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "No Se Vende Este \u00c1lbum",
         "url": "https://open.spotify.com/album/4gRU0Nhf2f4sYl8hFyKvq2"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 213481,
       "name": "Un Mundo Roto",
       "url": "https://open.spotify.com/track/5bufeKl3PAMGbpleSEi3IY"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "LIES WE TELL OURSELVES",
+        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "LIES WE TELL OURSELVES",
+      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Faster Than the Speed of Night (Live in Berlin)",
-        "url": "https://open.spotify.com/album/3dUdYL5bZQNo8caR8UmQwR"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 365737,
-      "name": "Faster Than the Speed of Night - Single Edit [Live]",
-      "url": "https://open.spotify.com/track/2kNTF2pFrtu3ooyL0vF3R4"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "PODER (Bribb\u014d Remix)",
         "url": "https://open.spotify.com/album/0mYcMzIpeNYtm2lOcADnvH"
       },
@@ -527,22 +511,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Estandarte",
-        "url": "https://open.spotify.com/album/3nykHgG8D3e2Eum1STSzzh"
+        "name": "Faster Than the Speed of Night (Live in Berlin)",
+        "url": "https://open.spotify.com/album/3dUdYL5bZQNo8caR8UmQwR"
       },
       "artists": [
         {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Reno871",
-          "url": "https://open.spotify.com/artist/50nNZIMfSVOSOoZNPfgFCU"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 202142,
-      "name": "Estandarte",
-      "url": "https://open.spotify.com/track/4Yw3jtrOKEXOkzIusWyDaa"
+      "duration_ms": 365737,
+      "name": "Faster Than the Speed of Night - Single Edit [Live]",
+      "url": "https://open.spotify.com/track/2kNTF2pFrtu3ooyL0vF3R4"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -563,6 +543,26 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Estandarte",
+        "url": "https://open.spotify.com/album/3nykHgG8D3e2Eum1STSzzh"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Reno871",
+          "url": "https://open.spotify.com/artist/50nNZIMfSVOSOoZNPfgFCU"
+        }
+      ],
+      "duration_ms": 202142,
+      "name": "Estandarte",
+      "url": "https://open.spotify.com/track/4Yw3jtrOKEXOkzIusWyDaa"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "The Live Series: Songs Of Celebration",
-        "url": "https://open.spotify.com/album/2Ibu9hI7h8VjtN4dsQLWjg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "What Love Can Do - Live at Wachovia Spectrum, Philadelphia, PA - 10/14/2009",
-      "url": "https://open.spotify.com/track/1WEE83xSksC1PbPMlRIFRt"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Heartbreak Feels So Good (Dillon Francis Remix)",
         "url": "https://open.spotify.com/album/1DGBhnSeQGDRGUAo4aOQIL"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 176757,
       "name": "Feel The Motion",
       "url": "https://open.spotify.com/track/0LfvApIKeeoWXaVzpqAmoU"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "The Live Series: Songs Of Celebration",
+        "url": "https://open.spotify.com/album/2Ibu9hI7h8VjtN4dsQLWjg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "What Love Can Do - Live at Wachovia Spectrum, Philadelphia, PA - 10/14/2009",
+      "url": "https://open.spotify.com/track/1WEE83xSksC1PbPMlRIFRt"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -943,18 +943,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+        "name": "MELLODEATH Tapes Vol. I",
+        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
       },
       "artists": [
         {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
         }
       ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+      "duration_ms": 195692,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -979,26 +987,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "MELLODEATH Tapes Vol. I",
-        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Fireball",
-      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Someone's Daughter, Someone's Son",
         "url": "https://open.spotify.com/album/1pCxbUrnRHbLMtdaFIFHtB"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 191123,
       "name": "En El Muelle De San Blas - LoFi Version 1",
       "url": "https://open.spotify.com/track/3z6Fq9M5wmeZtSW9BERC3e"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
     },
     {
       "added_at": "2024-03-29 03:00:00",

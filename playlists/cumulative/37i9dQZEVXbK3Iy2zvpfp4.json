@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 170847,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
@@ -19422,7 +19422,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -23072,7 +23072,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 144197,
       "name": "never was much of a poet",
       "url": "https://open.spotify.com/track/5I7CmLy3CTMNYlQWNpZszu"
@@ -31218,6 +31218,24 @@
       "duration_ms": 224727,
       "name": "SOS",
       "url": "https://open.spotify.com/track/20hAlPd1hKtN0PvLk28N1L"
+    },
+    {
+      "album": {
+        "name": "So\u00f1ar",
+        "url": "https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255118,
+      "name": "So\u00f1ar",
+      "url": "https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT"
     },
     {
       "album": {

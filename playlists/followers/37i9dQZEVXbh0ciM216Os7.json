@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 0,
+  "2024-04-02": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -3131,7 +3131,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 215248,
       "name": "Born Wit It",
       "url": "https://open.spotify.com/track/4cSFJrQW0MYAQLE7AgW9x1"
@@ -5375,7 +5375,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 286507,
       "name": "Devil in Disguise",
       "url": "https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x"
@@ -8805,7 +8805,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 278067,
       "name": "Gates of Hell",
       "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
@@ -13299,7 +13299,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -17767,7 +17767,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 213420,
       "name": "Play Amongst The Stars (feat. Inspectah Deck)",
       "url": "https://open.spotify.com/track/072PlgG7bdxMIzVNk44UQ6"
@@ -17907,7 +17907,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 242880,
       "name": "Pop a Toast",
       "url": "https://open.spotify.com/track/2RPu2kKczjm8zG0sZEEGcP"
@@ -19057,7 +19057,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 486763,
       "name": "Rifftide - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
       "url": "https://open.spotify.com/track/5H77RAVXaLRG4Kl90614O9"
@@ -19145,6 +19145,28 @@
       "duration_ms": 139482,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0ezu28CrH13zXiRJ3boiQZ"
+    },
+    {
+      "album": {
+        "name": "Rock Stars",
+        "url": "https://open.spotify.com/album/30wqi2wghld9Iwrb7dLFhr"
+      },
+      "artists": [
+        {
+          "name": "The Massholez",
+          "url": "https://open.spotify.com/artist/3juyI2GMuiHP0XDUWkzO7c"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229154,
+      "name": "Rock Stars",
+      "url": "https://open.spotify.com/track/2tvgZZE2YvSQTv7piAcnOc"
     },
     {
       "album": {
@@ -23500,6 +23522,24 @@
     },
     {
       "album": {
+        "name": "John Coltrane Quartet + Stan Getz + Oscar Peterson: Live Dusseldorf 1960 (Live Restauraci\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/3VcGwRasSIkWfFJjADQsIa"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210965,
+      "name": "The Theme - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/3hFFfkl3A0aBPmKKrPbmcD"
+    },
+    {
+      "album": {
         "name": "Curly",
         "url": "https://open.spotify.com/album/2lb3nbgbib5gcK1kPyxXbg"
       },
@@ -26987,7 +27027,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 201203,
       "name": "You Know Where You Can Go",
       "url": "https://open.spotify.com/track/0RwL2Cj7Ap2tsLmCEKYsMB"
@@ -27009,7 +27049,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 201203,
       "name": "You Know Where You Can Go",
       "url": "https://open.spotify.com/track/4ebPTrgAGExF5xWRcQz595"

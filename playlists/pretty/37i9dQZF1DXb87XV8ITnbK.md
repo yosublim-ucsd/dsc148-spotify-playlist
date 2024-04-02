@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,866 likes - 64 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,958 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 51 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
 | 52 | [일기](https://open.spotify.com/track/6FPvHr4oLddJr6fpNqo6S0) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [일기](https://open.spotify.com/album/4xZ9zHI2Z36YEkbNeSFJHZ) | 5:03 |
 | 53 | [I Am Here](https://open.spotify.com/track/37ULQCrAcTUhmHwn8Dh5CF) | [Heo JeongHyuk](https://open.spotify.com/artist/4FrCzBGjInYknXtQtTGUkb) | [Bud Days](https://open.spotify.com/album/662gYS4pSmeuLB5W480r1F) | 3:29 |
-| 54 | [Aside](https://open.spotify.com/track/0szzXpjSNDfNOewFpe2JsT) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Aside](https://open.spotify.com/album/3b52MvqG2zClRIomUl9g7j) | 3:50 |
+| 54 | [Aside](https://open.spotify.com/track/2n19k8ZOk1fCCCIL2oTC3s) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Aside](https://open.spotify.com/album/2iit0DmihUoXMCQQt0GgTO) | 3:51 |
 | 55 | [A Song For You \- Instrumental](https://open.spotify.com/track/1nhPQPqx3hCMetweBmcIpG) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [TwinkIing Watermelon \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3qgxfBEaP3OH8kM8PS5I07) | 3:54 |
 | 56 | [HIGHER \- Instrumental](https://open.spotify.com/track/7hgbJnXU9hgaYblX35yr3O) | [JU\-NE](https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/035OFeGZ4rbCEqka7vGqUH) | 3:44 |
 | 57 | [SHINING \- Instrumental](https://open.spotify.com/track/2Pc8vftGWCrP4nL8CtMV7r) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5aRhGb3W09rEYMNt4ie26k) | 3:30 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 63 | [Wherever \- Instrumental](https://open.spotify.com/track/52lTNIIPlsUkF0IL2n2430) | [Eight'O](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 |
 | 64 | [You & Me \- Instrumental](https://open.spotify.com/track/1YtQ9PFgCydiPjpkzMIiT3) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ryKXv8I2Eb2K3SKBtdnfQ) | 3:10 |
 
-Snapshot ID: `MCxmOTRmZDE5ZjVkZDRlN2Y5MWY3ZGM2NDM5MDBkMmMzZjIwN2Q1MzNk`
+Snapshot ID: `MCw4MzY5MDY2OGFjOTgzNWM1ZWZlZWUwODdjOGVmOWIzMmVjZWFhMTQ3`

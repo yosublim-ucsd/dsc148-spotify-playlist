@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 173250,
       "name": "Arms Reach",
       "url": "https://open.spotify.com/track/4HbSh61MlKqwfp089lUqx1"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 164959,
       "name": "Bed of Clouds (by a Babbling Brook)",
       "url": "https://open.spotify.com/track/5G9TdCSs9GPwGSrwGjfIPo"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 190291,
       "name": "Bubbling Waters",
       "url": "https://open.spotify.com/track/1zaF9aOvpI9FXLY4vmqzSn"
@@ -506,6 +506,24 @@
       "duration_ms": 187107,
       "name": "By The River",
       "url": "https://open.spotify.com/track/2PMTTEuXOznRQEZubxiPrd"
+    },
+    {
+      "album": {
+        "name": "Caelum Aqua",
+        "url": "https://open.spotify.com/album/4obMeYnz4UrSyXqiuVybSI"
+      },
+      "artists": [
+        {
+          "name": "Maja Balder",
+          "url": "https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154551,
+      "name": "Caelum Aqua",
+      "url": "https://open.spotify.com/track/0pyfGww35DJV75icw9b3zD"
     },
     {
       "album": {
@@ -556,7 +574,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 192000,
       "name": "Calmest lake",
       "url": "https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8"
@@ -646,7 +664,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 180353,
       "name": "Changing Colors",
       "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 178181,
       "name": "Deepest Forest",
       "url": "https://open.spotify.com/track/6gyM2GlknJPPe0QxJBlPrD"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 126316,
       "name": "Forest Piano Music for Work and Reading",
       "url": "https://open.spotify.com/track/4OhSZK4o9klyC0dBQXkWQQ"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 141624,
       "name": "Forgotten letters",
       "url": "https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR"
@@ -1521,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Healing Winds (Nature)",
+        "url": "https://open.spotify.com/album/2CdswrRTCsE83LvoZYNV3h"
+      },
+      "artists": [
+        {
+          "name": "Eta Centauri",
+          "url": "https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Healing Winds (Nature)",
+      "url": "https://open.spotify.com/track/6eZvMOonscNh15H00jJeKX"
+    },
+    {
+      "album": {
         "name": "Heartfulness",
         "url": "https://open.spotify.com/album/6PLL0DyPG8yLOUCnvXn5ZY"
       },
@@ -1629,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/7IV5zhqWcACwAudZoamFEZ"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195541,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2yCQoW3u8p5d11iXfQO4Ay"
+    },
+    {
+      "album": {
         "name": "I Wished for You",
         "url": "https://open.spotify.com/album/6OpkS4EwZMyuck7dHCk2i5"
       },
@@ -1694,7 +1748,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/2yJGmdVsz482MPCTvyBXS2"
@@ -1806,6 +1860,28 @@
       "duration_ms": 109951,
       "name": "Jours Heureux",
       "url": "https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM"
+    },
+    {
+      "album": {
+        "name": "States of Humidity",
+        "url": "https://open.spotify.com/album/2UTJ8YGzn8SwBoIhPiufxE"
+      },
+      "artists": [
+        {
+          "name": "Center of Attention",
+          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
+        },
+        {
+          "name": "LUNIQ.",
+          "url": "https://open.spotify.com/artist/7A8w7cPUZgGsW7quCMezNx"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Just At Ease",
+      "url": "https://open.spotify.com/track/65ZtqFklHjy0FeScTQTFM2"
     },
     {
       "album": {
@@ -2054,7 +2130,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 157200,
       "name": "Lumen",
       "url": "https://open.spotify.com/track/6a6UnuMT3YJrlxztbFIikY"
@@ -2090,7 +2166,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 182274,
       "name": "Magnetic Aura",
       "url": "https://open.spotify.com/track/6UDgvopTCbgF94i54HRuXB"
@@ -2450,7 +2526,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 115618,
       "name": "Nature's Calling",
       "url": "https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON"
@@ -2979,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "Quiet Explorer",
+        "url": "https://open.spotify.com/album/3vKpYojebacZJInuEd09Cl"
+      },
+      "artists": [
+        {
+          "name": "Devon Fall",
+          "url": "https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Quiet Explorer",
+      "url": "https://open.spotify.com/track/5QCepve7pVYDH3r81mx2tC"
+    },
+    {
+      "album": {
         "name": "Quiet Soul",
         "url": "https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz"
       },
@@ -3033,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "Rain Journey",
+        "url": "https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf"
+      },
+      "artists": [
+        {
+          "name": "Joan Abe",
+          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Rain Journey",
+      "url": "https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN"
+    },
+    {
+      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F"
       },
@@ -3066,6 +3178,24 @@
       "duration_ms": 160988,
       "name": "Remedies",
       "url": "https://open.spotify.com/track/3l33BD42cOR4aOFI9PTPQs"
+    },
+    {
+      "album": {
+        "name": "Restituere",
+        "url": "https://open.spotify.com/album/3xca1inY0KAcdo2SpqpydC"
+      },
+      "artists": [
+        {
+          "name": "Takiyo",
+          "url": "https://open.spotify.com/artist/0NZ4KsYEIFxpEP7Go3gvI1"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171547,
+      "name": "Restituere",
+      "url": "https://open.spotify.com/track/7lavIExZm0TRGe8Cco9d4h"
     },
     {
       "album": {
@@ -3141,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "River on Strings",
+        "url": "https://open.spotify.com/album/2ms4F8UTNdM6JaXhCH83SK"
+      },
+      "artists": [
+        {
+          "name": "Nerea Vall\u00e9e",
+          "url": "https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188725,
+      "name": "River on Strings",
+      "url": "https://open.spotify.com/track/4KPxKVV0wKUbEi2D08RStc"
+    },
+    {
+      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3"
       },
@@ -3178,6 +3326,24 @@
       "duration_ms": 199624,
       "name": "Sauntering Dream",
       "url": "https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF"
+    },
+    {
+      "album": {
+        "name": "Sequoia Peace (Forest)",
+        "url": "https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7"
+      },
+      "artists": [
+        {
+          "name": "Cypress West",
+          "url": "https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174851,
+      "name": "Sequoia Peace (Forest)",
+      "url": "https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0"
     },
     {
       "album": {
@@ -3466,6 +3632,24 @@
       "duration_ms": 194011,
       "name": "Stilte",
       "url": "https://open.spotify.com/track/7JmuwjQIrdufPz4y7hQyfF"
+    },
+    {
+      "album": {
+        "name": "Stream of Harmony",
+        "url": "https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177201,
+      "name": "Stream of Harmony",
+      "url": "https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk"
     },
     {
       "album": {

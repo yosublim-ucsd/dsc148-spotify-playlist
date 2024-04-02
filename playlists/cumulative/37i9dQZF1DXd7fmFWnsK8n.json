@@ -59,6 +59,32 @@
     },
     {
       "album": {
+        "name": "ALL ABOARD",
+        "url": "https://open.spotify.com/album/1thgM8NhTGWurqQR5kaYBC"
+      },
+      "artists": [
+        {
+          "name": "Mitsuki Izumi (CV: Tsubasa Yonaga)",
+          "url": "https://open.spotify.com/artist/2plh4dVIRnxmFGnNkHfu6C"
+        },
+        {
+          "name": "Yamato Nikaido (CV: Yusuke Shirai)",
+          "url": "https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK"
+        },
+        {
+          "name": "Sogo Osaka (CV: Atsushi Abe)",
+          "url": "https://open.spotify.com/artist/6S3Y222d1LlL91Mr9Zao7j"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "ALL ABOARD",
+      "url": "https://open.spotify.com/track/75ptsBOaFOCrQKHjQCPleM"
+    },
+    {
+      "album": {
         "name": "einsatZ",
         "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
@@ -164,6 +190,36 @@
       "duration_ms": 246453,
       "name": "Boys & Girls",
       "url": "https://open.spotify.com/track/17cQxYJ2mcanjoPMwDYAxz"
+    },
+    {
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4"
+      },
+      "artists": [
+        {
+          "name": "Yamato Nikaido (CV: Yusuke Shirai)",
+          "url": "https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK"
+        },
+        {
+          "name": "Sogo Osaka (CV: Atsushi Abe)",
+          "url": "https://open.spotify.com/artist/6S3Y222d1LlL91Mr9Zao7j"
+        },
+        {
+          "name": "Yuki (CV: Shinnosuke Tachibana)",
+          "url": "https://open.spotify.com/artist/67vfCcitRvMcZluBW4dSzk"
+        },
+        {
+          "name": "Minami Natsume (CV: Koutaro Nishiyama)",
+          "url": "https://open.spotify.com/artist/28IIr1lXeCP14LA8DGFjuu"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY"
     },
     {
       "album": {
@@ -383,6 +439,28 @@
     },
     {
       "album": {
+        "name": "Don't Analyze Me",
+        "url": "https://open.spotify.com/album/178aKYr4lSpWQsBDFItDQJ"
+      },
+      "artists": [
+        {
+          "name": "Torao Mido (CV: Takashi Kondo)",
+          "url": "https://open.spotify.com/artist/4ywzIhLH7AjkcGSusAEf3I"
+        },
+        {
+          "name": "Minami Natsume (CV: Koutaro Nishiyama)",
+          "url": "https://open.spotify.com/artist/28IIr1lXeCP14LA8DGFjuu"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221760,
+      "name": "Don't Analyze Me",
+      "url": "https://open.spotify.com/track/0CmAuHBBggyxEhpy5KIxzG"
+    },
+    {
+      "album": {
         "name": "einsatZ",
         "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
@@ -593,6 +671,32 @@
     },
     {
       "album": {
+        "name": "Haru no Yo no Yume",
+        "url": "https://open.spotify.com/album/1isP2Q5I1ZGFTkpn7lnbaT"
+      },
+      "artists": [
+        {
+          "name": "Tamaki Yotsuba (CV: KENN)",
+          "url": "https://open.spotify.com/artist/3tIlRXYi6ZVj8uKVjFG2pm"
+        },
+        {
+          "name": "Mitsuki Izumi (CV: Tsubasa Yonaga)",
+          "url": "https://open.spotify.com/artist/2plh4dVIRnxmFGnNkHfu6C"
+        },
+        {
+          "name": "Nagi Rokuya (CV: Takuya Eguchi)",
+          "url": "https://open.spotify.com/artist/2ZfNlteExNPFRONNwnJ6RQ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192080,
+      "name": "Haru no Yo no Yume",
+      "url": "https://open.spotify.com/track/1v6HkMSPtQkYzEm1KPDiTa"
+    },
+    {
+      "album": {
         "name": "Heavenly Visitor / DIAMOND FUSION",
         "url": "https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL"
       },
@@ -766,7 +870,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 314866,
       "name": "Journey",
       "url": "https://open.spotify.com/track/2YnweboKggzeRjrPDRv94L"
@@ -856,7 +960,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 272506,
       "name": "Leopard Eyes",
       "url": "https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj"
@@ -1334,7 +1438,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 294266,
       "name": "Pieces of The World",
       "url": "https://open.spotify.com/track/5cfhxHtdKdt809M45XYzyl"
@@ -2692,7 +2796,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 263520,
       "name": "\u6fc0\u60c5",
       "url": "https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4"

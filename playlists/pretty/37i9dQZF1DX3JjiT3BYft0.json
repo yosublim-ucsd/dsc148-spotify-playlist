@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 68449,
+  "num_followers": 68467,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjJmYTNlMzY0M2Q0MDNjZjcwNmJiNjQ0NTZiMDY2NjllZTM4ZTVl",
+  "snapshot_id": "MCxmYWIyZWRkN2MxNzc5YWE2MjJmODUxZjZkZDdmYmU1ZmE3ZTBlZTlk",
   "tracks": [
     {
       "added_at": "2024-03-23 16:15:14",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\u8ff7\u661f\u53eb",
-        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "\u8ff7\u661f\u53eb",
-      "url": "https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "Wahl",
         "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+        "name": "\u8ff7\u661f\u53eb",
+        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
       },
       "artists": [
         {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
         }
       ],
-      "duration_ms": 282335,
-      "name": "HELL! or HELL?",
-      "url": "https://open.spotify.com/track/4BLkz8cHw7DRsJMgYVWbBI"
+      "duration_ms": 211373,
+      "name": "\u8ff7\u661f\u53eb",
+      "url": "https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -315,22 +299,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "Breakthrough!",
-        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 315402,
-      "name": "\u30ad\u30ba\u30ca\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u266a",
-      "url": "https://open.spotify.com/track/6NGOZPVfWGnUNsiQ9Jhdtt"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "ONE OF US",
         "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 233702,
       "name": "Hey-day\u72c2\u9a12\u66f2(\u30ab\u30d7\u30ea\u30c1\u30aa)",
       "url": "https://open.spotify.com/track/1Dqda7294YgfixgAZnmtnX"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 282335,
+      "name": "HELL! or HELL?",
+      "url": "https://open.spotify.com/track/4BLkz8cHw7DRsJMgYVWbBI"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 315402,
+      "name": "\u30ad\u30ba\u30ca\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u266a",
+      "url": "https://open.spotify.com/track/6NGOZPVfWGnUNsiQ9Jhdtt"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068\uff01",
-        "url": "https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK"
+        "name": "ZEAL of proud",
+        "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
       },
       "artists": [
         {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 219835,
-      "name": "\u30b4\u30fc\u30ab\uff01\u3054\u30fc\u304b\u3044\uff01\uff1f\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5\uff01",
-      "url": "https://open.spotify.com/track/0Kl7SUawr32uH1Dt4LK4zM"
+      "duration_ms": 279066,
+      "name": "ZEAL of proud",
+      "url": "https://open.spotify.com/track/0e36zF0N3J9CKxvjxrenk5"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -395,34 +395,18 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
+        "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068\uff01",
+        "url": "https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK"
       },
       "artists": [
         {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 238800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "ZEAL of proud",
-        "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "ZEAL of proud",
-      "url": "https://open.spotify.com/track/0e36zF0N3J9CKxvjxrenk5"
+      "duration_ms": 219835,
+      "name": "\u30b4\u30fc\u30ab\uff01\u3054\u30fc\u304b\u3044\uff01\uff1f\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5\uff01",
+      "url": "https://open.spotify.com/track/0Kl7SUawr32uH1Dt4LK4zM"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -443,22 +427,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 301500,
-      "name": "R\u00b7I\u00b7O\u00b7T",
-      "url": "https://open.spotify.com/track/5SY9BO5RF5ecqQYtDYyCB5"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "STAY GLOW",
         "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
       },
@@ -471,22 +439,6 @@
       "duration_ms": 244200,
       "name": "Crow Song",
       "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 252935,
-      "name": "flame of hope",
-      "url": "https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -507,38 +459,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "TITLE IDOL",
-        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 235100,
-      "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a\uff5e\u307f\u3093",
-      "url": "https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
-        "url": "https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl"
-      },
-      "artists": [
-        {
-          "name": "Ave Mujica",
-          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
-        }
-      ],
-      "duration_ms": 295813,
-      "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
-      "url": "https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "ERA",
         "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
       },
@@ -548,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 283735,
-      "name": "EXPOSE \u2018Burn out!!!\u2019",
-      "url": "https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03"
+      "duration_ms": 301500,
+      "name": "R\u00b7I\u00b7O\u00b7T",
+      "url": "https://open.spotify.com/track/5SY9BO5RF5ecqQYtDYyCB5"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -571,6 +491,86 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 252935,
+      "name": "flame of hope",
+      "url": "https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
+        "url": "https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "duration_ms": 295813,
+      "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
+      "url": "https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "TITLE IDOL",
+        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 235100,
+      "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a\uff5e\u307f\u3093",
+      "url": "https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 283735,
+      "name": "EXPOSE \u2018Burn out!!!\u2019",
+      "url": "https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
         "name": "Poppin\u2019on!",
         "url": "https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI"
       },
@@ -583,6 +583,38 @@
       "duration_ms": 217133,
       "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9",
       "url": "https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 270868,
+      "name": "Y.O.L.O\uff01\uff01\uff01\uff01\uff01",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "\u8ff7\u8def\u65e5\u3005",
+        "url": "https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "\u8ff7\u8def\u65e5\u3005",
+      "url": "https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -651,38 +683,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\u8ff7\u8def\u65e5\u3005",
-        "url": "https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "\u8ff7\u8def\u65e5\u3005",
-      "url": "https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O\uff01\uff01\uff01\uff01\uff01",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044\uff01\u300d",
         "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "SMILE ON PARADE",
-        "url": "https://open.spotify.com/album/179xDc6x7RPbG09o0rEjXW"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "\u308f\u3061\u3083\u30fb\u3082\u3061\u3083\u30fb\u307a\u3063\u305f\u3093\u884c\u9032\u66f2",
-      "url": "https://open.spotify.com/track/4fcpTiauZx5tEi7JvtmWNf"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
+        "name": "SMILE ON PARADE",
+        "url": "https://open.spotify.com/album/179xDc6x7RPbG09o0rEjXW"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "\u308f\u3061\u3083\u30fb\u3082\u3061\u3083\u30fb\u307a\u3063\u305f\u3093\u884c\u9032\u66f2",
+      "url": "https://open.spotify.com/track/4fcpTiauZx5tEi7JvtmWNf"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
         "name": "TITLE IDOL",
         "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 247300,
       "name": "\u30ef\u30af\u30ef\u30afmeets\u30c8\u30ea\u30c3\u30d7",
       "url": "https://open.spotify.com/track/3GMuqR7h13YmtND2c411a7"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 276300,
+      "name": "\u72ec\u5275\u53ce\u5dee",
+      "url": "https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -823,22 +839,6 @@
       "duration_ms": 262902,
       "name": "CATASTROPHE BANQUET",
       "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 276300,
-      "name": "\u72ec\u5275\u53ce\u5dee",
-      "url": "https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\uff32",
-        "url": "https://open.spotify.com/album/5XtGy68gBjYEZpZCbEfQiI"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 284833,
-      "name": "R",
-      "url": "https://open.spotify.com/track/45jaPXs1EROGdFRtT0T8Sx"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "Breakthrough!",
         "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
       },
@@ -1263,8 +1247,8 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "ZEAL of proud",
-        "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
+        "name": "\uff32",
+        "url": "https://open.spotify.com/album/5XtGy68gBjYEZpZCbEfQiI"
       },
       "artists": [
         {
@@ -1272,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Blessing Chord",
-      "url": "https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo"
+      "duration_ms": 284833,
+      "name": "R",
+      "url": "https://open.spotify.com/track/45jaPXs1EROGdFRtT0T8Sx"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -1291,6 +1275,22 @@
       "duration_ms": 366568,
       "name": "ROZEN HORIZON",
       "url": "https://open.spotify.com/track/590mAad0xehlwm9SbdZgrK"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "ZEAL of proud",
+        "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Blessing Chord",
+      "url": "https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo"
     },
     {
       "added_at": "2024-03-23 16:15:14",

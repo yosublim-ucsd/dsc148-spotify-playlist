@@ -2,7 +2,7 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: Jenna Davis
+> Music from Nashville's emerging Singers and Songwriters\. Cover: Maddox Batson
 
 325 songs - 17 hr 13 min
 

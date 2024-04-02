@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Beyoncé, Vampire Weekend, Harry Styles &amp; more! Cover: Beyoncé
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,234 likes - 78 songs - 4 hr 7 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,235 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

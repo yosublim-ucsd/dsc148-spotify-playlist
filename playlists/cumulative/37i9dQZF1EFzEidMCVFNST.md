@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-366 songs - 17 hr 27 min
+367 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Exageradamente Complicado \- Ao Vivo](https://open.spotify.com/track/6cChQo3TMJdUFYMnmRlrH8) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [Esqueminha \(Ao Vivo\)](https://open.spotify.com/album/1jkahP9oeYoALozWby2xzc) | 2:31 | 2024-01-29 |  |
 | [Exemplo](https://open.spotify.com/track/3arTCOZ3JP84zaB4v5gMSM) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Confissões de um Apaixonado](https://open.spotify.com/album/4dJWLnArL6r95Li2hBHtu1) | 3:32 | 2024-01-29 |  |
 | [FALA MAL DE MIM](https://open.spotify.com/track/5glMxRMRHGBRj6bydBjoPM) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [FALA MAL DE MIM](https://open.spotify.com/album/3x3CccLoOFQN8jnFJxF91n) | 2:34 | 2024-01-29 |  |
+| [Falta de Mim](https://open.spotify.com/track/4xDhnfecbgfX78cLqRXJUl) | [Larissa Costa](https://open.spotify.com/artist/0tFDWvgm73Y1mz4n75LPwP) | [Brega pra Paredão 3.0](https://open.spotify.com/album/4W4e4xBPMQvad82k8Yc8MX) | 2:32 | 2024-04-01 |  |
 | [Famosinha](https://open.spotify.com/track/45N6BbYW3XVyW7XDkVzVta) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm) | [Famosinha](https://open.spotify.com/album/4nwzmC3bG3zRkovu9xfG0X) | 2:49 | 2024-01-29 |  |
 | [Famoso Tanto Faz](https://open.spotify.com/track/3uT01sLNU9Ta8B8qbyWZQj) | [WALBER](https://open.spotify.com/artist/2vKLXoZL4XxHrbJhj9C5P5), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Famoso Tanto Faz](https://open.spotify.com/album/4aFcVzMtTg5XGwLdpiYplJ) | 2:37 | 2024-01-29 |  |
 | [Fica Com Ela \- Ao Vivo](https://open.spotify.com/track/5XSIruKcw2nMmv5AcSmlFq) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [De Portas Abertas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6fojLfpTCrcK7gLsgd7k63) | 3:23 | 2024-01-29 |  |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 203026,
       "name": "14.12",
       "url": "https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0"
@@ -1930,6 +1930,24 @@
       "duration_ms": 217826,
       "name": "Shiva",
       "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
+    },
+    {
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/1Ik8CQhqiqQ2Z2Rm0ovN4Y"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/3iG6aKmXzHnxnopyXVDZQR"
     },
     {
       "album": {

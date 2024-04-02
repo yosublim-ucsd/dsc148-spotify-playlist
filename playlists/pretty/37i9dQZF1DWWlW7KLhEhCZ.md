@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Rare Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,669 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,693 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 |
 | 75 | [Ouro Rose](https://open.spotify.com/track/0pv0nTMDBFR2QNH393zp6A) | [Font](https://open.spotify.com/artist/2VxhcBCTUs11LYhPpA62S1), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw) | [Ouro Rose](https://open.spotify.com/album/2DtE00Rbwp2UC6IiNAdJIt) | 3:02 |
 
-Snapshot ID: `MCxkNmMyNTRiZjcxNDZkY2NmZDRmZWM0MjZlNDIzMjdjODU0ZDEwYmFl`
+Snapshot ID: `MCwzYTcwMWZiNGE4M2U4MzZmNzQwNDAxM2VhZDQ0NmEzYjI2YWNhM2Zk`

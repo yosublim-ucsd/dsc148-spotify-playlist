@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: F.HERO x BODYSLAM x BABYMETAL",
-  "num_followers": 44226,
+  "num_followers": 44235,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTBjMGQyMDQ4OTE2YThjZDNjMmExYzQ0ZmZjNGQwOWFjOTBhMjY5",
+  "snapshot_id": "MCw4ODYyYjU1NDdhZWQ2MGQ0MWU1MGMzNDkwMWVlYjE2MDBhMzQxZTdk",
   "tracks": [
     {
       "added_at": "2024-03-26 18:11:22",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "METALI!! (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "METALI!! - feat. Tom Morello",
-      "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
         "name": "\u544a\u767d",
         "url": "https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ"
       },
@@ -291,6 +271,22 @@
       "duration_ms": 249480,
       "name": "I'm a mess",
       "url": "https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "BROKEN GAMES",
+        "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
+      },
+      "artists": [
+        {
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+        }
+      ],
+      "duration_ms": 236073,
+      "name": "BROKEN GAMES",
+      "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -359,18 +355,22 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "BROKEN GAMES",
-        "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
+        "name": "METALI!! (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
       },
       "artists": [
         {
-          "name": "FZMZ",
-          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
-      "duration_ms": 236073,
-      "name": "BROKEN GAMES",
-      "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
+      "duration_ms": 208600,
+      "name": "METALI!! - feat. Tom Morello",
+      "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
+        "name": "Niche Syndrome",
+        "url": "https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Kanzen kankaku Dreamer",
+      "url": "https://open.spotify.com/track/1XT0cpl9g0GuRQJao2nqXd"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
         "name": "MAKING THE ROAD",
         "url": "https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 120200,
       "name": "STAY GOLD",
       "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "CAVU",
-        "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
-      },
-      "artists": [
-        {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "swim",
-      "url": "https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "Niche Syndrome",
-        "url": "https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK"
+        "name": "CAVU",
+        "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
         }
       ],
-      "duration_ms": 252200,
-      "name": "Kanzen kankaku Dreamer",
-      "url": "https://open.spotify.com/track/1XT0cpl9g0GuRQJao2nqXd"
+      "duration_ms": 207000,
+      "name": "swim",
+      "url": "https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
         "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
         "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
       },
@@ -631,70 +615,6 @@
       "duration_ms": 89563,
       "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
       "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "ELLEGARDEN BEST 1999-2008",
-        "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "\u98a8\u306e\u65e5",
-      "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "Me Against Myself",
-        "url": "https://open.spotify.com/album/1kSxQKQOadefSQqHOlTOG0"
-      },
-      "artists": [
-        {
-          "name": "Trymatic",
-          "url": "https://open.spotify.com/artist/5CWkDfVkkdnLGMmmH40O4b"
-        }
-      ],
-      "duration_ms": 233045,
-      "name": "Me Against Myself",
-      "url": "https://open.spotify.com/track/3k6kqDASuLfQPxoNXA10kZ"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "SEEDS OF HOPE",
-        "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "KiLLiNG ME",
-      "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -715,6 +635,70 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "Me Against Myself",
+        "url": "https://open.spotify.com/album/1kSxQKQOadefSQqHOlTOG0"
+      },
+      "artists": [
+        {
+          "name": "Trymatic",
+          "url": "https://open.spotify.com/artist/5CWkDfVkkdnLGMmmH40O4b"
+        }
+      ],
+      "duration_ms": 233045,
+      "name": "Me Against Myself",
+      "url": "https://open.spotify.com/track/3k6kqDASuLfQPxoNXA10kZ"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "ELLEGARDEN BEST 1999-2008",
+        "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "\u98a8\u306e\u65e5",
+      "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "SEEDS OF HOPE",
+        "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "KiLLiNG ME",
+      "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
         "name": "\u66d6\u6627",
         "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
       },
@@ -731,22 +715,6 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Autumn Song",
-      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 167000,
       "name": "SONGS",
       "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -811,6 +795,22 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
+        "name": "\u72d0\u72ec\u306e\u624d\u671b",
+        "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "\u72d0\u72ec\u306e\u624d\u671b",
+      "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
         "name": "THE ETERNAL DOOM",
         "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "\u72d0\u72ec\u306e\u624d\u671b",
-        "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
       },
       "artists": [
         {
-          "name": "Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 212950,
-      "name": "\u72d0\u72ec\u306e\u624d\u671b",
-      "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
+      "duration_ms": 181773,
+      "name": "The Autumn Song",
+      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -891,22 +891,6 @@
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "ELEVEN FIRE CRACKERS",
-        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Salamander",
-      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -975,6 +959,22 @@
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "ELEVEN FIRE CRACKERS",
+        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "PARADISE (Kill The Silence)",
-        "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 223118,
-      "name": "PARADISE (Kill The Silence)",
-      "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
         "name": "Mountain Top",
         "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
@@ -1235,66 +1219,18 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "Indian Burn",
-        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+        "name": "PARADISE (Kill The Silence)",
+        "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
       "artists": [
         {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 195479,
-      "name": "A Little Bit Of Your Love",
-      "url": "https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
-      },
-      "artists": [
-        {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
-        }
-      ],
-      "duration_ms": 201105,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "RARA",
-        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "NAME",
-      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "800TRIBUTE-champloo is the BEST!!2-",
-        "url": "https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 260278,
-      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X"
+      "duration_ms": 223118,
+      "name": "PARADISE (Kill The Silence)",
+      "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -1315,6 +1251,54 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "duration_ms": 201105,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "Indian Burn",
+        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 195479,
+      "name": "A Little Bit Of Your Love",
+      "url": "https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "RARA",
+        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "NAME",
+      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
         "name": "Dance & Scream",
         "url": "https://open.spotify.com/album/16MNF4dTAOiVhgVtlFM1PP"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 252093,
       "name": "Love at First Sight",
       "url": "https://open.spotify.com/track/3eXeHEeoFn0Fc9BkHuvQOS"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 260278,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "The Show Must Go On",
-        "url": "https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt"
+        "name": "FACT 2009 - 2012",
+        "url": "https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2"
       },
       "artists": [
         {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+          "name": "FACT",
+          "url": "https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73"
         }
       ],
-      "duration_ms": 164185,
-      "name": "The Show Must Go On",
-      "url": "https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B"
+      "duration_ms": 212413,
+      "name": "error",
+      "url": "https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "FACT 2009 - 2012",
-        "url": "https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2"
+        "name": "The Show Must Go On",
+        "url": "https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt"
       },
       "artists": [
         {
-          "name": "FACT",
-          "url": "https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73"
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
         }
       ],
-      "duration_ms": 212413,
-      "name": "error",
-      "url": "https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr"
+      "duration_ms": 164185,
+      "name": "The Show Must Go On",
+      "url": "https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "Blood in blue",
-        "url": "https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 165368,
-      "name": "Blood in blue",
-      "url": "https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
-        "name": "Parasites",
-        "url": "https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 130225,
-      "name": "Parasites",
-      "url": "https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG"
-    },
-    {
-      "added_at": "2024-03-26 18:11:22",
-      "album": {
         "name": "Catch Up",
         "url": "https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH"
       },
@@ -1539,6 +1507,22 @@
       "duration_ms": 236125,
       "name": "\u6249\u306e\u5411\u3053\u3046",
       "url": "https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
+        "name": "Blood in blue",
+        "url": "https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "duration_ms": 165368,
+      "name": "Blood in blue",
+      "url": "https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB"
     },
     {
       "added_at": "2024-03-26 18:11:22",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
+        "name": "Parasites",
+        "url": "https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 130225,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG"
+    },
+    {
+      "added_at": "2024-03-26 18:11:22",
+      "album": {
         "name": "living dead!!",
         "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
       },
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2024-03-26 18:11:22",
       "album": {
-        "name": "Indian Burn",
-        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+        "name": "Life is Full of Choices-Greatest Songs-",
+        "url": "https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT"
       },
       "artists": [
         {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+          "name": "SWANKY DANK",
+          "url": "https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt"
+        },
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5"
         }
       ],
-      "duration_ms": 204492,
-      "name": "Better Left Unsaid",
-      "url": "https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ"
+      "duration_ms": 268826,
+      "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
+      "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
     }
   ],
   "unique_name": "Loud Rock Japan",

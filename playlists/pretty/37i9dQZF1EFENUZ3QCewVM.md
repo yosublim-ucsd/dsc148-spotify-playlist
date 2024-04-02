@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 54 | [Break up Slow Dance](https://open.spotify.com/track/6wLMk2HAaSPlXHdhWzEeVE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:31 |
 | 55 | [amen](https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:09 |
 | 56 | [Drama Queen](https://open.spotify.com/track/7K4vZUin6BMe1QOM0QpmLO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Drama Queen](https://open.spotify.com/album/4g9Q2JI0ehh0VQ40vLcbFz) | 4:52 |
-| 57 | [Perfume](https://open.spotify.com/track/1anDAG6dAqtGdRaWaIF5A6) | [Cameron Hardy](https://open.spotify.com/artist/1j5AUBeVifSYaMswAi9i59) | [Perfume](https://open.spotify.com/album/4gWmboWc9DsfKcyfvmoKkf) | 2:37 |
-| 58 | [Unlovable](https://open.spotify.com/track/7077wuPCdcdyh4y2kxgbk2) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:44 |
+| 57 | [Unlovable](https://open.spotify.com/track/7077wuPCdcdyh4y2kxgbk2) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:44 |
+| 58 | [Perfume](https://open.spotify.com/track/1anDAG6dAqtGdRaWaIF5A6) | [Cameron Hardy](https://open.spotify.com/artist/1j5AUBeVifSYaMswAi9i59) | [Perfume](https://open.spotify.com/album/4gWmboWc9DsfKcyfvmoKkf) | 2:37 |
 | 59 | [To Be Young \(feat\. Doja Cat\) \- Felix Cartal Remix](https://open.spotify.com/track/55438ajkXveF4Svp5zza0o) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [To Be Young \(feat\. Doja Cat\) \[Felix Cartal Remix\]](https://open.spotify.com/album/0grfIzT5OnDihsqAXgSM38) | 3:53 |
 | 60 | [Man On The Moon](https://open.spotify.com/track/4QT5MJy3tXY2A3K7J4BnyF) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:18 |
 | 61 | [Actress](https://open.spotify.com/track/0kwqLejJ6WRwV59LMlhYHK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:56 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 90 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
 | 91 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `Mjg1MzIyODAsMDAwMDAwMDA1YjdkZTYxZGJkNDlhNzdkZmY5NGRjODNmMDlhZmU4ZA==`
+Snapshot ID: `Mjg1MzM3MjAsMDAwMDAwMDBiNzMxMDI1YWViZTg1MDgzZDExZWJkNmM1M2VlYWYwMw==`

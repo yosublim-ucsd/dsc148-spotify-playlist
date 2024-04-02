@@ -1,13 +1,29 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 63670,
+  "num_followers": 63668,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "MTgxNiwyNjZiZjIwNWFlNjcyZTIzY2VmOWJkOGQ2NGJlMzgyZjgxMGMxYjBj",
+  "snapshot_id": "MTgxNyxmNjI2ZmYyOTczODc5Y2Y5MTk4NGZjM2U5NWYwNWQyZWM4YmM0ZmRl",
   "tracks": [
+    {
+      "added_at": "2024-04-01 14:05:02",
+      "album": {
+        "name": "Tristesse",
+        "url": "https://open.spotify.com/album/1RiCsE4TpGZXwemtMWfLg7"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Tristesse",
+      "url": "https://open.spotify.com/track/5LZBJNHFun1mKDsDUZSA8b"
+    },
     {
       "added_at": "2024-03-01 12:45:21",
       "album": {

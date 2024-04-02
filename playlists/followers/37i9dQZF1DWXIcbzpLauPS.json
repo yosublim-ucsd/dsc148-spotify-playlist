@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 925123,
+  "2024-04-02": 925212,
   "date_first_scraped": "2021-12-21",
   "description": "Metalcore at its finest. Cover: The Ghost Inside",
   "name": "The Core",
@@ -379,10 +379,32 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 203510,
       "name": "A Pale Light Lingers (feat. Lochie Keogh)",
       "url": "https://open.spotify.com/track/03bMtNTGGn75YAMuiNT4zM"
+    },
+    {
+      "album": {
+        "name": "Death Is Little More",
+        "url": "https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        },
+        {
+          "name": "Lochie Keogh",
+          "url": "https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203510,
+      "name": "A Pale Light Lingers (feat. Lochie Keogh)",
+      "url": "https://open.spotify.com/track/0NuzLCfyqRnN8hAgw7rAPJ"
     },
     {
       "album": {

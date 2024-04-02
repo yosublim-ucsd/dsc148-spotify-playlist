@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Pedro Lotto
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,649 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,646 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Na Mídia](https://open.spotify.com/track/3TgpLBsZFo8DAe2JgUd3fV) | [Canalha](https://open.spotify.com/artist/6egerencVd9waJcHzuQA77), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Na Mídia](https://open.spotify.com/album/3SMwBuhATR0Go1qsWcqIkb) | 1:54 |
 | 75 | [Paris 6](https://open.spotify.com/track/2npRs0FZsaXmOmFD7cfInK) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Paris 6](https://open.spotify.com/album/46P5Oww3PaXpmWsAZe7kfS) | 2:41 |
 
-Snapshot ID: `MCw3ZWZlZDI3ZmI2ODZjZDJiNjIxYTI5OTQzOTU4MTliYjFmNjgwN2Mw`
+Snapshot ID: `MCw4NWQ3MDRjZGNhNTkzODYyYjZjOTdkYzAwZTJjYWEzNzAzZDQ3Zjgw`

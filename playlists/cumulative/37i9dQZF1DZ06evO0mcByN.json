@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 278573,
       "name": "Frente a Frente Com Deus",
       "url": "https://open.spotify.com/track/3DFZHSJMueqTwp4fU3InaY"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 238933,
       "name": "Mais Que Vencedor",
       "url": "https://open.spotify.com/track/5QUYNKUZAVpkDUijbPnQLo"
@@ -506,6 +506,24 @@
       "duration_ms": 393986,
       "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
       "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
+    },
+    {
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283760,
+      "name": "Marcas Na Trajet\u00f3ria",
+      "url": "https://open.spotify.com/track/1orWVvT1T0Y4MsTpXpPccU"
     },
     {
       "album": {
@@ -690,7 +708,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 315893,
       "name": "Saudade de Si\u00e3o",
       "url": "https://open.spotify.com/track/2JuXV7ohOGZPcMBQzXv8uq"

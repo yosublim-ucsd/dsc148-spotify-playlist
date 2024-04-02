@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MjgwODAsMDAwMDAwMDA2ZGU5NTIxYTI3MDkxYzU5ZTViZDhlYjY4NTdlYjNjYQ==",
+  "snapshot_id": "Mjg1MjgwODAsMDAwMDAwMDAyZGMzMjM3MjAzNjBlYjIzM2Q0ODZlZDI3NzIwMWQ1NQ==",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -95,34 +95,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
-        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        },
-        {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        }
-      ],
-      "duration_ms": 161369,
-      "name": "Texas Size Heartache",
-      "url": "https://open.spotify.com/track/47URQO0aQIA5sNThtfFbmQ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Wave That Flag (Demo) [2024 Remaster]",
         "url": "https://open.spotify.com/album/09NdfSCD0jLX3rUqZse28W"
       },
@@ -167,6 +139,34 @@
       "duration_ms": 293680,
       "name": "Roll Call",
       "url": "https://open.spotify.com/track/0vm6nY63TsIrnAgLQs8Wfj"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
+        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        },
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "duration_ms": 161369,
+      "name": "Texas Size Heartache",
+      "url": "https://open.spotify.com/track/47URQO0aQIA5sNThtfFbmQ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2dPo9buiY2Vx1q7zKMCuFE"
+      "duration_ms": 496000,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6j26hZrPv6MLYJMBPwv1hz"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Bulls On Parade (Leo Version)",
+        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 224704,
+      "name": "Bulls On Parade (Leo Version)",
+      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "dark days",
         "url": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 195075,
       "name": "The Collapse",
       "url": "https://open.spotify.com/track/53au4mPIzklrghlB2YOHYh"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Bulls On Parade (Leo Version)",
-        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 224704,
-      "name": "Bulls On Parade (Leo Version)",
-      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Triptyque : Lueurs c\u00e9lestes",
+        "url": "https://open.spotify.com/album/3Y4Fve4mKlaHzrDfnZ6XFo"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 125445,
+      "name": "Modernidad",
+      "url": "https://open.spotify.com/track/5GFO0iaogNFFKm5a3Acb7j"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Girls5eva Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/0lOoFKyv1oX6wUp6Jqi5pS"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 139500,
       "name": "Tap Into Your (Fort) Worth",
       "url": "https://open.spotify.com/track/7eSQr7gAkqiGhwK7vnoNNA"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Triptyque : Lueurs c\u00e9lestes",
-        "url": "https://open.spotify.com/album/3Y4Fve4mKlaHzrDfnZ6XFo"
-      },
-      "artists": [
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 125445,
-      "name": "Modernidad",
-      "url": "https://open.spotify.com/track/5GFO0iaogNFFKm5a3Acb7j"
     },
     {
       "added_at": "2024-03-29 04:00:00",

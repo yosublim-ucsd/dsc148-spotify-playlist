@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Waxahatchee
 
-631 songs - 1 day 15 hr 1 min
+632 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,8 @@
 | [Runaway Train](https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Polaroid Lovers](https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG) | 3:00 | 2024-01-26 |  |
 | [Rusty](https://open.spotify.com/track/14bk3wzV22GaMBx52kQXEd) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [The Hometown Kid](https://open.spotify.com/album/0BcZyoVBPOaZyjm8E4Kc4H) | 4:26 | 2022-11-18 | 2023-07-15 |
 | [Saint Anthony](https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Saint Anthony](https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A) | 2:43 | 2024-01-12 |  |
-| [Same Water](https://open.spotify.com/track/5bmpMZDDkpOr2bGPptSruW) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/4Scuu3Z6gDXBg2N5yNNcVS) | 4:20 | 2024-01-12 |  |
+| [Same Water](https://open.spotify.com/track/4AkEnAqd7PxIOyF72iWC09) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Mind, Man, Medicine](https://open.spotify.com/album/7u6SrRvhJLkIc3TIhjgHRy) | 4:20 | 2024-03-29 |  |
+| [Same Water](https://open.spotify.com/track/5bmpMZDDkpOr2bGPptSruW) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/4Scuu3Z6gDXBg2N5yNNcVS) | 4:20 | 2024-01-12 | 2024-04-02 |
 | [Same Water](https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo) | 4:20 | 2024-01-12 | 2024-02-04 |
 | [San Joaquin](https://open.spotify.com/track/7nP9n9SA5ciXDfO9b23FVK) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [San Joaquin](https://open.spotify.com/album/0fLgwVBGuJd8E3NcMyBhiG) | 2:37 | 2023-06-30 | 2023-07-22 |
 | [Sanctuary](https://open.spotify.com/track/4w5nZwiTpDMTVQdugsXWW7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Sanctuary](https://open.spotify.com/album/20lfleUVkws7cTsMiPD1aF) | 4:26 | 2021-12-17 | 2022-02-23 |

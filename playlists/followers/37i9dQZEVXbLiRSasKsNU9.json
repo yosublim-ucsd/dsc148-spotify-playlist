@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 1774086,
+  "2024-04-02": 1774145,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -403,7 +403,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
@@ -6469,7 +6469,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -7442,6 +7442,28 @@
     },
     {
       "album": {
+        "name": "B\u00e6rum Bitches (Mannschaft)",
+        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        },
+        {
+          "name": "Mannschaft",
+          "url": "https://open.spotify.com/artist/3AIknosYoaF6OgCcH10ZCy"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "B\u00e6rum Bitches (Mannschaft)",
+      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
+    },
+    {
+      "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
       },
@@ -7925,6 +7947,28 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "album": {
+        "name": "Carnival x Fein",
+        "url": "https://open.spotify.com/album/4bq61NqMQbxRji67qzdXeF"
+      },
+      "artists": [
+        {
+          "name": "offtopic",
+          "url": "https://open.spotify.com/artist/6fhVncKweuRwp1oucBCjj9"
+        },
+        {
+          "name": "afex",
+          "url": "https://open.spotify.com/artist/5qsOlAmrk4gDtJYlDzEbuG"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126671,
+      "name": "Carnival x Fein",
+      "url": "https://open.spotify.com/track/1PjFe5afpVknL7VEsnXZQA"
     },
     {
       "album": {
@@ -17634,6 +17678,24 @@
     },
     {
       "album": {
+        "name": "Pi\u015fman",
+        "url": "https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg"
+      },
+      "artists": [
+        {
+          "name": "Ayd\u0131n Kurto\u011flu",
+          "url": "https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196864,
+      "name": "Hay\u0131rl\u0131 G\u00fcnler",
+      "url": "https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt"
+    },
+    {
+      "album": {
         "name": "Love Soul",
         "url": "https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m"
       },
@@ -24889,7 +24951,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"

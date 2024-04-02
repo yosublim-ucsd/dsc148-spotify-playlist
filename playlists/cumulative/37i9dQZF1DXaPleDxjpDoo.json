@@ -185,6 +185,32 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6sVO3lBgVvpk7KZLFZ6dYa"
+      },
+      "artists": [
+        {
+          "name": "RA-UL",
+          "url": "https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt"
+        },
+        {
+          "name": "Silvia Blaser",
+          "url": "https://open.spotify.com/artist/7M1gJy5ByDgPxqJvMYkioq"
+        },
+        {
+          "name": "Pax Natura",
+          "url": "https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380622,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/4Vcdmfn5iWqNweNKQdpcx2"
+    },
+    {
+      "album": {
         "name": "Azure Forest",
         "url": "https://open.spotify.com/album/49rSBvAzxJoHaZsyYZwzvT"
       },
@@ -286,7 +312,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 131541,
       "name": "Calihue",
       "url": "https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM"
@@ -524,7 +550,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 203225,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/2OcR4AVhkv1aQl51LOrv7L"
@@ -730,6 +756,24 @@
       "duration_ms": 170086,
       "name": "Forest Awakens",
       "url": "https://open.spotify.com/track/5byEWvYqXJvyvIthJtIpHn"
+    },
+    {
+      "album": {
+        "name": "Peaceful Birdsong",
+        "url": "https://open.spotify.com/album/6ewtzNYqAL5bwBMH1unwq0"
+      },
+      "artists": [
+        {
+          "name": "Ennio Campbell",
+          "url": "https://open.spotify.com/artist/0TMiGw2GvOM7ck2akGDD8Z"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210013,
+      "name": "Forest Birdsong",
+      "url": "https://open.spotify.com/track/2oWFLyfz6eFrRSizoGgGof"
     },
     {
       "album": {
@@ -1004,7 +1048,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 287733,
       "name": "Inside the Heart",
       "url": "https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX"
@@ -1148,7 +1192,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 149646,
       "name": "Linden Trees",
       "url": "https://open.spotify.com/track/1akogVH6M2mv6LfHUJjCLz"
@@ -1350,6 +1394,24 @@
       "duration_ms": 228194,
       "name": "Morning Forest",
       "url": "https://open.spotify.com/track/4U8vdmjWXCy2kfwY86I7Eh"
+    },
+    {
+      "album": {
+        "name": "In Wonder",
+        "url": "https://open.spotify.com/album/0LN7ItqLuhqUo4dgyGpbzS"
+      },
+      "artists": [
+        {
+          "name": "Memories of the Forgotten",
+          "url": "https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Mountain Pathways",
+      "url": "https://open.spotify.com/track/5FpXTBkFxaefkGCN63aWHY"
     },
     {
       "album": {
@@ -1984,7 +2046,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 177600,
       "name": "Spiritual Being - Loopable with No Fade",
       "url": "https://open.spotify.com/track/1NLsqHq8E9ATTvTvrGgLOy"
@@ -2002,7 +2064,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 196161,
       "name": "The Bird's World",
       "url": "https://open.spotify.com/track/44sYTwlTFZ9R9V2dGmfd4v"
@@ -2038,7 +2100,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 163746,
       "name": "The Chilled Forest",
       "url": "https://open.spotify.com/track/54rhDr2tqu5HGEJxTbn8d7"
@@ -2290,7 +2352,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 271822,
       "name": "Visionary Dream - Sound Bath",
       "url": "https://open.spotify.com/track/4MoS88FhX9DzeCR4VO4kA1"
@@ -2315,6 +2377,24 @@
     },
     {
       "album": {
+        "name": "Whispering Canopy",
+        "url": "https://open.spotify.com/album/1QxW5XiqepKAqVMGaIlgxG"
+      },
+      "artists": [
+        {
+          "name": "Natural Sound Escapes",
+          "url": "https://open.spotify.com/artist/14BvO4zkMab4WlRfbqv5cM"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Whispering Canopy",
+      "url": "https://open.spotify.com/track/3FRVuAoD6XuYrRJDNoYbBl"
+    },
+    {
+      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC"
       },
@@ -2330,6 +2410,24 @@
       "duration_ms": 158000,
       "name": "Willow",
       "url": "https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp"
+    },
+    {
+      "album": {
+        "name": "With the Flow",
+        "url": "https://open.spotify.com/album/1yKVBgjfkVmAPPsRhGEBmi"
+      },
+      "artists": [
+        {
+          "name": "Park Leaf",
+          "url": "https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "With the Flow",
+      "url": "https://open.spotify.com/track/25ZH9ibNeaF3U5rK02Y2Up"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Reyna Tropical en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,057 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,060 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [NSQD](https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [NSQD](https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c) | 2:22 |
 | 50 | [DIABLITOS](https://open.spotify.com/track/40QnSqGiwRNwMZtmYA11bn) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [DIABLITOS](https://open.spotify.com/album/0prl9AhIS1qoqFLAibt2jS) | 2:39 |
 
-Snapshot ID: `MCwxZWM1NDY5YzM0YmYxYmMwYTNlZDNkNmRjYzIzMWE5MGE1YmU3ZDcy`
+Snapshot ID: `MCxlN2MxMmE5MTkzNjE2OGI3OTRiZDY1YzBmMWNlYjZiMTQ3OWY3N2Iw`

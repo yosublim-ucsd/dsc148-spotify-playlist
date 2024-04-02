@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 223261,
+  "2024-04-02": 223421,
   "date_first_scraped": "2022-01-21",
   "description": "The notes that will make you long for those days of yore.",
   "name": "Golden Instrumentals",
@@ -417,7 +417,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 166026,
       "name": "Ave Maria No Morro",
       "url": "https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG"
@@ -3643,7 +3643,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi"

@@ -54,7 +54,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 220000,
       "name": "3 x 3 (feat. Lexy Walter)",
       "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Bxtlla Rmx",
+        "url": "https://open.spotify.com/album/6qpAbRBVjdzTsxDtBMyc5y"
+      },
+      "artists": [
+        {
+          "name": "Roukhryz",
+          "url": "https://open.spotify.com/artist/7xOS7meo1MImtcCrvyYXpE"
+        },
+        {
+          "name": "Danycruzba",
+          "url": "https://open.spotify.com/artist/6FZaxemNspbkHCVaraaFKP"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Bxtlla Rmx",
+      "url": "https://open.spotify.com/track/3sp5F26Sf99aSXZoNCAbmR"
+    },
+    {
+      "album": {
         "name": "BYK",
         "url": "https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC"
       },
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 229125,
       "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
       "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
@@ -3345,6 +3367,32 @@
     },
     {
       "album": {
+        "name": "LATIGAZO",
+        "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "LATIGAZO",
+      "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
+    },
+    {
+      "album": {
         "name": "Le Encanta",
         "url": "https://open.spotify.com/album/1TV7WOBMrutnBWvDfkZA8G"
       },
@@ -3632,7 +3680,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 142895,
       "name": "Lopa Lopa",
       "url": "https://open.spotify.com/track/3wN2LYSmcj80zzXkHfbmTd"
@@ -4887,6 +4935,28 @@
     },
     {
       "album": {
+        "name": "Peliculear",
+        "url": "https://open.spotify.com/album/4uqoQrSBisFJUERyDmNW6H"
+      },
+      "artists": [
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Erick Rizzo",
+          "url": "https://open.spotify.com/artist/4mLsJPHfoxfOio0nhVLMEp"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187771,
+      "name": "Peliculear",
+      "url": "https://open.spotify.com/track/76g4vQcQSkijt5FQrBxx15"
+    },
+    {
+      "album": {
         "name": "Peligrosota",
         "url": "https://open.spotify.com/album/1mKBfFezxkA3e6KvNkdKwZ"
       },
@@ -5648,6 +5718,32 @@
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
+    },
+    {
+      "album": {
+        "name": "Quiere 2",
+        "url": "https://open.spotify.com/album/4XvIr02JwLOPUXfmj9ILRE"
+      },
+      "artists": [
+        {
+          "name": "Pa Torres",
+          "url": "https://open.spotify.com/artist/1DKAtGRoiKHQE9S5pxdag8"
+        },
+        {
+          "name": "Izzy Oh",
+          "url": "https://open.spotify.com/artist/3i3pc5ThXrpj3N8Tqzn6GA"
+        },
+        {
+          "name": "Dc8x8",
+          "url": "https://open.spotify.com/artist/2Oq1oWeO3Wp5x20riYqC4r"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "Quiere 2",
+      "url": "https://open.spotify.com/track/0oIiztg1iTCTbscxr15tfY"
     },
     {
       "album": {
@@ -6712,7 +6808,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 108545,
       "name": "Triple P",
       "url": "https://open.spotify.com/track/7E6bAEDidQY9pwRTwV2kVR"

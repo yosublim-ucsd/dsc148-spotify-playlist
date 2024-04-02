@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1867,
+  "num_followers": 1869,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjc1MGE4ZTc4YTQzZDU2OTcwZmZhNDZhMWJhNjQxNzhmYTRhMmQ0",
+  "snapshot_id": "MCxlNjgzMWFhMDE0YzQ2NjYyMjU3ODliN2IwMmIyZmRhN2I1Mjg3Y2Jj",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Mairzy Doats",
+      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Bing-His Legendary Years 1931-1957",
         "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
       },
@@ -191,42 +207,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "50th Anniversary Collection (Vol. 2)",
-        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Straighten Up And Fly Right - Single Version",
-      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Mairzy Doats",
-      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "16 Most Requested Songs Of The 1950s. Volume One",
         "url": "https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 178800,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "50th Anniversary Collection (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -331,26 +331,6 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
-        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Axel Stordahl And His Orchestra",
-          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
-      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 185200,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
+        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Axel Stordahl And His Orchestra",
+          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
+      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -483,18 +483,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+        "name": "The Board Of Directors",
+        "url": "https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH"
       },
       "artists": [
         {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 156733,
-      "name": "I'm Forever Blowing Bubbles",
-      "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
+      "duration_ms": 208052,
+      "name": "(Up A) Lazy River",
+      "url": "https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -515,22 +519,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
-        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
-      },
-      "artists": [
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Ain't Gonna Worry 'Bout a Soul",
-      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
@@ -547,22 +535,34 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Board Of Directors",
-        "url": "https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH"
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
       },
       "artists": [
         {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
         }
       ],
-      "duration_ms": 208052,
-      "name": "(Up A) Lazy River",
-      "url": "https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH"
+      "duration_ms": 156733,
+      "name": "I'm Forever Blowing Bubbles",
+      "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
+        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
+      },
+      "artists": [
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Ain't Gonna Worry 'Bout a Soul",
+      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -679,6 +679,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+      },
+      "artists": [
+        {
+          "name": "The De Castro Sisters",
+          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Kirby Stone Touch",
         "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Milestones of a Jazz Legend - Meets the Vocalists, Vol. 4",
-        "url": "https://open.spotify.com/album/3JW5jDInHzHfZjX2FpJ3hf"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "It's Sand, Man!",
-      "url": "https://open.spotify.com/track/1q71go9YGa3zQCAhnDtTzZ"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+        "name": "Milestones of a Jazz Legend - Meets the Vocalists, Vol. 4",
+        "url": "https://open.spotify.com/album/3JW5jDInHzHfZjX2FpJ3hf"
       },
       "artists": [
         {
-          "name": "The De Castro Sisters",
-          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+      "duration_ms": 148040,
+      "name": "It's Sand, Man!",
+      "url": "https://open.spotify.com/track/1q71go9YGa3zQCAhnDtTzZ"
     },
     {
       "added_at": "2020-08-17 22:49:59",

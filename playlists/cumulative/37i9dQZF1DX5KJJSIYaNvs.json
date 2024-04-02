@@ -3999,6 +3999,40 @@
     },
     {
       "album": {
+        "name": "Amar Singh Chamkila (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6qYvZs3N9bq5QetgEDT12S"
+      },
+      "artists": [
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        },
+        {
+          "name": "Pooja Tiwari",
+          "url": "https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307178,
+      "name": "Naram Kaalja",
+      "url": "https://open.spotify.com/track/3xlAxTbUzIf5BOcqLoD1El"
+    },
+    {
+      "album": {
         "name": "Naram Kaalja (From \"Amar Singh Chamkila\")",
         "url": "https://open.spotify.com/album/2SVjffw23nZoJRBrsfvORf"
       },
@@ -4030,7 +4064,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 307178,
       "name": "Naram Kaalja (From \"Amar Singh Chamkila\")",
       "url": "https://open.spotify.com/track/4NesN7Doft9RAVuLeFzWKX"
@@ -4450,7 +4484,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 200218,
       "name": "Param Sundari",
       "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
@@ -6030,6 +6064,32 @@
       "duration_ms": 250287,
       "name": "Tip Tip (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"
+    },
+    {
+      "album": {
+        "name": "Train Song (From \"Dukaan\")",
+        "url": "https://open.spotify.com/album/08KUPsRmH4JqatILgkxYiM"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213743,
+      "name": "Train Song (From \"Dukaan\")",
+      "url": "https://open.spotify.com/track/06psrgHygRumglJoLWpwwp"
     },
     {
       "album": {

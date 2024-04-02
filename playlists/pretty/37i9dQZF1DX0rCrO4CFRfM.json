@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 973092,
+  "num_followers": 973187,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDU4MjU3YTFhZDU1ZjlmZmRiMTc5NThiZDI4N2NiZjBlODE1ODVl",
+  "snapshot_id": "MCw1MzAwNWZhODliYTBiNzgxODgzODlkYjkyNDk0MDc0YTEyMTQ1MGU5",
   "tracks": [
     {
       "added_at": "2024-01-12 17:59:36",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Bad Life (acoustic)",
-        "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 220239,
-      "name": "Bad Life - acoustic",
-      "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "Into The Fire (Acoustic Version)",
         "url": "https://open.spotify.com/album/0k24UhmxDogFwBroGUDymg"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Bad Life (acoustic)",
+        "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 220239,
+      "name": "Bad Life - acoustic",
+      "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
     },
     {
       "added_at": "2024-01-12 17:59:36",

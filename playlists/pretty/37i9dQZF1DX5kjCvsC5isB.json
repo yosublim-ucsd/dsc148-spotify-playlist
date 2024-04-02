@@ -1,12 +1,12 @@
 {
   "description": "Women who rock our world. Cover: The Last Dinner Party",
-  "num_followers": 292669,
+  "num_followers": 292811,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjkyYzcyMjc5ZWRiNDYyYTY3NThlNTU1YmQwZThhNzYzNTg3MmE1",
+  "snapshot_id": "MCw3ZDY0ZDQ4MmQ2YjQzYzUzN2ZiZTk2NDZjNjMzNTIxNDU0OGMxNzY5",
   "tracks": [
     {
       "added_at": "2024-02-28 19:20:31",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Real Power",
-        "url": "https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 255253,
-      "name": "Real Power",
-      "url": "https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Real Power",
+        "url": "https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 255253,
+      "name": "Real Power",
+      "url": "https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "The CARR Show",
         "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 149106,
       "name": "Spiral City",
       "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 138679,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 138679,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 163785,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -927,22 +911,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 206667,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Raw Raw",
         "url": "https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0"
       },
@@ -959,18 +927,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
         }
       ],
-      "duration_ms": 183360,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2"
+      "duration_ms": 206667,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -987,6 +955,38 @@
       "duration_ms": 124029,
       "name": "girls just wanna have sex",
       "url": "https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "I Don't Want You Anymore",
-        "url": "https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb"
-      },
-      "artists": [
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Soft Like a Flower",
-      "url": "https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "I Don't Want You Anymore",
+        "url": "https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Soft Like a Flower",
+      "url": "https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "Created From Filth And Dust",
         "url": "https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 213000,
       "name": "100 Little Deaths",
       "url": "https://open.spotify.com/track/1iK6objrHYqNj6TjFhbEKJ"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 192681,
+      "name": "Worst Apology",
+      "url": "https://open.spotify.com/track/1EX0QsmFybon4jIGb5Q6Pl"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Worst Apology",
-      "url": "https://open.spotify.com/track/1EX0QsmFybon4jIGb5Q6Pl"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Cherry Picking",
         "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 150736,
       "name": "Cherry Picking",
       "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Playing Favorites",
+        "url": "https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq"
+      },
+      "artists": [
+        {
+          "name": "Sheer Mag",
+          "url": "https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1"
+        }
+      ],
+      "duration_ms": 185914,
+      "name": "Moonstruck",
+      "url": "https://open.spotify.com/track/4jKvi79CDhecACVRUVwOx3"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Playing Favorites",
-        "url": "https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq"
-      },
-      "artists": [
-        {
-          "name": "Sheer Mag",
-          "url": "https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1"
-        }
-      ],
-      "duration_ms": 185914,
-      "name": "Moonstruck",
-      "url": "https://open.spotify.com/track/4jKvi79CDhecACVRUVwOx3"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "scales",
         "url": "https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "The Pain",
-        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
-      },
-      "artists": [
-        {
-          "name": "Another Sky",
-          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "The Pain",
-      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 206470,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "The Pain",
+        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
+      },
+      "artists": [
+        {
+          "name": "Another Sky",
+          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "The Pain",
+      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 177168,
-      "name": "Hand Grenade",
-      "url": "https://open.spotify.com/track/4iPw0nNFPiYKY02oQhGTEz"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/4yJY4gKm1R8OsJN3C6tos1"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 164453,
       "name": "Falling for the Sky",
       "url": "https://open.spotify.com/track/4nDfJDZaUVtwOSnGROb2GN"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 177168,
+      "name": "Hand Grenade",
+      "url": "https://open.spotify.com/track/4iPw0nNFPiYKY02oQhGTEz"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Tornillo",
-        "url": "https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 93251,
-      "name": "Tornillo",
-      "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Love Goes On",
         "url": "https://open.spotify.com/album/30eJbXVjjtYtYtwkt337Sr"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 195226,
       "name": "Love Goes On",
       "url": "https://open.spotify.com/track/3xeyZGEEVW8SZPmteR9Fw6"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 93251,
+      "name": "Tornillo",
+      "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
     },
     {
       "added_at": "2024-02-28 19:20:31",

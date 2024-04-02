@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 16885,
+  "2024-04-02": 16894,
   "date_first_scraped": "2023-04-03",
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
   "name": "This Is Amy Grant",
@@ -933,7 +933,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 146516,
       "name": "Seek First",
       "url": "https://open.spotify.com/track/74ZTCzWhalSnYhpki3g0eZ"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 202568,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/3Jkzr61tN5efmiUGPYqI74"

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 49861,
+  "2024-04-02": 49862,
   "date_first_scraped": "2023-02-25",
   "description": "Het beste van Pinkpop en een greep uit de line-up van 2024",
   "name": "Pinkpop Best of - 2024",
@@ -3803,7 +3803,7 @@
       ],
       "date_added": "2019-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
@@ -7973,8 +7973,8 @@
       ],
       "date_added": "2019-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
-      "duration_ms": 204133,
+      "date_removed": null,
+      "duration_ms": 204128,
       "name": "Short Skirt / Long Jacket",
       "url": "https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"
     },

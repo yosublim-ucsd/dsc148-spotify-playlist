@@ -1,12 +1,12 @@
 {
   "description": "Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie-le bien fort, use tes cordes vocales !",
-  "num_followers": 46775,
+  "num_followers": 46817,
   "original_name": "Motiv\u00e9s ! Motiv\u00e9s !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThlZDA3YTQ5N2I4ZWZmYTc4OGVhZWYzMzk3MDAzZGYzNTk4ZGI0",
+  "snapshot_id": "MCwzNGJiNzA0ZTQyZDlhYTA4YWI1Y2M0Nzg4YjgyMTcwZWRkOWZkZDg5",
   "tracks": [
     {
       "added_at": "2023-10-06 17:05:31",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "Mamagubida",
-        "url": "https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL"
-      },
-      "artists": [
-        {
-          "name": "Tryo",
-          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "La main verte - Live",
-      "url": "https://open.spotify.com/track/6t84yOrkPAouma0bbGGYOO"
-    },
-    {
-      "added_at": "2023-10-06 17:05:31",
-      "album": {
         "name": "\u00d2ai E Libertat",
         "url": "https://open.spotify.com/album/1pIVpF6nz2h15csekrsiAQ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 232333,
       "name": "Mangez-moi ! Mangez-moi ! - Ragga Mix",
       "url": "https://open.spotify.com/track/34cT8Qvq2IYoqCQ3dlNvrW"
+    },
+    {
+      "added_at": "2023-10-06 17:05:31",
+      "album": {
+        "name": "Mamagubida",
+        "url": "https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL"
+      },
+      "artists": [
+        {
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "La main verte - Live",
+      "url": "https://open.spotify.com/track/6t84yOrkPAouma0bbGGYOO"
     },
     {
       "added_at": "2023-10-06 17:05:31",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
+        "name": "Allons voir",
+        "url": "https://open.spotify.com/album/6k0KTrq6hayLwdIQOfCtcq"
+      },
+      "artists": [
+        {
+          "name": "La Rue K\u00e9tanou",
+          "url": "https://open.spotify.com/artist/5RJtcUSgNu7Y3X9YmZDci9"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Le capitaine de la barrique",
+      "url": "https://open.spotify.com/track/68Mw9GeJ5pZHWKqeGtcIMu"
+    },
+    {
+      "added_at": "2023-10-06 17:05:31",
+      "album": {
         "name": "\u00c7a sent la bi\u00e8re",
         "url": "https://open.spotify.com/album/4jiVmehxYLlZCjHHzK33wW"
       },
@@ -255,18 +271,18 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "Allons voir",
-        "url": "https://open.spotify.com/album/6k0KTrq6hayLwdIQOfCtcq"
+        "name": "Grain de sable",
+        "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
       },
       "artists": [
         {
-          "name": "La Rue K\u00e9tanou",
-          "url": "https://open.spotify.com/artist/5RJtcUSgNu7Y3X9YmZDci9"
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
         }
       ],
-      "duration_ms": 217306,
-      "name": "Le capitaine de la barrique",
-      "url": "https://open.spotify.com/track/68Mw9GeJ5pZHWKqeGtcIMu"
+      "duration_ms": 229053,
+      "name": "Serre-moi",
+      "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
     },
     {
       "added_at": "2023-10-06 17:05:31",
@@ -299,22 +315,6 @@
       "duration_ms": 213133,
       "name": "Plantation",
       "url": "https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i"
-    },
-    {
-      "added_at": "2023-10-06 17:05:31",
-      "album": {
-        "name": "Grain de sable",
-        "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
-      },
-      "artists": [
-        {
-          "name": "Tryo",
-          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Serre-moi",
-      "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
     },
     {
       "added_at": "2023-10-06 17:05:31",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "Lave toi la bouche!",
-        "url": "https://open.spotify.com/album/5Nl6uturtkxYcbh36Adlnz"
-      },
-      "artists": [
-        {
-          "name": "Les Amis D'ta Femme",
-          "url": "https://open.spotify.com/artist/27zZxSk7AynBSC0XYiivLp"
-        }
-      ],
-      "duration_ms": 314666,
-      "name": "Cayenne",
-      "url": "https://open.spotify.com/track/5AqfidifdwIatLfJiIDHH0"
-    },
-    {
-      "added_at": "2023-10-06 17:05:31",
-      "album": {
         "name": "Billy Ze Kick Et Les Gamins En Folie",
         "url": "https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 151533,
       "name": "O C B",
       "url": "https://open.spotify.com/track/1Bnn7jDTqWroFl2hcgntWS"
+    },
+    {
+      "added_at": "2023-10-06 17:05:31",
+      "album": {
+        "name": "Lave toi la bouche!",
+        "url": "https://open.spotify.com/album/5Nl6uturtkxYcbh36Adlnz"
+      },
+      "artists": [
+        {
+          "name": "Les Amis D'ta Femme",
+          "url": "https://open.spotify.com/artist/27zZxSk7AynBSC0XYiivLp"
+        }
+      ],
+      "duration_ms": 314666,
+      "name": "Cayenne",
+      "url": "https://open.spotify.com/track/5AqfidifdwIatLfJiIDHH0"
     },
     {
       "added_at": "2023-10-06 17:05:31",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "Hawa\u00ef",
-        "url": "https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn"
-      },
-      "artists": [
-        {
-          "name": "Java",
-          "url": "https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi"
-        }
-      ],
-      "duration_ms": 265986,
-      "name": "Sex accord\u00e9on et alcool",
-      "url": "https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ"
-    },
-    {
-      "added_at": "2023-10-06 17:05:31",
-      "album": {
         "name": "Essence Ordinaire",
         "url": "https://open.spotify.com/album/7otu4JDWUXUIosul8HLfMF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 271093,
       "name": "Y' a pas d'arrangement",
       "url": "https://open.spotify.com/track/7sUzkDEQVDowGyLgyjTuDv"
+    },
+    {
+      "added_at": "2023-10-06 17:05:31",
+      "album": {
+        "name": "Hawa\u00ef",
+        "url": "https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn"
+      },
+      "artists": [
+        {
+          "name": "Java",
+          "url": "https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi"
+        }
+      ],
+      "duration_ms": 265986,
+      "name": "Sex accord\u00e9on et alcool",
+      "url": "https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ"
     },
     {
       "added_at": "2023-10-06 17:05:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "Dances of Resistance",
-        "url": "https://open.spotify.com/album/3EhDGfnsl1tRX5ZA62qpgA"
-      },
-      "artists": [
-        {
-          "name": "Babylon Circus",
-          "url": "https://open.spotify.com/artist/3crfLODQuodxW8R8iLqkPH"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "J'aurais bien voulu",
-      "url": "https://open.spotify.com/track/04sJ4GGfVm1fVpJvBQGngk"
-    },
-    {
-      "added_at": "2023-10-06 17:05:31",
-      "album": {
         "name": "La Chance.",
         "url": "https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 258173,
       "name": "Cergy",
       "url": "https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK"
+    },
+    {
+      "added_at": "2023-10-06 17:05:31",
+      "album": {
+        "name": "Dances of Resistance",
+        "url": "https://open.spotify.com/album/3EhDGfnsl1tRX5ZA62qpgA"
+      },
+      "artists": [
+        {
+          "name": "Babylon Circus",
+          "url": "https://open.spotify.com/artist/3crfLODQuodxW8R8iLqkPH"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "J'aurais bien voulu",
+      "url": "https://open.spotify.com/track/04sJ4GGfVm1fVpJvBQGngk"
     },
     {
       "added_at": "2023-10-06 17:05:31",

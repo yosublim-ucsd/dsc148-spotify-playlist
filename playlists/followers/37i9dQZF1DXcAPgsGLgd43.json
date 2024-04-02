@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 5966,
+  "2024-04-02": 5976,
   "date_first_scraped": "2022-05-13",
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
   "name": "Latin House",
@@ -375,7 +375,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 145800,
       "name": "Balan\u00e7a",
       "url": "https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F"
@@ -1579,6 +1579,32 @@
       "duration_ms": 221538,
       "name": "Envolvid\u00e3o",
       "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"
+    },
+    {
+      "album": {
+        "name": "Espantap\u00e1jaros (Captain Planet Remix)",
+        "url": "https://open.spotify.com/album/6hZ9Q3g6K6INboa4DFWglx"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265778,
+      "name": "Espantap\u00e1jaros - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/4m7PfIMZoBtdL4LZ0qtP8W"
     },
     {
       "album": {

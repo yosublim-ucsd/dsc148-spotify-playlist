@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,274 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,401 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [So Cold](https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [So Cold](https://open.spotify.com/album/0iCFyqcvr2DMB14ZdOX2M6) | 3:20 |
 | 100 | [All Over Again](https://open.spotify.com/track/20G9QEycg5HZOsJEbB35JW) | [Summa Jae](https://open.spotify.com/artist/1fftC0CPDPyJOjJQRLRNnM), [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE) | [All Over Again](https://open.spotify.com/album/16bK5p33etOPrPTg31uRIV) | 2:44 |
 
-Snapshot ID: `MCxlYzE4NzdjZWFmYTRlM2RlMjU1M2RjMTExMzRmNDUxYzAwNDc0ZWEy`
+Snapshot ID: `MCwwN2M0MzE2YjBhZjA4NGJhMGY3N2YyNTc0YzQwMzA3YmExMjVlNjhl`

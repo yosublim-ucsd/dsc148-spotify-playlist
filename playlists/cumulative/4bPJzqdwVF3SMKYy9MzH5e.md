@@ -4,7 +4,7 @@
 
 > 
 
-1,883 songs - 4 day 5 hr 35 min
+1,884 songs - 4 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [A Fool Moon Night](https://open.spotify.com/track/0NIZWVJdeGizq0SkwTLwfT) | [THE KOXX](https://open.spotify.com/artist/0o7EzfVASiH8ws8bwYEqqv) | [ENTER](https://open.spotify.com/album/2BGvfWitMmZpO3ZjJx7ftH) | 4:36 | 2021-08-05 |  |
 | [A Girl Named Drool and a Pack of Kools](https://open.spotify.com/track/4ITKXtvVKlf8yrzGvaFa3r) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Grey Sheep II](https://open.spotify.com/album/1aVnxqszPG45yn2nFsVQRS) | 2:54 | 2021-08-05 |  |
 | [A Good Song Never Dies](https://open.spotify.com/track/5K43AHQPTJTqlyRZ3uBGKz) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 3:21 | 2022-11-24 |  |
+| [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 | 2024-04-01 |  |
 | [A Loving Feeling](https://open.spotify.com/track/5usQET86kxSpLdk7iCP1pw) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 1:32 | 2022-10-17 |  |
 | [A Match Into Water](https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:32 | 2021-08-05 |  |
 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 | 2021-08-05 |  |

@@ -2,7 +2,7 @@
 
 ### [Country Drive](https://open.spotify.com/playlist/37i9dQZF1DXdfhOsjRMISB)
 
-> Country music to accompany you on the open road\. Cover: Kelsea Ballerini
+> Country music to accompany you on the open road\. Cover: Cody Johnson
 
 371 songs - 20 hr 34 min
 

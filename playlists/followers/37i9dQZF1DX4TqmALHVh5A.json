@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 44446,
+  "2024-04-02": 44461,
   "date_first_scraped": "2023-09-29",
   "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Luther",
   "name": "Courant Alternatif",
@@ -1401,10 +1401,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 220882,
       "name": "Les gar\u00e7ons",
       "url": "https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd"
+    },
+    {
+      "album": {
+        "name": "R\u00eave parti",
+        "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
+      },
+      "artists": [
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Les gar\u00e7ons",
+      "url": "https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6"
     },
     {
       "album": {

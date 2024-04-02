@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 17438,
+  "2024-04-02": 17446,
   "date_first_scraped": "2021-12-29",
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=23DKVGDdQx2UwAtMSwcAWA\">Prime Circle</a>",
   "name": "SA Rock ",
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 241110,
       "name": "Brainmash",
       "url": "https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y"
@@ -4243,6 +4243,24 @@
       "duration_ms": 229561,
       "name": "Laatnag-sonop-koebaai",
       "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
+    },
+    {
+      "album": {
+        "name": "Langs Die Straat",
+        "url": "https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj"
+      },
+      "artists": [
+        {
+          "name": "Juan Griffith",
+          "url": "https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211578,
+      "name": "Langs Die Straat",
+      "url": "https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5"
     },
     {
       "album": {

@@ -2740,7 +2740,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 133714,
       "name": "EIGHT LEGGED",
       "url": "https://open.spotify.com/track/6pM0CoDyHqKpsESjf9V17Z"
@@ -4849,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/3MEfKyZl5vDX7kvS3mM6n3"
+      },
+      "artists": [
+        {
+          "name": "MNDLB5",
+          "url": "https://open.spotify.com/artist/4dLZTad0O8DMQJTjUorTqk"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138880,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/15eRqPcU5fljo3m8tLkyfV"
+    },
+    {
+      "album": {
         "name": "Keraunos",
         "url": "https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A"
       },
@@ -5574,6 +5592,32 @@
       "duration_ms": 153982,
       "name": "Lord Forgive Me",
       "url": "https://open.spotify.com/track/3AzPxdm8SRYNdsc7v1bpEj"
+    },
+    {
+      "album": {
+        "name": "lost cause!",
+        "url": "https://open.spotify.com/album/77LNJ6CN8Fji6317zKPPP8"
+      },
+      "artists": [
+        {
+          "name": "Yung Zime",
+          "url": "https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp"
+        },
+        {
+          "name": "ILLXSION",
+          "url": "https://open.spotify.com/artist/1hTmnnajpUWBkxJeiwmZWn"
+        },
+        {
+          "name": "acronym.",
+          "url": "https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134594,
+      "name": "lost cause!",
+      "url": "https://open.spotify.com/track/1vyBKmJooi5Zdx1SBeotHQ"
     },
     {
       "album": {
@@ -8476,7 +8520,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 109325,
       "name": "SKULLcrusher",
       "url": "https://open.spotify.com/track/7fDHtRKuVKXU555SsX8hAc"
@@ -8916,7 +8960,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 141821,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/7cHLNVPQuIEAnSm6oixdnv"
@@ -8946,7 +8990,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 195600,
       "name": "SPIRIT OF THUNDER",
       "url": "https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44"

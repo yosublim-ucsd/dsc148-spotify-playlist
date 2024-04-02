@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 678083,
+  "num_followers": 678196,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzViZDE2Njg0NTRlMzRkZDY3ODAwOThiYjZiNWM3NmU2NTc4OTlh",
+  "snapshot_id": "MCw1MWFmZjQzNTA5OGNmMGFjOWU5ZjdhM2IyMzhmZGI0OGI4Y2YwYzA3",
   "tracks": [
     {
       "added_at": "2024-02-06 15:45:26",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Bang! (Here Comes A Supernova)",
+        "url": "https://open.spotify.com/album/5LpKLoUmnnE3TVzoEjdrmm"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 443234,
+      "name": "Relax - New York Mix",
+      "url": "https://open.spotify.com/track/4UIUegq1Mp3XFXW0M9b4im"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Remixed (2003 Remaster)",
         "url": "https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 379333,
       "name": "It's My Life - Extended Mix; 2003 Remaster",
       "url": "https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Bang! (Here Comes A Supernova)",
-        "url": "https://open.spotify.com/album/5LpKLoUmnnE3TVzoEjdrmm"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 443234,
-      "name": "Relax - New York Mix",
-      "url": "https://open.spotify.com/track/4UIUegq1Mp3XFXW0M9b4im"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 403533,
+      "name": "Just Can't Get Enough - Schizo Mix",
+      "url": "https://open.spotify.com/track/2A35YdnOHsNX9YsyYq5Vx6"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Never Ending Story",
         "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 365440,
       "name": "Get Down On It - Original 12\" Extended Version",
       "url": "https://open.spotify.com/track/15K0cU9Fm55h3AAALKrc3v"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 369693,
-      "name": "Material Girl - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
     }
   ],
   "unique_name": "12\" Classics",

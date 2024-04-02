@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm just a girl updating a playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,001 likes - 918 songs - 2 day 0 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,207 likes - 918 songs - 2 day 0 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -357,7 +357,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 347 | [people pleaser \- higher & faster](https://open.spotify.com/track/4ujYFnZw9B8lUQG4W305HP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [people pleaser \(higher & faster\)](https://open.spotify.com/album/6JKimNcUW0lsJze5e61SXX) | 1:58 |
 | 348 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
 | 349 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
-| 350 | [Never Let Me Down Again](https://open.spotify.com/track/7iSX49ON0dUjOcU260nVK1) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Never Let Me Down Again](https://open.spotify.com/album/5j9NrtMAfGuEc7dqz59tU1) | 4:23 |
+| 350 | [Never Let Me Down Again](https://open.spotify.com/track/3QqONU0GW4byIClquChyf0) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:20 |
 | 351 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
 | 352 | [Victoria's Secret \- Sped Up Version](https://open.spotify.com/track/2ZDVBd7dVE7LUkzRJ4Z33k) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Victoria's Secret \(Sped Up Version\)](https://open.spotify.com/album/73BWmrIrBkdIFIASQC2PZN) | 2:16 |
 | 353 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
@@ -927,4 +927,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 917 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 918 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCxmNDVhMDgyNWU5MjkxYjk1MzljMTZlMzRiYzJhMjk2YTkzYWQ2ODVj`
+Snapshot ID: `MCw3MTZjOWFmNWVkNmUzY2Y0MTVhYWUyYWVlNTU1NjFmNTE3YThlMGE4`

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 184156,
+  "2024-04-02": 184190,
   "date_first_scraped": "2022-05-26",
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
   "name": "La Pozoliza",
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 168045,
       "name": "El Agua Clara",
       "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
@@ -2937,7 +2937,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 174173,
       "name": "No Me Beses",
       "url": "https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,421 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,498 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Favela](https://open.spotify.com/track/3HdOI6RkAnkt9kyEsPkh28) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Favela](https://open.spotify.com/album/3sOX8un9UoYA2KCcxywEqa) | 2:41 |
 | 50 | [Messina Denaro \(feat\. Sapobully\)](https://open.spotify.com/track/1PBR22wA2xcXshjistfEyb) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Messina Denaro \(feat\. Sapobully\)](https://open.spotify.com/album/1ax9vzC4s5alEjiZCseYh8) | 2:57 |
 
-Snapshot ID: `MCw3MmNlMzc5MTNjMDViNDljNWQ0NGJjOWVjNDcwZDg5MTAxNGI2ZDc2`
+Snapshot ID: `MCxhZTg3MDMxYzQyYThjZjEyN2NkNzc4ZjgwNGQ4YjdhYmIzMWE0NGM4`

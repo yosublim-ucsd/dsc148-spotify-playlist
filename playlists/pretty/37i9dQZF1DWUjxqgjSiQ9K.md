@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:202VnAr2CvQpJJrYXK78jk">Sarai Rivera</a> y <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,958 likes - 104 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,164 likes - 104 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 103 | [Milagro de Amor](https://open.spotify.com/track/4FkwzleyGqcBmEqrFZ8RKz) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Milagro de Amor](https://open.spotify.com/album/4soGJLVgt9IQI5rT98ZxUa) | 3:15 |
 | 104 | [El Rey Judío](https://open.spotify.com/track/26uRpmqdNBbm2x8lWhxT4p) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [El Rey Judío](https://open.spotify.com/album/3EpigUb6xOe8aTV9MWQmiN) | 5:33 |
 
-Snapshot ID: `MCw0OTU2OTI1NmJiMDVkNjdhMThiMmZmNGY5Nzc0MmYzYWIyMDU2YTM3`
+Snapshot ID: `MCxmN2ZkNjgxNTcwN2E1MzlhNGE4MzY0ZGU2MDkzNzE0NTljY2UxMWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Canicule
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,291 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,307 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Kisakiin 2](https://open.spotify.com/track/5Ky2DYvP6eghOlMKDBrf0Z) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6), [Guerschon Auguste](https://open.spotify.com/artist/63Y0TO5l5USyZpQPZFEOso), [DJ Horg](https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR) | [Kisakiin 2](https://open.spotify.com/album/4cJxnexHD3nYEX6bOqmWuw) | 3:30 |
 | 75 | [MACHETE 2 \(Masasi\)](https://open.spotify.com/track/3ZvAGglWF7RPO7V79GNOAE) | [Deuzeus](https://open.spotify.com/artist/2KMthShLYbRTCpnEsGufqn) | [MACHETE 2 \(Masasi\)](https://open.spotify.com/album/4f4FVqHgcjS4VtL8IT5IAl) | 2:41 |
 
-Snapshot ID: `MCxiYTFlOWVlODgzYzNiNDAxNjZlYTA2NDIxZTk3ZTM1MjEwMTYzZDcx`
+Snapshot ID: `MCxkNDY0NWMxYjM5ZWMwYWU2NGVjODk0MzdhMDViMWYxYmM0NmFiZmUz`

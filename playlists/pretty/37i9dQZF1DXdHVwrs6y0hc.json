@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 79789,
+  "num_followers": 79848,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmVmYTg2MDA3YmVlNmU3ZTJiZmRiMTk3ZWE2OTM4ZWU4ZTQ3MDFm",
+  "snapshot_id": "MCxjOTg0ZjdmYTNlMWQ5NTRhZGUyMjZlMDg1YzRjZjQ5MTkxM2FkZjdl",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -143,38 +143,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/1qaEHYE8Li6SKfLF6m1XDo"
-      },
-      "artists": [
-        {
-          "name": "The High Kings",
-          "url": "https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "As I Roved Out",
-      "url": "https://open.spotify.com/track/15oMf5nmBRkBNfSzxLyQ3f"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Drunken Sailor",
-        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
-      },
-      "artists": [
-        {
-          "name": "The Irish Rovers",
-          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "The Dublin Pub Crawl",
-      "url": "https://open.spotify.com/track/78nceFqT22hjM0pLjQh1Lg"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "The Best Of The Dubliners",
         "url": "https://open.spotify.com/album/14p25ZN9xDdhJP5Vkn1NG1"
       },
@@ -187,6 +155,22 @@
       "duration_ms": 178240,
       "name": "Molly Malone",
       "url": "https://open.spotify.com/track/6K5kPhYPbLNkkdyvyjzP3t"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/1qaEHYE8Li6SKfLF6m1XDo"
+      },
+      "artists": [
+        {
+          "name": "The High Kings",
+          "url": "https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "As I Roved Out",
+      "url": "https://open.spotify.com/track/15oMf5nmBRkBNfSzxLyQ3f"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -207,18 +191,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Orchard",
-        "url": "https://open.spotify.com/album/7aUKDSAEpvc7b2SEnPAzX7"
+        "name": "Drunken Sailor",
+        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
       },
       "artists": [
         {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
         }
       ],
-      "duration_ms": 223791,
-      "name": "Wild Mountain Thyme",
-      "url": "https://open.spotify.com/track/1Kue1YD3a8ANnrcS4o87Cc"
+      "duration_ms": 268800,
+      "name": "The Dublin Pub Crawl",
+      "url": "https://open.spotify.com/track/78nceFqT22hjM0pLjQh1Lg"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -235,6 +219,22 @@
       "duration_ms": 159320,
       "name": "Merrily Kissed The Quaker",
       "url": "https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "The Orchard",
+        "url": "https://open.spotify.com/album/7aUKDSAEpvc7b2SEnPAzX7"
+      },
+      "artists": [
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "duration_ms": 223791,
+      "name": "Wild Mountain Thyme",
+      "url": "https://open.spotify.com/track/1Kue1YD3a8ANnrcS4o87Cc"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
-      },
-      "artists": [
-        {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "The Black Velvet Band",
-      "url": "https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Noel Mcloughlin: Ireland",
         "url": "https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "The Black Velvet Band",
+      "url": "https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Irish Folk: Adieu to Old Ireland",
         "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Many's The Fine Tale",
-        "url": "https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz"
-      },
-      "artists": [
-        {
-          "name": "Ed Miller",
-          "url": "https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "The Lads O' The Fair",
-      "url": "https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Man for Galway: The Best of Sean Tyrrell",
         "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Many's The Fine Tale",
+        "url": "https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz"
+      },
+      "artists": [
+        {
+          "name": "Ed Miller",
+          "url": "https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "The Lads O' The Fair",
+      "url": "https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Pied Pipers: Music from Ireland and Scotland",
         "url": "https://open.spotify.com/album/1JZFHcBPvTORsQTrfh12At"
       },
@@ -531,34 +531,6 @@
       "duration_ms": 261333,
       "name": "Parcel of Rogues",
       "url": "https://open.spotify.com/track/4Ad3hhjcW4ci2VsZEg4NPH"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Kieran Fahy: Irish Fiddle - Man From the West",
-        "url": "https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Philip Masure",
-          "url": "https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F"
-        },
-        {
-          "name": "Patrick Michiels",
-          "url": "https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N"
-        },
-        {
-          "name": "Kieran Fahy",
-          "url": "https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF"
-        }
-      ],
-      "duration_ms": 165893,
-      "name": "The Whole Chicken in the Soup - The Crooked Road",
-      "url": "https://open.spotify.com/track/1XseuQQQgFa3Ge2ReHbnSX"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -591,6 +563,50 @@
       "duration_ms": 248250,
       "name": "The Reason I Left Mullingar",
       "url": "https://open.spotify.com/track/69BIUIZZ8xIYJhQ0t1eY1J"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Kieran Fahy: Irish Fiddle - Man From the West",
+        "url": "https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Philip Masure",
+          "url": "https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F"
+        },
+        {
+          "name": "Patrick Michiels",
+          "url": "https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N"
+        },
+        {
+          "name": "Kieran Fahy",
+          "url": "https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "The Whole Chicken in the Soup - The Crooked Road",
+      "url": "https://open.spotify.com/track/1XseuQQQgFa3Ge2ReHbnSX"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Sean Tyrrell Live at Greenes",
+        "url": "https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV"
+      },
+      "artists": [
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "duration_ms": 248659,
+      "name": "Sweet Ballyvaughaan - Live",
+      "url": "https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -635,22 +651,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Sean Tyrrell Live at Greenes",
-        "url": "https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV"
-      },
-      "artists": [
-        {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
-        }
-      ],
-      "duration_ms": 248659,
-      "name": "Sweet Ballyvaughaan - Live",
-      "url": "https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Tara: Irish Songs (Paddy Dreaming)",
         "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
       },
@@ -663,6 +663,38 @@
       "duration_ms": 231400,
       "name": "The Charladies' Ball",
       "url": "https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "duration_ms": 342200,
+      "name": "The Flower of Finea",
+      "url": "https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "20 Best Irish Songs",
+        "url": "https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ"
+      },
+      "artists": [
+        {
+          "name": "Noel McLoughlin",
+          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
+        }
+      ],
+      "duration_ms": 172450,
+      "name": "The Ferryman",
+      "url": "https://open.spotify.com/track/22UgQjOvNowrKCJ7lgkY1r"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -708,38 +740,6 @@
           "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
         }
       ],
-      "duration_ms": 342200,
-      "name": "The Flower of Finea",
-      "url": "https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "20 Best Irish Songs",
-        "url": "https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ"
-      },
-      "artists": [
-        {
-          "name": "Noel McLoughlin",
-          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
-        }
-      ],
-      "duration_ms": 172450,
-      "name": "The Ferryman",
-      "url": "https://open.spotify.com/track/22UgQjOvNowrKCJ7lgkY1r"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
-      },
-      "artists": [
-        {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
-        }
-      ],
       "duration_ms": 168413,
       "name": "The Mickey Dam",
       "url": "https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB"
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Music & Ballads from Ireland",
+        "url": "https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl"
+      },
+      "artists": [
+        {
+          "name": "Noel McLoughlin",
+          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Unicorns",
+      "url": "https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Ireland: Tales of Our Land",
         "url": "https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 235026,
       "name": "Mickey Free / The Mountain Road",
       "url": "https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Music & Ballads from Ireland",
-        "url": "https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl"
-      },
-      "artists": [
-        {
-          "name": "Noel McLoughlin",
-          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Unicorns",
-      "url": "https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9"
     },
     {
       "added_at": "2021-04-26 15:38:07",

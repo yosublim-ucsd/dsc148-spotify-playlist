@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Shaapit: The Cursed",
+        "url": "https://open.spotify.com/album/63LMMLbw96iKJ2pSsJuatw"
+      },
+      "artists": [
+        {
+          "name": "Aditya Narayan",
+          "url": "https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376049,
+      "name": "Kabhi Na Kabhi",
+      "url": "https://open.spotify.com/track/1fnyJEbolobEfv2gtLVjmA"
+    },
+    {
+      "album": {
         "name": "Yeh Jawaani Hai Deewani",
         "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
       },

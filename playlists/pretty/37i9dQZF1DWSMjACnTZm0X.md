@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD?si=wgwCtwNER4\-GZ0\-Ll20kVQ">Stefflon Don</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,362 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,386 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 5 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
 | 6 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 |
 | 7 | [No Suffer \(3am in Jozi\)](https://open.spotify.com/track/4CHdozuiZ8q5ZjUqeYNjs8) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [No Suffer \(3am in Jozi\)](https://open.spotify.com/album/5M6D9F6tKvTroGFZBi6z1D) | 3:36 |
-| 8 | [Holy Father](https://open.spotify.com/track/59iCcjlrj25sslexuin6HU) | [Mayten](https://open.spotify.com/artist/2sSEXOWzN8oX21V0m7pSk5) | [Holy Father](https://open.spotify.com/album/0kljfz9uC9F0cbWIVvwnQ4) | 3:57 |
+| 8 | [Holy Father](https://open.spotify.com/track/59iCcjlrj25sslexuin6HU) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K) | [Holy Father](https://open.spotify.com/album/0kljfz9uC9F0cbWIVvwnQ4) | 3:57 |
 | 9 | [CLEAR](https://open.spotify.com/track/10UV0GA408i11E6eSloCb4) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Clear / Rinse & Repeat](https://open.spotify.com/album/646oxcwrISUFht8JJV0N07) | 2:40 |
 | 10 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
 | 11 | [Yakunay](https://open.spotify.com/track/2PKThuOwwDMNhqh4UyVNWH) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Yakunay](https://open.spotify.com/album/7sFabzFIwrdInO0AGVc3Qu) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Amsterdam](https://open.spotify.com/track/1hf69oGe91RtdLyqa02eb2) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Amsterdam](https://open.spotify.com/album/0uJmIR7ar4aEZL5piNEE1A) | 6:18 |
 | 50 | [Narcos \(feat\. J Slayz\)](https://open.spotify.com/track/3gbDq9fLBXr6GZS1rle02N) | [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Narcos \(feat\. J Slayz\)](https://open.spotify.com/album/04S8TIvnPg34Sj4RXHA3Q6) | 8:00 |
 
-Snapshot ID: `MCwyNjQ1ODUxMTYzMThmNDEzMjNkMmE1OWJjYWFlMWI0NDI3YTI0YzI2`
+Snapshot ID: `MCxiOWVlZmFhYjJiZmE0ZDZhOTcyYjJkMjdmYzFhOTcwNzIxZjg4ODNj`

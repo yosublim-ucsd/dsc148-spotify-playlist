@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Seven Lions, ILLENIUM, ÁSDÍS
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,969 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,993 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Off Your Feet](https://open.spotify.com/track/5Pc4EIFIV7SAWW7AFG4UoY) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Off Your Feet](https://open.spotify.com/album/1813xCcbDcuZKudopbav6g) | 3:25 |
 | 70 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 
-Snapshot ID: `MCwyNzhiM2UwOTgwYTlhZTNlYmM1NTA0NjQ0YWZmZGM5ZjZhMzQxMDVm`
+Snapshot ID: `MCw3YTEzMThiMzJiYTUyY2M1YmM3OWRlMTE2YjFkYWJhOTYzNDc2NDQw`

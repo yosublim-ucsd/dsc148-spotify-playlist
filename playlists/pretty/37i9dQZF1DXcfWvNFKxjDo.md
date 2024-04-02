@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Tiësto, MOGUAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,428 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,484 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [Rich Kid](https://open.spotify.com/track/5TiztG5eAccPJaBbAZ18O3) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Rich Kid](https://open.spotify.com/album/1iHmTWtGMR3TKyXayS2dbz) | 2:12 |
 | 80 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 |
 
-Snapshot ID: `MCxjNzhmYWJlZjdkYmU0ZjBkZWYzMWQ3ODg0MTliYmJlYTQ3N2FmYWQz`
+Snapshot ID: `MCw1ODAyMGNlYmQ2ZWYwZGU0NjE5NjZkMDJhZWNiOGI1YzhkODQzNWQw`

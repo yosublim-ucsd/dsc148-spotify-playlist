@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > pure pop sauce\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,536 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,576 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 49 | [Shape of Me \(feat\. Keith Urban\)](https://open.spotify.com/track/6xm5pE5LehFMPUaSDdxpDp) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Shape of Me \(feat\. Keith Urban\)](https://open.spotify.com/album/297EN4H5vStS80LqMdG9pV) | 2:48 |
 | 50 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
 
-Snapshot ID: `MCwxOWUzOGQzZTU1OGJjNWE2MTFjOWUzMDBkMDc0MTRmZWNmNzcyMjhm`
+Snapshot ID: `MCxlNjBkYmRiZmMzNDZiNDRlNWE0MmI5YTc1MWFhODQ4NzU2YmZmOWI0`

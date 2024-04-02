@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: CHARLOT
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,060 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,065 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [Celeste](https://open.spotify.com/track/43Bumpxqzt5AsQjSZWcp8A) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Honeycomb Shades](https://open.spotify.com/album/7omXNhCNZQn5DFs0kSjoY9) | 2:52 |
 | 60 | [So Good It Hurts](https://open.spotify.com/track/3rh3cFQpZzkK61kupGoY2C) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Good News](https://open.spotify.com/album/4e2ipO4RcYGGHXf0eBgAnR) | 3:20 |
 
-Snapshot ID: `MCw5ZjA4M2UxZGYyN2Q1OGRlYjlkMzM0OTdkZGQ1MzlmZWQyMDliNDVj`
+Snapshot ID: `MCxlOTRkNDg4YzkyZDdjMzdiOWJkOGZjOWUyY2JiOGVkMGFlMTAzZmJl`

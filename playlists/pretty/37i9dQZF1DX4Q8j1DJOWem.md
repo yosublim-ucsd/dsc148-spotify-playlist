@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: Newery
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,967 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,036 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ใครก็ดีกว่าฉัน \(not me\)](https://open.spotify.com/track/3diTflmcNMJkLgqiW3MN0G) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ใครก็ดีกว่าฉัน \(not me\)](https://open.spotify.com/album/3vklMAlwVFAduoXNvig4x3) | 4:02 |
-| 2 | [คนที่รู้สึกไปแล้ว](https://open.spotify.com/track/1sJXbMJRe7kK9ysf7w29T9) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [คนที่รู้สึกไปแล้ว](https://open.spotify.com/album/1cLKpaFcJGgmDSfgXmnyOu) | 3:35 |
+| 1 | [คนที่รู้สึกไปแล้ว](https://open.spotify.com/track/1sJXbMJRe7kK9ysf7w29T9) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [คนที่รู้สึกไปแล้ว](https://open.spotify.com/album/1cLKpaFcJGgmDSfgXmnyOu) | 3:35 |
+| 2 | [ใครก็ดีกว่าฉัน \(not me\)](https://open.spotify.com/track/3diTflmcNMJkLgqiW3MN0G) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ใครก็ดีกว่าฉัน \(not me\)](https://open.spotify.com/album/3vklMAlwVFAduoXNvig4x3) | 4:02 |
 | 3 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 |
 | 4 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
 | 5 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 29 | [Beautiful](https://open.spotify.com/track/3eCPoj189vDT8ltJvoOvHK) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [PERSES FIRST EP MY TIME](https://open.spotify.com/album/0XNIQbcMBIXSIal5BeBcoK) | 3:21 |
 | 30 | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/track/330spX93u5K5XINCCJzko3) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP) | 4:22 |
 
-Snapshot ID: `MCw0MmExNzQzMmIwYWVkNjk0ZWJhYzJlMjZmYjRjODVkNjJjOGM4OGY2`
+Snapshot ID: `MCwyYjlhZjVhYTQxY2QyNGUyMjFkMGJkYmFiNzc5M2VhOGVkZTVkYTc1`

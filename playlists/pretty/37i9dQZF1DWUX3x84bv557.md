@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: FLEUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,956 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,962 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 6 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
 | 7 | [Laatste Trein](https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Laatste Trein](https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG) | 2:48 |
 | 8 | [Een Beatle & Een Stone](https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Achtentwintig \(Deluxe\)](https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq) | 3:10 |
-| 9 | [Ga En Groei](https://open.spotify.com/track/1sPY1rVNG2eMZRmFBDgHGr) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ga En Groei](https://open.spotify.com/album/1hKX2VOb6eNcKk9jNAhuqA) | 2:45 |
-| 10 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 |
-| 11 | [Stick To Your Ways](https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 2:22 |
-| 12 | [Vliegtuigmodus](https://open.spotify.com/track/4H4O3fDyHXgTWXqSbvBFyV) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Jongen Uit De Stad](https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr) | 2:24 |
-| 13 | [Wasted](https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Wasted](https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4) | 2:40 |
-| 14 | [Ralphie](https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd), [Ghazi](https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK) | [Ralphie](https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf) | 2:41 |
+| 9 | [Ralphie](https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd), [Ghazi](https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK) | [Ralphie](https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf) | 2:41 |
+| 10 | [Ga En Groei](https://open.spotify.com/track/1sPY1rVNG2eMZRmFBDgHGr) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ga En Groei](https://open.spotify.com/album/1hKX2VOb6eNcKk9jNAhuqA) | 2:45 |
+| 11 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 |
+| 12 | [Stick To Your Ways](https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 2:22 |
+| 13 | [Vliegtuigmodus](https://open.spotify.com/track/4H4O3fDyHXgTWXqSbvBFyV) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Jongen Uit De Stad](https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr) | 2:24 |
+| 14 | [Wasted](https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Wasted](https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4) | 2:40 |
 | 15 | [diesel](https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [diesel](https://open.spotify.com/album/2TSmOypnsga9cVJVtiHQHg) | 2:57 |
 | 16 | [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 |
 | 17 | [Horizon](https://open.spotify.com/track/1zIUkRxrVNmxn4f9358j36) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Horizon](https://open.spotify.com/album/5U0JwQjxRaJQU4eAqLV1qx) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Meisjes lopen sneller](https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Meisjes lopen sneller](https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx) | 3:36 |
 | 60 | [Niet Alleen](https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Niet Alleen](https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX) | 2:54 |
 
-Snapshot ID: `MCxhMGQ4Y2NkOThjNTg2ZTA2NmQxOTBkNzQyMDk4OGRjMWZjZTQyZTJj`
+Snapshot ID: `MCxlMzJhMjkzNTEyMWIyY2Q3MDFjMTliMjU2MDNmZjhkNDk0MmJkYjg4`

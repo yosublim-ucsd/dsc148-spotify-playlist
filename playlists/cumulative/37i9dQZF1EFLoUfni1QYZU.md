@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-124 songs - 7 hr 45 min
+125 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,11 +41,12 @@
 | [House On Fire](https://open.spotify.com/track/3pK3TlcPa0fzpvlj8dmW6d) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:01 | 2023-12-13 |  |
 | [Human](https://open.spotify.com/track/3zr5liODTQ9fdtrDOPatiS) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:29 | 2022-09-08 |  |
 | [I Better Love You](https://open.spotify.com/track/2jFd3RbfyLbGAZz822QcKN) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Trust \- EP](https://open.spotify.com/album/6jYfRAJmHkycharyGlu9yC) | 3:16 | 2022-09-08 |  |
+| [I'll Do It](https://open.spotify.com/track/0wzpZiA98xlWnRvqXadMBO) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Ayesha.FM](https://open.spotify.com/album/33TvUK8kGWO1azjPHwo7gJ) | 3:33 | 2024-04-01 |  |
 | [I'll Do It](https://open.spotify.com/track/54TtC7panYEEymLPoHZI1X) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [I'll Do It](https://open.spotify.com/album/5qmrI4QzGtnHZ82fIFD3MZ) | 3:33 | 2023-06-09 | 2023-06-29 |
 | [I'll Do It](https://open.spotify.com/track/3BhTustDGXOU8l9JcFhAoa) | [Ayesha Erotica](https://open.spotify.com/artist/7gQJXKyZX1Wwqpd82lB9Xy) | [whore1234](https://open.spotify.com/album/3zMQGfWBTanmtjLcsf4vPX) | 3:33 | 2023-08-08 | 2024-01-25 |
 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 | 2022-09-08 |  |
 | [I'll Do It](https://open.spotify.com/track/5Gy8YH9BWsmuwRejNvGOwo) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/1aRgeeKy6eddP18FXgK2aK) | 3:33 | 2024-02-09 | 2024-02-18 |
-| [I'll Do It](https://open.spotify.com/track/42RyAUeVOnn2umPYFpdhOi) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/2jfViE17oVo9pNtxv2OvLd) | 3:33 | 2024-02-17 |  |
+| [I'll Do It](https://open.spotify.com/track/42RyAUeVOnn2umPYFpdhOi) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/2jfViE17oVo9pNtxv2OvLd) | 3:33 | 2024-02-17 | 2024-04-02 |
 | [I'll Do It](https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm) | [Lucky Charms](https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3), [6SIXSIX](https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2) | [I'll Do It](https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q) | 2:07 | 2023-05-08 | 2023-06-10 |
 | [I'll Do It \(feat\. iGodzilla\)](https://open.spotify.com/track/7l5VYsDwOo3oWvUgVZOb9T) | [2kMay](https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt), [iGodzilla](https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez) | [I'll Do It \(feat\. iGodzilla\)](https://open.spotify.com/album/7JhP1WxaFHyKAO1HBaykN9) | 3:33 | 2023-12-13 | 2024-01-21 |
 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/6tQHMzPvzsebxCWD3vxJpN) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious Vol\. 5](https://open.spotify.com/album/3f7P6z4G8Xtg9c1EycOEI5) | 3:58 | 2022-09-08 | 2023-03-11 |

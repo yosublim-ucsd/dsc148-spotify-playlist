@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VEM FAN E DU!?
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,315 likes - 96 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,406 likes - 96 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 95 | [Hon vill ha mig](https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Hon vill ha mig](https://open.spotify.com/album/1e1V1uzBnslJr81ZrPcXAq) | 2:19 |
 | 96 | [En birra har aldrig](https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En birra har aldrig](https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r) | 2:27 |
 
-Snapshot ID: `MCxhNjA5ZTg4N2JkNGQxNmFiNGE1MDY5Yjc3MTcwNzYwNzVjZGEzOTFi`
+Snapshot ID: `MCw4ODI4YjAwMDRmYWE2NWQ1YzJkOTY2M2FjNzA2MWUyNmFkYmI1ZWVh`

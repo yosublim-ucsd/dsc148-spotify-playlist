@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,439 likes - 111 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,475 likes - 111 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 87 | [American High](https://open.spotify.com/track/0dfBhD0Cp8PvrScwz7DqNa) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [American High](https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV) | 2:58 |
 | 88 | [TOMORROW](https://open.spotify.com/track/0snus7MgjLAoqQf5Xnaeea) | [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Beautiful Dystopia](https://open.spotify.com/album/3k0GYvtMOsbP3AErW5b7LI) | 2:22 |
 | 89 | [Sketch](https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Cinema Pt\. 2](https://open.spotify.com/album/2CPsUAUJvUIFuqK5zlQZa9) | 3:17 |
-| 90 | [Good Night \(feat\. Claire Young\)](https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/2EAeGGLucN4aHbThuV2MgA) | [Good Night](https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh) | 3:31 |
+| 90 | [Good Night \(feat\. Claire Young\)](https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Good Night](https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh) | 3:31 |
 | 91 | [Panoramic View](https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Panoramic View](https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz) | 3:52 |
 | 92 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 |
 | 93 | [AMAMA](https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA) | 3:10 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Second Gear](https://open.spotify.com/track/4rt9bnHdMk636bZk80yX4M) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Second Gear](https://open.spotify.com/album/21vErs9lrBQ3JRhwvXq5fI) | 3:06 |
 | 111 | [Wannabesad Song](https://open.spotify.com/track/4yqxny2mF54hWTaYaixHt3) | [Door Plant](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Wannabesad Song](https://open.spotify.com/album/7GPhrj2rvTB4wwqLX8UnzQ) | 3:05 |
 
-Snapshot ID: `MCw1YjMxMTU2OGYwMzRiNzliNGU1MTFkNWY4NmZhOThhMDkzMjc0MWY1`
+Snapshot ID: `MCxiNWJlOWViOTQyMGI0NzQzZTc4NGVmMTVhNTdkNjUwNGFhNjc2M2Yw`

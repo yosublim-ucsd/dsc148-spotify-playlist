@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,978 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,021 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Lorella Cuccarini](https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U) | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA) | 2:22 |
 | 55 | [Avaria](https://open.spotify.com/track/25d0v0TOdM0KS99R4uK6bd) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Avaria](https://open.spotify.com/album/7wLjcMg51NTWXNSJ1gloyQ) | 2:33 |
 
-Snapshot ID: `MCw1ZGY3NjU4MDc3MTUyZTI1MmM5ZDUyM2QzNTBjNDBhYWI3ZDUzYWJk`
+Snapshot ID: `MCw1NzliYTU4ZGIxZjNjNWVmMjZkMzIyMjc4ZDMzZWEwYjQ2M2RlMzY5`

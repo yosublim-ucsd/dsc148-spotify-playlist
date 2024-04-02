@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Crumb
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,044 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,036 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [THE RUNAROUND](https://open.spotify.com/track/5S2t7uGKhP8GjUsJeVwv57) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [THE RUNAROUND](https://open.spotify.com/album/3p7WqXW7b0edoEZkgHU0gL) | 4:10 |
 | 100 | [Modern Woman](https://open.spotify.com/track/3OUjbRqPyGKp0IVb68nrWQ) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Modern Woman](https://open.spotify.com/album/3yr6yMwfok0uo07Nf94Qvu) | 4:09 |
 
-Snapshot ID: `MCxhZTUzMWYzODA4MjFjN2UwZTAxNjU0YTYyZjQ5MmJiOTBhYTVhYzE3`
+Snapshot ID: `MCxhYjgzNDIyODA5YmFjYmQ0ZjI4MWMwZmQ0ZjJiMzc1MzMzYWI2ZWM2`

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 274447,
+  "2024-04-02": 274483,
   "date_first_scraped": "2021-12-21",
   "description": "Slide and steel. Set your soundtrack to some moody, gritty blues folk.",
   "name": "Acoustic Grit",
@@ -186,6 +186,24 @@
     },
     {
       "album": {
+        "name": "Bluesy Swagger",
+        "url": "https://open.spotify.com/album/7MR6u8qEC5xfbFmBiCdrIs"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225844,
+      "name": "Big Boss Man",
+      "url": "https://open.spotify.com/track/2B3polmfjGWukRHCdMYpSh"
+    },
+    {
+      "album": {
         "name": "The Northern South, Vol. 1",
         "url": "https://open.spotify.com/album/0qvm65mwPYGTQL33VxDJ3X"
       },
@@ -197,7 +215,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 225844,
       "name": "Big Boss Man",
       "url": "https://open.spotify.com/track/6YZm2uEonZWcnOO2Uo2Fyb"

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 196601,
+  "2024-04-02": 196626,
   "date_first_scraped": "2023-03-18",
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
   "name": "This Is Bethel Music",
@@ -565,7 +565,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 519770,
       "name": "I Belong To Jesus - Live",
       "url": "https://open.spotify.com/track/0mhKPUIHNEz4tuWNxNEqCS"
@@ -1167,6 +1167,28 @@
       "duration_ms": 89013,
       "name": "Rest (Interlude)",
       "url": "https://open.spotify.com/track/1IYcZ692RWOq5Qb4BPuqAR"
+    },
+    {
+      "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451297,
+      "name": "Show Me Your Face (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 76354,
+  "num_followers": 76400,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmI4NjQxZTQxMDlmZmZkZGQyMzQ5NWQ2Y2Q0NGNhMWRiZDQ2NmFl",
+  "snapshot_id": "MCw5NjYzMWY1NGQyNzc3N2E2NDZiM2M5MzY4ODA1Nzk5OTdlZmQzMWYz",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "La Orilla de Mi Pelo",
-        "url": "https://open.spotify.com/album/6NtCvKJZsZG1QqCJVMeOhy"
+        "name": "Como la flor prometida",
+        "url": "https://open.spotify.com/album/6MtEj11uhuk1uNP1RAOyxz"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
         }
       ],
-      "duration_ms": 215493,
-      "name": "Cuando Te Beso",
-      "url": "https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP"
+      "duration_ms": 217226,
+      "name": "Entre mis recuerdos",
+      "url": "https://open.spotify.com/track/6Z8Q8zSG6xpIKAyH0Z77wb"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Se acabo",
-        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
+        "name": "La Orilla de Mi Pelo",
+        "url": "https://open.spotify.com/album/6NtCvKJZsZG1QqCJVMeOhy"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Se acab\u00f3",
-      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
+      "duration_ms": 215493,
+      "name": "Cuando Te Beso",
+      "url": "https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Como la flor prometida",
-        "url": "https://open.spotify.com/album/6MtEj11uhuk1uNP1RAOyxz"
+        "name": "Se acabo",
+        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
       },
       "artists": [
         {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
         }
       ],
-      "duration_ms": 217226,
-      "name": "Entre mis recuerdos",
-      "url": "https://open.spotify.com/track/6Z8Q8zSG6xpIKAyH0Z77wb"
+      "duration_ms": 182466,
+      "name": "Se acab\u00f3",
+      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "duration_ms": 201386,
+      "name": "Un a\u00f1o de amor",
+      "url": "https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Otra Piel",
         "url": "https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
-      },
-      "artists": [
-        {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Un a\u00f1o de amor",
-      "url": "https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "La Inimitable",
         "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
       },
@@ -467,6 +467,54 @@
       "duration_ms": 208666,
       "name": "A Tu Vera",
       "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Marinero De Luces",
+        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Hoy Quiero Confesarme",
+      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "En directo",
+        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
+      },
+      "artists": [
+        {
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Beso a beso... dulcemente",
+      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -507,70 +555,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Marinero De Luces",
-        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Hoy Quiero Confesarme",
-      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Tan Solo Una Mujer",
-        "url": "https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Jurado",
-          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Se nos rompi\u00f3 el amor",
-      "url": "https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
-      },
-      "artists": [
-        {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Mari Trini Con los Panchos",
         "url": "https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "Tan Solo Una Mujer",
+        "url": "https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Jurado",
+          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Se nos rompi\u00f3 el amor",
+      "url": "https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "20 A\u00f1os De Amor",
         "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
       },
@@ -619,38 +619,6 @@
       "duration_ms": 266986,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "Hazme Tuya una Vez Mas",
-      "url": "https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -671,34 +639,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Una estrella en mi jard\u00edn",
-        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
       },
       "artists": [
         {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
         }
       ],
-      "duration_ms": 303826,
-      "name": "Una estrella en mi jard\u00edn",
-      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Grandes exitos",
-        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Sarandonga",
-      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
+      "duration_ms": 367973,
+      "name": "Hazme Tuya una Vez Mas",
+      "url": "https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -719,6 +671,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Seguir viviendo",
         "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
       },
@@ -735,6 +703,38 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "Grandes exitos",
+        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Sarandonga",
+      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Una estrella en mi jard\u00edn",
+        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 303826,
+      "name": "Una estrella en mi jard\u00edn",
+      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Mis Mejores Canciones",
         "url": "https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 265000,
       "name": "Como Tu Mujer",
       "url": "https://open.spotify.com/track/48FyOW0CTVaPLFnWmOYDzB"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Canciones Que Me Gustan",
-        "url": "https://open.spotify.com/album/31pLRCgAvn48nOyHaAUI8V"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 261720,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/4gKxEptjLjBU32F7po9wdN"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -795,6 +779,22 @@
       "duration_ms": 305106,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Canciones Que Me Gustan",
+        "url": "https://open.spotify.com/album/31pLRCgAvn48nOyHaAUI8V"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 261720,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/4gKxEptjLjBU32F7po9wdN"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Mis Mejores Canciones",
-        "url": "https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8"
-      },
-      "artists": [
-        {
-          "name": "Gracia Montes",
-          "url": "https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Soy Una Feria",
-      "url": "https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Mujeres de M\u00fasica",
         "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 243386,
       "name": "El Talism\u00e1n",
       "url": "https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Mis Mejores Canciones",
+        "url": "https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8"
+      },
+      "artists": [
+        {
+          "name": "Gracia Montes",
+          "url": "https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Soy Una Feria",
+      "url": "https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "La Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 226506,
       "name": "Lagrimas Negras (with Diego \"El Cigala\")",
       "url": "https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2023-08-28 17:02:49",

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 347,
+  "2024-04-02": 347,
   "date_first_scraped": "2023-06-18",
   "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
   "name": "This Is Felicity Urquhart",
@@ -675,7 +675,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 199880,
       "name": "I Fall",
       "url": "https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 192226,
       "name": "Summerfly",
       "url": "https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn"
@@ -1803,7 +1803,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 126866,
       "name": "You Can't Break My Heart",
       "url": "https://open.spotify.com/track/4ONAoZUWmzDHrp3nLFpuxf"

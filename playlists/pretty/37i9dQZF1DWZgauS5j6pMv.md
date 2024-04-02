@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: TWRP
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,695 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,753 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 4 | [Keep It High](https://open.spotify.com/track/23xaHEMtIg6AamiSOh5AXI) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Keep It High](https://open.spotify.com/album/1ukkIgYlPtLdceJKTTGqIV) | 3:54 |
 | 5 | [The Influencers](https://open.spotify.com/track/0SlZtFKCvY6hLjDNEgGQMe) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Fantaazma](https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Westcoast Stone](https://open.spotify.com/artist/57rHgqodIDand2TzQgqcmm) | [The Influencers](https://open.spotify.com/album/0KjHXHl5skSrt07K2ejxcn) | 4:37 |
 | 6 | [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 |
-| 7 | [Current](https://open.spotify.com/track/1pOMyqOEI7dSDWuLFbu6Na) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo), [Jack Howard](https://open.spotify.com/artist/4HSvWWbFUwMhNCCxPeFAtR) | [Current](https://open.spotify.com/album/6XxJvm6Bct3nwwNo9Df6Xq) | 2:21 |
+| 7 | [Current](https://open.spotify.com/track/1pOMyqOEI7dSDWuLFbu6Na) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Jack Howard](https://open.spotify.com/artist/4HSvWWbFUwMhNCCxPeFAtR) | [Current](https://open.spotify.com/album/6XxJvm6Bct3nwwNo9Df6Xq) | 2:21 |
 | 8 | [Atlanta](https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Atlanta](https://open.spotify.com/album/6daZUauCIOcopysTBj9CVj) | 3:03 |
 | 9 | [No Way Around It](https://open.spotify.com/track/65AYAfDtAXpEx3AYgdobPK) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [RoneyBoys](https://open.spotify.com/artist/6Udsi9z7n5Ucvf781MzgjY) | [No Way Around It](https://open.spotify.com/album/3K9GvH6NNuohRjrKHFfqmB) | 3:11 |
 | 10 | [Dumpalltheguns \- Feat\. Danielle Ponder](https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dumpalltheguns \(Feat\. Danielle Ponder\)](https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Bullseye](https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Bullseye](https://open.spotify.com/album/5Xl95STYauCnKb1qvbt1mm) | 2:17 |
 | 100 | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 |
 
-Snapshot ID: `MCxhMTFhNTlkNzUwMWI1ZDU0OTVkMTVkY2ZmMmY1YjQwNmM1Y2I0YTEz`
+Snapshot ID: `MCw0ZTVjM2Y1NzY2MThkZmVjNzBmNGEyNTQ5ODkyYWNjM2YwMzU0M2I1`

@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 86704,
+  "2024-04-02": 86724,
   "date_first_scraped": "2023-01-15",
   "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
   "name": "Sticky Floors",
@@ -57,6 +57,24 @@
       "duration_ms": 140546,
       "name": "Baby Drummer",
       "url": "https://open.spotify.com/track/1HW8Eci2TSMF9EaVZHnNzj"
+    },
+    {
+      "album": {
+        "name": "Bad Nerves",
+        "url": "https://open.spotify.com/album/2bs2CFgfCEYfNCwfholBYd"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140546,
+      "name": "Baby Drummer",
+      "url": "https://open.spotify.com/track/3AL0jiB2Ix2u6x1MKMNcQv"
     },
     {
       "album": {
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 151822,
       "name": "Sha Sha Sha",
       "url": "https://open.spotify.com/track/7BFwBubozsalZrZKGUAYJq"

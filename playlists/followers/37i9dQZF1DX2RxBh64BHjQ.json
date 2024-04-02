@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 2771639,
+  "2024-04-02": 2771676,
   "date_first_scraped": "2021-12-21",
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:23xFbA9rYgRX8mreqysWPc\">Bossman Dlow</a>",
   "name": "Most Necessary",
@@ -15643,7 +15643,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 189381,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/5UmhZBA3l1Mss9n1d0KEDD"
@@ -15665,6 +15665,24 @@
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
+    },
+    {
+      "album": {
+        "name": "Mega Star",
+        "url": "https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189387,
+      "name": "Leaving the Lot",
+      "url": "https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT"
     },
     {
       "album": {

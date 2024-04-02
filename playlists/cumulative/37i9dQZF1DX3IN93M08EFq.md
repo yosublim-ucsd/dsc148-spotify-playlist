@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-136 songs - 8 hr 8 min
+137 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Jag är en vampyr](https://open.spotify.com/track/4nXeZFbbcZNvX4nHMJR5xJ) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Markusevangeliet](https://open.spotify.com/album/3fWDtHxl6iVkvm4ECIDnQc) | 4:17 | 2021-06-15 | 2022-11-12 |
 | [Jerk It Out](https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Love For The Streets](https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal) | 3:15 | 2021-06-15 |  |
 | [Jonny Boy](https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW) | [III](https://open.spotify.com/album/566D06wiMbyLObuhYOPFM5) | 3:25 | 2021-06-15 | 2023-03-16 |
-| [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 | 2021-06-15 |  |
+| [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2021-06-15 |  |
+| [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 | 2021-06-15 | 2024-04-02 |
 | [Kalla mig](https://open.spotify.com/track/2nGgvKTQd3NwhWrsVVVC5n) | [Vapnet](https://open.spotify.com/artist/6Kn2gxWalcQLBXJzuUXN0a) | [Vapnet](https://open.spotify.com/album/2ODz1zg6tqTedTWhuL8kOJ) | 4:39 | 2021-06-15 | 2022-07-29 |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2021-06-15 |  |
 | [Koka\-Kola Veins](https://open.spotify.com/track/75ap5Fce8d9LXSwuBgVC0s) | [The Tough Alliance](https://open.spotify.com/artist/4ps52NgTUPV9accMr5TMBw) | [The New School](https://open.spotify.com/album/2bZ46L0o0qtL3Z48D2egWX) | 4:03 | 2021-06-15 | 2022-07-29 |

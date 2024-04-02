@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:42CNqtkx9yd1cIg0E6E9rL">vibes em análise</a>
+> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:0TAMn2YGFdRgi3odrRdlQG">O quem tem na sua carteira?</a>
 
 0 song - 0 sec
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,411 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,645 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 |
 | 50 | [Mister Romantic](https://open.spotify.com/track/7axEJkECTvAt6D12Lvt718) | [MC One](https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Mister Romantic](https://open.spotify.com/album/4YZad4HqvIRKTAFgdRLmrt) | 3:20 |
 
-Snapshot ID: `MCxjZGQyZGNjZmFiMDVlYWNmMjAyMzY5OWExNjg2MmRiYWQ1MDc0Zjkx`
+Snapshot ID: `MCw2MTQ2NTNhNWU3NWM0YjUyMzdhN2Y0YmU2NWY4MGZlNjczZWI2MWUz`

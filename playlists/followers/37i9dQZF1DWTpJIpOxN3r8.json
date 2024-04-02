@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 91146,
+  "2024-04-02": 91160,
   "date_first_scraped": "2023-04-07",
   "description": "Sonidos de lluvia para descansar y dormir.",
   "name": "Lluvia para Dormir",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 171000,
       "name": "Back Alley Rainstorm",
       "url": "https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 191548,
       "name": "Distracted by the Rain",
       "url": "https://open.spotify.com/track/5DwOYaWXl1ksN5WVRa8ZGs"

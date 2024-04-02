@@ -1,12 +1,12 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos",
-  "num_followers": 276659,
+  "num_followers": 276756,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWY3YjE0ZTQxNTExNjU1YzY2Mzc5ZmMzODI2MTBiOTVkZjhjZGZi",
+  "snapshot_id": "MCxiNTBmNWU0OGYxN2U5MjQzMDMzOWRmZTVjZDBlMjU5YjM1YTFiZTAw",
   "tracks": [
     {
       "added_at": "2019-09-04 23:38:38",
@@ -155,6 +155,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "El Alma Joven",
+        "url": "https://open.spotify.com/album/4hHp9T1rXDszlmY3up1fNq"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/00rGmWgFkJ3qBnbAVUr8tj"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -171,6 +187,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Antolog\u00eda. . . Los Solitarios",
+        "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Nada de tu amor",
+      "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
       },
@@ -183,22 +215,6 @@
       "duration_ms": 234493,
       "name": "Mi Forma De Sentir",
       "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "El Alma Joven",
-        "url": "https://open.spotify.com/album/4hHp9T1rXDszlmY3up1fNq"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/00rGmWgFkJ3qBnbAVUr8tj"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -247,22 +263,6 @@
       "duration_ms": 205813,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Antolog\u00eda. . . Los Solitarios",
-        "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Nada de tu amor",
-      "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -523,6 +523,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Antolog\u00eda. . . Los Freddy's",
+        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "D\u00e9jenme llorar - Con banda",
+      "url": "https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "40 Aniversario (Componente 1)",
         "url": "https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 197920,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/66nefjRgrIOjrUKCnKZJPq"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Tesoros De Colecci\u00f3n - Solo Para Enamorados",
-        "url": "https://open.spotify.com/album/2VJGuUziW86OlMjaL9p5JX"
-      },
-      "artists": [
-        {
-          "name": "Los So\u00f1adores",
-          "url": "https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i"
-        }
-      ],
-      "duration_ms": 137853,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/47BX8KEYwLKHHjssDYfmZy"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -571,18 +571,18 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Antolog\u00eda. . . Los Freddy's",
-        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+        "name": "Tesoros De Colecci\u00f3n - Solo Para Enamorados",
+        "url": "https://open.spotify.com/album/2VJGuUziW86OlMjaL9p5JX"
       },
       "artists": [
         {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+          "name": "Los So\u00f1adores",
+          "url": "https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i"
         }
       ],
-      "duration_ms": 157600,
-      "name": "D\u00e9jenme llorar - Con banda",
-      "url": "https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B"
+      "duration_ms": 137853,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/47BX8KEYwLKHHjssDYfmZy"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -811,22 +811,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Tan Cerca ... Tan Lejos",
-        "url": "https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Divina Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Serie 3X4 (Los Angeles Negros, Altemar Dutra, Carlos Lico)",
         "url": "https://open.spotify.com/album/1S1zJAXDxGM6HqXMj1aS7F"
       },
@@ -891,18 +875,34 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We"
+        "name": "Tan Cerca ... Tan Lejos",
+        "url": "https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj"
       },
       "artists": [
         {
-          "name": "Gualberto Castro",
-          "url": "https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 237066,
-      "name": "Hasta Que Vuelvas",
-      "url": "https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg"
+      "duration_ms": 248266,
+      "name": "Divina Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Roma (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Ciudad Perdida",
+      "url": "https://open.spotify.com/track/0lywm4XToptnQjfpzS9vks"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -923,18 +923,18 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Roma (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5"
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We"
       },
       "artists": [
         {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+          "name": "Gualberto Castro",
+          "url": "https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Ciudad Perdida",
-      "url": "https://open.spotify.com/track/0lywm4XToptnQjfpzS9vks"
+      "duration_ms": 237066,
+      "name": "Hasta Que Vuelvas",
+      "url": "https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg"
     },
     {
       "added_at": "2019-09-04 23:38:38",

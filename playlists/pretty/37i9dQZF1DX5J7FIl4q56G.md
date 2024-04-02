@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: While She Sleeps
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,681 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,725 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Someone Else's Skin](https://open.spotify.com/track/1PyiDkyqibz6IAHbHs4hIA) | [Sorcerer](https://open.spotify.com/artist/2x8EjPnpXK19ZNVgoWuFAm) | [Someone Else's Skin](https://open.spotify.com/album/3sZ6AOSPfOsjixDRagpJYH) | 7:05 |
 | 50 | [Flatline](https://open.spotify.com/track/3zRGIcv1XTIrk2Pr2xDtZ2) | [Pale Path](https://open.spotify.com/artist/7guXfR9IZ23NkaKn0OdpvD) | [Flatline](https://open.spotify.com/album/473PanjbY8T8xiGn7wBuir) | 4:32 |
 
-Snapshot ID: `MCw3MzNmOTUyZWRjNjQ3NTc5N2VlYWNmMjMzNGI2NDA3ODhlOGQ5Yjc5`
+Snapshot ID: `MCw4YjQ5NDU2MjNmNTk3NjZiZmFlNTEyZTA2M2NjYzFjN2NhMzE1M2Ni`

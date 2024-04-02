@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Beyonce, Camila Cabello, j\-hope, 野田洋次郎 & kZm and more! cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,328 likes - 83 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,358 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 82 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 |
 | 83 | [The Song Of You](https://open.spotify.com/track/6qPPNp1IXn5StfE3SrCbw1) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [The Song Of You](https://open.spotify.com/album/6Ad7G1yO4M0ub2ijUkbszq) | 2:10 |
 
-Snapshot ID: `MCxhYTNiZGYwMWRmY2Y1NTI3YWU2NGI1Yzk1ZTI0MWU5MGFiZmQ0YWEx`
+Snapshot ID: `MCxmNTZhYTBjODQ2NDBiZDNmNDRlZGRiOGVmNzZhMzExY2VhNDJlZjVj`

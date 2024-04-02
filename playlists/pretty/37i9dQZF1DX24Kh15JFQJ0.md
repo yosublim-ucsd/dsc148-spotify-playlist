@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,449 likes - 190 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,451 likes - 190 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 126 | [Busted](https://open.spotify.com/track/2kuOsKK8W1fd6jWJh0u7O7) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 3:28 |
 | 127 | [Things You Can't Live Without \(with Travis Tritt\)](https://open.spotify.com/track/4DMtfdorMz6ShoAi9jDxhw) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Things You Can't Live Without \(with Travis Tritt\)](https://open.spotify.com/album/2CqH8nKS2YzxNgJwwmB03b) | 3:25 |
 | 128 | [Country Pie](https://open.spotify.com/track/7saHu3eotJFSeo6TAFkvoD) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Dirt Does Dylan](https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T) | 2:49 |
-| 129 | [Higher](https://open.spotify.com/track/2T75yzrR6z0ciGATKZUaBA) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:15 |
+| 129 | [Higher](https://open.spotify.com/track/2T75yzrR6z0ciGATKZUaBA) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:15 |
 | 130 | [Patsy Cline Crazy](https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Patsy Cline Crazy](https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt) | 3:49 |
 | 131 | [And Then Some](https://open.spotify.com/track/0nGPgNejfosCvKVEUD8Gim) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [And Then Some](https://open.spotify.com/album/4COlxVYEBIH2TVtqCbAMeF) | 3:50 |
 | 132 | [Take It Like a Man](https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Milestone](https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9) | 4:02 |
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 144 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 |
 | 145 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 |
 | 146 | [Blue Bonnet Breeze](https://open.spotify.com/track/0wSRvzs3I0Dig07ejN2jiZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 5:19 |
-| 147 | [Alive and Well](https://open.spotify.com/track/0v8sLiENEGf74NqaF4HRZV) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:19 |
+| 147 | [Alive and Well](https://open.spotify.com/track/0v8sLiENEGf74NqaF4HRZV) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:19 |
 | 148 | [Every Little Honky Tonk Bar](https://open.spotify.com/track/64Zm9wNGj6coqg4zsb0Soj) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Every Little Honky Tonk Bar](https://open.spotify.com/album/3YPIY3nVjvhEGX9yRwwYx6) | 3:14 |
 | 149 | [Smoke In A Bar](https://open.spotify.com/track/3LP1WoisvGEGM68Qp37q7h) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Smoke In A Bar](https://open.spotify.com/album/2QwX4bWQZQsjHm9cyksvS7) | 4:22 |
 | 150 | [Forever Young](https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Forever Young](https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb) | 4:16 |
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 173 | [Easy Goin](https://open.spotify.com/track/6AoFAz2zZRdC43mzVU01Sf) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Easy Goin](https://open.spotify.com/album/52qFba0o5xWWhpP6CUVxXe) | 3:08 |
 | 174 | [Once In a Lifetime](https://open.spotify.com/track/5dSsIGNo7ImUSQSaCTGOak) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY), [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Once In a Lifetime](https://open.spotify.com/album/58EoMAmdNnJRVAAMePEr6p) | 3:06 |
 | 175 | [There Is No Arizona 2.0](https://open.spotify.com/track/0748ETcSWmM6C5YlbRhoFK) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [There is No Arizona 2.0 / Sometimes It's Too Late](https://open.spotify.com/album/2R5d0fXomp7lZmfx3N2Wft) | 4:07 |
-| 176 | [Ain't No Closing Me Down](https://open.spotify.com/track/533NPX0rqjQOc7yUxRqqVi) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:16 |
+| 176 | [Ain't No Closing Me Down](https://open.spotify.com/track/533NPX0rqjQOc7yUxRqqVi) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:16 |
 | 177 | [A Million and One](https://open.spotify.com/track/6298i3fOw3l5rmtR462TFe) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [A Million and One](https://open.spotify.com/album/2ITnWh4L3RKZdnQN0R6TcC) | 2:38 |
 | 178 | [One Day](https://open.spotify.com/track/6VJnUbSvalXgjt1iw0XZrk) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [One Day](https://open.spotify.com/album/3GxxNTSZsO1E2TrhWzhMWg) | 3:17 |
 | 179 | [Going Out Like This](https://open.spotify.com/track/7BwU032VTOQawedyw4Ohtq) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/5rE2C8x89VQpLnSyxHdRWv) | 3:29 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 189 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 190 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCwwNWZhYmFjYjM2OTIyNThiYTQwMzkzYzIzYTc3NDgxYzU5YmMwMGFk`
+Snapshot ID: `MCxlMTczYjc4YTRlZjA3YjhlZjJiNzJmZDQzMGJlMjNjYmZlYjhiZGMz`

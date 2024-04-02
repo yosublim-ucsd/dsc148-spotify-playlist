@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: FLEUR",
-  "num_followers": 161956,
+  "num_followers": 161962,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGQ4Y2NkOThjNTg2ZTA2NmQxOTBkNzQyMDk4OGRjMWZjZTQyZTJj",
+  "snapshot_id": "MCxlMzJhMjkzNTEyMWIyY2Q3MDFjMTliMjU2MDNmZjhkNDk0MmJkYjg4",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -147,6 +147,26 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Ralphie",
+        "url": "https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf"
+      },
+      "artists": [
+        {
+          "name": "Matz Voskamp",
+          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
+        },
+        {
+          "name": "Ghazi",
+          "url": "https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "Ralphie",
+      "url": "https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Ga En Groei",
         "url": "https://open.spotify.com/album/1hKX2VOb6eNcKk9jNAhuqA"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 160975,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Ralphie",
-        "url": "https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf"
-      },
-      "artists": [
-        {
-          "name": "Matz Voskamp",
-          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
-        },
-        {
-          "name": "Ghazi",
-          "url": "https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "Ralphie",
-      "url": "https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v"
     },
     {
       "added_at": "2024-03-28 23:00:00",

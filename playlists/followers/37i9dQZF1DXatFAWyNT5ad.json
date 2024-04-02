@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 136669,
+  "2024-04-02": 136732,
   "date_first_scraped": "2022-03-18",
   "description": "Let's mix it. Cover: Royal & the Serpent + GAYLE",
   "name": "Pop Rock",
@@ -7601,6 +7601,24 @@
     {
       "album": {
         "name": "Loud",
+        "url": "https://open.spotify.com/album/4E8ZvvYHiGS9uUVgyMmE1A"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187838,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/0Nb7cvBprOkNhHMrmvKkd2"
+    },
+    {
+      "album": {
+        "name": "Loud",
         "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
       },
       "artists": [
@@ -11113,7 +11131,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 155416,
       "name": "Sorry Brody",
       "url": "https://open.spotify.com/track/7I38u9kvZwZdFseFdFqzcO"

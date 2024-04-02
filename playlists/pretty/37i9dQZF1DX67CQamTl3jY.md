@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 
 > <a href="http://www.grammy.com/">第66回グラミー賞</a>\(2024年\)を受賞した注目作品を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,246 likes - 29 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,253 likes - 29 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 | 28 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
 | 29 | [Gary Ashby](https://open.spotify.com/track/10yQwebXPazuU2KxH1XR4r) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 2:10 |
 
-Snapshot ID: `MCxhNjgyNDg1ZTcwZDljMjk0Njk0MDNiNzk5YWRmMDM5Y2M4NjBiNDlk`
+Snapshot ID: `MCw2ODJmZGU2MjQ3NzNhOTFjZmE4MmUwZTUzYTBkMTc3MzUwNGU2MGQw`

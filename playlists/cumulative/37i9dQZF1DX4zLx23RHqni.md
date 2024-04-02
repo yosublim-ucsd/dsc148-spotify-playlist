@@ -4,10 +4,11 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-70 songs - 4 hr 35 min
+71 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aasa Malli](https://open.spotify.com/track/1RYMjs2HX9rVIcM5AjueRt) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi) | [Aasa Malli](https://open.spotify.com/album/5HkwcdH3bgI7ATBRteLAwx) | 3:06 | 2024-04-01 |  |
 | [Aasai Thathumbucha \(From "Think Specials"\)](https://open.spotify.com/track/32qpRnqNC4J2iEvaQJGdtJ) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Aasai Thathumbucha \(From "Think Specials"\)](https://open.spotify.com/album/3QYy54XF4blbxaliCTMnsw) | 3:33 | 2021-12-01 | 2023-06-24 |
 | [Adi Penne](https://open.spotify.com/track/6XmBh5HSdVzEAaqzEftL9t) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Adi Penne](https://open.spotify.com/album/41DFtugomlAL2wB8SgjIyw) | 5:01 | 2021-12-01 |  |
 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 | 2022-03-30 |  |

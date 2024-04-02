@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-249 songs - 1 day 2 hr 42 min
+250 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [It's My Life \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf), [Tim Friese\-Greene](https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 6:19 | 2022-06-10 |  |
 | [Japanese Boy](https://open.spotify.com/track/4VmmNHz5nigftA0B3GR0M5) | [Aneka](https://open.spotify.com/artist/2IGQyVitQXADoOSROGLNJy) | [Aneka](https://open.spotify.com/album/6lEiLRQ83Fqmk9QstZIOW0) | 3:57 | 2020-08-07 |  |
 | [Jump \(For My Love\) \- 12" Long Version](https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Goldmine: The Best Of The Pointer Sisters](https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7) | 6:24 | 2020-08-07 | 2022-07-28 |
+| [Just Can't Get Enough \- Schizo Mix](https://open.spotify.com/track/2A35YdnOHsNX9YsyYq5Vx6) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 6:43 | 2024-02-06 |  |
 | [Just Can't Get Enough \- Schizo Mix](https://open.spotify.com/track/3AGWJIHSuWQnVkcfwCJxo5) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [DMBX1 \(Part 2\)](https://open.spotify.com/album/4aUWNtX9Gl48ylmVTcMK0e) | 6:48 | 2020-08-07 | 2022-07-29 |
 | [Keep On Movin' \(New York Mix\) \[feat\. Caron Wheeler\]](https://open.spotify.com/track/6mgHYrQ7c6pMYmdNVR3FQq) | [Soul II Soul featuring Caron Wheeler](https://open.spotify.com/artist/3ryTd3phphtFSZ7gBE7SiB), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [80s 12'' Party](https://open.spotify.com/album/3lYh9EYOXTV2JxmpQ0nhV2) | 6:57 | 2021-12-22 | 2022-07-02 |
 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 | 2020-08-07 |  |
@@ -136,7 +137,7 @@
 | [Maneater \- Extended Club Mix](https://open.spotify.com/track/1kTH8Ok1XWldpvIuzrCHFg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Original Album Classics](https://open.spotify.com/album/7rsyTubfxdtX7lWCVmmBVy) | 5:58 | 2020-08-07 | 2022-07-29 |
 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/0VOOUPTrEkcQrSXP9yUjtC) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [so80s \(So Eighties\) \- Pres\. By Blank & Jones](https://open.spotify.com/album/1jLj9PKgewe9nDTQDF4AL5) | 7:01 | 2020-08-07 | 2022-07-29 |
 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [So80s Presents Sandra \- Curated By Blank & Jones](https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP) | 7:11 | 2022-06-10 |  |
-| [Material Girl \- Extended Dance Remix](https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 | 2021-12-22 |  |
+| [Material Girl \- Extended Dance Remix](https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 | 2021-12-22 | 2024-04-02 |
 | [Moments In Love \(Beaten\) \- Beaten mix](https://open.spotify.com/track/0yKcfwautQ43HqdjlRQof6) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [The Art Of The 12" \- A Celebration Of The Extended Remix](https://open.spotify.com/album/5i5O1oCtPOK1u1vdeZdc7n) | 6:49 | 2021-12-22 | 2022-04-24 |
 | [Music and Lights](https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 5:22 | 2022-06-10 |  |
 | [Music And Lights \- Extended Version](https://open.spotify.com/track/5Ixg4mWzXK7wPkcC9rDTzf) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [Extended Dancefloor](https://open.spotify.com/album/5ClYDP3cMxc3Li2OG8mYnJ) | 5:24 | 2020-08-07 | 2022-07-29 |

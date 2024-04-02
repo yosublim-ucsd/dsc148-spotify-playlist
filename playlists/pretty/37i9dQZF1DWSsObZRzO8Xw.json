@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 169973,
+  "num_followers": 170040,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRkMTU2Mjc2ZWZhZDA3Y2EzYTZiZGFhM2UwNTQ1NDMzYmRjZTdk",
+  "snapshot_id": "MCwwNmEwOWI1MmM2YjY5MWE4MTQ1NTRmNDIzNzQ4NjBmNzY4MmQyYjU5",
   "tracks": [
     {
       "added_at": "2024-01-19 08:40:44",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "For Long Tomorrow",
+        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
+      },
+      "artists": [
+        {
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "two moons",
+      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "13.0.0.0.0",
         "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "For Long Tomorrow",
-        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
-      },
-      "artists": [
-        {
-          "name": "toe",
-          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "two moons",
-      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Floral EP",
         "url": "https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 219265,
       "name": "Climbing a Wall",
       "url": "https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "potage",
-        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
-      },
-      "artists": [
-        {
-          "name": "tricot",
-          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
-        }
-      ],
-      "duration_ms": 246915,
-      "name": "potage",
-      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -303,6 +287,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Twin Galaxies",
         "url": "https://open.spotify.com/album/1bcWJMGRvDhvKHNmQmTTCd"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+        "name": "potage",
+        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
       },
       "artists": [
         {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+          "name": "tricot",
+          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
         }
       ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+      "duration_ms": 246915,
+      "name": "potage",
+      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 389333,
-      "name": "Ten Billion People",
-      "url": "https://open.spotify.com/track/5gyh1OZKdqRnzaqKvV4ZMn"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Time Will Die and Love Will Bury It",
         "url": "https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 232493,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/60qzUWBoLLARs9B82yD346"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "End",
+        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 389333,
+      "name": "Ten Billion People",
+      "url": "https://open.spotify.com/track/5gyh1OZKdqRnzaqKvV4ZMn"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "A Forest of Polarity",
-        "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
-      },
-      "artists": [
-        {
-          "name": "Rooftops",
-          "url": "https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Raft Easily",
-      "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Gloss Drop",
         "url": "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 377493,
       "name": "Futura",
       "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "A Forest of Polarity",
+        "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
+      },
+      "artists": [
+        {
+          "name": "Rooftops",
+          "url": "https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Raft Easily",
+      "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "The View From This Tower",
         "url": "https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "Route One or Die",
+        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
+      },
+      "artists": [
+        {
+          "name": "Three Trapped Tigers",
+          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Cramm",
+      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Trees Before Fall",
         "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Route One or Die",
-        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
       "artists": [
         {
-          "name": "Three Trapped Tigers",
-          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
         }
       ],
-      "duration_ms": 298760,
-      "name": "Cramm",
-      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Beow",
         "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
       },
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "51\u00b031'47\"S 58\u00b007'44\"W",
-        "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
-      },
-      "artists": [
-        {
-          "name": "Puerto Austral",
-          "url": "https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o"
-        }
-      ],
-      "duration_ms": 213512,
-      "name": "Bamb\u00fa",
-      "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Canis Allegro",
         "url": "https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6"
       },
@@ -1095,6 +1063,22 @@
       "duration_ms": 302869,
       "name": "Jazztas",
       "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "51\u00b031'47\"S 58\u00b007'44\"W",
+        "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
+      },
+      "artists": [
+        {
+          "name": "Puerto Austral",
+          "url": "https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o"
+        }
+      ],
+      "duration_ms": 213512,
+      "name": "Bamb\u00fa",
+      "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1127,6 +1111,22 @@
       "duration_ms": 258137,
       "name": "Espejos Dorados",
       "url": "https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Asbestos Weak Hood",
-        "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
-      },
-      "artists": [
-        {
-          "name": "Narrow / Arrow",
-          "url": "https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "Ruth Leslie (Cigregrets Pt. 1)",
-      "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 221686,
       "name": "GRVD",
       "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "Asbestos Weak Hood",
+        "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
+      },
+      "artists": [
+        {
+          "name": "Narrow / Arrow",
+          "url": "https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Ruth Leslie (Cigregrets Pt. 1)",
+      "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Randoom Process",
-        "url": "https://open.spotify.com/album/0rJ79WCWzi41WEcd1ZV3bJ"
-      },
-      "artists": [
-        {
-          "name": "Ikiatari",
-          "url": "https://open.spotify.com/artist/5nOB2jDo50kfdMEttWyYoe"
-        }
-      ],
-      "duration_ms": 204905,
-      "name": "Gatatttack!",
-      "url": "https://open.spotify.com/track/5Lcf4mhGROX92au0W9tpKq"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Puentes",
         "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 226173,
       "name": "Crucemos los Puentes...",
       "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "Randoom Process",
+        "url": "https://open.spotify.com/album/0rJ79WCWzi41WEcd1ZV3bJ"
+      },
+      "artists": [
+        {
+          "name": "Ikiatari",
+          "url": "https://open.spotify.com/artist/5nOB2jDo50kfdMEttWyYoe"
+        }
+      ],
+      "duration_ms": 204905,
+      "name": "Gatatttack!",
+      "url": "https://open.spotify.com/track/5Lcf4mhGROX92au0W9tpKq"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Psych!",
-        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
+        "name": "Propulsor",
+        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
       },
       "artists": [
         {
-          "name": "Shaolin",
-          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
+          "name": "Helices",
+          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
         }
       ],
-      "duration_ms": 276551,
-      "name": "Aquabus",
-      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
+      "duration_ms": 381360,
+      "name": "Una Historia para Acabar Con Todas las Historias",
+      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Propulsor",
-        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
+        "name": "Psych!",
+        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
       },
       "artists": [
         {
-          "name": "Helices",
-          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
+          "name": "Shaolin",
+          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
         }
       ],
-      "duration_ms": 381360,
-      "name": "Una Historia para Acabar Con Todas las Historias",
-      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
+      "duration_ms": 276551,
+      "name": "Aquabus",
+      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/1Ik8CQhqiqQ2Z2Rm0ovN4Y"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/3iG6aKmXzHnxnopyXVDZQR"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Gamba Tesa",
         "url": "https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 112616,
       "name": "x Maria Violenza",
       "url": "https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "Ca\u00edste al Suelo",
-        "url": "https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl"
-      },
-      "artists": [
-        {
-          "name": "Pir\u00e1mides",
-          "url": "https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "14.12",
-      "url": "https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0"
     }
   ],
   "unique_name": "Math Rock",

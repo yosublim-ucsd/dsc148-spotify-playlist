@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:JUNGWOO\(정우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,489 likes - 103 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,537 likes - 103 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 37 | [Butterfly](https://open.spotify.com/track/6FUFNToiiQKYqhPvWKVy9u) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Wedding Impossible \(Original Soundtrack Special\)](https://open.spotify.com/album/4SjPoZdHsCXFOz1Nb6ZKSo) | 3:39 |
 | 38 | [The World of You](https://open.spotify.com/track/03LjOJ71W4yGJ0mjtudMRR) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [The World of You](https://open.spotify.com/album/0PYvMxPdN7gTsEBTDJ7ZPj) | 4:08 |
 | 39 | [My Truth](https://open.spotify.com/track/3GMxvRvHhIM6jMvJE2vRMk) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [My Truth](https://open.spotify.com/album/4hWowddLPh8DwymAp0IdUU) | 3:51 |
-| 40 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Pre\-Release Single \[Stuck In The Middle\]](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 |
+| 40 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Stuck In The Middle](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 |
 | 41 | [Hello](https://open.spotify.com/track/0jrUkCN5BMamV0M8IbcnET) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [Hello](https://open.spotify.com/album/0gzcyw0ggRvHysVnFXu3Lv) | 3:55 |
 | 42 | [Wish](https://open.spotify.com/track/0xcuv2S2QXj11ouh86yLQw) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Wish](https://open.spotify.com/album/4lsxhxwCuYisfrJ3cAxRGJ) | 4:25 |
 | 43 | [How Much I Love You](https://open.spotify.com/track/55tsR9WU9Rtl8eLKTz242N) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [How Much I Love You](https://open.spotify.com/album/5NpyatjHKN1GJur16L3dfR) | 3:37 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 102 | [Goodbye \(2023\)](https://open.spotify.com/track/4K6gyjsl6AZsvsryJctOs8) | [Park Pil kyu](https://open.spotify.com/artist/5tx0AkevgDrqnlBMbd86Na) | [Goodbye \(2023\)](https://open.spotify.com/album/6lnY1n3Wixe2hnTNAMmYSQ) | 3:52 |
 | 103 | [One Man](https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc) | [Park Je Up](https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq) | [One Man](https://open.spotify.com/album/3gKxXpP1y1GnAyFMJyLCJ6) | 4:08 |
 
-Snapshot ID: `MCw0ZmQ4NmZhM2I4MjNkNjg2ZTNhNjhkMGVjMDg1MzhlMTFkM2M0Mjdj`
+Snapshot ID: `MCwzMTA3YjEyNzc2MTNmNzYxMmU0N2FiMDU4NmIwNzEyYzRiMjk3NWEz`

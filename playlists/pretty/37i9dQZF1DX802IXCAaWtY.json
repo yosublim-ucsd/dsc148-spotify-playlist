@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1185975,
+  "num_followers": 1186430,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzU0M2EyNWUxNjdmZjY1ZDhlOTlkMmY0MGFhOTE5NjhkMjg5YWY2",
+  "snapshot_id": "MCxmYmQ3MTMwN2E5YmRhMDVlZjVlMTIyNjkyN2Q5ZTcwZThiN2RlYmY3",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Mr. Vain",
         "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 215973,
       "name": "Scatman (ski-ba-bop-ba-dop-bop)",
       "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Feel the heat of the night",
-        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
-      },
-      "artists": [
-        {
-          "name": "Masterboy",
-          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Feel the heat of the night - Radio Edit",
-      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 247001,
       "name": "Everybody Everybody",
       "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Feel the heat of the night",
+        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
+      },
+      "artists": [
+        {
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Feel the heat of the night - Radio Edit",
+      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Omen - The Story Continues",
-        "url": "https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb"
-      },
-      "artists": [
-        {
-          "name": "Magic Affair",
-          "url": "https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Omen III - Single Edit",
-      "url": "https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "There Is a Party",
         "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 269706,
       "name": "Love Is All Around",
       "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Omen - The Story Continues",
+        "url": "https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb"
+      },
+      "artists": [
+        {
+          "name": "Magic Affair",
+          "url": "https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Omen III - Single Edit",
+      "url": "https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1"
     },
     {
       "added_at": "2023-07-14 10:06:53",

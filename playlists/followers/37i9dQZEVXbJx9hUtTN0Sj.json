@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 23049,
+  "2024-04-02": 23050,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -615,7 +615,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 129959,
       "name": "Ben Met Je (feat. ADF Samski & Kaya Imani)",
       "url": "https://open.spotify.com/track/77XXN1DckmmOGsOiC4HhHH"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Dansie Geet Dom",
       "url": "https://open.spotify.com/track/35e9WqhVlY7pVZGX7HtEYQ"
@@ -2403,17 +2403,13 @@
           "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
         },
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
           "name": "StereoKilla",
           "url": "https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy"
         }
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 112445,
       "name": "La Foule - Le Monde Mix",
       "url": "https://open.spotify.com/track/3aq4uXTRtKg1BONQ21VlN2"
@@ -2485,7 +2481,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 209986,
       "name": "Land Of The Living - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/1fCmCsnBt8YVVxNw6boXMM"
@@ -4005,7 +4001,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
@@ -4692,6 +4688,28 @@
     },
     {
       "album": {
+        "name": "UP!",
+        "url": "https://open.spotify.com/album/2WoIZTbS7s8uNtRf9G6QOP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136968,
+      "name": "UP!",
+      "url": "https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"
+    },
+    {
+      "album": {
         "name": "Verdwijnen Is Slechts Een Idee",
         "url": "https://open.spotify.com/album/5BQ0hMPb3gSHT2ZJbEV3Nh"
       },
@@ -4861,6 +4879,24 @@
       "duration_ms": 305946,
       "name": "Wall Of Eyes",
       "url": "https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT"
+    },
+    {
+      "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/3HfeRupKZBZ4VoBTaD52ek"
+      },
+      "artists": [
+        {
+          "name": "noevdv",
+          "url": "https://open.spotify.com/artist/3CL4nOf23RqGQJjcAOzork"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101440,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/1312ZAYpw7aeRQ8GMkbJux"
     },
     {
       "album": {

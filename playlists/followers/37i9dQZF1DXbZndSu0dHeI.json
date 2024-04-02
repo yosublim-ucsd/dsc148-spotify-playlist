@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 213984,
+  "2024-04-02": 214580,
   "date_first_scraped": "2021-12-30",
   "description": "Have the loveliest little day.",
   "name": "The Lovely Little Playlist",
@@ -1955,7 +1955,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
@@ -2673,7 +2673,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 149426,
       "name": "Halloween Costume",
       "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"

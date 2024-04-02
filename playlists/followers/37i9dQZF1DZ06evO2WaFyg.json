@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 227373,
+  "2024-04-02": 227405,
   "date_first_scraped": "2023-06-08",
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
   "name": "This Is Young Thug",
@@ -353,7 +353,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 170157,
       "name": "Dance with Me (feat. Thomas Rhett & Young Thug)",
       "url": "https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 285565,
       "name": "RUN (feat. Young Thug)",
       "url": "https://open.spotify.com/track/4EPfeopXB7rDQGR4ae0Xmt"

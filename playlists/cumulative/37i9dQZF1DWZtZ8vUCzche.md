@@ -4,7 +4,7 @@
 
 > An eclectic collection of brilliantly produced and recorded tracks.
 
-353 songs - 1 day 5 hr 5 min
+354 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,8 +82,8 @@
 | [Drop](https://open.spotify.com/track/3U83MLJ562dk6Yhvwpe6lL) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Point](https://open.spotify.com/album/4mZgIoGyI813KAjmv7Dbo1) | 5:08 | 2022-07-20 |  |
 | [Drop](https://open.spotify.com/track/6ggO9aFrV9RHWT0wyXX3f9) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Point](https://open.spotify.com/album/4HUpDl3PQQL7yuxuV7RZSr) | 5:08 | 2021-10-15 | 2022-07-29 |
 | [Easy Money](https://open.spotify.com/track/0bd8pwa4ckVgfktLHx9AWw) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Rickie Lee Jones](https://open.spotify.com/album/6IzMnrSzyRykaltIvnlNuk) | 3:19 | 2021-10-15 | 2022-07-29 |
-| [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 | 2021-10-15 | 2022-07-29 |
-| [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 | 2022-07-20 |  |
+| [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 | 2021-10-15 |  |
+| [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 | 2022-07-20 | 2024-04-02 |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/12Gbz1qkaCAFPGlYVVw6xZ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 4:13 | 2022-10-14 | 2022-11-13 |
 | [Existe Uma Voz](https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:45 | 2023-04-24 |  |
 | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/track/2CwUy8aMNWAislPr58fDvI) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 3:20 | 2023-01-19 |  |
@@ -235,7 +235,8 @@
 | [Paper Trails](https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/7jqNrm1l4wSxNYSjgK7tmF) | 4:49 | 2021-10-15 | 2022-07-29 |
 | [Parce Mihi Domine](https://open.spotify.com/track/46tPGzCXCI2oKsemztDA9u) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Cristobal de Morales](https://open.spotify.com/artist/18oieUOKaB87vkVcV6GX89), [The Hilliard Ensemble](https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS) | [Officium](https://open.spotify.com/album/6EZ4ZARjmbOF8M9yRzxMxE) | 6:42 | 2022-07-20 |  |
 | [Parce Mihi Domine](https://open.spotify.com/track/7pa5oEfyt0tCeMHjHuQrCA) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Cristobal de Morales](https://open.spotify.com/artist/18oieUOKaB87vkVcV6GX89), [The Hilliard Ensemble](https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS) | [Officium](https://open.spotify.com/album/2tj0tuTb2McJP5CEFiRHGv) | 6:42 | 2021-10-15 | 2022-07-29 |
-| [People Are People \- 2006 Remaster](https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 3:52 | 2022-07-20 |  |
+| [People Are People](https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 3:51 | 2024-03-27 |  |
+| [People Are People \- 2006 Remaster](https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 3:52 | 2022-07-20 | 2024-04-02 |
 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 2:39 | 2021-10-15 |  |
 | [Phase 09 \- Sombrero](https://open.spotify.com/track/0atOMgnZQ0bkSzDacwkKwB) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Until We Meet the Sky](https://open.spotify.com/album/64oJjdIQtrNWEMCplxiKu1) | 5:43 | 2021-10-15 | 2022-07-29 |
 | [Phase 09 \- Sombrero](https://open.spotify.com/track/4uKzc4cK3OOzVPluOAoBj2) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Until We Meet The Sky](https://open.spotify.com/album/7C6Ko1ODGhs5tFlQOBkNql) | 5:45 | 2022-07-20 |  |

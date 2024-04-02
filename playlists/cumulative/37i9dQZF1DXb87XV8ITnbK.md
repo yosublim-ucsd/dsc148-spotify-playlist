@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-65 songs - 3 hr 46 min
+66 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [About loneliness \- Instrumental](https://open.spotify.com/track/3hIKQTSkysKIWfuehaX9c6) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-10-25 |  |
 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq) | 4:10 | 2023-10-06 |  |
 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 | 2023-10-06 |  |
-| [Aside](https://open.spotify.com/track/0szzXpjSNDfNOewFpe2JsT) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Aside](https://open.spotify.com/album/3b52MvqG2zClRIomUl9g7j) | 3:50 | 2023-10-06 |  |
+| [Aside](https://open.spotify.com/track/0szzXpjSNDfNOewFpe2JsT) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Aside](https://open.spotify.com/album/3b52MvqG2zClRIomUl9g7j) | 3:50 | 2023-10-06 | 2024-04-02 |
+| [Aside](https://open.spotify.com/track/2n19k8ZOk1fCCCIL2oTC3s) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Aside](https://open.spotify.com/album/2iit0DmihUoXMCQQt0GgTO) | 3:51 | 2023-11-14 |  |
 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 | 2023-10-06 |  |
 | [Be There For You](https://open.spotify.com/track/2lwOE4xj0tw2Bpjc6wmzUP) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:56 | 2023-10-06 |  |
 | [Bubble](https://open.spotify.com/track/4R6IcLYiRJavA9oF2YyAR6) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:22 | 2023-10-06 |  |

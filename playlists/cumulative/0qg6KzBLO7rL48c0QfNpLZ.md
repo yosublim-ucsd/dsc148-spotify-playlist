@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-251 songs - 11 hr 29 min
+253 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Take Me Home](https://open.spotify.com/track/4Mg3YzlEp93OhGQol4VqXL) | [Saco](https://open.spotify.com/artist/1LnBqMojv6Dv6DoPWTDSZ7), [Sebastiën](https://open.spotify.com/artist/6CTrKKYpd9uYgA406rR5e0) | [Take Me Home](https://open.spotify.com/album/3Y3ZLsJplnOimXcUFCqMhx) | 2:51 | 2024-01-16 |  |
 | [Talk About It](https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Talk About It](https://open.spotify.com/album/1nDFDxoIToR3VEtTwJUMzv) | 2:19 | 2023-12-07 |  |
 | [Talk About Us](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Talk About Us](https://open.spotify.com/album/1kAQMLfTYcIJbbuq2MMMc7) | 2:17 | 2024-01-05 |  |
+| [Teenage Dirtbag](https://open.spotify.com/track/75e30Qkh0kdBEKjx7dNzHR) | [Scity](https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ) | [Teenage Dirtbag](https://open.spotify.com/album/1gYd9kYl6sWVFdRjlu4rRL) | 3:18 | 2024-04-01 |  |
 | [Tell Me](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ) | [Tell Me](https://open.spotify.com/album/076yQZmCYLr11TVMZZRvP3) | 2:12 | 2024-01-05 | 2024-03-16 |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2024-03-04 |  |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2024-01-01 |  |
@@ -220,6 +221,7 @@
 | [The Stars We Lost](https://open.spotify.com/track/6KwVp2YhIsadVhHHeAdqEg) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [The Stars We Lost](https://open.spotify.com/album/0qHU1KDhGJCTKRIDgfwiNs) | 2:33 | 2024-03-22 |  |
 | [There For You](https://open.spotify.com/track/7Ib2eZ6V8sSEswFwzhrj1b) | [S3S](https://open.spotify.com/artist/0av9yMRjEnYSRdv3gKLxpq) | [There For You](https://open.spotify.com/album/5Pb7ECyY4QWBHDDDBNl1m7) | 2:21 | 2024-03-29 |  |
 | [There For You](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [There For You](https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo) | 2:45 | 2023-12-04 |  |
+| [Think About U](https://open.spotify.com/track/4uhzx17eBtFnuPPi4iVK2l) | [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Think About U](https://open.spotify.com/album/1Hxs2t70lMUFAm44Lyj5HA) | 2:24 | 2024-04-01 |  |
 | [Think Of You](https://open.spotify.com/track/1GeErNU963DhkK2hqvbCwB) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Think Of You](https://open.spotify.com/album/29UeSRbflXTItUqTKO5QZs) | 2:30 | 2024-01-18 |  |
 | [This Is Love](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [This Is Love](https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS) | 3:36 | 2024-03-15 |  |
 | [Those Eyes](https://open.spotify.com/track/4BnNu11SXAJKu4TaMoipUA) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Those Eyes](https://open.spotify.com/album/1K81avVRkJg8oy29gwN6LE) | 2:43 | 2023-10-19 |  |

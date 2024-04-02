@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Dynamic Duo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,428 likes - 111 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,412 likes - 111 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 54 | [SRT \(feat\. Slim Jxmmi\)](https://open.spotify.com/track/4tfUSfavhddmL6tmfjRdwc) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [S.H.O.T.T.A.](https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P) | 2:21 |
 | 55 | [Reminisce](https://open.spotify.com/track/07JXEGlEQmMWIrH9Kn6swl) | [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [Reminisce](https://open.spotify.com/album/0AuZ8ODGhm85yIAW3cbZSC) | 2:12 |
 | 56 | [DEATH](https://open.spotify.com/track/43YI0FF74feONzcXkUEI9R) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [DEATH](https://open.spotify.com/album/1RjBJ7J8LLOdzKt7xA0Qji) | 3:04 |
-| 57 | [Superman](https://open.spotify.com/track/6znLgQRXhiM0OcrfO9caWh) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI) | [Superman](https://open.spotify.com/album/4iJ7AXwW3ljCGt2adO26o4) | 1:53 |
+| 57 | [Superman](https://open.spotify.com/track/6znLgQRXhiM0OcrfO9caWh) | [Quality Control](https://open.spotify.com/artist/3CBxCnJytj9OjOOoWqoVsc), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI) | [Superman](https://open.spotify.com/album/4iJ7AXwW3ljCGt2adO26o4) | 1:53 |
 | 58 | [Looking For You](https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [HATE ME](https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT) | 3:18 |
 | 59 | [Forever & Ever & Ever & Even After That](https://open.spotify.com/track/3BlXpC1PXYYbTxIulMLbP5) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Forever & Ever & Ever & Even After That](https://open.spotify.com/album/2VZ32TB1aCoNseOeImafsb) | 3:35 |
 | 60 | [CATCH UP](https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [DLEN](https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [CATCH UP](https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp) | 3:01 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 110 | [Tipsy \- MajorStage Live](https://open.spotify.com/track/7yssmpi6MCGh5UZfAzHQPL) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [Tipsy \(MajorStage Live\)](https://open.spotify.com/album/1qklPKg34PvqnOPi8UXbry) | 2:39 |
 | 111 | [NUN TO PROVE](https://open.spotify.com/track/3ApjbP9XNkJ86FUcfXaAdk) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg) | [NUN TO PROVE](https://open.spotify.com/album/5lSVjb2dYWbV1eEAWfTzQn) | 2:33 |
 
-Snapshot ID: `MCw2YzZkNzBkNTEwNDIwYTEwOTkyYTIyNTQ4YjI3OGFmZjQ2ZTQxM2M0`
+Snapshot ID: `MCw3YmI3MDgyYTM4MzQzMGU2Yjg5NjQ2M2JkZGM3MzBhZTZhYTI1OGNl`

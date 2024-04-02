@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 251308,
+  "2024-04-02": 251428,
   "date_first_scraped": "2022-05-09",
   "description": "The biggest party hits of the 1950s.",
   "name": "50s Party",
@@ -5245,7 +5245,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 172400,
       "name": "Whole Lot of Shakin' Going On",
       "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
@@ -5285,6 +5285,24 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "album": {
+        "name": "The Killer Keys Of Jerry Lee Lewis (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "Whole Lotta Shakin' Going On - Remastered 2022",
+      "url": "https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,235 songs - 3 day 5 hr 58 min
+1,236 songs - 3 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-24 | 2023-03-04 |
 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-03-01 | 2024-03-09 |
 | [Like It Like That \(feat\. Chief Adjuah\)](https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [Nova](https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79) | 3:08 | 2023-08-25 | 2023-09-09 |
+| [Like Someone In Love](https://open.spotify.com/track/6j26hZrPv6MLYJMBPwv1hz) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Two Drink Minimum](https://open.spotify.com/album/6sPVj8IMDPBYXq10hL53GJ) | 8:16 | 2024-03-29 |  |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-29 |  |
 | [Like That](https://open.spotify.com/track/2xXhpbLvgBtZYUsYd4Hpbx) | [Party Pip](https://open.spotify.com/artist/5CCfvsh8dTaGyz4ApaRJV2), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Young Cash](https://open.spotify.com/artist/0SY9EobiFWDqxhC2h1RNNg) | [Like That](https://open.spotify.com/album/6Oh551AttVfI5DBLP4rgGX) | 2:51 | 2023-07-07 | 2023-07-15 |
 | [Limousine \- Live at Sugarshack Sessions](https://open.spotify.com/track/2c8pzrb3bCbMERdxjUbKsW) | [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [Wax \(Live at Sugarshack Sessions\)](https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd) | 3:47 | 2023-08-04 | 2023-08-11 |
@@ -981,7 +982,7 @@
 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 | 2023-03-17 | 2023-04-16 |
 | [Stimulation \- Audiotree Live version](https://open.spotify.com/track/0HjsxcdrfdR2X7oC9DSWTQ) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Wine Lips on Audiotree Live](https://open.spotify.com/album/7rXbOuaSYcadOUomHd3BIC) | 2:52 | 2023-08-25 | 2023-09-09 |
 | [Stop & Stare](https://open.spotify.com/track/2pFYZZy32W3GMSDq7co3vp) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Stop & Stare](https://open.spotify.com/album/6fZnn5DVBt0RhYiv8eMOvX) | 2:49 | 2023-11-17 | 2023-11-25 |
-| [Straight No Chaser](https://open.spotify.com/track/2dPo9buiY2Vx1q7zKMCuFE) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Two Drink Minimum](https://open.spotify.com/album/6sPVj8IMDPBYXq10hL53GJ) | 2:56 | 2024-03-22 |  |
+| [Straight No Chaser](https://open.spotify.com/track/2dPo9buiY2Vx1q7zKMCuFE) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Two Drink Minimum](https://open.spotify.com/album/6sPVj8IMDPBYXq10hL53GJ) | 2:56 | 2024-03-22 | 2024-04-02 |
 | [Straight No Chaser](https://open.spotify.com/track/6mhbJi5I2k8VSMUroCD1cd) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Two Drink Minimum](https://open.spotify.com/album/6TQeezX6i4gTdECjPK8Lab) | 2:56 | 2024-03-15 | 2024-03-22 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-08 | 2023-09-16 |
 | [Strangers](https://open.spotify.com/track/7zkz7Y2mYNg6rWxQDUQM2J) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/3bVFS6hU8jvQoaXetRshv6) | 3:34 | 2024-01-12 | 2024-01-20 |

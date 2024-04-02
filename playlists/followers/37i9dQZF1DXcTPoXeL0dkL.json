@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 198779,
+  "2024-04-02": 198838,
   "date_first_scraped": "2023-02-18",
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
   "name": "Vallenato Full Bacano",
@@ -239,7 +239,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 241297,
       "name": "Ceniza Fria",
       "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 252600,
       "name": "La Gemela",
       "url": "https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg"

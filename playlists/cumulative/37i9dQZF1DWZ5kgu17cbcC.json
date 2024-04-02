@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "We Were the Lucky Ones Theme (From \"We Were the Lucky Ones\")",
+        "url": "https://open.spotify.com/album/5rGJ5VIUpHLa9nNYrjhN86"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166438,
+      "name": "We Were the Lucky Ones Theme - From \"We Were the Lucky Ones\"",
+      "url": "https://open.spotify.com/track/6rLHxGO1sQOy4FYJpSYneN"
+    },
+    {
+      "album": {
         "name": "Only Murders in the Building: Season 2 (Original Score)",
         "url": "https://open.spotify.com/album/4mSME5Jj4ANMDdgZ6ZJWYH"
       },

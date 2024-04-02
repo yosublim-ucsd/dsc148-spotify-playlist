@@ -4,7 +4,7 @@
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-212 songs - 11 hr 31 min
+213 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Tollite Portas](https://open.spotify.com/track/6kxNIq8TfsiAB5aXbUTwqd) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY) | [Meditations \- Chant & Piano](https://open.spotify.com/album/0XB54xJNLhz8KUQX3HSr7P) | 4:45 | 2023-02-10 |  |
 | [Tranquillant](https://open.spotify.com/track/0RJ52bhkPa4rmFyJ9mz4iq) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [The Light](https://open.spotify.com/album/1yIuoAmtrG2NnHkUzjijfy) | 2:53 | 2023-05-26 |  |
 | [Transcending](https://open.spotify.com/track/0sQrvjaZYDi3uZmi6mY1hO) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [The Light](https://open.spotify.com/album/1yIuoAmtrG2NnHkUzjijfy) | 3:31 | 2023-05-26 |  |
+| [Tristesse](https://open.spotify.com/track/5LZBJNHFun1mKDsDUZSA8b) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Tristesse](https://open.spotify.com/album/1RiCsE4TpGZXwemtMWfLg7) | 3:06 | 2024-04-01 |  |
 | [Umbra](https://open.spotify.com/track/1p7s4bEbjLRRUSfu9qjkty) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance \(Extended Version\)](https://open.spotify.com/album/7c2cqEPUmdwXr5upWoKpQs) | 4:52 | 2023-11-13 |  |
 | [V\. Earth](https://open.spotify.com/track/0XsrTK7LyG72p19ST3T4y3) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Niklas Liepe](https://open.spotify.com/artist/6ukAV4us7nVNQ1MQvj4sut), [WDR Funkhausorchester](https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9), [Erina Yashima](https://open.spotify.com/artist/0KWpdAiwEjeyUDP5EDDNY6) | [V\. Earth](https://open.spotify.com/album/0jX7FjzadE3aDDqwasTJyK) | 5:09 | 2024-02-23 |  |
 | [Valadier](https://open.spotify.com/track/6pkos2gkSkntwGVGckete8) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Valadier](https://open.spotify.com/album/7F0k3NKNbcXXLjzgG6kydi) | 3:50 | 2023-09-05 | 2024-01-13 |

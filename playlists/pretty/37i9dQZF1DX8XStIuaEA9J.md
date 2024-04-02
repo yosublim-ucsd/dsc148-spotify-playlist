@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 五十嵐ハル
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,888 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,940 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [ミカヅキ](https://open.spotify.com/track/3sBIql1qZtR19rmk764Y2e) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp) | [ミカヅキ](https://open.spotify.com/album/5Ab8WWR8dwoctuRFdtKLCz) | 4:04 |
 | 60 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 |
 
-Snapshot ID: `MCwxMDFlYjQxMTRkYjA0MWQ4OGNhMDIwZmJmZTcwYWRhM2Y2Yzc2NDky`
+Snapshot ID: `MCw2YjQ3MWNmZTI4ZTBiNDBlNDY4ZTYwNTg5ZDZiMzEyMGZhMDllMGFh`

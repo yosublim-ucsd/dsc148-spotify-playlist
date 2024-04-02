@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 35776,
+  "2024-04-02": 35812,
   "date_first_scraped": "2022-01-02",
   "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Jenna Davis",
   "name": "Young Nashville",
@@ -4271,10 +4271,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 253968,
       "name": "saw ur mom at the grocery store",
       "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
+    },
+    {
+      "album": {
+        "name": "saw ur mom at the grocery store",
+        "url": "https://open.spotify.com/album/5lBxtFhs297uE8DZqPWP5e"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253968,
+      "name": "saw ur mom at the grocery store",
+      "url": "https://open.spotify.com/track/43dMjUNngCeGOLtLW4qCPE"
     },
     {
       "album": {

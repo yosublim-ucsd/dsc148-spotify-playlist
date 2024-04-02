@@ -1,19 +1,19 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain](/playlists/plain/37i9dQZF1DX7ccGNvU862z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ccGNvU862z)
 
-### [ฮิปฮอป ของมันต้องฟัง](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
+### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลงฮิปฮอปฮิตล่าสุด จัดให้ที่นี่เลย\. ศิลปิน: DIAMOND MQT
+> Rhyme Elite Artist League\. ฮิปฮอปของจริง ไม่ต้องอ้างอิงใคร\. ศิลปิน:  Saran
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,760 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,787 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 |
+| 1 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
 | 2 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
-| 3 | [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [Lil X](https://open.spotify.com/artist/6JU3HVDt49f52BPbBQtqax) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 |
-| 4 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
-| 5 | [รับประกัน](https://open.spotify.com/track/5awnxSRZvekHZKR7r2otUb) | [YARBCREW](https://open.spotify.com/artist/7kBuS37mdr9wwFfEGyp9kW), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [SAMUCHYARB](https://open.spotify.com/artist/5JXPmO7V0nqhKZ4egfNXFo) | [รับประกัน](https://open.spotify.com/album/06hy7xIPrS0uT6x1aixMUH) | 3:32 |
-| 6 | [ทางชัน](https://open.spotify.com/track/24pDCzPUPoD3wYjpynpo2n) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [ทางชัน](https://open.spotify.com/album/1PPs8UbsmKpo2GDxWYOyY7) | 3:11 |
+| 3 | [ทางชัน](https://open.spotify.com/track/24pDCzPUPoD3wYjpynpo2n) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [ทางชัน](https://open.spotify.com/album/1PPs8UbsmKpo2GDxWYOyY7) | 3:11 |
+| 4 | [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [Lil X](https://open.spotify.com/artist/6JU3HVDt49f52BPbBQtqax) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 |
+| 5 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 |
+| 6 | [รับประกัน](https://open.spotify.com/track/5awnxSRZvekHZKR7r2otUb) | [YARBCREW](https://open.spotify.com/artist/7kBuS37mdr9wwFfEGyp9kW), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [SAMUCHYARB](https://open.spotify.com/artist/5JXPmO7V0nqhKZ4egfNXFo) | [รับประกัน](https://open.spotify.com/album/06hy7xIPrS0uT6x1aixMUH) | 3:32 |
 | 7 | [NERD](https://open.spotify.com/track/700D5XaDDsAwNaD6JXkt4W) | [T\-BIGGEST](https://open.spotify.com/artist/3LW3TOMoNLelResUQ8w4UR), [HawkCry](https://open.spotify.com/artist/2WpNT5iWzZQNqlFn1ggFzy) | [NERD](https://open.spotify.com/album/05uOoW6bQzuNVvEA2TpaI8) | 2:19 |
 | 8 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 |
 | 9 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 54 | [เลิกพูด](https://open.spotify.com/track/1TP7e77dujSjfsVeajlKvi) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [เลิกพูด](https://open.spotify.com/album/1WFu00GgNRG1giDjEVyIsd) | 3:37 |
 | 55 | [มีทุกอย่าง](https://open.spotify.com/track/5jLcPRNQIxMKcJLFbOfJZo) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [มีทุกอย่าง](https://open.spotify.com/album/447GzhK7Eoax46pcKWxEdg) | 3:34 |
 
-Snapshot ID: `MCw5ZWY4YjgxM2EwNDg5MTYwODlkNzQ1ZDVjN2EwOGY1MmZmMjA3OGY1`
+Snapshot ID: `MCxkYTc3YTUwOTU2NzhkNzk1ZDI3MjBlYjQ3NDQwYWI2NDBlMmFjNmQ3`

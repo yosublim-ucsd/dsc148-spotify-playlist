@@ -4,7 +4,7 @@
 
 > i'm just a girl updating a playlist
 
-1,410 songs - 3 day 2 hr 6 min
+1,411 songs - 3 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,7 +866,8 @@
 | [Never Go Wrong](https://open.spotify.com/track/2K036A2TOlSr13Ej8s6ODk) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Never Go Wrong](https://open.spotify.com/album/4iOH0UQ1KxmHgd37QXPEb0) | 2:35 | 2022-05-19 | 2022-07-29 |
 | [Never Go Wrong](https://open.spotify.com/track/60LAae4EzXrJ2BLwvfMfJH) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:35 | 2023-05-30 |  |
 | [Never Go Wrong](https://open.spotify.com/track/7cLvLpnhpnQtea3ETMYgV5) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Never Go Wrong](https://open.spotify.com/album/17ZqMxccQxyrfwZyH2OUhP) | 2:35 | 2022-05-19 | 2023-06-24 |
-| [Never Let Me Down Again](https://open.spotify.com/track/7iSX49ON0dUjOcU260nVK1) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Never Let Me Down Again](https://open.spotify.com/album/5j9NrtMAfGuEc7dqz59tU1) | 4:23 | 2023-06-30 |  |
+| [Never Let Me Down Again](https://open.spotify.com/track/3QqONU0GW4byIClquChyf0) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:20 | 2024-03-14 |  |
+| [Never Let Me Down Again](https://open.spotify.com/track/7iSX49ON0dUjOcU260nVK1) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Never Let Me Down Again](https://open.spotify.com/album/5j9NrtMAfGuEc7dqz59tU1) | 4:23 | 2023-06-30 | 2024-04-02 |
 | [Never Let Me Down Again \- Tsangarides Mix](https://open.spotify.com/track/4pLWKQTxzR0kFoDeDAJvVk) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Never Let Me Down Again](https://open.spotify.com/album/5j9NrtMAfGuEc7dqz59tU1) | 4:22 | 2023-01-19 | 2023-07-01 |
 | [neverletyougo](https://open.spotify.com/track/2r4fPvtVy8JeEy0eJ25o5S) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Herbst Chillout 2022](https://open.spotify.com/album/7cWcbZHzusuN085y5aLw7u) | 2:58 | 2022-11-10 | 2022-11-13 |
 | [neverletyougo](https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:58 | 2022-05-19 |  |

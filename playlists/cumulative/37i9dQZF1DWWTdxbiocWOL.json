@@ -556,7 +556,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 292453,
       "name": "Golden Hill",
       "url": "https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK"
@@ -986,6 +986,24 @@
       "duration_ms": 303697,
       "name": "Love in the Void",
       "url": "https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV"
+      },
+      "artists": [
+        {
+          "name": "Glasgow Coma Scale",
+          "url": "https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401213,
+      "name": "Magik",
+      "url": "https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA"
     },
     {
       "album": {

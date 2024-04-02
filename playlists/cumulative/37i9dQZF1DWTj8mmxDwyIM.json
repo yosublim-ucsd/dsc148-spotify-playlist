@@ -523,6 +523,36 @@
     },
     {
       "album": {
+        "name": "Poison (Hazbin Hotel Original Soundtrack) [Official Remix]",
+        "url": "https://open.spotify.com/album/1A8d4L4QaQxpkU16VcUoH4"
+      },
+      "artists": [
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Poison (Hazbin Hotel Original Soundtrack) - Official Remix",
+      "url": "https://open.spotify.com/track/09jz1iygCv9uwfKhHalaUn"
+    },
+    {
+      "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
       },

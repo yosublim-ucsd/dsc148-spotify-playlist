@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: dori\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,339 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,354 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sketch](https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Cinema Pt\. 2](https://open.spotify.com/album/2CPsUAUJvUIFuqK5zlQZa9) | 3:17 |
 | 2 | [Fake Happy](https://open.spotify.com/track/7z45AkgscpK9Vh5WyfF3iP) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Fake Happy](https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv) | 2:50 |
-| 3 | [Good Night \(feat\. Claire Young\)](https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/2EAeGGLucN4aHbThuV2MgA) | [Good Night](https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh) | 3:31 |
+| 3 | [Good Night \(feat\. Claire Young\)](https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Good Night](https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh) | 3:31 |
 | 4 | [SIDE](https://open.spotify.com/track/6tQxgxb63XBelPTNtD02I2) | [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [SIDE](https://open.spotify.com/album/6GO5T0RNrBgnwppYd0CLO3) | 3:50 |
 | 5 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 |
 | 6 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 55 | [From Now](https://open.spotify.com/track/6q2yYNfgrcNfW3OZh8WQ5Z) | [EachOne](https://open.spotify.com/artist/421WUO9b5iopxq4c53zFNk) | [From Now](https://open.spotify.com/album/6Bmg7Tl2MoeqVZZQw7AIda) | 3:20 |
 | 56 | [Better](https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Better](https://open.spotify.com/album/5qNWv2c6vEkt1wLQ5hBYAX) | 3:36 |
 
-Snapshot ID: `MCw2MDM0ZGE0ODZhOTA2MjE5YTcwOThmZjI3MDY4NGFlNGEzZWY4M2U1`
+Snapshot ID: `MCxjODk4MTcwNzI2MDZhYTg3MDM2NDkxOTBhMzQzMTRjYjdkMzg5N2U3`

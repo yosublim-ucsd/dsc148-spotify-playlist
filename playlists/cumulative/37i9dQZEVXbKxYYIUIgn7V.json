@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Andere Stadt",
+        "url": "https://open.spotify.com/album/0ZnscXjJpv6ADS5D23sTPB"
+      },
+      "artists": [
+        {
+          "name": "Yosho",
+          "url": "https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Andere Stadt",
+      "url": "https://open.spotify.com/track/132NdYQcNLGGoPhPNUdQcW"
+    },
+    {
+      "album": {
         "name": "Angel Numbers Amapiano (Remix)",
         "url": "https://open.spotify.com/album/71ibhohQM1AvBwEuIRbFqF"
       },
@@ -408,7 +426,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 85560,
       "name": "Barbaras Rhabarberbar",
       "url": "https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -3919,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "VEDA T\u00dcRK\u00dcS\u00dc",
+        "url": "https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2"
+      },
+      "artists": [
+        {
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203914,
+      "name": "Senden G\u00fczeli Mi Var",
+      "url": "https://open.spotify.com/track/4ehQRRPPelxT1hIYAy1pgy"
+    },
+    {
+      "album": {
         "name": "Seni Yazd\u0131m",
         "url": "https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg"
       },
@@ -4174,7 +4210,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 141736,
       "name": "SOS Verhackertbrot",
       "url": "https://open.spotify.com/track/1u6k5koWUiSS2UqXqAIA1h"
@@ -5080,6 +5116,24 @@
       "duration_ms": 153974,
       "name": "ZEIT, DASS SICH WAS DREHT",
       "url": "https://open.spotify.com/track/1NifMX1JqCz9caJowG8dxq"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043c\u0430\u0433\u043d\u0438\u0442\u043e\u0430\u043b\u044c\u0431\u043e\u043c (\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435)",
+        "url": "https://open.spotify.com/album/5TOce09CCAufG4PVDnp0p2"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u0413\u0410\u0421",
+          "url": "https://open.spotify.com/artist/0XolBxmSEcUwps2Uvkm72J"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209503,
+      "name": "\u0410\u0437\u0438\u044f - \u0415\u0432\u0440\u0430\u0437\u0438\u044f (TikTok \u0432\u0435\u0440\u0441\u0438\u044f)",
+      "url": "https://open.spotify.com/track/0AGIa65CY8isE8PilL3H4T"
     },
     {
       "album": {

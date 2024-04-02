@@ -1,5 +1,5 @@
 {
-  "2024-04-01": 5256,
+  "2024-04-02": 5274,
   "date_first_scraped": "2023-12-31",
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
   "name": "This Is Slipmami",
@@ -59,6 +59,32 @@
     {
       "album": {
         "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175262,
+      "name": "8x5",
+      "url": "https://open.spotify.com/track/2tu6PRCVT397ILFiPfngkt"
+    },
+    {
+      "album": {
+        "name": "Malvatrem",
         "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
       },
       "artists": [
@@ -77,7 +103,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-01",
       "duration_ms": 175262,
       "name": "8x5",
       "url": "https://open.spotify.com/track/42LoQtPvGxvZMRD9ltWkaa"
