@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-333 songs - 18 hr 17 min
+334 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 | 2023-09-15 |  |
 | [Bad To Myself](https://open.spotify.com/track/4IkqDf14jiuW0B2aYqHgwo) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Bad To Myself](https://open.spotify.com/album/1a2UAm8bwt2Ec9l9QZgtVh) | 2:50 | 2023-09-15 |  |
 | [Balcony](https://open.spotify.com/track/5WOPkUg4SpTao68o8b5NTM) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes](https://open.spotify.com/album/0NDb3wNSEuId1YUovYTTIr) | 2:54 | 2023-09-15 |  |
+| [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 | 2024-04-02 |  |
 | [Best Thing I Never Had](https://open.spotify.com/track/1i2zpmV4dQvngHZx6u7Pe6) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Break Up Songs](https://open.spotify.com/album/4d6jNVUcYZsdbtNUMtgwFT) | 4:13 | 2023-09-15 |  |
 | [Better](https://open.spotify.com/track/2Dwglymon3tL9rXIiPe38F) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/6D6ezFGOgKcxsS6ND5w1ve) | 3:24 | 2023-09-15 |  |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2023-09-15 |  |

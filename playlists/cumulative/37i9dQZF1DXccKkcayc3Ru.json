@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "dressing",
+        "url": "https://open.spotify.com/album/4su8ZjNhqpIl4sZApycz63"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266800,
+      "name": "MOOD",
+      "url": "https://open.spotify.com/track/39dvNiqFBQ1OG27fCCOZe7"
+    },
+    {
+      "album": {
         "name": "D.A.N.",
         "url": "https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms"
       },

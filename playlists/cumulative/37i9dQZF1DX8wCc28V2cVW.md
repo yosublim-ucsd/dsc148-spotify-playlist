@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-239 songs - 13 hr 46 min
+240 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [My Life to Live](https://open.spotify.com/track/4CkP7nDkSq5F14mIUy4dva) | [鈴木克崇](https://open.spotify.com/artist/7deF5okxPdwvOkzbtLg0xh) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 1:04 | 2023-07-06 | 2024-02-11 |
 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 | 2023-06-08 | 2023-09-12 |
 | [No Promises to Keep \(FINAL FANTASY VII REBIRTH THEME SONG\)](https://open.spotify.com/track/3VBDYTcn8FGOkAgbItD6s7) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [No Promises to Keep \(FINAL FANTASY VII REBIRTH THEME SONG\)](https://open.spotify.com/album/4i2fljEs9yaV3TRqMQ7hg8) | 5:57 | 2024-03-19 |  |
+| [No Promises to Keep \- Band ver.](https://open.spotify.com/track/0b2xiPpc3srVQwEd1Kdgfd) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA), [植松伸夫 conTIKI](https://open.spotify.com/artist/7xP7d3jcx1V33XH4MJxLqC) | [No Promises to Keep \(FINAL FANTASY VII REBIRTH THEME SONG\)](https://open.spotify.com/album/0erg0Ws7MuEO6FimJZmldU) | 6:00 | 2024-04-02 |  |
 | [Noel's Theme \- Final Journey \-](https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 | 2021-05-21 |  |
 | [Not Alone](https://open.spotify.com/track/3KpEErV5sFaraIYHGpWOOt) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 2:36 | 2021-05-21 | 2023-06-09 |
 | [Oblivion](https://open.spotify.com/track/11fITg5u1NddciKuiIXEst) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [Before the Fall: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/49PRWA2vUs2zT6jlq8RC4Q) | 7:59 | 2023-06-08 |  |
@@ -149,7 +150,7 @@
 | [Searching for Friends](https://open.spotify.com/track/5QyHhBb4HvopZSmqdXd5gx) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VI Original Soundtrack](https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY) | 2:58 | 2021-05-21 | 2023-06-09 |
 | [Serah's Theme \- Memories \-](https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073) | [frances maya](https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:47 | 2023-06-08 | 2024-03-14 |
 | [Servants of the Mountain](https://open.spotify.com/track/0d3mX4cZEucXC2TNYtGpix) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:42 | 2023-06-08 |  |
-| [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 | 2023-06-08 |  |
+| [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 | 2023-06-08 | 2024-04-03 |
 | [Shirma's Theme](https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk) | [川上 泰広](https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 1:29 | 2023-06-08 |  |
 | [Something to Protect](https://open.spotify.com/track/1Q8r1VpWANopsO29Mx2vcq) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 2:21 | 2021-05-21 | 2023-06-09 |
 | [Somnus](https://open.spotify.com/track/6wTVlrLR2qyEAbEuyoS7b2) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:29 | 2023-06-08 | 2024-02-11 |

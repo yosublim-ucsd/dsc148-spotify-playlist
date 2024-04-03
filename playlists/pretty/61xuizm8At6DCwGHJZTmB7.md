@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 ### [Worship 2024](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Celebrate Easter season with your favorite worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
+> Worship 2024 \| Celebrate Easter season with your favorite worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,524 likes - 163 songs - 15 hr 39 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,526 likes - 163 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 162 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 | 163 | [Radical Love \(The Joy Song\) \- Live](https://open.spotify.com/track/2WeQ5ufNKqxIkCdcNms3tH) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Radical Love \(The Joy Song\) \[Live\]](https://open.spotify.com/album/4UYnCX4Xnlf4Po9jhgvoZy) | 5:21 |
 
-Snapshot ID: `Nzc5MyxiNWI0NGUwMDAxOTE4MTk3ODAwNmQzMmFlODQ5N2NkYzhhNTEwODQ5`
+Snapshot ID: `Nzc5NCw4ZGE1MDU3YThmZmE2YjgyN2ZhZjEzZjc0OGM2ZDJhMGJjODE2Mjdh`

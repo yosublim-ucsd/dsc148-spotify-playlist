@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11700,
+  "num_followers": 11702,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjhiMWNkM2ExNGU3MTA5YTVlZTgyOTlmNGExMTFlYWJlN2ViYmVl",
+  "snapshot_id": "MCw5YmRlZTZkYmVjNjc3ODhjMTYwMmNjYTc5MDM0ZmE2YmVmZThmNWU1",
   "tracks": [
     {
       "added_at": "2024-03-20 11:31:22",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 280599,
+      "name": "Death Where is Your Sting",
+      "url": "https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e"
+    },
+    {
+      "added_at": "2024-03-20 11:31:22",
+      "album": {
         "name": "Cutting Edge 1 & 2",
         "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
       },
@@ -499,26 +515,6 @@
       "duration_ms": 370360,
       "name": "I Could Sing of Your Love Forever",
       "url": "https://open.spotify.com/track/1yowMNvS59dTccbZosir2o"
-    },
-    {
-      "added_at": "2024-03-20 11:31:22",
-      "album": {
-        "name": "Let There Be Light (Deluxe)",
-        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
-        }
-      ],
-      "duration_ms": 406173,
-      "name": "Behold (Then Sings My Soul) - Live",
-      "url": "https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb"
     },
     {
       "added_at": "2024-03-20 11:31:22",
@@ -543,18 +539,22 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
         }
       ],
-      "duration_ms": 280599,
-      "name": "Death Where is Your Sting",
-      "url": "https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e"
+      "duration_ms": 406173,
+      "name": "Behold (Then Sings My Soul) - Live",
+      "url": "https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb"
     },
     {
       "added_at": "2024-03-20 11:31:22",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 334333,
+      "name": "Mercy - Live",
+      "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
+    },
+    {
+      "added_at": "2024-03-20 11:31:22",
+      "album": {
         "name": "Mercy Road",
         "url": "https://open.spotify.com/album/4NkTCWHns2QHBm6KW4ToMl"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 284614,
       "name": "Praise The Lord (Evermore)",
       "url": "https://open.spotify.com/track/1A82wdBbRssHNP5PZSQctn"
-    },
-    {
-      "added_at": "2024-03-20 11:31:22",
-      "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 334333,
-      "name": "Mercy - Live",
-      "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
     },
     {
       "added_at": "2024-03-20 11:31:22",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
+    },
+    {
+      "added_at": "2024-03-20 11:31:22",
+      "album": {
         "name": "Alive In You (Studio Version)",
         "url": "https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 239999,
       "name": "Alive In You - Studio Version",
       "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
-    },
-    {
-      "added_at": "2024-03-20 11:31:22",
-      "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
     },
     {
       "added_at": "2024-03-20 11:31:22",

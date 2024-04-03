@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,680 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,705 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 35 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 |
 | 36 | [Amor De Adolescentes](https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:10 |
 | 37 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 |
-| 38 | [Furia Loca \(Mujer Cósmica\)](https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Furia Loca](https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S) | 3:10 |
-| 39 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
+| 38 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
+| 39 | [Furia Loca \(Mujer Cósmica\)](https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Furia Loca](https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S) | 3:10 |
 | 40 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 |
 | 41 | [Como Duele](https://open.spotify.com/track/0tZnVy1SdzL4GkNtSgM6VU) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Cumbia Casera](https://open.spotify.com/album/2ML2QNYZaJgM8lhFRg3Kp6) | 4:07 |
 | 42 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 79 | [Cómo Dejar de Amarte y Otros](https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 5:16 |
 | 80 | [Báilalo](https://open.spotify.com/track/6alTFoL40Dus2VxxlDDuIP) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Garras de Amor](https://open.spotify.com/album/6NYscBO59Jo5Y5aRYno3cZ) | 3:49 |
 | 81 | [Te Vuelvo a Ver](https://open.spotify.com/track/4oZLfuC6t6hPydvhJBdfm5) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 3:38 |
-| 82 | [No te lo puedo creer](https://open.spotify.com/track/2mtlU0zHtox2WJPMdfZzyr) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [La Pasión Florece](https://open.spotify.com/album/3ajxuhibornCsqd160ASSU) | 3:48 |
+| 82 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 83 | [Después De Ti](https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Después De Ti](https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO) | 3:12 |
-| 84 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
+| 84 | [No te lo puedo creer](https://open.spotify.com/track/2mtlU0zHtox2WJPMdfZzyr) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [La Pasión Florece](https://open.spotify.com/album/3ajxuhibornCsqd160ASSU) | 3:48 |
 | 85 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 |
 | 86 | [¿Y Qué Pasó?](https://open.spotify.com/track/2g3izj5ofjo2oNkOymMV9G) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [¿Y Qué Pasó?](https://open.spotify.com/album/2QDDIJhR9YNN8Mnm2IHVs8) | 4:13 |
 | 87 | [La Mesa del Rincón](https://open.spotify.com/track/7FirJZsR2n0VWs1rzMjdms) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 99 | [No Te Marches](https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ) | [Potencia](https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ) | [Destruye](https://open.spotify.com/album/696bj0AMsu8y5wED4IJCVC) | 3:08 |
 | 100 | [Porque Te Quiero](https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alegrìa](https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV) | [El Legado](https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH) | 1:17 |
 
-Snapshot ID: `MCw2NGQ3Yjc2YTgyYzNlZTZkMDY5NTJhYThlNmE4MzAyNjc5MjMwOGJk`
+Snapshot ID: `MCw1OTNhZTdhYzUzNDgxNDFhMmQ5MTJiNWI5YzI0MTdiNjE4ZWU3MTQz`

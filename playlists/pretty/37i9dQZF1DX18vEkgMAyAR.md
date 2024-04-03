@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,844 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,854 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 56 | [Life Without Fantasies \- Radio Edit](https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd) | [Life Without Fantasies \(Radio Edit\)](https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf) | 2:41 |
 | 57 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
 | 58 | ['Til I Found You](https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [‘Til I Found You](https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE) | 2:52 |
-| 59 | [Say You Will Remember Me \- Remix](https://open.spotify.com/track/4r4vKPPrhM8leqcpjnT9QC) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP), [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI) | [Say You Will Remember Me \(Remix\)](https://open.spotify.com/album/3R6zzWT8hdZhGQ3XTUTmuQ) | 2:54 |
-| 60 | [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 |
+| 59 | [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 |
+| 60 | [Say You Will Remember Me \- Remix](https://open.spotify.com/track/4r4vKPPrhM8leqcpjnT9QC) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP), [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI) | [Say You Will Remember Me \(Remix\)](https://open.spotify.com/album/3R6zzWT8hdZhGQ3XTUTmuQ) | 2:54 |
 
-Snapshot ID: `MCxlNWI1NDFlYzA4YTJlOWU2ODRkNDgyNzgwNDI4MjdiYzRlNWYzYzc0`
+Snapshot ID: `MCw1MDliNjExZDA3NDZlMjc0MTkxODE0NDA3Y2FiZWY3MjQ5NmIwNGRl`

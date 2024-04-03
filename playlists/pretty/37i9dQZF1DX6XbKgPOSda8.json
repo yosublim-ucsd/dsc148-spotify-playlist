@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 196822,
+  "num_followers": 196936,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmEwZjBiYjEwNjE4YWZhNDllMmQ5MmU1NjZiNjg0OGQ4N2YzNjM0",
+  "snapshot_id": "MCwzNTkwMzhkYTYxNGIwY2EzZTM5NTIwYzcwNGYyZGRmZDcwNGM0NmY1",
   "tracks": [
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5"
-      },
-      "artists": [
-        {
-          "name": "Efr\u00e9n David",
-          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
-        }
-      ],
-      "duration_ms": 272091,
-      "name": "Abandonado",
-      "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Para Que La Cu\u00f1a Apriete",
         "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 296680,
       "name": "La Rumba Quimbumba",
       "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5"
+      },
+      "artists": [
+        {
+          "name": "Efr\u00e9n David",
+          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
+        }
+      ],
+      "duration_ms": 272091,
+      "name": "Abandonado",
+      "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
-        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
+        "name": "EL CONDOR LEGENDARIO",
+        "url": "https://open.spotify.com/album/1rqPo5ION00UAC96FiARAW"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "duration_ms": 195440,
-      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
-      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
+      "duration_ms": 266913,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/74sCPhSM33BvUge3gKG5jn"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
+        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
+        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
+      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "EL CONDOR LEGENDARIO",
-        "url": "https://open.spotify.com/album/1rqPo5ION00UAC96FiARAW"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 266913,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/74sCPhSM33BvUge3gKG5jn"
     },
     {
       "added_at": "2022-08-02 23:23:30",

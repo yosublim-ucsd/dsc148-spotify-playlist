@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,685 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,689 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 43 | [Smile Good Bye](https://open.spotify.com/track/1vu1wBqNQrb4xd1LkGZUhP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Fu Bao and Grandfather, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/63VEhZPp18K6viQ4NNb0Zt) | 3:48 |
 | 44 | [To Be With You](https://open.spotify.com/track/4VGDRQew8w2ngeDNpRTMXt) | [Kim Won Shik](https://open.spotify.com/artist/38g92CVDtbiO4MiYXdpkUU) | [To Be With You](https://open.spotify.com/album/2OSHAiHz3wQW2NCFsqkBPd) | 3:34 |
 | 45 | [Click](https://open.spotify.com/track/2kFUlPHiyXAYMfE0fhoRS4) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Click](https://open.spotify.com/album/1kzTxZPwbdRGZFP0Nt7p0f) | 2:45 |
-| 46 | [虛情假意（BFF）ft.Bryn](https://open.spotify.com/track/3RihlsaFKlbFebOCzuBPhO) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [虛情假意（BFF）ft.Bryn](https://open.spotify.com/album/5cQnI6iOEEYcW3zzzhLDmW) | 2:33 |
+| 46 | [虛情假意\(BFF\) ft\. Bryn](https://open.spotify.com/track/3RihlsaFKlbFebOCzuBPhO) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [虛情假意\(BFF\) ft\. Bryn](https://open.spotify.com/album/5cQnI6iOEEYcW3zzzhLDmW) | 2:33 |
 | 47 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 |
 | 48 | [Hot](https://open.spotify.com/track/5D7w16n1m5IjOvXt0n0UsA) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [Hot](https://open.spotify.com/album/6oSm3npMMUM7ijmaIbEiUV) | 3:05 |
 | 49 | [To The Time](https://open.spotify.com/track/6Q1Umuvknq8jsOv22rSW3o) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [To The Time](https://open.spotify.com/album/0ivJbSOkL1yLZ1FCYOwZfw) | 2:30 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 97 | [cold hands](https://open.spotify.com/track/5di3aBPDWVWOqWv8re4B9D) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [cold hands](https://open.spotify.com/album/4JDyppzh6NsiPUOX56qb0E) | 4:51 |
 | 98 | [Pretend](https://open.spotify.com/track/5FrRc247Vd0xAZpIw0wNyH) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Pretend](https://open.spotify.com/album/06QUCNgUMQuniwmCmlQtya) | 3:08 |
 | 99 | [Sunday Song](https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Sunday Song](https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb) | 3:30 |
-| 100 | [Wannabesad Song](https://open.spotify.com/track/4yqxny2mF54hWTaYaixHt3) | [Door Plant](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Wannabesad Song](https://open.spotify.com/album/7GPhrj2rvTB4wwqLX8UnzQ) | 3:05 |
+| 100 | [Wannabesadsong](https://open.spotify.com/track/4yqxny2mF54hWTaYaixHt3) | [Door Plant](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Wannabesad Song](https://open.spotify.com/album/7GPhrj2rvTB4wwqLX8UnzQ) | 3:05 |
 
-Snapshot ID: `MCw4ZmY3ZWZjYWI5NzdlNjU3MDgwMmJiMmU0MzMzMTk2N2M0YzhlZmRl`
+Snapshot ID: `MCw0ZGIyNTVmZGIxYWNhNmVmYTliNjBlZTVmYjI4MzlmYjYwZDlkMDdk`

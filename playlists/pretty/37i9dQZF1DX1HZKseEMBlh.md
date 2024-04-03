@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HZKseEMBlh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/michaelraineyjr/">Michael Rainey Jr.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 605 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HZKseEMBlh.md) - [plain]
 | 10 | [Real Niggas Don't Rap](https://open.spotify.com/track/0r6uD6Ay1jonQHID1HVlyZ) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:53 |
 | 11 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 |
 | 12 | [buku](https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [buku](https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog) | 2:17 |
-| 13 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 |
+| 13 | [Mode](https://open.spotify.com/track/3lCMqaFQ9q5gr63PVInLhM) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/7FYhyuedJWaLVslfsCstUm) | 1:47 |
 | 14 | [Paperwork Party](https://open.spotify.com/track/6qqTJi869PVznfDEnsplMc) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [For You](https://open.spotify.com/album/5pMiGO7ETSDq0eiOLTKhRN) | 2:56 |
 | 15 | [Law & Order pt\. 2](https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [50jittsteppa](https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf) | [Law & Order pt\. 2](https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM) | 3:59 |
 | 16 | [When It Rains It Pours](https://open.spotify.com/track/1cA2LExLTdhHLL0FmXoc57) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack](https://open.spotify.com/album/5D2CHiTlb8MXWJsZWXjkZf) | 4:02 |
 | 17 | [Finessin](https://open.spotify.com/track/7FYldGutEZ5PH9DOI7psFc) | [Baby E](https://open.spotify.com/artist/3AhRH2q3GOnk8r1ZPHBnRM) | [Finessin](https://open.spotify.com/album/192SXosAd80AERf0q8AOO0) | 2:51 |
 | 18 | [Dunce Cheque](https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Dunce Cheque](https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi) | 2:36 |
 | 19 | [Protocol](https://open.spotify.com/track/5SqaYcPSRGSg7ZzT7aLzcK) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [1stClass](https://open.spotify.com/artist/2Ij4d78H8hZnKFSqX1gAwp) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 |
-| 20 | [Mr\. Too Sticky](https://open.spotify.com/track/2Yn1AYOzl5pK0CNxfuGRZU) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 2:25 |
+| 20 | [Mr\. Too Sticky](https://open.spotify.com/track/4oyydUmn3HBOEyz2H49NW5) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/7FYhyuedJWaLVslfsCstUm) | 2:25 |
 | 21 | [Fat Racks Pt\. 2](https://open.spotify.com/track/0gYr2tuq05c8z55b9cDnYm) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [My Vision](https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X) | 3:43 |
 | 22 | [shake it](https://open.spotify.com/track/1D80PjSWnBFFfMIUTxrSw9) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [shake it](https://open.spotify.com/album/7h8QPoIbbfa2v2pADNvZxH) | 2:23 |
 | 23 | [game](https://open.spotify.com/track/3U7irqVxOMxG3ZkOgMf3My) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [game](https://open.spotify.com/album/1WbNkTi9JZ4AK0VmfmMrSr) | 3:05 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HZKseEMBlh.md) - [plain]
 | 35 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
 | 36 | [One in the Head](https://open.spotify.com/track/2mwcLMBHCVKijk3UND3mI9) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 2:31 |
 
-Snapshot ID: `MCxkYTQwODU5ZTQ5ZjNmZGQyYTE0M2Q1ZWU0OTM1OWZhYjZlNDBjZDkz`
+Snapshot ID: `MCxkMzMwNDg4ODg5MGI1ZmI4NzUyZTUyODA2NTcyMDcwNzdkNmYwZGE0`

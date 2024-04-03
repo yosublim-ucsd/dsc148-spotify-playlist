@@ -4446,7 +4446,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 125952,
       "name": "Hija De P",
       "url": "https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz"
@@ -8942,7 +8942,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 224000,
       "name": "Pr\u00f3ximo Diciembre",
       "url": "https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq"
@@ -9034,6 +9034,24 @@
     {
       "album": {
         "name": "Quasimodo",
+        "url": "https://open.spotify.com/album/3II4zBlqHfG0rZJ3dfK2Zq"
+      },
+      "artists": [
+        {
+          "name": "ERRE TRES",
+          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125702,
+      "name": "Quasimodo",
+      "url": "https://open.spotify.com/track/0j8s3aMzNWribuvPjEyjZW"
+    },
+    {
+      "album": {
+        "name": "Quasimodo",
         "url": "https://open.spotify.com/album/6qmaa1ZoiZpVHFPhgzYhaX"
       },
       "artists": [
@@ -9044,7 +9062,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 125702,
       "name": "Quasimodo",
       "url": "https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc"

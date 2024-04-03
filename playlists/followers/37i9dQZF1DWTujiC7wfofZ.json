@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 435479,
+  "2024-04-03": 435488,
   "date_first_scraped": "2022-12-29",
   "description": "All the indie disco platters that matter.",
   "name": "Indie Party",
@@ -3638,6 +3638,24 @@
     },
     {
       "album": {
+        "name": "The Best of Depeche Mode, Vol. 1 (Deluxe)",
+        "url": "https://open.spotify.com/album/0h1RmJe86n74nWpNWWb2dj"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "Personal Jesus",
+      "url": "https://open.spotify.com/track/72a9JWKqJ8SGo0OdyCS12P"
+    },
+    {
+      "album": {
         "name": "Personal Jesus",
         "url": "https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8"
       },
@@ -3653,7 +3671,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 224906,
       "name": "Personal Jesus - Original Single Version",
       "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"

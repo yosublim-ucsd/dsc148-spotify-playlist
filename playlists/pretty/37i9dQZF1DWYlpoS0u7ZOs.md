@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: EEVAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,745 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,749 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 51 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 |
 | 52 | [Heart](https://open.spotify.com/track/377QrI3QW7BLKSPDrum5pk) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7) | [Heart](https://open.spotify.com/album/1LrwyJ5KRhWc5lf7u1QPTM) | 3:23 |
 | 53 | [Silver Sun](https://open.spotify.com/track/7g2paPF2JQLYBuEwLswKkH) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Silver Sun](https://open.spotify.com/album/4Xqd51xOQGyyj5QgNittz0) | 3:35 |
-| 54 | [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 |
+| 54 | [D.I.A.D.](https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 2:57 |
 | 55 | [Universal Credit](https://open.spotify.com/track/272KzgZU381dedN18b7qzT) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Universal Credit](https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa) | 3:18 |
 | 56 | [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 |
 | 57 | [Kids Wanna Dance](https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Kids Wanna Dance](https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 59 | [Dead Poets Society](https://open.spotify.com/track/0tZOLoCGFPHuR2NPbuqHfE) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:43 |
 | 60 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
 
-Snapshot ID: `MCwxYWNkMTY0MjE3OGM5YzNkMmNkZmQ2Y2NiY2E2NDRlM2IwMGRiMTgx`
+Snapshot ID: `MCw1MTQ2ZjJjNTVmZGUwZWQ0ZWU3N2RlMTVmN2Y4ZDA3YTcwMDI5NTU5`

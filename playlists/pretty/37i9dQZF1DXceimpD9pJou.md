@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,338 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,423 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Por Ti](https://open.spotify.com/track/0cA1CpeBsnKgNeX45TRRHW) | [MBO la Nueva Forma](https://open.spotify.com/artist/39Tz9Pbpn6zh2m0KrgS3Ho), [JRMusic JayRicky](https://open.spotify.com/artist/4je6RyF9YH23F3UpnIpVfx) | [Por Ti](https://open.spotify.com/album/0T6k5TDMThQ4CM8LWCQdMQ) | 3:12 |
 | 100 | [Estás Aquí](https://open.spotify.com/track/59XLFhMSQa2JXjHzwUi3qb) | [Tommy Bueno](https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR), [Ismael Telfort](https://open.spotify.com/artist/3FbP9X2FOcBNsClb8P7jXt), [BOUE](https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH) | [Estás Aquí](https://open.spotify.com/album/1I5Am1vRy3XDI5lZDsOPYr) | 3:19 |
 
-Snapshot ID: `MCxmMTJkMTZjMTBmM2VhOGFlMjBmMmJkYzUzZDU0ZWVkNjQwZTk1Y2Ew`
+Snapshot ID: `MCwyZGZhOGNmNGYyMWMzYTc2ZTc3ZjRlODJhMjA0ZGMzMDFhMmRiNmMy`

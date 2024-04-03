@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 141836,
+  "num_followers": 141891,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmU4ZjgzM2E5M2I1ZmIxZTM1OTRiM2EzMzE0MTc2Y2M0YWJkOWY5",
+  "snapshot_id": "MCxmYTYxNzNlZjZkN2Y1MjY5YzE1MzBhYjNiMjQ1NDg0MGNkZTViZjQ5",
   "tracks": [
     {
       "added_at": "2024-03-29 15:00:00",
@@ -359,22 +359,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Gordo Rata (En Vivo)",
-        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Gordo Rata - En Vivo",
-      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -395,18 +391,42 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
         }
       ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Un sue\u00f1o hecho realidad",
+        "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        },
+        {
+          "name": "Gladys La Bomba Tucumana",
+          "url": "https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "La pollera amarilla",
+      "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -423,22 +443,6 @@
       "duration_ms": 177739,
       "name": "No Llores - En Vivo",
       "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "En Teatro del Huerto",
-        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 260755,
-      "name": "Entre el Cielo Vos y Yo - En Vivo",
-      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -463,22 +467,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Un sue\u00f1o hecho realidad",
-        "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
+        "name": "En Teatro del Huerto",
+        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        },
-        {
-          "name": "Gladys La Bomba Tucumana",
-          "url": "https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 186706,
-      "name": "La pollera amarilla",
-      "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
+      "duration_ms": 260755,
+      "name": "Entre el Cielo Vos y Yo - En Vivo",
+      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
-      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Amiga Traidora (En Vivo)",
         "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 236736,
       "name": "Amiga Traidora - En Vivo",
       "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
+      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "El Ni\u00f1o (En Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/2ZlaAvyAp0jI5k8zHglaSO"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Orquesta Infanto-juvenil de Constituci\u00f3n",
-          "url": "https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v"
-        }
-      ],
-      "duration_ms": 295778,
-      "name": "El Ni\u00f1o - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/3lwB6hwSgLec4z5SgoghHc"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -807,6 +787,22 @@
       "duration_ms": 278133,
       "name": "Como Podr\u00e9",
       "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Show En Parque Recondo",
+        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 131287,
+      "name": "Decir Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -827,18 +823,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Show En Parque Recondo",
-        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+        "name": "El Ni\u00f1o (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/2ZlaAvyAp0jI5k8zHglaSO"
       },
       "artists": [
         {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Orquesta Infanto-juvenil de Constituci\u00f3n",
+          "url": "https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v"
         }
       ],
-      "duration_ms": 131287,
-      "name": "Decir Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
+      "duration_ms": 295778,
+      "name": "El Ni\u00f1o - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/3lwB6hwSgLec4z5SgoghHc"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Gira y La Serenata",
-        "url": "https://open.spotify.com/album/5QinfgsUxJrIreNnHyOzTN"
+        "name": "10 A\u00f1os Movistar Arena",
+        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 291054,
-      "name": "Pedazo De Papel - En Vivo En Arena Maip\u00fa Mendoza",
-      "url": "https://open.spotify.com/track/5JhAgBgjwjCJqgG58QFVmG"
+      "duration_ms": 243275,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "10 A\u00f1os Movistar Arena",
-        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 243275,
-      "name": "Amor Sin Fronteras",
-      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Crecer (En Vivo)",
         "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+        "name": "La Gira y La Serenata",
+        "url": "https://open.spotify.com/album/5QinfgsUxJrIreNnHyOzTN"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 439586,
-      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
-      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+      "duration_ms": 291054,
+      "name": "Pedazo De Papel - En Vivo En Arena Maip\u00fa Mendoza",
+      "url": "https://open.spotify.com/track/5JhAgBgjwjCJqgG58QFVmG"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 328000,
       "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
       "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "En Vivo Desde el Teatro Opera",
         "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
     },
     {
       "added_at": "2024-03-29 15:00:00",

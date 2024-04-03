@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Sebastian Esquivel, Eugenio Esquivel & Blessd is bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,886,342 likes - 25 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,886,357 likes - 25 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:45 |
 | 25 | [100xCiento](https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [100xCiento](https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy) | 3:39 |
 
-Snapshot ID: `MCwzZDI0ZjhhNGY4MmU4MTFjZmIzMjk0YzUyMjMwMzY5NzY5ZjY4YWJm`
+Snapshot ID: `MCw5MWNiMjFkMjAyMWJhOWU0MTAzYzlkNDY2YmZiMDM1MmZjZDdlZTlk`

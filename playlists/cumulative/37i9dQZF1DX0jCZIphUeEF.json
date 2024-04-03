@@ -162,10 +162,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 336173,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/4mLmcxQbLDx6vDo3tJ2l5G"
+    },
+    {
+      "album": {
+        "name": "Made In Vienna",
+        "url": "https://open.spotify.com/album/40lDCCJdJKDzbvmqOoIzAY"
+      },
+      "artists": [
+        {
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
+        },
+        {
+          "name": "Bam",
+          "url": "https://open.spotify.com/artist/266KnFu1bjR3mOqfh8UUP5"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216640,
+      "name": "Back In The Days feat. Bam",
+      "url": "https://open.spotify.com/track/1CNZs1QyaXYIiYG5DsPi2i"
     },
     {
       "album": {
@@ -390,6 +412,24 @@
       "duration_ms": 313748,
       "name": "Blinding Lights - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo"
+    },
+    {
+      "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/2KYh0PugQEVf7J9Fzgs2eK"
+      },
+      "artists": [
+        {
+          "name": "True School Players",
+          "url": "https://open.spotify.com/artist/3DAS9b7xrdp835xEArGReL"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Blow Your Mind",
+      "url": "https://open.spotify.com/track/19hukpFMMKqPii52MBmw0O"
     },
     {
       "album": {
@@ -1715,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Liquid Samba / The Journey",
+        "url": "https://open.spotify.com/album/328bj8sH0ZZmccNs1BBToh"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211058,
+      "name": "Liquid Samba",
+      "url": "https://open.spotify.com/track/0quSOPli5zygsNHB0CC51P"
+    },
+    {
+      "album": {
         "name": "Live Your Life With Me",
         "url": "https://open.spotify.com/album/5Qc4nQJsaZt1bSCqEB3shw"
       },
@@ -1974,6 +2032,28 @@
       "duration_ms": 278044,
       "name": "Messiah - Edit",
       "url": "https://open.spotify.com/track/4BRPlCE7YYYlVzRzMwIesY"
+    },
+    {
+      "album": {
+        "name": "Mevora",
+        "url": "https://open.spotify.com/album/1AltCm9lJJ0v13WqHWpX37"
+      },
+      "artists": [
+        {
+          "name": "Ramyen",
+          "url": "https://open.spotify.com/artist/6qro4zFLmWn0Vsu4XOX8I2"
+        },
+        {
+          "name": "Amine K",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360245,
+      "name": "Mevora - Amine K Remix",
+      "url": "https://open.spotify.com/track/6yRT520noCWyFfuz6xeA5c"
     },
     {
       "album": {
@@ -2530,7 +2610,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 181935,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/36lYZjm25MiciLPbUUgt6w"
@@ -2922,7 +3002,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 247680,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/6FAGFcIJfSzuDDk2Rbz3pi"
@@ -3210,7 +3290,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 402120,
       "name": "This Is Hot (Yes Indeedy) - Original Mix",
       "url": "https://open.spotify.com/track/7d1kfcrdz92icwzknr9Owi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,536 likes - 78 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,573 likes - 78 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 52 | [All I Need](https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [IS U IS U](https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX) | [All I Need](https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI) | 2:58 |
 | 53 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 |
 | 54 | [The Song Of You](https://open.spotify.com/track/6qPPNp1IXn5StfE3SrCbw1) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [The Song Of You](https://open.spotify.com/album/6Ad7G1yO4M0ub2ijUkbszq) | 2:10 |
-| 55 | [Living in a Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living in a Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
+| 55 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
 | 56 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
 | 57 | [yeaaa](https://open.spotify.com/track/7LRCka2KbO2TylPOYdhASf) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [yeaaa](https://open.spotify.com/album/1Qgi155gfjdPrtV7xaauqB) | 2:03 |
 | 58 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 77 | [YOU DON'T LIKE ME](https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [YOU DON'T LIKE ME](https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4) | 2:44 |
 | 78 | [Face of God](https://open.spotify.com/track/4A9M5nq0KsU8A58nfoFb0q) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Face of God](https://open.spotify.com/album/4kx3eYF1Sin4wwe15Kj0ih) | 5:18 |
 
-Snapshot ID: `MCw4MGNlZWQ5NjMwNDM4MjdmNjI4MGQ1NmUzYTYxZTFlYTE0YjAzN2I3`
+Snapshot ID: `MCxiZDY0MWI2MDZiOGM3MDIzNGNhYmEwZWYzMDExYTEyMjQ5YWJmZGFm`

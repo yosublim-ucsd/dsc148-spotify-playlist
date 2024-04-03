@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Elmatadormc7
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,562 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,784 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Amore Mio \(feat\. Sfera Ebbasta, Jul\)](https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:41 |
-| 2 | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK) | 2:48 |
-| 3 | [Acqua Passata](https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Acqua Passata](https://open.spotify.com/album/18gBtYf9XjFqf2m0Sk7cnT) | 3:09 |
-| 4 | [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 |
-| 5 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 |
-| 6 | [DOPO LE 4 \(feat\. Bresh & Tedua\)](https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:02 |
+| 1 | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK) | 2:48 |
+| 2 | [Amore Mio \(feat\. Sfera Ebbasta, Jul\)](https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:41 |
+| 3 | [DOPO LE 4 \(feat\. Bresh & Tedua\)](https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:02 |
+| 4 | [Acqua Passata](https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Acqua Passata](https://open.spotify.com/album/18gBtYf9XjFqf2m0Sk7cnT) | 3:09 |
+| 5 | [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 |
+| 6 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 |
 | 7 | [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 |
 | 8 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 |
 | 9 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 |
 | 50 | [07:34](https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [07:34](https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f) | 3:11 |
 
-Snapshot ID: `MCwwMjFkY2E1YzRkYTY1YTY3NmFjY2Q1OGQ4M2QwMjY1OWM4ZGYwOTM3`
+Snapshot ID: `MCxlMjdhYWE4MTU1ZGJhNjA3MzAyYzU0OWRkZWQyZmExMTdlMWMzNDJj`

@@ -1384,7 +1384,7 @@
     {
       "album": {
         "name": "Mi Luna, Mi Estrella",
-        "url": "https://open.spotify.com/album/0vtzTnshlCu88kn4RDPIA0"
+        "url": "https://open.spotify.com/album/59SsaeoGjuGowJkqBIJgvi"
       },
       "artists": [
         {
@@ -1395,6 +1395,24 @@
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176143,
+      "name": "Gilberton",
+      "url": "https://open.spotify.com/track/2dMSWkxAUEpO1suYpum6Fd"
+    },
+    {
+      "album": {
+        "name": "Mi Luna, Mi Estrella",
+        "url": "https://open.spotify.com/album/0vtzTnshlCu88kn4RDPIA0"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-03",
       "duration_ms": 178181,
       "name": "Gilberton",
       "url": "https://open.spotify.com/track/2KSADu2MYdJKOjqRp0i0Sf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: BXKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,085 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,149 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 |
 | 60 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 
-Snapshot ID: `MCxiMmY0YjI3NzI2N2Y4M2Q1MTlkOGJhNTE5MjQxZDRlYjY2NzkwMzk5`
+Snapshot ID: `MCxlOGFkOGM2OWVmZjcxNjlhNzFiODRjZTJjMWE1ZjM1ZmU4NWUxZTBk`

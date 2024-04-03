@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Rhove
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,150 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,451 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 22 | [Blocco](https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:01 |
 | 23 | [Get This Money](https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Get This Money](https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3) | 2:34 |
 | 24 | [Soli \(feat\. Oxlade\)](https://open.spotify.com/track/4iH8oAcez4MNKbejc1JnAJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:26 |
-| 25 | [EMBASSY / AMBASADA](https://open.spotify.com/track/4Oa9XS4sTknYw9awQN5cEt) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [młody klakson](https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu), [kittiesloverage](https://open.spotify.com/artist/6CvKpD5oXOVHdlkQDTsbq8) | [EMBASSY / AMBASADA](https://open.spotify.com/album/2QzbcB3H2SnY8jmpW6ec0p) | 2:07 |
+| 25 | [EMBASSY / AMBASADA](https://open.spotify.com/track/4Oa9XS4sTknYw9awQN5cEt) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [młody klakson](https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu), [kittiesloverage](https://open.spotify.com/artist/6CvKpD5oXOVHdlkQDTsbq8), [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [EMBASSY / AMBASADA](https://open.spotify.com/album/2QzbcB3H2SnY8jmpW6ec0p) | 2:07 |
 | 26 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/6kgaI3kHkqmRimeGQdS4Ga) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:28 |
 | 27 | [Red Dot \(feat\. Shindy & AJ Tracey\)](https://open.spotify.com/track/09i3DCifm50ivVqqi3zl9b) | [DJ JEEZY](https://open.spotify.com/artist/6Ql5ZUhTCAn62skkbRJWCq), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Red Dot \(feat\. Shindy & AJ Tracey\)](https://open.spotify.com/album/3SJsRSQVnC5WW9i6NTKsRL) | 1:53 |
 | 28 | [KTM](https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [KTM](https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF) | 6:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 99 | [Freedom Of Speech](https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Freedom Of Speech](https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8) | 2:49 |
 | 100 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 |
 
-Snapshot ID: `MCxhOGFjYWMwMmJhY2FlN2I2ZGU3MzQwZjM5ZTYyMDNmMzExNjYzYWFj`
+Snapshot ID: `MCxkOTgyZDc3YjVjZWNjMmM0OTBhNGNiODNlMmQ1MWJlZGEwZWRmYTY5`

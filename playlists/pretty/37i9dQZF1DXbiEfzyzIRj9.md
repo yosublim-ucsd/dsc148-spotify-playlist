@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,438 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,444 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Turquois](https://open.spotify.com/track/4a1yNWfc7JMijO1HyBLD44) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Yasuhiko Terada](https://open.spotify.com/artist/6NF1MoiQ2ohdyicYKOQFQ5) | [Turquois](https://open.spotify.com/album/0VdMnpln0AdrBfkBPCI2bO) | 6:56 |
 | 100 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 
-Snapshot ID: `MCwwY2I2NmJlMWVlZWJlNTU3YWNkOWMwMTk2MmYzNjlkNmFhMTk5NzM3`
+Snapshot ID: `MCwyMGZiNGE3MzFkNDQ3MzFiOGExNDI0ZTE5M2YwOWJiYWUzYjI1Njdj`

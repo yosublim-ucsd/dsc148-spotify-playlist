@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: POP MONEY WORLDWIDE\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,528 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,531 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [HOW2RAGE](https://open.spotify.com/track/5HTagkZZOZRUCF9JJ4CHXH) | [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7) | [HOW2RAGE](https://open.spotify.com/album/356wzEeKWt19nAZnp8GWGg) | 1:52 |
 | 100 | [Nawala Nalang Ang Dati](https://open.spotify.com/track/5BD3WK9ZcW2C4wpqj9z1h8) | [Marq Aljo](https://open.spotify.com/artist/1Hp9XIpVkadYVZQ67rUbZj) | [Nawala Nalang Ang Dati](https://open.spotify.com/album/3axHGA7OHVnRAFVMzddnh7) | 3:14 |
 
-Snapshot ID: `MCwwZjUzMWNlMzk1ZDgwYjYwOTI1MWM2ODZiYTExN2FmY2JmNGQwYTM0`
+Snapshot ID: `MCwyNWIzMzNjNWU2YzFmYjQ2ODY4ZjQ5MjRiNDlkMWZmOWYyODgyMjUy`

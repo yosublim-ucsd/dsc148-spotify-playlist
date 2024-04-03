@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "Existo",
+        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175355,
+      "name": "Existo",
+      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
+    },
+    {
+      "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/3NnJPRCFbWl8UuMm78YnyK"
       },
@@ -1064,7 +1086,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 226488,
       "name": "La Posible Manera - En Vivo",
       "url": "https://open.spotify.com/track/4dKdZqYLNYQKko5z1ZU6hy"

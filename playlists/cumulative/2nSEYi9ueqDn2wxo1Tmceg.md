@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-826 songs - 2 day 8 hr 31 min
+827 songs - 2 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Chosen to Deserve](https://open.spotify.com/track/4Qw9BVghOFfjUyVWV26m2Q) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Chosen to Deserve](https://open.spotify.com/album/7geMCLNLhOhoutnVYES6t9) | 5:32 | 2023-02-01 | 2023-03-09 |
 | [Chum](https://open.spotify.com/track/5NdPS3yAClcmbsj9UwH5Hf) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [Chum](https://open.spotify.com/album/0rfSjODPFrcMWnFyt0aHhp) | 4:01 | 2023-05-03 | 2023-06-15 |
 | [City Limits \- Robert Hood Remix](https://open.spotify.com/track/5ZLuggSCBLcAlQZY565lLW) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH), [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [City Limits \(Robert Hood Remix\)](https://open.spotify.com/album/5BS7B5x7YxbQVr7oTsGmZ7) | 6:59 | 2023-03-15 | 2023-04-27 |
+| [City Warm Heart](https://open.spotify.com/track/3nqjxIyCFr72mrgbUvxX0y) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [City Warm Heart](https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52) | 3:01 | 2024-04-02 |  |
 | [Clark](https://open.spotify.com/track/2puVQlK6JPu2aMTJNBrfKN) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 2:23 | 2023-05-24 | 2023-07-13 |
 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 | 2022-10-03 | 2022-10-13 |
 | [Closer](https://open.spotify.com/track/2fmyHaJBaPrT6cf1igqLgJ) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Anywhere But Here](https://open.spotify.com/album/18w7oi2HN7XeQD2CMNCFHV) | 3:46 | 2022-10-12 | 2022-12-01 |

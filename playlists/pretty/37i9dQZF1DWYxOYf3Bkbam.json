@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 47436,
+  "num_followers": 47450,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzgxOGE4NjEyODIwOGQ1OGRjODY5YWI0MDkxM2JiMjlkMTZlMTUx",
+  "snapshot_id": "MCwzNTRlOGUwMmFiOGFmZjUzYzU0MWU1Y2I1YjFmZmUxY2QyZjUyNmVj",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Taipero Poriahu",
+      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Taipero Poriahu",
-        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
       },
       "artists": [
         {
-          "name": "Antonio Tarrag\u00f3 Ros",
-          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Taipero Poriahu",
-      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -795,22 +811,6 @@
       "duration_ms": 134600,
       "name": "Soy Correntino y Doy Fe",
       "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
-      },
-      "artists": [
-        {
-          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
-          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
-        },
-        {
-          "name": "Luis Angel Torres",
-          "url": "https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB"
-        }
-      ],
-      "duration_ms": 379080,
-      "name": "El Cascabel",
-      "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
+      },
+      "artists": [
+        {
+          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
+          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
+        },
+        {
+          "name": "Luis Angel Torres",
+          "url": "https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB"
+        }
+      ],
+      "duration_ms": 379080,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Andando",
-        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
-      },
-      "artists": [
-        {
-          "name": "Litoral Tag\u00fce",
-          "url": "https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "General Madariaga",
-      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 170893,
       "name": "A villa Guillermina",
       "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
+      },
+      "artists": [
+        {
+          "name": "Litoral Tag\u00fce",
+          "url": "https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "General Madariaga",
+      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "Te amare eternamente",
-      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Te amare eternamente",
+      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
       },
       "artists": [
         {
-          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
-          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
         }
       ],
-      "duration_ms": 206573,
-      "name": "Al Gaucho Gil",
-      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

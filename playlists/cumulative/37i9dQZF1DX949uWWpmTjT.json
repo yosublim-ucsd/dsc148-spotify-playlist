@@ -3439,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Darn that Dream",
+        "url": "https://open.spotify.com/album/533MXY92csIUs0p23KoIZ5"
+      },
+      "artists": [
+        {
+          "name": "H\u00f6per & Lundgren",
+          "url": "https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299046,
+      "name": "Darn that Dream",
+      "url": "https://open.spotify.com/track/2o8e9FeYEFfRwQil9CArII"
+    },
+    {
+      "album": {
         "name": "Being In Love",
         "url": "https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX"
       },
@@ -16256,7 +16274,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 209430,
       "name": "Tideaway",
       "url": "https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY"

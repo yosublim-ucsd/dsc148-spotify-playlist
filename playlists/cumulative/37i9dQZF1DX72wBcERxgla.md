@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-509 songs - 1 day 2 hr 24 min
+517 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,8 @@
 | [Alice In Wonderland](https://open.spotify.com/track/4UJzmVIGyu3k4exTbjk5Yd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Alice In Wonderland](https://open.spotify.com/album/16Jiob3eM4vh7LSbXxyJoZ) | 4:58 | 2022-09-29 | 2023-03-25 |
 | [All Alone](https://open.spotify.com/track/3I5wdCgOJ0q3dBly0fyErW) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:26 | 2022-04-12 |  |
 | [All of Me](https://open.spotify.com/track/4vr75so9m40ADbmSmk0QuS) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [All of Me](https://open.spotify.com/album/1rjHLqSGXBZiwMzMnSrieY) | 2:12 | 2022-10-06 |  |
+| [All of Us](https://open.spotify.com/track/0vVUDEL9H275g7wgV7U7tB) | [Meg Lawrence](https://open.spotify.com/artist/4a6PAS1FZgcaDd99xc2wD1) | [All of Us](https://open.spotify.com/album/7p0Vwl3Mp4Yjp1PHPmCmjs) | 2:39 | 2024-04-02 |  |
+| [All The Sunsets](https://open.spotify.com/track/6jz0jqLMKheiA6I3FXwaic) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [All The Sunsets](https://open.spotify.com/album/6pLz4lVMYdKOeE6otpFeZg) | 3:06 | 2024-04-02 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/4JceM4LWSSUzGpy4SAUvY5) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Almost Like Being In Love](https://open.spotify.com/album/67oPqr2P9tzmMLNsa6Y4wb) | 2:38 | 2022-09-06 | 2023-05-12 |
 | [Alone together](https://open.spotify.com/track/5qZaX4WSpgvUHJo7XiuNEY) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Alone together](https://open.spotify.com/album/4coO5Gtnmh4FY37Duw2A9m) | 2:16 | 2023-06-15 |  |
 | [Am I Blue](https://open.spotify.com/track/1OYfanPIsbVYCvJYTDCjzz) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Am I Blue](https://open.spotify.com/album/7D6viYCA4iHApd0aQN2ALB) | 3:34 | 2023-08-10 |  |
@@ -67,6 +69,7 @@
 | [Break My Heart, Love](https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:57 | 2023-03-16 |  |
 | [But Beautiful](https://open.spotify.com/track/3Go7lD0l36UKtc5ocAazVv) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [But Beautiful](https://open.spotify.com/album/6hw3wT7eq3sQtG5kD6rcvQ) | 4:48 | 2022-04-12 |  |
 | [But Not For Me](https://open.spotify.com/track/19OV9LlkvwWW6Zz3pyyPEq) | [Riley Cobb](https://open.spotify.com/artist/3dtJzGK4kwhyCJJjnLsI9T) | [But Not For Me](https://open.spotify.com/album/4opEostLBBqzrbpFyFXPNy) | 2:56 | 2024-03-08 |  |
+| [But of course](https://open.spotify.com/track/3rK5GAVF7TiVeULcgK2Z4w) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [But of course](https://open.spotify.com/album/2KlWgUZEM0mOw14TWYwGOK) | 2:58 | 2024-04-02 |  |
 | [Can't Help Lovin' Dat Man](https://open.spotify.com/track/4RHRD6ZW9iC6Bixb0zY3G3) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Alfie](https://open.spotify.com/album/6FJY4E8KZ9yzv6WV6q8tOf) | 2:59 | 2022-08-10 |  |
 | [Can't We Be Friends](https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Can't We Be Friends](https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3) | 2:10 | 2023-08-10 |  |
 | [Caramelle](https://open.spotify.com/track/3aursaVkHsjlf72cAuhl41) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Caramelle](https://open.spotify.com/album/3Uv2i6LlSDo65sr76fdpHF) | 3:54 | 2022-04-12 |  |
@@ -132,6 +135,7 @@
 | [Everything Happens To Me](https://open.spotify.com/track/6nDBKDiLUbrRFe2Wyghmrb) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Everything Happens To Me](https://open.spotify.com/album/7tr6GwglHf1iIz81pe1j8p) | 3:46 | 2022-04-12 | 2022-11-25 |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-22 |  |
 | [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-13 |  |
+| [Faithful In Paradise](https://open.spotify.com/track/3qFofnQCLubRsgBlugtPdg) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Faithful In Paradise](https://open.spotify.com/album/5dAEvV7iXei0kLOO1a14UY) | 2:17 | 2024-04-02 |  |
 | [Fall Season](https://open.spotify.com/track/2lHTRwS933i16QlQqOcKHs) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Fall Season](https://open.spotify.com/album/6xITORsdl8I0P0mLVVYpHz) | 2:37 | 2023-10-27 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-02 |  |
 | [February Brings The Rain](https://open.spotify.com/track/4gR8q8utqVSpwz5Vv8gMys) | [Mill Basin](https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw) | [February Brings The Rain](https://open.spotify.com/album/2EEMlPkIAUOtxLs4ADIW3w) | 2:47 | 2023-04-13 |  |
@@ -147,6 +151,7 @@
 | [Forever Yours](https://open.spotify.com/track/3756RYg6B88hMEFRoMbarD) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [Forever Yours](https://open.spotify.com/album/7MEbAca7yBtqEEnagaxQR9) | 2:56 | 2024-02-02 |  |
 | [Four Casinos](https://open.spotify.com/track/04lRn70B8yfARIXJ4kyrWx) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Four Casinos](https://open.spotify.com/album/4h3c6zAo3Qj26fVX2Bmz2a) | 2:28 | 2023-05-25 |  |
 | [Friends And Strangers](https://open.spotify.com/track/6tZc3j3MwIP4dg4eiz6qgX) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Friends And Strangers](https://open.spotify.com/album/7zuHcKj8izOoEjfNUtuFjG) | 2:36 | 2023-04-13 |  |
+| [From Me To You](https://open.spotify.com/track/1aHk3RgcwX99ZuADGGOKRy) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [From Me To You](https://open.spotify.com/album/3RH2RB6gQFANVxsSXa6WFN) | 2:37 | 2024-04-02 |  |
 | [From The Moment \(When We Kissed\)](https://open.spotify.com/track/3CuXYUD4I9WUUremPavOWb) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [From The Moment \(When We Kissed\)](https://open.spotify.com/album/3YoAr5li2rHJEorMksbwc1) | 4:11 | 2024-02-02 |  |
 | [Full Moon Hike](https://open.spotify.com/track/3AtccUNxKL52a5RNrcd2bk) | [Jan Holdsworth](https://open.spotify.com/artist/1xefND4JiYjKNKPGc7ng1I) | [Full Moon Hike](https://open.spotify.com/album/2jpf5Zh64f7t8Rn0XByGNa) | 2:23 | 2023-05-25 |  |
 | [Genil](https://open.spotify.com/track/3OEAQoD8wzqvmKgLXFhUYI) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Genil](https://open.spotify.com/album/68CUVHoFKWeYgv68RrMstw) | 2:41 | 2024-01-05 |  |
@@ -209,6 +214,7 @@
 | [In Search of Lost Time](https://open.spotify.com/track/2vU0LYmrVaazWAah8UhPV3) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [In Search of Lost Time](https://open.spotify.com/album/5c3RmJbnZ42tbB5yccGvl8) | 3:04 | 2023-05-25 |  |
 | [In That Moment, I Knew](https://open.spotify.com/track/0JRNniv579lFXcvyYQyfvK) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [In That Moment, I Knew](https://open.spotify.com/album/2yxjOPdaR1r41D3J2V4zXG) | 3:05 | 2023-10-27 |  |
 | [In the mood for love](https://open.spotify.com/track/0po8JmQiM1hzuSjtMmovFn) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [In the mood for love](https://open.spotify.com/album/3ZmiSq83xdoXVbbWRrrLaZ) | 2:41 | 2023-04-20 |  |
+| [In the Morning Sun](https://open.spotify.com/track/0hjDKlHWRRKbzAWv80nMUr) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [In the Morning Sun](https://open.spotify.com/album/0lO5yD4aOTGGmyRHodqGeG) | 2:26 | 2024-04-02 |  |
 | [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-04-27 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0LHbXXO5FxsW1qGBSqDkKz) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5UNOBKRWE1tZtm9fwkeMXL) | 4:13 | 2022-08-10 | 2023-04-14 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-04-12 | 2023-09-22 |
@@ -378,6 +384,7 @@
 | [Skyline](https://open.spotify.com/track/1eOYDB1NzYYHihk3u5VAsc) | [Eleanor Rivers](https://open.spotify.com/artist/0PZjFVd7k6PROjrjVtVFU2) | [Skyline](https://open.spotify.com/album/5JafOFZrDTHPUb6z8NuEQM) | 2:18 | 2024-02-09 |  |
 | [Sleep Warm](https://open.spotify.com/track/5lt4NedCUCfgU48VU25fTN) | [M\. Birkeland](https://open.spotify.com/artist/0JldzuwP5NF3nsxjnlLCTS) | [Sleep Warm](https://open.spotify.com/album/21JzK3UXvkY3Bq7TzuSnbi) | 2:25 | 2023-08-10 |  |
 | [Sleepless Hours](https://open.spotify.com/track/1QheW87tmDiL4BlbvUi9Bd) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Sleepless Hours](https://open.spotify.com/album/0sK73sllM24YWUUWCAr2uL) | 2:41 | 2023-03-23 |  |
+| [Slow Dance](https://open.spotify.com/track/7FMARovU6yXLhMgkkytkZC) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [Slow Dance](https://open.spotify.com/album/0cuLuDW4HLxskYAzsB6cO9) | 2:44 | 2024-04-02 |  |
 | [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-04-27 |  |
 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 | 2022-04-12 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2022-04-12 |  |
@@ -400,6 +407,7 @@
 | [Soul Eyes](https://open.spotify.com/track/0lBxZvvvNK40Ta3MjVzCvD) | [Dabria Martin](https://open.spotify.com/artist/5hxC2YJZBRliZhDyewZ4bG) | [Soul Eyes](https://open.spotify.com/album/433xCyuJbk1ymPZEfhuhJP) | 3:44 | 2022-09-06 |  |
 | [Soul Eyes](https://open.spotify.com/track/26Wo7WEQKKuGg4JeouLnfk) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Soul Eyes](https://open.spotify.com/album/4viivNC5h64WwbgUg8UAFe) | 3:30 | 2022-05-10 | 2022-06-15 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0chVjrd8FC2hVUpPzZBfJu) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/0cm5nvQQ3rAq5GlV3UL5nr) | 6:02 | 2022-06-08 |  |
+| [Spring in Central Park](https://open.spotify.com/track/1RTdn8tp4RfXVHuk9cWw9D) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Spring in Central Park](https://open.spotify.com/album/4W1qkAqivSQLzDxehqvu8N) | 3:45 | 2024-04-02 |  |
 | [Spring in Chicago](https://open.spotify.com/track/3GZtZDAbxKusD1QjrwCMDH) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Spring in Chicago](https://open.spotify.com/album/6IRKUu24Xf86iDWVlf6rJx) | 3:00 | 2024-02-23 |  |
 | [Square One](https://open.spotify.com/track/1rzgbiDEV9e7K7tHmzlcx3) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Square One](https://open.spotify.com/album/6rdTWVLWJekeRcmeQ50BbG) | 2:35 | 2024-02-02 |  |
 | [St\. James's At Night](https://open.spotify.com/track/3XrKJFEORrqhHLYvGZTqux) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [St\. James's At Night](https://open.spotify.com/album/6MWPtVkygLoin1DrP14M2G) | 2:29 | 2023-05-04 | 2024-03-22 |

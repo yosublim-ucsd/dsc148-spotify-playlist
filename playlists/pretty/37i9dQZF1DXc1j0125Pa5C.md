@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Vou pro Sereno, Mumuzinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,141 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,177 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Meu Jeito Moleque / S.O.S Paixão \- Ao Vivo](https://open.spotify.com/track/5AKmZ7GOu4WJecD4TSTicI) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0) | [Meu Jeito Moleque / S.O.S Paixão \(Ao Vivo\)](https://open.spotify.com/album/3gFpyj3gbMuOibXLUNkVa9) | 3:31 |
 | 75 | [Beijo Doce / Jeitinho Manhoso / Ajoelhou Tem Que Rezar \- Ao Vivo](https://open.spotify.com/track/42kX3d8Sa59mF37iaqmpKC) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [paGGodin \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X) | 4:41 |
 
-Snapshot ID: `MCw0MGUxMzYwM2U3NjExMTc4YWZiYjQ4YzdmZWE5N2U1MzE0Yzk3ZTBi`
+Snapshot ID: `MCxlZmQ5OWZiNDRmMDJhMjkwMjdkOWU1ZGZjZmY2MDRjN2NiMzczMWVh`

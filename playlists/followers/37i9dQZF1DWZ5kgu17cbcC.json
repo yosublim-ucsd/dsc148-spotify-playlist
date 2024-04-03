@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 224374,
+  "2024-04-03": 224338,
   "date_first_scraped": "2024-02-15",
   "description": "Music from shows and movies you love including Only Murders in the Building, Flamin\u2019 Hot, A Small Light, Tiny Beautiful Things, and FX's SHOGUN, now streaming on Hulu.",
   "name": "Hulu Hits",
@@ -1787,6 +1787,24 @@
       "duration_ms": 599960,
       "name": "Violin Concerto in G Major, Op. 8, No. 2: I. Allegro",
       "url": "https://open.spotify.com/track/3rd8fjFT9AupdVa4Kr3k1h"
+    },
+    {
+      "album": {
+        "name": "We Were the Lucky Ones Theme (From \"We Were the Lucky Ones\")",
+        "url": "https://open.spotify.com/album/5rGJ5VIUpHLa9nNYrjhN86"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166438,
+      "name": "We Were the Lucky Ones Theme - From \"We Were the Lucky Ones\"",
+      "url": "https://open.spotify.com/track/6rLHxGO1sQOy4FYJpSYneN"
     },
     {
       "album": {

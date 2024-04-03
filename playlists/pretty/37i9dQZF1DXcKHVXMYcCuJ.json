@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144730,
+  "num_followers": 144749,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njc0NTEzZmZkZmYzNGVlZmFiYjExMjU1NmJhODNjNzI3NTJiNWM0",
+  "snapshot_id": "MCxlY2NiNjA3MWNjYTM2YjFhNGI2N2MyMjQxOWRkYmZhNTJmYThkYjI4",
   "tracks": [
     {
       "added_at": "2024-03-25 10:22:05",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Millennial",
-        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 106420,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "[trauma ray]",
         "url": "https://open.spotify.com/album/7vejvPuK0jnMXpzNiikHsR"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 202747,
       "name": "Relay",
       "url": "https://open.spotify.com/track/3vuG06ETVyqQlxW2wbBVjg"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 106420,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Reckless Tongue",
-        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
-      },
-      "artists": [
-        {
-          "name": "Airways",
-          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
-        }
-      ],
-      "duration_ms": 178795,
-      "name": "Reckless Tongue",
-      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 222207,
       "name": "Life In A Jar",
       "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Reckless Tongue",
+        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
+      },
+      "artists": [
+        {
+          "name": "Airways",
+          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
+        }
+      ],
+      "duration_ms": 178795,
+      "name": "Reckless Tongue",
+      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Muzzle - Remastered 2012",
-      "url": "https://open.spotify.com/track/6UuGRkwfLwBAfmHktU9GNA"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "No Name No Color",
         "url": "https://open.spotify.com/album/75ffrFVb8rQLovdDANnEAw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 256506,
       "name": "New Low",
       "url": "https://open.spotify.com/track/01TgrylmgyEAgsdxiqEOpL"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Muzzle - Remastered 2012",
+      "url": "https://open.spotify.com/track/6UuGRkwfLwBAfmHktU9GNA"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Bakesale: Deluxe Edition",
-        "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
-      },
-      "artists": [
-        {
-          "name": "Sebadoh",
-          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
-        }
-      ],
-      "duration_ms": 106613,
-      "name": "License to Confuse - Remastered",
-      "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203546,
       "name": "June",
       "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Bakesale: Deluxe Edition",
+        "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
+      },
+      "artists": [
+        {
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+        }
+      ],
+      "duration_ms": 106613,
+      "name": "License to Confuse - Remastered",
+      "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Violent Soho",
-        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 177453,
-      "name": "Jesus Stole My Girlfriend",
-      "url": "https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 277560,
       "name": "The Pod",
       "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 177453,
+      "name": "Jesus Stole My Girlfriend",
+      "url": "https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "The Rising Tide",
         "url": "https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 295533,
       "name": "Killed By An Angel",
       "url": "https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "They Liked You Better When You Were Dead",
-        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
+        "name": "Slow Heart",
+        "url": "https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb"
       },
       "artists": [
         {
-          "name": "Fightstar",
-          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
         }
       ],
-      "duration_ms": 255720,
-      "name": "Palahniuk's Laughter",
-      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
+      "duration_ms": 249800,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Slow Heart",
-        "url": "https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb"
+        "name": "They Liked You Better When You Were Dead",
+        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
       },
       "artists": [
         {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+          "name": "Fightstar",
+          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
         }
       ],
-      "duration_ms": 249800,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K"
+      "duration_ms": 255720,
+      "name": "Palahniuk's Laughter",
+      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "My Friends",
-        "url": "https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG"
-      },
-      "artists": [
-        {
-          "name": "The Dead Love",
-          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
-        }
-      ],
-      "duration_ms": 175648,
-      "name": "My Friends",
-      "url": "https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 238253,
       "name": "Handwritten",
       "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "My Friends",
+        "url": "https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG"
+      },
+      "artists": [
+        {
+          "name": "The Dead Love",
+          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
+        }
+      ],
+      "duration_ms": 175648,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d"
     },
     {
       "added_at": "2024-03-25 10:22:05",

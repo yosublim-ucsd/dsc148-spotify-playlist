@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 750257,
+  "num_followers": 750807,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTczNTJhZWFhYjI5OGUyNTBhMTg1YjQxYjlmMDc2NzhmOGU1NGVk",
+  "snapshot_id": "MCw4ZGU1ZTgwYTNmYzA5YzY3NDlhMjk5MDMyNjJhMDcyZjdkOTI2OTEz",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 279506,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Supernatural (Legacy Edition)",
         "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "If We Fall in Love Tonight",
-        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "All for Love",
-      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Rush (Music from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "If We Fall in Love Tonight",
+        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 384306,
-      "name": "Heal the World",
-      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
+      "duration_ms": 281200,
+      "name": "All for Love",
+      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 240866,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 384306,
+      "name": "Heal the World",
+      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic Live",
-      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 266973,
       "name": "How Do I Live",
       "url": "https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic Live",
+      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 367333,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Vagabond Heart (Expanded Edition)",
         "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 241506,
       "name": "Have I Told You Lately - 2008 Remaster",
       "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 367333,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Try Sleeping with a Broken Heart",
-      "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 310666,
       "name": "Viva Forever",
       "url": "https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Try Sleeping with a Broken Heart",
+      "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+        "name": "Timeless (The Classics)",
+        "url": "https://open.spotify.com/album/7g7nFMPWmFfk70ZvhTs0TT"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 278066,
-      "name": "Unpretty",
-      "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"
+      "duration_ms": 247973,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/4ye6YRG07XMpZZ9Y9tNTt6"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Timeless (The Classics)",
-        "url": "https://open.spotify.com/album/7g7nFMPWmFfk70ZvhTs0TT"
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
       },
       "artists": [
         {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
         }
       ],
-      "duration_ms": 247973,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/4ye6YRG07XMpZZ9Y9tNTt6"
+      "duration_ms": 278066,
+      "name": "Unpretty",
+      "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "I'm Gonna Soothe You",
-        "url": "https://open.spotify.com/album/02PxsJZPJdp6YrCTqoKHpb"
-      },
-      "artists": [
-        {
-          "name": "Maria McKee",
-          "url": "https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Show Me Heaven - Acoustic Demo Version",
-      "url": "https://open.spotify.com/track/6kVyOOkIYOmOtPQrTLAawt"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "We Can't Dance (2007 Remaster)",
         "url": "https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 277853,
       "name": "Hold on My Heart - 2007 Remaster",
       "url": "https://open.spotify.com/track/0qbhFj4bVrguIZViOJOs36"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "I'm Gonna Soothe You",
+        "url": "https://open.spotify.com/album/02PxsJZPJdp6YrCTqoKHpb"
+      },
+      "artists": [
+        {
+          "name": "Maria McKee",
+          "url": "https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Show Me Heaven - Acoustic Demo Version",
+      "url": "https://open.spotify.com/track/6kVyOOkIYOmOtPQrTLAawt"
     },
     {
       "added_at": "2022-03-21 23:00:00",

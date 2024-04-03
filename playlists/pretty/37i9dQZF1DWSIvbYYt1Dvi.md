@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > poetisas no topo \(com ctz\) é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,038 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,049 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Reduto de Malandro](https://open.spotify.com/track/6AIOAo6lOe9qvoy76LH17j) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 1:41 |
 | 50 | [As Preta Primeiro](https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [As Preta Primeiro](https://open.spotify.com/album/1HsXss4gvRvAJ79OcdkoZw) | 2:37 |
 
-Snapshot ID: `MCwzMDc1MGQwOTAwN2M1NGQwYWFlYjBjOTU1ZjgzZmQ3MTViZmMyOTA3`
+Snapshot ID: `MCxmNTJmMGFhMWVmMmE1N2I3NzE2MzU5MzNmMGMzNmJlMTlkZGIxOWM1`

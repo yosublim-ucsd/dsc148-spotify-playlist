@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 110309,
+  "num_followers": 110355,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjY3ZjlhYWYwMzdmNzJlMDczNzZlOGUzMDY4MTQ0MjliZTJhY2Fh",
+  "snapshot_id": "MCxjOTBiYTUyMzI1NzJjM2QwM2ZjZjdhMzQ0Zjk1YjNhZTYyYzcyNzhm",
   "tracks": [
     {
       "added_at": "2024-03-21 20:50:21",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
         "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 222226,
       "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
       "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "M\u00fasica del Alma (En Vivo)",
-        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 251296,
-      "name": "M\u00fasica Del Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
         "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
+        "name": "M\u00fasica del Alma (En Vivo)",
+        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 251296,
+      "name": "M\u00fasica Del Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
         "name": "Solito Vas (En Vivo Movistar Arena)",
         "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 234571,
       "name": "Solito Vas - En Vivo Movistar Arena",
       "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
+        "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
+      },
+      "artists": [
+        {
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+        }
+      ],
+      "duration_ms": 244222,
+      "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
+      "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
-        "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
-      },
-      "artists": [
-        {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
-        }
-      ],
-      "duration_ms": 244222,
-      "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
-      "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "En Directo (En Vivo)",
-        "url": "https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 381826,
-      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
-      "url": "https://open.spotify.com/track/1i3tcCQHDYa1htkkkqmpUS"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "Fantasmas Pel\u00e9andole al Viento",
         "url": "https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 298520,
       "name": "Fantasma - En Vivo",
       "url": "https://open.spotify.com/track/0qUPTVminL2wV1GXpDu7ya"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "En Directo (En Vivo)",
+        "url": "https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 381826,
+      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
+      "url": "https://open.spotify.com/track/1i3tcCQHDYa1htkkkqmpUS"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
+        "name": "Desde Lejos No Se Ve",
+        "url": "https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz"
       },
       "artists": [
         {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 383040,
-      "name": "Espejismo - En Vivo",
-      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+      "duration_ms": 236680,
+      "name": "Desde Lejos No Se Ve - En Vivo",
+      "url": "https://open.spotify.com/track/0dQnYqZuIFrj3Sn38Fjg7Q"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1319,6 +1319,22 @@
       "duration_ms": 230528,
       "name": "Se Fue al Cielo - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
+      },
+      "artists": [
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Espejismo - En Vivo",
+      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1351,22 +1367,6 @@
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
-        "name": "Desde Lejos No Se Ve",
-        "url": "https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 236680,
-      "name": "Desde Lejos No Se Ve - En Vivo",
-      "url": "https://open.spotify.com/track/0dQnYqZuIFrj3Sn38Fjg7Q"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
+        "name": "Fantasmas Pel\u00e9andole al Viento",
+        "url": "https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 414120,
+      "name": "Marad\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/7C2OKAL0Yh6VXjZe4MF4Ar"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
         "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
         "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "22/12/18 Flores (En Vivo)",
-        "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 250538,
-      "name": "Ay, Qu\u00e9 Dios Boludo",
-      "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "Vivo Paranoico",
         "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
       },
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Fantasmas Pel\u00e9andole al Viento",
-        "url": "https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx"
+        "name": "22/12/18 Flores (En Vivo)",
+        "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 414120,
-      "name": "Marad\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/7C2OKAL0Yh6VXjZe4MF4Ar"
+      "duration_ms": 250538,
+      "name": "Ay, Qu\u00e9 Dios Boludo",
+      "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 253968,
-      "name": "En el Bald\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "En Vivo en el Teatro Coliseo",
-        "url": "https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY"
+        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 487597,
-      "name": "\u00bfQu\u00e9 Tal? - En Vivo",
-      "url": "https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL"
+      "duration_ms": 253968,
+      "name": "En el Bald\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1675,6 +1659,22 @@
       "duration_ms": 200985,
       "name": "Fr\u00e1gil - En Vivo",
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "En Vivo en el Teatro Coliseo",
+        "url": "https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 487597,
+      "name": "\u00bfQu\u00e9 Tal? - En Vivo",
+      "url": "https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL"
     },
     {
       "added_at": "2024-03-21 20:50:21",

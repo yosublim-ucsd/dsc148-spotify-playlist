@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60454,
+  "num_followers": 60480,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1",
+  "snapshot_id": "MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 336853,
-      "name": "Greater Than All Other Names - Instrumental",
-      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 392790,
       "name": "Like a Fire (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/67CPUTw6oKStnmrIc0En6p"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 336853,
+      "name": "Greater Than All Other Names - Instrumental",
+      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 172000,
       "name": "wearing thin (alt. version)",
       "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "At the Table",
-        "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
-      },
-      "artists": [
-        {
-          "name": "Creative Culture Co.",
-          "url": "https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi"
-        },
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 217088,
-      "name": "Just Come",
-      "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "At the Table",
+        "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
+      },
+      "artists": [
+        {
+          "name": "Creative Culture Co.",
+          "url": "https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 217088,
+      "name": "Just Come",
+      "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Mother's Love",
         "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 60944,
       "name": "Mother's Love",
       "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Spacies",
-        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
-      },
-      "artists": [
-        {
-          "name": "The Spacies",
-          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Phone to Logos",
         "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Spacies",
+        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
+      },
+      "artists": [
+        {
+          "name": "The Spacies",
+          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "You & I Again",
         "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 160264,
       "name": "You & I Again",
       "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Glorious Ruins",
+        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 245077,
+      "name": "Glorious Ruins",
+      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1123,38 +1139,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
-      },
-      "artists": [
-        {
-          "name": "Kye Kye",
-          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Glorious Ruins",
-        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 245077,
-      "name": "Glorious Ruins",
-      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Breathe My Name",
         "url": "https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 175496,
       "name": "Breathe My Name",
       "url": "https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
+      },
+      "artists": [
+        {
+          "name": "Kye Kye",
+          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Spirit Of God",
         "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 290813,
       "name": "Something About The Name - Live",
       "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Grunewald Church Session",
-        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Selke",
-          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
-        },
-        {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
-        }
-      ],
-      "duration_ms": 418995,
-      "name": "Without Shelter",
-      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 391413,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Grunewald Church Session",
+        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Selke",
+          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
+        },
+        {
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+        }
+      ],
+      "duration_ms": 418995,
+      "name": "Without Shelter",
+      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
+      },
+      "artists": [
+        {
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
+        }
+      ],
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Anchor",
         "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 301909,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rekindle",
-        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
-      },
-      "artists": [
-        {
-          "name": "The Church Vessel",
-          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
-        }
-      ],
-      "duration_ms": 327186,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I Won't Let Go",
         "url": "https://open.spotify.com/album/2VA6K5Fan0mXPpBuZs5ZBv"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 232293,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/706slEZ03AMqpvUAAI95zs"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Rekindle",
+        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
+      },
+      "artists": [
+        {
+          "name": "The Church Vessel",
+          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
+        }
+      ],
+      "duration_ms": 327186,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "out of my grave (undone)",
-        "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 271363,
-      "name": "out of my grave (undone)",
-      "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 219782,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "out of my grave (undone)",
+        "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 271363,
+      "name": "out of my grave (undone)",
+      "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
     }
   ],
   "unique_name": "The Good Cup",

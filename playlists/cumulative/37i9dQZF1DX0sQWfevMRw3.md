@@ -4,11 +4,11 @@
 
 > VEM FAN E DU!?
 
-1,033 songs - 1 day 19 hr 42 min
+1,034 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8) | 0:00 | 2024-03-28 |  |
+| [](https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8) | 0:00 | 2024-03-28 | 2024-04-03 |
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-07-28 | 2022-08-26 |
 | [100 SHOTS](https://open.spotify.com/track/7v04RskE6ULlYQwwk2X44F) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [Betty Becks](https://open.spotify.com/artist/53tc97BjjvJ7MJT0GzLQsg), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA) | [100 SHOTS](https://open.spotify.com/album/4YzGFWj75uBuBRHDtgy04f) | 2:06 | 2023-09-07 | 2023-12-01 |
 | [123 \(Dolly Song\) feat\. Karma Child](https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp) | 2:21 | 2021-12-16 | 2022-08-26 |
@@ -117,6 +117,7 @@
 | [Bästa Jag Vet \(Gathering Crew\)](https://open.spotify.com/track/2G63amUDQ43l9sX5LH5sew) | [Unge Lama](https://open.spotify.com/artist/17FU6Qmo3DRxs1xxyxbUOd), [Kvass Kniv](https://open.spotify.com/artist/7FogpuyICi2Cj9UO6vzHMf), [Talentløs](https://open.spotify.com/artist/1pRVEaUkbJ3DYfPSdrSEKY) | [Bästa Jag Vet \(Gathering Crew\)](https://open.spotify.com/album/5OJABNN9AH8pbAHTRz8PHS) | 2:09 | 2022-09-22 | 2023-03-03 |
 | [Bättre nu](https://open.spotify.com/track/64zfkKZElU7EwHGI4AHYac) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [Bättre nu](https://open.spotify.com/album/1ELdEbvCkgqCw9W20dGISZ) | 2:29 | 2023-12-08 | 2024-03-07 |
 | [Bättre nu](https://open.spotify.com/track/7JeoPNgkDrzm4o9iBQ7Hy8) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [Bättre nu](https://open.spotify.com/album/5eTEGRnxzUdztQGE7jTbas) | 2:29 | 2024-02-29 | 2024-03-15 |
+| [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8), [Mannschaft](https://open.spotify.com/artist/3AIknosYoaF6OgCcH10ZCy) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 | 2024-04-02 |  |
 | [BÖTT E GÖTT](https://open.spotify.com/track/7JKDUMOyRktTGUndccWsVJ) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [BÖTT E GÖTT](https://open.spotify.com/album/0nkIc5aDGefMsJhrL0KC9S) | 2:24 | 2024-01-25 |  |
 | [California Sun](https://open.spotify.com/track/2SHWi8NdPvjeyRKA3sW3ab) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [California Sun](https://open.spotify.com/album/4ktYp7QtLH9jMvpo1Tz4SN) | 2:31 | 2022-07-28 | 2022-08-26 |
 | [Can We Press Rewind](https://open.spotify.com/track/5UjWcGDDvh3oa8q4huzoNI) | [Henry Himself](https://open.spotify.com/artist/0YZmiBsdXDNlyLfWVh7Fb7) | [Can We Press Rewind](https://open.spotify.com/album/7iX129qNimoj1Xz68sl7ZV) | 3:04 | 2021-12-16 | 2022-07-01 |

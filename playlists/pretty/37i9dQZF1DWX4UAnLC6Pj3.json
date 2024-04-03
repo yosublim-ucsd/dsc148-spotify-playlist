@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel en portada.",
-  "num_followers": 1223140,
+  "num_followers": 1223259,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTY0YTFlZjdmOTk5N2YxNzJjN2Y3YzFjMTNjMWNkMTJkNzI4ZWQ3",
+  "snapshot_id": "MCxkZTZmM2Y0NjM0YjAwY2Y2ZDVjZTI1OGE1MTgxZTQ5NzhiMzUzNzM1",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Ch y la Pizza (Con Banda)",
+        "url": "https://open.spotify.com/album/2SEX3CqSk94lEX0k6qE5pt"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 160085,
+      "name": "Ch y la Pizza - Con Banda",
+      "url": "https://open.spotify.com/track/154P0NOxJhNl9FCLZZ6p60"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "10+10",
         "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 167786,
       "name": "Soy un Desmadre",
       "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Ch y la Pizza (Con Banda)",
-        "url": "https://open.spotify.com/album/2SEX3CqSk94lEX0k6qE5pt"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 160085,
-      "name": "Ch y la Pizza - Con Banda",
-      "url": "https://open.spotify.com/track/154P0NOxJhNl9FCLZZ6p60"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "La Ley De La Vida",
+      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "CHSM El Higado!",
         "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 193728,
       "name": "Muchacha - Con Grupo Firme",
       "url": "https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "La Ley De La Vida",
-      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Que Llore, Que Llore",
+      "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 214586,
       "name": "ABC",
       "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Que Llore, Que Llore",
-      "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Te Esfumar\u00e1s",
         "url": "https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 201066,
       "name": "Te Esfumar\u00e1s",
       "url": "https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "M En El Radar",
-        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 140546,
-      "name": "M En El Radar",
-      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Aqui Ando En El Caloron (En Vivo)",
         "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "M En El Radar",
+        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 140546,
+      "name": "M En El Radar",
+      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Que Te Trague La Tierra",
-        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "Que Te Trague La Tierra",
-      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "M\u00e1ndame Otra Vez A La Chingada",
         "url": "https://open.spotify.com/album/370vnYfsorNlT6jEV2ul1X"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Que Te Trague La Tierra",
+        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Que Te Trague La Tierra",
+      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Porque Soy Abeja Reina",
         "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
       },
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Nunca Dudes En Llamarme",
-        "url": "https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96"
+        "name": "El 30 de Febrero",
+        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Nunca Dudes En Llamarme",
-      "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
+      "duration_ms": 181204,
+      "name": "El 30 de Febrero",
+      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1795,6 +1791,26 @@
       "duration_ms": 154920,
       "name": "De Mezclilla el Chalec\u00f3n",
       "url": "https://open.spotify.com/track/0L5lQTiLxwbCk1dZzPWCDV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Nunca Dudes En Llamarme",
+        "url": "https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Nunca Dudes En Llamarme",
+      "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1835,38 +1851,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Aplaca Tus Berrinches",
-        "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Aplaca Tus Berrinches",
-      "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "El 30 de Febrero",
-        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
       },
       "artists": [
         {
           "name": "Edwin Luna y La Trakalosa de Monterrey",
           "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
         }
       ],
-      "duration_ms": 181204,
-      "name": "El 30 de Febrero",
-      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
+      "duration_ms": 150527,
+      "name": "La Patrona",
+      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1887,18 +1887,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Fuerte No Soy",
-        "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
+        "name": "Aplaca Tus Berrinches",
+        "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
       },
       "artists": [
         {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 201213,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
+      "duration_ms": 190840,
+      "name": "Aplaca Tus Berrinches",
+      "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1935,6 +1939,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Fuerte No Soy",
+        "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "De Memoria Me Las S\u00e9",
         "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 163320,
       "name": "De Memoria Me Las S\u00e9",
       "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        }
-      ],
-      "duration_ms": 150527,
-      "name": "La Patrona",
-      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
     },
     {
       "added_at": "2024-03-22 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUfOmgBZyBo.md) - [plain]
 
 > Music from "PSYCHO\-PASS" Series !「 PSYCHO\-PASS サイコパス」シリーズの楽曲を1つのプレイリストで。©サイコパス製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,547 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,558 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUfOmgBZyBo.md) - [plain]
 | 28 | [楽園](https://open.spotify.com/track/3AnpLvfOTKTjWbdPmV5OGR) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [「PSYCHO\-PASS サイコパス」Complete Original Soundtrack\(配信バージョン\)](https://open.spotify.com/album/5JIE5QfC6N5SrUhQJAklLc) | 2:23 |
 | 29 | [PSYCHO\-PASS feat\. AKANE](https://open.spotify.com/track/6gAjUHoBvOYTvpwyBfPfBR) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [「PSYCHO\-PASS サイコパス」Complete Original Soundtrack 2\(配信バージョン\)](https://open.spotify.com/album/4TXgbGnJxqRncbe7B3jzNH) | 5:10 |
 | 30 | [サイマティックスキャン](https://open.spotify.com/track/1OKuHafYXf05lDKiGb0xvA) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [「PSYCHO\-PASS サイコパス」Complete Original Soundtrack 2\(配信バージョン\)](https://open.spotify.com/album/4TXgbGnJxqRncbe7B3jzNH) | 2:56 |
-| 31 | [PSYCHO\-PASS 3](https://open.spotify.com/track/0D5Hrz6dOJfJufnVYqFvth) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス 3 Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 6:09 |
-| 32 | [猟犬から逃れ続ける狐](https://open.spotify.com/track/5zRVcVZFl6gLRjEURYFn7c) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス 3 Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 2:58 |
-| 33 | [インスペクター](https://open.spotify.com/track/4re1lv0TCvWEv7bzOfpH3Y) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス 3 Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 2:10 |
-| 34 | [2120.Nov TOKYO](https://open.spotify.com/track/3KDjN2U8VeDlXJSuviXZWo) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス 3 Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 3:31 |
-| 35 | [外務省行動課](https://open.spotify.com/track/0y47GYxQmoSxXAMs32y3uF) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス 3 Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 2:49 |
-| 36 | [その銃口は、正義を支配する \(PSYCHO\-PASS サイコパス IN CONCERT ver.\)](https://open.spotify.com/track/1ERDbBji41WPgHjyzOFbEp) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス 3 Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 5:40 |
-| 37 | [PSYCHO\-PASS feat.AKANE \(PSYCHO\-PASS サイコパス IN CONCERT ver.\)](https://open.spotify.com/track/3PQ90BrkiT7eNjeLiix7hc) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス 3 Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 5:18 |
-| 38 | [PSYCHO\-PASS \(PSYCHO\-PASS サイコパス IN CONCERT クラブパート\)](https://open.spotify.com/track/5kxBSklcyeI9gY7oFvQyZU) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス 3 Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 6:57 |
+| 31 | [PSYCHO\-PASS ３](https://open.spotify.com/track/0D5Hrz6dOJfJufnVYqFvth) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス ３ Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 6:09 |
+| 32 | [猟犬から逃れ続ける狐](https://open.spotify.com/track/5zRVcVZFl6gLRjEURYFn7c) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス ３ Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 2:58 |
+| 33 | [インスペクター](https://open.spotify.com/track/4re1lv0TCvWEv7bzOfpH3Y) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス ３ Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 2:10 |
+| 34 | [2120.Nov TOKYO](https://open.spotify.com/track/3KDjN2U8VeDlXJSuviXZWo) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス ３ Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 3:31 |
+| 35 | [外務省行動課](https://open.spotify.com/track/0y47GYxQmoSxXAMs32y3uF) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス ３ Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 2:49 |
+| 36 | [その銃口は、正義を支配する \(PSYCHO\-PASS サイコパス IN CONCERT ver.\)](https://open.spotify.com/track/1ERDbBji41WPgHjyzOFbEp) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス ３ Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 5:40 |
+| 37 | [PSYCHO\-PASS feat.AKANE \(PSYCHO\-PASS サイコパス IN CONCERT ver.\)](https://open.spotify.com/track/3PQ90BrkiT7eNjeLiix7hc) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス ３ Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 5:18 |
+| 38 | [PSYCHO\-PASS \(PSYCHO\-PASS サイコパス IN CONCERT クラブパート\)](https://open.spotify.com/track/5kxBSklcyeI9gY7oFvQyZU) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS サイコパス ３ Original Soundtrack \(配信バージョン\)](https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t) | 6:57 |
 | 39 | [PSYCHO\-PASS PROVIDENCE Ver.](https://open.spotify.com/track/0RoxoYSDocnIbFXzn3ETKs) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS PROVIDENCE Original Soundtrack](https://open.spotify.com/album/4SjDvIhp8u1hctlVWGqEas) | 5:49 |
 | 40 | [火中の栗](https://open.spotify.com/track/4RdBQF1vMRiv2J8lmYMRtT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS PROVIDENCE Original Soundtrack](https://open.spotify.com/album/4SjDvIhp8u1hctlVWGqEas) | 3:59 |
 | 41 | [犯した罪](https://open.spotify.com/track/62Z2OGl6KF4Yu8eI5mIiPX) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS PROVIDENCE Original Soundtrack](https://open.spotify.com/album/4SjDvIhp8u1hctlVWGqEas) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUfOmgBZyBo.md) - [plain]
 | 49 | [人と法を守るために PROVIDENCE Ver.](https://open.spotify.com/track/5dxcG8ab7yNPLzWfwBNQh5) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS PROVIDENCE Original Soundtrack](https://open.spotify.com/album/4SjDvIhp8u1hctlVWGqEas) | 2:15 |
 | 50 | [常守朱。これがあなたの選択ですか](https://open.spotify.com/track/3NGM9gXkMTIEGrKOLcln1T) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [PSYCHO\-PASS PROVIDENCE Original Soundtrack](https://open.spotify.com/album/4SjDvIhp8u1hctlVWGqEas) | 1:43 |
 
-Snapshot ID: `MCwyYTRjYTViOGZhYzgyNWE4NGMxMGJjZWM3MmZjZmMwYjhmNTA2NTE4`
+Snapshot ID: `MCxiNzM1ZTcyNTFiMDY2NjRlN2M1YTViZmVmY2IwZjgxODUwZWI3MWEx`

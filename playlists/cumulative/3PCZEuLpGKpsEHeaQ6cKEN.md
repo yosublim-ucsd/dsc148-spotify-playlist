@@ -2,7 +2,7 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Trance, House, Techno, Dance, Afro\-House, Melodic Techno \| Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: ARTY
+> The biggest Armada tracks of the moment! \| Including Trance, House, Techno, Dance, Afro\-House, Melodic Techno \| Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Cedric Gervais
 
 975 songs - 2 day 4 hr 6 min
 

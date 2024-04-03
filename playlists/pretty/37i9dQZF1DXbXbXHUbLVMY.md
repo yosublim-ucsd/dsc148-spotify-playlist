@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,824 likes - 80 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,832 likes - 80 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 25 | [G63](https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:42 |
 | 26 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 |
 | 27 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 |
-| 28 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 |
-| 29 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 |
+| 28 | [Amok](https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Amok](https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy) | 2:05 |
+| 29 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 |
 | 30 | [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 |
-| 31 | [Amok](https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Amok](https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy) | 2:05 |
+| 31 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 |
 | 32 | [PRAPAPA](https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [PRAPAPA](https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9) | 2:04 |
 | 33 | [Sommerhus](https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sommerhus](https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y) | 2:21 |
 | 34 | [BONANZA](https://open.spotify.com/track/1L3pLzpYt4KuiUkBpdPDoz) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [BONANZA](https://open.spotify.com/album/6mcasYSlPLjXTrVpSfKKDH) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 79 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 |
 | 80 | [Leve](https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Leve](https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER) | 2:44 |
 
-Snapshot ID: `MCxlNmY0NTU2MDZhM2Y2NDZiZDgxNGEyMWM4ZjdjYmQxODA0ZjlkMTky`
+Snapshot ID: `MCxkMTIzNzBlYjE5YjBlZjBmZmEzZWMyMzMwN2I2OThkOGM2ZmMwMDdl`

@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-376 songs - 23 hr 25 min
+377 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Easy To Praise](https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Wild Faith](https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T) | 3:28 | 2023-03-10 |  |
 | [Easy To Praise](https://open.spotify.com/track/6Sc4wQtKhcWdTLNjqlVgur) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Easy To Praise](https://open.spotify.com/album/1wk7GREA9OrScHj3wEB2i8) | 3:28 | 2023-03-10 | 2023-09-17 |
 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 | 2022-10-01 |  |
-| [Egypt](https://open.spotify.com/track/3uAulkGLXosyXmTEYsST8G) | [Elenee](https://open.spotify.com/artist/78ik45hdCuCyQ1gyiFEueX) | [Egypt](https://open.spotify.com/album/2gfvdJgeevB1V1nHZCtfoC) | 4:17 | 2023-10-06 |  |
+| [Egypt](https://open.spotify.com/track/3uAulkGLXosyXmTEYsST8G) | [Elenee](https://open.spotify.com/artist/78ik45hdCuCyQ1gyiFEueX) | [Egypt](https://open.spotify.com/album/2gfvdJgeevB1V1nHZCtfoC) | 4:17 | 2023-10-06 | 2024-04-03 |
 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 | 2022-04-22 | 2022-06-11 |
 | [Empty Room](https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1) | 3:11 | 2023-03-10 | 2023-05-02 |
 | [Empty Room](https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 3:11 | 2023-03-10 |  |
@@ -286,6 +286,7 @@
 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 | 2022-10-01 | 2024-03-21 |
 | [Satisfied](https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Grace In The Wilderness](https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w) | 2:46 | 2022-04-29 | 2023-10-07 |
 | [Say Amen](https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:36 | 2022-03-25 | 2022-06-25 |
+| [Scars](https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Scars](https://open.spotify.com/album/4npiT4Jjd9rBy8sxWy7PLF) | 3:22 | 2024-03-29 |  |
 | [Scars in Heaven](https://open.spotify.com/track/2qg7U5mbHDFTXNKvPNF0IZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Scars in Heaven](https://open.spotify.com/album/6pdwWxEt670pc5jYxzbmYf) | 4:28 | 2022-02-25 | 2022-03-21 |
 | [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 | 2023-03-10 |  |
 | [Secrets](https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Secrets](https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw) | 3:46 | 2022-04-22 | 2022-08-27 |

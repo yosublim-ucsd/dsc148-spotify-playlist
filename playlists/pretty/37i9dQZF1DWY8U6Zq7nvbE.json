@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1720176,
+  "num_followers": 1720204,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmViYzVjMzZmOGFkYjNjZjg5MThlNTc5MTNlYzE2MmJhZGVjN2E1",
+  "snapshot_id": "MCxmODk0NWUzNDIxM2MxNWVlYjRlYWIzNTNlYjg4M2RjMGE1ZjA2ZTQx",
   "tracks": [
     {
       "added_at": "2024-03-21 08:22:30",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Make You Feel My Love",
-        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Douglas",
-          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 217078,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Hands To Myself",
+        "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
+      },
+      "artists": [
+        {
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Hands To Myself",
+      "url": "https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "Back to Black",
         "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Hands To Myself",
-        "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
       },
       "artists": [
         {
-          "name": "Kim & Otto",
-          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+          "name": "J. Seasons",
+          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Hands To Myself",
-      "url": "https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG"
+      "duration_ms": 157611,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
+        "name": "all night long",
+        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
       },
       "artists": [
         {
-          "name": "J. Seasons",
-          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
         }
       ],
-      "duration_ms": 157611,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
+      "duration_ms": 194018,
+      "name": "all night long",
+      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "all night long",
-        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv"
       },
       "artists": [
         {
-          "name": "Gracie Schram",
-          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+          "name": "Blended Colours",
+          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
         }
       ],
-      "duration_ms": 194018,
-      "name": "all night long",
-      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
+      "duration_ms": 179000,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -823,22 +839,6 @@
       "duration_ms": 197851,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv"
-      },
-      "artists": [
-        {
-          "name": "Blended Colours",
-          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "I Was Never There",
-        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
-      },
-      "artists": [
-        {
-          "name": "Parker Clair",
-          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Chasing Pavements",
         "url": "https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 180034,
       "name": "Chasing Pavements",
       "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "I Was Never There",
+        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
+      },
+      "artists": [
+        {
+          "name": "Parker Clair",
+          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "I Was Never There",
+      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 202076,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
-      },
-      "artists": [
-        {
-          "name": "Theresa Chase",
-          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Barbie Girl",
         "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 170931,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
+      },
+      "artists": [
+        {
+          "name": "Theresa Chase",
+          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
     }
   ],
   "unique_name": "Chill Acoustic Covers",

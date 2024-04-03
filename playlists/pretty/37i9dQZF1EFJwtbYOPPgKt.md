@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 51 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 51 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 50 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
 | 51 | [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 |
 
-Snapshot ID: `Mjg1MzM3MjAsMDAwMDAwMDAxMWY1ZjhjZGQ4ZTc5YWE3NjAxOTE3MGY1MzBhZWEyMg==`
+Snapshot ID: `Mjg1MzUxNjAsMDAwMDAwMDAzZGI3Y2Q1MDY3MDM5ZDIzOWUwNDI3ZmY1MjgxNzVlZQ==`

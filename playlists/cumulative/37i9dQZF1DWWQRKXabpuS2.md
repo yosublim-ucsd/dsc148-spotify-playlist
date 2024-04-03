@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:شما حمدان
 
-318 songs - 21 hr 51 min
+319 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Fadeha Denyay](https://open.spotify.com/track/2fuVzq6gFhnEWfMbHKB5aR) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Fadeha Denyay](https://open.spotify.com/album/6Iq3beBQFZnqRb2ycjeesy) | 3:34 | 2021-12-23 | 2022-01-13 |
 | [Faraktozy](https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Faraktozy](https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE) | 3:50 | 2022-08-11 | 2023-02-15 |
 | [Fargah](https://open.spotify.com/track/4wVVSDmBXA9MHeNUC7AGIu) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Fargah](https://open.spotify.com/album/5GdgJnx6r9A6DlxZlI5lhL) | 2:55 | 2022-11-24 | 2023-05-26 |
+| [Fargah](https://open.spotify.com/track/3YgMfaDg1HgnS9gDyasPYm) | [Jassem Mohammed](https://open.spotify.com/artist/7v8Zo7SvfmVoSMdOHQd6r3), [Meshari Alawadhi](https://open.spotify.com/artist/1ml7Su9BEo7jUsnStP7DgG) | [Fargah](https://open.spotify.com/album/62w7X2wwf3TgPOPcteaRpN) | 3:35 | 2024-04-02 |  |
 | [Farghty](https://open.spotify.com/track/3HBDTztJZkHAy5NUDitGNb) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Farghty](https://open.spotify.com/album/40yxzlYTsLAMBhmzevbKvB) | 5:05 | 2022-05-06 | 2022-09-15 |
 | [Fattak](https://open.spotify.com/track/1enP6Ed10meQlHsbOF7qob) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fattak](https://open.spotify.com/album/1StqBpyc5o8sBJxXIt3xAW) | 4:23 | 2021-12-23 | 2022-02-18 |
 | [FAWDA](https://open.spotify.com/track/2vLFnMjJ0kyPMNpMempfde) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [Fawda](https://open.spotify.com/album/3GuiCyLeLuDUCpLuxjt16U) | 3:20 | 2022-06-02 | 2022-11-15 |
@@ -287,7 +288,7 @@
 | [زلزال](https://open.spotify.com/track/7ct7Fb7Z77kDpB1pxL3uLD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 4:16 | 2023-12-09 | 2023-12-22 |
 | [زينة أيامي](https://open.spotify.com/track/1mPzk2rv2swdE6zIlAtphM) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [الأرض](https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp) | 3:37 | 2023-10-03 | 2023-10-09 |
 | [زينة أيامي](https://open.spotify.com/track/6oMkESxOjwd6PFXpCocEZz) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [زينة أيامي](https://open.spotify.com/album/4Xq6qnOSBMLA7MESvKNk8u) | 3:37 | 2023-09-08 | 2023-10-03 |
-| [زينة أيامي](https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 3:37 | 2023-09-30 |  |
+| [زينة أيامي](https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 3:37 | 2023-09-30 | 2024-04-03 |
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-05-25 | 2022-09-09 |
 | [سرق قلبي](https://open.spotify.com/track/2kqlas6p59Cm6OeYp2rWFb) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سرق قلبي](https://open.spotify.com/album/0IVWUkh9YUII3SPLQXwJHP) | 4:15 | 2023-01-31 | 2023-08-26 |
 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 | 2023-05-26 | 2023-12-22 |

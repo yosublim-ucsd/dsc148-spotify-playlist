@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Loud
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,050 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,051 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 40 | [Undercover](https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Undercover](https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T) | 2:27 |
 | 41 | [Brk Frm Nrml](https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Added Sugar](https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6) | 2:40 |
 | 42 | [Femme fatale](https://open.spotify.com/track/4EqRnOWaV7JoK1Z6EZzVU9) | [Sadik](https://open.spotify.com/artist/1wvJJTHOmvX4WcL5dQOLqs), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Vagalam](https://open.spotify.com/artist/7D9iwRE47u5S0sjtItNtaH) | [Monarque](https://open.spotify.com/album/4dnkodXsUuDEIEZ5WfYqHb) | 3:14 |
-| 43 | [Chill?](https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Fouette Saint\-Patrick](https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce) | 2:43 |
-| 44 | [Dis Moi](https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Dis moi](https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW) | 4:07 |
+| 43 | [Dis Moi](https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Dis moi](https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW) | 4:07 |
+| 44 | [Chill?](https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Fouette Saint\-Patrick](https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce) | 2:43 |
 | 45 | [Plume](https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Personne ne touche le ciel](https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E) | 2:37 |
 | 46 | [Chacun son récit](https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Blacklist](https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2) | 3:51 |
 | 47 | [Doo Wop](https://open.spotify.com/track/17RcMFZHPrjusBlklhSKou) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [DEAD.](https://open.spotify.com/album/3LKroOov310fASJk3twjmP) | 4:39 |
 | 48 | [Bâtiment](https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB) | [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl), [Dix](https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN), [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bâtiment](https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp) | 2:47 |
-| 49 | [Dead Summer](https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Dead Summer](https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5) | 2:45 |
-| 50 | [Jack Sparrow](https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:16 |
+| 49 | [Jack Sparrow](https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:16 |
+| 50 | [Dead Summer](https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Dead Summer](https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5) | 2:45 |
 | 51 | [Trapstar](https://open.spotify.com/track/2i29UScUVmzuZ4mhWotgLz) | [Kino](https://open.spotify.com/artist/4LuwAd3rQxluIiUcTlfvBe) | [Trapstar](https://open.spotify.com/album/5KveGzyuZCwSROPbHseoAi) | 3:07 |
 | 52 | [Blow](https://open.spotify.com/track/0hb24D9WWzu4nNZlbloEXS) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Lk Tha Goon](https://open.spotify.com/artist/5szHiW9YrV8BP2YNNqGRYa), [White\-B](https://open.spotify.com/artist/1HC485Z5DroDWlYPYcA80L) | [MMS, Vol\. 1](https://open.spotify.com/album/76PJfZOGxbsbbO48rvfchk) | 4:32 |
 | 53 | [OuinOuin](https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Bateaux Colombiens](https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT) | 4:11 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 57 | [Fugueuse](https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Mafia](https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm) | 2:50 |
 | 58 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 |
 | 59 | [PLG](https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:29 |
-| 60 | [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 |
-| 61 | [Badman](https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Bonhomme Pendu \(Chapitre 3\)](https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn) | 3:26 |
+| 60 | [Badman](https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Bonhomme Pendu \(Chapitre 3\)](https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn) | 3:26 |
+| 61 | [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 |
 | 62 | [Non Merci](https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Non Merci](https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA) | 3:31 |
 | 63 | [Pavel Bure](https://open.spotify.com/track/5CXOwEgCeq7BQkUJc968S5) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [T1zzo](https://open.spotify.com/artist/4n4dNfR2DGdbQSIgasNHby) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:24 |
 | 64 | [On Fouette](https://open.spotify.com/track/70MAMZj0aeCAq3duYgngsn) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Soft](https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF) | [51tr4p Fr4p50](https://open.spotify.com/album/2F8K3bOEdbX9xh6g9EX5uG) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Over](https://open.spotify.com/track/0Bj3Cph4Aql8xZpAXIiUmi) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [OUI \(tout tout tout toutttte\)](https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS) | 3:42 |
 | 100 | [Cest la vie](https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E) | [Soubillz](https://open.spotify.com/artist/6MtBOm6B7RFEIkQ6SxFdVp), [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Cest la vie](https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV) | 3:02 |
 
-Snapshot ID: `MCxkM2JiMGQ3M2FiODY3ZjVmYWRjNjFjMGMwZjFhMzk4NjI3MzA4M2Jm`
+Snapshot ID: `MCxhNTFiMDYzMWY0MzFjNjg0YWY1MjZiYzJlNmIzODY3MmU2MjQwMjM2`

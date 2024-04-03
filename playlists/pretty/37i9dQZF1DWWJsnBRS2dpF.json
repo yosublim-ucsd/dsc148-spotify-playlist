@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 48718,
+  "num_followers": 48795,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDEyNzBhZWVhNmMyMDk5MjhjZjU0MTc0Y2Q0MzMzMmYyZmRkMDA2",
+  "snapshot_id": "MCxhOWFiZTA0NDRkYmVjZDYxNjc0MThkMTk0Zjg0OTZiMzQyN2FhMDll",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Yikes",
-        "url": "https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 156881,
-      "name": "Yikes",
-      "url": "https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 220963,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/5kyd6oKvKmj6mWCaAaHoN4"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Yikes",
+        "url": "https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 156881,
+      "name": "Yikes",
+      "url": "https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Good Form",
-      "url": "https://open.spotify.com/track/19Fcrc0nJiwMKom00gS9SW"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 232733,
       "name": "Heat (feat. Gunna)",
       "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Good Form",
+      "url": "https://open.spotify.com/track/19Fcrc0nJiwMKom00gS9SW"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -663,6 +663,26 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "City Girls",
+      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 186306,
       "name": "Only U - No Intro",
       "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "City Girls",
-      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
     },
     {
       "added_at": "2022-10-01 16:21:24",

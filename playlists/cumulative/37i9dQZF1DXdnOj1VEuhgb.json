@@ -1898,12 +1898,12 @@
       },
       "artists": [
         {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        },
-        {
           "name": "Decrat",
           "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        },
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
         }
       ],
       "date_added": "2024-03-28",

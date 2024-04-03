@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: George Henrique & Rodrigo, Guilherme & Benuto
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,689,307 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,689,926 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 18 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/4U8jlVWLJ4DZ2MpvV81hIb) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo \(Ao Vivo\)](https://open.spotify.com/album/5cvRAkiIj3vlPZRXvRvHxk) | 2:42 |
 | 19 | [Morena De Goiânia \- Ao Vivo](https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:46 |
 | 20 | [Sofrimento Líquido \- Ao Vivo](https://open.spotify.com/track/4lFhk7Z4wzNqjhJ3ln6AbN) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Cristinas](https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 2:29 |
-| 21 | [Entra Na Defender](https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Entra Na Defender](https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO) | 2:54 |
+| 21 | [ENTRA NA DEFENDER](https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [ENTRA NA DEFENDER](https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO) | 2:54 |
 | 22 | [Torce o Olho \- Ao Vivo](https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Torce o Olho \(Ao Vivo\)](https://open.spotify.com/album/4iDEMrwkGMQ6LpdbdTnLGy) | 2:47 |
 | 23 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 3:09 |
 | 24 | [O Destino](https://open.spotify.com/track/0iEaFZq4pD3p5HyJZelAGq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [A culpa é do meu SIGNO](https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 | 50 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:55 |
 
-Snapshot ID: `MCw5ZmNkZTBlMTAxZWYzYWRlNTZiNjIyYjE4MGUyNjRmZTBhNzg4YjJk`
+Snapshot ID: `MCw4YThhOTEwZTE4MWQ3MTY1NWU2NzNmNWVhMTFiM2M0M2E2Yjc4MTYw`

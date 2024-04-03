@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: FLAT BLACK
 
-817 songs - 2 day 12 hr 26 min
+818 songs - 2 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,7 +535,8 @@
 | [PvP](https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [PvP](https://open.spotify.com/album/2NmhrfbIE0otcLsX7rgmJ5) | 2:59 | 2021-12-17 | 2023-01-28 |
 | [Race To The Sea \- History Edition](https://open.spotify.com/track/1yUi9pyAS9gIfJCMuYKx8K) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War To End All Wars \(History Edition\)](https://open.spotify.com/album/7ABEeYg2EyWQIQaFBs6wnY) | 3:55 | 2022-03-25 | 2022-04-21 |
 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 | 2022-08-19 | 2023-03-11 |
-| [Raining Blood](https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:14 | 2022-08-19 |  |
+| [Raining Blood](https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:14 | 2022-08-19 | 2024-04-03 |
+| [Raining Blood](https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:15 | 2024-03-22 |  |
 | [Raise Your Fists](https://open.spotify.com/track/1YTVSfVh9qsm9jJyFXtMiC) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Raise Your Fists](https://open.spotify.com/album/30BD84SoTx6qS8pnJwRGrJ) | 4:10 | 2021-12-17 | 2022-07-23 |
 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 | 2022-07-08 |  |
 | [Raise Your Horns](https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:23 | 2021-12-17 | 2022-07-11 |

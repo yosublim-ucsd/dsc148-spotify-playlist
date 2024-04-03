@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 305961,
+  "2024-04-03": 306119,
   "date_first_scraped": "2021-12-30",
   "description": "Need to get your energy level up?",
   "name": "Energy Booster: Indie",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 207640,
       "name": "Adult Diversion",
       "url": "https://open.spotify.com/track/0otn0qLAM0yAXHNSiRsHwq"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"

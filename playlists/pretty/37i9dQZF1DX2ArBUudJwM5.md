@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Lali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,306 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,305 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 7 | [La\_Original.mp3](https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:20 |
 | 8 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 |
 | 9 | [Elegante](https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Elegante](https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7) | 3:25 |
-| 10 | [HUMO](https://open.spotify.com/track/6H4LDyUCXw8uiWXaDCNM1Z) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [HUMO](https://open.spotify.com/album/6R9iJwxP9e2XBEsMYlXXqt) | 1:50 |
-| 11 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
+| 10 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
+| 11 | [HUMO](https://open.spotify.com/track/6H4LDyUCXw8uiWXaDCNM1Z) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [HUMO](https://open.spotify.com/album/6R9iJwxP9e2XBEsMYlXXqt) | 1:50 |
 | 12 | [Glock](https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Nena Trampa \(Deluxe Edition\)](https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM) | 2:58 |
 | 13 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
 | 14 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 21 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
 | 22 | [Náufrago](https://open.spotify.com/track/7LFFbMqQwU87wo0bseY1zd) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [Náufrago](https://open.spotify.com/album/2wiPT1JDPm4HiyvB9XImdd) | 2:50 |
 | 23 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
-| 24 | [Te Pense un Monton](https://open.spotify.com/track/5Fz7b6mraXJCMu9SMMr2Wl) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:24 |
-| 25 | [Carta para mi](https://open.spotify.com/track/4Lx39esi1Vehde5laFNmmb) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [0000](https://open.spotify.com/album/53Kn6RxsUXlr4y5WJbd3lT) | 2:52 |
+| 24 | [Carta para mi](https://open.spotify.com/track/4Lx39esi1Vehde5laFNmmb) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [0000](https://open.spotify.com/album/53Kn6RxsUXlr4y5WJbd3lT) | 2:52 |
+| 25 | [Te Pense un Monton](https://open.spotify.com/track/5Fz7b6mraXJCMu9SMMr2Wl) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:24 |
 | 26 | [Mentira](https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Mentira](https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7) | 3:35 |
 | 27 | [FuckU](https://open.spotify.com/track/1nE8f25XOeiMPsNBKocgkJ) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Satisfire](https://open.spotify.com/album/20TV5Zsk0zrhGYihr1H8U0) | 2:43 |
 | 28 | [La Historia Sin Final](https://open.spotify.com/track/2vK2Q4Evlb7VYwZ3FCweSb) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [La Historia Sin Final](https://open.spotify.com/album/1de1EluzPrCYRh7BlEQPtv) | 2:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 50 | [tribu urbana](https://open.spotify.com/track/2Ch6Q8JCBEguf4HCOpfCBj) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [tribu urbana](https://open.spotify.com/album/5WaHflJ1zw8Camclfo8E2s) | 2:53 |
 | 51 | [Ay, Mala Mia](https://open.spotify.com/track/2uqwY40y5eaRd2sJIzGq4L) | [Chulimane](https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6), [Ramiro VCA](https://open.spotify.com/artist/1rSWEMnmi7dQuTdtGrFyXU) | [Mas Kara Ke Nunka](https://open.spotify.com/album/5rqvOpyUzASDjY4luh1P2l) | 2:26 |
 
-Snapshot ID: `MCw3MTAyMmM2MTUwYzkyNzQ0OTMyYjRmOTBmN2Q0MmUyM2NkNTljZmM5`
+Snapshot ID: `MCxiZmJiZmFmZGEyNmY0ZDA0MzdiYjg2YjFhYWFmZmEyZDMyNmZmZjYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,482 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,494 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Preciso De Você](https://open.spotify.com/track/2ptwCM76W3PVy7olg5IW3x) | [WASHZL](https://open.spotify.com/artist/3lLoeUrCUfgOaefwgp8opm), [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Preciso De Você](https://open.spotify.com/album/5AEw6Oz304ISasMskpCXO6) | 2:53 |
 | 75 | [Poesia Acústica 14](https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 14](https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN) | 14:09 |
 
-Snapshot ID: `MCwzOWUwZDEwOTY1N2NiZWM3ZDkxMGYyZmU3NmViNjcwYzA0OTE2ZmE3`
+Snapshot ID: `MCxhZmNkYjYzNjBlOTBhNmRmMjkyMjNlZGQxOTgyZDBmZDUzZWM5YjFk`

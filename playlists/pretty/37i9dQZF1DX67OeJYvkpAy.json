@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90269,
+  "num_followers": 90259,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQzN2RmMWQ4YWY0NmMwNzkxMDdkMzg1YzBkMzFlMDdkZjVjOTc3",
+  "snapshot_id": "MCw0YWVlZjdhZTJhYjBkYzhhY2YwZTVhMzA2ZGE1MWYwZGJjYjc1ZTI1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Two Years Clear",
-        "url": "https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "Two Years Clear",
-      "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 187617,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Two Years Clear",
+        "url": "https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 203128,
+      "name": "Two Years Clear",
+      "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Never Been Ordinary",
-        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Window Blues",
-      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 168158,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Never Been Ordinary",
+        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Window Blues",
+      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
     },
     {
       "added_at": "2023-08-01 17:14:44",

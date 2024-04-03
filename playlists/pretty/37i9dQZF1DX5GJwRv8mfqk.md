@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,970 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,045 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 49 | [Voy A Quererte Tanto](https://open.spotify.com/track/4IMlicXimcHUaJ1M8b3kof) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Voy A Quererte Tanto](https://open.spotify.com/album/0h3TmsfU8ORt3ibAH5T5Wd) | 2:52 |
 | 50 | [Creí](https://open.spotify.com/track/4x2bs0JLkuluDZw64K7l2K) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:52 |
 | 51 | [Después De Ti](https://open.spotify.com/track/1HIK2PxTP1rTQFvCCiZuLk) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Con Toda La Fuerza](https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ) | 3:36 |
-| 52 | [El Desayuno](https://open.spotify.com/track/0UN5AItjmIjEMBqsKjdOTh) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 2:59 |
-| 53 | [Si Te Estoy Rogando](https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Si Te Estoy Rogando](https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc) | 4:07 |
+| 52 | [Si Te Estoy Rogando](https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Si Te Estoy Rogando](https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc) | 4:07 |
+| 53 | [El Desayuno](https://open.spotify.com/track/0UN5AItjmIjEMBqsKjdOTh) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 2:59 |
 | 54 | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme) | 3:16 |
 | 55 | [Bajo La Misma Luna](https://open.spotify.com/track/7tWUtuimvXukaJMeafXcQr) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 2:12 |
 | 56 | [Como Quiera Sigo Vivo](https://open.spotify.com/track/4J6eF2qMnUFg0fgunRFBcC) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Como Quiera Sigo Vivo](https://open.spotify.com/album/0ii8CYwGpHWZOyedXhUuML) | 2:59 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 59 | [De tanto Que Te Di](https://open.spotify.com/track/6iHvR8Se4EThLbFQUylvSY) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [La Vida A Mi Modo](https://open.spotify.com/album/4H3riGmrFHA3TWfz4Vp9hY) | 3:14 |
 | 60 | [Y Al Final Quedé Sin Ti](https://open.spotify.com/track/2hT5lSsEajPIx9ioHqV9lX) | [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Y Al Final Quedé Sin Ti](https://open.spotify.com/album/1yyq7SPzlt1p6iCvhjdn8o) | 3:45 |
 | 61 | [También Me Gusta Que Me Quieras](https://open.spotify.com/track/4Il57188XOFo1uvTUd9say) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 3:40 |
-| 62 | [Vamos A Ver Quién Gana](https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Hecho En México](https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN) | 3:25 |
-| 63 | [Se Ve Que Te Hago Falta](https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Se Ve Que Te Hago Falta](https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL) | 3:38 |
+| 62 | [Se Ve Que Te Hago Falta](https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Se Ve Que Te Hago Falta](https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL) | 3:38 |
+| 63 | [Vamos A Ver Quién Gana](https://open.spotify.com/track/6fpjK1f61zZzCgmTnwbWAI) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Hecho En México](https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN) | 3:25 |
 | 64 | [Tenemos Algo En Común](https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 3:02 |
 | 65 | [Mentiras Piadosas](https://open.spotify.com/track/6ax70PvaSA1s2jxDH2iXoh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 3:27 |
 | 66 | [No Te Rías](https://open.spotify.com/track/3MGzhhCpbU8UXsy1z6euH2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 99 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 | 100 | [Como Dejo De Quererte](https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:58 |
 
-Snapshot ID: `MCw1NDY3NDcxNDg0MjE3Y2U1MWIwNDkzN2M3NzkzY2U0NDdiZDE5ODA2`
+Snapshot ID: `MCxjOWMzODU0N2VhYjJhODJmZWRlMzhmMzRhYzVlMzZlYjI5ZjExNzZk`

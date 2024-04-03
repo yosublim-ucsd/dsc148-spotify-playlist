@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Secret Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,483 likes - 152 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,490 likes - 152 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 133 | [Gotta Go](https://open.spotify.com/track/0vJtF339UcgkmTD0zXmQJ7) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [Gotta Go](https://open.spotify.com/album/2tCkDJZnXkbHaxRqg19mfD) | 3:53 |
 | 134 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
 | 135 | [Visions Of You](https://open.spotify.com/track/22D1DwiWzLVfIodVEG5XtA) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Visions Of You](https://open.spotify.com/album/22ERssxXyl2G0RYOVNjnHV) | 3:56 |
-| 136 | [Cottontail](https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Cottontail](https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU) | 2:41 |
+| 136 | [Cottontail](https://open.spotify.com/track/0d3BExBN8rYm0jyyBfsJst) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 2:41 |
 | 137 | [In The Morning](https://open.spotify.com/track/6Ub8STE1LOSXfmKqvcm9n8) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [In The Morning](https://open.spotify.com/album/7Di07J7DApAfg39UadOuNM) | 3:22 |
 | 138 | [Timber!](https://open.spotify.com/track/4rGJ5VUmH7WenfuQv2BhGm) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Timber!](https://open.spotify.com/album/6tc9TvXbLtGXCMomCizZz4) | 3:14 |
 | 139 | [Of Land and Sea](https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Of Land and Sea](https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD) | 3:35 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 151 | [Revival](https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:05 |
 | 152 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 
-Snapshot ID: `MCw2ZGQ2NWIyNWE0YWRjZGI5ODg2NDU3MjEwNjA2ZWFiN2FhNGVmZGI1`
+Snapshot ID: `MCxiNDNjYjBmZWMyNjg1MGY5ZGIwMWNlYjYxMjk1NzBmZDEyNjlmMmVj`

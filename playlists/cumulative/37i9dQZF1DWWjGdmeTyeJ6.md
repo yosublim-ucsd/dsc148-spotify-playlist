@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: SPRINTS\. Artwork by Isu Kim.
 
-6,005 songs - 13 day 14 hr 52 min
+6,006 songs - 13 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1211,7 +1211,8 @@
 | [Cut My Hair](https://open.spotify.com/track/4QSZrsCZx4jAPNIMoUsq03) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Cut My Hair](https://open.spotify.com/album/7nl1z74jzZCRG7G1SC3fZo) | 2:51 | 2022-06-29 | 2022-07-07 |
 | [Cut the Kite String](https://open.spotify.com/track/2CToXuKahvDh3VBKFZ7JRv) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Cut the Kite String](https://open.spotify.com/album/3Hw9rP7XXOMZkrXjrgwK7W) | 3:05 | 2023-05-24 | 2023-06-01 |
 | [Cyber Psyche Green](https://open.spotify.com/track/3sWCW2ea1ZP3txLxJHElTO) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Serial Experiments PAIN](https://open.spotify.com/album/3Aw7WuGG8Xff2jiCbNZpkH) | 2:19 | 2022-02-09 | 2022-02-17 |
-| [Cycle](https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Cycle](https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC) | 3:33 | 2024-03-20 |  |
+| [Cycle](https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Cycle](https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC) | 3:33 | 2024-03-20 | 2024-04-03 |
+| [Cycle](https://open.spotify.com/track/1FBEQqHKgV2EWquBd0Bcgn) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Acid Star](https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe) | 3:33 | 2024-03-20 |  |
 | [Cycles \(feat\. Isaiah\)](https://open.spotify.com/track/2iyaSzxyl0B744yPbXpcEK) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Isaiah](https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT) | [Cycles](https://open.spotify.com/album/6DIebxNWIVeqRSjPqCk4Tm) | 3:18 | 2022-09-21 | 2022-09-29 |
 | [Cylinders](https://open.spotify.com/track/17I5FjmxdcfWX9GYjsSkVJ) | [Dog Sport](https://open.spotify.com/artist/68RQxUCaZrjtIYlxk6mERg) | [Cylinders](https://open.spotify.com/album/5nXRuh4rwIUu7TySmM9oeE) | 3:21 | 2023-09-27 | 2023-10-05 |
 | [Czars In My Eyes \- Radio Edit](https://open.spotify.com/track/4FGri1j7wHvMqDopfrkpiH) | [Simple Symmetry](https://open.spotify.com/artist/36oy3scxRLRqG8uptf04vG), [Lord Fascinator](https://open.spotify.com/artist/3FxFcgJT0HTQTofNJINl0z) | [Czars In My Eyes](https://open.spotify.com/album/223C01qvDudB1BT1AWfznk) | 4:56 | 2022-09-28 | 2022-10-06 |

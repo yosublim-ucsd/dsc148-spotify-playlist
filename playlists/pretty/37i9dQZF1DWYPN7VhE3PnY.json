@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 30169,
+  "num_followers": 30192,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDI0OTY4ODU0NDAyYjY1OGMwYTZkNjMyYTgxZDZiMzBjYjE0NmEx",
+  "snapshot_id": "MCw0Y2QxYmZjYmM4NGQ0MDcwY2Q5YTk1YWUxZmU3Zjc2OTg5YmY0ZjQ2",
   "tracks": [
     {
       "added_at": "2024-03-04 16:08:51",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
+        "name": "Scream Drive Faster",
+        "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Scream Drive Faster",
+      "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
         "name": "A Real Hero",
         "url": "https://open.spotify.com/album/73c34KIp08yd4Jp0mkufmV"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
-        "name": "Scream Drive Faster",
-        "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
       },
       "artists": [
         {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Scream Drive Faster",
-      "url": "https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT"
+      "duration_ms": 207320,
+      "name": "I Belong In Your Arms",
+      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
     },
     {
       "added_at": "2024-03-04 16:08:51",
@@ -583,22 +599,6 @@
       "duration_ms": 214555,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "I Belong In Your Arms",
-      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
     },
     {
       "added_at": "2024-03-04 16:08:51",

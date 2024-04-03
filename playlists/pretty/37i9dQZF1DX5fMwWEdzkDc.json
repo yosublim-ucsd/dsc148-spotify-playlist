@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14402,
+  "num_followers": 14397,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWVkOWQwYjkwMGRlZGEyYzM3YmY3YTkyYWZmYmZjYmE0N2ExY2Y0",
+  "snapshot_id": "MCw5NTY3M2FkMTViOTgwZGVhZjhhYTI4OTk1YmRhYWI3Yjg3YmQzYWQy",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "\ubc8c\uc368 \uc77c\ub144",
-      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Hot Issue",
         "url": "https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 208773,
       "name": "Hot Issue",
       "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "\ubc8c\uc368 \uc77c\ub144",
+      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "My Name - The 4th Album",
         "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 193026,
       "name": "My Name",
       "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -959,6 +959,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Master`s sun OST",
+        "url": "https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 244126,
+      "name": "Touch love",
+      "url": "https://open.spotify.com/track/64QBbRIToyFzgOlejdAAFv"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Master`s sun OST",
-        "url": "https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244126,
-      "name": "Touch love",
-      "url": "https://open.spotify.com/track/64QBbRIToyFzgOlejdAAFv"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 272662,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "MIRACLE - The 2.5th Album",
+        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "VALENTI",
+      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1039,22 +1055,6 @@
       "duration_ms": 278400,
       "name": "\uae30\ub300",
       "url": "https://open.spotify.com/track/1Y85YkVzlmqXXZsj1XE1EF"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "MIRACLE - The 2.5th Album",
-        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "VALENTI",
-      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Dropping the Tears",
+        "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        },
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        }
+      ],
+      "duration_ms": 238628,
+      "name": "LOVE119 (feat. MC Mong)",
+      "url": "https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 240440,
       "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
       "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Dropping the Tears",
-        "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        },
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 238628,
-      "name": "LOVE119 (feat. MC Mong)",
-      "url": "https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
-      },
-      "artists": [
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 281760,
       "name": "T.O.P. (Twinkling Of Paradise)",
       "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        }
+      ],
+      "duration_ms": 216323,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "DINNER MATE (Original Television Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/5Tcr7AHV7Y3iLD2pnhhGh0"
+        "name": "Stylish\u2026",
+        "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
       },
       "artists": [
         {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        },
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
         }
       ],
-      "duration_ms": 212520,
-      "name": "Yummy Yummy (feat. Chancellor)",
-      "url": "https://open.spotify.com/track/7JIPEpfmQOwFr9f1aC6lHL"
+      "duration_ms": 240658,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/6zWL2EkbtZMcE0XcKMUxDJ"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Stylish\u2026",
-        "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
+        "name": "DINNER MATE (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/5Tcr7AHV7Y3iLD2pnhhGh0"
       },
       "artists": [
         {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        },
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
         }
       ],
-      "duration_ms": 240658,
-      "name": "Hey Girl",
-      "url": "https://open.spotify.com/track/6zWL2EkbtZMcE0XcKMUxDJ"
+      "duration_ms": 212520,
+      "name": "Yummy Yummy (feat. Chancellor)",
+      "url": "https://open.spotify.com/track/7JIPEpfmQOwFr9f1aC6lHL"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "An Ordinary Day",
-        "url": "https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "An Ordinary",
-      "url": "https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "My Fair Lady (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6IPH808fsWagTBK9SusndW"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 221066,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "An Ordinary Day",
+        "url": "https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "An Ordinary",
+      "url": "https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF"
     },
     {
       "added_at": "2021-03-11 16:26:11",

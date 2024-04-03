@@ -1,7 +1,7 @@
 {
-  "2024-04-02": 975070,
+  "2024-04-03": 975113,
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Shakira",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Luis Fonsi",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -337,7 +337,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 149224,
       "name": "All\u00e1 Donde Voy",
       "url": "https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 138984,
       "name": "boomerang",
       "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
@@ -2886,6 +2886,24 @@
     },
     {
       "album": {
+        "name": "Boyz Don't Cry",
+        "url": "https://open.spotify.com/album/6AS11fKnjyqAntySc1RJmt"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176344,
+      "name": "F.G.L.C. (A Ratitos)",
+      "url": "https://open.spotify.com/track/2lnSDkB8KCKZPDAqYXILD7"
+    },
+    {
+      "album": {
         "name": "Falsos Recuerdos",
         "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
       },
@@ -3440,6 +3458,28 @@
     },
     {
       "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186366,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
+    },
+    {
+      "album": {
         "name": "La buena vida",
         "url": "https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi"
       },
@@ -3799,7 +3839,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 177482,
       "name": "La Vuelta al Mundo",
       "url": "https://open.spotify.com/track/0KnQMnM6CfsH5A2V7g5FtK"
@@ -6137,7 +6177,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 165267,
       "name": "Polonia",
       "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
@@ -6981,6 +7021,32 @@
       "duration_ms": 183073,
       "name": "Sin Antifaz (feat. Rayden)",
       "url": "https://open.spotify.com/track/790vlvIwUc0KIb1A3nr79w"
+    },
+    {
+      "album": {
+        "name": "Sin Filtro",
+        "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Sin Filtro",
+      "url": "https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT"
     },
     {
       "album": {
@@ -8437,6 +8503,24 @@
       "duration_ms": 214800,
       "name": "XQ Sigues Pasando :(",
       "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     },
     {
       "album": {

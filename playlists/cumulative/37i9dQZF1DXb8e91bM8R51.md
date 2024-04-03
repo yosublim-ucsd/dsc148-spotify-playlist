@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-369 songs - 21 hr 7 min
+370 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 | 2022-01-14 | 2022-02-26 |
 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-09-29 |  |
 | [Buddy](https://open.spotify.com/track/0xr24hc6g7hFBZcU4xY87j) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 4:54 | 2023-03-03 | 2023-07-23 |
+| [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 |  |
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 | 2022-01-14 | 2022-04-23 |
 | [Butterfly Effect \(feat\. RJ Payne\)](https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [RJ Payne](https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy) | [Butterfly Effect \(feat\. RJ Payne\)](https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1) | 2:58 | 2022-03-11 | 2022-07-29 |
 | [Cake](https://open.spotify.com/track/2ChAypXrj4P5YKwxPZjfr2) | [Super Sako](https://open.spotify.com/artist/2ZMnWI3oIHyj7MyuZ99gvu), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Cake](https://open.spotify.com/album/10I65oH6NTkRcYQDd96Z7K) | 3:01 | 2022-05-23 | 2022-06-25 |
@@ -376,6 +377,6 @@
 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 | 2023-09-15 |  |
 | [Young G's \(feat\. The Notorious B.I.G\. & Jay\-Z\)](https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 5:25 | 2022-01-14 |  |
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-25 | 2022-06-11 |
-| [Zipcodes](https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:27 | 2022-09-02 |  |
+| [Zipcodes](https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:27 | 2022-09-02 | 2024-04-03 |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

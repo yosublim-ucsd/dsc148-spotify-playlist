@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Cubism",
+        "url": "https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193322,
+      "name": "Cubism",
+      "url": "https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl"
+    },
+    {
+      "album": {
         "name": "1(800)HIT-EAZY: Line 2",
         "url": "https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ"
       },
@@ -5780,7 +5798,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 283133,
       "name": "Learning",
       "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
@@ -6990,7 +7008,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
@@ -7440,7 +7458,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 167270,
       "name": "Nice Town - Original",
       "url": "https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH"
@@ -12266,7 +12284,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 242470,
       "name": "Water Carrier",
       "url": "https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB"
@@ -13924,6 +13942,24 @@
       "duration_ms": 207687,
       "name": "\u6191\u4f9d",
       "url": "https://open.spotify.com/track/6CQsnkKBdrooo6LB1DqcZu"
+    },
+    {
+      "album": {
+        "name": "\u62dd\u5553\u751f\u304d\u3068\u3057\u611b\u304a\u3057\u304d\u3042\u306a\u305f",
+        "url": "https://open.spotify.com/album/5mGXQXpwzEmRor7HouC1zF"
+      },
+      "artists": [
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219384,
+      "name": "\u62dd\u5553\u751f\u304d\u3068\u3057\u611b\u304a\u3057\u304d\u3042\u306a\u305f",
+      "url": "https://open.spotify.com/track/5TPDyjoG3MRjWHltxXkYXu"
     },
     {
       "album": {

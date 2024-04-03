@@ -2,9 +2,9 @@
 
 ### [I Love My 00s Funk](https://open.spotify.com/playlist/37i9dQZF1DX0qxRTf9gkRN)
 
-> The best and finest 00s Funk\. Cover: Sharon Jones.
+> The best and finest 00s Funk\. Cover: Prince
 
-71 songs - 4 hr 56 min
+72 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Maybe So, Maybe No](https://open.spotify.com/track/0RCapYYstxC2KDYt9XPY8v) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:59 | 2020-12-01 |  |
 | [Morning Child](https://open.spotify.com/track/20c5eECc45lSxhWkEqXUaJ) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L) | [Café del Mar 40th Anniversary](https://open.spotify.com/album/0I8P4Di0YbwMXvCRSXCCcW) | 4:35 | 2020-12-01 |  |
 | [MRG](https://open.spotify.com/track/6sh7wSqZL1xDKWvo20qcYl) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Ten Years On](https://open.spotify.com/album/5Ippa7TZRnICT1d1Eewp3d) | 4:17 | 2021-04-26 |  |
+| [Musicology](https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Musicology](https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK) | 4:24 | 2024-04-02 |  |
 | [My World](https://open.spotify.com/track/5j9jScO7liRScaGXj5PhV5) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 3:27 | 2020-12-01 |  |
 | [Nothing For Nothing](https://open.spotify.com/track/2o7Rst2xy4ZHXUkZpyMWyB) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:08 | 2020-12-01 |  |
 | [One Day](https://open.spotify.com/track/0B9RrWdVVauiVN0KOQ7HgV) | [Kings Go Forth](https://open.spotify.com/artist/2TtCm6pJEbuTVt7dTEaPEB) | [The Outsiders Are Back](https://open.spotify.com/album/5xwTeMse6vp1BDnQzairMH) | 4:10 | 2020-12-01 |  |
@@ -74,7 +75,7 @@
 | [The Gettin' to It](https://open.spotify.com/track/6CutRO1Zkms8w2EWhT3GpU) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Hit the Floor](https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO) | 2:43 | 2020-12-01 |  |
 | [The Originator](https://open.spotify.com/track/3259X7jpUYfMe8ipPgkVuy) | [Dj Spinna](https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2) | [Here to There](https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy) | 5:07 | 2020-12-01 |  |
 | [Up From the South](https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 3:26 | 2020-12-01 |  |
-| [Waltz of a Ghetto Fly](https://open.spotify.com/track/2Jk7CM8XGW7Mmf42qaxKMV) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [Waltz of a Ghetto Fly](https://open.spotify.com/album/6eX29ysLt9GUE4srUvbJaK) | 10:56 | 2020-12-01 |  |
+| [Waltz of a Ghetto Fly](https://open.spotify.com/track/2Jk7CM8XGW7Mmf42qaxKMV) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [Waltz of a Ghetto Fly](https://open.spotify.com/album/6eX29ysLt9GUE4srUvbJaK) | 10:56 | 2020-12-01 | 2024-04-03 |
 | [War](https://open.spotify.com/track/5bJ1K78btQIh5gR1MaFXt0) | [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Hypnotic Brass Ensemble](https://open.spotify.com/album/3csgS5QC85jLWZly2zuish) | 2:53 | 2020-12-01 |  |
 | [Who's Gonna Take the Weight](https://open.spotify.com/track/3VdkcoeVKiWydgnLeZ8BYQ) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [Got to Lose Your Way](https://open.spotify.com/album/5Xpbog4TVo7l5MC5kaSsCD) | 5:47 | 2021-04-26 |  |
 | [Working Woman](https://open.spotify.com/track/3hRm4LOGGQjLbG4wOnm2jn) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:07 | 2020-12-01 |  |

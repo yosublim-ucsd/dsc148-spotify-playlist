@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 93 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,14 +90,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 80 | [Drive](https://open.spotify.com/track/3xB5sqRlOw1TXCK74P2WyW) | [Anja Nissen](https://open.spotify.com/artist/6KjtX8ZPAoeLFnuv36UBpQ) | [Where I Am \- EP](https://open.spotify.com/album/1aUz2BacE0ZGYSdqu8LwgH) | 3:17 |
 | 81 | [Things I'd Save In A Fire](https://open.spotify.com/track/33XEkt4Wo1YQGhEpilPDb6) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:52 |
 | 82 | [Favorite Nightmare](https://open.spotify.com/track/3rxs3sb4kIzcF0gGXIgH99) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Watch The World](https://open.spotify.com/album/1f6kyzMUyeVkp7si9VGNVo) | 4:24 |
-| 83 | [Phantom Feelings](https://open.spotify.com/track/6PqG4ti1kuYkMnDBU6fXXA) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:13 |
-| 84 | [Slot Machine](https://open.spotify.com/track/5P5LgRaqFGwT2lCV5C17XC) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:40 |
-| 85 | [Dandelions](https://open.spotify.com/track/2X6KSYx1050ObYBFI5AWuj) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:43 |
-| 86 | [Nobody's Girl](https://open.spotify.com/track/3YN2n22KaU9FfHp3sM5aug) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Liv](https://open.spotify.com/artist/2Qt2g9eaCxJuWwaFWgspv5) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:25 |
-| 87 | [Life Is Fucking Beautiful](https://open.spotify.com/track/497WlXfNpdALph2XMDKXsa) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:52 |
-| 88 | [Time](https://open.spotify.com/track/21Yiut66EbiO71B43sPMeR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:09 |
-| 89 | [Imagination](https://open.spotify.com/track/5NspL05XmCt5DbjQjDdrRb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:41 |
-| 90 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
-| 91 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
+| 83 | [someone's gotta be the last](https://open.spotify.com/track/3wrfNRQxGD9tOr2I2aBPkd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [someone's gotta be the last](https://open.spotify.com/album/2xdqCp16HspPEn9EYHbAE6) | 3:00 |
+| 84 | [Phantom Feelings](https://open.spotify.com/track/6PqG4ti1kuYkMnDBU6fXXA) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:13 |
+| 85 | [Slot Machine](https://open.spotify.com/track/5P5LgRaqFGwT2lCV5C17XC) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:40 |
+| 86 | [Dandelions](https://open.spotify.com/track/2X6KSYx1050ObYBFI5AWuj) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:43 |
+| 87 | [Nobody's Girl](https://open.spotify.com/track/3YN2n22KaU9FfHp3sM5aug) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Liv](https://open.spotify.com/artist/2Qt2g9eaCxJuWwaFWgspv5) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:25 |
+| 88 | [Life Is Fucking Beautiful](https://open.spotify.com/track/497WlXfNpdALph2XMDKXsa) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:52 |
+| 89 | [Time](https://open.spotify.com/track/21Yiut66EbiO71B43sPMeR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:09 |
+| 90 | [Imagination](https://open.spotify.com/track/5NspL05XmCt5DbjQjDdrRb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:41 |
+| 91 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
+| 92 | [Same Song Forever](https://open.spotify.com/track/7HPOODAHzR3NU7u27MA5QO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Same Song Forever](https://open.spotify.com/album/4zgRXBKyMH1QPGewjYr6ss) | 3:27 |
+| 93 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `Mjg1MzM3MjAsMDAwMDAwMDBiNzMxMDI1YWViZTg1MDgzZDExZWJkNmM1M2VlYWYwMw==`
+Snapshot ID: `Mjg1MzUxNjAsMDAwMDAwMDBiZmFkOTEzNmMzYjA1ZGQ3MTUxYzdlOGEyNzczZGRmYg==`

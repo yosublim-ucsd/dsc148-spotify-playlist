@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 742 likes - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 28 | [Somos Hombres O Payasos](https://open.spotify.com/track/05Tt6ZvFojXH2tggyKAzbv) | [Linea Activada](https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Somos Hombres O Payasos](https://open.spotify.com/album/5BToanreAoj2wvKJh8nWyn) | 2:35 |
 | 29 | [Me Gusta Tener De a Dos \(Live\)](https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:37 |
 | 30 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 |
-| 31 | [El Operativo](https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Entre Los Grandes](https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK) | 3:01 |
-| 32 | [TUMBADÓN](https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:35 |
+| 31 | [TUMBADÓN](https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:35 |
+| 32 | [El Operativo](https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Entre Los Grandes](https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK) | 3:01 |
 | 33 | [Cajita De Oro \(Live\)](https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:52 |
 | 34 | [La Leyenda De Los Llanos](https://open.spotify.com/track/5XmceElKDjfqXj2tSJdaCz) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [La Leyenda De Los Llanos](https://open.spotify.com/album/5gwNiUYmhTBYEWMrnKUFNz) | 3:24 |
 | 35 | [LA VIDA](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 |
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 41 | [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 |
 | 42 | [Impala Tumbado](https://open.spotify.com/track/3ufuq63rR9b6vVDoCWuIkd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Impala Tumbado](https://open.spotify.com/album/23bBZvZ2qUoFRrZ7puYXfT) | 2:57 |
 | 43 | [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 |
-| 44 | [La F\*\*\*\*g Ola](https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [La F\*\*\*\*g Ola](https://open.spotify.com/album/60dcyhKJXf69o3jx474mAE) | 3:27 |
-| 45 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:25 |
-| 46 | [Se Mamó El Becerro \- Live](https://open.spotify.com/track/0Tub36OHl0gXQ4SfTkWDip) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Así Nomás Live](https://open.spotify.com/album/3DjJVXAcfVMOixi8slv9gT) | 4:57 |
+| 44 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:25 |
+| 45 | [Se Mamó El Becerro \- Live](https://open.spotify.com/track/0Tub36OHl0gXQ4SfTkWDip) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Así Nomás Live](https://open.spotify.com/album/3DjJVXAcfVMOixi8slv9gT) | 4:57 |
+| 46 | [La F\*\*\*\*g Ola](https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [La F\*\*\*\*g Ola](https://open.spotify.com/album/60dcyhKJXf69o3jx474mAE) | 3:27 |
 | 47 | [Nave 727 \- En Vivo](https://open.spotify.com/track/5Zk59MAZxwbf6oMulM8P0k) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Hay Pedo, Hay Peda \(En Vivo\)](https://open.spotify.com/album/5jaNQ9eqs1mTJwOsEunLY5) | 3:50 |
 | 48 | [La Vida Es Un Carnaval \(Live\)](https://open.spotify.com/track/3qsJZt81pdlzRBN3uT1bRH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 2:46 |
-| 49 | [Soy Todo Tuyo \- En Vivo](https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Soy Todo Tuyo \(En Vivo\)](https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK) | 3:15 |
-| 50 | [Asi Toco Mi Vida \- Live](https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Finix Style](https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC) | 4:18 |
-| 51 | [EL ARQUITECTO](https://open.spotify.com/track/7HHEleNNNKkvSr1e2Axtu3) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:28 |
+| 49 | [Asi Toco Mi Vida \- Live](https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Finix Style](https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC) | 4:18 |
+| 50 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 |
+| 51 | [Soy Todo Tuyo \- En Vivo](https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Soy Todo Tuyo \(En Vivo\)](https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK) | 3:15 |
 | 52 | [La Cadenita \(Live\)](https://open.spotify.com/track/6rekTj3LwYOz9C4C2Tcz7g) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 2:32 |
 
-Snapshot ID: `Mjg1MzI4OTUsMDAwMDAwMDA3N2ZkYzMxYmFlNzA4OThhNTk2YjQ3YjkzZGNkMTE1Ng==`
+Snapshot ID: `Mjg1MzQzNTEsMDAwMDAwMDBjOWVjNWI1YTMwOTJhNjY3NTFkYmJiZTBmNzEyNGViNw==`

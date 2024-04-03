@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-205 songs - 13 hr 41 min
+206 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Alek Shway](https://open.spotify.com/track/1oxOYMvVimEG6xz2OI7hj2) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Yazan Rousan](https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW) | [Alek Shway](https://open.spotify.com/album/5DnTtizoWcoAW0FoKascoB) | 3:33 | 2024-03-03 |  |
 | [Alf Leila We Leila Remix](https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Alf Leila We Leila Remix](https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ) | 3:14 | 2022-10-14 | 2023-02-02 |
 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-01-26 |  |
-| [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2024-03-03 |  |
+| [Amathole](https://open.spotify.com/track/6p3YWWfPWB9LlB9zLNHNh2) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp) | 8:07 | 2024-04-01 |  |
+| [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2024-03-03 | 2024-04-03 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-28 | 2023-08-05 |
 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 | 2023-06-23 | 2023-08-17 |
 | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ribale Wehbe](https://open.spotify.com/artist/0aDFtp48TNejF5G7hqM4J9) | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK) | 4:21 | 2024-01-19 |  |

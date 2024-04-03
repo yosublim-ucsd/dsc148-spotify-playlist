@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,751 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,802 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 54 | [There Is A Number Of Small Things](https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Yesterday Was Dramatic – Today Is OK](https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2) | 6:31 |
 | 55 | [Silent Motels](https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 3:56 |
 | 56 | [Borderlands](https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [An Imaginary Country](https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R) | 4:46 |
-| 57 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
-| 58 | [I'm Too Sleepy...Shall We Swim?](https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:13 |
+| 57 | [I'm Too Sleepy...Shall We Swim?](https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:13 |
+| 58 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
 | 59 | [Sol](https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s) | 10:02 |
 | 60 | [Meissa](https://open.spotify.com/track/3eBgQ64Hwd1LX12UKwB1en) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/25us3iSYDeZ7DjV458Uems) | 8:08 |
 | 61 | [The Unfinished](https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 4:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 64 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 |
 | 65 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 |
 | 66 | [Anfangtastisch \(Remastered\)](https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered\)](https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54) | 1:14 |
-| 67 | [All The Big Trees \- 2019 Remaster](https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 5:15 |
-| 68 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
+| 67 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
+| 68 | [All The Big Trees \- 2019 Remaster](https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 5:15 |
 | 69 | [Daumen](https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Geisterfaust](https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC) | 8:06 |
 | 70 | [Tarazed](https://open.spotify.com/track/3QT8QhEEPubbhfHZxFPZHa) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/25us3iSYDeZ7DjV458Uems) | 5:03 |
 | 71 | [Woe is the Transgression I](https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue) | 8:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [So Long Orpheus](https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e) | 2:23 |
 | 100 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
 
-Snapshot ID: `MCw4NWU1NzExZWJkNzRmMjIwZDk0Njc2NmE3ODllNWQ3MDcwMTQ1NzQx`
+Snapshot ID: `MCw2ZmUxOTUzNWMxZDdmNmRlNmZiZjRlMTEwNTUyMDgzZDIwN2MzZjBk`

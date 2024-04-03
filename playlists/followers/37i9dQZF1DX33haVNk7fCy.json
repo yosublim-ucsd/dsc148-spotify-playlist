@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 121920,
+  "2024-04-03": 121953,
   "date_first_scraped": "2023-05-19",
   "description": "When everything around you is falling apart. ",
   "name": "Sad Boi Hours",
@@ -1045,6 +1045,24 @@
       "duration_ms": 234037,
       "name": "Jo Tu Na Mila",
       "url": "https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS"
+    },
+    {
+      "album": {
+        "name": "Shaapit: The Cursed",
+        "url": "https://open.spotify.com/album/63LMMLbw96iKJ2pSsJuatw"
+      },
+      "artists": [
+        {
+          "name": "Aditya Narayan",
+          "url": "https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376049,
+      "name": "Kabhi Na Kabhi",
+      "url": "https://open.spotify.com/track/1fnyJEbolobEfv2gtLVjmA"
     },
     {
       "album": {

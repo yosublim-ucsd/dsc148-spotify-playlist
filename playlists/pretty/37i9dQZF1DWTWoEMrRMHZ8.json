@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 346925,
+  "num_followers": 346947,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFjYWQxYzg2MjRkOWVlNzBiNmIwYjg1NGM4ZDRjZjA5Y2I1ZmJh",
+  "snapshot_id": "MCw4Y2ZiODkxNzU1MTc2NDRiYmFhM2YyZDNkOTllYjRjOWNlMWIzZWQ2",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "SERENA",
+        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 189713,
+      "name": "SERENA",
+      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
       },
@@ -471,18 +487,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "SERENA",
-        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 189713,
-      "name": "SERENA",
-      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -503,26 +523,6 @@
       "duration_ms": 177546,
       "name": "Jardins Da Babil\u00f4nia",
       "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "V\u00e1 Com Deus",
         "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
       },
@@ -1059,42 +1075,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "De: Terra; Para: Humanidade",
-        "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
-      },
-      "artists": [
-        {
-          "name": "Madu",
-          "url": "https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD"
-        },
-        {
-          "name": "Mariana Milani",
-          "url": "https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5"
-        }
-      ],
-      "duration_ms": 230441,
-      "name": "De: Terra; Para: Humanidade",
-      "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Tudo \u00e9 Carnaval",
         "url": "https://open.spotify.com/album/6X4YSZrPQ5BRaKUXBNz0U3"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 177586,
       "name": "Tudo \u00e9 Carnaval",
       "url": "https://open.spotify.com/track/3X5hJ2EqdIKpmw5tagtAnK"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "De: Terra; Para: Humanidade",
+        "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
+      },
+      "artists": [
+        {
+          "name": "Madu",
+          "url": "https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD"
+        },
+        {
+          "name": "Mariana Milani",
+          "url": "https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5"
+        }
+      ],
+      "duration_ms": 230441,
+      "name": "De: Terra; Para: Humanidade",
+      "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "\u00c1urea Martins e Jo\u00e3o Senise Celebram Sinatra & Jobim",
-        "url": "https://open.spotify.com/album/0EfJaMIyZdwDmqmQ968t1b"
-      },
-      "artists": [
-        {
-          "name": "\u00c1urea Martins",
-          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
-        },
-        {
-          "name": "Jo\u00e3o Senise",
-          "url": "https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Medita\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/0NwDg971pu7KeDgnbrueEq"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 179215,
       "name": "O Amor Mata Sim",
       "url": "https://open.spotify.com/track/2RGHqHbXDiP4iMu12oImWA"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "\u00c1urea Martins e Jo\u00e3o Senise Celebram Sinatra & Jobim",
+        "url": "https://open.spotify.com/album/0EfJaMIyZdwDmqmQ968t1b"
+      },
+      "artists": [
+        {
+          "name": "\u00c1urea Martins",
+          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
+        },
+        {
+          "name": "Jo\u00e3o Senise",
+          "url": "https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Medita\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
     },
     {
       "added_at": "2024-03-29 03:00:00",

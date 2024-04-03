@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,229 likes - 52 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,249 likes - 52 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 |
 | 2 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 |
 | 3 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
-| 4 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 |
+| 4 | [Amathole](https://open.spotify.com/track/6p3YWWfPWB9LlB9zLNHNh2) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp) | 8:07 |
 | 5 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 |
 | 6 | [Khalouni Neich](https://open.spotify.com/track/5uFOWK3FXZvTIly8mJ8dD1) | [Yusuf Ekşioğlu](https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv) | [Khalouni Neich](https://open.spotify.com/album/6zdnyNbfeUTqOxPXjk2C1K) | 3:12 |
 | 7 | [El Hob](https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c) | [Pharonic Electronic](https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA) | [El Hob](https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw) | 3:34 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 51 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
 | 52 | [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 |
 
-Snapshot ID: `MCwwOTU5NzczMDgyYTQ2MzY4YTE5NmYyOTQ5ZjJjZmJhZGU2ZWU5ODZk`
+Snapshot ID: `MCxlOTk0ZGQyNmY1NTdlNGMwNmQyMDI3M2RjMTU5ZDg4ZGI5NjUwNTcx`

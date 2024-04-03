@@ -1631,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "Fargah",
+        "url": "https://open.spotify.com/album/62w7X2wwf3TgPOPcteaRpN"
+      },
+      "artists": [
+        {
+          "name": "Jassem Mohammed",
+          "url": "https://open.spotify.com/artist/7v8Zo7SvfmVoSMdOHQd6r3"
+        },
+        {
+          "name": "Meshari Alawadhi",
+          "url": "https://open.spotify.com/artist/1ml7Su9BEo7jUsnStP7DgG"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215536,
+      "name": "Fargah",
+      "url": "https://open.spotify.com/track/3YgMfaDg1HgnS9gDyasPYm"
+    },
+    {
+      "album": {
         "name": "Farghty",
         "url": "https://open.spotify.com/album/40yxzlYTsLAMBhmzevbKvB"
       },
@@ -5130,7 +5152,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 217941,
       "name": "\u0632\u064a\u0646\u0629 \u0623\u064a\u0627\u0645\u064a",
       "url": "https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX"

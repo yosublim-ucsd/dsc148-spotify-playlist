@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 44804,
+  "2024-04-03": 44815,
   "date_first_scraped": "2023-05-19",
   "description": "Catch your biggest flex to these summer tunes.",
   "name": "Summer Flex",
@@ -941,7 +941,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Savage Remix (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"

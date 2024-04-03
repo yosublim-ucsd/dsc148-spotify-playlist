@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,055 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,154 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 99 | [Surrender To The Feeling](https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Surrender To The Feeling](https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo) | 3:27 |
 | 100 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 |
 
-Snapshot ID: `MCw4OGFhMDdkZGI4NDZlOGMzMjk1M2JjOGYzNWFmYmJiZGM0NDMxNTdk`
+Snapshot ID: `MCw0ZDliMmE2Njc5ZDIzNmUzYjM0NDIyZTg0ZGE5MDM0MWRlZGUzZmZh`

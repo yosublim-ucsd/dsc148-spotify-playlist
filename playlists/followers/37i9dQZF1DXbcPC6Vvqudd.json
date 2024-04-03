@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 1414279,
+  "2024-04-03": 1414802,
   "date_first_scraped": "2021-12-28",
   "description": "Sleep with sounds of pouring rain and occasional rolling thunder.",
   "name": "Night Rain",
@@ -593,7 +593,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Chipi Chipi (Rain)",
       "url": "https://open.spotify.com/track/4AOcYN1cSFMZ6gZODPIOLZ"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 180871,
       "name": "Cozy Cabin Rain",
       "url": "https://open.spotify.com/track/4tR3AjcdyVP3yVLUrfACOk"

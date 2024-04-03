@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Maira
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,577 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,578 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 75 | [Midnight Sky](https://open.spotify.com/track/57wbMup6JXM0VTH8lT4uEy) | [LaQuin](https://open.spotify.com/artist/7AikG9oW4UVRyyr8FsQ2KJ) | [Midnight Sky](https://open.spotify.com/album/5NnYfFeKUXw2UBt1LCwq62) | 3:16 |
 | 76 | [PAIN AND SORROW](https://open.spotify.com/track/5U60belEgnj70lHNhyg2TQ) | [RVNVD](https://open.spotify.com/artist/3Y4rEjmlazhFCMJaJO6LTO) | [PAIN AND SORROW](https://open.spotify.com/album/0v7lXwrRtjzhLDxfOmweHu) | 2:25 |
 | 77 | [Tired of Overthinking](https://open.spotify.com/track/51Py1S7FenS5OfriRfCkTn) | [Bryan Tanadi Tjandra](https://open.spotify.com/artist/51DH1nsRVA57Ipacr6r3W7) | [Tired of Overthinking](https://open.spotify.com/album/3A2f7lMOxrvHseUZ8lMbpg) | 3:57 |
-| 78 | [Pay Me Up](https://open.spotify.com/track/0Md1JBKO423CVExQ2z1euq) | [The Regards](https://open.spotify.com/artist/0o13juND7zVwxwpip7OvdZ) | [Vol 2](https://open.spotify.com/album/3vITBCqPzzKNuX70cSFbke) | 3:22 |
+| 78 | [Pay Me Up](https://open.spotify.com/track/0Md1JBKO423CVExQ2z1euq) | [The Regards](https://open.spotify.com/artist/1OnTsVCgadP4K2GjhRLEH4) | [Vol 2](https://open.spotify.com/album/3vITBCqPzzKNuX70cSFbke) | 3:22 |
 | 79 | [Dua Puluh](https://open.spotify.com/track/2jMVtJdoMfFtCqmHhNzbmI) | [Endings Night](https://open.spotify.com/artist/5vb9TBRa2FRHNlLQRNbz7H) | [Dua Puluh](https://open.spotify.com/album/7eK3rf6S3fFZCPU5eQUpnR) | 3:59 |
 | 80 | [Jalan Terbaik](https://open.spotify.com/track/1crBI4XD3NjEORVGfoEyPP) | [Get Up After Fall](https://open.spotify.com/artist/63ajb0THkzgNS2ufnnMP3C) | [Jalan Terbaik](https://open.spotify.com/album/3ZptTenZ2d78RCbNlI1MCv) | 3:48 |
 | 81 | [Adalah Ter](https://open.spotify.com/track/5GDcVgRciZPnyKFXHjd0iu) | [Rocka March](https://open.spotify.com/artist/1wnVajY8YepMq6zEMAtVxV), [DJ Zhak](https://open.spotify.com/artist/3Op3BBdOvJDsniPviMCv0k) | [Adalah Ter](https://open.spotify.com/album/7MGG6LBahJUEBIePjEllT2) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 99 | [Habibi](https://open.spotify.com/track/4so084KAl7FTLcXgfmqvY3) | [Tasha Bouslama](https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e) | [Habibi](https://open.spotify.com/album/7iFIzslrs0bIh0tSSoamYO) | 3:23 |
 | 100 | [God's Eye](https://open.spotify.com/track/6TwaLEeVKsnyjpcPuuOo3U) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI) | [God's Eye](https://open.spotify.com/album/5VvowtQo41m62NHjFaD2c7) | 2:06 |
 
-Snapshot ID: `MCxiM2ZkNTg2MWY3ODU3NWJjNmFjMDI4MThmOGIyOGZhNjc5NDQ1ZDAw`
+Snapshot ID: `MCxiY2U5ODQwNDI0MzZiYzIyNjIyYjgyMTMwMjQ5ZThlYjVlYTkxMDFh`

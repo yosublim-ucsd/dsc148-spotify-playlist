@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 派偉俊 \(Patrick Brasca\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,976 likes - 33 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,002 likes - 33 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 32 | [To My Queen](https://open.spotify.com/track/7Kk4RaZM3p7hnypFrMhvpf) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [To My Queen](https://open.spotify.com/album/0x1xZf3huCjpt0A405d4z0) | 2:16 |
 | 33 | [窩囊廢](https://open.spotify.com/track/5aipGUxvifWyhwJ8i1UPfF) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 2:39 |
 
-Snapshot ID: `MCxlMzMwMTA3M2I5Y2RlMmFmNGRjOTIzZTJmNGYyOTZhNzlkMzk1NmMw`
+Snapshot ID: `MCxjZTE1OGQwYTVjMzAyZWE4NDkxZmU2ODNkOWRlM2FkNjY3ZGEwMGQ2`

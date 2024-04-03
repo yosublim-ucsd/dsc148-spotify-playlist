@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-252 songs - 1 day 0 hr 57 min
+253 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Amal](https://open.spotify.com/track/30ChfPsn6LEcXGZPnWG5yh) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens Of Eden](https://open.spotify.com/album/61068yXj9KdR7pzL36kBia) | 8:45 | 2022-07-21 | 2023-04-21 |
 | [Amal](https://open.spotify.com/track/6mbaDJR50wBfd2LuXTKSd2) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens of Eden](https://open.spotify.com/album/0ht36Zhz7lluBt8vBWJRVZ) | 8:45 | 2022-04-13 | 2022-07-29 |
 | [Aman \- Momo Ryuk Remix](https://open.spotify.com/track/5mJTWBKkdOtvft25HFu7cE) | [Mikhail Catan](https://open.spotify.com/artist/4kqXLTEzF23JF05uRrLa4k), [CamelVIP](https://open.spotify.com/artist/7eoCdH9Q2zwsyZrggvXNWE), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE) | [Aman \(Momo Ryuk Remix\)](https://open.spotify.com/album/1jOfxUIZSxjtmyLdU9htRG) | 6:56 | 2023-03-01 |  |
-| [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2023-07-05 |  |
+| [Amathole](https://open.spotify.com/track/6p3YWWfPWB9LlB9zLNHNh2) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp) | 8:07 | 2024-03-22 |  |
+| [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2023-07-05 | 2024-04-03 |
 | [Amazigh \- Enoo Napa Dub](https://open.spotify.com/track/6BfjfsJVEGNcRmibMhmz3h) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Amazigh Remixes](https://open.spotify.com/album/4lzuNAKSYZ2rsCUkHA02mZ) | 6:33 | 2023-01-01 | 2024-01-26 |
 | [Aminta \- Scorpios Edit](https://open.spotify.com/track/0l0HvE2nwRsMlsYYv5cAvL) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Aminta](https://open.spotify.com/album/2TK1N038DNKJwM6rNR5775) | 3:31 | 2022-04-13 | 2023-04-21 |
 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 | 2023-04-28 | 2023-11-08 |

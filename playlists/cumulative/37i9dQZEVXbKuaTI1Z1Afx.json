@@ -2813,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "ALWAYS",
+        "url": "https://open.spotify.com/album/5Uja3ZpxQ6cF8IAakytXFP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158016,
+      "name": "ALWAYS",
+      "url": "https://open.spotify.com/track/2MRm76TO0j4VBbyPj6lodc"
+    },
+    {
+      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa"
       },
@@ -5227,6 +5245,28 @@
     },
     {
       "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238016,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a"
+    },
+    {
+      "album": {
         "name": "Private Dancer (30th Anniversary Issue)",
         "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
       },
@@ -6134,7 +6174,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 245511,
       "name": "Blue Over You",
       "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
@@ -9054,6 +9094,24 @@
       "duration_ms": 190588,
       "name": "Come See Me",
       "url": "https://open.spotify.com/track/0wGVE3BxTW5KCjoLsNlVRB"
+    },
+    {
+      "album": {
+        "name": "Come Through",
+        "url": "https://open.spotify.com/album/6K02VInMDwstOicdHh2Glv"
+      },
+      "artists": [
+        {
+          "name": "Miyuze",
+          "url": "https://open.spotify.com/artist/1IS7bD5eZp5n0rfTWEg6gQ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135478,
+      "name": "Come Through",
+      "url": "https://open.spotify.com/track/4BSNIP9txYvoT9Qsz3pVgf"
     },
     {
       "album": {
@@ -13103,6 +13161,24 @@
     },
     {
       "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
+    },
+    {
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -14968,7 +15044,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 140606,
       "name": "FLORIDA BABY",
       "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
@@ -15398,6 +15474,24 @@
       "duration_ms": 231683,
       "name": "Free Game",
       "url": "https://open.spotify.com/track/2AhqNnmHOm3kwRXbmG4Buj"
+    },
+    {
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
     },
     {
       "album": {
@@ -16064,7 +16158,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 120792,
       "name": "Get In With Me",
       "url": "https://open.spotify.com/track/6bryx7HyB4lVDc0KQXuoJ0"
@@ -16086,6 +16180,24 @@
       "duration_ms": 151301,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
+    },
+    {
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "album": {
@@ -21804,7 +21916,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 160440,
       "name": "Intergalactic Janet",
       "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
@@ -22206,6 +22318,28 @@
       "duration_ms": 153000,
       "name": "It's Givin",
       "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "album": {
+        "name": "DO NOT DISTURB (DELUXE)",
+        "url": "https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "IT'S US (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/7LwCqIMsKebFSsGX1eIqoS"
     },
     {
       "album": {
@@ -22991,6 +23125,24 @@
     },
     {
       "album": {
+        "name": "KETAMINE",
+        "url": "https://open.spotify.com/album/0h1RYfr5begLpVzxa9sik4"
+      },
+      "artists": [
+        {
+          "name": "Runy",
+          "url": "https://open.spotify.com/artist/1sJQLi9xt4AKAekL91c3pN"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113755,
+      "name": "KETAMINE",
+      "url": "https://open.spotify.com/track/4dENKkJybdRo1lG74i3XFF"
+    },
+    {
+      "album": {
         "name": "KICK BACK",
         "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
       },
@@ -23242,6 +23394,24 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "album": {
+        "name": "Jodelzauber",
+        "url": "https://open.spotify.com/album/5W6SGx6TXHMHojSsvwI6rj"
+      },
+      "artists": [
+        {
+          "name": "Oesch's die Dritten",
+          "url": "https://open.spotify.com/artist/11ZDT1yZkvlXwv7RVqvUWe"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "Ku-Ku Jodel",
+      "url": "https://open.spotify.com/track/37Fepha6V96wzsNaSVjm7P"
     },
     {
       "album": {
@@ -23714,6 +23884,28 @@
       "duration_ms": 177212,
       "name": "lacy",
       "url": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
+    },
+    {
+      "album": {
+        "name": "Lady Killers II (Christoph Andersson Remix)",
+        "url": "https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297794,
+      "name": "Lady Killers II (Christoph Andersson Remix)",
+      "url": "https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq"
     },
     {
       "album": {
@@ -25112,7 +25304,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 227625,
       "name": "Little Bit Better",
       "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
@@ -32748,7 +32940,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -33954,7 +34146,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -35728,7 +35920,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
@@ -36828,7 +37020,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 95002,
       "name": "scars",
       "url": "https://open.spotify.com/track/0c683aCGn2mXMU1I9Js449"
@@ -37848,6 +38040,28 @@
     {
       "album": {
         "name": "She Know What She Wanted (Jersey Club Remix Slowed)",
+        "url": "https://open.spotify.com/album/5q3J1gqVyTvChtFf8EJKQk"
+      },
+      "artists": [
+        {
+          "name": "Godard",
+          "url": "https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133722,
+      "name": "She Know What She Wanted - Jersey Club Remix Slowed",
+      "url": "https://open.spotify.com/track/17j94KZ4XMNM599wComGDG"
+    },
+    {
+      "album": {
+        "name": "She Know What She Wanted (Jersey Club Remix Slowed)",
         "url": "https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb"
       },
       "artists": [
@@ -37862,7 +38076,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 133722,
       "name": "She Know What She Wanted - Jersey Club Remix Slowed",
       "url": "https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU"
@@ -38402,6 +38616,24 @@
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+    },
+    {
+      "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "album": {
@@ -38964,7 +39196,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 94794,
       "name": "Snitch",
       "url": "https://open.spotify.com/track/4qbQPkdHEdEz5cioqL7Not"
@@ -41750,6 +41982,24 @@
       "duration_ms": 232066,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/1NEBuFp0BJMikgXJI9VVab"
+    },
+    {
+      "album": {
+        "name": "Tears In The River",
+        "url": "https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB"
+      },
+      "artists": [
+        {
+          "name": "Maddox Batson",
+          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190619,
+      "name": "Tears In The River",
+      "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
     },
     {
       "album": {
@@ -46919,6 +47169,44 @@
     },
     {
       "album": {
+        "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
+        "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555071,
+      "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
+      "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
+    },
+    {
+      "album": {
         "name": "VVV",
         "url": "https://open.spotify.com/album/7LOf9ew6WqgdVcaeUoe5uS"
       },
@@ -48222,7 +48510,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
@@ -49752,7 +50040,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
@@ -50474,7 +50762,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 190850,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
       "url": "https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd"

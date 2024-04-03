@@ -1,7 +1,7 @@
 {
-  "2024-04-02": 82501,
+  "2024-04-03": 82752,
   "date_first_scraped": "2021-12-28",
-  "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
+  "description": "Trending songs from Tollywood! \nCover: Tillu Square",
   "name": "Trending Now Telugu",
   "tracks": [
     {
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 169716,
       "name": "Habibi Jilebi (From \"Bubblegum\")",
       "url": "https://open.spotify.com/track/5MpQGOpBnJYL8NwbsCgdAQ"
@@ -2815,6 +2815,28 @@
       "duration_ms": 210500,
       "name": "Raaye Raaye",
       "url": "https://open.spotify.com/track/29qBy0joKFCno07bsANgFx"
+    },
+    {
+      "album": {
+        "name": "Tillu Square",
+        "url": "https://open.spotify.com/album/7ujJhfGKy2qKe2OBQqw173"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188648,
+      "name": "Radhika",
+      "url": "https://open.spotify.com/track/0S9j9OAG3KjmBg4j9XzFcC"
     },
     {
       "album": {

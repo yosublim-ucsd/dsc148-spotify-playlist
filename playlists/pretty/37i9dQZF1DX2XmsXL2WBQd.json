@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 388776,
+  "num_followers": 388872,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTJkMDgzNDIwMDEzMmUzN2MyN2VkNTViYzE0ZmZkNDFjZDYyNTUy",
+  "snapshot_id": "MCxkOTUxNjAyZTJkNmQ4ZDQ4MGVhZDY1MjgyMTFlY2Y4ZTdlNjYwMGQ0",
   "tracks": [
     {
       "added_at": "2024-03-07 12:05:42",
@@ -1043,38 +1043,6 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 308373,
-      "name": "I'll Take Your Man",
-      "url": "https://open.spotify.com/track/1o19erG7MurnvFf76zsX41"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
-        "name": "Hip Hop Be Bop",
-        "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
-      },
-      "artists": [
-        {
-          "name": "Man Parrish",
-          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
-        }
-      ],
-      "duration_ms": 336173,
-      "name": "Hip Hop Be Bop (Original Version)",
-      "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
         "name": "Profilin': The Hits",
         "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
       },
@@ -1091,6 +1059,22 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 308373,
+      "name": "I'll Take Your Man",
+      "url": "https://open.spotify.com/track/1o19erG7MurnvFf76zsX41"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
         "name": "Godfather of Hip Hop",
         "url": "https://open.spotify.com/album/41kmQPw8502C7ZMbIbwWWB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 293733,
       "name": "The Godfather",
       "url": "https://open.spotify.com/track/5Y6IzsuFmYtju3LDWBRWI0"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
+        "name": "Hip Hop Be Bop",
+        "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
+      },
+      "artists": [
+        {
+          "name": "Man Parrish",
+          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
+        }
+      ],
+      "duration_ms": 336173,
+      "name": "Hip Hop Be Bop (Original Version)",
+      "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
     },
     {
       "added_at": "2024-03-07 12:05:42",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "Hip Hop Be Bop",
-        "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
+        "name": "Giant Single: Profile Records Rap Anthology",
+        "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
       },
       "artists": [
         {
-          "name": "Man Parrish",
-          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
+          "name": "Dr. Jeckyll & Mr. Hyde",
+          "url": "https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt"
         }
       ],
-      "duration_ms": 318680,
-      "name": "Boogie Down Bronx",
-      "url": "https://open.spotify.com/track/2CbgPrMwa0UWUdppsOIoTR"
+      "duration_ms": 280866,
+      "name": "Genius Rap - 7\" Single Version",
+      "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

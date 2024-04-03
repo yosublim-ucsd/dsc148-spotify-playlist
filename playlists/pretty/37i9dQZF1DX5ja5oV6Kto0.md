@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Tim Lyre & BOJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,166 likes - 85 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,216 likes - 85 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 29 | [If You Don’t Mind](https://open.spotify.com/track/45iYlfv7l1O3eMnmQpFnFY) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [If You Don’t Mind](https://open.spotify.com/album/69Jy0i1vAz4pBor0ESq9e4) | 2:43 |
 | 30 | [FLOSSIN'](https://open.spotify.com/track/5xFF8GIUzTtXWQF0CRRWbN) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [E.V.E](https://open.spotify.com/artist/3b861IDPVZ62XphaKiKlOc) | [Live More, Worry Less \(Ultra\)](https://open.spotify.com/album/2O0EpeT29gxalH7Ebp4Gqx) | 2:20 |
 | 31 | [It Was Real](https://open.spotify.com/track/6OGC3FiJ6pIALSVTYtYF6W) | [D G](https://open.spotify.com/artist/4kM3LGXvoA2XsvjxBmVyR2) | [It Was Real](https://open.spotify.com/album/22ld0gylyTBWlm1sqyUTid) | 2:01 |
-| 32 | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Psychoyp](https://open.spotify.com/artist/0zXL9AbkRZtWXFFufCX8X6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF) | 2:46 |
+| 32 | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF) | 2:46 |
 | 33 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 |
 | 34 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 | 35 | [Space Roof](https://open.spotify.com/track/4ngIqWBpc55oP0F0h0Im9X) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB) | [Space Roof](https://open.spotify.com/album/7oCvqhcoi5BuXuVZSukM9R) | 3:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 84 | [Not Safe in the West](https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [Not Safe in the West](https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic) | 2:58 |
 | 85 | [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 |
 
-Snapshot ID: `MCxiOGI0MDQ5OTc1ODkyNjIxYTRlYzBiOGNmNDMyMmI2ZDcyOWFhOTc2`
+Snapshot ID: `MCwyNmI4NzE0NDMyOTdlZjBiMzYwZmNhNmI2NGM2NjY2MDIyNWJiODBm`

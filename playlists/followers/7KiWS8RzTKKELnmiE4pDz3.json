@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 1,
+  "2024-04-03": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -7580,6 +7580,24 @@
     },
     {
       "album": {
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195096,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/37ehwQANnRHdqvWdPlkFWA"
+    },
+    {
+      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ"
       },
@@ -10816,6 +10834,24 @@
     },
     {
       "album": {
+        "name": "Larry Leaks",
+        "url": "https://open.spotify.com/album/6DXdOvjqHKwzF8nRUTbQvj"
+      },
+      "artists": [
+        {
+          "name": "Larry League",
+          "url": "https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161012,
+      "name": "Take It (Look Nice)",
+      "url": "https://open.spotify.com/track/4KCMYCy2e1rXqrtHT3xrSF"
+    },
+    {
+      "album": {
         "name": "Rr",
         "url": "https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH"
       },
@@ -11530,6 +11566,24 @@
     },
     {
       "album": {
+        "name": "Treacherous",
+        "url": "https://open.spotify.com/album/4oniEHUSpIyuFH7iIV0rV9"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115095,
+      "name": "Treacherous",
+      "url": "https://open.spotify.com/track/7zTuJaP8fvMWMy6DdkC9U5"
+    },
+    {
+      "album": {
         "name": "Milky Way",
         "url": "https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i"
       },
@@ -11839,6 +11893,24 @@
       "duration_ms": 158537,
       "name": "URUS FREESTYLE",
       "url": "https://open.spotify.com/track/4Osh1jJU2EhKoTgnEK3i8s"
+    },
+    {
+      "album": {
+        "name": "Larry Leaks",
+        "url": "https://open.spotify.com/album/6DXdOvjqHKwzF8nRUTbQvj"
+      },
+      "artists": [
+        {
+          "name": "Larry League",
+          "url": "https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210181,
+      "name": "Usain",
+      "url": "https://open.spotify.com/track/1eUqSndw8Wq35xKCIL0K7C"
     },
     {
       "album": {

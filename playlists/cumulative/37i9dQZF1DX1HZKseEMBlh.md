@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/michaelraineyjr/">Michael Rainey Jr.</a>.
 
-36 songs - 1 hr 43 min
+38 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,11 @@
 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 | 2023-07-14 |  |
 | [Law & Order pt\. 2](https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [50jittsteppa](https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf) | [Law & Order pt\. 2](https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM) | 3:59 | 2023-07-14 |  |
 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 | 2023-07-14 |  |
-| [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 | 2023-07-14 |  |
+| [Mode](https://open.spotify.com/track/3lCMqaFQ9q5gr63PVInLhM) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/7FYhyuedJWaLVslfsCstUm) | 1:47 | 2023-07-14 |  |
+| [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 | 2023-07-14 | 2024-04-03 |
 | [Motion \[feat\. Wizz Havinn & Loe Shimmy\] \- Remix](https://open.spotify.com/track/419P7pvcvRBkz94d2B0F0J) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Motion \[feat\. Wizz Havinn & Loe Shimmy\] \(Remix\)](https://open.spotify.com/album/65XJ1g5lSvHqQWisRVpRKh) | 3:08 | 2023-07-14 |  |
-| [Mr\. Too Sticky](https://open.spotify.com/track/2Yn1AYOzl5pK0CNxfuGRZU) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 2:25 | 2023-07-14 |  |
+| [Mr\. Too Sticky](https://open.spotify.com/track/2Yn1AYOzl5pK0CNxfuGRZU) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 2:25 | 2023-07-14 | 2024-04-03 |
+| [Mr\. Too Sticky](https://open.spotify.com/track/4oyydUmn3HBOEyz2H49NW5) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Mr\. Too Sticky](https://open.spotify.com/album/7FYhyuedJWaLVslfsCstUm) | 2:25 | 2023-07-14 |  |
 | [One in the Head](https://open.spotify.com/track/2mwcLMBHCVKijk3UND3mI9) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 2:31 | 2023-07-14 |  |
 | [Opp Playground](https://open.spotify.com/track/2Q7vZIHoyQnKsExDe88UR4) | [DJ Turnty](https://open.spotify.com/artist/3QRsvp5sklu5zE070xmozE) | [Turnt](https://open.spotify.com/album/1DNgLNuLTw5eVGWADUoPtI) | 1:57 | 2023-07-14 |  |
 | [Paperwork Party](https://open.spotify.com/track/6qqTJi869PVznfDEnsplMc) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [For You](https://open.spotify.com/album/5pMiGO7ETSDq0eiOLTKhRN) | 2:56 | 2023-07-14 |  |

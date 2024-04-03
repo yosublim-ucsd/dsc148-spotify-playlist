@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa SMURDHY & Pyrythekid.
 
-431 songs - 20 hr 38 min
+432 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Minimi \(feat\. Purplape\)](https://open.spotify.com/track/3YS6ps8C4Dh3DbizRvgpjc) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Minimi \(feat\. Purplape\)](https://open.spotify.com/album/65xRptwAW4alJtexDzKfci) | 2:59 | 2023-10-19 | 2023-12-01 |
 | [Minne vaan \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/53C8ccvgmlk76tAhwZGSq8) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Minne vaan \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/3UGtWi2JShk6vwPaGwAr1O) | 3:19 | 2024-03-21 |  |
 | [Minnie](https://open.spotify.com/track/1kBbHjc9OilPKwNHiBqmLK) | [2nen](https://open.spotify.com/artist/4Hp1gUsqUQI2G1tIxiIpFC) | [Minnie](https://open.spotify.com/album/6DcvwLeSRilPdx8D1K23Uo) | 2:40 | 2024-02-22 | 2024-03-08 |
+| [MISKEENS](https://open.spotify.com/track/1OaIvCZYLjdqqgTsku16pi) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [MISKEENS](https://open.spotify.com/album/52eSWZKegwRv4UdqxaqE8v) | 3:24 | 2024-04-02 |  |
 | [Miss U](https://open.spotify.com/track/60CG2YbR1nS02VFNSGCzLE) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Miss U](https://open.spotify.com/album/0JSHubJlf4wVRZovtdARRK) | 3:03 | 2024-03-28 |  |
 | [Missaat Mut](https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Missaat Mut](https://open.spotify.com/album/59uIb8lpgwKm9c9DJznS0y) | 1:54 | 2023-09-21 | 2023-11-24 |
 | [Missä vaan](https://open.spotify.com/track/1swQNrz5cMAVer9jAzbPFq) | [Andrei](https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR) | [Missä vaan](https://open.spotify.com/album/3TNq9O7e8slBIkCRhoAoXO) | 3:05 | 2023-12-14 | 2024-01-05 |

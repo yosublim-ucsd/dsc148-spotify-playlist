@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,327 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,507 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 99 | [I Saw U](https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [I Saw U](https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo) | 2:17 |
 | 100 | [toler](https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [toler](https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI) | 1:45 |
 
-Snapshot ID: `MCw1MmQ5MjgwM2I5N2QzMTUxNzlmNGE0ODIwZGMwNzkzYWE3ODkxZDcw`
+Snapshot ID: `MCxmMThlY2VkOTNjMGRjNGM4MzI3MTllYzRiY2I3OTA4ZWE1ZDA0ZmNk`

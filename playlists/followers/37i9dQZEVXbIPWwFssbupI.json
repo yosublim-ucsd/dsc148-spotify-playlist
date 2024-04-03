@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 844388,
+  "2024-04-03": 844425,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - France.",
   "name": "Top 50 - France",
@@ -3833,6 +3833,28 @@
       "duration_ms": 172920,
       "name": "BB",
       "url": "https://open.spotify.com/track/4pSjhyfU7fCb1FTgnlJcGZ"
+    },
+    {
+      "album": {
+        "name": "\u00c9t\u00e9 sans fin",
+        "url": "https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/5ZY8ovLhI7bLuddKmkq6cf"
     },
     {
       "album": {
@@ -34309,7 +34331,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"

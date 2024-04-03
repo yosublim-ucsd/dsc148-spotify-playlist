@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 43761,
+  "2024-04-03": 43781,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - South Africa.",
   "name": "Top 50 - South Africa",
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -11355,7 +11355,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 460800,
       "name": "Forgive Our Trespasses (feat. Demola, Ceeka RSA)",
       "url": "https://open.spotify.com/track/0OBkFew4sntJl9PaJp0TOA"
@@ -17803,7 +17803,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 347148,
       "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
       "url": "https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc"
@@ -19623,7 +19623,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
@@ -23907,7 +23907,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 372976,
       "name": "Ngilimele (feat. Deep Sen, KingTalkzin, Mthunzi)",
       "url": "https://open.spotify.com/track/6lrKA1DMAihPI490Oj0twC"
@@ -31151,7 +31151,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -38143,7 +38143,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"

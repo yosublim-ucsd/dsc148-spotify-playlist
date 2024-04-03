@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> A Spotify program to promote exciting artists! RADAR BNLX:  The Indien \(cover\), Roxy Dekker, Kids With Buns en Siggy & D1ns.
+> A Spotify program to promote exciting artists! RADAR BNLX: <a href="spotify:artist:1M6DAgCuvRE1Ct0Tsq74Lb">The Indien</a> \(cover\), Roxy Dekker, Kids With Buns en Siggy & D1ns.
 
-167 songs - 8 hr 49 min
+168 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Kleine Tornado](https://open.spotify.com/track/5rtx20BLAII8V5IxJILFOd) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [Kaat Thijs](https://open.spotify.com/artist/22SPS2g9kKMFBpzU4UnxLK) | [Kleine Tornado](https://open.spotify.com/album/5aoieYMrik5dAkFSh9WykV) | 3:22 | 2023-05-22 | 2024-01-19 |
 | [Klop Klop](https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:32 | 2022-10-17 |  |
 | [Laat Me FF](https://open.spotify.com/track/6ZaaJCNF37mYmkPFWeZ5F6) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e) | 2:38 | 2023-09-14 | 2023-10-06 |
+| [Laatste Trein](https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Laatste Trein](https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG) | 2:48 | 2024-04-02 |  |
 | [Last Dance](https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 4:03 | 2022-09-08 | 2023-04-07 |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-18 | 2023-05-18 |
 | [long for](https://open.spotify.com/track/1TxLvSFDtHljzooqeyFKdX) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [RETROSPECT](https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf) | 3:19 | 2021-12-10 | 2022-03-19 |

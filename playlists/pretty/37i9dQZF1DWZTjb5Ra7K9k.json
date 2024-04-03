@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 188044,
+  "num_followers": 188040,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGJlMGQyYmU2NDhmOWJmMzUwZmM4OGRhMzBiY2MyNDRmNjc5ZWZj",
+  "snapshot_id": "MCxiMjUyNDBkNWVkMDc1NjNlYjIxYmM1MThlNzUxZTlkOWY1YTJmZjgx",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Protect Your Own",
-        "url": "https://open.spotify.com/album/5go4cEu6ll2JbN7ANcJ1xd"
-      },
-      "artists": [
-        {
-          "name": "Current Swell",
-          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "Young and Able",
-      "url": "https://open.spotify.com/track/5zFsvJDJ48m45J82CipNpD"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Learn Yourself",
         "url": "https://open.spotify.com/album/1OuDc65IgZ0nKnNwPMaylr"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 237840,
       "name": "La Mar (The Ocean)",
       "url": "https://open.spotify.com/track/0WuWrW1N8ofJBjM5ZHkFjH"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Protect Your Own",
+        "url": "https://open.spotify.com/album/5go4cEu6ll2JbN7ANcJ1xd"
+      },
+      "artists": [
+        {
+          "name": "Current Swell",
+          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "Young and Able",
+      "url": "https://open.spotify.com/track/5zFsvJDJ48m45J82CipNpD"
     },
     {
       "added_at": "2023-07-28 03:01:00",

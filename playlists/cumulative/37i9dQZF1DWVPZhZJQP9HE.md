@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-513 songs - 1 day 6 hr 26 min
+514 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Yaadhum kanaa](https://open.spotify.com/track/4jtSol8vIhmCy5pynFQwMu) | [Balaji Gopinath](https://open.spotify.com/artist/250rmMtHHaMkHNFThTBMmd), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds) | [Yaadhum kanaa](https://open.spotify.com/album/5D4U758gf4NoiDYagfZ80Y) | 3:44 | 2023-04-10 |  |
 | [Yaar Aval](https://open.spotify.com/track/26nKSZ9JA35IvycEPU6yRg) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval \- Single](https://open.spotify.com/album/20jBpXqfoQpgpTM0rvSd4i) | 3:10 | 2022-06-09 | 2023-02-07 |
 | [Yaar Aval](https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval](https://open.spotify.com/album/2Qc4Cb9CZRPZVYqgaqsYn1) | 3:10 | 2022-06-09 | 2022-07-29 |
+| [Yaar Keatadhu Nenjamey](https://open.spotify.com/track/18o9NGHWZw5qMVGqzn5V4H) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [L J Vijay](https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5) | [Yaar Keatadhu Nenjamey](https://open.spotify.com/album/5EvUrRofcHZYATdJ35ZNay) | 2:23 | 2024-04-02 |  |
 | [Yaar Solvaaro](https://open.spotify.com/track/6DFAhCjI8WXgEzjdZLBfwv) | [C.B Karty](https://open.spotify.com/artist/0q8QdG0mSd53lLe86M72ix), [Santhosh Subramanian](https://open.spotify.com/artist/7d4tFjDmt8IhOMtudYjIuu) | [Yaar Solvaaro](https://open.spotify.com/album/0DGEWRA09FNgXO3WwrIYy7) | 4:26 | 2022-08-12 | 2022-11-22 |
 | [Yaaro \- From "Think Indie"](https://open.spotify.com/track/32JtlUwj5lO1tJCj6j5glU) | [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Yaaro \(From "Think Indie"\)](https://open.spotify.com/album/0ee5p75PuogR9kErRoKCsx) | 3:15 | 2024-03-23 |  |
 | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/track/14K8atqpMOPHkqwSVECjZJ) | [P.S\. Ashwin](https://open.spotify.com/artist/0QeMt74YcTUUxJebGV58Vv), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/album/4QF4CLBDzeconmu7xcwKTX) | 3:59 | 2022-04-04 | 2022-07-18 |

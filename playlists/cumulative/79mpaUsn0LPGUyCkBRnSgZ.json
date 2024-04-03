@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301440,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ"
+    },
+    {
+      "album": {
         "name": "Magic Oneohtrix Point Never",
         "url": "https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ"
       },
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 223466,
       "name": "Easier",
       "url": "https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz"
@@ -6284,6 +6302,24 @@
       "duration_ms": 79225,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/6jKKaXL2jUTMfIGfRMijO2"
+    },
+    {
+      "album": {
+        "name": "Ask Me Tomorrow",
+        "url": "https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy"
+      },
+      "artists": [
+        {
+          "name": "Mojave 3",
+          "url": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348400,
+      "name": "Love Songs on the Radio",
+      "url": "https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07"
     },
     {
       "album": {
@@ -11230,6 +11266,24 @@
       "duration_ms": 216178,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6"
+    },
+    {
+      "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "album": {

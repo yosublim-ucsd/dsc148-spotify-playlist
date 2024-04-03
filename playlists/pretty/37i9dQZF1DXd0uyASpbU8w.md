@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m?si=JvlkENTPTVWQtemui\_MtFw">Beyoncé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,720 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,765 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 34 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 |
 | 35 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
 | 36 | [Zig Zag](https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Zig Zag](https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z) | 4:14 |
-| 37 | [Living in a Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living in a Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
+| 37 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
 | 38 | [Boomslang](https://open.spotify.com/track/2gHaNxgv0GczgZ509a0Aut) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Boomslang](https://open.spotify.com/album/3r7y6eXD69On9To6IPAQWb) | 2:50 |
 | 39 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
 | 40 | [Ngeke](https://open.spotify.com/track/74tEosyCxNM64SenyBN06f) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg) | [Ngeke](https://open.spotify.com/album/3BMqo5cBcQ49eJh1b7zWoA) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [Malunde \(feat\. Thatohatsi & MDU a.k.a TRP\)](https://open.spotify.com/track/4v7VUHe9M7gErZEXY1JA18) | [Bongza](https://open.spotify.com/artist/1U0kluMlV9VEvmeRvjilSG), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [NONJABULO](https://open.spotify.com/album/1uuOsKkwF9LAuJPSfFxHIR) | 7:57 |
 | 50 | [OLD SCHOOL JAM](https://open.spotify.com/track/64uHnONrDLvHBGUmmDvcA6) | [Veenus](https://open.spotify.com/artist/1g0NILOzQIwGEdt6phsx9b) | [Boombap Chrysalis \(Part One\)](https://open.spotify.com/album/6UEfFyjTwXMcesI8zjw2M2) | 3:08 |
 
-Snapshot ID: `MCwxODFjMGQ0NmYyNjgxYTk3N2E0NTNlN2UxZDEwMTNiZjI0MzdiODky`
+Snapshot ID: `MCw4ZjYwYWM2MTQyNmJlMDVmZTY3MzkyMWRjYjZkZjUwNzE2MmU5NGI1`

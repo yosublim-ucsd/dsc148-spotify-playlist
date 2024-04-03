@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 13462,
+  "num_followers": 13472,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWEyOWY3OGUyMjRmNGQwMzlhOWMwYWVlMjBjZjNkYThhMjRhYjkz",
+  "snapshot_id": "MCxjMzRmZGJjNGZkNDJhYzkwM2JkYjU3NmRkNWIyMmQ2MTcxM2U2NWQw",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Heritage, Vol. 3",
+        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 154932,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Just Sing!",
         "url": "https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 457853,
       "name": "Ten Thousand Angels / He Looked Beyond My Fault And Saw My Need",
       "url": "https://open.spotify.com/track/3ZMacOVRytVPDW8PtXQv2x"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Heritage, Vol. 3",
-        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
-      },
-      "artists": [
-        {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "The Stories We Tell",
+        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Good in the Good Times",
+      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "He Touched Me",
         "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 276000,
       "name": "On Jordan's Stormy Banks",
       "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "The Stories We Tell",
-        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
-      },
-      "artists": [
-        {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Good in the Good Times",
-      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
-        "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
-      },
-      "artists": [
-        {
-          "name": "Crossroads Performance Tracks",
-          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
-      "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
       },
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
-      },
-      "artists": [
-        {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
-        }
-      ],
-      "duration_ms": 198099,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The Lighthouse (50 Year Celebration)",
         "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
       },
@@ -1131,6 +1099,38 @@
       "duration_ms": 262212,
       "name": "The Lighthouse - 50 Year Celebration",
       "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
+        "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
+      "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "duration_ms": 198099,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Lord's Prayer",
         "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 235328,
       "name": "Lord's Prayer",
       "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Every Story Whispers His Name",
-        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        },
-        {
-          "name": "Anthem Edition",
-          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Every Story Whispers His Name",
-      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
+      "duration_ms": 191056,
+      "name": "The World Needs a Song",
+      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     }
   ],
   "unique_name": "Streets Of Gold",

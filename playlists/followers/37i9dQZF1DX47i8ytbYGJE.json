@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 114491,
+  "2024-04-03": 114518,
   "date_first_scraped": "2022-07-08",
   "description": "Rockabilly pioneers and revivalists. Cover: Stray Cats",
   "name": "Rockabilly",
@@ -1815,10 +1815,32 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 133120,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
+    },
+    {
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2020-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132970,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
     },
     {
       "album": {

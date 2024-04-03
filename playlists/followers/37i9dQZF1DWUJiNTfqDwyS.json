@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 367204,
+  "2024-04-03": 367290,
   "date_first_scraped": "2022-05-31",
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
   "name": "Metal Covers",
@@ -1046,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Shout At The Devil",
+        "url": "https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Helter Skelter",
+      "url": "https://open.spotify.com/track/5klq1o93WBQA3q1HotQS78"
+    },
+    {
+      "album": {
         "name": "Helter Skelter",
         "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 211973,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,823,761 likes - 100 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,829,102 likes - 100 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DEMONÍACO MANO](https://open.spotify.com/track/1Ucdq5ig5JvlNis649Q7GY) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [ENZYYYPHONK](https://open.spotify.com/artist/2Ku04T3w1OrFWsJ3ahbZNF) | [DEMONÍACO MANO](https://open.spotify.com/album/3dAc7764DFSY7BanqbUVOU) | 1:24 |
 | 100 | [DEUS DA GUERRA](https://open.spotify.com/track/7E7YqRQZiASXIENrGYlpSU) | [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO), [LEGIXN](https://open.spotify.com/artist/0Z7blIFif9IINMXYS3dTlG), [FXRCE](https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA) | [DEUS DA GUERRA](https://open.spotify.com/album/45BGPCwmSWv26dE1uvDB4s) | 1:46 |
 
-Snapshot ID: `MCw3ZDIyNTZkZjRmZGRkNTJjZDQ2NWVlMTEwNDczODQzYTdlODM4YTEy`
+Snapshot ID: `MCxhMzE5MWY5MDdjMGM4OGJhNTRkMjJiMDFjYTZhY2E3M2JjMjZiMjI0`

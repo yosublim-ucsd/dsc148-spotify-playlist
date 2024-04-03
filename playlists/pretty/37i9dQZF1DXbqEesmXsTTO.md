@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 김주리\(juri kim\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,276 likes - 64 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,281 likes - 64 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 | 59 | [KWAEJINA \(feat\. Park Su Young\)](https://open.spotify.com/track/2Y0iWZghKpUMRZvoPLKNiQ) | [SHIN JU YEON](https://open.spotify.com/artist/6ETGNJhgFE1bmarxwErPJ8), [Park Su Young](https://open.spotify.com/artist/5tC81v1ZybjEE47DdqrhC4) | [KWAEJINA](https://open.spotify.com/album/5CN6JcoCHimMMWVtksliWu) | 3:17 |
 | 60 | [Minyo Medley](https://open.spotify.com/track/2N97Ap8MsOV8Dv8Wtq9aYR) | [Michael Choi](https://open.spotify.com/artist/3ONq8GCZXvjufYMoNVjYvE) | [Minyo Medley](https://open.spotify.com/album/33aMCJlaFBr9Rcc7voJfzi) | 2:13 |
 | 61 | [The Hill of Wind](https://open.spotify.com/track/6mGokSMBOqI9j2GUIt1mc2) | [ZanHyang](https://open.spotify.com/artist/6IDwXMIAeJtzVwmoncNLOM) | [The Hill of Wind](https://open.spotify.com/album/0NwYKvq8effYLOfOYdXHFG) | 4:39 |
-| 62 | [Darkness](https://open.spotify.com/track/28yPbjZcDrmiO2yir4HkIC) | [50mang](https://open.spotify.com/artist/1vV7xlmiyiLLKxpQljKwSx), [시유](https://open.spotify.com/artist/50Unye9SH5F7kLJH7fmEyE), [Uni](https://open.spotify.com/artist/5mPXJAuH31NiMPJvqTeSv4) | [MAHI \(The Odds' Mischief\)](https://open.spotify.com/album/7h7MdtB0EEpjGGPh28BJW6) | 4:24 |
+| 62 | [Darkness \(feat\. 시유 & Uni\)](https://open.spotify.com/track/28yPbjZcDrmiO2yir4HkIC) | [50mang](https://open.spotify.com/artist/1vV7xlmiyiLLKxpQljKwSx), [시유](https://open.spotify.com/artist/50Unye9SH5F7kLJH7fmEyE), [Uni](https://open.spotify.com/artist/5mPXJAuH31NiMPJvqTeSv4) | [MAHI \(The Odds' Mischief\)](https://open.spotify.com/album/7h7MdtB0EEpjGGPh28BJW6) | 4:24 |
 | 63 | [Feminication](https://open.spotify.com/track/204RjWbsftUZGoZ0Igl0kK) | [Soohyun Moon](https://open.spotify.com/artist/0Ds31z3SLBmoYAh6xE9NVA) | [Feminication](https://open.spotify.com/album/42zRChEq7NwqjDoF21p4FT) | 8:29 |
 | 64 | [Wal Wal](https://open.spotify.com/track/2HB0ITiQEhBlxFBHURNzER) | [dunggi doobop project](https://open.spotify.com/artist/7ePNAdFlZK4TwRZhRfDVOh) | [dunggi doobop project](https://open.spotify.com/album/5ZanfdcvUYTrOFYZS5fpYl) | 3:17 |
 
-Snapshot ID: `MCxiZDMwZThhMGI5ZGY4NTE2Y2ZhNWEyNGU2NjFlOWE4ZWZkNTUxMGJj`
+Snapshot ID: `MCxkYjQ2MDc5ZjRlYjhiYzg0MzkwMzIyNzk1NGIxMTZkOTFjMDI3YTIy`

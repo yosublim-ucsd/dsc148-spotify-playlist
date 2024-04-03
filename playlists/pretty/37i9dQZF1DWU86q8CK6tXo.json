@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Maren Morris",
-  "num_followers": 52461,
+  "num_followers": 52502,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDdjZmI1MzdkODJiZmQ5ODM4MmQ2MTRhYmMxY2E0MjRjZGI3NTgz",
+  "snapshot_id": "MCw1NWRjZTEzZGVmYTE4MDRlNTdiZmYyYTZmZGE4Mzg2YmNlNzU3MGYy",
   "tracks": [
     {
       "added_at": "2024-04-01 04:00:00",
@@ -151,18 +151,18 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -183,18 +183,18 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "Tell Ur Girlfriend",
-        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
       },
       "artists": [
         {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 124444,
-      "name": "Tell Ur Girlfriend",
-      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "hummingbird",
-        "url": "https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 267149,
-      "name": "hummingbird",
-      "url": "https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
         "name": "nicotine",
         "url": "https://open.spotify.com/album/2v0JLejYwSc81UPDU1cI4v"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 216440,
       "name": "nicotine",
       "url": "https://open.spotify.com/track/0fKAYdwDXbyhHnveCLxHxR"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 267149,
+      "name": "hummingbird",
+      "url": "https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "escapar de m\u00ed",
-        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "escapar de m\u00ed",
-      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
         "name": "Me Lo Merezco",
         "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "DIRT",
-        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "DIRT",
-      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
       },
@@ -499,34 +483,18 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "Hood Mona Lisa",
-        "url": "https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar"
+        "name": "DIRT",
+        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
       },
       "artists": [
         {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
         }
       ],
-      "duration_ms": 108530,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
-        "name": "True North / Parking Lot",
-        "url": "https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV"
-      },
-      "artists": [
-        {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx"
+      "duration_ms": 135000,
+      "name": "DIRT",
+      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -551,6 +519,38 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
+        "name": "True North / Parking Lot",
+        "url": "https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
+        "name": "Hood Mona Lisa",
+        "url": "https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        }
+      ],
+      "duration_ms": 108530,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
         "name": "LVL5 P2",
         "url": "https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 133125,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/3zyPKGiLhdw9SpBTCuffNW"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
+        "name": "Mind, Man, Medicine",
+        "url": "https://open.spotify.com/album/7u6SrRvhJLkIc3TIhjgHRy"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 266528,
+      "name": "If the World Was a House",
+      "url": "https://open.spotify.com/track/3bF8MgnGuQoDPwPUE8Hmk7"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -615,22 +631,6 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "Mind, Man, Medicine",
-        "url": "https://open.spotify.com/album/7u6SrRvhJLkIc3TIhjgHRy"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 266528,
-      "name": "If the World Was a House",
-      "url": "https://open.spotify.com/track/3bF8MgnGuQoDPwPUE8Hmk7"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
         "name": "Right Spot",
         "url": "https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 170629,
       "name": "Right Spot",
       "url": "https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
-        "name": "Jezebel",
-        "url": "https://open.spotify.com/album/3whXNmd35dNWxBYY0DnLpl"
-      },
-      "artists": [
-        {
-          "name": "Transviolet",
-          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
-        }
-      ],
-      "duration_ms": 196959,
-      "name": "Jezebel",
-      "url": "https://open.spotify.com/track/7IaLsraisLGTQOze4Ydjpw"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -679,18 +663,18 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "World's Hardest Game",
-        "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
+        "name": "Jezebel",
+        "url": "https://open.spotify.com/album/3whXNmd35dNWxBYY0DnLpl"
       },
       "artists": [
         {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
         }
       ],
-      "duration_ms": 208967,
-      "name": "World's Hardest Game",
-      "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
+      "duration_ms": 196959,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/7IaLsraisLGTQOze4Ydjpw"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -707,6 +691,22 @@
       "duration_ms": 205714,
       "name": "Champagne & Sushi",
       "url": "https://open.spotify.com/track/6l3JgDi2o2FGI9lOkULJFB"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
+        "name": "World's Hardest Game",
+        "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 208967,
+      "name": "World's Hardest Game",
+      "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
     }
   ],
   "unique_name": "EQUAL US",

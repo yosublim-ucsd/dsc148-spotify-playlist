@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 34513,
+  "num_followers": 34555,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDAzZTNmMDZlZGQyMWNjMDdkYzI1NTQ4M2MzYjNmNjhjNzgxNWNj",
+  "snapshot_id": "MCwyYWJhOWY1MjI1NTJlYmM1MTE4OGYyNWE5ZWUyYzRlZjlhMWE3Njdl",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "I Am Somebody",
+        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
+      },
+      "artists": [
+        {
+          "name": "Technasia",
+          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
+        }
+      ],
+      "duration_ms": 417145,
+      "name": "I Am Somebody",
+      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Vamo",
         "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 216000,
       "name": "Vamo",
       "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "I Am Somebody",
-        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
-      },
-      "artists": [
-        {
-          "name": "Technasia",
-          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
-        }
-      ],
-      "duration_ms": 417145,
-      "name": "I Am Somebody",
-      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Club Vibes Part 01",
+        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 518400,
+      "name": "Geh\u00f6rschadengenerator",
+      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Club Vibes Part 01",
-        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 518400,
-      "name": "Geh\u00f6rschadengenerator",
-      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "World Is Empty",
+        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 196030,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
@@ -1679,26 +1699,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "World Is Empty",
-        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
-      },
-      "artists": [
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 196030,
-      "name": "World Is Empty",
-      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Picante EP",
+        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
+      },
+      "artists": [
+        {
+          "name": "Manda Moor",
+          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Targa (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Picante EP",
-        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
-      },
-      "artists": [
-        {
-          "name": "Manda Moor",
-          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
     },
     {
       "added_at": "2024-03-29 04:01:00",

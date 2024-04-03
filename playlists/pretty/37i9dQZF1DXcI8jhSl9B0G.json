@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75382,
+  "num_followers": 75386,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmQzNTIwNzNlODExMzBjZTc2NjhlNmM0NDg3YTgwNjhmNDNlOGNk",
+  "snapshot_id": "MCxjNWVjOGJkZTgwYTlkNjQzOGZhNzdjMjBiMzQwOTQ1YmQzYzA1NzQ1",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
         }
       ],
-      "duration_ms": 257160,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
+      "duration_ms": 223712,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "A Song To Be Named",
         "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 249999,
       "name": "A Song To Be Named",
       "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-11-30 13:00:00",

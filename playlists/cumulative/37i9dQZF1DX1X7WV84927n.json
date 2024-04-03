@@ -4213,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/0ef4O5dEVqdhZ2q4nHMnnp"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216849,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl"
+    },
+    {
+      "album": {
         "name": "High on Me",
         "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
       },
@@ -11520,7 +11538,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 204338,
       "name": "When The Pain Comes",
       "url": "https://open.spotify.com/track/2SS8uiav9RDrBhGqTpRvVY"

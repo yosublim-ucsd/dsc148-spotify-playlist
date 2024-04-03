@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Beyoncé, Josh Ross, Sum41, Nelly Furtado and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,758 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,790 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Out of the Game](https://open.spotify.com/track/1YEl1kvT23FJYxYvila7Nu) | [Arianna Reid](https://open.spotify.com/artist/2oDxeS4v0TZosWxD6zcihc) | [Out of the Game](https://open.spotify.com/album/5G8UBIwCDTmbCoZOwThB8h) | 2:57 |
 | 100 | [Just Like](https://open.spotify.com/track/1deniAR9BR8JhNG1679O63) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Just Like](https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z) | 2:52 |
 
-Snapshot ID: `MCw3NTlmNjJiZWNjNWZkMzkwMWI1MjRmMDQ0ZTQwNzRjZGE0NzRiODgw`
+Snapshot ID: `MCw1M2FmZjY1YmUzMWFiZGYxZWZmNTY3NmM3OGViYzRhYjg2YWNjNGU0`

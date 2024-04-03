@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67396,
+  "num_followers": 67405,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDA3MzFjOTVjYjFhNzMxYzI1ZmQzNzc3ZDI4ZTdiMWEzMjEzOTIx",
+  "snapshot_id": "MCxlYzhjYTNlYWNjMDRiOTQ0YWZhODQ2YzBhNjAzNzExM2MwYzk1MzU1",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Zetex",
+        "url": "https://open.spotify.com/album/2IRIOFPm3XmATAoB9LomVY"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 156141,
+      "name": "K-Cloche",
+      "url": "https://open.spotify.com/track/5X6ng9tpM3U2VWccbdZWld"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 303734,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Zetex",
-        "url": "https://open.spotify.com/album/2IRIOFPm3XmATAoB9LomVY"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 156141,
-      "name": "K-Cloche",
-      "url": "https://open.spotify.com/track/5X6ng9tpM3U2VWccbdZWld"
     },
     {
       "added_at": "2023-06-09 18:05:35",

@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 4886,
+  "2024-04-03": 4896,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most played tracks right now - Belarus.",
   "name": "Top 50 - Belarus",
@@ -261,7 +261,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 103311,
       "name": "F*CK OFF",
       "url": "https://open.spotify.com/track/0w9ZBj1sdjzemjX2E8WONY"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 207321,
       "name": "\u041e\u0442\u043f\u0443\u0441\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/1yrQI5Ycgi7xU9P4i98NXL"
@@ -1935,7 +1935,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 132649,
       "name": "\u0422\u0435\u0441\u043d\u043e",
       "url": "https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw"

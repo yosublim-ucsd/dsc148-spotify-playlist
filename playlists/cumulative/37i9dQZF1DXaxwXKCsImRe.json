@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A Spotify program to promote exciting artists! RADAR BNLX:  The Indien (cover), Roxy Dekker, Kids With Buns en Siggy & D1ns.",
+  "description": "A Spotify program to promote exciting artists! RADAR BNLX: <a href=\"spotify:artist:1M6DAgCuvRE1Ct0Tsq74Lb\">The Indien</a> (cover), Roxy Dekker, Kids With Buns en Siggy & D1ns.",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -1466,6 +1466,28 @@
       "duration_ms": 158206,
       "name": "Laat Me FF",
       "url": "https://open.spotify.com/track/6ZaaJCNF37mYmkPFWeZ5F6"
+    },
+    {
+      "album": {
+        "name": "Laatste Trein",
+        "url": "https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Laatste Trein",
+      "url": "https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc"
     },
     {
       "album": {

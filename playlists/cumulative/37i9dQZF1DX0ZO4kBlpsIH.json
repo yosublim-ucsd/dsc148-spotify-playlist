@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Avenue du ch\u00eane",
+        "url": "https://open.spotify.com/album/4aU8jI69t9fmIz5w1fKAT7"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152124,
+      "name": "Avenue du ch\u00eane",
+      "url": "https://open.spotify.com/track/3phcmP1I7wiwPrKXHG6QyV"
+    },
+    {
+      "album": {
         "name": "Midnight in Paris (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 174210,
       "name": "bol et rot",
       "url": "https://open.spotify.com/track/0o41kkPhY0if5o8mdXUgKl"
@@ -563,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Chaud Devant",
+        "url": "https://open.spotify.com/album/12MD5avti5aJdvOxAbQymE"
+      },
+      "artists": [
+        {
+          "name": "Menilmuche",
+          "url": "https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176259,
+      "name": "Chaud Devant",
+      "url": "https://open.spotify.com/track/4mz3enK2BfjjMNAdhWrOMX"
+    },
+    {
+      "album": {
         "name": "Accordion World",
         "url": "https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG"
       },
@@ -592,7 +628,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 133173,
       "name": "Comme je te disais",
       "url": "https://open.spotify.com/track/2RciaGAEtLJk8u4LoCt9Zg"
@@ -1419,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "j\u2019attendrai pas",
+        "url": "https://open.spotify.com/album/2Vc09twdUA8Ub9lLGXASt3"
+      },
+      "artists": [
+        {
+          "name": "Cordeone",
+          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208067,
+      "name": "j\u2019attendrai pas",
+      "url": "https://open.spotify.com/track/7ARfxrRqBqi7bXRQxudIeM"
+    },
+    {
+      "album": {
         "name": "Love Routes (Romantic Accordion Ballads in Rome)",
         "url": "https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB"
       },
@@ -1640,6 +1694,24 @@
       "duration_ms": 120523,
       "name": "La Mer",
       "url": "https://open.spotify.com/track/1oUv4nTiR8Fq0eS4KiAIyE"
+    },
+    {
+      "album": {
+        "name": "la paix dans le monde, tout \u00e7a\u2026",
+        "url": "https://open.spotify.com/album/76XHtfQWfgiAim3BSlhFGp"
+      },
+      "artists": [
+        {
+          "name": "Cordeone",
+          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205043,
+      "name": "la paix dans le monde, tout \u00e7a\u2026",
+      "url": "https://open.spotify.com/track/4nMZlRtZyhoLyrSJrw5J5Y"
     },
     {
       "album": {

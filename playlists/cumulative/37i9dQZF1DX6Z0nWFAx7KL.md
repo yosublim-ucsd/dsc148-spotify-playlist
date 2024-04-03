@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-202 songs - 10 hr 9 min
+203 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [I'll Be Here](https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Endless, Dawn](https://open.spotify.com/album/6MKZdIsK146WQexodIPOvs) | 4:52 | 2024-03-20 |  |
 | [ilomilo](https://open.spotify.com/track/5zZaxeRo4e09KUJ5sbEC7Q) | [MBNN](https://open.spotify.com/artist/0ZXntjSej6WUvpEMkRgwKJ), [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [ilomilo](https://open.spotify.com/album/2OcIdyZT6qespG0S1MuxYY) | 3:01 | 2022-09-15 | 2022-11-17 |
 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 | 2022-09-15 | 2024-03-21 |
-| [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-10-21 |  |
+| [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-10-21 | 2024-04-03 |
 | [Inside My Love](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Inside My Love](https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ) | 2:28 | 2024-03-21 |  |
 | [Is It All](https://open.spotify.com/track/010l3mhzEoYzVy1XuOJSPK) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Is It All](https://open.spotify.com/album/3mS24Mj9B2t4VekyKjko2c) | 2:55 | 2023-05-18 | 2023-06-28 |
 | [Is It All](https://open.spotify.com/track/1x1x0iaQx8peMU7wYVxfXH) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Is It All](https://open.spotify.com/album/4fc5iBGvs6R2JP7JHZddS5) | 2:55 | 2023-05-18 | 2023-05-20 |
@@ -201,6 +201,7 @@
 | [Valente](https://open.spotify.com/track/6aYjAIKYxP86Jd7OxjlM9t) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Kick Up The Dust EP](https://open.spotify.com/album/41Vibdx0FTBi12fK4nMsFl) | 5:19 | 2023-11-30 | 2024-01-04 |
 | [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 | 2023-05-11 |  |
 | [Waiting in The Dark](https://open.spotify.com/track/2XAJIpL4Mw4gXEPEjd0eDx) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [BANDANA](https://open.spotify.com/artist/1hoN1yLmFgWqQNPdGitU2m), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN) | [Waiting in The Dark](https://open.spotify.com/album/7q4bmI0F7WYKWmmPYZ8bhJ) | 1:59 | 2023-11-30 |  |
+| [Wake Me Up](https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Wake Me Up](https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz) | 2:45 | 2024-03-28 |  |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2022-09-15 | 2023-11-04 |
 | [What You Do to Me](https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [What You Do to Me](https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1) | 2:44 | 2022-12-21 | 2023-06-14 |
 | [What You Do to Me](https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [What You Do to Me](https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO) | 2:44 | 2023-10-02 |  |

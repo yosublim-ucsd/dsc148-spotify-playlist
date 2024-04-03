@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 397067,
+  "num_followers": 397389,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTA4ZjIxM2M0NDE1ZmI4YzVhYTY0NTQ3MTBmMWQ5MmMxZTU4MDM2",
+  "snapshot_id": "MCxiNzA1MTFiYWZjZGY4NDY3MjI5OTBlZTIzZjdlZjAzZjZhMWU2ZTJm",
   "tracks": [
     {
       "added_at": "2024-03-20 07:39:51",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Attraction",
-        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Lettre A P",
-      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "La fauve",
         "url": "https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 227426,
       "name": "O\u00f9 est la fantaisie ?",
       "url": "https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Attraction",
+        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Lettre A P",
+      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -711,6 +711,30 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
+        "name": "Song, Song, Song",
+        "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Miossec",
+          "url": "https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "Mon fant\u00f4me",
+      "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
         "name": "Merle Noir",
         "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 201013,
       "name": "De Temps en Temps",
       "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
-        "name": "Song, Song, Song",
-        "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
-      },
-      "artists": [
-        {
-          "name": "Baptiste Trotignon",
-          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
-        },
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Miossec",
-          "url": "https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "Mon fant\u00f4me",
-      "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
-        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
-      },
-      "artists": [
-        {
-          "name": "Marie Lafor\u00eat",
-          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
-        }
-      ],
-      "duration_ms": 139548,
-      "name": "Saint-tropez blues",
-      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "La disparition",
         "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 257240,
       "name": "Mes pas dans la neige - Spanish Song Bird",
       "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
+        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "duration_ms": 139548,
+      "name": "Saint-tropez blues",
+      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
     },
     {
       "added_at": "2024-03-20 07:39:51",

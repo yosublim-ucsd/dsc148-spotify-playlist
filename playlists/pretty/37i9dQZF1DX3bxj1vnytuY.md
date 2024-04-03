@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,142 likes - 100 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,209 likes - 100 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 2 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [tariq hmitti](https://open.spotify.com/artist/24TJV7vvRfbJhCeuDFTSEj) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
-| 3 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 |
+| 3 | [Amathole](https://open.spotify.com/track/6p3YWWfPWB9LlB9zLNHNh2) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp) | 8:07 |
 | 4 | [Legion](https://open.spotify.com/track/3zWiwM4jf8Mqzv6a5TklJ7) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Legion](https://open.spotify.com/album/4OHhb3FA3DX5LNe3hbCVZu) | 3:40 |
 | 5 | [Afeto \- Ankhoï Remix](https://open.spotify.com/track/3ZhJiN9awjN3RVjCl2wzl3) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Afeto \(Ankhoï Remix\)](https://open.spotify.com/album/3zzZpOhsz7Esr1d71oEqld) | 6:42 |
 | 6 | [Mogo](https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mogo](https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e) | 5:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC), [Snow Owl](https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 |
 | 100 | [Sunsets in Marrakech](https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk) | 6:18 |
 
-Snapshot ID: `MCxmNjBlZDhhZWMxZTNhNWZhNGIwNzVmN2Y5Y2JjNzBiNWQ5OWQ3OTM2`
+Snapshot ID: `MCxkYjJkOTYyMmFiYjhhOWUzZDJiYjE5MjJiNzkxNTJkYjcwMDczNmI1`

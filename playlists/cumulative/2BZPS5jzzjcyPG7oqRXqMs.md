@@ -2,7 +2,7 @@
 
 ### [Christian Soundtracks \(Movie + TV\) 2024](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
 
-> 2024 Christian Soundtracks \| Musicals Mix \| Musical Soundtracks \| Musical Bops \| Christian TV Bops \| Journey to Bethlehem \| Musical Theatre Mix \| Christian Music 2024 \| The Chosen \| Movie Musicals Mix \| Musical Theatre Musicals Mix \| Theatre Bops 2024 \| Christian Movies
+> Christian Soundtracks \(Movie + TV\) 2024 \| Music from Christian Movies and TV that we all know and love made by <a href="spotify:user:sozoofficial">SOZO Playlists</a> ! Cover: <a href="https://open.spotify.com/playlist/48sh4izdZC5kNNcec80Gec?si=93f6dc9e903b4854">Cast of Journey To Bethlehem</a>
 
 323 songs - 20 hr 45 min
 

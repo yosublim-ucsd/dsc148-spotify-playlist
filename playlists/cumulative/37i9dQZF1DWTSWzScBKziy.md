@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-216 songs - 14 hr 10 min
+217 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [everything and more](https://open.spotify.com/track/12JPE50t031pH3Dy5mcAzR) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [everything and more](https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8) | 3:52 | 2022-05-27 | 2023-04-09 |
 | [Eye to Eye](https://open.spotify.com/track/4reyRIw1xIeMAa5lylm6ow) | [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [Still](https://open.spotify.com/album/5dRUYUFyuup2nG0cbzzmaf) | 4:41 | 2022-10-29 |  |
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2022-05-27 |  |
+| [Father](https://open.spotify.com/track/1Ki7klS2wNztzKCoXU3MJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Life is Hard\. God is Good.](https://open.spotify.com/album/0dIAW7Y1RNPAZz4Ndk6edp) | 3:33 | 2022-10-29 |  |
 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 | 2022-10-29 | 2024-03-10 |
 | [Fear is Not My Future \(feat\. Brandon Lake & Chandler Moore\)](https://open.spotify.com/track/4t9q80lwmctzfRsJDLQAHg) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f) | 10:25 | 2022-10-29 | 2023-07-27 |
 | [Fear Is Not My Future \(feat\. Brandon Lake\)](https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 10:25 | 2022-10-29 |  |
@@ -164,7 +165,7 @@
 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 | 2022-05-27 | 2023-11-07 |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2022-05-27 |  |
 | [Places \(Des Endroits\)](https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Mbushka](https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya) | [Places \(Des Endroits\)](https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2) | 3:32 | 2022-05-27 | 2022-10-30 |
-| [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-27 |  |
+| [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-27 | 2024-04-03 |
 | [Prepare The Way](https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Prepare The Way](https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ) | 4:15 | 2022-05-27 | 2022-10-30 |
 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 | 2022-10-29 |  |
 | [Rest In You](https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Beautiful Name](https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI) | 3:48 | 2022-05-27 | 2022-10-30 |

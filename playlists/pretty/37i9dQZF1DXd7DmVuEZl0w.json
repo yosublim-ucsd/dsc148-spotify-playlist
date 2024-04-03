@@ -1,12 +1,12 @@
 {
   "description": "Feel the spirit of Ramadan with Amdah and Anashid songs.",
-  "num_followers": 70556,
+  "num_followers": 70841,
   "original_name": "Ramadaniyat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGZlNGRmMTBlNjk5Njc1MGZiM2E1Njg3NzAxYjAwZjM3NDc5NDhl",
+  "snapshot_id": "MCxmMGE4OTQ1Yzk0NmRjYjk4YWNiM2EyZTExOWEyNjg4ZTA5ODFhZGVh",
   "tracks": [
     {
       "added_at": "2024-03-25 12:14:49",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
+        "name": "Fi Hadret Al Mahboob",
+        "url": "https://open.spotify.com/album/5fsIdlEAh41isQn4vq7XIf"
+      },
+      "artists": [
+        {
+          "name": "Wael Jassar",
+          "url": "https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof"
+        }
+      ],
+      "duration_ms": 177107,
+      "name": "Fi Hadret El Naby",
+      "url": "https://open.spotify.com/track/3xbAmCdLUQcvaaYVXRtPae"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
         "name": "B\u00fcy\u00fck Itr\u00ee (Vef\u00e2t\u0131n\u0131n 300. Y\u0131l\u0131nda Besteleriyle)",
         "url": "https://open.spotify.com/album/2pLNR6dIM5eUOFmaKt33KZ"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 82506,
       "name": "Allahumme Salli Al\u00e2 Seyyidin\u00e2 - Seg\u00e2h Sal\u00e2t",
       "url": "https://open.spotify.com/track/4RHaSbOTsAve8SIikhVVF8"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
-        "name": "Fi Hadret Al Mahboob",
-        "url": "https://open.spotify.com/album/5fsIdlEAh41isQn4vq7XIf"
-      },
-      "artists": [
-        {
-          "name": "Wael Jassar",
-          "url": "https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof"
-        }
-      ],
-      "duration_ms": 177107,
-      "name": "Fi Hadret El Naby",
-      "url": "https://open.spotify.com/track/3xbAmCdLUQcvaaYVXRtPae"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "Meshwar Aldonia",
-        "url": "https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu"
-      },
-      "artists": [
-        {
-          "name": "Mustafa Al Rabeii",
-          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
-        }
-      ],
-      "duration_ms": 200487,
-      "name": "Meshwar Aldonia",
-      "url": "https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
         "name": "El Ganna Fi Beyoutna",
         "url": "https://open.spotify.com/album/0wOv5sjQ2MM0rkgpX4qKFx"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 107232,
       "name": "Shahr Ramadan",
       "url": "https://open.spotify.com/track/1eKfU40hKG21tJz0J8VgMW"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
+        "name": "Meshwar Aldonia",
+        "url": "https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "duration_ms": 200487,
+      "name": "Meshwar Aldonia",
+      "url": "https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "Mohamed",
-        "url": "https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB"
-      },
-      "artists": [
-        {
-          "name": "Lotfi Bouchnak",
-          "url": "https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z"
-        }
-      ],
-      "duration_ms": 418691,
-      "name": "Mohamed",
-      "url": "https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
         "name": "Al Hekayah Mohammadeyah",
         "url": "https://open.spotify.com/album/4dKqpCMQN27CbAXeP2uTV7"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
+        "name": "Mohamed",
+        "url": "https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB"
+      },
+      "artists": [
+        {
+          "name": "Lotfi Bouchnak",
+          "url": "https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z"
+        }
+      ],
+      "duration_ms": 418691,
+      "name": "Mohamed",
+      "url": "https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
         "name": "Anechid Al Rouh",
         "url": "https://open.spotify.com/album/2DTE74pjdIZvohdS72yRUA"
       },
@@ -1235,6 +1235,26 @@
       "duration_ms": 134238,
       "name": "Laylatou El Kadr",
       "url": "https://open.spotify.com/track/2pPu0dRgdUR3t8WvtAUXEc"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
+        "name": "Siraj Al-Medina",
+        "url": "https://open.spotify.com/album/44eX3kbYvSqLsGjkDjRrMw"
+      },
+      "artists": [
+        {
+          "name": "Murat Belet",
+          "url": "https://open.spotify.com/artist/1aGDQkLy73SE8pPwdkZAxn"
+        },
+        {
+          "name": "Ali Magrebi",
+          "url": "https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN"
+        }
+      ],
+      "duration_ms": 173457,
+      "name": "Siraj Al-Medina - Arabic & Turkish",
+      "url": "https://open.spotify.com/track/5UBv9IyyeXWeuBzGQcmxXp"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1263,22 +1283,18 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "Siraj Al-Medina",
-        "url": "https://open.spotify.com/album/44eX3kbYvSqLsGjkDjRrMw"
+        "name": "Asmaa Allah Alhusna (The 99 Names)",
+        "url": "https://open.spotify.com/album/4AicowGv8n5dGkEPnwq5SQ"
       },
       "artists": [
         {
-          "name": "Murat Belet",
-          "url": "https://open.spotify.com/artist/1aGDQkLy73SE8pPwdkZAxn"
-        },
-        {
-          "name": "Ali Magrebi",
-          "url": "https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN"
+          "name": "Mohamed Youssef",
+          "url": "https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4"
         }
       ],
-      "duration_ms": 173457,
-      "name": "Siraj Al-Medina - Arabic & Turkish",
-      "url": "https://open.spotify.com/track/5UBv9IyyeXWeuBzGQcmxXp"
+      "duration_ms": 200779,
+      "name": "Asmaa Allah Alhusna (The 99 Names)",
+      "url": "https://open.spotify.com/track/3WoaMZUO8VF4SsnV3fq5Ag"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1295,22 +1311,6 @@
       "duration_ms": 195642,
       "name": "\u0631\u0645\u0636\u0627\u0646 \u064a\u0627\u0631\u0645\u0636\u0627\u0646",
       "url": "https://open.spotify.com/track/00RAVkIA2WLCR9S4FaB3KS"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
-        "name": "Asmaa Allah Alhusna (The 99 Names)",
-        "url": "https://open.spotify.com/album/4AicowGv8n5dGkEPnwq5SQ"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Youssef",
-          "url": "https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4"
-        }
-      ],
-      "duration_ms": 200779,
-      "name": "Asmaa Allah Alhusna (The 99 Names)",
-      "url": "https://open.spotify.com/track/3WoaMZUO8VF4SsnV3fq5Ag"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1367,8 +1367,24 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "\u062d\u062f\u064a\u062b \u0627\u0644\u0631\u0648\u062d 1",
-        "url": "https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE"
+        "name": "Hadul El-Quran",
+        "url": "https://open.spotify.com/album/4mUAz2Gmtcg4gJM7TPpCtl"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Youssef",
+          "url": "https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4"
+        }
+      ],
+      "duration_ms": 199369,
+      "name": "Hadul El-Quran",
+      "url": "https://open.spotify.com/track/37i5M2dPXF44z745r0HDEz"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
+        "name": "\u0627\u0644\u0644\u0647 \u064a\u0627\u0644\u0644\u0647",
+        "url": "https://open.spotify.com/album/2bl9q3lmc69MeyLFwNhAJi"
       },
       "artists": [
         {
@@ -1376,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
         }
       ],
-      "duration_ms": 95059,
-      "name": "\u0633\u0628\u062d\u0627\u0646\u0643",
-      "url": "https://open.spotify.com/track/2c7e65xDTOSIe98apeZHhe"
+      "duration_ms": 266109,
+      "name": "\u0627\u0644\u0644\u0647 \u064a\u0627\u0644\u0644\u0647",
+      "url": "https://open.spotify.com/track/1Hu5Sz7RwYCEiwOfOnb2Sl"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "\u062d\u0628 \u0627\u0644\u0644\u0647",
-        "url": "https://open.spotify.com/album/49HWo0yoOTxqJhbfHc7Q7S"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Zaeem",
-          "url": "https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T"
-        }
-      ],
-      "duration_ms": 220975,
-      "name": "\u062d\u0628 \u0627\u0644\u0644\u0647",
-      "url": "https://open.spotify.com/track/6qrw0nMF6lyxfgCBfNR9nu"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
         "name": "Yalli Aalem Bina",
         "url": "https://open.spotify.com/album/3om9q8K6Eqketp3pbxk1YC"
       },
@@ -1463,34 +1463,34 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "Hadul El-Quran",
-        "url": "https://open.spotify.com/album/4mUAz2Gmtcg4gJM7TPpCtl"
+        "name": "\u062d\u0628 \u0627\u0644\u0644\u0647",
+        "url": "https://open.spotify.com/album/49HWo0yoOTxqJhbfHc7Q7S"
       },
       "artists": [
         {
-          "name": "Mohamed Youssef",
-          "url": "https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4"
+          "name": "Ahmed Zaeem",
+          "url": "https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T"
         }
       ],
-      "duration_ms": 199369,
-      "name": "Hadul El-Quran",
-      "url": "https://open.spotify.com/track/37i5M2dPXF44z745r0HDEz"
+      "duration_ms": 220975,
+      "name": "\u062d\u0628 \u0627\u0644\u0644\u0647",
+      "url": "https://open.spotify.com/track/6qrw0nMF6lyxfgCBfNR9nu"
     },
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "Asheq Nabina",
-        "url": "https://open.spotify.com/album/2DqMlqpmLjwAb1B3p1yLIU"
+        "name": "\u062d\u062f\u064a\u062b \u0627\u0644\u0631\u0648\u062d 1",
+        "url": "https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE"
       },
       "artists": [
         {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
         }
       ],
-      "duration_ms": 220241,
-      "name": "Asheq Nabina",
-      "url": "https://open.spotify.com/track/1u3yubQHDIhF6K1uSYdIc8"
+      "duration_ms": 95059,
+      "name": "\u0633\u0628\u062d\u0627\u0646\u0643",
+      "url": "https://open.spotify.com/track/2c7e65xDTOSIe98apeZHhe"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1511,34 +1511,18 @@
     {
       "added_at": "2024-03-25 12:14:49",
       "album": {
-        "name": "Alem Belolob",
-        "url": "https://open.spotify.com/album/6qCKwAogbUb9ExdVr7VCbO"
+        "name": "Asheq Nabina",
+        "url": "https://open.spotify.com/album/2DqMlqpmLjwAb1B3p1yLIU"
       },
       "artists": [
         {
-          "name": "Bassma Atta",
-          "url": "https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC"
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
         }
       ],
-      "duration_ms": 122410,
-      "name": "Alem Belolob",
-      "url": "https://open.spotify.com/track/6Syx7Efsg2UHyzT6YpzPm9"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
-        "name": "\u0627\u0644\u0644\u0647 \u064a\u0627\u0644\u0644\u0647",
-        "url": "https://open.spotify.com/album/2bl9q3lmc69MeyLFwNhAJi"
-      },
-      "artists": [
-        {
-          "name": "Hussain Aljassmi",
-          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
-        }
-      ],
-      "duration_ms": 266109,
-      "name": "\u0627\u0644\u0644\u0647 \u064a\u0627\u0644\u0644\u0647",
-      "url": "https://open.spotify.com/track/1Hu5Sz7RwYCEiwOfOnb2Sl"
+      "duration_ms": 220241,
+      "name": "Asheq Nabina",
+      "url": "https://open.spotify.com/track/1u3yubQHDIhF6K1uSYdIc8"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1555,6 +1539,22 @@
       "duration_ms": 90911,
       "name": "\u0648\u0627\u0642\u0641 \u0639\u0644\u0649 \u0628\u0627\u0628\u0643",
       "url": "https://open.spotify.com/track/3UcUPTW36BwtD3ZOsfoo8W"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
+        "name": "Alem Belolob",
+        "url": "https://open.spotify.com/album/6qCKwAogbUb9ExdVr7VCbO"
+      },
+      "artists": [
+        {
+          "name": "Bassma Atta",
+          "url": "https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC"
+        }
+      ],
+      "duration_ms": 122410,
+      "name": "Alem Belolob",
+      "url": "https://open.spotify.com/track/6Syx7Efsg2UHyzT6YpzPm9"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1587,6 +1587,22 @@
       "duration_ms": 106920,
       "name": "Alemny",
       "url": "https://open.spotify.com/track/7v3UnYvpPEU0CJfdxdE2Em"
+    },
+    {
+      "added_at": "2024-03-25 12:14:49",
+      "album": {
+        "name": "\u062d\u062f\u064a\u062b \u0627\u0644\u0631\u0648\u062d 1",
+        "url": "https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "duration_ms": 110837,
+      "name": "\u064a\u0627 \u0631\u0628\u0646\u0627",
+      "url": "https://open.spotify.com/track/6D5OU26bbZAUY4Tesasfin"
     },
     {
       "added_at": "2024-03-25 12:14:49",
@@ -1635,22 +1651,6 @@
       "duration_ms": 187768,
       "name": "Kol Kheir",
       "url": "https://open.spotify.com/track/4e1HOpsszPvVswtqKU6tgU"
-    },
-    {
-      "added_at": "2024-03-25 12:14:49",
-      "album": {
-        "name": "Badaelak Be Qalb",
-        "url": "https://open.spotify.com/album/60pm8WJb7nsQUMiiAULoaS"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 158324,
-      "name": "Badaelak Be Qalb",
-      "url": "https://open.spotify.com/track/52tcatQxdgFtWOeoOBXOLv"
     }
   ],
   "unique_name": "Ramadaniyat",

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Lamante in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,288 likes - 97 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,304 likes - 97 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La nostra prova di danza](https://open.spotify.com/track/2YLygfqBuoaOUohpbku4a4) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [La nostra prova di danza](https://open.spotify.com/album/5Mysrog26p6sagyaSE1ii6) | 2:53 |
 | 2 | [La sola concreta realtà](https://open.spotify.com/track/0Ymdein1FEwzOT3MsDpzIC) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [La sola concreta realtà](https://open.spotify.com/album/4ikitSU0lmSZNpN7egaUOX) | 3:04 |
 | 3 | [Water Tanks](https://open.spotify.com/track/26O7Zdco6Q7lapBL6btPML) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Water Tanks](https://open.spotify.com/album/0QIwmiiCRqmXKpcNUlRQKh) | 2:32 |
-| 4 | [wolf](https://open.spotify.com/track/3zV97uA7DXQ7uNLkoAb3nr) | [Sleap\-e](https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS) | [8106](https://open.spotify.com/album/5wRpFRFY5sgfajpcloLLEq) | 2:28 |
-| 5 | [Back in town](https://open.spotify.com/track/5zTruAvOar0H7PW6g82m1j) | [MADDAM](https://open.spotify.com/artist/3vYFIXSHzx3x9yXvmHf1VC) | [MADDAM](https://open.spotify.com/album/0mH4CHMfWvCmjagae688X7) | 2:37 |
-| 6 | [Caosmosi](https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb) | [Caosmosi](https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP) | 5:03 |
-| 7 | [Go catch 'em](https://open.spotify.com/track/2HkT6v7XVIdYizYyJ6jy8e) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Go catch 'em](https://open.spotify.com/album/2KT9S4I1YuF7AxLC2EnQFg) | 2:35 |
-| 8 | [Settembre](https://open.spotify.com/track/2EOb6rY5V6AUgpmQjgN5qX) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Verso una casa](https://open.spotify.com/album/7BL6JI1RpKtmysgBxtxuDV) | 2:34 |
-| 9 | [Raha](https://open.spotify.com/track/2lnJEZh2IopfJ6YCeDqrGU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP) | [Raha](https://open.spotify.com/album/7tJgc7FBSJQZ3yIP1J76gf) | 5:06 |
-| 10 | [Crispy](https://open.spotify.com/track/5qThAUaX5m9rxiCrYckogG) | [Siouxie and the Skunks](https://open.spotify.com/artist/687wBZ0bSTp7AaCf2UYcOR) | [Songs About Cuddles](https://open.spotify.com/album/0ZueNLhUivQE9u5JNsUKNF) | 3:28 |
+| 4 | [Caosmosi](https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb) | [Caosmosi](https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP) | 5:03 |
+| 5 | [Settembre](https://open.spotify.com/track/2EOb6rY5V6AUgpmQjgN5qX) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Verso una casa](https://open.spotify.com/album/7BL6JI1RpKtmysgBxtxuDV) | 2:34 |
+| 6 | [Crispy](https://open.spotify.com/track/5qThAUaX5m9rxiCrYckogG) | [Siouxie and the Skunks](https://open.spotify.com/artist/687wBZ0bSTp7AaCf2UYcOR) | [Songs About Cuddles](https://open.spotify.com/album/0ZueNLhUivQE9u5JNsUKNF) | 3:28 |
+| 7 | [wolf](https://open.spotify.com/track/3zV97uA7DXQ7uNLkoAb3nr) | [Sleap\-e](https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS) | [8106](https://open.spotify.com/album/5wRpFRFY5sgfajpcloLLEq) | 2:28 |
+| 8 | [Back in town](https://open.spotify.com/track/5zTruAvOar0H7PW6g82m1j) | [MADDAM](https://open.spotify.com/artist/3vYFIXSHzx3x9yXvmHf1VC) | [MADDAM](https://open.spotify.com/album/0mH4CHMfWvCmjagae688X7) | 2:37 |
+| 9 | [Go catch 'em](https://open.spotify.com/track/2HkT6v7XVIdYizYyJ6jy8e) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Go catch 'em](https://open.spotify.com/album/2KT9S4I1YuF7AxLC2EnQFg) | 2:35 |
+| 10 | [Raha](https://open.spotify.com/track/2lnJEZh2IopfJ6YCeDqrGU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP) | [Raha](https://open.spotify.com/album/7tJgc7FBSJQZ3yIP1J76gf) | 5:06 |
 | 11 | [Showu](https://open.spotify.com/track/6HGRFffsqctjlRyZX6JxzQ) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Showu](https://open.spotify.com/album/13luLECarR62ppW5Eou17m) | 2:08 |
 | 12 | [Labirinto](https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Labirinto](https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L) | 2:01 |
 | 13 | [Ti faccio un tutorial](https://open.spotify.com/track/2OM49PXPcHeeDqkNeyZHoC) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Ti faccio un tutorial](https://open.spotify.com/album/2qxQGudBokyFOnLbJtr2eY) | 2:56 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 18 | [Mani E Calcolatrici \(Elderly In A Hurry\)](https://open.spotify.com/track/55CHtuKxC6ksrKxVDOCjpi) | [I Finnegans](https://open.spotify.com/artist/2rrjc6ARdFy4OigHtVsL7X) | [FASTEDELICA](https://open.spotify.com/album/2MGkpR1vN8Hi4ygbMVdMPX) | 1:57 |
 | 19 | [Bucaneve](https://open.spotify.com/track/5lFiVbg5X5k8wDMf6ts49g) | [Lua](https://open.spotify.com/artist/01MhZnLxKcCvDjs03ndUnw) | [Nube](https://open.spotify.com/album/3LqplH643z4vbh6EAi0ssL) | 4:16 |
 | 20 | [All'Ombra Dei Palazzi](https://open.spotify.com/track/6I3lbrxXHVx7i1O0b84VMc) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Via Briantea](https://open.spotify.com/album/6to4L28zGrellDt1u8HEt2) | 3:36 |
-| 21 | [STIRPE DI FARMACI](https://open.spotify.com/track/1NrLIDeifzsclWcfO7wzP2) | [INARIA](https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf) | [DR\*GA!](https://open.spotify.com/album/7nwHRQxuVosIMAarBREG6y) | 2:59 |
-| 22 | [L'ultima volta](https://open.spotify.com/track/0TZXlPjeor9irminLuu9aa) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [L'ultima volta](https://open.spotify.com/album/3qEkjdtno5YZ3hQMFVr2SD) | 3:16 |
-| 23 | [Fiori e baci \(feat\. Edda\)](https://open.spotify.com/track/0fQrwbyF6LohUukwGZ7VuS) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Edda](https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL) | [Fiori e baci \(feat\. Edda\)](https://open.spotify.com/album/7C8HzugetQxiGTqJvw9kai) | 3:31 |
+| 21 | [Fiori e baci \(feat\. Edda\)](https://open.spotify.com/track/0fQrwbyF6LohUukwGZ7VuS) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Edda](https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL) | [Fiori e baci \(feat\. Edda\)](https://open.spotify.com/album/7C8HzugetQxiGTqJvw9kai) | 3:31 |
+| 22 | [STIRPE DI FARMACI](https://open.spotify.com/track/1NrLIDeifzsclWcfO7wzP2) | [INARIA](https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf) | [DR\*GA!](https://open.spotify.com/album/7nwHRQxuVosIMAarBREG6y) | 2:59 |
+| 23 | [L'ultima volta](https://open.spotify.com/track/0TZXlPjeor9irminLuu9aa) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [L'ultima volta](https://open.spotify.com/album/3qEkjdtno5YZ3hQMFVr2SD) | 3:16 |
 | 24 | [FRESCO](https://open.spotify.com/track/5kL1lwfNNWzBehy9ZO1gl0) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [FRESCO](https://open.spotify.com/album/00x0Pc8ZmAKkrTMPQZ1n8E) | 3:04 |
 | 25 | [Pond Riddim](https://open.spotify.com/track/7eGmg81yDojFxL2raaScaY) | [Valerian Swing](https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93) | [Pond Riddim](https://open.spotify.com/album/4TRrFJ6HePAb9zzx1BTXJn) | 4:24 |
 | 26 | [Il nome del capitano](https://open.spotify.com/track/2zLzetUzpCSXPTBiMP1Exf) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Il nome del capitano](https://open.spotify.com/album/7fYGI2wlQcCJ2x7yUAApT5) | 3:39 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 96 | [insecure](https://open.spotify.com/track/2o6MjJ3Ilwy6HATqI7IK0M) | [Voorpret](https://open.spotify.com/artist/1LvKEeM2ZLRbXA6TRgl1nI) | [insecure](https://open.spotify.com/album/31SuG69Dgv7qTN6cfAaYan) | 3:17 |
 | 97 | [Nervous](https://open.spotify.com/track/4oszQVZnaqk4kbmmfZVfez) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Nervous](https://open.spotify.com/album/6RD1K1TtGVHhdXlTn6L89h) | 2:22 |
 
-Snapshot ID: `MCwyYWFiOWE2NWZjYzJhZDQ1ZmJiN2E1NDBhNjNiN2RjMjFhYjAyMjZk`
+Snapshot ID: `MCxjOWM0MWEyMDMzYjQ5NjUxOGE3MzIzNWNiOTZlYjI1MjAwMTYxZGRj`

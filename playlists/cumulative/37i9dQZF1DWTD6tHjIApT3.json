@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u5e7e\u7530\u308a\u3089 + ano",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Aimer",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 220856,
       "name": "Ambiguous",
       "url": "https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9"
@@ -11324,7 +11324,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 277869,
       "name": "Kaiju",
       "url": "https://open.spotify.com/track/0Zu4sWoodZKrSr4AvQ0pSF"
@@ -27812,7 +27812,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 258453,
       "name": "\u305d\u308c\u3067\u3082\u305f\u3060",
       "url": "https://open.spotify.com/track/4cJURhJ7DMuRPRoEwjGieJ"
@@ -32200,7 +32200,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 215673,
       "name": "\u30d5\u30ec\u30f3\u30c9",
       "url": "https://open.spotify.com/track/3B0YGW2XLujqsp4QQ9JXvk"
@@ -32846,7 +32846,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 238520,
       "name": "\u30e1\u30e2\u30ea\u30fc\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/6ENOFRzm3VEewevxIAyY2o"
@@ -42984,6 +42984,24 @@
       "duration_ms": 337078,
       "name": "\u9060\u8def",
       "url": "https://open.spotify.com/track/3KQZmyZstQuBGUTVLccK0f"
+    },
+    {
+      "album": {
+        "name": "\u9065\u304b",
+        "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191047,
+      "name": "\u9065\u304b",
+      "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
     },
     {
       "album": {

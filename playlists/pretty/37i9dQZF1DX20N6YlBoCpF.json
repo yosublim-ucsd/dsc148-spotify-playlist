@@ -1,12 +1,12 @@
 {
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=_2MLvxbWQuClr-c3ohOP5g\">Franja Du Plessis</a>  ",
-  "num_followers": 21821,
+  "num_followers": 21839,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWM3OTMxYTMzNjEyYjc1YzQ5MTNkMGVlYmUwYzFhOGQwMjMzNjBl",
+  "snapshot_id": "MCwzODBjZmY3YzZhZjY4MTBjNDczZTFhYTcyOTg2YzE2MjBkOGQyZWFk",
   "tracks": [
     {
       "added_at": "2024-03-21 22:00:00",
@@ -223,6 +223,26 @@
       "duration_ms": 276774,
       "name": "Plaas Toe",
       "url": "https://open.spotify.com/track/21mE9jeLuMe2oXMmFBK1dP"
+    },
+    {
+      "added_at": "2024-04-02 11:43:21",
+      "album": {
+        "name": "Goeie Ou",
+        "url": "https://open.spotify.com/album/3TyQcxh2WkpeOmUKBeKXkn"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        },
+        {
+          "name": "Henru",
+          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
+        }
+      ],
+      "duration_ms": 193790,
+      "name": "Goeie Ou",
+      "url": "https://open.spotify.com/track/0sgnE3y48l0Q9aOlEz3baT"
     },
     {
       "added_at": "2024-03-28 22:00:00",
@@ -907,22 +927,6 @@
       "duration_ms": 202348,
       "name": "Kalahari Ferrari",
       "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
-    },
-    {
-      "added_at": "2024-01-05 05:17:41",
-      "album": {
-        "name": "Waar Gaan Ons Dans Vanaand?",
-        "url": "https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd"
-      },
-      "artists": [
-        {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Waar Gaan Ons Dans Vanaand?",
-      "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"
     },
     {
       "added_at": "2024-02-27 09:53:02",

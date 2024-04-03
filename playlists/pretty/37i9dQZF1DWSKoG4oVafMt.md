@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,758 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,951 likes - 79 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 78 | [Sab Kuchh \(From "Moh"\)](https://open.spotify.com/track/1ENluBXCI1RnMiGcZ74mzM) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Sab Kuchh \(From "Moh"\)](https://open.spotify.com/album/5XOobJnN5HgmNUcn9S455q) | 4:20 |
 | 79 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 
-Snapshot ID: `MCxlMmQ0NmIxMjNmMmU4MDUwMmUyNjYwNDU0MGIyOWQxMDU4MjdmOTQ2`
+Snapshot ID: `MCwyOWNlZDI4ZmM3ZTUxNjk1MGQ2MjFmZmJkY2Y4ZTU0MWUxZjdlMzU3`

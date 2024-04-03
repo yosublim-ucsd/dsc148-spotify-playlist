@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: <b>Sum 41</b>
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,198 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,250 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
 | 75 | [Crack Cocaine](https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Crack Cocaine](https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF) | 4:01 |
 
-Snapshot ID: `MCxkYzczMGY5NWZkNjg2ZjQ0ZjVlMTdiMWMyODgxOGEyZjY5MGQwZTVh`
+Snapshot ID: `MCxjMzExNGVlNzY4OTA1OWYzYTk0Nzg1NDg2MDU0ZjA4MjBlMmM2OTVk`

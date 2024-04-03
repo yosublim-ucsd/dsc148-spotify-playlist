@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 166875,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/6ATAnmqfoTOLvrFQXfTIdD"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 172500,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/6BCUs1SfUG1dux6mjfa9sR"
@@ -3233,6 +3233,32 @@
     },
     {
       "album": {
+        "name": "Pelota",
+        "url": "https://open.spotify.com/album/5fIhFcKkwc1TGivrJD5vdU"
+      },
+      "artists": [
+        {
+          "name": "DJ S.K.T",
+          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
+        },
+        {
+          "name": "Pure Cold",
+          "url": "https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI"
+        },
+        {
+          "name": "Shaq Rayes",
+          "url": "https://open.spotify.com/artist/2PgjJYtkSxJPn6A0jmLerc"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6e1n2hJalQwUKjwosm5iwZ"
+    },
+    {
+      "album": {
         "name": "Pilka",
         "url": "https://open.spotify.com/album/6vcCrI7MtwIgGvrCxvIXQf"
       },
@@ -3306,7 +3332,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 178560,
       "name": "Pop That",
       "url": "https://open.spotify.com/track/7KJ5Q9dQP5qOQWDgDD96K8"

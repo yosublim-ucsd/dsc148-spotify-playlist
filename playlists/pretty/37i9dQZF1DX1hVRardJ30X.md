@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: The Academy
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,170 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,288 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Volverme Amar](https://open.spotify.com/track/0ik9ayovWhJWxhwXPtaGUc) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [Volverme Amar](https://open.spotify.com/album/20mCBhOBx82QuOJ2BsHfgp) | 2:10 |
 | 51 | [Chica Favorita](https://open.spotify.com/track/3z9D4E3Y0iqXUjaU5pvunT) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Chica Favorita](https://open.spotify.com/album/42eh6F8EiymSRk4pb9oYAf) | 3:58 |
 
-Snapshot ID: `MCw1N2VjMWRmMDc1MTY4NGJkZjE0MDEzZWMxNWUyY2VmMTE4NmM2N2M4`
+Snapshot ID: `MCw1ZWJkZjRlYTFiYjdkOGM3NzgxZjhhNzY2OWRmYjU2ODYyM2M3NDgw`

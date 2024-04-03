@@ -4,7 +4,7 @@
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-52 songs - 2 hr 59 min
+53 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Home for Christmas](https://open.spotify.com/track/1A61cJRd7Z78OPAKBq0OJy) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Home for Christmas](https://open.spotify.com/album/2zctWsSDRj6fZgQnxr9ktX) | 5:09 | 2022-11-28 |  |
 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 | 2022-11-28 |  |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/6JJWQxzbGTeI9rka4f5sJJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Thanks For The Memory..\. The Great American Songbook Vol\. IV](https://open.spotify.com/album/6lRgrE7kp3GkkuZSnYdYAt) | 3:09 | 2022-11-28 |  |
-| [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 | 2022-11-28 |  |
+| [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 | 2022-11-28 | 2024-04-03 |
 | [It Won't Seem Like Christmas \(Without You\)](https://open.spotify.com/track/4rsxx3c7BYGwdp3iOqcxbf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings the Wonderful World of Christmas](https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk) | 2:44 | 2022-11-28 |  |
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2022-11-28 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 | 2022-11-28 |  |
@@ -58,6 +58,7 @@
 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2022-11-28 | 2023-12-11 |
 | [When You Wish Upon A Star](https://open.spotify.com/track/7DfiVEGVGAF85DGMEmtgqc) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Collected Additional Masters](https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt) | 3:41 | 2022-11-28 |  |
 | [White Christmas](https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 3:02 | 2022-11-28 |  |
+| [Winter Wonderland](https://open.spotify.com/track/1CWty9bY93QlGMDCv77XOa) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday Harmony](https://open.spotify.com/album/1z6AYmWP9niaVmA3AyUNpN) | 3:16 | 2022-11-28 |  |
 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:22 | 2022-11-28 |  |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2022-11-28 |  |
 

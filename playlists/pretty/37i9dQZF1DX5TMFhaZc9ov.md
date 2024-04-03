@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,940 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,956 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 74 | [Everybody Loves You](https://open.spotify.com/track/3f6rsRGCaABn7i8S8N8zmc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:19 |
 | 75 | [What Mattered Most \- Alternative Version](https://open.spotify.com/track/11Q7CHxH1d4B4E0Qei5JS0) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R) | [Got It Covered](https://open.spotify.com/album/1p6BAFD43hYjgZ5RC8toi7) | 3:53 |
 | 76 | [Other Boys](https://open.spotify.com/track/6s28m7d580Paz08mNEQbKo) | [Paisley Fields](https://open.spotify.com/artist/6tzDsjuTpo8J7qsGfGZvPx) | [Electric Park Ballroom](https://open.spotify.com/album/4R6UMOPlR169LPEm0gIhLU) | 3:14 |
-| 77 | [Hurt People \(feat\. Cam\)](https://open.spotify.com/track/0OZzCxO9IY126tDm2aBRHe) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Hurt People \(feat\. Cam\)](https://open.spotify.com/album/7wRWbV6A7J1y7nIY63ImzP) | 3:29 |
+| 77 | [Hurt People](https://open.spotify.com/track/0OZzCxO9IY126tDm2aBRHe) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Hurt People](https://open.spotify.com/album/7wRWbV6A7J1y7nIY63ImzP) | 3:29 |
 | 78 | [Same Old Lines](https://open.spotify.com/track/1iIAth3EApux3r5p61F51e) | [Rod Thomas](https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA) | [Until Something Fits](https://open.spotify.com/album/1YZFdfXmzxce7btBAchwkT) | 3:04 |
 | 79 | [Gentry](https://open.spotify.com/track/1xOcMLmKMhtGIemNEYf9Qf) | [Chris Garneau](https://open.spotify.com/artist/6N6oxcjNigJQq0RWeC49Rg) | [Yours](https://open.spotify.com/album/67hF3IC3XzAaMIgTENY3kN) | 2:57 |
 | 80 | [14 Year Old Me](https://open.spotify.com/track/2evjAEtY3HsI3DLKzbkI9y) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/30OWSNKICd1uTJBqAuRylQ) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 99 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 100 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MCxmNDI5ZDFmNjFiNzYxZmFkZDgxNDMxODNmZjU3YTBiZDU2MTNiOTkx`
+Snapshot ID: `MCxlNmFlZGMxYTNhOGE4MzYwMTY0M2Q4MjM3M2QzZDVhNzRhODdhMjE5`

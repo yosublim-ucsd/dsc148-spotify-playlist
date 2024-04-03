@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=7gMdc4znRe\-FsvrV9ncWSg">The Joy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,215 likes - 53 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,262 likes - 53 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 52 | [Khuphuka](https://open.spotify.com/track/2woH45Z4imZSyCaqkSC0UX) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:43 |
 | 53 | [Thandaza](https://open.spotify.com/track/6vR8F8fp42rA8ecAlimsuw) | [DeeTheGeneral](https://open.spotify.com/artist/6rJUmLA6tYddLv09w8ec6t), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Thandaza](https://open.spotify.com/album/088OsBlXpMBHglE3f9vUTI) | 6:05 |
 
-Snapshot ID: `MCw5NGJhMGUzMzllMzNiN2QyMGY2YmE5MzVjZWI2MWNjOWRmODcyMDUw`
+Snapshot ID: `MCw2NDNlODc3NDhiNzZjZTQ3YjZmNDU0ZTBkMmQxNjVhNTlmZGFmMzY2`

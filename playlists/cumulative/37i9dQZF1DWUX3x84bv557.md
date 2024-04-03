@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: FLEUR
 
-538 songs - 1 day 2 hr 7 min
+539 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Leugenaar II](https://open.spotify.com/track/2YLTNvko2SBU4j0qX4iaQT) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Leugenaar II](https://open.spotify.com/album/7MCmumqUFWvcUfkUSPljxG) | 3:16 | 2023-09-14 | 2023-10-13 |
 | [Leuk Zolang Het Duurt](https://open.spotify.com/track/3fCW3J2VNOqUVSGtpSVxun) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Leuk Zolang Het Duurt](https://open.spotify.com/album/44toZgS1DzRUWhZ6mlSRf9) | 3:35 | 2023-07-20 | 2023-08-25 |
 | [Leuker Als Je High Bent](https://open.spotify.com/track/06U72hUZSEgYuqhAUUKsn7) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Leuker Als Je High Bent](https://open.spotify.com/album/5IauvUhxaKVAcwfISQ2I2S) | 2:50 | 2024-02-15 |  |
+| [Liever Dan Lief](https://open.spotify.com/track/45tt651zCvMR0Lq2xABBBo) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Liever Dan Lief](https://open.spotify.com/album/2xBlCsxpTu5BjIToy8GeWI) | 3:26 | 2024-04-02 |  |
 | [Liever Leven](https://open.spotify.com/track/7LykDowuuZgfTjDlVqUIGT) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Gewoon Willem](https://open.spotify.com/album/5IOhdflOGOIy28OGwCzw5h) | 2:48 | 2023-02-23 | 2023-03-10 |
 | [Limousine](https://open.spotify.com/track/7An8syerbMM9c3a4rOwCOx) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Loafers van Puppyleer Deluxe EP](https://open.spotify.com/album/34VnmQ8FMDKT23bn2JLV7O) | 2:05 | 2023-11-30 | 2024-01-26 |
 | [Love Is Drugs](https://open.spotify.com/track/36odP6eL0ym0OPnNiN2s98) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Della Fox](https://open.spotify.com/artist/76GFGvQ277N1FDxl4e9alb) | [Love Is Drugs](https://open.spotify.com/album/5XVnwPuRRsacFjh2kJldTH) | 3:15 | 2023-07-07 | 2023-08-18 |
@@ -346,7 +347,7 @@
 | [Net Zolang](https://open.spotify.com/track/5v7kikNBNvUXktkB0i2Ht3) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Net Zolang](https://open.spotify.com/album/6BCzk8O4K6E38EEW71GzdQ) | 3:46 | 2023-09-14 | 2023-09-29 |
 | [Niemand \(De Enige\)](https://open.spotify.com/track/7wehFRahb9PMsYai1jHv1y) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Niemand \(De Enige\)](https://open.spotify.com/album/4PUj0odPADosM9F8G8vanL) | 3:39 | 2023-02-23 | 2023-03-31 |
 | [Niemand Anders](https://open.spotify.com/track/6pRAF99tQ6bJXYkkYhFB1G) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Niemand Anders](https://open.spotify.com/album/68AAkMDMZPQMEqR9elVSwX) | 2:37 | 2023-05-25 | 2023-09-08 |
-| [Niet Alleen](https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Niet Alleen](https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX) | 2:54 | 2024-01-04 |  |
+| [Niet Alleen](https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Niet Alleen](https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX) | 2:54 | 2024-01-04 | 2024-04-03 |
 | [Niet Breken](https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Niet Breken](https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos) | 2:41 | 2023-09-14 | 2024-02-09 |
 | [Niet Meer Hopen](https://open.spotify.com/track/0NihKI40IGefpU3gaFMinb) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Niet Meer Hopen](https://open.spotify.com/album/0oRrxWkeV6US4g7TsY5nms) | 2:25 | 2023-06-15 | 2023-09-15 |
 | [niet mijn taak.](https://open.spotify.com/track/6OhPXfXm7AdHl0BfK1T1j2) | [Lateesha](https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm) | [niet mijn taak.](https://open.spotify.com/album/3sWyhdmFI9LWwRzCPDl68N) | 3:13 | 2023-12-08 | 2024-02-16 |

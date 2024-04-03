@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 140,979 likes - 40 songs - 2 hr 4 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 141,014 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [Maníaca](https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Maníaca](https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye) | 2:55 |
 | 40 | [VUELA ALTO](https://open.spotify.com/track/6Up49hQmFHWPMpxN8FIu9o) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 2:58 |
 
-Snapshot ID: `OTQ3MCw5MzZiZmM3YThlY2Q3YTA2ODQzYzcyYTYzNjc4NzBkNGI0OTdiYjU1`
+Snapshot ID: `OTQ3MixlYTU1MzE2MzZiYjEzNmQyMjllNmRmMGQ1MjMxMDZiYmViMjJkYzU3`

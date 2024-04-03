@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Hamilton De Holanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,494 likes - 99 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,715 likes - 99 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 64 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 |
 | 65 | [Mambo Influenciado](https://open.spotify.com/track/6KLQUsEikFi0vbtffUknCF) | [Michel Camilo](https://open.spotify.com/artist/5FSlmspNfoVInmejanELTq), [Tomatito](https://open.spotify.com/artist/3wxFXeuHQEq4NubZunCIMe) | [Mambo influenciado](https://open.spotify.com/album/3CmgtYICbgzU7U5vgPohmU) | 3:31 |
 | 66 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 |
-| 67 | [The Way You Look Tonight](https://open.spotify.com/track/6OFNBJrLcBm3I4P8uxNnC9) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [At The Movies](https://open.spotify.com/album/1HyfK19QrbUMGmzfop1myr) | 7:25 |
+| 67 | [The Way You Look Tonight](https://open.spotify.com/track/1hw5O9ujDRCCsqxuVfbiJF) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [At The Movies](https://open.spotify.com/album/2buBjbRAHUe3QMiWbRuHM0) | 7:25 |
 | 68 | [Y'Y](https://open.spotify.com/track/2sbewTPSCCjZbwgz0KBBTL) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Y'Y](https://open.spotify.com/album/4PSOBbLlu6a8s0Auu3Um2a) | 5:17 |
 | 69 | [MOMENTUM](https://open.spotify.com/track/57B1YJVhgmCFAcryA9W2xu) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [MOMENTUM](https://open.spotify.com/album/6qdewILD6KlnRvj7Ts0kUe) | 4:37 |
 | 70 | [Speak To Me](https://open.spotify.com/track/7wc9v9f1agzyv4nckk0peS) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Speak To Me](https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM) | 4:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [early](https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 3:56 |
 | 99 | [Sun Streak](https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8) | [Adam Ratner](https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K), [David Binney](https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Luca Mendoza](https://open.spotify.com/artist/0MlFh2Z71UaY9oeWx2peKq), [Benjamin Ring](https://open.spotify.com/artist/3p7Y0v6WeIkL3wO2xn2Dv8) | [Sun Streak](https://open.spotify.com/album/0xe3vp3OjTfSdfJvqp3Lc4) | 7:15 |
 
-Snapshot ID: `MCwxOGFhNGE0YWZkMGVhZjUzN2JlMTIwMjQ2YWE1YjcwODUzOGU3NjQ1`
+Snapshot ID: `MCxjZTcwNWM3N2I1MDBmMzY4ZjcxNTRlOWVmYTg1YzVhZGNmZjNlMzU2`

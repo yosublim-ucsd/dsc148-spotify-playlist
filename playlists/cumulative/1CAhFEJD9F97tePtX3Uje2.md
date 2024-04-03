@@ -4,7 +4,7 @@
 
 > 
 
-226 songs - 13 hr 27 min
+227 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Asura](https://open.spotify.com/track/1z9ayFhM26Ed5TvsEZqoCc) | [Yedgar](https://open.spotify.com/artist/0YB8v04fVMgWFl9Nqdrqna) | [✧ Let Go](https://open.spotify.com/album/6wVvWK7DAtHRmv2yjUCXRW) | 4:04 | 2018-12-02 |  |
 | [Atlantis](https://open.spotify.com/track/0tvsr8pIUKtq1QkVJ0DxM6) | [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a), [Kareful](https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK) | [Atlantis](https://open.spotify.com/album/5aTvGoBADTe9XQVwPvq4b9) | 3:25 | 2018-11-27 |  |
 | [August](https://open.spotify.com/track/692UQTtTqS4beVmGqZaAqw) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [August](https://open.spotify.com/album/2ydWTPFpFvpp2PKwFgeSua) | 4:35 | 2018-11-27 |  |
+| [Autumn Wind](https://open.spotify.com/track/0vwMdWKwS4mjeKiYvEq5Vc) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Autumn Wind](https://open.spotify.com/album/6sJ0X7UrBbVkh0VRuMCzaJ) | 2:09 | 2024-04-02 |  |
 | [Awake](https://open.spotify.com/track/6mm6wHRP4dAqQeIglbHeQg) | [Tomkillsjerry](https://open.spotify.com/artist/2eT3qZJw0CLj68fEjP9v2q) | [Narcoleptic Tendencies](https://open.spotify.com/album/3l9I2pyZBPXZv3fK2OWfDC) | 2:42 | 2020-08-10 |  |
 | [Away](https://open.spotify.com/track/7sUpgCrgATAA9dJdIYkXpt) | [Tokyo Tears](https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32) | [Away](https://open.spotify.com/album/3yPvTWkWleNhX1iIvSa2G7) | 3:20 | 2021-09-27 |  |
 | [Azimuth](https://open.spotify.com/track/2S88ROKw2xsY0j1Uw2OxpS) | [Skit](https://open.spotify.com/artist/6ejpWdV51Wxr3azIpJXwoQ), [Klimeks](https://open.spotify.com/artist/5JQljNQvDpk1hhKpJHpwNU) | [wave 001](https://open.spotify.com/album/4r1pxotqP5m7dkc9j5kzn0) | 3:56 | 2018-11-28 |  |

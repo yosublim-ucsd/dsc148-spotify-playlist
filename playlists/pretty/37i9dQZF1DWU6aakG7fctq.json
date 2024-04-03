@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Conociendo Rusia",
-  "num_followers": 493771,
+  "num_followers": 493777,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGY0NTc3NTA3MWNiNGFjNjFkMTdjZWI0MTgyODJkOTQxNWQzYWU2",
+  "snapshot_id": "MCwyNGIwZmVmYWMzN2IyMDgxMTRkMzJlNzJiYzZjZGE4MWY1ZDFlY2Ez",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "rompo esquemas",
-        "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 199421,
-      "name": "rompo esquemas",
-      "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Sidekick",
         "url": "https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 176298,
       "name": "Sidekick",
       "url": "https://open.spotify.com/track/6KUasBYtaeWOdIbC1FZNbI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "rompo esquemas",
+        "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 199421,
+      "name": "rompo esquemas",
+      "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "REVOLUCION AZUL",
-        "url": "https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 254439,
-      "name": "REVOLUCION AZUL",
-      "url": "https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 206818,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/6wz2a7hZNgLoPzSJyx9Ms9"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "REVOLUCION AZUL",
+        "url": "https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 254439,
+      "name": "REVOLUCION AZUL",
+      "url": "https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 198653,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 203112,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Live Today",
+        "url": "https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "Live Today",
+      "url": "https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Estar Cerca de Ti",
         "url": "https://open.spotify.com/album/6Ws43EfbO4IGba7j3gKXzl"
       },
@@ -815,6 +831,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Nos Despedimos / Window Shopping",
+        "url": "https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Nos Despedimos",
+      "url": "https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -835,38 +867,6 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Live Today",
-        "url": "https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "Live Today",
-      "url": "https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Nos Despedimos / Window Shopping",
-        "url": "https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M"
-      },
-      "artists": [
-        {
-          "name": "BEL",
-          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Nos Despedimos",
-      "url": "https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "M\u00e1s Normal De Lo Normal",
+        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 262593,
+      "name": "En Vez de Huir",
+      "url": "https://open.spotify.com/track/1YfiV2Ufi6GbzgdgbRHiVM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Cardenal Cisneros",
         "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
       },
@@ -1179,38 +1195,6 @@
       "duration_ms": 252973,
       "name": "Cardenal Cisneros",
       "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "NO HAY SE\u00d1AL",
-        "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 161392,
-      "name": "NO HAY SE\u00d1AL",
-      "url": "https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Piritu",
-        "url": "https://open.spotify.com/album/5fdhSG4pskSH1aqJMiPq2n"
-      },
-      "artists": [
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 151386,
-      "name": "Piritu",
-      "url": "https://open.spotify.com/track/37ihmKT7uzbtbEK2jPzeQd"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "NO HAY SE\u00d1AL",
+        "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 161392,
+      "name": "NO HAY SE\u00d1AL",
+      "url": "https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Piritu",
+        "url": "https://open.spotify.com/album/5fdhSG4pskSH1aqJMiPq2n"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 151386,
+      "name": "Piritu",
+      "url": "https://open.spotify.com/track/37ihmKT7uzbtbEK2jPzeQd"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "M\u00e1s Normal De Lo Normal",
-        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+        "name": "Discoman\u00eda",
+        "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 262593,
-      "name": "En Vez de Huir",
-      "url": "https://open.spotify.com/track/1YfiV2Ufi6GbzgdgbRHiVM"
+      "duration_ms": 188933,
+      "name": "Discoman\u00eda",
+      "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 257000,
       "name": "SIN MIRAR (feat. CLUBZ)",
       "url": "https://open.spotify.com/track/0xdYSnHZ8nYLxk6Cf72ZbV"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Discoman\u00eda",
-        "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Discoman\u00eda",
-      "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1379,6 +1395,22 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "M\u00e1s Normal De Lo Normal",
+        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 192165,
+      "name": "Hora de Comer",
+      "url": "https://open.spotify.com/track/01SnokcbraoP4BYxznl6bq"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1431,34 +1463,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "M\u00e1s Normal De Lo Normal",
-        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+        "name": "Radiocaset",
+        "url": "https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
         }
       ],
-      "duration_ms": 192165,
-      "name": "Hora de Comer",
-      "url": "https://open.spotify.com/track/01SnokcbraoP4BYxznl6bq"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/6GTH6NLtc0y5bvCSLpemGg"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment",
-          "url": "https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS"
+      "duration_ms": 208666,
+      "name": "Radiocaset",
+      "url": "https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1479,6 +1495,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "la noche del viernes",
+        "url": "https://open.spotify.com/album/6Q2IqXwMVZvkDw4bZ4y1ls"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 181561,
+      "name": "la noche del viernes",
+      "url": "https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "me da miedo que escuches esto",
         "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
       },
@@ -1491,6 +1523,54 @@
       "duration_ms": 207529,
       "name": "te acuerdas de mi?",
       "url": "https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Notebook Fantasy",
+        "url": "https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 251080,
+      "name": "Era Primavera",
+      "url": "https://open.spotify.com/track/7DTH6M5KGouSi6wmz0ZYdz"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/6GTH6NLtc0y5bvCSLpemGg"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment",
+          "url": "https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "oggy",
+        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 128618,
+      "name": "oggy",
+      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1515,38 +1595,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Lo Siento",
-        "url": "https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "oggy",
-        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 128618,
-      "name": "oggy",
-      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
       },
@@ -1559,22 +1607,6 @@
       "duration_ms": 188500,
       "name": "Sol",
       "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "la noche del viernes",
-        "url": "https://open.spotify.com/album/6Q2IqXwMVZvkDw4bZ4y1ls"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 181561,
-      "name": "la noche del viernes",
-      "url": "https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1707,38 +1739,6 @@
       "duration_ms": 185667,
       "name": "no es culpa m\u00eda",
       "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Radiocaset",
-        "url": "https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Radiocaset",
-      "url": "https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Notebook Fantasy",
-        "url": "https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 251080,
-      "name": "Era Primavera",
-      "url": "https://open.spotify.com/track/7DTH6M5KGouSi6wmz0ZYdz"
     }
   ],
   "unique_name": "el nuevo indie",

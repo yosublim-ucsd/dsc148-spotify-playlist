@@ -1,12 +1,12 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos. \u00a1Felices fiestas!",
-  "num_followers": 2046,
+  "num_followers": 2045,
   "original_name": "Fiesta Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTNjZDA1YTZkYWNiMDc5OWI4MjA2NDM1ZGJhM2Q5MDczMTUyYTYy",
+  "snapshot_id": "MCw1ODc2MDc3Mjk3ZjQ1ZGJmMWQ1ZTQyNjkxNzhiMjMyN2I1NTIzMjJh",
   "tracks": [
     {
       "added_at": "2023-12-15 19:49:30",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Una Vida Buena",
-        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Una Vida Buena",
-      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 232880,
       "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Una Vida Buena",
+        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Una Vida Buena",
+      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026T\u00fa",
+        "url": "https://open.spotify.com/album/2NjuELUKBF6Uu0vIZX26Cg"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Me Enamoro de Ella",
+      "url": "https://open.spotify.com/track/7jizO2haWuR6oc0i9tprIb"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "El Poder de la M\u00fasica",
         "url": "https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 275252,
       "name": "El Mono",
       "url": "https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026T\u00fa",
-        "url": "https://open.spotify.com/album/2NjuELUKBF6Uu0vIZX26Cg"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "Me Enamoro de Ella",
-      "url": "https://open.spotify.com/track/7jizO2haWuR6oc0i9tprIb"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Sonora Carruseles",
+          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
         }
       ],
-      "duration_ms": 259812,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
+      "duration_ms": 216120,
+      "name": "Arranca en F\u00e1",
+      "url": "https://open.spotify.com/track/4IQeMjVi0BzCeTyP280ZGx"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu"
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
       },
       "artists": [
         {
-          "name": "Sonora Carruseles",
-          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 216120,
-      "name": "Arranca en F\u00e1",
-      "url": "https://open.spotify.com/track/4IQeMjVi0BzCeTyP280ZGx"
+      "duration_ms": 259812,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Super \u00c9xitos Maracaibo 15",
         "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "La Maquina del Sabor '88",
         "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 196240,
-      "name": "Viejo A\u00f1o",
-      "url": "https://open.spotify.com/track/7qThJQYcDMwvEFTcQQHEHV"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 184360,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/6lXXaW5RkLN5Ids6lYdrA9"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Viejo A\u00f1o",
+      "url": "https://open.spotify.com/track/7qThJQYcDMwvEFTcQQHEHV"
     },
     {
       "added_at": "2023-12-15 19:49:30",

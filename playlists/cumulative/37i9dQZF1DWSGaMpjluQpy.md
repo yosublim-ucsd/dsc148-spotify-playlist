@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-124 songs - 7 hr 12 min
+125 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Misty Morning](https://open.spotify.com/track/7wYnL2pk7S3VqiiraH0DIi) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Midnight Midtown Jazz \(Rain\)](https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC) | 3:16 | 2023-04-27 |  |
 | [Monday thunder](https://open.spotify.com/track/6ZQb3pCXG9c7gMCxX5Sf6B) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town rain and thunder](https://open.spotify.com/album/2pDEdJ0ANr2omZ1ww8jXwF) | 2:56 | 2023-09-01 |  |
 | [My Roses](https://open.spotify.com/track/2iY8BxUCYmtQkqU9igxNp4) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:39 | 2023-04-27 |  |
-| [My Tears](https://open.spotify.com/track/00cOVMkWHzwMWzYNGOBmF2) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [My Tears](https://open.spotify.com/album/1QAWyemipLW254r7eEbgov) | 3:53 | 2023-04-27 |  |
+| [My Tears](https://open.spotify.com/track/00cOVMkWHzwMWzYNGOBmF2) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [My Tears](https://open.spotify.com/album/1QAWyemipLW254r7eEbgov) | 3:53 | 2023-04-27 | 2024-04-03 |
 | [Myren](https://open.spotify.com/track/4JLkZzfYVaXBi1JtXTOdje) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:38 | 2023-04-27 |  |
 | [Neighbourhoods](https://open.spotify.com/track/43eFgyZEkQKOEivmUlxX9A) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Neighbourhoods](https://open.spotify.com/album/6qVnzW9CV9vYruMWeVehCN) | 3:33 | 2023-04-27 |  |
 | [Night and Day](https://open.spotify.com/track/6JJ7JnW8fJZLrAbMMBkttV) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [Night and Day](https://open.spotify.com/album/22oIgys6iXgc13DKLKkwet) | 2:38 | 2023-04-27 |  |
@@ -125,6 +125,7 @@
 | [Under My Umbrella](https://open.spotify.com/track/18kKrkIzW4NO0WKRVPtyqT) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Under My Umbrella](https://open.spotify.com/album/7KAotzp6Y8jn1byQJeo3SC) | 3:59 | 2023-04-27 |  |
 | [Velvet Moon](https://open.spotify.com/track/2jbL9THwH9EQ8MdRgbp7Lx) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [Velvet Moon](https://open.spotify.com/album/4pcLOa1SDpLc0edJ0wIAop) | 1:52 | 2023-04-27 | 2023-08-26 |
 | [Vesper \- Rainy Jazz](https://open.spotify.com/track/7ehvwDE0lWKvVsYcXQ5CzZ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper \(Rainy Jazz\)](https://open.spotify.com/album/5Pn68JjCb2TRPlLX1VBLls) | 4:15 | 2023-04-27 |  |
+| [What's More?](https://open.spotify.com/track/2QVnPUl043doBv8EhSFSWv) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [What's More?](https://open.spotify.com/album/12Vi3uObilz0KLoH4yZvdJ) | 3:23 | 2024-04-02 |  |
 | [What's New \(Rain\)](https://open.spotify.com/track/0hE4grfejgr0R9cKPytQCC) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [What's New \(Rain\)](https://open.spotify.com/album/7gRcOMFZccNOd9sKAjqGRA) | 4:44 | 2023-08-03 |  |
 | [When You Are Around \- Rain Version](https://open.spotify.com/track/0x2unn4VUE8F2lwPjejUpy) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around \(Rain Version\)](https://open.spotify.com/album/61kKdQ5qVAB9Uwkm3PBOcn) | 3:14 | 2023-04-27 |  |
 | [Where Do You Start \- With Rain](https://open.spotify.com/track/4IQfHeEVSa7TEPslEJLZ3D) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Where Do You Start \- Rain version](https://open.spotify.com/album/6a7UDC6qE0e23mho3CW21C) | 3:14 | 2023-04-27 |  |

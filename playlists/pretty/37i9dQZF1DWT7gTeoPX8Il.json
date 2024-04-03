@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 110087,
+  "num_followers": 110140,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGY4NDBhNzllNzhlZjI5Zjk0YjY4MzEwNTQxOGI2Y2E1YTBkN2Jm",
+  "snapshot_id": "MCw4Y2JkMzRkOTIzN2U5MzFiNGYzYjE0Y2E2ODIwYWFlYzM0ODY1YjVj",
   "tracks": [
     {
       "added_at": "2024-03-07 16:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
-        "name": "Jiwa Yang Bersedih",
-        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 278219,
-      "name": "Jiwa Yang Bersedih",
-      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
         "name": "Andra & The Backbone",
         "url": "https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 268422,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Jiwa Yang Bersedih",
+        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 278219,
+      "name": "Jiwa Yang Bersedih",
+      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -363,6 +363,26 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
+        "name": "Masih Hatiku",
+        "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
+      },
+      "artists": [
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "duration_ms": 262341,
+      "name": "Masih Hatiku",
+      "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 261476,
       "name": "Lagu Pernikahan Kita",
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
-        "name": "Masih Hatiku",
-        "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
-      },
-      "artists": [
-        {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
-        },
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        }
-      ],
-      "duration_ms": 262341,
-      "name": "Masih Hatiku",
-      "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
         "name": "ASHER",
         "url": "https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
-        "name": "f\u00e1bula",
-        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
         "name": "Seperti Seharusnya",
         "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 266306,
       "name": "Separuh Aku",
       "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
-        "name": "Semua Aku Dirayakan",
-        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 310625,
-      "name": "Semua Aku Dirayakan",
-      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -731,6 +715,22 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
+        "name": "Semua Aku Dirayakan",
+        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 310625,
+      "name": "Semua Aku Dirayakan",
+      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
         "name": "Naluri Lelaki (Special Edition)",
         "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Pelangi",
+      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 275900,
       "name": "Tega",
       "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Pelangi",
-      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
     },
     {
       "added_at": "2024-03-07 16:00:00",

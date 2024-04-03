@@ -2477,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "City Warm Heart",
+        "url": "https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181069,
+      "name": "City Warm Heart",
+      "url": "https://open.spotify.com/track/3nqjxIyCFr72mrgbUvxX0y"
+    },
+    {
+      "album": {
         "name": "Tracey Denim",
         "url": "https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn"
       },

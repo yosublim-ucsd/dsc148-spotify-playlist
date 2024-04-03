@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,514 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,533 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Let's Talk](https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO) | 3:53 |
 | 99 | [Like You Boy](https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Like You Boy](https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe) | 2:49 |
 
-Snapshot ID: `MCwzNjdjZjg5YzFjYjEyYmNmOWQ4MzA0ZWExNDI5MzdlODJkZTJkOTY2`
+Snapshot ID: `MCwyYjE5ZmQ3M2M2ZjA4MWUzNTA2NjMyNjdkZTlhOTZkMjBmYzAwMjA1`

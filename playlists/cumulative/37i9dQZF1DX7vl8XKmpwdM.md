@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Jigarthanda DoubleX
 
-126 songs - 7 hr 33 min
+127 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Vandha Edam \(From "Jawan"\)](https://open.spotify.com/track/1qiTVMkwHOy7bD8DCU460Q) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Vandha Edam \(From "Jawan"\)](https://open.spotify.com/album/1sFX6xAasGOFbjJIKpbrtC) | 4:12 | 2023-07-31 |  |
 | [Veeran Thiruvizha \(From "Veeran"\)](https://open.spotify.com/track/4RgswzHJdeY8YhzEknzQwy) | [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0), [Pranavam Sasi](https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Veeran Thiruvizha \(From "Veeran"\)](https://open.spotify.com/album/0Zf1DRmbm3Cg6Tm2czi8sI) | 3:41 | 2023-08-07 |  |
 | [Venaam Thalaiva Adviceu](https://open.spotify.com/track/5oSFIFYf3vdzi2pkAIgk7I) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [DSP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UgjttUimzckiOaK6CdlN8) | 4:19 | 2022-11-28 | 2023-03-29 |
+| [Vibe Aavoma \(From "The Boys"\)](https://open.spotify.com/track/4snJxO6JxzjzSjYUQ419lU) | [Arun Gautham](https://open.spotify.com/artist/3OreWdk2YUILJKiomoy0l1), [Soup Sparrow](https://open.spotify.com/artist/31xTgl4VupV4AqU7QhvRzn) | [Vibe Aavoma \(From "The Boys"\)](https://open.spotify.com/album/2hP6OrcprFiZEb62JOzQax) | 3:16 | 2024-04-02 |  |
 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 | 2022-05-15 |  |
 | [Whistle Song](https://open.spotify.com/track/23twnOHFOjwwvLP6PGXamk) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/3EwO4dSwucabYpmiSgVDjJ) | 3:22 | 2022-06-22 | 2022-08-08 |
 | [Who Am I ?](https://open.spotify.com/track/1zPlQih67ZvC3Xp6c2dxUI) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Prince \(Tamil\)](https://open.spotify.com/album/768hQJ2fKFv4Lq4TE0J1Hj) | 4:03 | 2022-10-14 |  |

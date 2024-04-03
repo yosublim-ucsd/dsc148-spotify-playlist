@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 135185,
+  "2024-04-03": 135185,
   "date_first_scraped": "2021-12-29",
   "description": "You feel the sun on your face. ",
   "name": "Vintage Vibes: Sunny Reggae",
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 233653,
       "name": "Drum Song",
       "url": "https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU"
@@ -1817,7 +1817,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 117866,
       "name": "There's a Fire",
       "url": "https://open.spotify.com/track/7EhKVBUrL5dd7VNZDXGpiD"

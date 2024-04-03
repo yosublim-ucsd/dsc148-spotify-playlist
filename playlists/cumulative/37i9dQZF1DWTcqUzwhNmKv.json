@@ -2131,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "Death Is Little More",
+        "url": "https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199127,
+      "name": "Cursed To Remember",
+      "url": "https://open.spotify.com/track/3WDS1O96myK2bjE9FQudID"
+    },
+    {
+      "album": {
         "name": "Cut Me Open",
         "url": "https://open.spotify.com/album/4I6HDYKbgn6ImOpvgUqyNV"
       },

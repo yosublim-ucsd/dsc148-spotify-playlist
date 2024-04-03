@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 366549,
+  "2024-04-03": 366545,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -461,6 +461,24 @@
       "duration_ms": 118750,
       "name": "12 Stout Street",
       "url": "https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g"
+    },
+    {
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "16 CARRIAGES",
+      "url": "https://open.spotify.com/track/7x5ziCOQFir0AQN8dFisK6"
     },
     {
       "album": {
@@ -5973,7 +5991,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -25531,7 +25549,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -38929,6 +38947,28 @@
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
+    },
+    {
+      "album": {
+        "name": "Snitch",
+        "url": "https://open.spotify.com/album/3vC2QduT5CosYc2RtvXLS3"
+      },
+      "artists": [
+        {
+          "name": "ATL WDG AOB 1017",
+          "url": "https://open.spotify.com/artist/0ZaCNWIXYn5j7Yo7wY8l0i"
+        },
+        {
+          "name": "Big Scarrr",
+          "url": "https://open.spotify.com/artist/1O985iaAAjJBHkAiEM5DlL"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94794,
+      "name": "Snitch",
+      "url": "https://open.spotify.com/track/4qbQPkdHEdEz5cioqL7Not"
     },
     {
       "album": {

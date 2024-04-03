@@ -4,7 +4,7 @@
 
 > A new wave of rock music\. Cover: EEVAH
 
-335 songs - 18 hr 11 min
+336 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Crowd](https://open.spotify.com/track/5btcktwEOwwLGjg4ZOXU8A) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [Crowd](https://open.spotify.com/album/4mbuha3EQeT0RRqONrzNfD) | 3:12 | 2023-08-24 | 2024-02-09 |
 | [Cut Your Face](https://open.spotify.com/track/0lO6kfb48tlpVBAlJnTGjO) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Cut Your Face](https://open.spotify.com/album/0b2IAxWPZLraVt4Sfrl2cT) | 4:46 | 2023-08-10 | 2024-02-09 |
 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 | 2024-02-09 |  |
-| [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 | 2024-02-09 |  |
+| [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 | 2024-02-09 | 2024-04-03 |
+| [D.I.A.D.](https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 2:57 | 2024-03-29 |  |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-01-26 |  |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-13 | 2023-03-25 |
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-17 | 2024-02-09 |

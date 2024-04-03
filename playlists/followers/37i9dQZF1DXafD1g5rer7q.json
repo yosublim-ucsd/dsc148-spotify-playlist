@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 395166,
+  "2024-04-03": 395310,
   "date_first_scraped": "2022-04-20",
   "description": "Create the new vibe by mixing in the retro sounds.",
   "name": "EDM Samplings",
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 162425,
       "name": "Let Me Hold You (Turn Me On)",
       "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
@@ -4091,7 +4091,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 132775,
       "name": "Weekend (feat. Emelie Cyr\u00e9us)",
       "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"

@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Bechaini",
+        "url": "https://open.spotify.com/album/3NrPok10d8tNHitQnRM4yP"
+      },
+      "artists": [
+        {
+          "name": "OAFF",
+          "url": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
+        },
+        {
+          "name": "Adarsh Gourav",
+          "url": "https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Bechaini",
+      "url": "https://open.spotify.com/track/6f18ZZhJnm1rMxaATYWQ2g"
+    },
+    {
+      "album": {
         "name": "Befikar",
         "url": "https://open.spotify.com/album/33KloUY2J8WBQI5BisMJ8E"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 239750,
       "name": "Dooriyan",
       "url": "https://open.spotify.com/track/2Xv0vK2VujSX05LGQbDxNd"
@@ -1546,7 +1568,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 211495,
       "name": "Khoya Khoya",
       "url": "https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6"
@@ -3006,7 +3028,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 197850,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/5lhaut6siOfKf5qlkDMaY2"

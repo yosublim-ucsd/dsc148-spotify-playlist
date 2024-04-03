@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 190128,
+  "2024-04-03": 190167,
   "date_first_scraped": "2022-06-30",
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
   "name": "Himnos de Resistencia Latinoamericana",
@@ -2279,7 +2279,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 275327,
       "name": "Grita Tierra",
       "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
@@ -5691,7 +5691,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 226120,
       "name": "Todavia Cantamos",
       "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"

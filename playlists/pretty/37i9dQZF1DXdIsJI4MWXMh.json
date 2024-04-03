@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 65381,
+  "num_followers": 65388,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGNlMTBjMzM1YjYzZmM2NWJiYTc2NjAwMGU5YmVkMDk3YWUzZmE2",
+  "snapshot_id": "MCw4MGI3MDMyYmIwMTdiMjViODkwNjExNWU1NjJmODgxNzE0NzhhYjQx",
   "tracks": [
     {
       "added_at": "2023-10-05 22:49:47",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+      },
+      "artists": [
+        {
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        }
+      ],
+      "duration_ms": 337535,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Me Voy a Lanzar",
         "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Voy a Ser",
-        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
-      },
-      "artists": [
-        {
-          "name": "Talismanes del Ritmo y del amor",
-          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Aliado del Tiempo",
         "url": "https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ"
       },
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+        "name": "Voy a Ser",
+        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
       },
       "artists": [
         {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+          "name": "Talismanes del Ritmo y del amor",
+          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
         }
       ],
-      "duration_ms": 337535,
-      "name": "Dime Qui\u00e9n Es",
-      "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
+      "duration_ms": 237840,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "La Chupilca",
-        "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
-      },
-      "artists": [
-        {
-          "name": "Josepth el Ranchero",
-          "url": "https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT"
-        }
-      ],
-      "duration_ms": 175205,
-      "name": "La Chupilca",
-      "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 210693,
       "name": "Mil Cantinas",
       "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "La Chupilca",
+        "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
+      },
+      "artists": [
+        {
+          "name": "Josepth el Ranchero",
+          "url": "https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT"
+        }
+      ],
+      "duration_ms": 175205,
+      "name": "La Chupilca",
+      "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Vuelve la Mezcla Perfecta",
-        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
-        }
-      ],
-      "duration_ms": 268053,
-      "name": "Vamos a Amarla los Dos",
-      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 174033,
       "name": "La Puntada",
       "url": "https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Vuelve la Mezcla Perfecta",
+        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Vamos a Amarla los Dos",
+      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
     },
     {
       "added_at": "2023-10-05 22:49:47",

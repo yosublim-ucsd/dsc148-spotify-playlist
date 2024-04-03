@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Nanpa Básico & Pj Sin Suela
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,279 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,313 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 89 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 |
 | 90 | [PEGAO](https://open.spotify.com/track/06AeysOdGsT32fTpBRGik6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:23 |
 | 91 | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo) | 3:33 |
-| 92 | [Una Pistola y Un Toque](https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Una Pistola y Un Toque](https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK) | 3:54 |
-| 93 | [Trap Life](https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Trap Life](https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh) | 3:09 |
+| 92 | [Trap Life](https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Trap Life](https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh) | 3:09 |
+| 93 | [Una Pistola y Un Toque](https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Una Pistola y Un Toque](https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK) | 3:54 |
 | 94 | [Maradona](https://open.spotify.com/track/42HcEeL1pumhrTRF62ssz8) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Haciéndolo Fino](https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl) | 3:33 |
 | 95 | [Te Encontré](https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Te Encontré](https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9) | 3:42 |
 | 96 | [Pablito y el Pelon](https://open.spotify.com/track/2GFmz2XgfZcU0tUN4aMxRJ) | [Pablito Calavera](https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pablito y el Pelon](https://open.spotify.com/album/6qh2XoiQJTS2MlD70WxR90) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 99 | [Holy Shit \- Remix](https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holy Shit \(Remix\)](https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1) | 3:27 |
 | 100 | [Santo Grial](https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 5:51 |
 
-Snapshot ID: `MCwxNWJlMDIyNzUzODg1ZGEyZTYwMTdhZTMxNDYzZjE1MmY3Njg0ZTZj`
+Snapshot ID: `MCw0M2UwZWIwNDIxYjQ5YTdiY2IyNTNiNjZlMjQ0ODgwMzdmYTJiMTlk`

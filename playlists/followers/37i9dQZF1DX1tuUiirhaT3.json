@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 875329,
+  "2024-04-03": 875489,
   "date_first_scraped": "2021-12-21",
   "description": "Calm ambient music with gentle nature sounds.",
   "name": "Meditate to the Sounds of Nature",
@@ -57,6 +57,24 @@
       "duration_ms": 216000,
       "name": "432hz Healing Breath",
       "url": "https://open.spotify.com/track/619a0hCjOWgTYnJ6pGYm6A"
+    },
+    {
+      "album": {
+        "name": "432hz Resonant Creek",
+        "url": "https://open.spotify.com/album/6dfduJ79Cg8wiLInP5Qba2"
+      },
+      "artists": [
+        {
+          "name": "Jarra",
+          "url": "https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171208,
+      "name": "432hz Resonant Creek",
+      "url": "https://open.spotify.com/track/7yEf9a0t2fYFUwvPGhHWPh"
     },
     {
       "album": {
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 250589,
       "name": "Aware of Everything",
       "url": "https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU"
@@ -455,6 +473,24 @@
       "duration_ms": 229057,
       "name": "Backwood Recline",
       "url": "https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/1ZpWv0y6YexjvdcJRDXMPY"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205804,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/34ouZf9PLM1YyFbWAgtbM8"
     },
     {
       "album": {
@@ -487,7 +523,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 187118,
       "name": "Binaural Alpha Sinus 147Hz - 161Hz",
       "url": "https://open.spotify.com/track/2kCGylqSWKkXjLws0ZpQcK"
@@ -566,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7ak43OrDCHmUcCtdnZpsAY"
+      },
+      "artists": [
+        {
+          "name": "D'Verti",
+          "url": "https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155366,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6O9l7A57SQ4Z5VwSKyu0UH"
+    },
+    {
+      "album": {
         "name": "Blue Lagoon",
         "url": "https://open.spotify.com/album/7eJ4LCFtQiBgMY3dQrSU6O"
       },
@@ -577,7 +631,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 246692,
       "name": "Blue Lagoon",
       "url": "https://open.spotify.com/track/0LH00hv3INJ0z0STsmR1mB"
@@ -613,7 +667,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 164504,
       "name": "Bow of Life",
       "url": "https://open.spotify.com/track/6x2tKZt7RJuBCWMkRPPBFP"
@@ -721,7 +775,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 253691,
       "name": "Breathing Exercises",
       "url": "https://open.spotify.com/track/0cpoVOyJt4YKN8Q2mQEFNi"
@@ -739,7 +793,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 155460,
       "name": "Brisa De Verano",
       "url": "https://open.spotify.com/track/4BjYXL2qVJcVv9Vr3hUa0P"
@@ -761,6 +815,24 @@
       "duration_ms": 159033,
       "name": "Bubblecave Soothe",
       "url": "https://open.spotify.com/track/6370D5hodxRUVaYgczjlWQ"
+    },
+    {
+      "album": {
+        "name": "By the Stream",
+        "url": "https://open.spotify.com/album/4mf8t89HKNOizzEu8FQc5T"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "By the Stream",
+      "url": "https://open.spotify.com/track/65LSaoUF97lGOO33OTQYEG"
     },
     {
       "album": {
@@ -955,7 +1027,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 154246,
       "name": "Conscious Jorney",
       "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
@@ -1081,7 +1153,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 166375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl"
@@ -1297,7 +1369,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 163404,
       "name": "Endlessness",
       "url": "https://open.spotify.com/track/56Hx2TNbbWeEk3I3H1Tzgz"
@@ -1535,7 +1607,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 180286,
       "name": "Fields of Freedom",
       "url": "https://open.spotify.com/track/3P2qRm6lSpHxDbDOLtbOWo"
@@ -1589,7 +1661,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 139000,
       "name": "First Ray of Sun",
       "url": "https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH"
@@ -1751,7 +1823,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 145800,
       "name": "From Shores To Mountains",
       "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
@@ -2093,7 +2165,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 207105,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/65MkFWA6FFrNfc33xuMy2N"
@@ -2183,7 +2255,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 174000,
       "name": "In Your Dreams",
       "url": "https://open.spotify.com/track/6RBnMISN2wQqniaEuLwZI5"
@@ -2255,7 +2327,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 147250,
       "name": "Jade",
       "url": "https://open.spotify.com/track/55GdkEWWsoj8JlXVXCGY4j"
@@ -2309,7 +2381,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 240000,
       "name": "Jubran's Lake (432hz)",
       "url": "https://open.spotify.com/track/4P5fMFcTqzz8yEPMT9bF8d"
@@ -2327,7 +2399,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 151532,
       "name": "La pluie de Saint Michel",
       "url": "https://open.spotify.com/track/3qEJ0eRAf40TTrofN7rmP7"
@@ -2345,7 +2417,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 152998,
       "name": "Lapse of Time",
       "url": "https://open.spotify.com/track/7qgX4p0tNEfxWarc1KgY6d"
@@ -2453,7 +2525,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 191938,
       "name": "Lion's Breath",
       "url": "https://open.spotify.com/track/0ifTzLcsRUIqaYH8DfiLbx"
@@ -2579,7 +2651,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 254913,
       "name": "Magnetic Dream",
       "url": "https://open.spotify.com/track/3c3p7n6aV4hHIV4L01dU9c"
@@ -2677,7 +2749,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 188436,
       "name": "Meditation Rain",
       "url": "https://open.spotify.com/track/5KAkvgPSUrEObeFbPuVT5G"
@@ -2713,7 +2785,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 177349,
       "name": "Meditation: By The Stream",
       "url": "https://open.spotify.com/track/1XQ0gGJiVhKqdLf9uhO571"
@@ -2821,7 +2893,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 276125,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6SG0JKsZDBmvzsTIREYqT3"
@@ -2954,6 +3026,24 @@
     },
     {
       "album": {
+        "name": "Natura Deambulatio",
+        "url": "https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2"
+      },
+      "artists": [
+        {
+          "name": "Floating Portal",
+          "url": "https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Natura Deambulatio",
+      "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
+    },
+    {
+      "album": {
         "name": "Natural Healing",
         "url": "https://open.spotify.com/album/724HzfOLKOY1i1vx0f6ziy"
       },
@@ -3055,7 +3145,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 199289,
       "name": "Nightfall at Whitehaven Beach",
       "url": "https://open.spotify.com/track/0X1tKaN8UN1r4DRxOtocSr"
@@ -3145,7 +3235,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 213000,
       "name": "Numerus",
       "url": "https://open.spotify.com/track/3EPRoYFIBqOghG8uXqKD8x"
@@ -3206,6 +3296,24 @@
     },
     {
       "album": {
+        "name": "Ode To Moss",
+        "url": "https://open.spotify.com/album/1tFjJNJ6o1ioVlm7Ru3KU3"
+      },
+      "artists": [
+        {
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193257,
+      "name": "Ode To Moss",
+      "url": "https://open.spotify.com/track/3X5v66feq3JJn1jSnbDrSu"
+    },
+    {
+      "album": {
         "name": "Ok Now",
         "url": "https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd"
       },
@@ -3235,7 +3343,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 136023,
       "name": "Okutama River",
       "url": "https://open.spotify.com/track/16Tm3SlDiUYjZNGqLTsjf6"
@@ -3253,7 +3361,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 203843,
       "name": "On a Rainy Day",
       "url": "https://open.spotify.com/track/6ciunhFDzph45q344AXtyg"
@@ -3361,7 +3469,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 294000,
       "name": "Paranormal (7.5 Hz Theta Binaural Beat)",
       "url": "https://open.spotify.com/track/38p17XCT8NffbrhDx1agST"
@@ -3595,10 +3703,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 181000,
       "name": "Rays Of Light",
       "url": "https://open.spotify.com/track/2bCFJvVVR7nsLAZCobtTFI"
+    },
+    {
+      "album": {
+        "name": "Re-Noble",
+        "url": "https://open.spotify.com/album/7rs0nhwFQYWW8HdCcM6hoo"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Re-Noble",
+      "url": "https://open.spotify.com/track/0qVQpFem5USc1vcvWK8lum"
     },
     {
       "album": {
@@ -3613,7 +3739,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 196000,
       "name": "Reche Drone In Rain",
       "url": "https://open.spotify.com/track/5TdsdSdpWUPgeO4a4W2Qsa"
@@ -3649,7 +3775,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 177577,
       "name": "Recreation And Peace",
       "url": "https://open.spotify.com/track/1oQmOuEApsxo5SKBiToT7m"
@@ -3793,7 +3919,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 133333,
       "name": "Ringlo",
       "url": "https://open.spotify.com/track/4ARkXV21WeehAaRFhGNCW1"
@@ -3829,7 +3955,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 125217,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/1Hwpy1vK4hFoEcdO25w6eu"
@@ -4027,7 +4153,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 260883,
       "name": "Sapphire Destiny",
       "url": "https://open.spotify.com/track/4MX7s8DZ4nIAWhtPzaUK41"
@@ -4063,7 +4189,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 184250,
       "name": "Sea Of Colors",
       "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
@@ -4081,7 +4207,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 193333,
       "name": "Sea Waves",
       "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
@@ -4135,7 +4261,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 208000,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/5J3JVWp8y6lQxVvBZTuh1p"
@@ -4153,7 +4279,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 147833,
       "name": "Selcouth",
       "url": "https://open.spotify.com/track/5NJqnJDQV6lFBeNfRu7Buq"
@@ -4171,7 +4297,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 271160,
       "name": "Self-Healing, Vol. 2 - Pt. 13 (subliminal)",
       "url": "https://open.spotify.com/track/26IT74ZDpOmplNGd68E1de"
@@ -4279,7 +4405,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 240042,
       "name": "Shoreline Waves",
       "url": "https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8"
@@ -4301,6 +4427,24 @@
       "duration_ms": 210681,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/18ASLynW0wviGgoxqceQNB"
+    },
+    {
+      "album": {
+        "name": "Sinergia",
+        "url": "https://open.spotify.com/album/3RjsEGVnhEn38KrWoiouLV"
+      },
+      "artists": [
+        {
+          "name": "Everglades",
+          "url": "https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Sinergia",
+      "url": "https://open.spotify.com/track/0iBu4dSNpYnbaHjJL92LrO"
     },
     {
       "album": {
@@ -4358,6 +4502,24 @@
     },
     {
       "album": {
+        "name": "Soixante Forest",
+        "url": "https://open.spotify.com/album/2n4PRDmk2gfcsmtPTl5mGJ"
+      },
+      "artists": [
+        {
+          "name": "Drew-10",
+          "url": "https://open.spotify.com/artist/0Xlsc8iACDFB2p9Y0XT6qs"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Soixante Forest",
+      "url": "https://open.spotify.com/track/24IeEGwVyVsIWZXg3c6JTX"
+    },
+    {
+      "album": {
         "name": "Cimarron Plains",
         "url": "https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O"
       },
@@ -4369,7 +4531,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 210583,
       "name": "Solemn Flight",
       "url": "https://open.spotify.com/track/0krOu7GP4oAfj5dQUxvUcM"
@@ -4423,7 +4585,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 200727,
       "name": "Spectral Stone",
       "url": "https://open.spotify.com/track/6Rus9WFFNWmwink9FBzhjw"
@@ -4477,7 +4639,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 202000,
       "name": "Star Fall",
       "url": "https://open.spotify.com/track/36fypxNE8YqAnpebSfOegA"
@@ -4693,7 +4855,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 171992,
       "name": "Temples of Qufu",
       "url": "https://open.spotify.com/track/33Pu5YVliAyFlf7aB7e8Q9"
@@ -4747,7 +4909,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 243909,
       "name": "The Glimmer Behind",
       "url": "https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0"
@@ -4819,7 +4981,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 175000,
       "name": "The Mystic",
       "url": "https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft"
@@ -4877,7 +5039,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 205714,
       "name": "The Sun Has Risen - Instrumental",
       "url": "https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo"
@@ -5291,7 +5453,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 148981,
       "name": "Waves Music Relax",
       "url": "https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l"
@@ -5381,7 +5543,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 220187,
       "name": "Wide Transfers",
       "url": "https://open.spotify.com/track/04XwIlZo2CWJU0OUdnVFFw"

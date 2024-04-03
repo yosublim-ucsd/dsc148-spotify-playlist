@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 134388,
+  "2024-04-03": 134391,
   "date_first_scraped": "2022-07-19",
   "description": "Canciones instrumentales de guitarra.",
   "name": "Guitarra Tranquila",
@@ -4537,7 +4537,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 167266,
       "name": "Hendaye",
       "url": "https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau"
@@ -10303,6 +10303,24 @@
       "duration_ms": 114375,
       "name": "Te quiero hasta la muerte",
       "url": "https://open.spotify.com/track/38GYfritueLqRIxoK1AVzX"
+    },
+    {
+      "album": {
+        "name": "Tears but Not of Pain",
+        "url": "https://open.spotify.com/album/49im8S6HBvYk0BHPHWDYh6"
+      },
+      "artists": [
+        {
+          "name": "R.B James",
+          "url": "https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201429,
+      "name": "Tears but Not of Pain",
+      "url": "https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT"
     },
     {
       "album": {

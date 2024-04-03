@@ -2027,6 +2027,28 @@
     },
     {
       "album": {
+        "name": "No Promises to Keep (FINAL FANTASY VII REBIRTH THEME SONG)",
+        "url": "https://open.spotify.com/album/0erg0Ws7MuEO6FimJZmldU"
+      },
+      "artists": [
+        {
+          "name": "Loren Allred",
+          "url": "https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA"
+        },
+        {
+          "name": "\u690d\u677e\u4f38\u592b conTIKI",
+          "url": "https://open.spotify.com/artist/7xP7d3jcx1V33XH4MJxLqC"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360133,
+      "name": "No Promises to Keep - Band ver.",
+      "url": "https://open.spotify.com/track/0b2xiPpc3srVQwEd1Kdgfd"
+    },
+    {
+      "album": {
         "name": "FINAL FANTASY XIII-2 Original Soundtrack",
         "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
@@ -2614,7 +2636,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 136320,
       "name": "Shield of the King - Theme of EPISODE GLADIOLUS",
       "url": "https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7"

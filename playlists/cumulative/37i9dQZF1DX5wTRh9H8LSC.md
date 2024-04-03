@@ -4,7 +4,7 @@
 
 > Listen Heroine's music 24 Hours.
 
-52 songs - 2 hr 46 min
+53 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [When We Disco \(Duet with SUNMI\)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 | 2022-03-11 | 2023-06-06 |
 | [Who am I](https://open.spotify.com/track/2LMo8WtAlG7BOGZt9jC1gt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:52 | 2023-04-03 |  |
 | [Who Am I](https://open.spotify.com/track/2mCm2BC5rNsX4dCe0IedxS) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:52 | 2022-03-11 | 2023-08-07 |
-| [YOU \(feat\. SUNMI\)](https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:21 | 2022-03-11 |  |
+| [YOU \(feat\. SUNMI\)](https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:21 | 2022-03-11 | 2024-04-03 |
+| [You \(feat.Sunmi\)](https://open.spotify.com/track/7uc31Hihl77qcFRlMnWUQ8) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SOLO DAY](https://open.spotify.com/album/5kw2bbCEsZtQkCxfRLMiyD) | 3:21 | 2023-11-03 |  |
 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 | 2022-03-11 |  |
 | [가라고 \(Gotta Go\)](https://open.spotify.com/track/7xY4ZyZ8v7Crjtu3Esmnql) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [XX \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0ftTaGQKUoSrBKH4ZqWIxq) | 2:59 | 2023-04-03 |  |
 | [곡선](https://open.spotify.com/track/4F0zJatuBIKVCaezK26Uvo) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR) | 3:37 | 2022-03-11 | 2022-07-29 |

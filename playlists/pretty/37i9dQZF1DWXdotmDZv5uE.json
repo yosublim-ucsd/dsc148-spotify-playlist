@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 131508,
+  "num_followers": 131515,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2VmOWYyYmU1MWVlOWMzNmI5MGJmOTQxYzZmYmQ3YjFlZWEyOWIz",
+  "snapshot_id": "MCwyNjIyOGFiYzFiMWVkMjkzNGJiY2NhYjhjNGFiOWI5ZWM4MTYwYWFl",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "Sones Jarochos - Los Nacionales De Jacinto Gatica - Feria Mexicana",
         "url": "https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Mis Rancheras Favoritas",
         "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
       },
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Caf\u00e9 Caf\u00e9",
-        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+        "name": "Caribe Mar Sincopado",
+        "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
       },
       "artists": [
         {
-          "name": "Radio Jarocho",
-          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+          "name": "Son De Madera",
+          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
         }
       ],
-      "duration_ms": 238586,
-      "name": "Caf\u00e9 Caf\u00e9",
-      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+      "duration_ms": 294000,
+      "name": "El Balaj\u00fa",
+      "url": "https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Caribe Mar Sincopado",
-        "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
+        "name": "Caf\u00e9 Caf\u00e9",
+        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
       },
       "artists": [
         {
-          "name": "Son De Madera",
-          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
+          "name": "Radio Jarocho",
+          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
         }
       ],
-      "duration_ms": 294000,
-      "name": "El Balaj\u00fa",
-      "url": "https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX"
+      "duration_ms": 238586,
+      "name": "Caf\u00e9 Caf\u00e9",
+      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Chapultepec",
-      "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Huapangos",
         "url": "https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 227600,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
+      },
+      "artists": [
+        {
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Chapultepec",
+      "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "\u00a1caramba Ni\u00f1o!",
-        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
-      },
-      "artists": [
-        {
-          "name": "Chuchumb\u00e9",
-          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "La Iguana",
-      "url": "https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
         "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 208040,
       "name": "El chuchumbe",
       "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "\u00a1caramba Ni\u00f1o!",
+        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
+      },
+      "artists": [
+        {
+          "name": "Chuchumb\u00e9",
+          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "La Iguana",
+      "url": "https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Por Los Caminos Del Sur",
-        "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
+        "name": "M\u00e9xico a Trav\u00e9s de Su M\u00fasica, Vol. 2",
+        "url": "https://open.spotify.com/album/3n1tF3hpO0VckyHjALFjKf"
       },
       "artists": [
         {
-          "name": "Costa M\u00eda Orquesta",
-          "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
-        },
-        {
-          "name": "Vania Fortuna",
-          "url": "https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF"
+          "name": "NMR Digital",
+          "url": "https://open.spotify.com/artist/442IRNWLgO6H9bvlsI3arN"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Por Los Caminos Del Sur",
-      "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
+      "duration_ms": 210520,
+      "name": "Alejandra",
+      "url": "https://open.spotify.com/track/1wZGZOgoKofwwHC633FDPI"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -979,18 +975,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "M\u00e9xico a Trav\u00e9s de Su M\u00fasica, Vol. 2",
-        "url": "https://open.spotify.com/album/3n1tF3hpO0VckyHjALFjKf"
+        "name": "Por Los Caminos Del Sur",
+        "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
       },
       "artists": [
         {
-          "name": "NMR Digital",
-          "url": "https://open.spotify.com/artist/442IRNWLgO6H9bvlsI3arN"
+          "name": "Costa M\u00eda Orquesta",
+          "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
+        },
+        {
+          "name": "Vania Fortuna",
+          "url": "https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Alejandra",
-      "url": "https://open.spotify.com/track/1wZGZOgoKofwwHC633FDPI"
+      "duration_ms": 158000,
+      "name": "Por Los Caminos Del Sur",
+      "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Binni Gula'za",
-          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Ra Bacheeza",
-      "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "\u00a1caramba Ni\u00f1o!",
         "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 397133,
       "name": "La Gallina",
       "url": "https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Binni Gula'za",
+          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Ra Bacheeza",
+      "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Son Jarocho",
+        "url": "https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu"
+      },
+      "artists": [
+        {
+          "name": "Pa' Sumecha",
+          "url": "https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka"
+        }
+      ],
+      "duration_ms": 595746,
+      "name": "Candela / Morena",
+      "url": "https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "No Tiene Fin",
         "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 317133,
       "name": "La Herlinda",
       "url": "https://open.spotify.com/track/6iOHL0IaRWiynHxNrQMTbn"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "Son Jarocho",
-        "url": "https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu"
-      },
-      "artists": [
-        {
-          "name": "Pa' Sumecha",
-          "url": "https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka"
-        }
-      ],
-      "duration_ms": 595746,
-      "name": "Candela / Morena",
-      "url": "https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+        "name": "Recordando A Antonio Bribiesca",
+        "url": "https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08"
       },
       "artists": [
         {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+          "name": "Antonio Bribiesca",
+          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
         }
       ],
-      "duration_ms": 345320,
-      "name": "El Siquisir\u00ed",
-      "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
+      "duration_ms": 185600,
+      "name": "Rayando El Sol",
+      "url": "https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Recordando A Antonio Bribiesca",
-        "url": "https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08"
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
       },
       "artists": [
         {
-          "name": "Antonio Bribiesca",
-          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Rayando El Sol",
-      "url": "https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J"
+      "duration_ms": 345320,
+      "name": "El Siquisir\u00ed",
+      "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
-        "url": "https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp"
-      },
-      "artists": [
-        {
-          "name": "Dueto Caleta",
-          "url": "https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "M\u00e9xico 2010 El Salterio",
         "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 161866,
       "name": "Ay Jalisco No Te Rajes",
       "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
+        "url": "https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp"
+      },
+      "artists": [
+        {
+          "name": "Dueto Caleta",
+          "url": "https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
         "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 267720,
       "name": "Lindas Mexicanas",
       "url": "https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "La raspa",
-      "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Marimbas Y Regional Vol. 1",
         "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 181465,
       "name": "Ansia Marimba",
       "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "La raspa",
+      "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
     },
     {
       "added_at": "2023-05-09 18:01:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Sheyna Gee, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,064 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,099 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 73 | [Let's Get Lost](https://open.spotify.com/track/0JT5EMlK5LsbqzgLo8zSfM) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Lane Pittman](https://open.spotify.com/album/2v7F41pwlVNYT1FI4u5q7z) | 2:29 |
 | 74 | [Slow Dance Around It](https://open.spotify.com/track/6itc7x6RZ9YZMHiAOGObZK) | [Bryan Lanning](https://open.spotify.com/artist/4lBpdC0ZU9G6dm05V1XAq7) | [Slow Dance Around It](https://open.spotify.com/album/5xONxmLxL6nyPymXIuPi7b) | 3:25 |
 | 75 | [Pink Collar](https://open.spotify.com/track/6JB3Sbopc83XEUrDAONUSh) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Pink Collar](https://open.spotify.com/album/2TYlIzR4WVAojASFTiMaaR) | 3:12 |
-| 76 | [Pour A Little Whiskey On It](https://open.spotify.com/track/1ynTZCM8azsfwEeyoVzM1U) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Onto Something](https://open.spotify.com/album/0N4JgjwIMdu0a7CDG6DlQR) | 3:58 |
+| 76 | [Pour A Little Whiskey On It](https://open.spotify.com/track/1ynTZCM8azsfwEeyoVzM1U) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Onto Something](https://open.spotify.com/album/0N4JgjwIMdu0a7CDG6DlQR) | 3:49 |
 | 77 | [Don't Take Her Home](https://open.spotify.com/track/5kfx1RL383sxPiytI6iVMr) | [Jeb Bundy](https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6), [Cam Harris](https://open.spotify.com/artist/1piKAEgLs1KDhK0kEEpuSC) | [Don't Take Her Home](https://open.spotify.com/album/2BGHj4gtfgKwqvbKokKz8I) | 2:04 |
 | 78 | [Let You Down](https://open.spotify.com/track/44NyEz6Mmfg1uIKeNtEWLM) | [Faren Rachels](https://open.spotify.com/artist/2HweKwi0jfedpODDq7r2XN) | [Faren's Demo Jail](https://open.spotify.com/album/3tTM1puwIEDXb1OJFOumiZ) | 3:25 |
 | 79 | [Too Long](https://open.spotify.com/track/5e8EOWR28fOYVrwGfK6zZ6) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Too Long](https://open.spotify.com/album/6dX5Kzre3gVtM6Zh5Oh0PI) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 99 | [Bring It On Back](https://open.spotify.com/track/4F6V6Wjb9fyU1rRyR0FswW) | [AUSTIN](https://open.spotify.com/artist/2MKu40myhUVlIgfsrw5Huq) | [Bring It On Back](https://open.spotify.com/album/71l7PuX6JXjJhN5aY3qEef) | 2:41 |
 | 100 | [Colorado](https://open.spotify.com/track/3aY1KcqJBhCdGouzAPR4dR) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Colorado](https://open.spotify.com/album/6mtI40deqlOnkE33XkLyP9) | 3:29 |
 
-Snapshot ID: `MCxmYjc2OTNjYTBmM2M0YzdmZDdlODJhMjY0YzcwYzI1Mjc5MDRhMWE1`
+Snapshot ID: `MCw0NzVlNWI0NDIyZjRmZjAxYTRiNzA4NzA5YWU2ZjQ0ODNhYjBhZmVm`

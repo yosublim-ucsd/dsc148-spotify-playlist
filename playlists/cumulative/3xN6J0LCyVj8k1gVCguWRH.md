@@ -2,9 +2,9 @@
 
 ### [Obama’s Summer Playlist 2024](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> Which is going to be the song of Summer? This is a prediction for 24, plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
+> What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
 
-3,207 songs - 7 day 14 hr 17 min
+3,209 songs - 7 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [Come on Down](https://open.spotify.com/track/5VPQhnJrUqYW2RpT8DnzPD) | [Barry and the Fountains](https://open.spotify.com/artist/61hGCc3LoReqvm3EkT9jkt) | [Come on Down](https://open.spotify.com/album/4mTzoTQnG71Rwjxa42Ubl5) | 4:50 | 2020-07-07 | 2020-07-28 |
 | [Come Over](https://open.spotify.com/track/2wPb2XUn1zJC1eoZLL3ayu) | [Makeda](https://open.spotify.com/artist/0VJ0hhALBSwCZsSaRpA7yB) | [Come Over](https://open.spotify.com/album/7206RW4lLDPLFtlyvcyVBy) | 2:52 | 2023-08-25 | 2023-09-26 |
 | [Come Thrill Me](https://open.spotify.com/track/0iVcaaYltolb2y58szVPN1) | [EJO](https://open.spotify.com/artist/2woz4DZOUXejFMbvWTsUHR) | [Come Thrill Me](https://open.spotify.com/album/3sChc2mfA2KvdaESMOzvaM) | 2:09 | 2022-10-28 | 2022-11-19 |
+| [Come Through](https://open.spotify.com/track/3RMv21IxB0qtv3VtnUkS1F) | [Aranza Alexandria](https://open.spotify.com/artist/2IU9aqaiTABiOz9iSEPnos) | [Come Through](https://open.spotify.com/album/1j5CnDya7ZfE4PGYHnOUcU) | 2:14 | 2024-04-02 |  |
 | [Come Thru](https://open.spotify.com/track/6oQs7LgpbdWYGw4wIT2Ozr) | [Sam Free](https://open.spotify.com/artist/30bRlMs9shQgb59Dfu8fqH) | [Come Thru](https://open.spotify.com/album/6hXefyN52d5ijKaD8R0JCg) | 2:26 | 2021-02-12 | 2021-02-27 |
 | [Come with Me](https://open.spotify.com/track/3elIOLQxtrvJKPVWQ7mA44) | [Brave](https://open.spotify.com/artist/6dEgWyYrv1Jo9BYHMtBrMy), [Ake](https://open.spotify.com/artist/2JXPE7YrSQWyJeU8p97hVo) | [Come with Me](https://open.spotify.com/album/5qJCuewlinsnVExrZpcLDm) | 3:51 | 2020-11-20 | 2020-12-05 |
 | [Comet](https://open.spotify.com/track/3clg6eJNYzSxGSKBH4SG5c) | [Vipid](https://open.spotify.com/artist/1wBjOcSCbNTm95I9blrXyq) | [Comet](https://open.spotify.com/album/3fYYxmwZWZ3AhBuWguyf01) | 4:00 | 2022-09-23 | 2022-10-09 |
@@ -827,6 +828,7 @@
 | [Earhart](https://open.spotify.com/track/5AIQsRzsvKxhN3nZIjonyS) | [David Francisco](https://open.spotify.com/artist/1yOPhRMWrKLa3eUq42PzJg), [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [Earhart](https://open.spotify.com/album/0UrTd0PNLe1ZvFZh9k8Bmm) | 3:25 | 2023-04-21 | 2023-05-13 |
 | [Early Bird](https://open.spotify.com/track/6WhbYfJ7l5Qu0r2g2aoT49) | [Vanilla Woods](https://open.spotify.com/artist/3D5sT2XodUzAhOoxa5Xe2I), [JAHİN](https://open.spotify.com/artist/1l0Xh1Ueebg74GF6w5X7c3) | [Early Bird](https://open.spotify.com/album/5onay1XDwF9zaFPPzG68CF) | 2:45 | 2021-04-17 | 2021-05-03 |
 | [Early Morning](https://open.spotify.com/track/6m6CFlQtnRdxjx9Qa9Tmfg) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [Mirror In a Gold Mine](https://open.spotify.com/album/1kOf4AbczjMcNaRMb4HiVN) | 3:32 | 2024-03-15 | 2024-03-29 |
+| [Ease](https://open.spotify.com/track/1YLz7kcBKxNsQBBbV3uIHS) | [Mia Knop Jacobsen](https://open.spotify.com/artist/6G3moQCTInI4etLFVpmZVR), [Julia Hülsmann](https://open.spotify.com/artist/7kqqWeEtuZ3TZ43iRyXfqB), [Igor Osypov](https://open.spotify.com/artist/6c2rUSLggaT4sgdCjzhM5X), [Marc Muellbauer](https://open.spotify.com/artist/1mjnL7xDPSjOTJOoBx5pE8), [Eva Klesse](https://open.spotify.com/artist/7JUNkNn7gi5dQhD68vZdmI), [mondëna quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Ease](https://open.spotify.com/album/6GLLx0B1ZitLXBlcwxzG1a) | 4:15 | 2024-04-02 |  |
 | [Easier](https://open.spotify.com/track/148cMa7QxQ1mHqORpUX5T2) | [SJK](https://open.spotify.com/artist/754lmgGH5H3dYMpvhE66gF) | [Easier](https://open.spotify.com/album/0rUmHMrwxXUFIjbjHeBDGX) | 3:42 | 2024-01-19 | 2024-01-27 |
 | [Easily](https://open.spotify.com/track/34TqI0ukJWvg2iqo0ZI9NF) | [Grace Abel](https://open.spotify.com/artist/15nU6bw1MjF0s3hnnRU8Ry) | [Easily](https://open.spotify.com/album/3NDATLW5oLq54KNsP6azzf) | 2:57 | 2024-03-02 | 2024-03-14 |
 | [Easy](https://open.spotify.com/track/7dTgnGCBjzfkfYRaB4Q6HI) | [J.K\. Matthews](https://open.spotify.com/artist/33MBiarC2psxSGgAipCIE9) | [Easy](https://open.spotify.com/album/6x3Mf29PUUCH30DvYpOrvp) | 2:59 | 2023-01-27 | 2023-02-18 |
@@ -2263,7 +2265,7 @@
 | [Reach Out I'll Be There](https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:58 | 2023-07-20 |  |
 | [Reaching](https://open.spotify.com/track/3OYkaKbx3bLP1Rt91SylaS) | [KT Laine](https://open.spotify.com/artist/45bWAmOWm6pQPdV3yH9s13) | [Knock Knee](https://open.spotify.com/album/7Mn60NcnLfnAxZfVpQBjNX) | 4:08 | 2022-12-04 | 2023-01-03 |
 | [Ready](https://open.spotify.com/track/4GcfHmZTTUNB72ALAKoQFu) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Ready](https://open.spotify.com/album/6GDTlhYBPBsFWAk847WzMf) | 3:48 | 2021-11-19 | 2021-12-08 |
-| [Real \(Con Un No Se Que\)](https://open.spotify.com/track/0MCd6tYYyPGDs268rlTJrQ) | [Jose Musica](https://open.spotify.com/artist/5ou57wJ8J2MwUbrNnzmTmn) | [Real \(Con Un No Se Que\)](https://open.spotify.com/album/4zYX3r6ZgCU8sbjKsEu0Q6) | 2:31 | 2024-03-26 |  |
+| [Real \(Con Un No Se Que\)](https://open.spotify.com/track/0MCd6tYYyPGDs268rlTJrQ) | [Jose Musica](https://open.spotify.com/artist/5ou57wJ8J2MwUbrNnzmTmn) | [Real \(Con Un No Se Que\)](https://open.spotify.com/album/4zYX3r6ZgCU8sbjKsEu0Q6) | 2:31 | 2024-03-26 | 2024-04-03 |
 | [Real Bad](https://open.spotify.com/track/06Ujlx2Yzh4e5PD1HOsRd3) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Real Bad](https://open.spotify.com/album/32UTYhe65KCxUNqKSefo3i) | 2:18 | 2020-09-11 | 2020-09-24 |
 | [Real Men](https://open.spotify.com/track/1kP8uzzdQIpXhvbJVa8Zwx) | [Seeymoore Bell](https://open.spotify.com/artist/2eJToyA6Fd8NfyWsbbJgYj) | [Real Men](https://open.spotify.com/album/3tYhO2ysT8Wvn2lmZHFAqZ) | 2:47 | 2023-02-15 | 2023-03-12 |
 | [Reason Enough](https://open.spotify.com/track/4NiJNnjPOEn888eY3R5jaw) | [Stormin' Norman](https://open.spotify.com/artist/4UapLj1YVATnTBcTUGGOBp) | [Reason Enough](https://open.spotify.com/album/3Q2UKovTxsONCWRY5koThA) | 3:02 | 2022-02-18 | 2022-03-07 |

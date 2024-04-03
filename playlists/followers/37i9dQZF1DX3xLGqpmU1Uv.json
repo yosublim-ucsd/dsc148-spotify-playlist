@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 155584,
+  "2024-04-03": 155618,
   "date_first_scraped": "2023-12-19",
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
   "name": "Los 60 M\u00e9xico",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 176848,
       "name": "Aladino",
       "url": "https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 149573,
       "name": "Sospecha",
       "url": "https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U"

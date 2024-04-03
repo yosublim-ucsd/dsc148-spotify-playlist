@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Catfish & The Bottlemen
 
-235 songs - 13 hr 25 min
+236 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [On the Back Burner](https://open.spotify.com/track/6eczJiyXPukaEhiA6OPPtk) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Alcopops & Charity Shops](https://open.spotify.com/album/5RXX48BI3S6SlvMo1cX5jB) | 2:06 | 2023-01-10 |  |
 | [One Man Band](https://open.spotify.com/track/2D4CxBVX7N2ob0IHZKMm0e) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [One Man Band](https://open.spotify.com/album/4sAnhPJ2iRrbxesJeIuLAW) | 3:38 | 2023-08-04 | 2023-12-22 |
 | [One More Night With No One](https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [One More Night With No One](https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7) | 3:20 | 2023-01-10 |  |
+| [Only You](https://open.spotify.com/track/4a1VhUe5ebvyNQWMxrlG87) | [Saytr Play](https://open.spotify.com/artist/169EIOeeLOUF8KPn0hAvzG) | [Only You](https://open.spotify.com/album/2Lr53Jp76OE9h9s5tn74Xt) | 2:53 | 2024-03-11 |  |
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2023-02-24 | 2023-10-20 |
 | [Over and over](https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Over and over](https://open.spotify.com/album/5AfjwhZxK3ERoaEuXsVhzt) | 4:24 | 2023-01-10 | 2023-08-04 |
 | [Patsy Decline](https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0) | [RATS](https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0) | [Jenny / Patsy Decline](https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD) | 2:46 | 2023-01-10 | 2024-01-25 |
@@ -188,7 +189,7 @@
 | [Sad Boys](https://open.spotify.com/track/6uwXSUhQeW0jKH5fZrgYzb) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:12 | 2023-10-20 | 2023-10-28 |
 | [Say My Name](https://open.spotify.com/track/3LIWMXIo6rPoo9Slcd1PaK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Say My Name](https://open.spotify.com/album/6ZN13CtDuZ3JAaTB8SFlZv) | 3:50 | 2023-01-10 | 2023-03-14 |
 | [Sertraline](https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK) | [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Anxiety Replacement Therapy](https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu) | 3:06 | 2023-05-11 |  |
-| [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 | 2023-01-10 |  |
+| [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 | 2023-01-10 | 2024-04-03 |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2023-06-07 |  |
 | [Sheila](https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Panic Prevention](https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T) | 4:19 | 2023-06-28 | 2024-02-24 |
 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 | 2024-02-23 |  |

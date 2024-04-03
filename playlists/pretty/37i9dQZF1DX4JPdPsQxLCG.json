@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 83261,
+  "num_followers": 83309,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2IzNTJhNmZlOWY4OGVkNDNkOGRjYTUyNDU1MzVkOGNhZTliMTE2",
+  "snapshot_id": "MCw2OWNkMGVkMGQ1YmViZWJiOGYzZjk1NTI5NjRjMWJjZWM2NGM1NTUz",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Harvest Moon",
         "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 303213,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Up To Here",
-        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
       "artists": [
         {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 257440,
-      "name": "New Orleans Is Sinking",
-      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Up To Here",
+        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "New Orleans Is Sinking",
+      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Recollection",
         "url": "https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 175767,
-      "name": "Landmines",
-      "url": "https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 247306,
       "name": "Building a Mystery",
       "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Phantom Power",
-        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "Bobcaygeon",
-      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "In Loving Memory Of - 20th Anniversary Special Edition",
+        "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "duration_ms": 304906,
+      "name": "That Song",
+      "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Seasons In The Sun (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "In Loving Memory Of - 20th Anniversary Special Edition",
-        "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
+        "name": "Phantom Power",
+        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
       },
       "artists": [
         {
-          "name": "Big Wreck",
-          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
         }
       ],
-      "duration_ms": 304906,
-      "name": "That Song",
-      "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
+      "duration_ms": 295357,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Trouble At The Henhouse",
-        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Ahead By A Century",
-      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 190133,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Five Easy Pieces",
+        "url": "https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "I Don't Know - EP Version",
+      "url": "https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 241293,
       "name": "Heaven Coming Down",
       "url": "https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Five Easy Pieces",
-        "url": "https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "I Don't Know - EP Version",
-      "url": "https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt"
     },
     {
       "added_at": "2024-03-29 04:01:00",

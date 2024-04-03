@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTQ4MCxkNmRhYjYwYzU2YjY1YjkzMGFlY2NjMGVkOWU4NDY0N2NmODcxZGE2",
+  "snapshot_id": "MTQ4NCxjODBlYjViYjNlNGIxZWRiNTBhYmQxYzBiMjM0N2ZkODU5MzZmNGI1",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -2951,22 +2951,6 @@
       "duration_ms": 142613,
       "name": "Angels in Tibet",
       "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
-    },
-    {
-      "added_at": "2023-06-19 17:59:17",
-      "album": {
-        "name": "Yellow House",
-        "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz"
     },
     {
       "added_at": "2023-06-21 20:46:13",
@@ -8059,6 +8043,54 @@
       "duration_ms": 415748,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/7cv8pIeOu1pkwCXW9D4Oef"
+    },
+    {
+      "added_at": "2024-04-02 02:51:51",
+      "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2024-04-02 20:46:32",
+      "album": {
+        "name": "Ask Me Tomorrow",
+        "url": "https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy"
+      },
+      "artists": [
+        {
+          "name": "Mojave 3",
+          "url": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
+        }
+      ],
+      "duration_ms": 348400,
+      "name": "Love Songs on the Radio",
+      "url": "https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07"
+    },
+    {
+      "added_at": "2024-04-02 23:41:09",
+      "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ"
     }
   ],
   "unique_name": "Zacklog",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,249 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,324 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 33 | [Friday Nights \(efan Remix\)](https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX), [efan](https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT) | [Friday Nights \(efan Remix\)](https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6) | 3:26 |
 | 34 | [Surgery](https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Surgery](https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr) | 2:09 |
 | 35 | [Overrated](https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:47 |
-| 36 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 |
-| 37 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
+| 36 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
+| 37 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 |
 | 38 | [Again \(feat\. Takura\)](https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:51 |
 | 39 | [Can't Escape](https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Can't Escape](https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk) | 3:38 |
 | 40 | [EGODEATH](https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [GRM Daily](https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW), [6HRS](https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0) | [EGODEATH](https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4) | 3:12 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 59 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
 | 60 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
 | 61 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 |
-| 62 | [Turn It Up](https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk) | 3:01 |
-| 63 | [This Sound](https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Kaya](https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k) | [This Sound](https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws) | 4:17 |
+| 62 | [This Sound](https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Kaya](https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k) | [This Sound](https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws) | 4:17 |
+| 63 | [Turn It Up](https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk) | 3:01 |
 | 64 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 |
 | 65 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 |
 | 66 | [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC) | 2:46 |
 | 70 | [Alla Dem Bad](https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Miss Baas](https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU) | [Alla Dem Bad](https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3) | 2:54 |
 
-Snapshot ID: `MCwxNmFiNjAwZmNiMDJiZmU0ZWY5YTA5M2JjYjFlYWNjMTIyM2M1NjZi`
+Snapshot ID: `MCwyMzlmNTE4ZTNlNWVmYjliZjgyZDc0NGU3YmI1NDEwM2Y3NWFmZjNj`

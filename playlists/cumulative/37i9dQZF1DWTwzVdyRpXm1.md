@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Diljit Dosanjh & Saweetie
 
-297 songs - 16 hr 55 min
+298 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Baazi](https://open.spotify.com/track/1vDK1yoxF0mOkckgDfPDj2) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Baazi](https://open.spotify.com/album/2jAqinyiQvDkTg8zFynNEs) | 3:28 | 2022-05-13 | 2023-01-13 |
 | [Bachpan Ka Pyaar](https://open.spotify.com/track/2xDWjvgSwIfyrCNMU0aFzM) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Sahdev Dirdo](https://open.spotify.com/artist/6GKgflSYzKRuWOUG4GSHAO), [Rico](https://open.spotify.com/artist/2UQfVqI2XtVkZXYKRAJHbC) | [Bachpan Ka Pyaar](https://open.spotify.com/album/65EGMrxmEXnyKZzXuRiuTk) | 3:03 | 2021-12-06 | 2022-02-25 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-01-12 | 2024-01-06 |
+| [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 | 2024-04-02 |  |
 | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/album/5CvI5ppsG522pV554VLezD) | 4:18 | 2023-01-12 |  |
 | [Bewafa](https://open.spotify.com/track/2sHHVNvfUlegjyhJpRzJjX) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:44 | 2024-03-18 |  |
 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2024-01-05 | 2024-03-20 |
@@ -65,7 +66,7 @@
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-04-15 | 2023-09-09 |
 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 | 2023-09-08 | 2023-11-30 |
 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 | 2023-07-31 |  |
-| [Chheti De Drivari Sikha](https://open.spotify.com/track/17wrGJt3aZ6nIpRMoxk7da) | [Satnam Sagar](https://open.spotify.com/artist/33lWkMmwE0GrpGIcutIXUD), [Sharanjeet Shammi](https://open.spotify.com/artist/3AEls8ho0wouO8mWg5KJaI) | [Munda Hon Diyan Pudeeyan](https://open.spotify.com/album/3krrf8gzv1P2iQ3v2qKLTh) | 4:16 | 2024-03-18 |  |
+| [Chheti De Drivari Sikha](https://open.spotify.com/track/17wrGJt3aZ6nIpRMoxk7da) | [Satnam Sagar](https://open.spotify.com/artist/33lWkMmwE0GrpGIcutIXUD), [Sharanjeet Shammi](https://open.spotify.com/artist/3AEls8ho0wouO8mWg5KJaI) | [Munda Hon Diyan Pudeeyan](https://open.spotify.com/album/3krrf8gzv1P2iQ3v2qKLTh) | 4:16 | 2024-03-18 | 2024-04-03 |
 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 | 2021-12-06 | 2022-01-14 |
 | [Chill Mode](https://open.spotify.com/track/5YVUPrQIX3dGn5mf5eXyaB) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [G Thing](https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN) | 3:00 | 2024-01-05 | 2024-01-31 |
 | [Choo Lo](https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:53 | 2024-01-05 |  |

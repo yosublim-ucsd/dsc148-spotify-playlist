@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,234 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,255 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 | 49 | [泡 \(Abuku\)](https://open.spotify.com/track/1z77pvpNqiJoMACcS7YRAg) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares \| 泡 \(Abuku\)](https://open.spotify.com/album/73wyb3gGxMXyN77Z031K20) | 6:14 |
 | 50 | [Genesis](https://open.spotify.com/track/1lxADy4IBOAGjrMKCp4Uvc) | [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Genesis](https://open.spotify.com/album/4eHfmGh4usaxSs4jCp0tqV) | 6:57 |
 
-Snapshot ID: `MCwwMGI0ZjZmODc0YTZhMTQwNjZjOWMwMzQyNDVkY2NlMWE3NjExNjIx`
+Snapshot ID: `MCxiYWY1ZmI2NDg5NWFlNzI1ZTIzNWRmMjVhMDc0NjM1NmI0MjYxZTMx`

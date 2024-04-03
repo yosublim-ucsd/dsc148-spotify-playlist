@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Jacques Brel
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,083 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,077 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,19 +79,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 69 | [Chanson pour l'auvergnat](https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:02 |
 | 70 | [Parlez\-moi d'amour](https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Parlez\-moi d'amour](https://open.spotify.com/album/7w5tAsVVbOdWgIEhKkSNzG) | 3:00 |
 | 71 | [Avec le temps](https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Léo Ferré](https://open.spotify.com/album/6mQiZriU3LU6CKuQAryJvp) | 4:24 |
-| 72 | [J'ai Deux Amours](https://open.spotify.com/track/52NUhRcTRhpRj4NCkLd6Ys) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:11 |
-| 73 | [Les feuilles mortes](https://open.spotify.com/track/30bqPdEUBZhn44u10awaup) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand \- Les feuilles mortes](https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE) | 3:23 |
+| 72 | [Paroles… paroles…](https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 4:05 |
+| 73 | [J'ai Deux Amours](https://open.spotify.com/track/52NUhRcTRhpRj4NCkLd6Ys) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:11 |
 | 74 | [Les rupins](https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef) | [Catherine Sauvage](https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV) | [Heritage \- Jolie Môme \- Philips \(1961\)](https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9) | 2:46 |
-| 75 | [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 |
-| 76 | [Mon vieux](https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [CD Story](https://open.spotify.com/album/46GKFEQCo19hb1wwEXuZXT) | 3:28 |
-| 77 | [Cœur de parisienne](https://open.spotify.com/track/16bV2DdifOepotmlnEjNQZ) | [Arletty](https://open.spotify.com/artist/5ouVGmB18Ok71seyDU6g91) | [Mon homme](https://open.spotify.com/album/0wttZ0qGZeO95j5NOIDRF5) | 2:39 |
-| 78 | [À quoi ça sert l'amour ?](https://open.spotify.com/track/2oqwC0tbMG9fs37V1Jw6xd) | [Theo Sarapo](https://open.spotify.com/artist/1LLt7Ip3DCW2oAP4Z1V1zj), [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Les 100 plus belles chansons d'Edith Piaf](https://open.spotify.com/album/52Djt5ovSZlf5o2pfRFsdN) | 2:27 |
-| 79 | [Paroles… paroles…](https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 4:05 |
+| 75 | [Les feuilles mortes](https://open.spotify.com/track/30bqPdEUBZhn44u10awaup) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand \- Les feuilles mortes](https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE) | 3:23 |
+| 76 | [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 |
+| 77 | [Mon vieux](https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [CD Story](https://open.spotify.com/album/46GKFEQCo19hb1wwEXuZXT) | 3:28 |
+| 78 | [Cœur de parisienne](https://open.spotify.com/track/16bV2DdifOepotmlnEjNQZ) | [Arletty](https://open.spotify.com/artist/5ouVGmB18Ok71seyDU6g91) | [Mon homme](https://open.spotify.com/album/0wttZ0qGZeO95j5NOIDRF5) | 2:39 |
+| 79 | [À quoi ça sert l'amour ?](https://open.spotify.com/track/2oqwC0tbMG9fs37V1Jw6xd) | [Theo Sarapo](https://open.spotify.com/artist/1LLt7Ip3DCW2oAP4Z1V1zj), [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Les 100 plus belles chansons d'Edith Piaf](https://open.spotify.com/album/52Djt5ovSZlf5o2pfRFsdN) | 2:27 |
 | 80 | [Jolie môme](https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Leo Chante Ferre](https://open.spotify.com/album/0staVF20KfnK1HCYJLNSsf) | 2:39 |
 | 81 | [La mauvaise réputation](https://open.spotify.com/track/0EwayOD7FeIY07W30rncvf) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 2:10 |
-| 82 | [Frou\-Frou](https://open.spotify.com/track/2Ucg35BqNQWSNnBossVGVZ) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Chante](https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt) | 3:02 |
-| 83 | [Les amoureux des bancs publics](https://open.spotify.com/track/3sySoSz1tI6IDt7qDkecnQ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:00 |
-| 84 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 2:56 |
+| 82 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 2:56 |
+| 83 | [Frou\-Frou](https://open.spotify.com/track/2Ucg35BqNQWSNnBossVGVZ) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Chante](https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt) | 3:02 |
+| 84 | [Les amoureux des bancs publics](https://open.spotify.com/track/3sySoSz1tI6IDt7qDkecnQ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:00 |
 | 85 | [Les roses blanches](https://open.spotify.com/track/7ydTfhNqTm76kd23L0RJrQ) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Chante](https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt) | 3:26 |
 
-Snapshot ID: `MCwzZjIwNmIxNGI1OGZlN2RlN2I4YWYxMjA1ZjIxNGY1YzUyZTYwYzQ1`
+Snapshot ID: `MCxlN2I1NzViYjQzOTE3YWQ3Y2Y0NmM5NWFkOTIxMzhkOTQ3Yjc2YmNi`

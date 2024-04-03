@@ -4,10 +4,11 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-531 songs - 22 hr 29 min
+533 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#krushonme!](https://open.spotify.com/track/04YQbRHO9hDHTmbhrqoL2q) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Luga](https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [\#krushonme!](https://open.spotify.com/album/3YxkI9XXDPolnHsOya7x5q) | 1:26 | 2024-04-02 |  |
 | [$ix $ix](https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$ix $ix](https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG) | 1:52 | 2023-06-18 | 2023-12-14 |
 | [2 BOOTED UP](https://open.spotify.com/track/7LRei4DObsFFS9NQ4lAg18) | [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [2 BOOTED UP](https://open.spotify.com/album/13QHvU7s824sK7bvV8j8Di) | 1:41 | 2023-08-19 | 2023-09-26 |
 | [2000](https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA) | [2000](https://open.spotify.com/album/5qd5jaq5RmAtYWKdD6IXF8) | 1:39 | 2024-02-07 |  |
@@ -270,6 +271,7 @@
 | [LED Poisoning](https://open.spotify.com/track/4WmCTMxkCHZYXpIiqds8pj) | [James Dece](https://open.spotify.com/artist/5gjFmHkcGaw4xa0n5MH13y) | [LED Poisoning](https://open.spotify.com/album/17k7YvT4HE7Ed3vzCSqY3l) | 3:32 | 2023-12-08 | 2024-02-01 |
 | [Let Me Rot While I Battle For Serenity](https://open.spotify.com/track/1kvgSzbpAmk3yqMafKe5Fc) | [86Casino](https://open.spotify.com/artist/42CKsZqwmnsdWM3Pn53Vje) | [Let Me Rot While I Battle For Serenity](https://open.spotify.com/album/5rn3NS4yjKysSuYg3pqg2q) | 1:43 | 2024-03-08 |  |
 | [Life:Joy](https://open.spotify.com/track/2w0X8WC1qjH7j2pgB99HF1) | [I Passed Away](https://open.spotify.com/artist/483wNOICJmY6aycl3dCvZT), [AkZeNT](https://open.spotify.com/artist/3bnZFh0obkEldJTmSZ1ez5) | [Life:Joy](https://open.spotify.com/album/70WM6IGQoyw6XOG0KUP8ig) | 3:09 | 2023-07-22 | 2023-09-26 |
+| [Like OMG](https://open.spotify.com/track/1BAuo4COJSUWDADH1ZOW1a) | [ZodiacTrac](https://open.spotify.com/artist/1uAN3DQgiZwXbVHmkEqXKM) | [Bravo Six](https://open.spotify.com/album/0wDkY5RJKjuvIpOOxm8yua) | 1:43 | 2024-04-02 |  |
 | [Limbo](https://open.spotify.com/track/46cCwdcirgFCYPZosLIof0) | [K.E.903](https://open.spotify.com/artist/4aVU5WW1G7KVeVLj4nTdl2) | [Limbo](https://open.spotify.com/album/0FreK2pSYfhSgHi20Y02Fv) | 2:11 | 2024-02-14 | 2024-03-01 |
 | [Limitbreaker](https://open.spotify.com/track/3wfn0iVPulLK8FMptP2AhS) | [JMB](https://open.spotify.com/artist/4oyQLXTmI2do6RCO7BLcCY) | [Limitbreaker](https://open.spotify.com/album/2bbsUZssmV9H4Q4GcprXzC) | 2:26 | 2023-08-22 | 2023-09-26 |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2023-06-12 | 2023-09-26 |

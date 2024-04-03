@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 218895,
+  "2024-04-03": 218888,
   "date_first_scraped": "2021-12-21",
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
   "name": "Morning K-Pop!",
@@ -422,7 +422,7 @@
     },
     {
       "album": {
-        "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
+        "name": "BATTER UP",
         "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
       },
       "artists": [
@@ -5324,6 +5324,24 @@
     },
     {
       "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
+    },
+    {
+      "album": {
         "name": "Miss Independent Jieun2 \uc138\uc0c1 \uc798 \uc0ac\ub294 \uc9c0\uc740\uc5282 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5DNCrkPxqiNsMI7uWL2QM2"
       },
@@ -6995,7 +7013,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 179146,
       "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"

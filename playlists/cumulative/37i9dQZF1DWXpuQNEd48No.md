@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
+> Yo Hai Haryanvi Hip\-Hop! Cover: RP Singh & KD Desi Rock
 
 204 songs - 10 hr 48 min
 

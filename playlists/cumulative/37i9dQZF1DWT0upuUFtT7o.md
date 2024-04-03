@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Annie\-Dog
 
-2,309 songs - 5 day 6 hr 44 min
+2,310 songs - 5 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,8 @@
 | [Cut](https://open.spotify.com/track/0dwaS9kMmmxrMulLMbEe3c) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Oh, Claire](https://open.spotify.com/album/3gH4i1dDjghuiXuNEIohMT) | 1:47 | 2024-03-13 |  |
 | [Cut](https://open.spotify.com/track/207FZMdh8fRkAY5PzCnjjP) | [wylie hopkins](https://open.spotify.com/artist/4os4J8PaDrqHAsBfO2xDn9) | [Cut](https://open.spotify.com/album/06J33FAquqgy9qYCd9BU92) | 3:41 | 2022-02-02 | 2022-03-10 |
 | [Cut the Kite String](https://open.spotify.com/track/2CToXuKahvDh3VBKFZ7JRv) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Cut the Kite String](https://open.spotify.com/album/3Hw9rP7XXOMZkrXjrgwK7W) | 3:05 | 2023-05-24 | 2023-06-22 |
-| [Cycle](https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Cycle](https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC) | 3:33 | 2024-03-20 |  |
+| [Cycle](https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Cycle](https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC) | 3:33 | 2024-03-20 | 2024-04-03 |
+| [Cycle](https://open.spotify.com/track/1FBEQqHKgV2EWquBd0Bcgn) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Acid Star](https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe) | 3:33 | 2024-03-20 |  |
 | [d e e p e r](https://open.spotify.com/track/2nG3GpzBnzwIjd7ahxatje) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [d e e p e r](https://open.spotify.com/album/5QuYd1kH5AZPIFOxXiv2G2) | 2:10 | 2022-05-25 | 2022-07-07 |
 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 | 2023-05-30 | 2024-01-11 |
 | [Damage You Still Do](https://open.spotify.com/track/1pZ91sMRQwR9JI1Yb3XHhP) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Damage You Still Do](https://open.spotify.com/album/4NWiawsFgjOWjQb0u0yL9o) | 3:37 | 2023-03-01 | 2023-03-23 |

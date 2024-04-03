@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,753 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,757 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 4 | [Homem Aranha 2099](https://open.spotify.com/track/7oXLXGVe9NCtKTLLt1m74F) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Homem Aranha 2099](https://open.spotify.com/album/4nqeJtuIcFncsXgIdb9gIg) | 4:04 |
 | 5 | [Rap do Itachi: Essa Dor Que Causei..\. \(NERD HITS\)](https://open.spotify.com/track/1AiQsM4HVi0A3xxrXKvdxu) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Itachi: Essa Dor Que Causei..\. \(NERD HITS\)](https://open.spotify.com/album/51waJCCTeUhh893IsA9AeS) | 3:12 |
 | 6 | [Chainsaw Man](https://open.spotify.com/track/3AF9WkqyCw1U6Vlalt3pQ5) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Chainsaw Man](https://open.spotify.com/album/5c5TZZCOaiwyBO479W12a2) | 3:19 |
-| 7 | [Tai Otoshi](https://open.spotify.com/track/1RYDGeACNeHLgK2XqJa3n8) | [Zero Meia](https://open.spotify.com/artist/4SqZO99ISUJpwisAug6yfQ), [Gean Brazy](https://open.spotify.com/artist/5Xw6Mw9iq5Q9pBf24Cu0EQ) | [Tai Otoshi](https://open.spotify.com/album/4G9Zhc8lxnXKU6sB66N7Vj) | 3:29 |
+| 7 | [Tai Otoshi](https://open.spotify.com/track/1RYDGeACNeHLgK2XqJa3n8) | [Zero Meia](https://open.spotify.com/artist/4SqZO99ISUJpwisAug6yfQ), [Gean Brazy](https://open.spotify.com/artist/5Xw6Mw9iq5Q9pBf24Cu0EQ), [Original Rap Records](https://open.spotify.com/artist/3Wq34tjNQQumbYSV5tjuMo) | [Tai Otoshi](https://open.spotify.com/album/4G9Zhc8lxnXKU6sB66N7Vj) | 3:29 |
 | 8 | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/0AH0eFTZaQ6V7Qzj3ap7QY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/5p1E1MImo4ZitXfCRDv7p0) | 2:31 |
 | 9 | [Putz Animes \- Vibe Zabuza 2](https://open.spotify.com/track/6MTfh45Ywrgu1jS27Zd1kn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Putz Animes \- Vibe Zabuza 2](https://open.spotify.com/album/4gQBNib1VzNA7K3zST5ZUu) | 3:41 |
 | 10 | [Tipo Tobi](https://open.spotify.com/track/45vigZiVUySqgsMXqxhtvp) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobi](https://open.spotify.com/album/5ufXwSFcC7e6DcromjzEBc) | 3:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 50 | [Se Ajoelhe](https://open.spotify.com/track/1KaxJnnYE8BZ37FXPBPjmi) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/7lzPoJm7sSXvqxyTwr9bmQ) | 3:47 |
 | 51 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MCw0YjllZTNhZmIyZjRmMzQ2Mjc1ZDJmYmE3ZTMzZTM5Mzc3OWI4Yjc2`
+Snapshot ID: `MCxlYzRhZjczZjNhNDNhNDk4MmNjOWFmZDRmMjA2ZDk4MmI3MWZlMWNl`

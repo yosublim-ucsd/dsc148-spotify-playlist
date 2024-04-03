@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-752 songs - 1 day 21 hr 3 min
+753 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Outside](https://open.spotify.com/track/4TX9ZeGeNol9GYTUqUAUSe) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [EP III](https://open.spotify.com/album/4DAEmnrLvgEYRWOVuAbqOn) | 4:10 | 2021-03-16 | 2022-04-01 |
 | [Outside Sublime](https://open.spotify.com/track/1N4JlfiTYPcC3b1SoVs3qs) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Outside Sublime](https://open.spotify.com/album/6tHq2166Kekr60uJly4sqT) | 3:31 | 2020-10-05\* | 2020-10-06 |
 | [Pack a Punch](https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Pack a Punch](https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8) | 3:42 | 2021-11-19 | 2022-06-04 |
-| [PARADISE](https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy) | 2:21 | 2023-12-12 | 2024-03-23 |
+| [PARADISE](https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy) | 2:21 | 2023-12-12 |  |
 | [PARADISE](https://open.spotify.com/track/6rZjqLz4k7psYLWDgDTw8l) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/5oLudn7CAOILun2yHH48jB) | 2:21 | 2023-10-02 | 2023-12-09 |
 | [Pass The Hours](https://open.spotify.com/track/4EVpdoFt3L6sAa4hivmWz9) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/68oS2XnHyYFPwOeknwOabE) | 3:43 | 2020-10-05\* | 2022-04-18 |
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2023-05-05 |  |
@@ -553,7 +553,8 @@
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2020-10-16 | 2022-09-30 |
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2022-07-25 | 2023-05-06 |
 | [Retrograde](https://open.spotify.com/track/756NPuruFfqHO0CEtL8kyu) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/2Fn2oOYHKBJfzZtVtKOW7z) | 3:43 | 2021-03-16 | 2022-04-15 |
-| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-12 |  |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-12 | 2024-04-03 |
+| [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-01-12 |  |
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-17 | 2023-09-16 |
 | [Rise Again \- Harris Cole & Somni Remix](https://open.spotify.com/track/39lFjmuCMTYq8FVjDZL60F) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Rise Again \(Harris Cole & Somni Remix\)](https://open.spotify.com/album/1PQ2tS2gKa8ljhpOr3ypk2) | 3:29 | 2022-03-07 | 2022-07-25 |
 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 | 2023-09-15 | 2023-10-11 |
@@ -721,7 +722,7 @@
 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 | 2021-03-16 | 2022-04-18 |
 | [Warm](https://open.spotify.com/track/244q15PQzrEKPdq0hXEkQv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Warm](https://open.spotify.com/album/2fwlg1ISeCslPrp7WR0Y0w) | 4:46 | 2020-10-16 | 2022-04-16 |
 | [Warm on a Cold Night](https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:21 | 2020-12-08 | 2022-04-17 |
-| [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2023-09-15 |  |
+| [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2023-09-15 | 2024-04-03 |
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2020-10-05\* | 2022-04-18 |
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2020-10-16 | 2022-11-12 |
 | [Weight in Gold](https://open.spotify.com/track/1gXBi2I04CLJkTQnhNfEJT) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:23 | 2020-10-16 | 2022-04-18 |

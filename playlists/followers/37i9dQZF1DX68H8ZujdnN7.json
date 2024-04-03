@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 2165674,
+  "2024-04-03": 2166099,
   "date_first_scraped": "2021-12-21",
   "description": "Hair goals, spandex and epic guitar solos. We got you.",
   "name": "\u201980s Hard Rock",
@@ -579,10 +579,28 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 257053,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/7wrBlgNqYBAC5yFfO4fnYb"
+    },
+    {
+      "album": {
+        "name": "Blow My Fuse",
+        "url": "https://open.spotify.com/album/3a8pa9epV5ROC9FgYUz8ex"
+      },
+      "artists": [
+        {
+          "name": "Kix",
+          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258786,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/6x2uTkRiaDgF4DkF6i0V5e"
     },
     {
       "album": {

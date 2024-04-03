@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-487 songs - 1 day 1 hr 17 min
+488 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Boyfriend](https://open.spotify.com/track/6pHd2Du9RlgLmC5Etl1y2k) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Boyfriend](https://open.spotify.com/album/6YqJyiIsOJBkozq9XaV6OU) | 3:12 | 2021-12-16 | 2022-03-26 |
 | [Boys Lie](https://open.spotify.com/track/6VH7CHJl7t9pvUUyQOKVhf) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Boys Lie](https://open.spotify.com/album/4fg11InEwQRikdTiBWstPG) | 2:30 | 2023-11-09 |  |
 | [Bubble](https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Bubble](https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye) | 3:15 | 2023-01-12 | 2023-09-01 |
+| [Burn](https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Burn](https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY) | 3:21 | 2024-04-02 |  |
 | [Butterflies](https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:17 | 2022-07-22 | 2023-01-13 |
 | [Butterflies](https://open.spotify.com/track/1OJgQzXu7j0gNgNO1zTJxG) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Cold Cozy Winter](https://open.spotify.com/album/076sIwGvnwVKqIr2QIzysG) | 3:18 | 2022-10-27 | 2022-11-14 |
 | [Butterflies](https://open.spotify.com/track/5XGJj8eIm5tSdxkIm6GBal) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Butterflies](https://open.spotify.com/album/5pzzVGspnxIYiGqqYyxstR) | 3:18 | 2021-12-16 | 2022-07-29 |
@@ -88,7 +89,7 @@
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-08-31 | 2023-09-15 |
 | [Check Myself](https://open.spotify.com/track/4Oz1Aw9TEyuNljkUAaY8mw) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Check Myself](https://open.spotify.com/album/2WmIdURIvY3eZctc92T6Ma) | 2:16 | 2023-09-07 | 2023-11-10 |
 | [Cheetos](https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz) | [Mael](https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7) | [Cheetos](https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM) | 2:32 | 2023-08-31 | 2023-10-13 |
-| [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 | 2023-10-12 |  |
+| [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 | 2023-10-12 | 2024-04-03 |
 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-08-31 |  |
 | [Closer](https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Closer](https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm) | 3:55 | 2023-11-16 |  |
 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 | 2024-02-15 |  |

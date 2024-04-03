@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Big Bllakk
 
-280 songs - 12 hr 59 min
+281 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Caro](https://open.spotify.com/track/3D0SvoPAta7wZkRkFbOFT3) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Caro](https://open.spotify.com/album/0sPxkDg3IdEvXWQtlaDVF3) | 2:58 | 2022-06-10 | 2023-05-13 |
 | [Catequese](https://open.spotify.com/track/4aa4y1cQI6YobbstYuDZnH) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Catequese](https://open.spotify.com/album/0jVj2HCC241nz91LlrjZDa) | 1:50 | 2023-04-14 | 2024-02-17 |
 | [Catequese 2](https://open.spotify.com/track/2f2KHGQD3aaF9CkCU8jJuf) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Catequese 2](https://open.spotify.com/album/1RzDSdMJzF1curdRIWiSPv) | 2:46 | 2023-11-17 | 2023-12-09 |
+| [Check\-in](https://open.spotify.com/track/1Ow7PO9wsdbVPAYujLp2j8) | [Exódia Entertainment](https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [GIG](https://open.spotify.com/album/0FQcywiPJRQyxjXl64BTgC) | 3:40 | 2024-04-02 |  |
 | [Chefin](https://open.spotify.com/track/30g0zKIzhdwdJBSgiBA9gg) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Chefin](https://open.spotify.com/album/6z7TV8IZMGmMkVzg2c6dVt) | 3:06 | 2022-03-18 | 2022-11-12 |
 | [Chefão \- Fragrância Dos Malako](https://open.spotify.com/track/7DbkVJGtkmwEKrDlKUV0Pt) | [Makarraum](https://open.spotify.com/artist/1J8A6wzCWSmdYBZo71tIkj), [GrowBeats](https://open.spotify.com/artist/6MQ33RtIB5VxHWRVAc0Y4l) | [Chefão \(Fragrância Dos Malako\)](https://open.spotify.com/album/18MExFUtscHhKnU12PCaDT) | 2:25 | 2022-12-02 | 2023-01-06 |
 | [Chevette](https://open.spotify.com/track/1cIkjFkvZisLYsY0axSkac) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Meu Karma](https://open.spotify.com/album/0Ju3ufvgYk3ONV4qzoE5a9) | 2:37 | 2024-03-22 |  |

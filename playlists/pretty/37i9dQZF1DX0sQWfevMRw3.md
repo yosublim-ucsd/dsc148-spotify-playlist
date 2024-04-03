@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VEM FAN E DU!?
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,406 likes - 96 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,441 likes - 96 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 5 | [Greta Thunberg](https://open.spotify.com/track/4mskXDDAZA0C7p03mPZ5UD) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Greta Thunberg](https://open.spotify.com/album/0gDJyg276NTvKVm1LR6Yqe) | 2:54 |
 | 6 | [Älskade ängel](https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp) | [Ooooklart](https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb) | [Älskade ängel](https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b) | 2:31 |
 | 7 | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [Roc Meiniac](https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb) | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG) | 3:03 |
-| 8 | [PAPPA BETALAR](https://open.spotify.com/track/66AqzCKAM1yt8wC7TrrqsA) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [PAPPA BETALAR](https://open.spotify.com/album/3bM5BRHvQ4u1D328FAUwy3) | 2:45 |
-| 9 | [Bumbibjörnarna](https://open.spotify.com/track/5oTm685TWibdhPGLKgezPe) | [Ferdinand](https://open.spotify.com/artist/1DIiXNFlKuRBQMKIrvwuha) | [Bumbibjörnarna \- Här kommer Bumbibjörnarna \- Från "Bumbibjörnarna"](https://open.spotify.com/album/0CLi3NBCGOF3VFdAhZC3ZD) | 2:10 |
-| 10 | [KAOS](https://open.spotify.com/track/6Bkp5yMtYhN0qSSUP0pmxk) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [KAOS](https://open.spotify.com/album/5j4dCqg9Wh5RZzkYJHWDGd) | 2:20 |
-| 11 | [HEY BABY](https://open.spotify.com/track/56yXFAt1OptPnMTcaP4do2) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [HEY BABY](https://open.spotify.com/album/42Y3E4CrRFONZ6Ji6WhMgf) | 2:12 |
-| 12 | [WEED I RAGGARBIL \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/track/4MNNNChXrBYwSZIl1DUSg0) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Emilush](https://open.spotify.com/artist/5nRpThqM28nrzaCdE5kInp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [WEED I RAGGARBIL \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/album/4r7QRYb4x92pOMCjRgewkz) | 1:58 |
-| 13 | [FÖRSTA BIRAN](https://open.spotify.com/track/34I35RpgRDa8sTtjwwZdZs) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [FÖRSTA BIRAN](https://open.spotify.com/album/5MNOaQbAz2PmkeGeGK6Nu9) | 3:05 |
-| 14 | [](https://open.spotify.com/track/4vxvEujLnlYXWCIodKrXP0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4iOfH8k07l9aTWVoSHZfk8) | 0:00 |
+| 8 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8), [Mannschaft](https://open.spotify.com/artist/3AIknosYoaF6OgCcH10ZCy) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
+| 9 | [PAPPA BETALAR](https://open.spotify.com/track/66AqzCKAM1yt8wC7TrrqsA) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [PAPPA BETALAR](https://open.spotify.com/album/3bM5BRHvQ4u1D328FAUwy3) | 2:45 |
+| 10 | [Bumbibjörnarna](https://open.spotify.com/track/5oTm685TWibdhPGLKgezPe) | [Ferdinand](https://open.spotify.com/artist/1DIiXNFlKuRBQMKIrvwuha) | [Bumbibjörnarna \- Här kommer Bumbibjörnarna \- Från "Bumbibjörnarna"](https://open.spotify.com/album/0CLi3NBCGOF3VFdAhZC3ZD) | 2:10 |
+| 11 | [KAOS](https://open.spotify.com/track/6Bkp5yMtYhN0qSSUP0pmxk) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [KAOS](https://open.spotify.com/album/5j4dCqg9Wh5RZzkYJHWDGd) | 2:20 |
+| 12 | [HEY BABY](https://open.spotify.com/track/56yXFAt1OptPnMTcaP4do2) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [HEY BABY](https://open.spotify.com/album/42Y3E4CrRFONZ6Ji6WhMgf) | 2:12 |
+| 13 | [WEED I RAGGARBIL \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/track/4MNNNChXrBYwSZIl1DUSg0) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Emilush](https://open.spotify.com/artist/5nRpThqM28nrzaCdE5kInp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [WEED I RAGGARBIL \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/album/4r7QRYb4x92pOMCjRgewkz) | 1:58 |
+| 14 | [FÖRSTA BIRAN](https://open.spotify.com/track/34I35RpgRDa8sTtjwwZdZs) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [FÖRSTA BIRAN](https://open.spotify.com/album/5MNOaQbAz2PmkeGeGK6Nu9) | 3:05 |
 | 15 | [VILD](https://open.spotify.com/track/4RwM47Kh338hORY4T0FXrp) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [VILD](https://open.spotify.com/album/2Vm0VZsYH3T46MHreLjm0k) | 1:52 |
 | 16 | [REBOUND](https://open.spotify.com/track/1dJrKfAg3nFwNAE6I7I9hh) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [SED](https://open.spotify.com/artist/0miDgiQWeCMWEBdJD9uZCt) | [REBOUND](https://open.spotify.com/album/2dfL5UmETTrShf8ECrM9Tw) | 1:50 |
 | 17 | [Raggen igjen \- Mozby Remix](https://open.spotify.com/track/2JsYjAxEeeIGdp2gREOzPu) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Raggen igjen](https://open.spotify.com/album/4pPonmtLjz7tFkXbLLMp1y) | 1:45 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 95 | [Hon vill ha mig](https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Hon vill ha mig](https://open.spotify.com/album/1e1V1uzBnslJr81ZrPcXAq) | 2:19 |
 | 96 | [En birra har aldrig](https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En birra har aldrig](https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r) | 2:27 |
 
-Snapshot ID: `MCw4ODI4YjAwMDRmYWE2NWQ1YzJkOTY2M2FjNzA2MWUyNmFkYmI1ZWVh`
+Snapshot ID: `MCw4ZWFhZGU5MzZkZDYxOWFjMGI3N2ExMmUwZGQxMWRiZGUwZTE5M2I3`

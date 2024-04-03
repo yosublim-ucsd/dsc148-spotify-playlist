@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcYHCSWjSx6A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcYHCSWjSx6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcYHCSWjSx6A)
 
-### [Workout songs that worked in 2023](https://open.spotify.com/playlist/37i9dQZF1DXcYHCSWjSx6A)
+### [Kollywood Workout](https://open.spotify.com/playlist/37i9dQZF1DXcYHCSWjSx6A)
 
-> Best performed Tamil workout tracks in 2023 \#SpotifyWrapped<br/>Cover : Kamal Haasan
+> Check out our Kollywood Machos!<br/>Cover : Suriya
 
 56 songs - 3 hr 41 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. Los Plebes del Rancho, Juanpa Salazar en portada.",
-  "num_followers": 214637,
+  "num_followers": 214707,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2M3NjA4ODQ3NTM3YWU5OWNhNDk1NzkyMWVmZGViYzA1MDZkYzc4",
+  "snapshot_id": "MCw2ZDkzM2VjMzBhZmU4MjYxMzQ2YWMxMzZlY2Y2YjA4MjU0YzdlOGZk",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "El Blue",
-        "url": "https://open.spotify.com/album/6SigYKAQEFmXhnlc9aSy4c"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 169812,
-      "name": "El Blue",
-      "url": "https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 209920,
       "name": "Backpack",
       "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "El Blue",
+        "url": "https://open.spotify.com/album/6SigYKAQEFmXhnlc9aSy4c"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 169812,
+      "name": "El Blue",
+      "url": "https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 180047,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Porte de Scarface",
-        "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Porte de Scarface",
-      "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Me Recordar\u00e1 El Cartel",
-        "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
-      },
-      "artists": [
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        },
-        {
-          "name": "Markitos Toys",
-          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
-        }
-      ],
-      "duration_ms": 221391,
-      "name": "Me Recordar\u00e1 El Cartel",
-      "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Los Brothers",
         "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 213442,
       "name": "Los Brothers",
       "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Me Recordar\u00e1 El Cartel",
+        "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        },
+        {
+          "name": "Markitos Toys",
+          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
+        }
+      ],
+      "duration_ms": 221391,
+      "name": "Me Recordar\u00e1 El Cartel",
+      "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "La Firma del Flaquito",
-        "url": "https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 231329,
-      "name": "La Firma del Flaquito",
-      "url": "https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "La Firma del Flaquito",
+        "url": "https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 231329,
+      "name": "La Firma del Flaquito",
+      "url": "https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Los Dos de Guerrero",
+        "url": "https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 207617,
+      "name": "Los Dos de Guerrero",
+      "url": "https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "C.H.S.M",
         "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Los Dos de Guerrero",
-        "url": "https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS"
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
       "artists": [
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 207617,
-      "name": "Los Dos de Guerrero",
-      "url": "https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v"
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "En la Meza una Flor",
-        "url": "https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr"
-      },
-      "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 224277,
-      "name": "En la Meza una Flor",
-      "url": "https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Malas Rachas (En Vivo)",
         "url": "https://open.spotify.com/album/0xlaInOYofb0OkPiW9zDuJ"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 256754,
       "name": "Malas Rachas (En Vivo)",
       "url": "https://open.spotify.com/track/0js27m6Zy7oJDWfJ4f2hJ5"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "En la Meza una Flor",
+        "url": "https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 224277,
+      "name": "En la Meza una Flor",
+      "url": "https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3"
     },
     {
       "added_at": "2024-03-01 06:00:00",

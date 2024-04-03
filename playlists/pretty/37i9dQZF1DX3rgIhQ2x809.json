@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70769,
+  "num_followers": 70778,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGNiZjIyMjcyMmQzMzBmNGIzMmEzNzA0ZTNmZmQyZDE0MDkxNTRi",
+  "snapshot_id": "MCw5OTY0N2FjYTMzZjgzMmU0NjA0YzFiMjg4YmM1MTg2MjM3NmNjYjIy",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 176293,
       "name": "Cuando Te Toca",
       "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "YOKO",
-        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "YOKO",
-      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Gimnasta",
-        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
-      },
-      "artists": [
-        {
-          "name": "Xyron",
-          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
-        },
-        {
-          "name": "Veterano Music",
-          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
-        }
-      ],
-      "duration_ms": 175476,
-      "name": "Gimnasta",
-      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Miko",
         "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 190840,
       "name": "Hedonismo",
       "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Gimnasta",
+        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
+      },
+      "artists": [
+        {
+          "name": "Xyron",
+          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
+        },
+        {
+          "name": "Veterano Music",
+          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
+        }
+      ],
+      "duration_ms": 175476,
+      "name": "Gimnasta",
+      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Soy Lebron",
-        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Soy Lebron",
-      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "TAYYA",
         "url": "https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 160000,
       "name": "TAYYA",
       "url": "https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Soy Lebron",
+        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Soy Lebron",
+      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1859,22 +1859,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "C\u00f3digos",
-        "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
+        "name": "Duo Deleite",
+        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
       "artists": [
         {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+          "name": "Duo Deleite",
+          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
         },
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        },
+        {
+          "name": "Enyel C",
+          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
         }
       ],
-      "duration_ms": 216521,
-      "name": "En Mis Sue\u00f1os",
-      "url": "https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy"
+      "duration_ms": 170000,
+      "name": "De Vogue",
+      "url": "https://open.spotify.com/track/1vFOdcC7HQNm5qj9aqEgbh"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

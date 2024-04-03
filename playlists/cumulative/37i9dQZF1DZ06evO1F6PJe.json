@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 262869,
       "name": "Broken & Blue (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
@@ -1870,6 +1870,28 @@
       "duration_ms": 425853,
       "name": "So Many Roads",
       "url": "https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps"
+    },
+    {
+      "album": {
+        "name": "So Sad (The World's in a Tangle)",
+        "url": "https://open.spotify.com/album/02nG6wsgYkbS5Uj4alFnlI"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351533,
+      "name": "So Sad (The World's in a Tangle)",
+      "url": "https://open.spotify.com/track/2lGG0ypdFl6MYccu3PEPJ1"
     },
     {
       "album": {

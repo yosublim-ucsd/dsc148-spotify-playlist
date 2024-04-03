@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 333829,
+  "num_followers": 333925,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTIxYTkxNGI2MzllMjE5ODkyYTljOGI0ZWFmNDcwMzhkOTg1ZDA0",
+  "snapshot_id": "MCwyNDVlZTYzYmFjNTkxNzRlODA1YTI3ZTk0YzcwYTAwMzVjN2ExYzJh",
   "tracks": [
     {
       "added_at": "2024-03-22 15:38:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
         "name": "Sweating",
         "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 204685,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2024-03-22 15:38:32",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
-        "name": "i can't go outside",
-        "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 248764,
-      "name": "fuego (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
         "name": "Be Patient",
         "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
+        "name": "i can't go outside",
+        "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 248764,
+      "name": "fuego (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
     },
     {
       "added_at": "2024-03-22 15:38:32",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
+        "name": "FYO",
+        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 164963,
+      "name": "FYO",
+      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
         "name": "Holier (JD. REID Remix feat. Shygirl)",
         "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 215063,
       "name": "Holier - JD. REID Remix feat. Shygirl",
       "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
-        "name": "FYO",
-        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 164963,
-      "name": "FYO",
-      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
     },
     {
       "added_at": "2024-03-22 15:38:32",

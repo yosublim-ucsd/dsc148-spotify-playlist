@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\.  <br/>📷 Feli Colina & BLAIR
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,004 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,031 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 |
 | 100 | [Sole](https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Sole](https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR) | 4:03 |
 
-Snapshot ID: `MCxjMDRhNTNhMjc3OTg1OGYxNDQ5YWMyNzFkYzk1N2Q0NGQyYWNkOTQy`
+Snapshot ID: `MCwyYWRlNDk3MWQ5YzUwYWE5NDU4Y2VhOTIwNmIxMjc0YmRmNGNiNGEz`

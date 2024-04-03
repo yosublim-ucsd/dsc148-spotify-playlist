@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Jay de la Cueva en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,755 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,770 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [El Dolor](https://open.spotify.com/track/0Gm2yChfZzPusqxf0dvugx) | [Lady Ma Belle](https://open.spotify.com/artist/2zEaaKAloDC00e7FDTuIIN) | [El Dolor](https://open.spotify.com/album/6Fv56G9Vx1GkEOEbozDHGY) | 3:23 |
 | 50 | [Tu Lugar](https://open.spotify.com/track/1XE1UFxHF9PztrYiG90DqZ) | [Cives](https://open.spotify.com/artist/7Ed0HI0Bz14WejFKsFZfxu) | [Tu Lugar](https://open.spotify.com/album/19IUPeayvdK3G0ZKgj9Il4) | 3:14 |
 
-Snapshot ID: `MCw0NDUzMTc0NGFmMTg4YzMyN2MxMDcyMGY2YzExYTE4YzJlZjk3N2M3`
+Snapshot ID: `MCxkZjgwODczMWQ1MjBmNGJiNWRhNzdmNjQ4NDdjOWEwMDg1ZDhiM2U0`

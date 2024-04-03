@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,420 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,517 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Father Time \- 2018 Version](https://open.spotify.com/track/3SmBlrwEkQGZEyt6YdVqCl) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Father Time \(2018 Version\)](https://open.spotify.com/album/7paQkDb3idCmqDqjGC6VnW) | 4:43 |
 | 100 | [Watch Out Now](https://open.spotify.com/track/6sWZn6kTuTrBkbOEQFoB3a) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [A Musical Massacre](https://open.spotify.com/album/1eLbbQa8xpbZdp4DtjMB66) | 2:54 |
 
-Snapshot ID: `MCwyMDVmNmFiNjBjYjMwMjFmZGJmOGE3MmYyN2NhOWRlN2Y0M2Q5ZTMx`
+Snapshot ID: `MCxjODE3YzQxY2E3MmUxOGQ0Yzc1ODkxN2I3MWJlODIwYjg1MjYzODQ5`

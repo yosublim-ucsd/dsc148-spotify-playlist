@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 13429,
+  "num_followers": 13443,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjU4MTBkMWM4OWE4ODhkMGQ4ZDBiMmVjNzllYTM4MDQ2YTNkNGU3",
+  "snapshot_id": "MCwyNmY1MzcyNTEzYThhZDQ0MDA0M2VkODFlMGQwZDhmNmU4YjkwYjVm",
   "tracks": [
     {
       "added_at": "2023-07-18 18:13:51",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-07-18 18:13:51",
       "album": {
+        "name": "Case",
+        "url": "https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 202448,
+      "name": "Case",
+      "url": "https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5"
+    },
+    {
+      "added_at": "2023-07-18 18:13:51",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg"
-    },
-    {
-      "added_at": "2023-07-18 18:13:51",
-      "album": {
-        "name": "Case",
-        "url": "https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 202448,
-      "name": "Case",
-      "url": "https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5"
     },
     {
       "added_at": "2023-07-18 18:13:51",

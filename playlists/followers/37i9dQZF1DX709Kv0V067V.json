@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 83307,
+  "2024-04-03": 83321,
   "date_first_scraped": "2022-08-18",
   "description": "Calming music and the quiet sounds of nature at night to help you sleep",
   "name": "Late Night Nature Music",
@@ -2287,6 +2287,24 @@
       "duration_ms": 120883,
       "name": "Owl Hoots and Insects at Night",
       "url": "https://open.spotify.com/track/78ndHqoKT9yTlVxUL0i0Mq"
+    },
+    {
+      "album": {
+        "name": "Peaceful Company",
+        "url": "https://open.spotify.com/album/27wKqJduPSSn7zodO9M4A9"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148237,
+      "name": "Peaceful Company",
+      "url": "https://open.spotify.com/track/6KlrwjduHOLFdtGwwAwDUY"
     },
     {
       "album": {

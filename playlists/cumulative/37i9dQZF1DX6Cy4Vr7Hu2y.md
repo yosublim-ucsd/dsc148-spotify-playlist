@@ -2,9 +2,9 @@
 
 ### [EQUAL K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX6Cy4Vr7Hu2y)
 
-> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: \(G\)I\-DLE\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
+> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: BABYMONSTER\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-388 songs - 21 hr 30 min
+389 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Because of you](https://open.spotify.com/track/42jl3tTIai0aQ49JDW4MGk) | [Kim Greem](https://open.spotify.com/artist/1mJ8v3a8vsNWdP0FpUqeda) | [Because of you](https://open.spotify.com/album/46tJqWi5jtkMVbjh19X9PG) | 3:38 | 2021-11-21 | 2022-07-10 |
 | [Better](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:19 | 2021-11-21 | 2022-07-26 |
 | [Better Me](https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [BE](https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX) | 3:20 | 2021-11-21 | 2022-07-17 |
-| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
+| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2024-04-03 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-11-21 | 2022-10-08 |
 | [BIRTHDAY](https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/7GfqgsiW63VBNLRvIrhqLx) | 3:05 | 2021-11-21 | 2022-07-29 |
 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 | 2022-07-07 | 2022-08-28 |
@@ -158,7 +158,7 @@
 | [I want to see you again](https://open.spotify.com/track/1kVjixoK9haTO1NxlBf6hh) | [Kriesha Chu](https://open.spotify.com/artist/3zlxVfcuV4nPjcvTvlPWmZ) | [I want to see you again](https://open.spotify.com/album/2t5dRThQrrFF6nEBKYQ4gj) | 3:21 | 2021-11-21 | 2022-07-22 |
 | [ICON](https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:56 | 2021-11-21 | 2022-03-08 |
 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2022-10-12 | 2023-07-06 |
-| [Illusion](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 3:15 | 2022-08-18 | 2024-01-03 |
+| [Illusion](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 3:15 | 2022-08-18 |  |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 | 2023-03-16 |
 | [In a dream](https://open.spotify.com/track/21P4hz2DdDOkkLOTm2gJ8S) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo), [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [something special](https://open.spotify.com/album/3Ha8vvyu0uV6e7b3oFsuAc) | 3:53 | 2022-03-22 | 2022-04-17 |
 | [In Your Dreams](https://open.spotify.com/track/7CUhiFVEFhnmCoUM2NBfgs) | [TKNJ](https://open.spotify.com/artist/6huvFAFxwU9XqklbnG2pGF), [Song Ye Rin](https://open.spotify.com/artist/7oUkV3cqNmnjb27yBtmeOb) | [In Your Dreams](https://open.spotify.com/album/36R6wobbzc5PL9NwgHnDDX) | 3:17 | 2021-11-21 | 2022-07-19 |
@@ -167,7 +167,7 @@
 | [Island](https://open.spotify.com/track/0frFK9RPyxL8eJnMjqUm4t) | [BIRA](https://open.spotify.com/artist/6EYGOF6cZKxAyiBwATdvBp) | [Island](https://open.spotify.com/album/3PeYKpKOgDELLCewGJErHX) | 3:49 | 2021-11-21 | 2022-07-05 |
 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 | 2021-11-21 | 2022-07-29 |
 | [It was you](https://open.spotify.com/track/36yrJtDD5FaVOnV8lUtCs1) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [It was you](https://open.spotify.com/album/1LhsjYTvPWbP1WBQ2wqdBX) | 4:17 | 2021-11-21 | 2022-07-29 |
-| [Jenga \(feat\. Gaeko\)](https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:30 | 2022-03-22 |  |
+| [Jenga \(feat\. Gaeko\)](https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:30 | 2022-03-22 | 2024-04-03 |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-11-21 | 2022-07-18 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-07 | 2024-03-22 |
 | [KILLER](https://open.spotify.com/track/1NMxmQKHCIqbz2QKxd1X2E) | [FAINIT](https://open.spotify.com/artist/2RRJVX5gr6einLIajJdDa5) | [KILLER](https://open.spotify.com/album/2hZEI76bqonuaH7Ew3Opp6) | 3:10 | 2022-06-18 | 2022-06-20 |
@@ -290,6 +290,7 @@
 | [Seiren](https://open.spotify.com/track/3TygjfDZ8m6ehJpIGO39CA) | [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Seiren](https://open.spotify.com/album/1j3OwiDesda3wbEvmtCzBq) | 3:02 | 2022-03-22 | 2022-06-13 |
 | [Selfish Girl](https://open.spotify.com/track/6B1DMetKl9hr4HLojRFj1n) | [Oh An](https://open.spotify.com/artist/1BQMCIHsVB1i8UJRILPQCG), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [OhAn and prejudice \#1](https://open.spotify.com/album/4rfPMp7sGoGBeWJ96cFksx) | 3:19 | 2021-11-21 | 2022-05-30 |
 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-28 |  |
+| [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-04-02 |  |
 | [Shiny Light](https://open.spotify.com/track/0qpfmbAzsdXiKIQWokdSYB) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Shiny Light](https://open.spotify.com/album/1JcGAEZQGlg7DRkkFJzDyx) | 3:16 | 2021-11-21 | 2022-07-26 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-21 |  |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2023-11-29 | 2024-01-03 |

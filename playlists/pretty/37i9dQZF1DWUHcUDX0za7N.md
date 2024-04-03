@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Ajebo Hustelrs
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,729 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,800 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 8 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 |
 | 9 | [Breeze Mashup](https://open.spotify.com/track/0WQDe8UA5gYpanhKFVQGNl) | [Ikechukwu](https://open.spotify.com/artist/7xhdfJjebilccfAhprilhE), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [O.G .Unkle.Killz](https://open.spotify.com/album/4R6UL67rviimyImoxqHURa) | 4:25 |
 | 10 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
-| 11 | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Psychoyp](https://open.spotify.com/artist/0zXL9AbkRZtWXFFufCX8X6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF) | 2:46 |
+| 11 | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF) | 2:46 |
 | 12 | [I Don't Care \(feat\. Bella Shmurda & Vector\)](https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bella Shmurda](https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni), [Vector](https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:52 |
 | 13 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
 | 14 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 50 | [You Go Know](https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [You Go Know](https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG) | 2:22 |
 | 51 | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA) | 2:18 |
 | 52 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
-| 53 | [Bad Since '97](https://open.spotify.com/track/5t5oLw5209yleTnJSqM097) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:14 |
-| 54 | [PAPILO \(Smadumodu\)](https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:12 |
+| 53 | [PAPILO \(Smadumodu\)](https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:12 |
+| 54 | [Bad Since '97](https://open.spotify.com/track/5t5oLw5209yleTnJSqM097) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:14 |
 | 55 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 |
 | 56 | [P.P.P \(Puff Puff Pass\)](https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [BOYAHNAH](https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9) | 2:04 |
 | 57 | [Demons & Angels](https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Demons & Angels](https://open.spotify.com/album/1Mbqe3atwMxu9DKRzawdbr) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Jowo](https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT) | 2:43 |
 | 70 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 |
 
-Snapshot ID: `MCw4MDExZWM2MmJkYmJjN2I4YWY2MzZhYTJiMmVjNmZkYTNmZWJjOTBj`
+Snapshot ID: `MCwwYTNlMzY4NmYwOGVmYzk2OGMyYTljMjYzNzBmOGJiNzFmOGQwNjBk`

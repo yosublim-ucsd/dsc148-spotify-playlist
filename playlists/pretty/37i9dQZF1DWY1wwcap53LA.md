@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Dalton Dover
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,546 likes - 132 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,604 likes - 132 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 131 | [See You in Church](https://open.spotify.com/track/6KncYAsbwJj852e0gyajOE) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [See You in Church.](https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv) | 3:08 |
 | 132 | [You Got a Small Town](https://open.spotify.com/track/4XETfjmA6u9yy3CSfh1oFL) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 2:59 |
 
-Snapshot ID: `MCxjMjUwYmZlYWQ4ZDc4YjQxZGQ4MTNlNTk4MmU4NTAxZjQ1YWJjOWJj`
+Snapshot ID: `MCw2ZDk5NzViYzVmNzVkOTcyMGQ1NmI4NDRiZjNiZDg0OGRlZDkyYThi`

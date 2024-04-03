@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,430 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,436 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 49 | [Daru Band](https://open.spotify.com/track/5ykIUH7FqS7J9rMIGx07sj) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Do Gabru \- Mankirt Aulakh & Parmish Verma](https://open.spotify.com/album/0VCDWiGktLuwEvDZyOqYmn) | 3:17 |
 | 50 | [PRADA](https://open.spotify.com/track/4CxTBbdPUiwk2dSUrcg9CD) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [PRADA](https://open.spotify.com/album/2dhSH8zRnAcGhCk0P4GGWC) | 3:05 |
 
-Snapshot ID: `MCw3MTQ4NjFkYzUxMTMwYTk0Y2QxMGE2MzVkMDYwMDY3OGMxYzE4OTNm`
+Snapshot ID: `MCxiZjQ0YmUwZjk1NTcxY2RkMDBkZGY3OWFiZTc5MzdiMWU3ODA2NTM2`

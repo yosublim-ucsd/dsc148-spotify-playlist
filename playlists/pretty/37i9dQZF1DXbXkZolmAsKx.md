@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,438 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,449 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,20 +78,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 68 | [Kites I](https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Installations](https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq) | 8:03 |
 | 69 | [Bridgets' Theme](https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 2:14 |
 | 70 | [Faded Earth](https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 3:47 |
-| 71 | [soft rime](https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [chapter](https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e) | 4:47 |
-| 72 | [So Close](https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [Fire Light](https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3) | 3:27 |
+| 71 | [So Close](https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [Fire Light](https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3) | 3:27 |
+| 72 | [soft rime](https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [chapter](https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e) | 4:47 |
 | 73 | [Infra 1](https://open.spotify.com/track/3c7ZpMEp2doDCVm1Rw7Vf3) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [Nick Barr](https://open.spotify.com/artist/4wY5whlhuthLIZfG1IaZ6Y), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Infra](https://open.spotify.com/album/7zwjum4hz8odYpeZrSZyz2) | 4:04 |
-| 74 | [Equal Ourselves](https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 3:59 |
+| 74 | [Warm](https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 7:09 |
 | 75 | [Walking in a spiral towards the house: Side D](https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 12:28 |
-| 76 | [Warm](https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 7:09 |
-| 77 | [Distant](https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Distant and Spirals](https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R) | 6:44 |
+| 76 | [Distant](https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Distant and Spirals](https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R) | 6:44 |
+| 77 | [Equal Ourselves](https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 3:59 |
 | 78 | [Without Motion \- Leandro Fresco Remix](https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Leandro Fresco](https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 7:44 |
 | 79 | [Diminishing Emotion](https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy) | [Leyland Kirby](https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC) | [Breaks My Heart Each Time](https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3) | 9:18 |
 | 80 | [Blue Diamond](https://open.spotify.com/track/6DYje8nscLyfBGXDyrF41C) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Goodbye To Language](https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN) | 3:19 |
-| 81 | [Wound](https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Xen](https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe) | 2:09 |
-| 82 | [An Evening With Dusty](https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 8:09 |
-| 83 | [Two Different People](https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt) | [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By) | [Living With Yourself](https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx) | 3:22 |
-| 84 | [Ogives / Redistributed](https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Curious Things](https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF) | 5:28 |
+| 81 | [Ogives / Redistributed](https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Curious Things](https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF) | 5:28 |
+| 82 | [Wound](https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Xen](https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe) | 2:09 |
+| 83 | [An Evening With Dusty](https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 8:09 |
+| 84 | [Two Different People](https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt) | [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By) | [Living With Yourself](https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx) | 3:22 |
 | 85 | [Shimmer](https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [It All Falls Apart](https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg) | 6:14 |
 | 86 | [Remember](https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [We Will Always Be](https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c) | 6:04 |
 | 87 | [The Last of Our Time Together](https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [The Last of Our Time Together](https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc) | 16:02 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 96 | [Second Lens](https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:25 |
 | 97 | [LUX 1.4](https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:32 |
 | 98 | [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/2oyd6bi7oVJlidyya5dHKQ) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [Travels in Constants Volume 24](https://open.spotify.com/album/690BSJU73zkz1gbUJ9AkAE) | 3:24 |
-| 99 | [Living Lens](https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Centralia](https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG) | 4:56 |
-| 100 | [Gentle Flight](https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [21 Exoticism ESCAP](https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h) | 3:17 |
+| 99 | [Gentle Flight](https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [21 Exoticism ESCAP](https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h) | 3:17 |
+| 100 | [Living Lens](https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Centralia](https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG) | 4:56 |
 
-Snapshot ID: `MCxhMzM1MWQ4OTY2ZmQ5YTk0NTQ1NjMwNmYxYWM2YzZiM2ZjOGNlYThm`
+Snapshot ID: `MCw0NmEzZWJhMzlhZTBmZmYzZDdkYWUwNDRhMDYwMTQ2NWQzMjljMTBi`

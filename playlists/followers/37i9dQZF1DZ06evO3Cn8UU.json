@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 33636,
+  "2024-04-03": 33650,
   "date_first_scraped": "2022-05-26",
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
   "name": "This Is Teddy Pendergrass",
@@ -267,6 +267,24 @@
       "duration_ms": 278760,
       "name": "Do Me",
       "url": "https://open.spotify.com/track/0ogeo2q1bDMniTGp1auZIn"
+    },
+    {
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "Don't Keep Wastin' My Time",
+      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
     },
     {
       "album": {
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 240946,
       "name": "I Want My Baby Back",
       "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 299120,
       "name": "Love T.K.O.",
       "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 308333,
       "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"

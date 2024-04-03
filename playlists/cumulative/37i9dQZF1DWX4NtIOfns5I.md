@@ -4,7 +4,7 @@
 
 > bright future by adrianne lenker has arrived ☀️
 
-222 songs - 13 hr 1 min
+223 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 | 2023-10-06 | 2024-02-10 |
 | [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 | 2024-01-26 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-10-06 |  |
-| [Cottontail](https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Cottontail](https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU) | 2:41 | 2024-02-16 |  |
+| [Cottontail](https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Cottontail](https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU) | 2:41 | 2024-02-16 | 2024-04-03 |
+| [Cottontail](https://open.spotify.com/track/0d3BExBN8rYm0jyyBfsJst) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 2:41 | 2024-02-16 |  |
 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-15 |  |
 | [Crop Circles](https://open.spotify.com/track/2VOrYcyK0rqa9gZ0gUL0fI) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Crop Circles](https://open.spotify.com/album/6o8QongKZ7ZPCgy6EYghhC) | 3:46 | 2023-10-06 |  |
 | [Crux](https://open.spotify.com/track/4RjJYMYRPsJMVeLqjRNgWR) | [Wallker](https://open.spotify.com/artist/63D2ytMsspeVC2z9qrfQLI) | [Gray and Sour, Morning Hush](https://open.spotify.com/album/0baXYOoDgSLcra7tWPNMC1) | 2:48 | 2023-10-06 | 2023-12-16 |

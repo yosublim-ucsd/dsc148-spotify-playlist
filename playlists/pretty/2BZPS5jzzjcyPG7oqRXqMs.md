@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 ### [Christian Soundtracks \(Movie + TV\) 2024](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
 
-> 2024 Christian Soundtracks \| Musicals Mix \| Musical Soundtracks \| Musical Bops \| Christian TV Bops \| Journey to Bethlehem \| Musical Theatre Mix \| Christian Music 2024 \| The Chosen \| Movie Musicals Mix \| Musical Theatre Musicals Mix \| Theatre Bops 2024 \| Christian Movies
+> Christian Soundtracks \(Movie + TV\) 2024 \| Music from Christian Movies and TV that we all know and love made by <a href="spotify:user:sozoofficial">SOZO Playlists</a> ! Cover: <a href="https://open.spotify.com/playlist/48sh4izdZC5kNNcec80Gec?si=93f6dc9e903b4854">Cast of Journey To Bethlehem</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,680 likes - 109 songs - 6 hr 50 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,679 likes - 109 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 108 | [For Every Mountain \- Remix](https://open.spotify.com/track/4ySaUNWfWMRBuHJXKgQ5XJ) | [Kingdom Business Cast](https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn), [Tytist](https://open.spotify.com/artist/2kQKQZOPjlvy0bz2BbE9w3) | [Kingdom Business 2 \(Music from the BET+ Original TV Series\)](https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky) | 2:40 |
 | 109 | [When You Believe](https://open.spotify.com/track/0w1dqIds7K9sQna7dSCdan) | [Alexia Khadime](https://open.spotify.com/artist/4jtNresJX9NjFZczXgXfqY), [Christine Allado](https://open.spotify.com/artist/3dl5JxBCHHKpXS8DPFSEpN), [Mia Lakha](https://open.spotify.com/artist/16OPzi7kd5bfNEoK8MLdqi), [Luke Brady](https://open.spotify.com/artist/2jHGDVfLRdO9sheZMMKAng), [The Prince of Egypt Original Cast Ensemble](https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe) | [The Prince of Egypt \(Original Cast Recording\)](https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71) | 4:34 |
 
-Snapshot ID: `MzM2OSxmNmYxMTEzYzI3ZGQ1NDdjNTc3YmIxZGJlMjc5OWU3MzdkODFjNmM2`
+Snapshot ID: `MzM3MSxhZjVmYTQwOGM3ODE4OWI4NTFjMmNhMjQ4MmEzMjNlMjVhZjhhNDAy`

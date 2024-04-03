@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Crank it up\. Cover: Brantley Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,973 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,976 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 17 | [Son Of The Dirty South](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 2:59 |
 | 18 | [Outback \(Extended Remix\)](https://open.spotify.com/track/1TCEkwRoCOeqLSj7IxYSd3) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Durwood Black](https://open.spotify.com/artist/4MUvRyLfPPLd35bnFTUjDz), [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [D\. Thrash](https://open.spotify.com/artist/0xZDRONxKQoyG5S2HTbjj5), [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Blacked Out](https://open.spotify.com/album/3s3zL0GTPCOopTqv9laBQy) | 8:09 |
 | 19 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 |
-| 20 | [Duramax \(feat\. Young Gunner\)](https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1) | [The Grind](https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE) | 3:06 |
+| 20 | [Po\-Dunk](https://open.spotify.com/track/1iuuoraT8gBaGAZWvhZGkD) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Sweet Southern Sugar](https://open.spotify.com/album/4J4DGZzDABGKm0cQfXxWV3) | 4:31 |
 | 21 | [Hood](https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Must Be The Country](https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6) | 3:09 |
-| 22 | [Po\-Dunk](https://open.spotify.com/track/1iuuoraT8gBaGAZWvhZGkD) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Sweet Southern Sugar](https://open.spotify.com/album/4J4DGZzDABGKm0cQfXxWV3) | 4:31 |
+| 22 | [Duramax \(feat\. Young Gunner\)](https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1) | [The Grind](https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE) | 3:06 |
 | 23 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 |
 | 24 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 |
 | 25 | [Put in Work](https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Bubba Mathis EP](https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G) | 3:31 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
 
-Snapshot ID: `MCw3OGIwOWY2ZDA5ZDU4NWNkYzA1Y2Y2MzhhNDhiZWUwMTcwZWQxMTM0`
+Snapshot ID: `MCxkYWQxMTEzZDQ3YjIxZmQ3NThkNzE3M2YwYWI5ODk4MmMwMDliMmFl`

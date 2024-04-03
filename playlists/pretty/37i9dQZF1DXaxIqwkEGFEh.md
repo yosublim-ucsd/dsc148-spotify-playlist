@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,215 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,344 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 |
 | 100 | [Heard Of Me](https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Heard Of Me](https://open.spotify.com/album/21EvF7Ad9W7agK0o0vSBqz) | 3:44 |
 
-Snapshot ID: `MCwzMWEwMzE5NDJlZDVmNzA0NjdhNjIzOTgwNzYwYWVkYTE5NTVhNjQ1`
+Snapshot ID: `MCw3MWVkMGVlNGZjNzQ1Y2JmNDhiNGI2MWZjYzdiZTc3NDY1YTJiODc5`

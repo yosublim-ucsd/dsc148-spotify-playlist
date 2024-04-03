@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Louisette & Amaury
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,836 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,847 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 21 | [Le Marbre](https://open.spotify.com/track/2e5C5tdiQEjk3QCa1H9AbV) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [Le Marbre](https://open.spotify.com/album/2qh4jxj48CyH6n7jUuk8Ja) | 2:22 |
 | 22 | [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 |
 | 23 | [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 |
-| 24 | [Fragile](https://open.spotify.com/track/2Md4p1zQCVkyPQDuxKho5L) | [CARLA DONA](https://open.spotify.com/artist/5WN3kbUKg1vpWSlEsuNx0x) | [Fragile](https://open.spotify.com/album/2TzIs1gMlmTvYdcpT9GKx6) | 2:58 |
+| 24 | [Fragile](https://open.spotify.com/track/2Md4p1zQCVkyPQDuxKho5L) | [Carla Dona](https://open.spotify.com/artist/5WN3kbUKg1vpWSlEsuNx0x) | [Fragile](https://open.spotify.com/album/2TzIs1gMlmTvYdcpT9GKx6) | 2:58 |
 | 25 | [Crash](https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Monstrueuse](https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X) | 3:28 |
 | 26 | [Plus rien à perdre](https://open.spotify.com/track/1imBbvEq9JCGmpYe9S4e4D) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plus rien à perdre](https://open.spotify.com/album/6VVCYq9xfB0G5aiie7NBAN) | 2:48 |
 | 27 | [Belle et douce](https://open.spotify.com/track/62EIK97xEvRVHCPMluN8bR) | [Enola Cox](https://open.spotify.com/artist/4FugFjuE5dLtKNtSbxe3gD) | [Mémoire d'un Été](https://open.spotify.com/album/59xVZaODpDUf84OtD7QwYJ) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Moi du Passé](https://open.spotify.com/track/72bwy4wAvp7D2oRsZZ65pp) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW), [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Moi du Passé](https://open.spotify.com/album/1wxKnSrpD8XfrmOgAY0Vmw) | 3:07 |
 | 50 | [Forteresse](https://open.spotify.com/track/2dlsjJGFMoWD3Nu4YcIX09) | [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Forteresse](https://open.spotify.com/album/5bjLJg01d8FPkMKBdNxeQp) | 2:53 |
 
-Snapshot ID: `MCwyYTU1ZDk1YjNlN2IyMzQ0OTM4OGFiMGE3YzVmYmUzNmY4NDAzNjRl`
+Snapshot ID: `MCwxMTE3ZjFjZDNhMDYwZjE5ODk4YjIwNWQ1MmMwMjRkMzE4MWJkNDA3`

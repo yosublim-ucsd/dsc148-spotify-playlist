@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-993 songs - 2 day 0 hr 54 min
+994 songs - 2 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Never Going Back](https://open.spotify.com/track/44NLMWMljj6VGNIzOfwsDt) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ) | [Never Going Back](https://open.spotify.com/album/74yRPHHckBZoCjGZAmCNKb) | 2:52 | 2022-11-04 | 2022-11-12 |
 | [Never Leave Me](https://open.spotify.com/track/750IEpoifcy2HeUbZdBtuM) | [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [Ray Yung](https://open.spotify.com/artist/0zZb8rW9zsevcZi72WM9RJ) | [Keep It Kingdom](https://open.spotify.com/album/3MlxrwLeigcp0s9GMBwEAH) | 4:45 | 2022-04-29 | 2022-08-07 |
 | [Never Leave Me](https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Never Leave Me](https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0) | 3:18 | 2024-02-09 | 2024-02-24 |
+| [NEVER QUIT](https://open.spotify.com/track/0goNoN3HwZEpsElESSMwMW) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [NEVER QUIT](https://open.spotify.com/album/5Yal9oogb6HDQSJtaJSECN) | 2:45 | 2024-03-29 |  |
 | [Never Scared](https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt) | 3:16 | 2022-08-06 | 2022-09-15 |
 | [New Day](https://open.spotify.com/track/5DPZx70S847lrn640OizK3) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day](https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H) | 3:01 | 2022-07-17 | 2023-08-26 |
 | [New Level](https://open.spotify.com/track/28YWHjBQY8Thn65P7wnF4O) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [New Level](https://open.spotify.com/album/4aA8CI2CJv5gffAePjQAOe) | 2:36 | 2022-02-04 | 2022-03-13 |
@@ -843,7 +844,7 @@
 | [Tap In](https://open.spotify.com/track/1m6DoxPK75pRVThUXNaUr6) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi), [IG Chat](https://open.spotify.com/artist/1YmlzdqvEpaNO4wQ0zFVYw) | [Tap In](https://open.spotify.com/album/6W1hT7lFHBzi2GxGQ6nBBV) | 2:33 | 2023-08-25 | 2024-02-10 |
 | [TEGUCCI](https://open.spotify.com/track/7tDqPQ6cdfwtNzeThl1LCQ) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [TEGUCCI](https://open.spotify.com/album/2ethrZPr6dQal5tUnemnSB) | 1:47 | 2021-12-11 | 2022-04-21 |
 | [Tell Me](https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz) | [Aable](https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Tell Me](https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV) | 3:08 | 2022-04-29 | 2022-07-28 |
-| [Temple In LA](https://open.spotify.com/track/0cjPzxsVr1L5NP8psCvVBv) | [Leon Anderson](https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV) | [Temple In LA](https://open.spotify.com/album/5ok3X7Rm2AZlIOBTdaWWfc) | 3:23 | 2024-02-09 |  |
+| [Temple In LA](https://open.spotify.com/track/0cjPzxsVr1L5NP8psCvVBv) | [Leon Anderson](https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV) | [Temple In LA](https://open.spotify.com/album/5ok3X7Rm2AZlIOBTdaWWfc) | 3:23 | 2024-02-09 | 2024-04-03 |
 | [Ten Thousand Hours](https://open.spotify.com/track/53kWZsSMteWce3cjqFGiXJ) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Ten Thousand Hours](https://open.spotify.com/album/15c44B9FUOfV2YdzouRKRE) | 2:20 | 2022-07-17 | 2022-10-31 |
 | [Terraform \(feat\. Brandi Price\)](https://open.spotify.com/track/6cZXAkMHY6HCYGQU3Uru9A) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [L's](https://open.spotify.com/artist/7cUbRxCpEq5eKtdRJJHFtj), [Brandi Price](https://open.spotify.com/artist/1PjOAwA4O7hnNutcGKrtgn) | [Terraform: The Sky](https://open.spotify.com/album/09lNRhUgiYaY45cRX2ah1f) | 4:58 | 2021-12-11 | 2022-03-10 |
 | [Tested](https://open.spotify.com/track/1vCJ5LrHXRPUsSCZe4jeP8) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [Tested](https://open.spotify.com/album/1chlteN1sQQVdWFHhRS7LY) | 2:08 | 2022-04-29 | 2022-07-12 |

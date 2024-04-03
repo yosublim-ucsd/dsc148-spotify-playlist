@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar. Conmemorando la vida de Diomedes D\u00edaz este 22 de Diciembre.",
-  "num_followers": 105412,
+  "num_followers": 105487,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg1YzY2ZDQwODExMGVhMTY3ZDEyNGI4ZWM1ZjJmOTViYTY1MTE0",
+  "snapshot_id": "MCw5MmZjYzMyM2E2MGQ4NWM3ZTNlZWIwODJkODYyMTdjZmQ1ODg0YWI3",
   "tracks": [
     {
       "added_at": "2023-12-21 21:42:36",
@@ -135,22 +135,18 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "Brindo Con El Alma",
-        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
+        "name": "Corazon Vallenato",
+        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
         }
       ],
-      "duration_ms": 300760,
-      "name": "Sin Medir Distancias",
-      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
+      "duration_ms": 298826,
+      "name": "Como Duele El Frio",
+      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -187,18 +183,22 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "Corazon Vallenato",
-        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
+        "name": "Brindo Con El Alma",
+        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
       },
       "artists": [
         {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
         }
       ],
-      "duration_ms": 298826,
-      "name": "Como Duele El Frio",
-      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
+      "duration_ms": 300760,
+      "name": "Sin Medir Distancias",
+      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "T\u00fa Eres La Reina",
-      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
         "name": "La Combinacion Vallenata Elite Vol. 5",
         "url": "https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 289133,
       "name": "Todo Daria por Ti",
       "url": "https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "T\u00fa Eres La Reina",
+      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+        }
+      ],
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
         "name": "Orgullosa",
         "url": "https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 289386,
       "name": "Amarte Mas No Pude",
       "url": "https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
-        }
-      ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "A Mi Manera",
-        "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Zabaleta",
-          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
-        }
-      ],
-      "duration_ms": 275186,
-      "name": "El Amor M\u00e1s Grande del Planeta",
-      "url": "https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
         "name": "La Historia Continua",
         "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 315862,
       "name": "10 Razones Para Amarte",
       "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
+        "name": "Muchas Gracias",
+        "url": "https://open.spotify.com/album/3c1CSERUmlYIOpmVRJV15r"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Ivan Zuleta",
+          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
+        }
+      ],
+      "duration_ms": 296600,
+      "name": "La Suerte Esta Echada",
+      "url": "https://open.spotify.com/track/70D93Sai1gWfwlj7neZIEa"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -547,22 +547,22 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "Muchas Gracias",
-        "url": "https://open.spotify.com/album/3c1CSERUmlYIOpmVRJV15r"
+        "name": "A Mi Manera",
+        "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
         },
         {
-          "name": "Ivan Zuleta",
-          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
+          "name": "Zabaleta",
+          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
         }
       ],
-      "duration_ms": 296600,
-      "name": "La Suerte Esta Echada",
-      "url": "https://open.spotify.com/track/70D93Sai1gWfwlj7neZIEa"
+      "duration_ms": 275186,
+      "name": "El Amor M\u00e1s Grande del Planeta",
+      "url": "https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
-        "name": "26 De Mayo",
-        "url": "https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "La Plata",
-      "url": "https://open.spotify.com/track/61xyQGDYH9yMn4H9MpTh3g"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 276360,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
+        "name": "26 De Mayo",
+        "url": "https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "La Plata",
+      "url": "https://open.spotify.com/track/61xyQGDYH9yMn4H9MpTh3g"
     },
     {
       "added_at": "2023-12-21 21:42:36",
@@ -847,6 +847,30 @@
     {
       "added_at": "2023-12-21 21:42:36",
       "album": {
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Todo No Puede Llamarse Amor (with V\u00edctor Manuelle)",
+      "url": "https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r"
+    },
+    {
+      "added_at": "2023-12-21 21:42:36",
+      "album": {
         "name": "La Combinacion Vallenata Vol. 3",
         "url": "https://open.spotify.com/album/3YvmSceIoFKWBoUPb2VciJ"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 249560,
       "name": "Mi Celosa Hermosa",
       "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
-    },
-    {
-      "added_at": "2023-12-21 21:42:36",
-      "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Todo No Puede Llamarse Amor (with V\u00edctor Manuelle)",
-      "url": "https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r"
     },
     {
       "added_at": "2023-12-21 21:42:36",

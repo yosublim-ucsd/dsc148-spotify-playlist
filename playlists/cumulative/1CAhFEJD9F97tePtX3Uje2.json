@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Autumn Wind",
+        "url": "https://open.spotify.com/album/6sJ0X7UrBbVkh0VRuMCzaJ"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "Autumn Wind",
+      "url": "https://open.spotify.com/track/0vwMdWKwS4mjeKiYvEq5Vc"
+    },
+    {
+      "album": {
         "name": "Narcoleptic Tendencies",
         "url": "https://open.spotify.com/album/3l9I2pyZBPXZv3fK2OWfDC"
       },

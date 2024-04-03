@@ -6,12 +6,12 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MjgwODAsMDAwMDAwMDAyZGMzMjM3MjAzNjBlYjIzM2Q0ODZlZDI3NzIwMWQ1NQ==",
+  "snapshot_id": "Mjg1MjgwODAsMDAwMDAwMDA1MDIxYWQ4YWU1NjhjZmVmNmFiM2E5MThlZDg4NjY0OQ==",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Living in a Haze (feat. The Beaches)",
+        "name": "Living In A Haze (feat. The Beaches)",
         "url": "https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E"
       },
       "artists": [
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 173371,
-      "name": "Living in a Haze - feat. The Beaches",
+      "name": "Living In A Haze - feat. The Beaches",
       "url": "https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB"
     },
     {
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Wave That Flag (Demo) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/09NdfSCD0jLX3rUqZse28W"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 299997,
+      "name": "Wave That Flag (Demo) - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5vYr8qt5uRWKOU4A00zLmm"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Rock Stars",
         "url": "https://open.spotify.com/album/30wqi2wghld9Iwrb7dLFhr"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 229154,
       "name": "Rock Stars",
       "url": "https://open.spotify.com/track/2tvgZZE2YvSQTv7piAcnOc"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Wave That Flag (Demo) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/09NdfSCD0jLX3rUqZse28W"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 299997,
-      "name": "Wave That Flag (Demo) - 2024 Remaster",
-      "url": "https://open.spotify.com/track/5vYr8qt5uRWKOU4A00zLmm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -178,11 +178,15 @@
         {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 210965,
-      "name": "The Theme - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/3hFFfkl3A0aBPmKKrPbmcD"
+      "duration_ms": 378652,
+      "name": "Autumn leaves / What\u2019s New / Moonlight in Vermont - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/0hIZZy30wPwAOYUhrDDZC8"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -216,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 496000,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6j26hZrPv6MLYJMBPwv1hz"
+      "duration_ms": 176000,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2dPo9buiY2Vx1q7zKMCuFE"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -283,22 +287,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Bulls On Parade (Leo Version)",
-        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 224704,
-      "name": "Bulls On Parade (Leo Version)",
-      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "dark days",
         "url": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
       },
@@ -315,6 +303,22 @@
       "duration_ms": 212613,
       "name": "dark days",
       "url": "https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Bulls On Parade (Leo Version)",
+        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 224704,
+      "name": "Bulls On Parade (Leo Version)",
+      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -539,22 +543,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Triptyque : Lueurs c\u00e9lestes",
-        "url": "https://open.spotify.com/album/3Y4Fve4mKlaHzrDfnZ6XFo"
-      },
-      "artists": [
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 125445,
-      "name": "Modernidad",
-      "url": "https://open.spotify.com/track/5GFO0iaogNFFKm5a3Acb7j"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Girls5eva Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/0lOoFKyv1oX6wUp6Jqi5pS"
       },
@@ -576,9 +564,25 @@
           "url": "https://open.spotify.com/artist/2uGI8r7HVc9ldVspXnKLbW"
         }
       ],
-      "duration_ms": 139500,
-      "name": "Tap Into Your (Fort) Worth",
-      "url": "https://open.spotify.com/track/7eSQr7gAkqiGhwK7vnoNNA"
+      "duration_ms": 130142,
+      "name": "The Medium Time",
+      "url": "https://open.spotify.com/track/0DDkhf8hm9j6wImZIGAaKf"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Triptyque : Lueurs c\u00e9lestes",
+        "url": "https://open.spotify.com/album/3Y4Fve4mKlaHzrDfnZ6XFo"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 125445,
+      "name": "Modernidad",
+      "url": "https://open.spotify.com/track/5GFO0iaogNFFKm5a3Acb7j"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -620,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 278067,
-      "name": "Gates of Hell",
-      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
+      "duration_ms": 286507,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x"
     },
     {
       "added_at": "2024-03-29 04:00:00",

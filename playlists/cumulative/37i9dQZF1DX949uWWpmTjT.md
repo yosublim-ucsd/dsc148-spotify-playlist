@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,003 songs - 2 day 17 hr 1 min
+1,004 songs - 2 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2023-08-31 |  |
 | [Dark Turn of Mind](https://open.spotify.com/track/20877fmWnjvhKkkLUpLlJ3) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Mads Søndergaard](https://open.spotify.com/artist/1MLs5YRz48RslZbzeWbCQc) | [Dark Turn of Mind](https://open.spotify.com/album/2KPx7Fp7cB5xibNw6Ttkmv) | 5:38 | 2024-02-16 | 2024-03-21 |
 | [Darn That Dream](https://open.spotify.com/track/0GGvzr8DvHlwkkDsxX97Mm) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Darn that Dream](https://open.spotify.com/album/6StNAT06U2F7veDX8UdZCd) | 4:59 | 2021-12-03 | 2024-03-08 |
+| [Darn that Dream](https://open.spotify.com/track/2o8e9FeYEFfRwQil9CArII) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Darn that Dream](https://open.spotify.com/album/533MXY92csIUs0p23KoIZ5) | 4:59 | 2024-03-29 |  |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2023-02-09 |  |
 | [Days of Hope](https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Days of Hope](https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk) | 2:34 | 2024-02-23 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Boss Guitar](https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR) | 3:46 | 2022-09-01 | 2022-11-18 |
@@ -884,7 +885,7 @@
 | [Through the Fog](https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 3:49 | 2023-04-13 | 2024-02-24 |
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 |  |
 | [Throughout](https://open.spotify.com/track/3CzfCEu7xH7dDDD1MreOz0) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Throughout](https://open.spotify.com/album/0vLAIDSbyeYbuaKPkaIDUm) | 5:24 | 2023-11-24 | 2024-02-05 |
-| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 |  |
+| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 | 2024-04-03 |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 |  |
 | [Time For Us All](https://open.spotify.com/track/3qkps5sd1PZ16qddlIiA28) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Time For Us All](https://open.spotify.com/album/1vDWKR0MtOjAGZkNLxU1IV) | 3:17 | 2023-08-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 24002,
+  "num_followers": 24027,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWViM2ZlYzVmNTg2MWEwZDRlMTZjMjc4ZjhjOGJlNTliMTEyMDcy",
+  "snapshot_id": "MCw2YjNiMzljNDY3NTU4ZGM3NmU4N2RmN2YwM2I2MGE3NzgzZWU1N2I2",
   "tracks": [
     {
       "added_at": "2023-12-22 23:46:17",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Remedio Pal Alma",
+        "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "De Los Dias, Los Mas Lindos",
+      "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Tu Respuesta",
         "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 165040,
       "name": "Cuequita del Desenga\u00f1o",
       "url": "https://open.spotify.com/track/0yNasMmFNCvAv6X7QDk4AJ"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Remedio Pal Alma",
-        "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
-      },
-      "artists": [
-        {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "De Los Dias, Los Mas Lindos",
-      "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Uno M\u00e1s 6",
+        "url": "https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf"
+      },
+      "artists": [
+        {
+          "name": "Paola Arias",
+          "url": "https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt"
+        },
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 143346,
+      "name": "Campo Afuera",
+      "url": "https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 110291,
       "name": "El T\u00edmido (feat. Nahuel Pennisi)",
       "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Uno M\u00e1s 6",
-        "url": "https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf"
-      },
-      "artists": [
-        {
-          "name": "Paola Arias",
-          "url": "https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt"
-        },
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 143346,
-      "name": "Campo Afuera",
-      "url": "https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Como Un P\u00e1jaro Libre (Slidepack)",
         "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 286627,
       "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Wi\u00f1ay",
-        "url": "https://open.spotify.com/album/0vKMwOpwogmFq8GZNOLzfl"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Wi\u00f1ay",
-      "url": "https://open.spotify.com/track/6SYH8a7ZpLXiPKAPRbNsGE"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Humanas Voces",
         "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 189906,
       "name": "La Estrella Azul",
       "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "La Noche Sin Ti",
+        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
+      },
+      "artists": [
+        {
+          "name": "Mariel Trimaglio",
+          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
+        }
+      ],
+      "duration_ms": 284605,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "La Noche Sin Ti",
-        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
+        "name": "Wi\u00f1ay",
+        "url": "https://open.spotify.com/album/0vKMwOpwogmFq8GZNOLzfl"
       },
       "artists": [
         {
-          "name": "Mariel Trimaglio",
-          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 284605,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
+      "duration_ms": 177142,
+      "name": "Wi\u00f1ay",
+      "url": "https://open.spotify.com/track/6SYH8a7ZpLXiPKAPRbNsGE"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Soy Semilla",
-        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 220941,
-      "name": "Algo de M\u00ed",
-      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Como respirar",
         "url": "https://open.spotify.com/album/17R6jsK6zbmF8JVAPtJczY"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 175945,
       "name": "D\u00e9cimas",
       "url": "https://open.spotify.com/track/0AyDFVksN7gBHYiLk2FWwO"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Soy Semilla",
+        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Algo de M\u00ed",
+      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Gaucha",
-        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+        "name": "Cuando Vuelva a encontrarte",
+        "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
       },
       "artists": [
         {
-          "name": "Mavi Diaz &  Las Folkies",
-          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+          "name": "Mili Escudero y Agus Sol\u00e1",
+          "url": "https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU"
         }
       ],
-      "duration_ms": 107710,
-      "name": "La Arruguita",
-      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
+      "duration_ms": 175746,
+      "name": "Sue\u00f1ero",
+      "url": "https://open.spotify.com/track/3iJCbESRoT3JX1WC918Uqr"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Cuando Vuelva a encontrarte",
-        "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
+        "name": "Gaucha",
+        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
       },
       "artists": [
         {
-          "name": "Mili Escudero y Agus Sol\u00e1",
-          "url": "https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU"
+          "name": "Mavi Diaz &  Las Folkies",
+          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
         }
       ],
-      "duration_ms": 175746,
-      "name": "Sue\u00f1ero",
-      "url": "https://open.spotify.com/track/3iJCbESRoT3JX1WC918Uqr"
+      "duration_ms": 107710,
+      "name": "La Arruguita",
+      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1475,6 +1475,22 @@
       "duration_ms": 327522,
       "name": "El Cami\u00f3n de Germ\u00e1n",
       "url": "https://open.spotify.com/track/1IfqQiw3sz9GgsoTrDDblL"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Cosecha",
+          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
+        }
+      ],
+      "duration_ms": 206151,
+      "name": "La Copla Triste",
+      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1511,18 +1527,26 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
+        "name": "Mi Fortuna",
+        "url": "https://open.spotify.com/album/6OMsoHIODcqEoZ6wPt74KE"
       },
       "artists": [
         {
-          "name": "Mar\u00eda y Cosecha",
-          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
+          "name": "Don Olimpio",
+          "url": "https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9"
+        },
+        {
+          "name": "Agust\u00edn Lumerman",
+          "url": "https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE"
+        },
+        {
+          "name": "Juan Pablo Di Leone",
+          "url": "https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9"
         }
       ],
-      "duration_ms": 206151,
-      "name": "La Copla Triste",
-      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
+      "duration_ms": 217035,
+      "name": "La Luminosa",
+      "url": "https://open.spotify.com/track/3Grrk14Wz7ALdaH6EBYoFT"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1539,30 +1563,6 @@
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Tarareando, Con los Pies Descalzos",
-        "url": "https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Parodi",
-          "url": "https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn"
-        },
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Lula Parodi",
-          "url": "https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo"
-        }
-      ],
-      "duration_ms": 267613,
-      "name": "Tarareando",
-      "url": "https://open.spotify.com/track/57xg7b2ktHnzQv3l5Vo2Oc"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1599,26 +1599,26 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Mi Fortuna",
-        "url": "https://open.spotify.com/album/6OMsoHIODcqEoZ6wPt74KE"
+        "name": "Tarareando, Con los Pies Descalzos",
+        "url": "https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk"
       },
       "artists": [
         {
-          "name": "Don Olimpio",
-          "url": "https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9"
+          "name": "Ver\u00f3nica Parodi",
+          "url": "https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn"
         },
         {
-          "name": "Agust\u00edn Lumerman",
-          "url": "https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE"
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
         },
         {
-          "name": "Juan Pablo Di Leone",
-          "url": "https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9"
+          "name": "Lula Parodi",
+          "url": "https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo"
         }
       ],
-      "duration_ms": 217035,
-      "name": "La Luminosa",
-      "url": "https://open.spotify.com/track/3Grrk14Wz7ALdaH6EBYoFT"
+      "duration_ms": 267613,
+      "name": "Tarareando",
+      "url": "https://open.spotify.com/track/57xg7b2ktHnzQv3l5Vo2Oc"
     },
     {
       "added_at": "2023-12-22 23:46:17",

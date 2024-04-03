@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA\">Delight Munachy</a>",
-  "num_followers": 8126,
+  "num_followers": 8146,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE3OThkN2RlMDA5NGVlZTg4MWIzYmZkMGFjYmZlMTg2YjFkZDg0",
+  "snapshot_id": "MCw2NjViMjUyZmFjOWQ3ODczNDE5NzFiZGRlY2FiNmNjNjkyMjBmNzc0",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -313,6 +313,26 @@
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 375723,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
+    },
+    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Altar (Hosanna)",
@@ -337,24 +357,20 @@
       "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
+      "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
       },
       "artists": [
         {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         }
       ],
-      "duration_ms": 375723,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -375,22 +391,6 @@
       "duration_ms": 286880,
       "name": "The Doing of the Lord",
       "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
-      },
-      "artists": [
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        }
-      ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Deliverance",
@@ -563,6 +547,22 @@
       "duration_ms": 224000,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 168777,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Blessed Year",
@@ -759,6 +743,22 @@
       "duration_ms": 178059,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
     },
     {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "BBTNTL",
+        "url": "https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317"
+      },
+      "artists": [
+        {
+          "name": "Xammie",
+          "url": "https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "BBTNTL",
+      "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
+    },
+    {
       "added_at": "2024-03-15 00:01:00",
       "album": {
         "name": "Eagles",
@@ -817,20 +833,20 @@
       "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "BBTNTL",
-        "url": "https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317"
+        "name": "heaven on earth",
+        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
       },
       "artists": [
         {
-          "name": "Xammie",
-          "url": "https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG"
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
         }
       ],
-      "duration_ms": 169621,
-      "name": "BBTNTL",
-      "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
+      "duration_ms": 203235,
+      "name": "heaven on earth",
+      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Eyinju",
-        "url": "https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4"
-      },
-      "artists": [
-        {
-          "name": "Nifemi David",
-          "url": "https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt"
-        }
-      ],
-      "duration_ms": 257496,
-      "name": "Eyinju",
-      "url": "https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Centre(d)",
         "url": "https://open.spotify.com/album/1n8WZO8hiBkVAOQnvIjuwo"
       },
@@ -937,24 +937,20 @@
       "url": "https://open.spotify.com/track/5FWnDevRoFJVdXlfITYhX4"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr"
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
       },
       "artists": [
         {
-          "name": "Chris Heaven",
-          "url": "https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ"
-        },
-        {
-          "name": "Imani",
-          "url": "https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf"
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
         }
       ],
-      "duration_ms": 210599,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     }
   ],
   "unique_name": "Redeemed",

@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Mad Caddies",
-  "num_followers": 48146,
+  "num_followers": 48187,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2EyNTMwNTdkZDliNjVlNjhhNWFlYjdjMjI0MGJjOGE1MDM1ZDQw",
+  "snapshot_id": "MCw0YjJmZjBlZDFmZTMzY2ZkZDkyM2I3OTEwMzVkMjg0Yzg2YTNmODc3",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Hang-Ups",
-        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "The Specials (Deluxe Version)",
         "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 172920,
       "name": "A Message to You Rudy - 2015 Remaster",
       "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Hang-Ups",
+        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Mambo Ska",
-        "url": "https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 171173,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Theatre of the Absurd presents C'est La Vie",
         "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 190893,
       "name": "C\u2019est La Vie",
       "url": "https://open.spotify.com/track/43gcln3SnwBCpKjy2gPOwN"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Mambo Ska",
+        "url": "https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "duration_ms": 171173,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "All The Moon Stompers",
         "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 205120,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "Baggy Trousers",
+      "url": "https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "El Enemigo",
         "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 190866,
       "name": "Conscience is Heavy",
       "url": "https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 167173,
-      "name": "Baggy Trousers",
-      "url": "https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Night Boat to Cairo",
+      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Shellshock",
         "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 235986,
       "name": "El Ultimo Ska",
       "url": "https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Night Boat to Cairo",
-      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
     },
     {
       "added_at": "2024-03-15 06:00:00",

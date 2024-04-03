@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Sheyna Gee, Artwork: Fanélie Muselier
 
-2,237 songs - 5 day 1 hr 28 min
+2,237 songs - 5 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1507,7 +1507,7 @@
 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 | 2023-01-11 | 2023-02-16 |
 | [Porch Light](https://open.spotify.com/track/3oevt53vqjfiSyZepNrmLA) | [Tyler Reese Tritt](https://open.spotify.com/artist/0TRctSC39e2w9E7tEVfxTP) | [Porch Light](https://open.spotify.com/album/6kaRmExSxntsVF3ucd1VAB) | 3:05 | 2023-04-26 | 2023-06-08 |
 | [Port City](https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Port City](https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz) | 3:50 | 2022-03-23 | 2022-05-05 |
-| [Pour A Little Whiskey On It](https://open.spotify.com/track/1ynTZCM8azsfwEeyoVzM1U) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Onto Something](https://open.spotify.com/album/0N4JgjwIMdu0a7CDG6DlQR) | 3:58 | 2024-03-20 |  |
+| [Pour A Little Whiskey On It](https://open.spotify.com/track/1ynTZCM8azsfwEeyoVzM1U) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Onto Something](https://open.spotify.com/album/0N4JgjwIMdu0a7CDG6DlQR) | 3:49 | 2024-03-20 |  |
 | [Pour Excuses](https://open.spotify.com/track/7wQ82hVJNoUWPuecFXtprV) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Pour Excuses](https://open.spotify.com/album/4rzpbygw47hX1aftoKvAJC) | 2:57 | 2023-10-18 | 2023-11-30 |
 | [Pour My Heart Out](https://open.spotify.com/track/15EHG8LhwOn1eRRjb3KSLJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Pour My Heart Out](https://open.spotify.com/album/0SR72BuMowT5gSFqfZpD4y) | 3:38 | 2023-09-27 | 2023-11-30 |
 | [prayed harder](https://open.spotify.com/track/0bo2f25d9EiwWJER7oMLrG) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [prayed harder](https://open.spotify.com/album/3pLAOKiDYysSO5xVwEms5F) | 3:40 | 2024-01-10 | 2024-02-22 |

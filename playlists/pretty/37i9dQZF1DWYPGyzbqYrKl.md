@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPGyzbqYrKl.md) - [plain]
 
 > De la savane à la toundra, des steppes aux rizières, 100 berceuses pour faire le tour du monde
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,294 likes - 100 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296 likes - 100 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPGyzbqYrKl.md) - [plain]
 | 99 | [Baobab](https://open.spotify.com/track/1fM2QEtIqDokwPUMP7Rtt1) | [Marlène Ngaro](https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA) | [Central Africa: Songs, Nursery Rhymes and Lullabies](https://open.spotify.com/album/7haGUjTa5HRA20OiuJWrYO) | 1:21 |
 | 100 | [Tchou tchou gbovi \- Instrumental](https://open.spotify.com/track/171b5sFDMNZNCQre36eEPt) | [Marlène Ngaro](https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA) | [Central Africa: Songs, Nursery Rhymes and Lullabies](https://open.spotify.com/album/7haGUjTa5HRA20OiuJWrYO) | 2:02 |
 
-Snapshot ID: `MCw4OTg5NDUyMTZmNTcyMTIyOWFmNmNhMDM3M2Y0ZWZhMDkyYzMwZWFh`
+Snapshot ID: `MCxkMzM1M2E2NzhjMDc5ZjU0YjhmYjE1YzliNmNkZGRkM2JlZjBlMTU1`

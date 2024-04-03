@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Gloria Estefan",
-  "num_followers": 352764,
+  "num_followers": 352843,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOThjYmMxNWViOTA5ZGE4M2RmZTVlNzliNDI2NjkwZTYwMzNmYzVi",
+  "snapshot_id": "MCxkNWVlMDkwMzczMzUxYWEyY2NhMzFiZmE1ZGZhZGViYzg3ZTg5ZDlh",
   "tracks": [
     {
       "added_at": "2024-02-12 15:07:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": "2024-02-12 15:07:07",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "Beaches (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
         "name": "Lionel Richie",
         "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 200506,
       "name": "Truly",
       "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
+        "name": "Beaches (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
     },
     {
       "added_at": "2024-02-12 15:07:07",

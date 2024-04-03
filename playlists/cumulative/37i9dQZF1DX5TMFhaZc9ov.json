@@ -1579,24 +1579,20 @@
     },
     {
       "album": {
-        "name": "Hurt People (feat. Cam)",
+        "name": "Hurt People",
         "url": "https://open.spotify.com/album/7wRWbV6A7J1y7nIY63ImzP"
       },
       "artists": [
         {
           "name": "Brandon Stansell",
           "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
-        },
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209638,
-      "name": "Hurt People (feat. Cam)",
+      "name": "Hurt People",
       "url": "https://open.spotify.com/track/0OZzCxO9IY126tDm2aBRHe"
     },
     {

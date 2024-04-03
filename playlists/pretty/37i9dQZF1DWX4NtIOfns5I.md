@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > bright future by adrianne lenker has arrived ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,738 likes - 133 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,793 likes - 133 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 41 | [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 |
 | 42 | [Drank on Accutane](https://open.spotify.com/track/3YSpKYKvlryivvDwY26K3r) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Drank on Accutane](https://open.spotify.com/album/4dw3v0AQ9bHuNvxvrk8n1q) | 3:10 |
 | 43 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 |
-| 44 | [Cottontail](https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Cottontail](https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU) | 2:41 |
+| 44 | [Cottontail](https://open.spotify.com/track/0d3BExBN8rYm0jyyBfsJst) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 2:41 |
 | 45 | [Northstar](https://open.spotify.com/track/2RMgDzKU002S6IcwWwG9i1) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Northstar](https://open.spotify.com/album/39pzlLbw6YFVbuguj9DFeI) | 2:59 |
 | 46 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 |
 | 47 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 132 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
 | 133 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 |
 
-Snapshot ID: `MCw1YmMwYWFkODliMzlkNTA5YzY2NzNiOWJmODA1OTQ2NjU2YTFjZTAx`
+Snapshot ID: `MCw4YmRkZTEwNDlkMDkxZjM1Yzk4NTlmZDdmYWY4MGU1NGM5MjIyYmRi`

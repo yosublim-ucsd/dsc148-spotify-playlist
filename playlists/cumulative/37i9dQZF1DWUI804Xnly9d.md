@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-303 songs - 17 hr 13 min
+304 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-26 | 2024-02-03 |
 | [Kabhi Kabhi](https://open.spotify.com/track/6mh140yXGpf0ABlVna1out) | [Pho](https://open.spotify.com/artist/3QXoQ4PbVx1LgzFFVOnvbu), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc) | 3:18 | 2024-01-04 |  |
 | [Kabhi Kabhi Zindagi](https://open.spotify.com/track/68SwtkJRPhtlZBzXaV4jrZ) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Shailendra Barve](https://open.spotify.com/artist/0sjbD7Avb0d3C74ymZA4hg), [Vijay Maurya](https://open.spotify.com/artist/0DPMEDEtRZYhlbWSAtbpNX) | [Mast Mein Rehne Ka](https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf) | 4:55 | 2023-12-15 | 2024-01-20 |
-| [Kabool](https://open.spotify.com/track/1nCYcGugNhfWztL1MTqelr) | [Jazz Thind](https://open.spotify.com/artist/7xkj57i87hLRoWTYqDiZap) | [Kabool](https://open.spotify.com/album/5oDBQrHneBQksa226QWfeS) | 3:36 | 2024-02-23 |  |
+| [Kabool](https://open.spotify.com/track/1nCYcGugNhfWztL1MTqelr) | [Jazz Thind](https://open.spotify.com/artist/7xkj57i87hLRoWTYqDiZap) | [Kabool](https://open.spotify.com/album/5oDBQrHneBQksa226QWfeS) | 3:36 | 2024-02-23 | 2024-04-03 |
 | [Kahaani](https://open.spotify.com/track/57TrQP3nPUoc92VsooFB7p) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Kahaani](https://open.spotify.com/album/0pObojh3ehHgp4GYHl5RF5) | 3:35 | 2023-05-17 | 2023-06-16 |
 | [Kahan Hai Tu](https://open.spotify.com/track/1ZQE1e66GtpKKrU5ducFwo) | [Tejas Chheda](https://open.spotify.com/artist/5qWwPZIux8vlQiQNwNxCLd), [Pratyay Mishra](https://open.spotify.com/artist/2IXMw0AoPJqaO18VtZZNVG) | [Kahan Hai Tu](https://open.spotify.com/album/29M6TBgJ42RilK3mQkB7np) | 4:06 | 2023-05-17 | 2023-05-23 |
 | [Kahan Jaoon](https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Kahan Jaoon](https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh) | 5:29 | 2024-02-05 |  |
@@ -272,6 +272,7 @@
 | [Tootey Hai Hum](https://open.spotify.com/track/7G0s6JwNij9ahwGpBjXQj1) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Mugdha Hasbanis](https://open.spotify.com/artist/07go7jRUHokSJpsZoHy5ha), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Mumbai Diaries Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT) | 3:40 | 2023-10-04 | 2024-01-10 |
 | [Tu](https://open.spotify.com/track/7DlBboctH1CiJFC0chyOO2) | [JEKS](https://open.spotify.com/artist/6aXh2DuJMdQBtd235sTUrl) | [Tu](https://open.spotify.com/album/5I7KqxcjKqJDX6Ne2yDLrR) | 2:16 | 2023-07-20 | 2023-08-05 |
 | [Tu Aisa Kaise Hai](https://open.spotify.com/track/0op7p4Q6gFh44KKeTaKocv) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 3:37 | 2023-05-17 | 2023-06-27 |
+| [Tu Hai Kahaan \- From "Do Aur Do Pyaar"](https://open.spotify.com/track/5qu00elDJgCJMlbCLlTsvD) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Tu Hai Kahaan \(From "Do Aur Do Pyaar"\)](https://open.spotify.com/album/2xkyBtiU8rMkow6ymV9cUe) | 3:39 | 2024-04-02 |  |
 | [Tu Hai Toh Main Hu](https://open.spotify.com/track/3JeGnCva6aZgmG8uUlSdqe) | [Mohammed Izhar](https://open.spotify.com/artist/0wefMWpIqzVQ5v5nCehJ6k) | [Tu Hai Toh Main Hu](https://open.spotify.com/album/5antflRPPfVvqj1856YjAj) | 3:54 | 2023-10-26 | 2023-12-13 |
 | [Tu Hai Yaari](https://open.spotify.com/track/67fBkM5CywtT9TD89iONW8) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O) | [Tu Hai Yaari](https://open.spotify.com/album/0xGRQ51ajqJv5l4MX2C2AJ) | 2:41 | 2023-05-17 | 2023-12-20 |
 | [Tu Hain](https://open.spotify.com/track/0N3Z2AgLRFHbXXPWtJW372) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 2:43 | 2023-08-03 | 2023-08-29 |

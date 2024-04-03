@@ -575,6 +575,68 @@
     },
     {
       "album": {
+        "name": "DAYBREAK",
+        "url": "https://open.spotify.com/album/0yCsKIj2cw8bFGvfLbQtes"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u65e5\u6708\u5b97\u8fd1(CV:\u9ce5\u6d77\u6d69\u8f14)",
+          "url": "https://open.spotify.com/artist/1kSCXrmZw00xUxOVE0e6zV"
+        },
+        {
+          "name": "\u5c71\u59e5\u5207\u56fd\u5e83(CV:\u524d\u91ce\u667a\u662d)",
+          "url": "https://open.spotify.com/artist/1Ygn4oDpyPm1kxO2dACSqC"
+        },
+        {
+          "name": "\u5b97\u4e09\u5de6\u6587\u5b57(CV:\u6cf0\u52c7\u6c17)",
+          "url": "https://open.spotify.com/artist/02PmNSUpGAJ2h0r8kRlOAo"
+        },
+        {
+          "name": "\u4e0d\u52d5\u884c\u5149(CV:\u962a\u53e3\u5927\u52a9)",
+          "url": "https://open.spotify.com/artist/6m5au7EGD0FUfHdgkw7kvp"
+        },
+        {
+          "name": "\u3078\u3057\u5207\u9577\u8c37\u90e8(CV:\u65b0\u57a3\u6a3d\u52a9)",
+          "url": "https://open.spotify.com/artist/7rNYTxMPMCkqDQU6rXvLEM"
+        },
+        {
+          "name": "\u85ac\u7814\u85e4\u56db\u90ce(CV:\u5c71\u4e0b\u8aa0\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/4cGZ8RazSokp3IiVGR96aF"
+        },
+        {
+          "name": "\u6c5f\u96ea\u5de6\u6587\u5b57(CV:\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/6xbDKWGC8Ouvjd9XGYg667"
+        },
+        {
+          "name": "\u5c0f\u591c\u5de6\u6587\u5b57(CV:\u6751\u702c\u6b69)",
+          "url": "https://open.spotify.com/artist/5WUKPIOIKm7N9uYfsWN46b"
+        },
+        {
+          "name": "\u4e00\u671f\u4e00\u632f(CV:\u7530\u4e38\u7be4\u5fd7)",
+          "url": "https://open.spotify.com/artist/6DrDhW6NisUoNwoSviiJsY"
+        },
+        {
+          "name": "\u9bf0\u5c3e\u85e4\u56db\u90ce(CV:\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0sjh3pJxfTNquKFYffVeMp"
+        },
+        {
+          "name": "\u71ed\u53f0\u5207\u5149\u5fe0(CV:\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/3HRITyTE6VtWEY7RrtkjWs"
+        },
+        {
+          "name": "\u9db4\u4e38\u56fd\u6c38(CV:\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/05UVrl8CILqCiIkbnuVw34"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "DAYBREAK",
+      "url": "https://open.spotify.com/track/1qWRavmdu2aPfEmHw23G0h"
+    },
+    {
+      "album": {
         "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u5e55\u672b\u5929\u72fc\u50b3\uff5e(\u901a\u5e38\u76e4)",
         "url": "https://open.spotify.com/album/5rhZ5AJWFFF08WxF9XCRmV"
       },
@@ -2564,6 +2626,24 @@
       "duration_ms": 244000,
       "name": "Wassa! Wassa!",
       "url": "https://open.spotify.com/track/2qqXlGwrqmjKtDM6ZuOWxI"
+    },
+    {
+      "album": {
+        "name": "Whatever Happens",
+        "url": "https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189387,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK"
     },
     {
       "album": {

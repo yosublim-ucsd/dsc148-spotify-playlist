@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 180186,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
@@ -2666,6 +2666,24 @@
       "duration_ms": 188185,
       "name": "Subside",
       "url": "https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk"
+    },
+    {
+      "album": {
+        "name": "such mit mir",
+        "url": "https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134570,
+      "name": "such mit mir",
+      "url": "https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE"
     },
     {
       "album": {

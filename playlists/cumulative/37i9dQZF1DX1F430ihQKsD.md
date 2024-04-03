@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Rau\_Ze
+> Montréal’s music scene, front and centre\. Cover: Rau\_Ze
 
 440 songs - 1 day 1 hr 36 min
 

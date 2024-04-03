@@ -1387,6 +1387,40 @@
     },
     {
       "album": {
+        "name": "GIG",
+        "url": "https://open.spotify.com/album/0FQcywiPJRQyxjXl64BTgC"
+      },
+      "artists": [
+        {
+          "name": "Ex\u00f3dia Entertainment",
+          "url": "https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Check-in",
+      "url": "https://open.spotify.com/track/1Ow7PO9wsdbVPAYujLp2j8"
+    },
+    {
+      "album": {
         "name": "Chefin",
         "url": "https://open.spotify.com/album/6z7TV8IZMGmMkVzg2c6dVt"
       },

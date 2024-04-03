@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-871 songs - 2 day 4 hr 10 min
+872 songs - 2 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Embraceable You](https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef) | [Purple Patch Band](https://open.spotify.com/artist/0UOvMzVudGhlmOfu2aUBzK) | [Cheek to Cheek](https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1) | 5:05 | 2022-06-28 | 2024-02-07 |
 | [Emerald Dreamscape](https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Emerald Dreamscape](https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k) | 2:58 | 2023-11-24 |  |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-20 |  |
+| [Endless](https://open.spotify.com/track/4JKlhfRIqQkvJsAhnLvThW) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Endless](https://open.spotify.com/album/0yKp48RlWbcV0h443MVXAJ) | 3:26 | 2024-03-22 |  |
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-15 |  |
 | [Enigmatic Echoes](https://open.spotify.com/track/4VQpucRkBAU0sU5XMD28uq) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Enigmatic Echoes](https://open.spotify.com/album/32GcUaTDK6U07ohK8p0iSF) | 4:05 | 2023-09-22 |  |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-08 |  |
@@ -652,7 +653,7 @@
 | [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-08 |  |
 | [Sincera](https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Sincera](https://open.spotify.com/album/6Pc4LLAqn9YRpwabtzoTzj) | 2:38 | 2022-12-08 |  |
 | [Skylark](https://open.spotify.com/track/1KfUK9UkRVJBw5zrrUEIKb) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Skylark](https://open.spotify.com/album/5umd1EJtTmMHuYYAnDoQWd) | 3:46 | 2022-06-28 | 2022-09-09 |
-| [Skylark](https://open.spotify.com/track/4GMJNNA04YDBVixAWiK5zD) | [Joseph Lawrence](https://open.spotify.com/artist/0xCOX1rOGhTQ3NOfM32r7z) | [Alone Together](https://open.spotify.com/album/1HpFYNRbT6bSc29yt1njK9) | 7:18 | 2022-06-28 |  |
+| [Skylark](https://open.spotify.com/track/4GMJNNA04YDBVixAWiK5zD) | [Joseph Lawrence](https://open.spotify.com/artist/0xCOX1rOGhTQ3NOfM32r7z) | [Alone Together](https://open.spotify.com/album/1HpFYNRbT6bSc29yt1njK9) | 7:18 | 2022-06-28 | 2024-04-03 |
 | [Sleep, My Child](https://open.spotify.com/track/31HUwIYISANIQX4zxVMu4M) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:36 | 2023-06-15 | 2024-03-10 |
 | [Sleeper](https://open.spotify.com/track/4r6hgUhZEHGcIRYwiO9e7R) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Sleeper](https://open.spotify.com/album/3WHZKHzLNI6pq7Iej94OCN) | 3:45 | 2022-06-28 | 2024-02-04 |
 | [Slippers and Cocoa](https://open.spotify.com/track/2TctbR1zGHbhjFgvnoXcl1) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Slippers and Cocoa](https://open.spotify.com/album/138Z3arXLR0XS5kgSh8yAF) | 3:27 | 2022-06-28 |  |

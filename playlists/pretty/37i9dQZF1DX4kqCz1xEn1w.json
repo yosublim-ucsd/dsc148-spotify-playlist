@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73921,
+  "num_followers": 73920,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjlkZjQ3MTczZjVmMzY4Mzk3YTdhMDE0YWE1NDEzYTlkODM2MmMz",
+  "snapshot_id": "MCwxNjU5N2IxNzczOGMzMWQ1MTYwMzNmZThmOWFkMzYwNzQ2M2ZiYzk1",
   "tracks": [
     {
       "added_at": "2024-03-20 11:39:23",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Jesus You Alone",
-        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
       "artists": [
         {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 372150,
-      "name": "Jesus You Alone",
-      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+        "name": "Jesus You Alone",
+        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
         }
       ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+      "duration_ms": 372150,
+      "name": "Jesus You Alone",
+      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -683,18 +683,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
       },
       "artists": [
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 326613,
-      "name": "God Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
+      "duration_ms": 310200,
+      "name": "Because Of Christ",
+      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -787,22 +791,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Because Of Christ",
-      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
+      "duration_ms": 326613,
+      "name": "God Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Land Of The Living (Live)",
-        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        }
-      ],
-      "duration_ms": 325701,
-      "name": "Rest On Us - Live",
-      "url": "https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 485396,
       "name": "Be Enthroned - Live",
       "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Land Of The Living (Live)",
+        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 325701,
+      "name": "Rest On Us - Live",
+      "url": "https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Passion Collection",
         "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 239628,
       "name": "One Thing Remains - Radio Version",
       "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 332946,
-      "name": "Hallelujah For The Cross - Live",
-      "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Look To The Lamb",
         "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 414391,
       "name": "Look To The Lamb",
       "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 332946,
+      "name": "Hallelujah For The Cross - Live",
+      "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "How Great",
-        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 292288,
-      "name": "Praise the King",
-      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/4p1AUbD3hdYhEu62DUOUEQ"
       },
@@ -1331,22 +1315,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Prayers of the Saints (Live)",
-        "url": "https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR"
+        "name": "How Great",
+        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        },
-        {
-          "name": "Integrity's Hosanna! Music",
-          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
         }
       ],
-      "duration_ms": 246066,
-      "name": "O Lord, My Rock and My Redeemer - Live",
-      "url": "https://open.spotify.com/track/5EweZzmxnku4xK98c07Fqc"
+      "duration_ms": 292288,
+      "name": "Praise the King",
+      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1367,6 +1347,26 @@
       "duration_ms": 281413,
       "name": "Behold Him",
       "url": "https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Prayers of the Saints (Live)",
+        "url": "https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        {
+          "name": "Integrity's Hosanna! Music",
+          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "O Lord, My Rock and My Redeemer - Live",
+      "url": "https://open.spotify.com/track/5EweZzmxnku4xK98c07Fqc"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1463,42 +1463,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 350386,
-      "name": "Come Holy Spirit - Live",
-      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Let It Echo (Live)",
-        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Fierce - Live",
-      "url": "https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Faith And Wonder (Live)",
         "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
       },
@@ -1511,6 +1475,22 @@
       "duration_ms": 359374,
       "name": "Who Could (Live)",
       "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 350386,
+      "name": "Come Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1547,18 +1527,38 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+        "name": "Let It Echo (Live)",
+        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 383293,
-      "name": "Exalted Over All - Live",
-      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
+      "duration_ms": 246640,
+      "name": "Fierce - Live",
+      "url": "https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Hope Is Awake",
+        "url": "https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 346110,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1595,18 +1595,34 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Hope Is Awake",
-        "url": "https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS"
       },
       "artists": [
         {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 346110,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk"
+      "duration_ms": 256226,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 383293,
+      "name": "Exalted Over All - Live",
+      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1631,18 +1647,30 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS"
+        "name": "All For Love (Gethsemane) [Live]",
+        "url": "https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn"
       },
       "artists": [
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Worship Central",
+          "url": "https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt"
+        },
+        {
+          "name": "Anna Hellebronth",
+          "url": "https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz"
+        },
+        {
+          "name": "Luke Hellebronth",
+          "url": "https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I"
+        },
+        {
+          "name": "Luke + Anna Hellebronth",
+          "url": "https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL"
         }
       ],
-      "duration_ms": 256226,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R"
+      "duration_ms": 314517,
+      "name": "All For Love (Gethsemane) - Live",
+      "url": "https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1699,50 +1727,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Faithful Now",
-        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Faithful Now",
-      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "All For Love (Gethsemane) [Live]",
-        "url": "https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn"
-      },
-      "artists": [
-        {
-          "name": "Worship Central",
-          "url": "https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt"
-        },
-        {
-          "name": "Anna Hellebronth",
-          "url": "https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz"
-        },
-        {
-          "name": "Luke Hellebronth",
-          "url": "https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I"
-        },
-        {
-          "name": "Luke + Anna Hellebronth",
-          "url": "https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL"
-        }
-      ],
-      "duration_ms": 314517,
-      "name": "All For Love (Gethsemane) - Live",
-      "url": "https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 603749,
       "name": "Blood is Still the Blood (feat. Chandler Moore, Nicole Binion, Ryan Ofei)",
       "url": "https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Faithful Now",
+        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Faithful Now",
+      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Love Came Down - Live Acoustic Worship In The Studio",
-        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
-      },
-      "artists": [
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 333626,
-      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
-      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "With/In",
         "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 287933,
       "name": "Our God Is Alive",
       "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Love Came Down - Live Acoustic Worship In The Studio",
+        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
+      },
+      "artists": [
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 333626,
+      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
+      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
     },
     {
       "added_at": "2024-03-20 11:39:23",

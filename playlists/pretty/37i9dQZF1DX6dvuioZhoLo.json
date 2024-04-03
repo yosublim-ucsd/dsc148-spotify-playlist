@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 295016,
+  "num_followers": 295077,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDRhMTIyOTU2MDNlNjkzMGM2MjE0YmFmNDlmN2E4MTI1ZTNjMzAx",
+  "snapshot_id": "MCxlMjQyM2RjOGI3ZjBmZTJkODg2YjA1ZjU3MWU2MTUxMTU1ZjhjOGU4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Easy Way",
         "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 182826,
       "name": "Got a Lotta Love",
       "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1071,18 +1071,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
       },
       "artists": [
         {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+      "duration_ms": 179763,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 179763,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Faded Gloryville",
         "url": "https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 186773,
       "name": "Run-down Neighborhood",
       "url": "https://open.spotify.com/track/2GhbVqbaoB9GzLPuX7FHfD"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "No Name",
-      "url": "https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "No Name",
+      "url": "https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "southwest serenade",
         "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Orphan Offering",
-        "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 338814,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Giddy Up",
         "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Spades & Roses",
-        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
+        "name": "Orphan Offering",
+        "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 240801,
-      "name": "Hotel Amarillo",
-      "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
+      "duration_ms": 338814,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Spades & Roses",
+        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 240801,
+      "name": "Hotel Amarillo",
+      "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Forever and Then Some",
-        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
-      },
-      "artists": [
-        {
-          "name": "Lillie Mae",
-          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Forever and Then Some",
-      "url": "https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Midwest Farmer's Daughter",
         "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 273440,
       "name": "Four Years of Chances",
       "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Forever and Then Some",
+        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
+      },
+      "artists": [
+        {
+          "name": "Lillie Mae",
+          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Forever and Then Some",
+      "url": "https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Blue Kentucky Girl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 218641,
       "name": "Memphis Rain",
       "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb"
-      },
-      "artists": [
-        {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -1647,18 +1631,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+        "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
+      "duration_ms": 274333,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     }
   ],
   "unique_name": "Vintage Vibes",

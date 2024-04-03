@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 55229,
+  "2024-04-03": 55249,
   "date_first_scraped": "2022-05-13",
   "description": "The best dance and electronic songs in the MENA region. Cover: Zerb, Sofiya Nzau",
   "name": "mint \u0646\u0639\u0646\u0639",
@@ -179,6 +179,28 @@
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
+    },
+    {
+      "album": {
+        "name": "Ahebak",
+        "url": "https://open.spotify.com/album/1pInYMdKG9Nnt1QOluCcpG"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/1eR8UBKIijXBZhfnQMTq8r"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322916,
+      "name": "Ahebak",
+      "url": "https://open.spotify.com/track/4GLX8N95KtElLmZTp79os3"
     },
     {
       "album": {
@@ -2793,7 +2815,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 297593,
       "name": "Moulayiten",
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"

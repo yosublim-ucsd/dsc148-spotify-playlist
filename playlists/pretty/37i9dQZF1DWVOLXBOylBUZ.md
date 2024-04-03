@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Alvarito Diaz y Rauw Alejandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,059 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,126 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 |
 | 100 | [GFP](https://open.spotify.com/track/7mGF41REeR8j0lxRNd2gsj) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [GFP](https://open.spotify.com/album/2DOphEg1PoHpMXrPgoVSQG) | 2:55 |
 
-Snapshot ID: `MCw3ZDNjZWYwZGMzYjg1OTc0OWEyNzc2ZjcwOTFkODFkMjllMTdlYWM5`
+Snapshot ID: `MCwzZTFkMDgxYTU0YWRkMWFkMzMwNzFkZWJkYTFlM2ZjNmQ4ZjcwN2Zl`

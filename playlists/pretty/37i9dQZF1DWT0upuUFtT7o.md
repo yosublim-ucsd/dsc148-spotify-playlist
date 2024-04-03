@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Annie\-Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,432 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,514 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 6 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 |
 | 7 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 8 | [Billabong Babe](https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS) | [Royce Fisherman](https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR) | [Billabong Babe](https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2) | 2:14 |
-| 9 | [Cycle](https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Cycle](https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC) | 3:33 |
+| 9 | [Cycle](https://open.spotify.com/track/1FBEQqHKgV2EWquBd0Bcgn) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Acid Star](https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe) | 3:33 |
 | 10 | [Night Talks](https://open.spotify.com/track/3C3nxNgZ9NK2qyDPQ8Zf5h) | [Maisyn](https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d) | [Night Talks](https://open.spotify.com/album/1XgVKm93SUFBZLTfkWmhdx) | 3:07 |
 | 11 | [oldnews](https://open.spotify.com/track/4GPW2IKUMthbk3GA0f2rVD) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [oldnews](https://open.spotify.com/album/3Kc9BKtvZ4T1XjtMus3n6D) | 3:26 |
 | 12 | [ostara](https://open.spotify.com/track/5JuFgpXOFteFZASjAdZRZK) | [faery](https://open.spotify.com/artist/7uzaNaDY7uPjwR2mTKf41a) | [ostara](https://open.spotify.com/album/5LNXtOnZB6ERdI4xBxFMAj) | 3:37 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 100 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
 | 101 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
 
-Snapshot ID: `MCxiY2NlYzFjYTg1Y2NkYTNiZjZiNTM0OTNkMTFkOWY3ZmUwYzExMGVm`
+Snapshot ID: `MCwxNWZhNmNmNjE1MGJiNmY3MDdiZTBmNGE5ZWZmMjZmNjg0OThhYjk3`

@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: AMPERS&ONE \(앰퍼샌드원\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: NOWADAYS\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-553 songs - 1 day 6 hr 52 min
+554 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [I'm in Trouble](https://open.spotify.com/track/30iB3Vk6T4gAUfZ0OvmwxY) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/5j8qRyyqFwXkIH7boJ6m9N) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [ICE AGE](https://open.spotify.com/track/1q2bu7PaEUUiFJYFsAiHiz) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [into the ICE AGE](https://open.spotify.com/album/2N9Y7kFSctM8v4T4G2uYWo) | 3:10 | 2022-02-15 | 2022-06-22 |
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-07 | 2022-07-20 |
-| [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-19 | 2024-04-02 |
+| [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-19 |  |
 | [Infinite City \- Groundbreak Version](https://open.spotify.com/track/5DvbyNZX3sXad7BXiCZlql) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [1st Track of CJ LiveCity](https://open.spotify.com/album/37OcZj8uuvKDgwTXhTsS9r) | 4:11 | 2022-03-22 | 2022-04-20 |
 | [INSIDE OUT](https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 2nd Album ‘Romanticize’](https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs) | 3:17 | 2021-12-08 | 2022-07-23 |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-19 | 2023-09-11 |
@@ -299,7 +299,7 @@
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-08 |  |
 | [Lock Down](https://open.spotify.com/track/3SCxTtLDtZ6HsQrytAoyLV) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [1st EP Album 'Bipolar Pt.1 Prelude of Anxiety'](https://open.spotify.com/album/7vmtkwSVS1bKSvRbQ0ALvY) | 3:27 | 2022-01-27 | 2022-07-10 |
 | [LOLO](https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LOLO](https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3) | 2:22 | 2023-07-25 | 2023-08-17 |
-| [Lonely Stars \(Korean Ver.\)](https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Lonely Stars](https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP) | 4:06 | 2024-03-21 |  |
+| [Lonely Stars \(Korean Ver.\)](https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Lonely Stars](https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP) | 4:06 | 2024-03-21 | 2024-04-03 |
 | [Look](https://open.spotify.com/track/1ZFQugO7BqYJjw8FVQHcze) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:14 | 2022-04-04 | 2022-04-20 |
 | [LOSER](https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: LOST](https://open.spotify.com/album/0YXbjMgswczPCUdRsM19Ni) | 3:30 | 2023-05-30 | 2023-06-10 |
 | [Louder](https://open.spotify.com/track/6btX7akvoYxoh1zKXQHs2e) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [W SERIES ‘2TAN’\(wish ver\)](https://open.spotify.com/album/3YskOywYWBcztpX1k4SBS1) | 3:18 | 2022-06-21 | 2022-07-08 |
@@ -383,6 +383,7 @@
 | [ONLY ONE](https://open.spotify.com/track/2h5pUNnd98Lhr2OAaJE8u7) | [JBJ95](https://open.spotify.com/artist/7G6wtLzZON7qJQ2Cw2kxVp) | [ONLY ONE](https://open.spotify.com/album/5DeS90uKqOWhS3ysZ00V14) | 3:31 | 2022-03-22 | 2022-07-18 |
 | [Only one for me](https://open.spotify.com/track/4vxK5XbTTDNNKYbPDmZZC3) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [THIS IS US](https://open.spotify.com/album/1JpC31overHSqPenjJieXv) | 3:46 | 2022-03-22 | 2022-04-19 |
 | [Only U](https://open.spotify.com/track/4x1ElCGJXFEsj8Pk8aBxiC) | [IMFACT](https://open.spotify.com/artist/3ejYNz33SNAa1Qxo9g0qCG) | [Only U](https://open.spotify.com/album/3HsrUWvi7nM0UVcniW3FKw) | 3:50 | 2022-03-22 | 2022-04-10 |
+| [OoWee](https://open.spotify.com/track/57dLypRhQoRBX9wFt4Ug7c) | [NOWADAYS](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [NOWADAYS](https://open.spotify.com/album/4Ne62dPo4QnXDaIpaWc87L) | 2:59 | 2024-04-02 |  |
 | [Outsider](https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:32 | 2022-01-27 | 2022-07-23 |
 | [OVERDRIVE](https://open.spotify.com/track/1iiQ6wFdJz4uGn2a2cGjaG) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.3 : Eternally](https://open.spotify.com/album/2mrCu8xKF0ExIqExAmae9f) | 3:15 | 2023-06-29 | 2023-07-08 |
 | [PANORAMA](https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [PANORAMA](https://open.spotify.com/album/4vuOLGwkgHN5UqkDqkThDB) | 2:58 | 2023-08-24 | 2023-09-05 |
@@ -488,7 +489,7 @@
 | [Tell Me What To Do](https://open.spotify.com/track/082T4CgUFyV0tjPdzaq6ml) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 and 1 \- The 5th Album Repackage](https://open.spotify.com/album/1tLW1mwNWPgSze47VxSuxc) | 4:06 | 2022-03-31 | 2022-04-14 |
 | [THE ANSWER](https://open.spotify.com/track/1L1N5X35wFk8d5VlyNy2Oa) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:10 | 2022-03-31 | 2022-04-15 |
 | [The Chance of Love](https://open.spotify.com/track/2lRTj9f2mXMmtlLw2YjSYI) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/3n3HTIorktWHS2mOo2G8jp) | 3:27 | 2022-03-22 | 2022-04-21 |
-| [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 | 2024-03-21 |  |
+| [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 | 2024-03-21 | 2024-04-03 |
 | [The One](https://open.spotify.com/track/1Kb2RNTXZ3PaL2xMDuJgQ6) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [Villain : The End](https://open.spotify.com/album/1Qm9lf5OrCzl3x9trdVMhD) | 3:31 | 2022-11-16 | 2022-12-22 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-16 | 2023-08-25 |
 | [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-03-22 | 2022-04-21 |

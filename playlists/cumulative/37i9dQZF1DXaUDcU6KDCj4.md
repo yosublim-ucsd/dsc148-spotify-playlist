@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Secret Sisters
 
-1,963 songs - 4 day 23 hr 40 min
+1,964 songs - 4 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,8 @@
 | [Corduroy](https://open.spotify.com/track/6QhZtK9nfaUBDILHPvAlC6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:38 | 2023-02-03 | 2023-05-06 |
 | [Corner](https://open.spotify.com/track/3b5vsDkWRVQvxTqMeTvf9p) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Corner](https://open.spotify.com/album/5MMRLY7XRYrnmedJZ8c3ya) | 4:28 | 2023-05-12 | 2023-07-22 |
 | [Cosmic Sigh](https://open.spotify.com/track/6N943n0gJTygKYkUfxL5lK) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Cosmic Sigh](https://open.spotify.com/album/2mk3EdzRo6ZDOlHfzi6KRC) | 3:40 | 2022-01-14 | 2022-02-05 |
-| [Cottontail](https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Cottontail](https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU) | 2:41 | 2024-02-16 |  |
+| [Cottontail](https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Cottontail](https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU) | 2:41 | 2024-02-16 | 2024-04-03 |
+| [Cottontail](https://open.spotify.com/track/0d3BExBN8rYm0jyyBfsJst) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 2:41 | 2024-02-23 |  |
 | [could've been you](https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [could've been you](https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA) | 3:07 | 2023-12-15 | 2024-02-24 |
 | [Couldn't Have Done The Killing](https://open.spotify.com/track/2UVuSsogV0q0OoNBNt0q8S) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [The Path of the Clouds](https://open.spotify.com/album/0kYKOTCAxIIEWKlNlhkOfJ) | 4:49 | 2021-11-12 | 2022-02-12 |
 | [Could’ve Been](https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Ellen](https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0) | 3:25 | 2021-11-12 | 2022-02-19 |

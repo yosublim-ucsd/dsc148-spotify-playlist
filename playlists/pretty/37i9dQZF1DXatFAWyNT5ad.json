@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Royal & the Serpent + GAYLE",
-  "num_followers": 136732,
+  "num_followers": 136807,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2JkYjBiOWNiYWIzYmY5NjFhYjg0ZGY4OWRjNzEzZjliMTNhNjBm",
+  "snapshot_id": "MCw0MzdiZjBiNzU5NTAwNDM5YWQ1OWFhNjI0OGJkODBlNThmMmUzNDE1",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -987,26 +987,6 @@
       "duration_ms": 173066,
       "name": "First To Go",
       "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "I\u2019m a Mess (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 187793,
-      "name": "I\u2019m a Mess (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1111,6 +1091,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "I\u2019m a Mess (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 187793,
+      "name": "I\u2019m a Mess (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "UPSAHL PRESENTS: THE PHX TAPES",
         "url": "https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 139844,
       "name": "GOOD GIRL ERA (SIDE A)",
       "url": "https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Mugshot",
-        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "Mugshot",
-      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "I Hate Your Friends",
         "url": "https://open.spotify.com/album/18A6tJAbXPpYGK2y16FELA"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 173233,
       "name": "I Hate Your Friends",
       "url": "https://open.spotify.com/track/371pdH5EqWT3cyGfzv1dX1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Mugshot",
+        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "Mugshot",
+      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "how could you do this to me?",
+      "url": "https://open.spotify.com/track/0ujL6lRfnCHyj59l3WQSdj"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Bloodstream",
         "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "SUCKERPUNCH",
-        "url": "https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "how could you do this to me?",
-      "url": "https://open.spotify.com/track/0ujL6lRfnCHyj59l3WQSdj"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "2 of us",
-        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
         }
       ],
-      "duration_ms": 166522,
-      "name": "2 of us",
-      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "2 of us",
+        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "2 of us",
+      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1895,6 +1895,22 @@
       "duration_ms": 168461,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/4E8ZvvYHiGS9uUVgyMmE1A"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 187838,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/0Nb7cvBprOkNhHMrmvKkd2"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -2107,18 +2123,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/4E8ZvvYHiGS9uUVgyMmE1A"
+        "name": "m.i.a.",
+        "url": "https://open.spotify.com/album/3SyMCFHyoImUg9xdgP9xIc"
       },
       "artists": [
         {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
         }
       ],
-      "duration_ms": 187838,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/0Nb7cvBprOkNhHMrmvKkd2"
+      "duration_ms": 152000,
+      "name": "m.i.a.",
+      "url": "https://open.spotify.com/track/0mSMy8pVeo1UQ2trCK9nTs"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -2139,22 +2155,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "m.i.a.",
-        "url": "https://open.spotify.com/album/3SyMCFHyoImUg9xdgP9xIc"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "m.i.a.",
-      "url": "https://open.spotify.com/track/0mSMy8pVeo1UQ2trCK9nTs"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -2203,22 +2203,6 @@
       "duration_ms": 180237,
       "name": "Detox",
       "url": "https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 159677,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -2287,6 +2271,22 @@
       "duration_ms": 152053,
       "name": "Ugly Crier",
       "url": "https://open.spotify.com/track/0AOa1XIQ4vYjAv5uflTrMN"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 159677,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Six Feet",
-        "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 181580,
-      "name": "Six Feet",
-      "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Retrovision",
         "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 165018,
       "name": "Habitual",
       "url": "https://open.spotify.com/track/5OwE5TOcqqCK62FfKmNCu9"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Six Feet",
+        "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 181580,
+      "name": "Six Feet",
+      "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
     },
     {
       "added_at": "2024-03-08 05:00:00",

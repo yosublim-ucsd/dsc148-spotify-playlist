@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 185656,
+  "num_followers": 185719,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDJiNjAwYjMwZmU4ZmJiODhmYmI2OWI0ZWQ4NGYyZGJiMzIzZTA4",
+  "snapshot_id": "MCxmN2JjOGJlNDlkMmUzODIxMTJhZDUyNTFlODI4MTU2M2M0OWU0ZmNi",
   "tracks": [
     {
       "added_at": "2023-12-01 18:00:25",
@@ -235,22 +235,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 143133,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -291,18 +287,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+      "duration_ms": 143133,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Desire Path",
-      "url": "https://open.spotify.com/track/3yZ3SScbUH78WBJnq11kte"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 190482,
       "name": "20220302 - sarabande",
       "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Desire Path",
+      "url": "https://open.spotify.com/track/3yZ3SScbUH78WBJnq11kte"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "The See Within",
         "url": "https://open.spotify.com/album/6PrE3djsB6qncqSHPX8BDW"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 173456,
       "name": "The See Within",
       "url": "https://open.spotify.com/track/1LV5enjdiftT01ts1r6Ue0"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "In Light Of Blues",
-        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
       "artists": [
         {
-          "name": "Celer",
-          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
         }
       ],
-      "duration_ms": 115914,
-      "name": "Precious Past Hours",
-      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1223,6 +1207,22 @@
       "duration_ms": 171072,
       "name": "everybody's gone home (florence slowed version)",
       "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "In Light Of Blues",
+        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
+      },
+      "artists": [
+        {
+          "name": "Celer",
+          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
+        }
+      ],
+      "duration_ms": 115914,
+      "name": "Precious Past Hours",
+      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Origami Rework",
-        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Origami Rework",
-      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Intention II",
         "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 317000,
       "name": "Loving Kindness",
       "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Origami Rework",
+        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Origami Rework",
+      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Biologica, Volume One (Water)",
-        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
-      },
-      "artists": [
-        {
-          "name": "slowave",
-          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
-        }
-      ],
-      "duration_ms": 156073,
-      "name": "12121",
-      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Nouveau-N\u00e9",
         "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 200862,
       "name": "Nouveau-N\u00e9 (Re-Imagined)",
       "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Biologica, Volume One (Water)",
+        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
+      },
+      "artists": [
+        {
+          "name": "slowave",
+          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "12121",
+      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "High Peaks",
         "url": "https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 230750,
       "name": "The Ghosts we keep Inside Ourselves",
       "url": "https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "The Notional Pastures Of Imaginary Softwoods",
-        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 118260,
-      "name": "Chalked Outlines Of A Polybius Square",
-      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "fragments",
         "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 127766,
       "name": "whateverness",
       "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "The Notional Pastures Of Imaginary Softwoods",
+        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 118260,
+      "name": "Chalked Outlines Of A Polybius Square",
+      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/7a7YOE7qLNrQPWv9b0V9SH"
-      },
-      "artists": [
-        {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
-        }
-      ],
-      "duration_ms": 116875,
-      "name": "Golden Dust",
-      "url": "https://open.spotify.com/track/57eVjsTkA8YFT1tkx1bTHu"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "waves (slowed)",
         "url": "https://open.spotify.com/album/7wZqI02pwixf5GOUmQmeaa"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 209742,
       "name": "waves (slowed) - Slowed",
       "url": "https://open.spotify.com/track/3Q8bEu2sxcF5RTI9GaSHfK"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/7a7YOE7qLNrQPWv9b0V9SH"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 116875,
+      "name": "Golden Dust",
+      "url": "https://open.spotify.com/track/57eVjsTkA8YFT1tkx1bTHu"
     },
     {
       "added_at": "2023-12-01 18:00:25",

@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 690225,
+  "num_followers": 690414,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjRhN2ExNWI3NDU0MjQ3MWM4ODRmYWJjNjg0NDI2Nzg3NjkyODBi",
+  "snapshot_id": "MCxkY2I0NTc1M2I4MTMxNWVlNzc3ODk1Nzk5NzI5YjQ2YjkwYTlhN2Fh",
   "tracks": [
     {
       "added_at": "2024-03-28 11:46:50",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Paper Thin",
-      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
-    },
-    {
-      "added_at": "2024-03-28 11:46:50",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 252080,
       "name": "Permanent Way",
       "url": "https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje"
+    },
+    {
+      "added_at": "2024-03-28 11:46:50",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2024-03-28 11:46:50",
+      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
-    },
-    {
-      "added_at": "2024-03-28 11:46:50",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "anew",
-        "url": "https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 215599,
-      "name": "anew",
-      "url": "https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf"
-    },
-    {
-      "added_at": "2024-03-28 11:46:50",
-      "album": {
         "name": "Golden Rope",
         "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 220275,
       "name": "Golden Rope",
       "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
+    },
+    {
+      "added_at": "2024-03-28 11:46:50",
+      "album": {
+        "name": "anew",
+        "url": "https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 215599,
+      "name": "anew",
+      "url": "https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "One Evening",
-      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
-    },
-    {
-      "added_at": "2024-03-28 11:46:50",
-      "album": {
         "name": "Maybe October",
         "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 164195,
       "name": "Maybe October",
       "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
+    },
+    {
+      "added_at": "2024-03-28 11:46:50",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "One Evening",
+      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
-    },
-    {
-      "added_at": "2024-03-28 11:46:50",
-      "album": {
         "name": "Brave New Woman",
         "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 199453,
       "name": "Comment Allez-Vous?",
       "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
+    },
+    {
+      "added_at": "2024-03-28 11:46:50",
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
-    },
-    {
-      "added_at": "2024-03-28 11:46:50",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -1363,6 +1347,22 @@
       "duration_ms": 184692,
       "name": "Unpack Your Bags - Radio Edit",
       "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
+    },
+    {
+      "added_at": "2024-03-28 11:46:50",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
+        "name": "Same Kind of People",
+        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "Same Kind of People",
+      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
+    },
+    {
+      "added_at": "2024-03-28 11:46:50",
+      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "Same Kind of People",
-        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        }
-      ],
-      "duration_ms": 242546,
-      "name": "Same Kind of People",
-      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
-    },
-    {
-      "added_at": "2024-03-28 11:46:50",
-      "album": {
         "name": "My Guitar is too Loud",
         "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Black & Thunder",
-      "url": "https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr"
-    },
-    {
-      "added_at": "2024-03-28 11:46:50",
-      "album": {
         "name": "The Barrel",
         "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 219510,
       "name": "The Barrel - Edit",
       "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
+    },
+    {
+      "added_at": "2024-03-28 11:46:50",
+      "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 301346,
+      "name": "Black & Thunder",
+      "url": "https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+        "name": "GPS (w/ Felly)",
+        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
         }
       ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
+      "duration_ms": 168316,
+      "name": "GPS (w/ Felly)",
+      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
     },
     {
       "added_at": "2024-03-28 11:46:50",
@@ -1579,22 +1583,18 @@
     {
       "added_at": "2024-03-28 11:46:50",
       "album": {
-        "name": "GPS (w/ Felly)",
-        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
       "artists": [
         {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 168316,
-      "name": "GPS (w/ Felly)",
-      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2024-03-28 11:46:50",

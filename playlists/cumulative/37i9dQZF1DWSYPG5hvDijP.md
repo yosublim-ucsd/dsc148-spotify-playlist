@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-241 songs - 12 hr 36 min
+242 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Humnasheen](https://open.spotify.com/track/0fr7aoYFseuvPN6q2FfFWV) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Humnasheen](https://open.spotify.com/album/1lrsCjg7ktVG4Db5gB7ZKH) | 3:00 | 2023-12-06 |  |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2023-03-29 | 2023-04-17 |
 | [ICE](https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:48 | 2023-03-29 | 2023-04-17 |
+| [Image](https://open.spotify.com/track/5ezh8EaOW7Bfim0rtmpHKi) | [Teji Jassar](https://open.spotify.com/artist/3R3djRbqthCXs2LWCSSqmz), [TRIBE](https://open.spotify.com/artist/3GAJRXC59K8LIgPdTRxMjb), [Raaj The Rapper](https://open.spotify.com/artist/1o0aXVRVDpojoKrAUtp7Mo) | [Image](https://open.spotify.com/album/1tgfFrbFbbI7DuCfN1hWnY) | 3:19 | 2024-04-02 |  |
 | [IN EVENT OF CHANGE, MONEY & NOTERIETY](https://open.spotify.com/track/4cMQA7nUXZHJ4F9wtEyfXW) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [Sammad](https://open.spotify.com/artist/5Nt1n4t51CBXkH195ZXQqn), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [ishan](https://open.spotify.com/artist/3bHxaQ0a3WxJydEykxfRCW) | [RUAB](https://open.spotify.com/album/7kkeViLxDfmxJeNUClsQWk) | 4:05 | 2023-08-08 | 2023-11-16 |
 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 | 2023-03-29 | 2024-01-11 |
 | [International](https://open.spotify.com/track/1sV2f9mG1FEHaE4mSdDEwU) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:50 | 2023-10-12 | 2024-02-24 |
@@ -210,7 +211,7 @@
 | [Shoishob](https://open.spotify.com/track/7HaFX8zgAZYOrBrj7GNFlw) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [Shoishob](https://open.spotify.com/album/6ISNptZNpAHaXiLYIawSX2) | 3:16 | 2023-09-08 | 2023-10-13 |
 | [SLATT](https://open.spotify.com/track/6lvgkN6qlE9RDp0BzfPUDu) | [Ynxiety](https://open.spotify.com/artist/2csj16wTsXZ6kmvAw6R86s) | [SLATT](https://open.spotify.com/album/16KxB4wDVIwGSwhUqftEAs) | 4:57 | 2023-04-21 | 2023-11-23 |
 | [Sod Lacharicha Paksh](https://open.spotify.com/track/6EpvszQYY47iT6hZzwF3hK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Sod Lacharicha Paksh](https://open.spotify.com/album/33nEaGaN27RBcHlTAzhkz4) | 6:08 | 2023-07-20 |  |
-| [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 | 2023-03-29 |  |
+| [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 | 2023-03-29 | 2024-04-03 |
 | [Speed 206](https://open.spotify.com/track/4YQyuUSoQr9K4uAzItZ3XF) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:47 | 2024-02-08 | 2024-03-23 |
 | [Speed Dial](https://open.spotify.com/track/1uTcgABqGIlkE3HzFM2TTq) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6) | [Speed Dial](https://open.spotify.com/album/2vAemOhIAe4odQzkKOLkdc) | 2:05 | 2024-01-19 | 2024-02-09 |
 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 | 2023-10-10 |

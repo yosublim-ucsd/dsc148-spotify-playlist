@@ -830,10 +830,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 201347,
       "name": "YOU (feat. SUNMI)",
       "url": "https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI"
+    },
+    {
+      "album": {
+        "name": "SOLO DAY",
+        "url": "https://open.spotify.com/album/5kw2bbCEsZtQkCxfRLMiyD"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        },
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201347,
+      "name": "You (feat.Sunmi)",
+      "url": "https://open.spotify.com/track/7uc31Hihl77qcFRlMnWUQ8"
     },
     {
       "album": {

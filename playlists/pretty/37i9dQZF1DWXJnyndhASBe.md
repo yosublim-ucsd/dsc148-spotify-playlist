@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Waima
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,842 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,122 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 18 | [NAPALONE FANKI](https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [NAPALONE FANKI](https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92) | 3:07 |
 | 19 | [Death note](https://open.spotify.com/track/13mgRmDwkyfsgG78YyEDLc) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Deathcore](https://open.spotify.com/album/5pEyFfIh3cruUMhecU4G9i) | 2:42 |
 | 20 | [Ameryka](https://open.spotify.com/track/1y6BLlPX3H2i9ziz4OMZTs) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Bartek Kubicki](https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo), [Przemek.pro](https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE), [Trzech Króli](https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ) | [Ameryka](https://open.spotify.com/album/4neFszc7DEG67Y1BxUbi8h) | 2:22 |
-| 21 | [EMBASSY / AMBASADA](https://open.spotify.com/track/4Oa9XS4sTknYw9awQN5cEt) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [młody klakson](https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu), [kittiesloverage](https://open.spotify.com/artist/6CvKpD5oXOVHdlkQDTsbq8) | [EMBASSY / AMBASADA](https://open.spotify.com/album/2QzbcB3H2SnY8jmpW6ec0p) | 2:07 |
+| 21 | [EMBASSY / AMBASADA](https://open.spotify.com/track/4Oa9XS4sTknYw9awQN5cEt) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [młody klakson](https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu), [kittiesloverage](https://open.spotify.com/artist/6CvKpD5oXOVHdlkQDTsbq8), [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [EMBASSY / AMBASADA](https://open.spotify.com/album/2QzbcB3H2SnY8jmpW6ec0p) | 2:07 |
 | 22 | [Nie ma](https://open.spotify.com/track/24AYjMrqqIMKtKI79LjO6M) | [Dedis](https://open.spotify.com/artist/2fpZqYlKXdf4A7AFZbbji9), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Nie ma](https://open.spotify.com/album/0ZIFm4rlC8Fglu1PCNvQLB) | 2:23 |
 | 23 | [WINDA](https://open.spotify.com/track/0iQYVMASwefAp5Fqn2bJJo) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [WINDA](https://open.spotify.com/album/2knARC8w1MvrZTslE9lhSL) | 2:54 |
 | 24 | [Przester](https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [PG$](https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Pół na pół](https://open.spotify.com/track/1RYLelysoMdpVd4So9Wiwd) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Kuba Hejz](https://open.spotify.com/artist/54FDfzo1I8n6TBqm9dkBWl), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [Pół na pół](https://open.spotify.com/album/1stHVQaEoGA91wGezjYv0n) | 3:37 |
 | 50 | [Ulubiony](https://open.spotify.com/track/233m2I0kzHIifD6NbdIYV0) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv) | [Ulubiony](https://open.spotify.com/album/04aPQH8v4QRzPYPjiqvM0W) | 3:07 |
 
-Snapshot ID: `MCw2N2M0OTFkMTM0YWE4MzM2NTQ0YjUwOGQwMTFhMWE0ZjBhZWY2ODNl`
+Snapshot ID: `MCwxMTA3OTY2YmUxYmE3MWMzYjhmMTcwY2U5NmIzNTg5ZDNmNGY2Zjc4`

@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 48145,
+  "num_followers": 48147,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw",
+  "snapshot_id": "MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Eu Nunca Fui Embora",
+      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "tired of california",
         "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
       },
       "artists": [
         {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 185337,
-      "name": "Eu Nunca Fui Embora",
-      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1131,38 +1131,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Depois das Seis",
-        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 180488,
-      "name": "Depois Das Seis",
-      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "vc n gosta de garotas",
-        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "vc n gosta de garotas",
-      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Andar 14",
         "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
       },
@@ -1183,18 +1151,34 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "S\u00f3 Sinto",
-        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
+        "name": "vc n gosta de garotas",
+        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
       },
       "artists": [
         {
-          "name": "Cac\u00e1 Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
         }
       ],
-      "duration_ms": 141484,
-      "name": "Cora\u00e7\u00e3o Solto",
-      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
+      "duration_ms": 132413,
+      "name": "vc n gosta de garotas",
+      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Depois das Seis",
+        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 180488,
+      "name": "Depois Das Seis",
+      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1211,6 +1195,22 @@
       "duration_ms": 148880,
       "name": "VOU ALI DORMIR",
       "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "S\u00f3 Sinto",
+        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
+      },
+      "artists": [
+        {
+          "name": "Cac\u00e1 Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
+        }
+      ],
+      "duration_ms": 141484,
+      "name": "Cora\u00e7\u00e3o Solto",
+      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Tonto, Mole, Trouxa (e meio devagar)",
-        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 131986,
-      "name": "Tonto, Mole, Trouxa (e meio devagar)",
-      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "melhor ou pior",
         "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Tonto, Mole, Trouxa (e meio devagar)",
+        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 131986,
+      "name": "Tonto, Mole, Trouxa (e meio devagar)",
+      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "Lugar no Espa\u00e7o",
         "url": "https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd"
       },
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Foi Tudo Aqui",
+        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Deixa Estar",
+      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "N\u00e3o Valemos + Nada",
         "url": "https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 158823,
       "name": "N\u00e3o Valemos + Nada",
       "url": "https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "Foi Tudo Aqui",
-        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
-      },
-      "artists": [
-        {
-          "name": "Fuze",
-          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Deixa Estar",
-      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
     },
     {
       "added_at": "2024-02-22 17:25:15",

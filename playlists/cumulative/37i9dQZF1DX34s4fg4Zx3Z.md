@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Tuấn Võ
 
-1,566 songs - 3 day 19 hr 34 min
+1,566 songs - 3 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -973,7 +973,7 @@
 | [Nói Với Nhau](https://open.spotify.com/track/0ymFuhK0uxEoDdaS6GDfjg) | [MC Wiz](https://open.spotify.com/artist/4sukkkUXTLXloBgZPRUEad) | [Nói Với Nhau](https://open.spotify.com/album/1y7hM6ijO0RrSAM7nwYiGC) | 3:14 | 2022-05-15 | 2022-05-17 |
 | [Núi Và Đồi](https://open.spotify.com/track/2ptBuUvNIpydqsA6GBSBqx) | [Minb](https://open.spotify.com/artist/2k9mfqjpOMFzTKrbWkVmuI) | [Núi Và Đồi](https://open.spotify.com/album/3YwR6DT8ELfbQ7zq1MPGX4) | 2:04 | 2023-07-28 | 2023-08-11 |
 | [Nút Cốt](https://open.spotify.com/track/0N3B2Ej1smEo5LOo51x3Np) | [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9) | [Nút Cốt](https://open.spotify.com/album/3M3a35o4xcSWy74pwGpBPK) | 3:43 | 2022-10-06 | 2022-10-16 |
-| [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/track/75RLGVAhsCyv957yxcBk8G) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [Lam](https://open.spotify.com/artist/373W4erBSRBkb9Tk4SxZmn), [Chí](https://open.spotify.com/artist/3HOSB0samNqhF5rHkCvFoe) | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/album/0R0jpLNHXRJPa79EzapdJq) | 2:48 | 2023-02-08 |  |
+| [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/track/75RLGVAhsCyv957yxcBk8G) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [Lam](https://open.spotify.com/artist/373W4erBSRBkb9Tk4SxZmn), [Chí](https://open.spotify.com/artist/3HOSB0samNqhF5rHkCvFoe) | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/album/0R0jpLNHXRJPa79EzapdJq) | 2:57 | 2023-02-08 |  |
 | [Năm Tháng Bên Em](https://open.spotify.com/track/5uuWW8hqfkjq2Ky4RsocKX) | [Cường Mèo](https://open.spotify.com/artist/0C3Vs2o6ZtT2SMZSrGGQjF) | [Năm Tháng Bên Em](https://open.spotify.com/album/1JUpBGAEdMmT69ycV19sRd) | 5:11 | 2022-11-17 | 2023-01-13 |
 | [Nơi Anh Chẳng Còn Em](https://open.spotify.com/track/0CaZqZ91ANicbJ63YSDbmG) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34), [Quinn](https://open.spotify.com/artist/4bvfBwk7P6u7mvXkaKu1Hy) | [Nơi Anh Chẳng Còn Em](https://open.spotify.com/album/0Y096WZZ26PMWEEuV2Wc8F) | 4:57 | 2023-10-23 | 2023-11-30 |
 | [Nơi Có Chúng Ta](https://open.spotify.com/track/6t5iuTRg9MCMeaMe8B3dBU) | [GreenD](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Nơi Có Chúng Ta](https://open.spotify.com/album/5894tk8IeDrraA1d8FhRQI) | 3:56 | 2023-01-06 | 2024-01-25 |

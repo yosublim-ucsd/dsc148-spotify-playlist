@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-506 songs - 1 day 2 hr 10 min
+510 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Break My Heart, Love](https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:57 | 2023-03-16 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2021-12-07 | 2022-10-28 |
 | [But Not For Me](https://open.spotify.com/track/19OV9LlkvwWW6Zz3pyyPEq) | [Riley Cobb](https://open.spotify.com/artist/3dtJzGK4kwhyCJJjnLsI9T) | [But Not For Me](https://open.spotify.com/album/4opEostLBBqzrbpFyFXPNy) | 2:56 | 2024-03-08 |  |
+| [But of course](https://open.spotify.com/track/3rK5GAVF7TiVeULcgK2Z4w) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [But of course](https://open.spotify.com/album/2KlWgUZEM0mOw14TWYwGOK) | 2:58 | 2024-04-02 |  |
 | [Cabin In The Sky](https://open.spotify.com/track/7vZDxwET1WCo9wiO1MgAgR) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Cabin In The Sky](https://open.spotify.com/album/0VAsLDBshbyYcZeJAAgTcZ) | 2:07 | 2023-01-19 |  |
 | [Can't Help Lovin' Dat Man](https://open.spotify.com/track/4RHRD6ZW9iC6Bixb0zY3G3) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Alfie](https://open.spotify.com/album/6FJY4E8KZ9yzv6WV6q8tOf) | 2:59 | 2022-08-09 |  |
 | [Can't We Be Friends](https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Can't We Be Friends](https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3) | 2:10 | 2023-08-10 |  |
@@ -82,6 +83,7 @@
 | [City Lights and Midnight Blues](https://open.spotify.com/track/4wVMZkj5y4dpT8tvTIBaKw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [City Lights and Midnight Blues](https://open.spotify.com/album/5a6KuFxcNag3keou58crVH) | 2:42 | 2023-06-01 |  |
 | [Cityscape](https://open.spotify.com/track/3Y7ZiWwBViTaOeWz6NaZ8F) | [Harry Reed](https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu) | [Cityscape](https://open.spotify.com/album/1pNjmKxzeVE3OrXuZNgHRM) | 2:18 | 2024-03-08 |  |
 | [Clear State Of Mind](https://open.spotify.com/track/36OpzLOYcztdNv6V9cJ9DB) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Clear State Of Mind](https://open.spotify.com/album/6MVTvA4RGDOGA3XSVRndGY) | 3:32 | 2023-11-17 |  |
+| [Cloud Forest](https://open.spotify.com/track/2y5qgLWzfv0O2izfRLUPcO) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Cloud Forest](https://open.spotify.com/album/3OkHIfehZPLWt4vHD22rSo) | 2:11 | 2024-04-02 |  |
 | [Come Lay beside Me](https://open.spotify.com/track/5FzAFM8TN0RyOXHNO5tHTm) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Come Lay beside Me](https://open.spotify.com/album/1IQfTAYfEDbuZ4RwbU26di) | 3:03 | 2022-09-19 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-25 |  |
 | [Come to Bed](https://open.spotify.com/track/6RDWMyTEWPRPhzCf9BJD3X) | [Meg Lawrence](https://open.spotify.com/artist/4a6PAS1FZgcaDd99xc2wD1) | [Come to Bed](https://open.spotify.com/album/25smdIvY1XMb1d4cWmGID3) | 3:48 | 2024-03-08 |  |
@@ -130,6 +132,7 @@
 | [Everything Happens To Me](https://open.spotify.com/track/3vIwdAaJmIrETc7k98gaTg) | [Marty Spotnic](https://open.spotify.com/artist/1X0ofBtlKCTBDLTG1h240W) | [Everything Happens To Me](https://open.spotify.com/album/5LsRZN3gpSx7bRk09Ds8MZ) | 3:50 | 2024-03-08 |  |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-21 |  |
 | [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-13 |  |
+| [Faithful In Paradise](https://open.spotify.com/track/3qFofnQCLubRsgBlugtPdg) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Faithful In Paradise](https://open.spotify.com/album/5dAEvV7iXei0kLOO1a14UY) | 2:17 | 2024-04-02 |  |
 | [Fall Season](https://open.spotify.com/track/2lHTRwS933i16QlQqOcKHs) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Fall Season](https://open.spotify.com/album/6xITORsdl8I0P0mLVVYpHz) | 2:37 | 2023-10-27 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-02 |  |
 | [Figured Out](https://open.spotify.com/track/03xzKObUNNpLWE4VhYkgOV) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [Figured Out](https://open.spotify.com/album/2YYkG47uGuKWyhcUW6VclR) | 3:04 | 2023-08-31 |  |
@@ -336,6 +339,7 @@
 | [Over the River](https://open.spotify.com/track/0kYkCUA8GvXZMPeU1SgFuu) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Over the River](https://open.spotify.com/album/3k9rqh1vl7NHAKuOirBBIv) | 2:57 | 2024-01-19 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [P.S\. I Love You](https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH) | 3:16 | 2021-12-07 |  |
 | [Part 16](https://open.spotify.com/track/7cZ7V0JWA8tUarE1TyABR7) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Radiance](https://open.spotify.com/album/64EgYMgM0KR2WS5jbvPmKq) | 3:23 | 2021-12-07 | 2022-08-10 |
+| [Past Bedtime](https://open.spotify.com/track/2aeyOhoYRURobHW9vyiKzx) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Past Bedtime](https://open.spotify.com/album/46cRjEkOHMYToSrDYUTCDg) | 2:54 | 2024-04-02 |  |
 | [Peace](https://open.spotify.com/track/5TbGgNC1yyV9NGEQqA9myW) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Peace](https://open.spotify.com/album/47srmsx8SpAb0YQhA9fLva) | 3:13 | 2021-12-07 |  |
 | [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2022-04-11 |  |
 | [Piece de resistance](https://open.spotify.com/track/4BqrjtDW2iF3Cqnm52eySR) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [Piece de resistance](https://open.spotify.com/album/4X1xVsNHV3u6faxprtA3Pi) | 2:36 | 2023-09-22 |  |
@@ -414,7 +418,7 @@
 | [Strasbourg](https://open.spotify.com/track/3i4NoQWDcWEZ2q7TYqj5r1) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Strasbourg](https://open.spotify.com/album/04tdMaGADr9577CFzyqoLY) | 2:22 | 2023-05-25 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
 | [Streets of Gold](https://open.spotify.com/track/5CLGKbMa7u0QZe6nLOQEe9) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [Streets of Gold](https://open.spotify.com/album/3HRAv95HLT2CXEVQRJSvhV) | 2:02 | 2023-04-27 |  |
-| [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 |  |
+| [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 | 2024-04-03 |
 | [Summer in Central Park](https://open.spotify.com/track/1LI1odohhRVtGSqRuEABw9) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Summer in Central Park](https://open.spotify.com/album/6KlLMcXaSJtFeUvWexpaEA) | 3:31 | 2023-09-08 |  |
 | [Summer Love](https://open.spotify.com/track/3V0JLSKOckMOO9Eh2N5rbT) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Summer Love](https://open.spotify.com/album/6S7rGAffgFdrMIHY6DjUAv) | 3:33 | 2023-08-17 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2022-12-01 |  |

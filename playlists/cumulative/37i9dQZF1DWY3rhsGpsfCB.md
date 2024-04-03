@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-531 songs - 1 day 3 hr 48 min
+532 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-07 | 2022-11-26 |
 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 | 2022-11-18 | 2023-01-11 |
 | [All Night](https://open.spotify.com/track/1MQaVZyTK4Fqm8OZy3wE6q) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:23 | 2022-06-24 | 2022-08-09 |
+| [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 | 2024-03-29 |  |
 | [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 | 2023-10-13 | 2024-03-15 |
 | [All Your Blues](https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:35 | 2023-12-08 | 2024-01-26 |
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-03-01 |  |
@@ -438,7 +439,7 @@
 | [Souls Align](https://open.spotify.com/track/2XFqq4pMRyocImfXqzUj5O) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Ms\. Elle](https://open.spotify.com/album/5LmwjRy0etKdguKSIi17hn) | 3:16 | 2023-11-10 | 2023-11-17 |
 | [Sovereignty](https://open.spotify.com/track/0VamvzBKHLbzIPVsNx1MPg) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Sovereignty](https://open.spotify.com/album/6FoJ8tjtSh3IdDinPS7ie0) | 3:08 | 2023-09-29 | 2023-10-13 |
 | [SPACE COWBOY](https://open.spotify.com/track/5f68045DHI297ti1WI8qUr) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [SPACE COWBOY](https://open.spotify.com/album/6dWdz1zf7BXz9mtNW2tjHX) | 3:21 | 2023-03-02 | 2023-03-04 |
-| [Spell \- Remix](https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Spell \(Remix\)](https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW) | 2:53 | 2023-03-17 |  |
+| [Spell \- Remix](https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Spell \(Remix\)](https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW) | 2:53 | 2023-03-17 | 2024-04-03 |
 | [Start Me Up](https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Start Me Up](https://open.spotify.com/album/5GZeyHEYLp13qFIJOyHVVJ) | 3:03 | 2023-06-22 | 2023-08-04 |
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 | 2022-10-01 |
 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 | 2023-06-09 | 2023-09-10 |

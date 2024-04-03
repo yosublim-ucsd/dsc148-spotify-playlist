@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 27637,
+  "num_followers": 27665,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODE5ZDc1NmUwZTIwOWRmNTBiNTA3ZDU2OWNlNmU2MjYwMTg3ODg1",
+  "snapshot_id": "MCw1ODNiZjYyYzc3YWZmNDQ1N2IyMjJmNzI4ZWY5M2RlNjcwNzIyMThj",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Casco D'oro",
-        "url": "https://open.spotify.com/album/2I9R3yTQGD7Qi3vftn7Q6b"
-      },
-      "artists": [
-        {
-          "name": "Caterina Caselli",
-          "url": "https://open.spotify.com/artist/19tdzR0mBQe9NrCyXvzw3p"
-        }
-      ],
-      "duration_ms": 161383,
-      "name": "Nessuno Mi Pu\u00f2 Giudicare",
-      "url": "https://open.spotify.com/track/7zrkOMlUmpdS6COxQykfVU"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "L'Arca Di No\u00e8 (2008 Remastered Edition)",
         "url": "https://open.spotify.com/album/2OulSxrNGCvCvz5rX7lUH5"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 224093,
       "name": "Voglio Vederti Danzare - Remastered",
       "url": "https://open.spotify.com/track/0Yncd2CxjjlWLrIukzsk2M"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Casco D'oro",
+        "url": "https://open.spotify.com/album/2I9R3yTQGD7Qi3vftn7Q6b"
+      },
+      "artists": [
+        {
+          "name": "Caterina Caselli",
+          "url": "https://open.spotify.com/artist/19tdzR0mBQe9NrCyXvzw3p"
+        }
+      ],
+      "duration_ms": 161383,
+      "name": "Nessuno Mi Pu\u00f2 Giudicare",
+      "url": "https://open.spotify.com/track/7zrkOMlUmpdS6COxQykfVU"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Addio al Nubilato",
-        "url": "https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h"
-      },
-      "artists": [
-        {
-          "name": "Lu Colombo",
-          "url": "https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk"
-        }
-      ],
-      "duration_ms": 233744,
-      "name": "Maracaibo",
-      "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Catherine Spaak",
         "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 129573,
       "name": "L'esercito del surf",
       "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Addio al Nubilato",
+        "url": "https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h"
+      },
+      "artists": [
+        {
+          "name": "Lu Colombo",
+          "url": "https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk"
+        }
+      ],
+      "duration_ms": 233744,
+      "name": "Maracaibo",
+      "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
     },
     {
       "added_at": "2023-06-05 07:42:38",

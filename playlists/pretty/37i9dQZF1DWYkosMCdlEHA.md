@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,691 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,721 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 29 | [Desde as Estrelas \- Acústico](https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Segue em Frente](https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3) | 4:10 |
 | 30 | [Pensamento \(Acústico\)](https://open.spotify.com/track/2NhI1Yc8XNEztaWxAR1SdD) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 2:52 |
 | 31 | [Blusinha Branca](https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 4:58 |
-| 32 | [Pra Falar de Amor](https://open.spotify.com/track/5KWvYZHwjJ6A3R41uJmpr7) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Histórias Pra Cantar](https://open.spotify.com/album/1jLZTYKG2LT3HUGWaJJd0e) | 3:29 |
+| 32 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
 | 33 | [Seja Para Mim \- Ao Vivo Em São Paulo](https://open.spotify.com/track/5RuScevud12uKYhhJkYTJ7) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 3:05 |
 | 34 | [Me Namora \(feat\. Edu Ribeiro\) \- Natiruts Reggae Brasil \- Ao Vivo](https://open.spotify.com/track/0gRNBFAXFhq1Z8QgTd0aXI) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE) | [Natiruts Reggae Brasil \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2NANM7zBb4IIH5DzKqAoMG) | 3:16 |
 | 35 | [Versos Simples \- Ao Vivo](https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Ao Vivo em Buenos Aires](https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD) | 3:07 |
-| 36 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
+| 36 | [Pra Falar de Amor](https://open.spotify.com/track/5KWvYZHwjJ6A3R41uJmpr7) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Histórias Pra Cantar](https://open.spotify.com/album/1jLZTYKG2LT3HUGWaJJd0e) | 3:29 |
 | 37 | [Johny B\. Goode \(Johny B\. Goode\) \[Acústico\]](https://open.spotify.com/track/1BkxFAodaIkcM2vynl4CVM) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:14 |
 | 38 | [Filme de Romance](https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 1](https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU) | 3:07 |
 | 39 | [No Mar \- Ao Vivo](https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:27 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 61 | [Medley: Árvore do Reggae / Música de Jah / Ame Sua Missão \- Ao Vivo](https://open.spotify.com/track/4bSV38EAZHHv8KdAwFbYt5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo No República do Reggae](https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ) | 4:47 |
 | 62 | [I Wanna Be](https://open.spotify.com/track/1BCX365xfyXvfhkMtUFGuE) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Rockers Control](https://open.spotify.com/artist/1iPwoFhbDDW4WQGiehzuun) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:40 |
 | 63 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 |
-| 64 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
-| 65 | [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 |
+| 64 | [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 |
+| 65 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
 | 66 | [Pra Voar / Posso Ser \- Acústico](https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Pra Voar / Posso Ser \(Acústico\)](https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV) | 4:21 |
 | 67 | [Calor \- Acústico](https://open.spotify.com/track/3IUipHNAKErjn0c6LOzyxw) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Acústico Helio Bentes Vol\. 2 \(Acústica\)](https://open.spotify.com/album/2qiVyCE4Fnmuow8MC7YRA9) | 4:43 |
 | 68 | [Onda do Arraial \- Ao Vivo](https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Corre Pro Meu Mar \- Acústico / Ao Vivo](https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Corre Pro Meu Mar \(Acústico / Ao Vivo\)](https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw) | 3:23 |
 
-Snapshot ID: `MCwzNTRiYThiNjcyOGI3YjVkMzJlOTJkZjkzZWIyYWM5NTJiNmFhMDJl`
+Snapshot ID: `MCw3NmIzNWE5ZTcwMWI0NGQzNDAxOTAwMzQ5MjVjZTFjNTFlMmQ5ZGE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,914 likes - 111 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,059 likes - 111 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 110 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 | 111 | [Cigarette Smell](https://open.spotify.com/track/48oxH1vAEmGyiEmbkYmwfH) | [Willy Cobb](https://open.spotify.com/artist/0shChEBZjTSDGjbRDsKcNL) | [Cigarette Smell](https://open.spotify.com/album/5Ox5z0pesi1GayCajvzjoR) | 2:38 |
 
-Snapshot ID: `MCw1Mzg0NjRiYjZjYTc5ZTYzNTk1NTc2MGVmN2EwMjliY2MyNDQ1N2Rl`
+Snapshot ID: `MCwzMDJkNzQzMjdlOGRmNWYyZjRlODdkMTQxZjk5M2M1OWYzYWE0Mzg0`

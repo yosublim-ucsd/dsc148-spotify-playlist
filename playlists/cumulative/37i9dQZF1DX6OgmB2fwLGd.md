@@ -4,7 +4,7 @@
 
 > Shotgun Willy, born and raised on the internet.
 
-985 songs - 1 day 16 hr 17 min
+986 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [NODA](https://open.spotify.com/track/67yPNZ1tsrQGbHvCs5m8Od) | [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [NODA](https://open.spotify.com/album/4DrrcT0x8ctTmOge6rgJTh) | 2:52 | 2023-06-30 | 2023-10-21 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-09-07 | 2023-07-15 |
 | [Not A Beanie](https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Not A Beanie](https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v) | 2:16 | 2023-03-17 | 2023-07-29 |
+| [NOTHIN' TO IT](https://open.spotify.com/track/0JwrnTwmE0UMctySBYGnJS) | [ON THE HUNT](https://open.spotify.com/artist/0H4NDqO4OLCIat2L6ET4yJ), [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx) | [NOTHIN' TO IT](https://open.spotify.com/album/7ikk4urY9UBan6I7808bgc) | 1:56 | 2024-04-02 |  |
 | [Notti Bop](https://open.spotify.com/track/0IEpFiWXbmfpiiUHPlPkYC) | [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Notti Bop](https://open.spotify.com/album/7vkQS7TYsnbF0AopUZ7tjI) | 3:45 | 2022-10-14 | 2023-04-09 |
 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 | 2023-01-19 | 2023-05-02 |
 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 | 2023-09-01 | 2023-11-11 |
@@ -861,7 +862,7 @@
 | [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-01-27 | 2023-05-06 |
 | [TANGO](https://open.spotify.com/track/05Q6BW1kQSEIwFLuLd5IUd) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [TANGO](https://open.spotify.com/album/75QPIPMelRS8Ahv7bbxwHh) | 1:59 | 2024-01-12 | 2024-02-24 |
 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 | 2023-02-15 |
-| [TATTI](https://open.spotify.com/track/67mSIbxWBzaFptWINhPN2U) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TATTI](https://open.spotify.com/album/6Z3TtvAdHtqtFCMtxhrpu8) | 1:41 | 2023-10-20 |  |
+| [TATTI](https://open.spotify.com/track/67mSIbxWBzaFptWINhPN2U) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TATTI](https://open.spotify.com/album/6Z3TtvAdHtqtFCMtxhrpu8) | 1:41 | 2023-10-20 | 2024-04-03 |
 | [TBTF](https://open.spotify.com/track/01Vormnc8QSPgBQYkvrQ7P) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [TBTF](https://open.spotify.com/album/7AcCd36B5Fu0N1qQZVBqVg) | 2:52 | 2022-01-21 | 2022-02-05 |
 | [Tears](https://open.spotify.com/track/5PUxWxXQEJJidGkIVIF7Tq) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [Tears](https://open.spotify.com/album/51JeumHc5NAoZTZaaLw9v0) | 1:50 | 2022-05-13 | 2022-10-15 |
 | [Tears of a Tiger](https://open.spotify.com/track/2pRU7Hr7vmSWT90NNOQiTd) | [Big Body Bes](https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP) | [Tears of a Tiger](https://open.spotify.com/album/2qLFnJ5LOvJpQURsaVdsdK) | 2:20 | 2021-12-10 | 2021-12-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 466246,
+  "num_followers": 466276,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjk3MjViODQ3MmIyODFjOWMwZTA4NmM2NWVmNjZhNjFhNmMzNmQw",
+  "snapshot_id": "MCw3Mjc4MDkyYzBmYjFmMGUxMzRkNmFjM2U5MmIxZDI5ZjFlYTMxODQw",
   "tracks": [
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1331,26 +1331,22 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Alto Mar (Woak & Rigon Remix)",
-        "url": "https://open.spotify.com/album/0CiYa6remt7JTz5ZJFyvSs"
+        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
+        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
       },
       "artists": [
         {
-          "name": "Tangerim",
-          "url": "https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         },
         {
-          "name": "WOAK",
-          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
-        },
-        {
-          "name": "Rigon",
-          "url": "https://open.spotify.com/artist/0xDbxdDRHBs8SuyaWThzwO"
+          "name": "LION dj",
+          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
         }
       ],
-      "duration_ms": 162073,
-      "name": "Alto Mar - Woak & Rigon Remix",
-      "url": "https://open.spotify.com/track/4eRdqHpdfJxJcUdzhoYBSq"
+      "duration_ms": 300432,
+      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
+      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
     },
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1375,22 +1371,26 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
-        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+        "name": "Alto Mar (Woak & Rigon Remix)",
+        "url": "https://open.spotify.com/album/0CiYa6remt7JTz5ZJFyvSs"
       },
       "artists": [
         {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+          "name": "Tangerim",
+          "url": "https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk"
         },
         {
-          "name": "LION dj",
-          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+          "name": "WOAK",
+          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
+        },
+        {
+          "name": "Rigon",
+          "url": "https://open.spotify.com/artist/0xDbxdDRHBs8SuyaWThzwO"
         }
       ],
-      "duration_ms": 300432,
-      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
-      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+      "duration_ms": 162073,
+      "name": "Alto Mar - Woak & Rigon Remix",
+      "url": "https://open.spotify.com/track/4eRdqHpdfJxJcUdzhoYBSq"
     },
     {
       "added_at": "2024-03-16 02:06:56",

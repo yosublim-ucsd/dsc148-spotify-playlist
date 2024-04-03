@@ -4705,6 +4705,28 @@
     },
     {
       "album": {
+        "name": "Goeie Ou",
+        "url": "https://open.spotify.com/album/3TyQcxh2WkpeOmUKBeKXkn"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        },
+        {
+          "name": "Henru",
+          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Goeie Ou",
+      "url": "https://open.spotify.com/track/0sgnE3y48l0Q9aOlEz3baT"
+    },
+    {
+      "album": {
         "name": "Gogga",
         "url": "https://open.spotify.com/album/6NVlAxL1Q918yRq7dJ0ad8"
       },
@@ -15290,7 +15312,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 223546,
       "name": "Waar Gaan Ons Dans Vanaand?",
       "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"

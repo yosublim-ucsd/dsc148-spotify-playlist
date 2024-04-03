@@ -1,12 +1,12 @@
 {
-  "description": "The country that made country cool. Cover: Alan Jackson\n",
-  "num_followers": 1792518,
+  "description": "The country that made country cool. Cover: George Strait",
+  "num_followers": 1793319,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODM2YmNiNzY4ODI3YjRkNzk3ODZmZDNlNTJkN2NjY2QzYWQxZjkx",
+  "snapshot_id": "MCxmMzJkN2JhMWQwNDAwMTQ5YTQ3ODUxYzBiYWQwNTcyN2QyZDBmYmE3",
   "tracks": [
     {
       "added_at": "2024-03-05 21:47:39",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 206840,
-      "name": "Wish I Didn't Know Now",
-      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+      "duration_ms": 206840,
+      "name": "Wish I Didn't Know Now",
+      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+        "name": "Third Rock From The Sun",
+        "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
+      "duration_ms": 216200,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Third Rock From The Sun",
-        "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 170546,
-      "name": "A Little Less Talk And A Lot More Action",
-      "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "If I Could Make a Living",
         "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 185840,
       "name": "Bubba Shot The Jukebox",
       "url": "https://open.spotify.com/track/0PsBdKWnOQGMo9smobflvy"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 170546,
+      "name": "A Little Less Talk And A Lot More Action",
+      "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 162466,
       "name": "Wink",
       "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Then What?",
-      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 215600,
       "name": "A Broken Wing",
       "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Then What?",
+      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Extremes",
-        "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "That's My Story",
-      "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 182306,
       "name": "Drink, Swear, Steal & Lie",
       "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Extremes",
+        "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "That's My Story",
+      "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87"
-      },
-      "artists": [
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "What Part of No",
-      "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "The Essential Mary Chapin Carpenter",
         "url": "https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 243106,
       "name": "He Thinks He'll Keep Her",
       "url": "https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87"
+      },
+      "artists": [
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "What Part of No",
+      "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
-      },
-      "artists": [
-        {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "How Your Love Makes Me Feel",
-      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Life's So Funny",
         "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 237226,
       "name": "Bigger Than the Beatles",
       "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "How Your Love Makes Me Feel",
+      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "I Think About You",
-        "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "I Think About You",
-      "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Del Rio, Tx 1959",
         "url": "https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 210746,
       "name": "Nobody Wins",
       "url": "https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "I Think About You",
+        "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "I Think About You",
+      "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
     },
     {
       "added_at": "2024-03-05 21:47:39",

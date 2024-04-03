@@ -4,7 +4,7 @@
 
 > Architects is on top of today's best Metal playlist.
 
-635 songs - 1 day 18 hr 21 min
+636 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-02-23 |  |
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-09 |  |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-08-12 | 2022-10-01 |
+| [Cursed To Remember](https://open.spotify.com/track/3WDS1O96myK2bjE9FQudID) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Death Is Little More](https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ) | 3:19 | 2024-04-02 |  |
 | [Cut Me Open](https://open.spotify.com/track/0XrjH7Y2BBPCV58EnrcUPS) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Cut Me Open](https://open.spotify.com/album/4I6HDYKbgn6ImOpvgUqyNV) | 2:49 | 2023-10-27 |  |
 | [Cut Throat](https://open.spotify.com/track/2sICZQ4Ixmet50hroTflc3) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Cut Throat](https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur) | 3:07 | 2022-05-20 | 2022-07-08 |
 | [Cyanide](https://open.spotify.com/track/0lqnTPAsozxC6XQgoV7k7N) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Common Suffering](https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF) | 3:44 | 2024-01-05 | 2024-03-09 |

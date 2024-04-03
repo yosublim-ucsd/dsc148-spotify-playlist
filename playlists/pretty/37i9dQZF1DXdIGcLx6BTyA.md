@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,936 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,941 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 65 | [Neon Cross](https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 4:24 |
 | 66 | [Tuesday I’ll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/track/0FsdfpCrfUAqAA2Hctoe88) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Years](https://open.spotify.com/album/4Xpwhz87qGgbKIVdbBRNJP) | 3:44 |
 | 67 | [Hard Time With The Truth](https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Solid Gold Sounds \(Deluxe Edition\)](https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8) | 4:11 |
-| 68 | [Tecumseh Valley](https://open.spotify.com/track/5KJMVvokqnMn9ribqPQja9) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Our Mother the Mountain](https://open.spotify.com/album/7832JbG9mCtN2QBzwXOlPF) | 4:55 |
-| 69 | [Off the Shelf](https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Weight of the World](https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno) | 5:47 |
+| 68 | [Off the Shelf](https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Weight of the World](https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno) | 5:47 |
+| 69 | [Tecumseh Valley](https://open.spotify.com/track/5KJMVvokqnMn9ribqPQja9) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Our Mother the Mountain](https://open.spotify.com/album/7832JbG9mCtN2QBzwXOlPF) | 4:55 |
 | 70 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
 | 71 | [Dirt Road Nights](https://open.spotify.com/track/4eb6X1EZbOjC0kjy3ethFk) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 3:11 |
 | 72 | [Monsters](https://open.spotify.com/track/55Z5eGNkXedn1N2mHwJ2hz) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Monsters](https://open.spotify.com/album/1eXKj3JRnhZB0OQ7fDRvgn) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 79 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
 | 80 | [Lotta Fun](https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 2:57 |
 
-Snapshot ID: `MCwxODYwY2I4NDBiNjI1M2U2ODQ0MTNkNmEwMDdkNzY2ZjFhMjViODA0`
+Snapshot ID: `MCw4OTEwYzlmMDNhNjU0NmUxMTA2MGQxYWY1NTgwNTgzOTdiNzlhNzUx`

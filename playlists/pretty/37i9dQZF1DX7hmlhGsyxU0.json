@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 161686,
+  "num_followers": 161785,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mjc3MzdmMDVmMjMyMGIxMTVlODY1NzEzODZlMzY2Nzk5Mjg5OGY2",
+  "snapshot_id": "MCw5YzQyNWNiODQ4ZWRmMjEwM2MwMTA0MGUwNjQxODk1OWIxOGJiZDI0",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "On The Verge Of Collapse",
-        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
-      },
-      "artists": [
-        {
-          "name": "Rohit",
-          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "We All Grieve Differently",
-      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 228257,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "On The Verge Of Collapse",
+        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
+      },
+      "artists": [
+        {
+          "name": "Rohit",
+          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "We All Grieve Differently",
+      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Calm Water",
-        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
-      },
-      "artists": [
-        {
-          "name": "Elise Bordeaux",
-          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
-        }
-      ],
-      "duration_ms": 260729,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/2XIKAebL8aZ70mFTOFDsAr"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -615,22 +615,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
+        "name": "K\u00e4rlek",
+        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
       "artists": [
         {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
-        },
-        {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
+          "name": "Ruben Fjellner",
+          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
         }
       ],
-      "duration_ms": 408791,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
+      "duration_ms": 148672,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "K\u00e4rlek",
-        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
+        "name": "The Last Gate",
+        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
       "artists": [
         {
-          "name": "Ruben Fjellner",
-          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
+          "name": "Cesare Picco",
+          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
+        },
+        {
+          "name": "Leonardo Sapere",
+          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
         }
       ],
-      "duration_ms": 148672,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
+      "duration_ms": 408791,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0XkkbHrfzKH5CwrGoK7cEa"
+      },
+      "artists": [
+        {
+          "name": "Juniper Care",
+          "url": "https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Gravegarden",
+      "url": "https://open.spotify.com/track/1tvcVyI7ltFhP3LEK2ThKa"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Musica Desolata",
         "url": "https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 284506,
       "name": "Musica Desolata",
       "url": "https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0XkkbHrfzKH5CwrGoK7cEa"
-      },
-      "artists": [
-        {
-          "name": "Juniper Care",
-          "url": "https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Gravegarden",
-      "url": "https://open.spotify.com/track/1tvcVyI7ltFhP3LEK2ThKa"
     },
     {
       "added_at": "2023-06-27 16:12:39",

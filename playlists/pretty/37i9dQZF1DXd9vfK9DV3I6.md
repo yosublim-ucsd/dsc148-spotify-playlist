@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,337 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,493 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 64 | [Deep Anatolia](https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ) | [Deep Anatolia](https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW) | 2:48 |
 | 65 | [Ala Moj Al Bahr \- Javid Remix](https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [JAVID](https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif) | [Letters](https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t) | 9:11 |
 | 66 | [Sensiz](https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5) | [Lemurian](https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu), [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge) | [Prophecies of the Ancient Future](https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH) | 5:20 |
-| 67 | [Arabic Nights](https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Arabic Nights](https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap) | 2:45 |
-| 68 | [Souq](https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Sireli](https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk) | 6:21 |
+| 67 | [Lovely](https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH) | 2:56 |
+| 68 | [Arabic Nights](https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Arabic Nights](https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap) | 2:45 |
 | 69 | [Sakaratou Achiqin](https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Mawal Lotfi](https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda) | [Sakaratou Achiqin](https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh) | 2:19 |
-| 70 | [Lovely](https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH) | 2:56 |
+| 70 | [Souq](https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Sireli](https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk) | 6:21 |
 | 71 | [Yâr \- Ezgi Sağlık Vocal Edit](https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [fidanson](https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh), [Ezgi Sağlık](https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9) | [Yâr](https://open.spotify.com/album/770XPLwAlImTgzG070HEvX) | 1:37 |
 | 72 | [Anlar](https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Anlar](https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c) | 7:10 |
 | 73 | [Love of You \(The Violin Song\)](https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Love of You \(The Violin Song\)](https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ) | 2:40 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 79 | [Rhim \- Jad Halal Remix](https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon) | [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Salam](https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA) | 4:33 |
 | 80 | [Tawada \- Saint Evo Remix](https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Anas Chlih](https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tawada](https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M) | 7:15 |
 | 81 | [Sunam](https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0), [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Serdar Ayyıldız](https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK) | [Sunam](https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt) | 4:39 |
-| 82 | [Askim](https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z) | [ilkan Muslu](https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv) | [Mektup](https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij) | 3:32 |
-| 83 | [Destiny](https://open.spotify.com/track/0saYIsX2qEFViag84KF26X) | [Ata Oztuna](https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Talk About Us](https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0) | 3:16 |
+| 82 | [Destiny](https://open.spotify.com/track/0saYIsX2qEFViag84KF26X) | [Ata Oztuna](https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Talk About Us](https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0) | 3:16 |
+| 83 | [Askim](https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z) | [ilkan Muslu](https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv) | [Mektup](https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij) | 3:32 |
 | 84 | [Time Flies](https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn) | [Time Flies](https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO) | 2:59 |
 | 85 | [Nomadic](https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k) | [Hlm.Prod](https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ) | [Nomadic](https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE) | 3:26 |
 | 86 | [Yasameen](https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Douae El Rhiouane](https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki) | [Yasameen](https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h) | 5:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [all the things i got](https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe), [Ceren Toksöz](https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT) | [all the things i got](https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06) | 2:25 |
 | 100 | [Jawi](https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb) | [HbbZ](https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu) | [Jawi](https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw) | 4:05 |
 
-Snapshot ID: `MCwzODU2OWZjNTczZTZmN2E2YTA4NjE0OWE3YzM2NDY0ZWYwMzAyMjQw`
+Snapshot ID: `MCwwZDExYjk2MmRlMjllNzMzMTE1ZTBmZGIxZDA5ZDgyN2UyYmRmNzQ2`

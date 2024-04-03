@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 180272,
+  "num_followers": 180451,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWNjYjQ3ZjMwOTA2MGVjYzgxNzU4ZWI4NWE2YzhkNTYxYjIyMmQw",
+  "snapshot_id": "MCw3MTE4ZTg5NWM1MTY1OWNjOWI1ZWE4ZWM3MzQ2ZDNjZjQ3OTRiNWEy",
   "tracks": [
     {
       "added_at": "2024-03-19 20:01:44",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
         "name": "Banda La Jaripera Vol.1",
         "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 174453,
       "name": "La Fea",
       "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
-        }
-      ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
-        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
+        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
+        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
         "name": "Pa' Las De Vidrio (En Vivo)",
         "url": "https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 162117,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
         "name": "Era Cab - El Viejo",
         "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 153093,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
-        "name": "El Guapo",
-        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 188696,
-      "name": "El Guapo",
-      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+        "name": "El Guapo",
+        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
       },
       "artists": [
         {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 162117,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
+      "duration_ms": 188696,
+      "name": "El Guapo",
+      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
     },
     {
       "added_at": "2024-03-19 20:01:44",

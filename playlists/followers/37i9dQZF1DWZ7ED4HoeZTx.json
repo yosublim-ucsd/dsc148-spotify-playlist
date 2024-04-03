@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 122062,
+  "2024-04-03": 122137,
   "date_first_scraped": "2023-01-06",
   "description": "Your chill anime soundtrack. ",
   "name": "Slice of Life ",
@@ -617,7 +617,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 253057,
       "name": "meringue doll",
       "url": "https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ"
@@ -705,6 +705,24 @@
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "album": {
+        "name": "manamoon (\u307e\u306a\u3082\u3049\u3093)",
+        "url": "https://open.spotify.com/album/49oWwsiDEYNBot7wKN92HG"
+      },
+      "artists": [
+        {
+          "name": "\u30bb\u30e9\u30cb\u30dd\u30fc\u30b8",
+          "url": "https://open.spotify.com/artist/4F7VLdd3JkAboNgEhYhqyu"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364133,
+      "name": "Octopus Daughter",
+      "url": "https://open.spotify.com/track/5e0hPk2kJAqpVFeX9olJ9V"
     },
     {
       "album": {
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 250333,
       "name": "Why",
       "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 339573,
       "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
       "url": "https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa"

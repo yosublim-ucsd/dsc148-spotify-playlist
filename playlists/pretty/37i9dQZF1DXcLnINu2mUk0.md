@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Rony Fuego e Loony Johnson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,772 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,818 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 42 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 43 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 44 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
-| 45 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
+| 45 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 46 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
 | 47 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 |
 | 48 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
@@ -60,21 +60,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 50 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 51 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
 | 52 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
-| 53 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
+| 53 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
 | 54 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 55 | [Filme](https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [MIKELPOTTER](https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ) | [Filme](https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV) | 3:18 |
 | 56 | [love fora de stock](https://open.spotify.com/track/6Z1kJFolqUG6pVksvXl8jc) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [love fora de stock](https://open.spotify.com/album/3NW26Phdu93L9Jo4oWeClv) | 3:00 |
 | 57 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
 | 58 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 59 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
-| 60 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 |
-| 61 | [Feitiço](https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Feitiço](https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf) | 2:41 |
+| 60 | [Feitiço](https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Feitiço](https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf) | 2:41 |
+| 61 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 |
 | 62 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
 | 63 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
 | 64 | [Herança](https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Herança](https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n) | 3:00 |
 | 65 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 |
-| 66 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
-| 67 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 |
+| 66 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 |
+| 67 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
 | 68 | [batom rosa](https://open.spotify.com/track/2i5tZzooStnLGv5lL3DLpy) | [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ) | [batom rosa](https://open.spotify.com/album/3jiCnCWy1K80ufnrRIyboo) | 2:24 |
 | 69 | [Quero Encontrar](https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Quero Encontrar](https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh) | 3:00 |
 | 70 | [Drive Slow](https://open.spotify.com/track/1ZyWOoBhKX46OToNwBWJUt) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Drive Slow](https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV) | 2:52 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 72 | [Party All Night](https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0) | [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [Party All Night](https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS) | 3:12 |
 | 73 | [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 |
 | 74 | [A MINHA VIDA DEPOIS DE TI](https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc) | [AUSENTE DE LUZ](https://open.spotify.com/album/0HWWvwNtjJvlLziHiN6Jge) | 2:36 |
-| 75 | [Encandeia](https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Encandeia](https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8) | 3:46 |
-| 76 | [Chama](https://open.spotify.com/track/7I5LvUS8ETkDKZJLhst5rk) | [Nina R.A.E.](https://open.spotify.com/artist/0QnClU5NDTqMBuZdNTyvK0) | [Chama](https://open.spotify.com/album/6lDKhi2lp3EtRJGscCEQj5) | 2:57 |
-| 77 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 |
+| 75 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 |
+| 76 | [Encandeia](https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Encandeia](https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8) | 3:46 |
+| 77 | [Chama](https://open.spotify.com/track/7I5LvUS8ETkDKZJLhst5rk) | [Nina R.A.E.](https://open.spotify.com/artist/0QnClU5NDTqMBuZdNTyvK0) | [Chama](https://open.spotify.com/album/6lDKhi2lp3EtRJGscCEQj5) | 2:57 |
 | 78 | [Hubris](https://open.spotify.com/track/1Ol1SZBJ0xnZH1SZ4Ua6W3) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [Hubris](https://open.spotify.com/album/0ZF8f1SLDIObSCU98tfgJB) | 3:16 |
 | 79 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 80 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
 
-Snapshot ID: `MCxiNDc4NTg1MTEyMWQyYWQ3Nzg4ZjdhZGVhNDk0NTY3NGU3ZGUzOTQ5`
+Snapshot ID: `MCw3MWVmN2JmNTg0YTBhODcxYTE4YTUxMDk1NDE1YzI2NDMxYzhhYmMx`

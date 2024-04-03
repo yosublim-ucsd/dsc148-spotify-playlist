@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 1940695,
+  "2024-04-03": 1940688,
   "date_first_scraped": "2021-12-30",
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
   "name": "Ac\u00fasticas",
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"

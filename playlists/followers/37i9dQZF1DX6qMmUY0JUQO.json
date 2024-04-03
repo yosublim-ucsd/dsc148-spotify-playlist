@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 139150,
+  "2024-04-03": 139232,
   "date_first_scraped": "2022-04-20",
   "description": "From House & Techno to the spheres of Pop. This playlist features legendary tracks that have been produced on a TR-909 drum machine. Cover: Jeff Mills",
   "name": "909 Classics",
@@ -249,6 +249,24 @@
       "duration_ms": 345330,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/5479eh8cRkMdukYI3gtO36"
+    },
+    {
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3WmCOQPNbiemwv7HgMtd3p"
+      },
+      "artists": [
+        {
+          "name": "RETRO MF",
+          "url": "https://open.spotify.com/artist/2N4YBCzaK5N4g8fI3n36UU"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345466,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2jOWBkREdI0FvFwM60MKLm"
     },
     {
       "album": {
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 361402,
       "name": "Sound 6",
       "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"

@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 11293,
+  "2024-04-03": 11297,
   "date_first_scraped": "2023-07-23",
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
   "name": "Front BR",
@@ -787,7 +787,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 365082,
       "name": "Madame Kabukicho",
       "url": "https://open.spotify.com/track/5wdbMg0l4UIig9nnkRVQOz"
@@ -831,6 +831,24 @@
       "duration_ms": 216237,
       "name": "mate & morra",
       "url": "https://open.spotify.com/track/6cVw5WnMUCIhFawrGlDo8Z"
+    },
+    {
+      "album": {
+        "name": "Maytrea",
+        "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
+      },
+      "artists": [
+        {
+          "name": "Art in Motion",
+          "url": "https://open.spotify.com/artist/4y3VghKwwjmfAUHo3G5rvP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452106,
+      "name": "Maytrea",
+      "url": "https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb"
     },
     {
       "album": {

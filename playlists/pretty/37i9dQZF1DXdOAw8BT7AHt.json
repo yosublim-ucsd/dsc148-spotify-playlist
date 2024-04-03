@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Drahla",
-  "num_followers": 449992,
+  "num_followers": 449944,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWM0YzQ4YjEwYmEzZDAxNzcxYTk1Nzk5ZDg0MjRmNTgxNjU2ZjJi",
+  "snapshot_id": "MCxkNDkzN2Y0YmQzMTlkM2FhNDAzYzQ3ZTRhODNmODRiZGY1ZGNjMGJm",
   "tracks": [
     {
       "added_at": "2024-03-15 12:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Sanguivore",
-        "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 267864,
-      "name": "Cry To Heaven",
-      "url": "https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "You're My Medicine",
         "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Sanguivore",
+        "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 267864,
+      "name": "Cry To Heaven",
+      "url": "https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "UK GRIM",
-        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 198542,
-      "name": "UK GRIM",
-      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 165393,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "UK GRIM",
+      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 216618,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Choke",
         "url": "https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 222186,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "What A Fucking Nightmare",
+        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 216618,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Down There!",
-        "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
+        "name": "Roll With It",
+        "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
       },
       "artists": [
         {
-          "name": "Folly Group",
-          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+          "name": "Cold Years",
+          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
         }
       ],
-      "duration_ms": 208218,
-      "name": "Pressure Pad",
-      "url": "https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK"
+      "duration_ms": 215760,
+      "name": "Roll With It",
+      "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Roll With It",
-        "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
+        "name": "Down There!",
+        "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
       },
       "artists": [
         {
-          "name": "Cold Years",
-          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
         }
       ],
-      "duration_ms": 215760,
-      "name": "Roll With It",
-      "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
+      "duration_ms": 208218,
+      "name": "Pressure Pad",
+      "url": "https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
+        "name": "DUST OFF / START AGAIN",
+        "url": "https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "DUST OFF / START AGAIN",
+      "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
         "name": "Effigy",
         "url": "https://open.spotify.com/album/3ITJHZF40YUacjdJS01ppt"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 201306,
       "name": "Nausea",
       "url": "https://open.spotify.com/track/6pGgfqZndbyUbVFHTCn9SO"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     }
   ],
   "unique_name": "The Punk List",

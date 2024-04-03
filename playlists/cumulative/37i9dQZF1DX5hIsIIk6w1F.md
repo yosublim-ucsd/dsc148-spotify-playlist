@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: El Jordan 23 & Fuego.
 
-669 songs - 1 day 13 hr 5 min
+670 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [MA DIAMANTE](https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [MA DIAMANTE](https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw) | 2:28 | 2024-03-22 |  |
 | [MADRID](https://open.spotify.com/track/2fXKhkTskJr2zi7iZJmDOq) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [MADRID](https://open.spotify.com/album/4uv3gpD1EVnI2NtDsCIL0D) | 3:15 | 2023-04-28 |  |
 | [Majo Majo](https://open.spotify.com/track/2G2aYr05fBoYIzKXScwAnI) | [Jhondiez](https://open.spotify.com/artist/7vQwpzJpeyKlFz0Zract9q), [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Majo Majo](https://open.spotify.com/album/04ZXgkOTgJyu3eGmqYBYqF) | 3:10 | 2023-12-08 |  |
-| [Mal Mal Mal](https://open.spotify.com/track/3BTYZkMCqYWLqrxfub1NmE) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Mal Mal Mal](https://open.spotify.com/album/02XKfKw71CaZmNGOC0lDPz) | 3:10 | 2023-06-30 |  |
+| [Mal Mal Mal](https://open.spotify.com/track/28m92ViuiPxhmXBsLGgA9F) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Mal Mal Mal](https://open.spotify.com/album/5exTuC9LPffoZA71sA8Xdv) | 3:10 | 2024-03-29 |  |
+| [Mal Mal Mal](https://open.spotify.com/track/3BTYZkMCqYWLqrxfub1NmE) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Mal Mal Mal](https://open.spotify.com/album/02XKfKw71CaZmNGOC0lDPz) | 3:10 | 2023-06-30 | 2024-04-03 |
 | [Mala](https://open.spotify.com/track/01kgVy2pzVNh23h0CAkr6c) | [Luis Vi](https://open.spotify.com/artist/2xUYrN2TIgisHMPdjoSAAJ), [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ) | [Mala](https://open.spotify.com/album/0IVzzAAQpLFFLT2ZwsXKC2) | 2:55 | 2024-03-29 |  |
 | [Mala \- Remix](https://open.spotify.com/track/3NGz425CwwkO29Ku8agLdN) | [Martina Chanell](https://open.spotify.com/artist/0Z7DuTrKPkljJP0O9eiiVJ), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Andresito Otro Corte](https://open.spotify.com/artist/6q8z8dubMZel54z4mYu1Oo), [JOSEPE EL DEMENTE](https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc), [Son Gotten](https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox) | [Mala \(Remix\)](https://open.spotify.com/album/3rQ2aO73P1lSra1ptUp16A) | 6:16 | 2023-01-06 | 2023-01-21 |
 | [Mala Fama](https://open.spotify.com/track/3sI2hA72K2mvoKIOvogbIq) | [Sirena Miler](https://open.spotify.com/artist/1Q2Q3t7INUQfyv0Z18ZD88), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo) | [Mala Fama](https://open.spotify.com/album/6Eox5ohaZ35MviIFNqQle6) | 2:48 | 2023-09-15 | 2023-09-30 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 2514,
+  "2024-04-03": 2514,
   "date_first_scraped": "2023-04-03",
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
   "name": "This Is JJ Hairston",
@@ -267,7 +267,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 210181,
       "name": "Awesome God",
       "url": "https://open.spotify.com/track/5HJcOzXFjHpmCqM87Fx82Y"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 340431,
       "name": "Blood Still Works",
       "url": "https://open.spotify.com/track/5udnzt45TCAMZDwwV9C822"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 444480,
       "name": "Glory and Honor - Live",
       "url": "https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 767375,
       "name": "It Shall Be Done (feat. David Wilford)",
       "url": "https://open.spotify.com/track/1nCSH0ZQgfCkyMc96J5E6a"
@@ -1413,6 +1413,28 @@
       "duration_ms": 402892,
       "name": "It's Still Hallelujah (feat. Brittney Wright, Phil Bryant, Pocket of Hope & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/6JGkcnUVNf4gf2xCgJNgdg"
+    },
+    {
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373826,
+      "name": "Jesus Reigns - Live",
+      "url": "https://open.spotify.com/track/6W32Quvo1qpHDFooIoeFEE"
     },
     {
       "album": {
@@ -2223,6 +2245,28 @@
     {
       "album": {
         "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372013,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee"
+    },
+    {
+      "album": {
+        "name": "After This",
         "url": "https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ"
       },
       "artists": [
@@ -2263,6 +2307,28 @@
       "duration_ms": 378293,
       "name": "The Blood Still Works",
       "url": "https://open.spotify.com/track/49dXY7y9z30gIu1m24xHOQ"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378293,
+      "name": "The Blood Still Works",
+      "url": "https://open.spotify.com/track/6NozZ99Xvp4M0haL0dRiX2"
     },
     {
       "album": {
@@ -2327,7 +2393,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 643515,
       "name": "The Great I Am - Live",
       "url": "https://open.spotify.com/track/6CfklnHt4juAJH97bIWCEp"

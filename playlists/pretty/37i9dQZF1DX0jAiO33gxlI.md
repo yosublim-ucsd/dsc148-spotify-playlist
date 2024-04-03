@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rashid
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,519 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,528 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Trintou \- Ao Vivo](https://open.spotify.com/track/7hDNDt4A317VTNLdqJIaXK) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:30 |
 | 74 | [SP Capital](https://open.spotify.com/track/27mibYlhKxG500N1HIyHy9) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [janderson fundação](https://open.spotify.com/artist/5HcWnzCSCqQ218lLa1ewvb), [DJ Faveliano](https://open.spotify.com/artist/53SS1Ab7P1dG97hT8jwAKQ) | [SP Capital](https://open.spotify.com/album/6Ks8cwo1O3W6FRuH1vRqRj) | 3:16 |
 
-Snapshot ID: `MCwxMjY4YTU3MzA2NmE2MzE4MzIxYmNjMTU4MWY1ZGQ3OWQ3YzkyYThh`
+Snapshot ID: `MCxlMDRhZjYwYmZlYjY5YjI4NmUyMThjMDAzNmQ0ZGEzZjUyM2E2ZmJl`

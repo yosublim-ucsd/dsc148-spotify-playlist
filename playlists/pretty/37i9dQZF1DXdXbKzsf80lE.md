@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,716 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,793 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 19 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
 | 20 | [Se Joga no Passinho](https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Se Joga no Passinho](https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t) | 3:20 |
 | 21 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
-| 22 | [Cabeça Branca](https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [O Pai Das Crianças \(Part\. 1\)](https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu) | 2:27 |
-| 23 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
+| 22 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
+| 23 | [Cabeça Branca](https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [O Pai Das Crianças \(Part\. 1\)](https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu) | 2:27 |
 | 24 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
 | 25 | [O Apostador](https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [O Apostador](https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX) | 2:16 |
 | 26 | [Tanto Faz \- Ao Vivo](https://open.spotify.com/track/5GiYIXJ21dQlzxdL3Qsyh6) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Tanto Faz \(Ao Vivo\)](https://open.spotify.com/album/6wikeTuyirSNGsZH1ZaEN1) | 2:30 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 57 | [A Distância Tá Maltratando](https://open.spotify.com/track/5TE7Y9ycqyglDqKPEriXdR) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [A Distância Tá Maltratando](https://open.spotify.com/album/7G059SfagKnzI5dOXhOyzN) | 2:47 |
 | 58 | [Trip do Boyzinho](https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [Trip do Boyzinho](https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx) | 2:49 |
 | 59 | [Rita](https://open.spotify.com/track/1nDCZBI8MaHXI2f36dnQyG) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Aô Saudade da Mãe dos Meninos](https://open.spotify.com/album/2V9i8lh4qbIj6oLqECVS6k) | 2:36 |
-| 60 | [Disco Arranhado](https://open.spotify.com/track/4QTy8WBsWugusgc32mtj2j) | [Malu](https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ) | [Atualiza Aê BB](https://open.spotify.com/album/4WiGDTDjR9B5P6Cy0Bk27R) | 2:47 |
-| 61 | [Elas Gostam de Gasolina](https://open.spotify.com/track/4fW46bnb4nD5JcMqK3kV5M) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [In Casa \(Ao Vivo\)](https://open.spotify.com/album/1ZBklsn92ZRvr870yiKddF) | 2:53 |
+| 60 | [Elas Gostam de Gasolina](https://open.spotify.com/track/4fW46bnb4nD5JcMqK3kV5M) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [In Casa \(Ao Vivo\)](https://open.spotify.com/album/1ZBklsn92ZRvr870yiKddF) | 2:53 |
+| 61 | [Disco Arranhado](https://open.spotify.com/track/4QTy8WBsWugusgc32mtj2j) | [Malu](https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ) | [Atualiza Aê BB](https://open.spotify.com/album/4WiGDTDjR9B5P6Cy0Bk27R) | 2:47 |
 | 62 | [Casal Raiz \- Ao Vivo](https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:29 |
 | 63 | [Volta Vai \- Ao Vivo](https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas \(Ao Vivo\)](https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw) | 4:36 |
 | 64 | [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 82 | [My Baby](https://open.spotify.com/track/5BG7jLnjI62eS7EuBGr3r7) | [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/2Tvmo1uMgsFxkMtZ1xgzLp) | 2:24 |
 | 83 | [Lovezão da Porra](https://open.spotify.com/track/3LrhQhUHudX7SOa2uYHO50) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Lovezão da Porra](https://open.spotify.com/album/6K5XxHJwvR1F0EXQm3AcBO) | 2:59 |
 | 84 | [Bom Dia](https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop) | [Nêgo Jhá](https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ) | [Bom Dia](https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W) | 1:56 |
-| 85 | [Monta Logo Vai](https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Monta Logo Vai](https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT) | 2:21 |
-| 86 | [Linda Bela](https://open.spotify.com/track/1S0HjmWVsWVdLcjtoZjqmI) | [Elias Monkbel](https://open.spotify.com/artist/5mFMTcmSFaMIkmHvXZUrVZ) | [O Carpinteiro \(Ao Vivo\)](https://open.spotify.com/album/1Q18WOT7ZQlxjd5ApZ9dZZ) | 3:27 |
+| 85 | [Linda Bela](https://open.spotify.com/track/1S0HjmWVsWVdLcjtoZjqmI) | [Elias Monkbel](https://open.spotify.com/artist/5mFMTcmSFaMIkmHvXZUrVZ) | [O Carpinteiro \(Ao Vivo\)](https://open.spotify.com/album/1Q18WOT7ZQlxjd5ApZ9dZZ) | 3:27 |
+| 86 | [Monta Logo Vai](https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Monta Logo Vai](https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT) | 2:21 |
 | 87 | [Hb20](https://open.spotify.com/track/4cjowWOdLUKomiRwhWpRXJ) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou na Mosca](https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N) | 2:22 |
 | 88 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 |
 | 89 | [O Matuto se Apaixonou](https://open.spotify.com/track/5uZx1CIGYRK1TdPVg8l9YT) | [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [\#REIDOPISEIRO: 2020.1](https://open.spotify.com/album/7JgDhnzqUP4uWRqZysUWme) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 99 | [Isca](https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Isca](https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv) | 2:42 |
 | 100 | [Vaquejada Deixo Não](https://open.spotify.com/track/7opFSfeMfpGF3KGByMeunX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Vaquejada Deixo Não](https://open.spotify.com/album/1clLqhZRPHVnA0LyG6PQAO) | 3:17 |
 
-Snapshot ID: `MCwyYTY1ODczZDM1MjgzYjA5YmYzNDUzNzgzNzU0NGU2Y2JlNzZiNmJk`
+Snapshot ID: `MCwxNDNhYjNkMzUwODM0ZTgwMWVlNDJjMGIwNzgzNGQwYzAzNDg1NTU5`

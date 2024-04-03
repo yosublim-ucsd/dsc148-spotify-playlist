@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,736 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,757 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 18 | [Ribcage](https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Ribcage](https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34) | 2:57 |
 | 19 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
 | 20 | [Puppy](https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:55 |
-| 21 | [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 |
+| 21 | [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger la flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 |
 | 22 | [Bubble Bath](https://open.spotify.com/track/20YR9nQbpzkgu8unaM5daZ) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Bubble Bath](https://open.spotify.com/album/1xuThITWHkINezQf4Xkj2v) | 2:56 |
 | 23 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 |
 | 24 | [I Gotta Know](https://open.spotify.com/track/2m6DtG2YfiqheGCCcWGT5K) | [Sea of Lettuce](https://open.spotify.com/artist/1uPcEitVTkNP5QpUtTbxqq) | [I Gotta Know](https://open.spotify.com/album/09XIOO6jNTToBetpZ6smrs) | 3:15 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [You're in the Way](https://open.spotify.com/track/3DVhLbfqydZoui3oL8kfti) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [You're in the Way](https://open.spotify.com/album/3M5T4rxlIzbGvlQfToUkKJ) | 2:47 |
 | 125 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 |
 
-Snapshot ID: `MCwxY2UxZjYwZWYxZjRmYmFkNDllYzZhMjc3ZWUxM2ExNzUzZGJjODA5`
+Snapshot ID: `MCxmOTU4YmI2NzdiN2M4YTkwYzEyMzgwYjQ5MGZiZDdmNTViZmNlNTFi`

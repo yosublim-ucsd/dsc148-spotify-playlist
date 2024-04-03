@@ -2515,6 +2515,28 @@
     },
     {
       "album": {
+        "name": "Baaro Maga Baaro Maga (From Obbattu\")",
+        "url": "https://open.spotify.com/album/46CfJIXK1G1ezCVaE9CNYO"
+      },
+      "artists": [
+        {
+          "name": "A P Ravi Keerthi",
+          "url": "https://open.spotify.com/artist/3E2svXE3y5TBGMr8phPDUY"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Baaro Maga Baaro Maga",
+      "url": "https://open.spotify.com/track/4lhpJrTFeiLu22ukhwf9iz"
+    },
+    {
+      "album": {
         "name": "Baaro Picturegogona (From \"Padavi Poorva\")",
         "url": "https://open.spotify.com/album/1kGq7nlv71rIw7DO94dHT2"
       },
@@ -8166,6 +8188,28 @@
       "duration_ms": 215010,
       "name": "Gandhada Gudi (Reprise)",
       "url": "https://open.spotify.com/track/1OgTEk2wbqJrWOxzNIqO7e"
+    },
+    {
+      "album": {
+        "name": "Gandu Hennu Nakkagela (From \"Mandyahaida\")",
+        "url": "https://open.spotify.com/album/0p8wggFBEZEZQUM4o8Ny3F"
+      },
+      "artists": [
+        {
+          "name": "Surendranath B R",
+          "url": "https://open.spotify.com/artist/1k3zjqPDkTVZELVv2NtCDH"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181381,
+      "name": "Gandu Hennu Nakkagela (From \"Mandyahaida\")",
+      "url": "https://open.spotify.com/track/3r9YuGpklx0BxmhBnme1S0"
     },
     {
       "album": {
@@ -23409,6 +23453,32 @@
     },
     {
       "album": {
+        "name": "Silukedena Ninna Manadolage (From \"Mandyahaida\")",
+        "url": "https://open.spotify.com/album/1WECO9dSg7ALzR1RW7epv9"
+      },
+      "artists": [
+        {
+          "name": "Surendranath B R",
+          "url": "https://open.spotify.com/artist/1k3zjqPDkTVZELVv2NtCDH"
+        },
+        {
+          "name": "Angel Mary Joseph",
+          "url": "https://open.spotify.com/artist/6qpuDcEkq2EDzFyHijirTz"
+        },
+        {
+          "name": "Ravi Tapasvi",
+          "url": "https://open.spotify.com/artist/0aQVw4HYdsiElmDNrePiPs"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95699,
+      "name": "Silukedena Ninna Manadolage (From \"Mandyahaida\")",
+      "url": "https://open.spotify.com/track/4b6GkJ3nqSAIckWbRaE8QE"
+    },
+    {
+      "album": {
         "name": "Kantara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ANhkyLkujmP1HbDrMCvfM"
       },
@@ -26248,7 +26318,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 234610,
       "name": "Yakovosi Manasu ( From \"Mandyahaida\")",
       "url": "https://open.spotify.com/track/6n5j9ObE6k1fDjjhWetRjV"

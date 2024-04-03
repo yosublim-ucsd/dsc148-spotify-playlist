@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,794 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,804 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 32 | [Wetin Man Go Do](https://open.spotify.com/track/2xXRKDCqZYmbbwwIUerigW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 | 33 | [Messiah](https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Messiah](https://open.spotify.com/album/5HdrqQZiSy2VEnCvuxOiij) | 2:59 |
 | 34 | [A.P.I.D.T.A.](https://open.spotify.com/track/5wJC8qlivbwAx29bnTecSn) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 5:28 |
-| 35 | [Dancing Man](https://open.spotify.com/track/5zeREfNqh2ly52wCB6h3Ca) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Big Spang \- EP](https://open.spotify.com/album/7ccP54HOejyla6bAxCiWuc) | 3:13 |
-| 36 | [Bare Wit Me](https://open.spotify.com/track/0hi5V0ExKfjCz9zLxhVAcl) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:08 |
+| 35 | [Bare Wit Me](https://open.spotify.com/track/0hi5V0ExKfjCz9zLxhVAcl) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:08 |
+| 36 | [Dancing Man](https://open.spotify.com/track/5zeREfNqh2ly52wCB6h3Ca) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Big Spang \- EP](https://open.spotify.com/album/7ccP54HOejyla6bAxCiWuc) | 3:13 |
 | 37 | [Balaya](https://open.spotify.com/track/69D5540LOMCTuTCtV14xn9) | [A\-Star](https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT) | [Balaya](https://open.spotify.com/album/4Gv8wCJJRqf0HvRRkQWa9c) | 2:38 |
 | 38 | [The Vibes Is Right](https://open.spotify.com/track/6LWP6mzo3kJSZAQ3iUJij1) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Here I Come](https://open.spotify.com/album/4ZPHD6NhBlLyqhYcqf9OhK) | 4:16 |
 | 39 | [Trouble Sleep Yanga Wake Am](https://open.spotify.com/track/3oN1f3zptjGz1UQqPX6jsL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Roforofo Fight](https://open.spotify.com/album/4XWCXD0Dp7DmogggcLNfyP) | 12:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 49 | [California Dreaming](https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA) | [Eddie Hazel](https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ) | [AT HOME](https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy) | 3:41 |
 | 50 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
 
-Snapshot ID: `MCxiNGYzZDcxZDQyOTYxOWEzOWNkYmZiZWNmZmI1NzExMTNhOTE2Y2My`
+Snapshot ID: `MCxjZTBjM2M0MDk4NDUyODljODFkOTA1MThiMjhkNzBlNjg2OGI1MjRk`

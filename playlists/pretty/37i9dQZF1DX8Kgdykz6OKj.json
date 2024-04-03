@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1259722,
+  "num_followers": 1260099,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjEwMWU3NmU4OTA3MzU3OWJkZWIwNGVkZjU1NmVkODBlNzExZTdk",
+  "snapshot_id": "MCw4NTMwMGY3ZGUwODEzZGI4MmJhNDZiYmNjYjI0NDAzNzI3MDY1MDgx",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Buhloone Mindstate",
-        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 255008,
-      "name": "Breakadawn",
-      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 175750,
       "name": "Smoke Break-Dance (feat. JID)",
       "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Buhloone Mindstate",
+        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 255008,
+      "name": "Breakadawn",
+      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Last Nite",
         "url": "https://open.spotify.com/album/5LfD9m1peTRqw0JBdbthq5"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 221333,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1979,30 +1979,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Lost in Translation",
-        "url": "https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1"
-      },
-      "artists": [
-        {
-          "name": "JuJu Rogers",
-          "url": "https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA"
-        },
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Regis Molina",
-          "url": "https://open.spotify.com/artist/5IHvNCXmpIHeBZkSWulM3i"
-        }
-      ],
-      "duration_ms": 297990,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Fried",
         "url": "https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD"
       },
@@ -2023,6 +1999,30 @@
       "duration_ms": 228032,
       "name": "Brain",
       "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Lost in Translation",
+        "url": "https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1"
+      },
+      "artists": [
+        {
+          "name": "JuJu Rogers",
+          "url": "https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA"
+        },
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Regis Molina",
+          "url": "https://open.spotify.com/artist/5IHvNCXmpIHeBZkSWulM3i"
+        }
+      ],
+      "duration_ms": 297990,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
     }
   ],
   "unique_name": "Jazz Rap",

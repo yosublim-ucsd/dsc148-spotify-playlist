@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 92500,
+  "num_followers": 92524,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzYxNDBmMjhjOWE3ODBmZTE2ZjBmYjY2NDcxMzEwN2Q5MDRjYzJm",
+  "snapshot_id": "MCwyODkwMDRiMzg4ZWZkMGE4YTZhYzliNDI2MjU2MGI2NmE5NzYyYzZl",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "It Would Be You",
-        "url": "https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 219066,
-      "name": "It Would Be You",
-      "url": "https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Love? Songs",
         "url": "https://open.spotify.com/album/4SzzC6T3TX9kSUB0UpXDvb"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 189600,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3vbtO7zDgu9VSUO5NyFwK9"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "It Would Be You",
+        "url": "https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "It Would Be You",
+      "url": "https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Pilot of My Own Life",
         "url": "https://open.spotify.com/album/5r2eXQ7rGLwETNwERAY3Fe"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 244480,
       "name": "Holy Rain",
       "url": "https://open.spotify.com/track/1wJXXOIONG3DgkJrND4cZh"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "City of Black & White Revisited",
-        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 225837,
-      "name": "City of Black & White",
-      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -643,6 +627,38 @@
       "duration_ms": 222878,
       "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
       "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Under Fire",
+        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "City of Black & White Revisited",
+        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 225837,
+      "name": "City of Black & White",
+      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -667,22 +683,6 @@
       "duration_ms": 221680,
       "name": "When the Walls Come Crashing Down (feat. Jon Foreman & Jillian Edwards)",
       "url": "https://open.spotify.com/track/6b0X26lFzNr7FnlbPTD4Qg"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Under Fire",
-        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "One Wild Life",
-        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Hold to the Light",
         "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 183720,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "One Wild Life",
+        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Power Over Me",
-        "url": "https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 172088,
-      "name": "Power Over Me",
-      "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Good As Gone",
         "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+        "name": "Power Over Me",
+        "url": "https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi"
       },
       "artists": [
         {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
+      "duration_ms": 172088,
+      "name": "Power Over Me",
+      "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 219876,
       "name": "Bang",
       "url": "https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-71 songs - 4 hr 39 min
+72 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Unna Vida Maaten](https://open.spotify.com/track/4mral66Pqt9jQAgw1w12cX) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Unna Vida Maaten \- Single](https://open.spotify.com/album/3ew5mr1oxH3whpmQf90JeO) | 3:07 | 2021-12-01 |  |
 | [Usuraiya Tholaichaen](https://open.spotify.com/track/12D1SCxBRDjbROUa5GQkf1) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Usuraiya Tholaichaen](https://open.spotify.com/album/6wU1YErvKuSBg9qQsybwUz) | 5:39 | 2021-12-01 |  |
 | [Vaadi Pulla Vaadi](https://open.spotify.com/track/5dQR15IPbFDhTVwjfZgqR0) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Vaadi Pulla Vaadi](https://open.spotify.com/album/789KWh4Jia0vsisVdo44C3) | 4:06 | 2021-12-01 |  |
+| [Yaar Keatadhu Nenjamey](https://open.spotify.com/track/18o9NGHWZw5qMVGqzn5V4H) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [L J Vijay](https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5) | [Yaar Keatadhu Nenjamey](https://open.spotify.com/album/5EvUrRofcHZYATdJ35ZNay) | 2:23 | 2024-04-02 |  |
 | [Yaaro \- From "Think Indie"](https://open.spotify.com/track/32JtlUwj5lO1tJCj6j5glU) | [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Yaaro \(From "Think Indie"\)](https://open.spotify.com/album/0ee5p75PuogR9kErRoKCsx) | 3:15 | 2024-03-23 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

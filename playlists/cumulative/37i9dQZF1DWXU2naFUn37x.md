@@ -4,11 +4,12 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Tony Effe
 
-494 songs - 22 hr 49 min
+495 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#SI \(feat\. Tony Effe\)](https://open.spotify.com/track/0o8RvXnvLD400LkZvwj6lC) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [\#SI \(feat\. Tony Effe\)](https://open.spotify.com/album/7jMQtpxqAVNMyVHsel5OZq) | 2:21 | 2022-05-11 | 2022-05-27 |
+| [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 | 2024-04-02 |  |
 | [10 \(feat\. Sfera Ebbasta & Lazza\)](https://open.spotify.com/track/28wHZ9EhKU70CoR1wNZNF3) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:30 | 2023-06-29 | 2023-10-06 |
 | [100 Flessioni \(feat\. 167 Gang\)](https://open.spotify.com/track/4ewoOmWwYQWYrYd5pNatJe) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [100 Flessioni \(feat\. 167 Gang\)](https://open.spotify.com/album/0w5YnUsi17DgMvDtR8lPEJ) | 2:40 | 2024-03-14 |  |
 | [100 OPPS](https://open.spotify.com/track/32VGaGAXpPFYh0XgmHp7lI) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [100 OPPS](https://open.spotify.com/album/4wYRRwVSMgQY5YBwqo67w6) | 2:47 | 2023-04-27 | 2023-10-20 |
@@ -336,7 +337,7 @@
 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 | 2024-01-05 |  |
 | [Paky Freestyle 2](https://open.spotify.com/track/15G4MmllbiFIDNILzUFn0o) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Paky Freestyle 2](https://open.spotify.com/album/505SokxH7l8nPEQlvAuq5M) | 2:01 | 2023-06-29 | 2023-09-29 |
 | [PANAMERA](https://open.spotify.com/track/3DQAo0bfnXBrUu0uJ24htg) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [PANAMERA](https://open.spotify.com/album/1OTEAosHYXXUh9gEalhGiK) | 2:18 | 2024-01-18 | 2024-02-02 |
-| [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT) | 3:05 | 2023-11-09 |  |
+| [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT) | 3:05 | 2023-11-09 | 2024-04-03 |
 | [PARA](https://open.spotify.com/track/6sirNLUKtMOZWOJuQUputH) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [ERROR 442](https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU) | 2:48 | 2022-12-15 | 2023-01-06 |
 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 | 2023-06-01 | 2024-03-01 |
 | [Paranoia](https://open.spotify.com/track/4ZPmb48JaAysD1OdQEt5LL) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Paranoia](https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs) | 3:02 | 2022-05-11 | 2022-06-21 |

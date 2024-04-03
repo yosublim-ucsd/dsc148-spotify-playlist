@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-252 songs - 15 hr 2 min
+253 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 | 2022-10-13 |  |
 | [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-20 | 2022-07-27 |
 | [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 | 2022-05-11 | 2022-07-29 |
-| [Stand by you](https://open.spotify.com/track/3D7PTQ1lXl2Ni7dophG4of) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Stand By You](https://open.spotify.com/album/1fd8EG7lwkqjs3bRMwyHrx) | 4:21 | 2024-03-08 |  |
+| [Stand by you](https://open.spotify.com/track/3D7PTQ1lXl2Ni7dophG4of) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Stand By You](https://open.spotify.com/album/1fd8EG7lwkqjs3bRMwyHrx) | 4:21 | 2024-03-08 | 2024-04-03 |
 | [Stand by you](https://open.spotify.com/track/10U69KqbjO3IuQ375CoYZ8) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 4:21 | 2022-05-11 | 2022-07-28 |
 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-09 |  |
 | [Stay](https://open.spotify.com/track/4XWyhO9TJeXdmyhRdbGPfI) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/3OG247ZpvgEx93sC5Szv7d) | 2:41 | 2022-05-11 | 2022-07-25 |
@@ -254,6 +254,7 @@
 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 | 2022-07-08 |  |
 | [사랑이 피어난다](https://open.spotify.com/track/0Lp6horxxlv8hBBD41LUj8) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [사랑이 피어난다](https://open.spotify.com/album/2ejNHqQU9UieGLCByVA59Y) | 2:50 | 2022-06-13 | 2022-06-16 |
 | [선물](https://open.spotify.com/track/3SCQhlyxIji4Vc8ALcudLU) | [김대연](https://open.spotify.com/artist/4v4JtLI2eFhyunnMBtUo0y), [필](https://open.spotify.com/artist/1JXR9nuTiwl1JRMpf8wTrF) | [너의 이름을 그리워해 본다](https://open.spotify.com/album/5o4V0rixhZTpXxNCoE4AXp) | 3:54 | 2022-05-11 | 2022-06-11 |
+| [세상 그 누구보다 소중해](https://open.spotify.com/track/2DsieTcw0pEsZ28ihEAa9s) | [Lee Daneung](https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO) | [세상 그 누구보다 소중해](https://open.spotify.com/album/0Biq1f5gSJCFmbaO2ybLSA) | 2:34 | 2024-03-08 |  |
 | [소중한 사람](https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z) | [ASEL](https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy), [에이민](https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD) | [소중한 사람](https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o) | 3:15 | 2023-01-13 | 2023-02-10 |
 | [오늘의 너](https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [오늘의 웹툰 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk) | 3:09 | 2022-08-19 | 2023-01-11 |
 | [우리의 장면](https://open.spotify.com/track/4CvjZCd1zcV8JwiyjgL0Xt) | [마리슈](https://open.spotify.com/artist/3K4yL5c5UlQW5Tx2PDRvVi) | [우리의 장면](https://open.spotify.com/album/6jwiUoE3Ud6oQRb7Mpxazr) | 3:10 | 2022-06-20 | 2022-06-26 |

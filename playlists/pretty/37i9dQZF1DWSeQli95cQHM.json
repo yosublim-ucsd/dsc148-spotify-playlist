@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11293,
+  "num_followers": 11297,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTAzZGI3MzhiMTdlYjExYzZjZTZiNzZhYjc0ZmVhOGFkOGZhMTgw",
+  "snapshot_id": "MCxjZDc0MTVjMTU2NmJhZDNkNDQ5YWY3MDg4MzJkOGIyZThiZTcwYzIy",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -471,30 +471,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
-        "url": "https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ"
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
       },
       "artists": [
         {
-          "name": "XAXIM",
-          "url": "https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3"
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
         },
         {
-          "name": "Laylah Arruda",
-          "url": "https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo"
-        },
-        {
-          "name": "Dudu Marote",
-          "url": "https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5"
-        },
-        {
-          "name": "Fabi\u00e3o Soares",
-          "url": "https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf"
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
         }
       ],
-      "duration_ms": 188320,
-      "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
-      "url": "https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX"
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -519,22 +511,30 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+        "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
+        "url": "https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ"
       },
       "artists": [
         {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+          "name": "XAXIM",
+          "url": "https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3"
         },
         {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+          "name": "Laylah Arruda",
+          "url": "https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo"
+        },
+        {
+          "name": "Dudu Marote",
+          "url": "https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5"
+        },
+        {
+          "name": "Fabi\u00e3o Soares",
+          "url": "https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf"
         }
       ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+      "duration_ms": 188320,
+      "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
+      "url": "https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
-      },
-      "artists": [
-        {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Shine - Dance Version",
-      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Maytrea",
         "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 452106,
       "name": "Maytrea",
       "url": "https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Shine - Dance Version",
+      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
     }
   ],
   "unique_name": "Front BR",

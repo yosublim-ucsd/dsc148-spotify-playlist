@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Nourished by Time
 
-6,781 songs - 16 day 11 hr 58 min
+6,782 songs - 16 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4298,7 +4298,8 @@
 | [Olympia](https://open.spotify.com/track/6xsIZGWud4OdojtNN63z3Y) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Olympia](https://open.spotify.com/album/4y0eCEU0tFEqJJnJzeD9IG) | 3:40 | 2022-12-09 | 2023-02-11 |
 | [Olympia](https://open.spotify.com/track/2Xn1dMC4rLyfk3LfiO5I2D) | [Flamingods](https://open.spotify.com/artist/225FmqaVBffuHcWCN1W5tU) | [Levitation](https://open.spotify.com/album/7u1Yp7BdiU23GdXEJoj8m6) | 3:33 | 2019-05-26\* | 2019-06-15 |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-10 | 2022-07-16 |
-| [OMG](https://open.spotify.com/track/2NU2HTpGWHgO8RPX7CjxEz) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [OMG](https://open.spotify.com/album/3MrC7rsycSJmM1YjMbDyyM) | 4:10 | 2024-03-01 |  |
+| [OMG](https://open.spotify.com/track/1Ja2SMhpo6XOjnY0ZWF0Mj) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Acid Star](https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe) | 4:10 | 2024-03-01 |  |
+| [OMG](https://open.spotify.com/track/2NU2HTpGWHgO8RPX7CjxEz) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [OMG](https://open.spotify.com/album/3MrC7rsycSJmM1YjMbDyyM) | 4:10 | 2024-03-01 | 2024-04-03 |
 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 | 2024-01-12 | 2024-02-24 |
 | [on air](https://open.spotify.com/track/2x6nALrYw5RU5EZZppj4Kj) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air](https://open.spotify.com/album/3o3WxRyujYTqTpvqPOvRDm) | 4:12 | 2022-08-12 | 2022-09-24 |
 | [On and Ever Onward \(Live from Housing Works 2009\)](https://open.spotify.com/track/2u1ImCvsSyDhNBSH8nLrOj) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [On And Ever Onward \(Live From Housing Works 2009\)](https://open.spotify.com/album/2yQFVTCDcHgwPkX3AKjNSY) | 2:21 | 2023-04-21 | 2023-06-03 |

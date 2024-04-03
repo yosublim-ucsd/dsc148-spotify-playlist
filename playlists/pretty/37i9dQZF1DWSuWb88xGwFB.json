@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33703,
+  "num_followers": 33721,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzI5YTk5ZjU3NzgxODY3MzJmYzU5NjRmMWUyMzA2YzU2MjJmNzIz",
+  "snapshot_id": "MCwyYjRlZGZlNDYzYWVjNjdjNDJiNWUxNjdlY2EwMDU2YWU4Mjg3NjAy",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Blues for You",
-        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Blues For You (Hard Dub)",
-      "url": "https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Luv Dancin'",
         "url": "https://open.spotify.com/album/0ovIONj4SSFNw6L0NNz5Dp"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 501526,
       "name": "Luv Dancin' (In Deep Mix)",
       "url": "https://open.spotify.com/track/43CxehImZTDLTClNOZajCY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Blues for You",
+        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Blues For You (Hard Dub)",
+      "url": "https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Wanna Be Your Girl / Don't You Want Me (Mixes)",
-        "url": "https://open.spotify.com/album/4YCvJWj2bP2270NsPYb4B2"
-      },
-      "artists": [
-        {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5MtfmgzhHEN1aPLh6NPnYN"
-        }
-      ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
-      "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "You Don't Know (MuthaFunkaz Mixes)",
         "url": "https://open.spotify.com/album/4PqEJS2uVhkonuNw128HWO"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 483750,
       "name": "You Don't Know (MuthaFunkaz Tribute Mix)",
       "url": "https://open.spotify.com/track/2jzgWTrE0qUp7Pap6AHBRZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Wanna Be Your Girl / Don't You Want Me (Mixes)",
+        "url": "https://open.spotify.com/album/4YCvJWj2bP2270NsPYb4B2"
+      },
+      "artists": [
+        {
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5MtfmgzhHEN1aPLh6NPnYN"
+        }
+      ],
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
+      "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Jump & Sing / Work Me",
+        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing (Hard Metro Mix)",
+      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 441120,
       "name": "Curious (Vocal Mix)",
       "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Jump & Sing / Work Me",
-        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing (Hard Metro Mix)",
-      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 (Pride Vocal Mix)",
-      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Just An Organ / Getting Bigger (Mixes)",
         "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 337901,
       "name": "Just an Organ (Just An Organ Mix)",
       "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 364347,
+      "name": "Carnival '95 (Pride Vocal Mix)",
+      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
       "artists": [
         {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
         }
       ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
+      "duration_ms": 458306,
+      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

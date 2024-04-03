@@ -585,6 +585,32 @@
     },
     {
       "album": {
+        "name": "Duo Deleite",
+        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
+      },
+      "artists": [
+        {
+          "name": "Duo Deleite",
+          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
+        },
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        },
+        {
+          "name": "Enyel C",
+          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "De Vogue",
+      "url": "https://open.spotify.com/track/1vFOdcC7HQNm5qj9aqEgbh"
+    },
+    {
+      "album": {
         "name": "Dejanos Pasar",
         "url": "https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN"
       },
@@ -736,7 +762,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 216521,
       "name": "En Mis Sue\u00f1os",
       "url": "https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy"

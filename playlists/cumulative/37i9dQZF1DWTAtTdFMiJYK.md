@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Swastik The Band
 
-292 songs - 17 hr 1 min
+293 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bazaar](https://open.spotify.com/track/5oNFYKJEIhdUUg9CEsyEQS) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \- Pt.2 \| Maazi](https://open.spotify.com/album/5xJ0TthXT6WOZtkXtPltTK) | 2:10 | 2022-01-10 | 2022-04-15 |
 | [Be Alright](https://open.spotify.com/track/543Bseh8jEwo0WGXX1CnuS) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Be Alright](https://open.spotify.com/album/5bXKOBmX9KFO5mB83SSPBq) | 3:01 | 2021-12-06 | 2022-01-11 |
 | [Be Easy](https://open.spotify.com/track/385HQiCjv8SupdPX2XAX8e) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [YodaDrunk](https://open.spotify.com/artist/1n1QC4XCxAiLh3pnnwiK7I) | [Be Easy](https://open.spotify.com/album/41nTEAqZy01P9q6XTxYNlK) | 2:59 | 2021-12-06 | 2022-01-11 |
+| [Bechaini](https://open.spotify.com/track/6f18ZZhJnm1rMxaATYWQ2g) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Adarsh Gourav](https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj) | [Bechaini](https://open.spotify.com/album/3NrPok10d8tNHitQnRM4yP) | 2:42 | 2024-04-02 |  |
 | [Bekhabar](https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Bekhabar](https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV) | 2:50 | 2022-08-02 | 2023-04-11 |
 | [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 | 2022-06-10 |  |
 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 | 2023-02-03 | 2024-01-11 |
@@ -191,7 +192,7 @@
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-10 |  |
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-01-10 |  |
 | [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:19 | 2022-09-29 | 2024-03-30 |
-| [Noor](https://open.spotify.com/track/5LFYRTZ5bL1ErM2Kjvpu4W) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/3vUOmgB7uT9hSU3FESC5fX) | 3:19 | 2024-03-20 |  |
+| [Noor](https://open.spotify.com/track/5LFYRTZ5bL1ErM2Kjvpu4W) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/3vUOmgB7uT9hSU3FESC5fX) | 3:19 | 2024-03-20 | 2024-04-03 |
 | [Nowhere to Stand](https://open.spotify.com/track/1pikKqZnF7anajMEEYn4Hf) | [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Nowhere to Stand](https://open.spotify.com/album/13jDAstKcOUTGO7YTYHtXT) | 3:52 | 2021-12-06 | 2022-01-11 |
 | [Nusrat](https://open.spotify.com/track/1J8u6r4Iy1fT3xEil4p7VP) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/3tTQGJAqjSEAUjTvvNrHsx) | 4:26 | 2022-09-05 | 2023-05-19 |
 | [Nusrat](https://open.spotify.com/track/2YQNdxjJRl7AY9Xx76lkna) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/1L6vJZTwWfVV2ZEkVKy7sY) | 4:26 | 2022-08-23 | 2022-09-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,093 likes - 68 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,111 likes - 68 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 | 67 | [Ecce Sacerdos Magnus](https://open.spotify.com/track/7yDB9eFm7dsqNyC8i0hikI) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Coro Sinfonico di Milano Giuseppe Verdi](https://open.spotify.com/artist/3Ls9FqEYODRC5mIOVXgZG2), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Puccini Discoveries](https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F) | 0:25 |
 | 68 | [Capriccio Sinfonico](https://open.spotify.com/track/4UnPhOIDSVd2GprgP6EsYl) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Puccini: Orchestral Music](https://open.spotify.com/album/2k23DcyH8x7yTqbYVFwXQg) | 12:25 |
 
-Snapshot ID: `MCw5ZWQ3MWY1NDJhYjU4YWYyODlmNzhlYzZjODViMjBmYjFmNzhmN2Vj`
+Snapshot ID: `MCwzZGM5NGU3YmNmZjcxM2QzZDQ5Y2MwNjliY2I5NjMzMzc4NTNmNTJh`

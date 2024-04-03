@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 310180,
+  "num_followers": 310190,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjA0Zjk2ZWFkOGVkY2U1NTE1OTE0MjZmYWViYmZmMmQ0Yjg5MmJi",
+  "snapshot_id": "MCw4MzdhNjI5YWU1MTQxNGJlOGY0OTcyMWNhNzdjYzZhM2FjMGZkOTkz",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Apaga a Luz",
-        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 228210,
-      "name": "Apaga a Luz",
-      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 209654,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 228210,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Voc\u00ea Tem",
+        "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
+      },
+      "artists": [
+        {
+          "name": "Dreicon",
+          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 164583,
+      "name": "Voc\u00ea Tem",
+      "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Voc\u00ea Tem",
-        "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
-      },
-      "artists": [
-        {
-          "name": "Dreicon",
-          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 164583,
-      "name": "Voc\u00ea Tem",
-      "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "STR!PP3R",
-        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "STR!PP3R",
-      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "DISK",
         "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 157241,
       "name": "DISK",
       "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "STR!PP3R",
+        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "STR!PP3R",
+      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Sexflix",
         "url": "https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 175384,
       "name": "Sexflix",
       "url": "https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
     }
   ],
   "unique_name": "Rala e Rola",

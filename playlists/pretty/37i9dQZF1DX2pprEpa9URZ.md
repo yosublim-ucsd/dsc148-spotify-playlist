@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,144 likes - 75 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,281 likes - 75 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 55 | [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 |
 | 56 | [Running After Dark](https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [WannaCry](https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl) | 6:23 |
 | 57 | [Man Dies Alone \- Short Version](https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Man Dies Alone](https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ) | 4:39 |
-| 58 | [Beyond Strings](https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE) | [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Mohab Sammy](https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j) | [Beyond Strings](https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa) | 7:31 |
-| 59 | [Bosque](https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosque](https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt) | 6:33 |
+| 58 | [Bosque](https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosque](https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt) | 6:33 |
+| 59 | [Beyond Strings](https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE) | [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Mohab Sammy](https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j) | [Beyond Strings](https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa) | 7:31 |
 | 60 | [Wawanko](https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Limbo EP](https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m) | 6:41 |
 | 61 | [Sand](https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Sand](https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl) | 3:07 |
 | 62 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 |
 | 63 | [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 |
 | 64 | [Unsichtbar \- Behrooz Zandi Remix](https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3), [Behrooz Zandi](https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0) | [Unsichtbar \(Behrooz Zandi Remix\)](https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr) | 6:10 |
-| 65 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
+| 65 | [Ay vora](https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3) | [Essex](https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG) | [Ay vora](https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB) | 4:33 |
 | 66 | [Bem a Tempo \- Yemanjo Remix](https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD) | [Mose](https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Bem a Tempo \(Yemanjo Remix\)](https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2) | 5:37 |
-| 67 | [Ay vora](https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3) | [Essex](https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG) | [Ay vora](https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB) | 4:33 |
+| 67 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
 | 68 | [Eternal Road \- Edit](https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie) | [Rapossa](https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Eternal Road](https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc) | 3:05 |
-| 69 | [Beat Cari](https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B) | 5:32 |
-| 70 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 |
+| 69 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 |
+| 70 | [Beat Cari](https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B) | 5:32 |
 | 71 | [Persian Nights](https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Persian Nights](https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP) | 3:18 |
 | 72 | [Time](https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [Time & Space](https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy) | 6:21 |
-| 73 | [Mona Ki Ngi Xica \- Everything Counts Remix](https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw) | [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C), [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mona Ki Ngi Xica \(Everything Counts Remix\)](https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5) | 7:31 |
-| 74 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 |
-| 75 | [Tembo](https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 8:41 |
+| 73 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 |
+| 74 | [Mona Ki Ngi Xica \- Everything Counts Remix](https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw) | [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C), [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mona Ki Ngi Xica \(Everything Counts Remix\)](https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5) | 7:31 |
+| 75 | [Savage](https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Savage](https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny) | 7:58 |
 
-Snapshot ID: `MCxhMDFhYTkyOGM1NGZjZGNkY2EzYjZmMWNjYzAyNmRiNGFhY2ZiOGEx`
+Snapshot ID: `MCw0ZWQ3Y2JjZGI1MGYyYjYxMTc2ZDY0MzI1YWE3ODQ0ZmQzZGJkY2Zh`

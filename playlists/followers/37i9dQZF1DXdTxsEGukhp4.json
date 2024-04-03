@@ -1,7 +1,7 @@
 {
-  "2024-04-02": 28157,
+  "2024-04-03": 28195,
   "date_first_scraped": "2023-02-01",
-  "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: PSYCHIC FEVER from EXILE TRIBE",
+  "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u6771\u4eac\u3001\u541b\u304c\u3044\u306a\u3044\u8857",
   "name": "Buzz Tracker #\u30d0\u30ba\u30c8\u30e9",
   "tracks": [
     {
@@ -1022,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8"
       },
@@ -1283,6 +1301,24 @@
       "duration_ms": 470346,
       "name": "Funkytown",
       "url": "https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP"
+    },
+    {
+      "album": {
+        "name": "23-Spring",
+        "url": "https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl"
+      },
+      "artists": [
+        {
+          "name": "tokyo-kimigainaimati",
+          "url": "https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116624,
+      "name": "furimawaru",
+      "url": "https://open.spotify.com/track/6JIHUvmMEOba1Accdp4n0g"
     },
     {
       "album": {
@@ -1965,7 +2001,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 175151,
       "name": "iPhone feat. Skaai",
       "url": "https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru"
@@ -2867,10 +2903,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 160520,
       "name": "MOTTAI",
       "url": "https://open.spotify.com/track/6mHZYuJSurWBl6ne142xiz"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30db\u30ea\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc"
+      },
+      "artists": [
+        {
+          "name": "P\u4e38\u69d8\uff61",
+          "url": "https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "MOTTAI",
+      "url": "https://open.spotify.com/track/59kkHKD21U2A0zoQwkq2Kd"
     },
     {
       "album": {
@@ -3281,6 +3335,24 @@
       "duration_ms": 269192,
       "name": "Our Bright Parade",
       "url": "https://open.spotify.com/track/4fuwpHWlsoPUTFXEWhHC6l"
+    },
+    {
+      "album": {
+        "name": "Override",
+        "url": "https://open.spotify.com/album/0DxpTpSwUiOKLDelTQW0Gp"
+      },
+      "artists": [
+        {
+          "name": "Yoshida Yasei",
+          "url": "https://open.spotify.com/artist/40dkMslN1IMcKknT4eTjNE"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138533,
+      "name": "Override",
+      "url": "https://open.spotify.com/track/5ZeTXi7uJgTlZJVqljyqHY"
     },
     {
       "album": {
@@ -3926,6 +3998,42 @@
     },
     {
       "album": {
+        "name": "SWEET NONFICTION",
+        "url": "https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "SWEET NONFICTION",
+      "url": "https://open.spotify.com/track/0fXXfojTJEeJEF0p69qmo2"
+    },
+    {
+      "album": {
+        "name": "23-Spring",
+        "url": "https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl"
+      },
+      "artists": [
+        {
+          "name": "tokyo-kimigainaimati",
+          "url": "https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63374,
+      "name": "tameiki",
+      "url": "https://open.spotify.com/track/7dbXLolX8fcQrn6EkST8Tw"
+    },
+    {
+      "album": {
         "name": "Pixel",
         "url": "https://open.spotify.com/album/51Y53YMSaFCzxF6qEXkye9"
       },
@@ -3973,7 +4081,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 186438,
       "name": "Temperature (Prod. JP THE WAVY)",
       "url": "https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp"
@@ -4045,7 +4153,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 176860,
       "name": "THE HEAT",
       "url": "https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR"
@@ -4215,7 +4323,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 246200,
       "name": "twilight",
       "url": "https://open.spotify.com/track/4RointGDAgN9lumV9VY27q"
@@ -4589,7 +4697,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 181594,
       "name": "Young Boy",
       "url": "https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw"
@@ -5355,7 +5463,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 271933,
       "name": "\u30b9\u30de\u30a4\u30ea\u30fc\u3092\u63a2\u3057\u3066",
       "url": "https://open.spotify.com/track/0XgoXio6L2d5tFhIq0K0ty"
@@ -5413,6 +5521,24 @@
       "duration_ms": 174226,
       "name": "\u30bc\u30ed\u8ddd\u96e2\u604b\u611b",
       "url": "https://open.spotify.com/track/3rA3elSXqK2aMkuDajQrFn"
+    },
+    {
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226557,
+      "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
     },
     {
       "album": {
@@ -6112,6 +6238,24 @@
     },
     {
       "album": {
+        "name": "Suplex",
+        "url": "https://open.spotify.com/album/31Nbiax5bV9lVnYubVVRaB"
+      },
+      "artists": [
+        {
+          "name": "Okazaki Taiiku",
+          "url": "https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229250,
+      "name": "\u5931\u604b\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/0g0qhS0z5cL4tym1b2VrCt"
+    },
+    {
+      "album": {
         "name": "\u5973\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/6YvlAjkhEdHZnYu99KcNXe"
       },
@@ -6449,7 +6593,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 162914,
       "name": "\u793e\u4f1a\u306e\u30b4\u30df\u30ab\u30b6\u30de\u30bf\u30ab\u30d5\u30df",
       "url": "https://open.spotify.com/track/72sYT21EAMIAKRVkJ6svqV"

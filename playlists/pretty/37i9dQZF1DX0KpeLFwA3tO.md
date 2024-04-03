@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,354 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,388 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [WARZ0NE](https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WARZ0NE](https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn) | 2:38 |
 | 100 | [Hall & Oates](https://open.spotify.com/track/771CBX3SgJLH2yAmi6E8DV) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 2:23 |
 
-Snapshot ID: `MCw5YzZkODgyZjdjNWUzMmY0MDVlODE0ODIxY2Q5MzU4ZWNmNDVlMTcy`
+Snapshot ID: `MCwzNzdiOWZkZjdhNThhYmMxNjBlM2Q4YmVhMjhkMmUxYjkxYjFkMjE3`

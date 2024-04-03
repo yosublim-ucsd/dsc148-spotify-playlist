@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Akshath, Soham Mukherji
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,695 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,720 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu Hi Wajah](https://open.spotify.com/track/10FQmDMezz77rIqeedLsiw) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Soham Mukherji](https://open.spotify.com/artist/0IwBTR3mDRKVXdUonhC0X6) | [Tu Hi Wajah](https://open.spotify.com/album/07DK8yVmNKVoXBjAvcUaFv) | 2:33 |
+| 1 | [Tu Hi Wajah](https://open.spotify.com/track/10FQmDMezz77rIqeedLsiw) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Soham Mukherji](https://open.spotify.com/artist/0IwBTR3mDRKVXdUonhC0X6), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Tu Hi Wajah](https://open.spotify.com/album/07DK8yVmNKVoXBjAvcUaFv) | 2:33 |
 | 2 | [Hania](https://open.spotify.com/track/7yER8tfabF5oi4Kr2wn3q3) | [PRIYANSHU](https://open.spotify.com/artist/7eEvdqIc3p9CqKs7EbmQl9), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Hania](https://open.spotify.com/album/3GilDUB1JJwDaSewWiF5t9) | 2:11 |
 | 3 | [Paaro](https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Paaro](https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD) | 2:33 |
 | 4 | [Just Like A Movie](https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just Like A Movie](https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Parwaaz](https://open.spotify.com/track/30yLu7ZxVdCC78PeljUek0) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Parwaaz](https://open.spotify.com/album/3Hs3LgTNTl5zZyvbhsdPSm) | 3:30 |
 | 75 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 |
 
-Snapshot ID: `MCw3ZDVlMWY4NzhhYjgzZTVmMjY5NDZkNDU4Njc5OTIwMWMwZDg0NjI2`
+Snapshot ID: `MCxmMTI1OTcxMzNlZjdhOWJlYjU5ZTI2M2IzMjM0OTdkNDUwMmZkYTc1`

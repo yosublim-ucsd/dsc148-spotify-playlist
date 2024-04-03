@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,069 likes - 92 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,093 likes - 92 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 91 | [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 |
 | 92 | [Tripasia](https://open.spotify.com/track/4NqaNXn9bw7PmXjOFW8vmp) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/0WzBEyEM7oj5GqehqqwHlg) | 2:56 |
 
-Snapshot ID: `MCw0MmQyZmRmOTUxNzBhODBhZmFjOTVmM2ViZTAxMTRhMzlmN2I0MmZl`
+Snapshot ID: `MCw2ZWQyZWQyYjhlMmY2MGE5N2MyMTdlZjQ4MjE0Yjk3YjNkMDQwZWE5`

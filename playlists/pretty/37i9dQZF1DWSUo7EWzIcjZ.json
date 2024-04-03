@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWY5YjMwYWM1NTljOWM4N2FiZjVlMjI1M2M3NzcxMGZmMWU5YTk3",
+  "snapshot_id": "MCwzYTZlZGQwMjg2MTBiZWM2YTFjMGVjMGNmMTM1ZGFlOGZjZThjNDI4",
   "tracks": [
     {
       "added_at": "2024-03-28 01:35:59",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 392746,
-      "name": "Yo Me Muero Por Ti",
-      "url": "https://open.spotify.com/track/1soZPkNYncKsVnSk18OGTP"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 275186,
       "name": "Patac\u00f3n Pisao",
       "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 392746,
+      "name": "Yo Me Muero Por Ti",
+      "url": "https://open.spotify.com/track/1soZPkNYncKsVnSk18OGTP"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Siempre Yo",
-        "url": "https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG"
-      },
-      "artists": [
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
-        }
-      ],
-      "duration_ms": 192932,
-      "name": "Siervo de Amor",
-      "url": "https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Sergio Vargas y Los Hijos del Rey",
         "url": "https://open.spotify.com/album/6lHfWJOhMIa8SBUqnNLgsv"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 282697,
       "name": "Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/7Er4UIZLdbJNX6hUP7dLFl"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Siempre Yo",
+        "url": "https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG"
+      },
+      "artists": [
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+        }
+      ],
+      "duration_ms": 192932,
+      "name": "Siervo de Amor",
+      "url": "https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Collection 1",
-        "url": "https://open.spotify.com/album/6LcvnnbGiWnMZRTWjqbEuC"
-      },
-      "artists": [
-        {
-          "name": "Miriam Cruz",
-          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Es Cosa de El",
-      "url": "https://open.spotify.com/track/73PUt5bQto0cfqI0ISxxTQ"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Rey De Corazones",
         "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 288280,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Collection 1",
+        "url": "https://open.spotify.com/album/6LcvnnbGiWnMZRTWjqbEuC"
+      },
+      "artists": [
+        {
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Es Cosa de El",
+      "url": "https://open.spotify.com/track/73PUt5bQto0cfqI0ISxxTQ"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Besos Callejeros",
-      "url": "https://open.spotify.com/track/5QwFJzpcejFaSyHjKwN7qx"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Buscando Tus Besos",
         "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 256092,
       "name": "Dame Veneno",
       "url": "https://open.spotify.com/track/7a4f6P95wEvMyHmksWgpDU"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Besos Callejeros",
+      "url": "https://open.spotify.com/track/5QwFJzpcejFaSyHjKwN7qx"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
-      },
-      "artists": [
-        {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
-        }
-      ],
-      "duration_ms": 287623,
-      "name": "Mi Novia, Mi Amante y Mujer",
-      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Caciquiando",
         "url": "https://open.spotify.com/album/7cyn7fvmfnDPxIcxHbY320"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 229000,
       "name": "Te He Prometido - Original",
       "url": "https://open.spotify.com/track/65VoPaWq9lJiArZUkNqWgm"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
+      },
+      "artists": [
+        {
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+        }
+      ],
+      "duration_ms": 287623,
+      "name": "Mi Novia, Mi Amante y Mujer",
+      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Te Seguire Queriendo",
-      "url": "https://open.spotify.com/track/4GfiJSv9MHToznRilFWYeh"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "El Duro",
         "url": "https://open.spotify.com/album/3vSjCbYqpdImv7l7EP8hgj"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 235360,
       "name": "No Me Importa, No",
       "url": "https://open.spotify.com/track/5Ea8d3nnfWqDGrFvtvS6ts"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Te Seguire Queriendo",
+      "url": "https://open.spotify.com/track/4GfiJSv9MHToznRilFWYeh"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Aramis Camilo & La Organizaci\u00f3n Secreta",
-        "url": "https://open.spotify.com/album/0xZlcrFMCww15GMo37oqy1"
+        "name": "Merengues Clasicos",
+        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
       },
       "artists": [
         {
-          "name": "Aramis Camilo & La Organizaci\u00f3n Secreta",
-          "url": "https://open.spotify.com/artist/4Ed7K2NmLiEgNPiCOn2ROj"
+          "name": "Nando Galan",
+          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
         }
       ],
-      "duration_ms": 224720,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/7CP7A91oDk4PDZ6G1bGBY1"
+      "duration_ms": 267200,
+      "name": "Faltaste A La Cita",
+      "url": "https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Merengues Clasicos",
-        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
+        "name": "Aramis Camilo & La Organizaci\u00f3n Secreta",
+        "url": "https://open.spotify.com/album/0xZlcrFMCww15GMo37oqy1"
       },
       "artists": [
         {
-          "name": "Nando Galan",
-          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
+          "name": "Aramis Camilo & La Organizaci\u00f3n Secreta",
+          "url": "https://open.spotify.com/artist/4Ed7K2NmLiEgNPiCOn2ROj"
         }
       ],
-      "duration_ms": 267200,
-      "name": "Faltaste A La Cita",
-      "url": "https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg"
+      "duration_ms": 224720,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/7CP7A91oDk4PDZ6G1bGBY1"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Exitos De Los Cantantes De Ramon Orlando",
         "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 246253,
       "name": "Curame",
       "url": "https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Caricias",
-        "url": "https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig"
+        "name": "Los Toros Band... \"Pa' La Calle\"",
+        "url": "https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO"
       },
       "artists": [
         {
-          "name": "Angelito Villalona",
-          "url": "https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 214254,
-      "name": "Un Sobrinito de Champagne",
-      "url": "https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN"
+      "duration_ms": 234600,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Los Toros Band... \"Pa' La Calle\"",
-        "url": "https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO"
+        "name": "Caricias",
+        "url": "https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Angelito Villalona",
+          "url": "https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul"
         }
       ],
-      "duration_ms": 234600,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"
+      "duration_ms": 214254,
+      "name": "Un Sobrinito de Champagne",
+      "url": "https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Raices",
+        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "El Negrito Del Batey",
+      "url": "https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
         "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
       },
@@ -2319,22 +2335,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Con Mucho Swing",
-        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 313808,
-      "name": "Cobarde Cobarde",
-      "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Con el Alma",
         "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Raices",
-        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
+        "name": "Con Mucho Swing",
+        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
         }
       ],
-      "duration_ms": 198826,
-      "name": "El Negrito Del Batey",
-      "url": "https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T"
+      "duration_ms": 313808,
+      "name": "Cobarde Cobarde",
+      "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
     },
     {
       "added_at": "2024-03-28 01:35:59",

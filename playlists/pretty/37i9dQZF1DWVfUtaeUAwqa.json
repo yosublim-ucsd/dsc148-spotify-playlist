@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7799,
+  "num_followers": 7803,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjA4MWQ4ZjE5MjNiNTM0ODg5NTI5M2IwZDY0ZDkwMGU4NTVjZjY0",
+  "snapshot_id": "MCw4NDhjMTNjYzE0YTQzYmU1NjdkMjVkNTdiMzI5YTk1NTExZDI2MTg2",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -91,8 +91,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Runnin' Wild",
-        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
+        "name": "The Best Of Sidney Bechet",
+        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
+      "duration_ms": 188640,
+      "name": "I Found A New Baby",
+      "url": "https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -171,8 +171,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Best Of Sidney Bechet",
-        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
         }
       ],
-      "duration_ms": 188640,
-      "name": "I Found A New Baby",
-      "url": "https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J"
+      "duration_ms": 178960,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -851,18 +851,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "All Time Jazz: New Orleans Rhythm Kings",
-        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
+        "name": "Roaring' 20's",
+        "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
       },
       "artists": [
         {
-          "name": "New Orleans Rhythm Kings",
-          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
+          "name": "Billy Randolph",
+          "url": "https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF"
+        },
+        {
+          "name": "The High Hatters",
+          "url": "https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u"
         }
       ],
-      "duration_ms": 142026,
-      "name": "Bugle Call Blues",
-      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
+      "duration_ms": 182360,
+      "name": "Dixie",
+      "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -883,22 +887,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Roaring' 20's",
-        "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
+        "name": "All Time Jazz: New Orleans Rhythm Kings",
+        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
       },
       "artists": [
         {
-          "name": "Billy Randolph",
-          "url": "https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF"
-        },
-        {
-          "name": "The High Hatters",
-          "url": "https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u"
+          "name": "New Orleans Rhythm Kings",
+          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Dixie",
-      "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
+      "duration_ms": 142026,
+      "name": "Bugle Call Blues",
+      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
     },
     {
       "added_at": "2020-08-19 17:19:14",

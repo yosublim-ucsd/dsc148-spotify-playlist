@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 
 > The best Amapiano songs of 2023\. Cover: <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=ZteE48ukTIGkjBIWjNVHMQ">Uncle Waffles</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,527 likes - 60 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,590 likes - 60 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 | 59 | [Sengizwile \(feat\. Aymos & Young Stunna\)](https://open.spotify.com/track/3PdO57q0KLWkfWXsXQJlV6) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Auti 'eSharp](https://open.spotify.com/album/6J12Gv5rBMymYJlCM4hXPu) | 7:00 |
 | 60 | [Bayazi \(feat\. Mellow & Sleazy, Nobantu Vilakazi, Cowboii\)](https://open.spotify.com/track/3mxQry8oUO3gvdz9sGkbud) | [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Vyno Keys](https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q) | [Bayazi \(feat\. Mellow & Sleazy, Nobantu Vilakazi, Cowboii\)](https://open.spotify.com/album/1e5djIrZtTfyunMxUvGAR1) | 6:20 |
 
-Snapshot ID: `MCxlZTdhMjEwMjIyODUwNzNlMjc5ODE2MDMyMTgzMDJjYTFkNjg0ZWIy`
+Snapshot ID: `MCxmYmEwMzViY2JkOWYzMDk0OGE1OGI2MDA2NTY2YWUxMTM5NGI0YTQ1`

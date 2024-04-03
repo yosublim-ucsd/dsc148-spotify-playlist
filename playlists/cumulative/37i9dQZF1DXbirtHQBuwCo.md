@@ -4,12 +4,12 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: Seori\)
 
-673 songs - 1 day 12 hr 6 min
+674 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\- x \- = + \(feat\. CHOILB\)](https://open.spotify.com/track/4LX2qcAZ2fYIYIBovSSM9U) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [\- x \- = +](https://open.spotify.com/album/29UkENf2I78Np78nSQoKY7) | 3:01 | 2023-07-24 | 2023-08-05 |
-| [007 \(feat\. Syd\)](https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [007](https://open.spotify.com/album/0CrHjS2Xr8BJSspw27AzSB) | 3:25 | 2022-09-21 |  |
+| [007 \(feat\. Syd\)](https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [007](https://open.spotify.com/album/0CrHjS2Xr8BJSspw27AzSB) | 3:25 | 2022-09-21 | 2024-04-03 |
 | [1 Shot](https://open.spotify.com/track/7I8fc2jrGKXtlWFYrV9ZIq) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 2:24 | 2022-08-12 | 2022-09-19 |
 | [1, 2, 3 \(Feat\. BIG Naughty\)](https://open.spotify.com/track/2hIHcImzcUtUjc947xqCZK) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [1, 2, 3](https://open.spotify.com/album/6wFkV8mhP1oLUKNOTck5Cz) | 2:59 | 2022-08-12 | 2022-09-04 |
 | [101](https://open.spotify.com/track/6DqaDchUydHe8upf4F59os) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Playlist 2](https://open.spotify.com/album/5hNnV6eRN7XatL7GgPRTHw) | 2:40 | 2023-01-10 | 2023-01-19 |
@@ -292,6 +292,7 @@
 | [hypocrite](https://open.spotify.com/track/7a7LtMf2TqwQ3GZ38XXZBF) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 2:43 | 2022-07-25 | 2022-08-03 |
 | [I AM SHAMPOO](https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [I AM SHAMPOO](https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe) | 2:21 | 2023-04-07 | 2023-09-12 |
 | [I can't make you love me](https://open.spotify.com/track/1QcQ79sEzmEbUG1oR8iNM6) | [KINDA BLUE](https://open.spotify.com/artist/264XvBSD6pFn1eDvWSWMI8), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I can't make you love me](https://open.spotify.com/album/5IXPrB8V5bV6tl9Eh09jxa) | 2:38 | 2022-04-19 | 2022-07-29 |
+| [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 | 2024-04-02 |  |
 | [i got you](https://open.spotify.com/track/20gAOYKYQ7aFRVRg6LvrLW) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [i got you](https://open.spotify.com/album/6yhXV3FtUQ8kDhBwhDuTKZ) | 2:12 | 2022-04-19 | 2022-10-01 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-05 |  |
 | [I hope you like it](https://open.spotify.com/track/6QofUdC2H2t5V6DDIXpYM6) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [I hope you like it](https://open.spotify.com/album/14asPqEXDUtKBLAwAi3smY) | 2:59 | 2022-05-09 | 2022-05-12 |

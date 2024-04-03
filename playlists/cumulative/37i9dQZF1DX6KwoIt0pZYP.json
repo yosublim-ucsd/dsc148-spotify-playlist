@@ -7932,7 +7932,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 184996,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/5Ebew5zVj06DNez06ACadp"
@@ -13904,6 +13904,24 @@
       "duration_ms": 180604,
       "name": "The Outsider",
       "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+    },
+    {
+      "album": {
+        "name": "the space between us",
+        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
+      },
+      "artists": [
+        {
+          "name": "siopaolo",
+          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253325,
+      "name": "the space between us",
+      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
     },
     {
       "album": {

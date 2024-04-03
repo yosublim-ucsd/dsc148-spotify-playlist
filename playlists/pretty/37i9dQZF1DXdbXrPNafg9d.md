@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,414 likes - 175 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,524 likes - 175 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,6 +182,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 172 | [house of pies](https://open.spotify.com/track/2EuZlUm8pLs1OuYHFOEZ6x) | [Ari Rivera](https://open.spotify.com/artist/4Vnn6VxzWl4xuVIpkxKRK7), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [house of pies](https://open.spotify.com/album/3MuybWcaIhMvSR50djvzRA) | 2:30 |
 | 173 | [Looking At People](https://open.spotify.com/track/6eH80huR96DL1awXtHKqf6) | [Julien Chang](https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS) | [Home For The Moment](https://open.spotify.com/album/6pUVU5RbGyFOJYPmUNKCOD) | 3:54 |
 | 174 | [Alone At Last](https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [47](https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t) | 2:57 |
-| 175 | [OMG](https://open.spotify.com/track/2NU2HTpGWHgO8RPX7CjxEz) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [OMG](https://open.spotify.com/album/3MrC7rsycSJmM1YjMbDyyM) | 4:10 |
+| 175 | [OMG](https://open.spotify.com/track/1Ja2SMhpo6XOjnY0ZWF0Mj) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Acid Star](https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe) | 4:10 |
 
-Snapshot ID: `MCwwYzMwM2I3Mjk4MjliOWNiOTczNmVmYTk1YjE2ZTI0ZDE5MjM1MDc4`
+Snapshot ID: `MCwyNjJkMTI0N2U1NDcwYTIwNTRjYzEyNGU0ZmMwNWE0NzllZjgwMTEz`

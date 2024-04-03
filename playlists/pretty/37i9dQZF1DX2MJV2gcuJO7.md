@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain]
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,767 likes - 92 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,781 likes - 92 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain]
 | 91 | [家族](https://open.spotify.com/track/0WDI60wWIN2lY8eARtE1J7) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\-　NARUTO NEXT GENERATIONS　オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 2:16 |
 | 92 | [子の成長](https://open.spotify.com/track/6vTCpVZejtWHyDvUjTUef1) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\-　NARUTO NEXT GENERATIONS　オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 2:00 |
 
-Snapshot ID: `MCw0NGNhNzhmYzVkNjlhOTdhOWI1MjA2ODk2Y2I4M2YzNjMzOWY1NzI2`
+Snapshot ID: `MCwwN2Q3NjQxMDUxNDI0YjA3ZDIxMmI2MDBmYWJkOWZjMGJlNjcxNGFh`

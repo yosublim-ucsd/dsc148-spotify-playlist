@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CJraOvYJrnOIkpe86YJDR.md) - [plain]
 
 > 
 
-[hooknoa000](https://open.spotify.com/user/hooknoa000) - 1 like - 17 songs - 1 hr 10 min
+[hooknoa000](https://open.spotify.com/user/hooknoa000) - ??? likes - 17 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

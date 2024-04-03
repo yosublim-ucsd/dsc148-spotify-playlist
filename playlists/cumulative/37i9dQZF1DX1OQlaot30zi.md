@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Rondodasosa, Rhove, Mostro e tanti altri!
 
-3,323 songs - 6 day 6 hr 13 min
+3,324 songs - 6 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [+Freddo](https://open.spotify.com/track/1WRAGwxtrW7oqRM6n8xIS2) | [Ombrv](https://open.spotify.com/artist/3k0UmxDhNM3pdvDlQjhg82) | [+Freddo](https://open.spotify.com/album/0zW7laPPT6VM49UZEFkAPK) | 2:16 | 2023-11-17 | 2023-12-08 |
 | [\- SBATTI + RICCHI](https://open.spotify.com/track/5zOCqgRrJIXjq2SmKuiKrn) | [Parre](https://open.spotify.com/artist/44kP1DievMJFsHZ70fiPfd), [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX) | [\- SBATTI + RICCHI](https://open.spotify.com/album/5WZkJsnRwq0Swh5ryibuRf) | 2:16 | 2023-09-28 | 2023-10-17 |
 | [//nightclubb](https://open.spotify.com/track/38P4dl9VpmPNrxeDk2bhZB) | [sick.kidd](https://open.spotify.com/artist/5fLXwEG6bqfjaGEI4vzTEi), [AleXX iSt4R](https://open.spotify.com/artist/60wyuNaDX2w5A6ClibUTc8), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [//nightclubb](https://open.spotify.com/album/0lROCuhpcqjsxDwblEd6bi) | 2:45 | 2022-10-27 | 2022-11-04 |
+| [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 | 2024-04-02 |  |
 | [00 Fondazione](https://open.spotify.com/track/1R0iLYEouUIEaOi4hAZK2h) | [letteredistrada](https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG) | [00 Fondazione](https://open.spotify.com/album/2JX980aTTIkSj0sKad3Kxy) | 2:06 | 2023-05-11 | 2023-05-19 |
 | [049](https://open.spotify.com/track/2ctb12A2f1xM2mMaO29naD) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [049](https://open.spotify.com/album/3L3WQ16h0XZx4OW0DCvEl0) | 3:06 | 2023-03-09 | 2023-03-31 |
 | [07:34](https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [07:34](https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f) | 3:11 | 2024-03-14 |  |
@@ -1486,7 +1487,7 @@
 | [Jump \(feat\. Lazza\)](https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 | 2022-05-26 | 2022-06-21 |
 | [JUMPIN'](https://open.spotify.com/track/4TWDmtrmkcCMxL4e8CGCoV) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [JUMPIN'](https://open.spotify.com/album/3yfmPXs58bqVE1dL90uxWe) | 2:21 | 2022-12-09 | 2022-12-16 |
 | [Jungle](https://open.spotify.com/track/01qsqYySdVsMaKmKKrW4YQ) | [Daddy Lucio](https://open.spotify.com/artist/7C25SeRiuWykdpAGGIMfA8), [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR) | [Jungle](https://open.spotify.com/album/7f5gi2Hl09UWEmyOpt5re7) | 2:42 | 2023-03-30 | 2023-04-21 |
-| [Junkie Spiderman](https://open.spotify.com/track/6hrDcZBqxKnhOJYXvdt7r1) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [Junkie Spiderman](https://open.spotify.com/album/1WUVJHUNdqIDnehNiETJIl) | 2:59 | 2024-03-13 |  |
+| [Junkie Spiderman](https://open.spotify.com/track/6hrDcZBqxKnhOJYXvdt7r1) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [Junkie Spiderman](https://open.spotify.com/album/1WUVJHUNdqIDnehNiETJIl) | 2:59 | 2024-03-13 | 2024-04-03 |
 | [JUSTIN](https://open.spotify.com/track/2Qee0OsoeisUYWw5caHJzk) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [JUSTIN](https://open.spotify.com/album/5luOJfeQ5CwCJVNAzPntvh) | 2:03 | 2023-07-13 | 2023-07-28 |
 | [K\-WAY](https://open.spotify.com/track/2yqvUQFqT3UKMASCpIEBpY) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [K\-WAY](https://open.spotify.com/album/2imCsVV0kzsyDKkmVwnVpE) | 2:46 | 2023-04-13 | 2023-04-28 |
 | [K.O\. \(feat\. Coez & Marracash\)](https://open.spotify.com/track/7sYJw5AwPw30ZyLdvuEtg0) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:10 | 2022-05-12 | 2022-06-10 |

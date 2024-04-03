@@ -1,12 +1,12 @@
 {
   "description": "New music from popular Hindi artists. Cover- Dhvani Bhanushali",
-  "num_followers": 52504,
+  "num_followers": 52611,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjYzM2ZjYTA1ZDhkNWY1ZDBjODJkZmNjYzU5ZTJiM2JlNTk3ODEx",
+  "snapshot_id": "MCw2NGQ5MzY4NzhlZDliNjMwZTU2NjIyNTZmOGMyOGRjY2VjNGE2MDc2",
   "tracks": [
     {
       "added_at": "2024-03-29 05:02:00",
@@ -170,6 +170,10 @@
         {
           "name": "Soham Mukherji",
           "url": "https://open.spotify.com/artist/0IwBTR3mDRKVXdUonhC0X6"
+        },
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
         }
       ],
       "duration_ms": 153230,

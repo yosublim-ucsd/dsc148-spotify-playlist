@@ -1100,10 +1100,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 177636,
       "name": "D.I.A.D.",
       "url": "https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4"
+    },
+    {
+      "album": {
+        "name": "The Need to Separate",
+        "url": "https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD"
+      },
+      "artists": [
+        {
+          "name": "Shell",
+          "url": "https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177636,
+      "name": "D.I.A.D.",
+      "url": "https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL"
     },
     {
       "album": {

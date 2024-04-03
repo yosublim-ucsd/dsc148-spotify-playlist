@@ -4,11 +4,11 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-91 songs - 5 hr 14 min
+92 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2023-02-08 |  |
+| [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2023-02-08 | 2024-04-03 |
 | [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-05 | 2024-03-26 |
 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 | 2023-02-24 |  |
 | [Alone with You](https://open.spotify.com/track/3mq0dLTh4wC8goZY3s6oLQ) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/44OzoIkxMtGrmnP978PTZY) | 2:47 | 2023-02-08 | 2024-04-02 |
@@ -40,6 +40,7 @@
 | [Go Back 집에](https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:47 | 2023-02-08 |  |
 | [GOOD BYE SONG](https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [fourfive](https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:10 | 2023-02-14 | 2024-03-09 |
 | [GOOD DAY](https://open.spotify.com/track/22TruoFI39QbtdjeLMyCZE) | [Osole](https://open.spotify.com/artist/2MvwNqaFxSXxeyLKOrINRR) | [GOOD DAY](https://open.spotify.com/album/3rGn47PdNXu28HVHcGbWOG) | 3:00 | 2023-05-02 | 2024-03-09 |
+| [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-04-02 |  |
 | [I Fxxking Love You](https://open.spotify.com/track/0amQL57HiAFWSO6Yz64tD1) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:03 | 2023-02-08 |  |
 | [I really hope I arrive there safe](https://open.spotify.com/track/1ukIW0JX8N4kcoAukgTY3E) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [I really hope I arrive there safe](https://open.spotify.com/album/1cKRNSzDDoayMXWoIZNtNm) | 4:52 | 2023-05-02 | 2024-03-09 |
 | [In My Dreams](https://open.spotify.com/track/4ubg38wkWizzLsQwLuE6rM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:24 | 2023-02-08 |  |

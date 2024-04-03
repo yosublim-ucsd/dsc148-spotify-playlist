@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,769 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,778 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 23 | [PANTIES Y BRASIERES](https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 |
 | 24 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 |
 | 25 | [Putero](https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:39 |
-| 26 | [Cuando Te Toca](https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:56 |
-| 27 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
+| 26 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
+| 27 | [Cuando Te Toca](https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:56 |
 | 28 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 |
 | 29 | [Trending](https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Trending](https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ) | 2:38 |
 | 30 | [Tiempos de Plan B](https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Tiempos de Plan B](https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb) | 2:41 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 52 | [CANDY "4:00 PG"](https://open.spotify.com/track/0Ot8SkmztkeOosIW96GtWC) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [EL FAVORITO DE LAS NENAS](https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S) | 2:30 |
 | 53 | [Más de Ti](https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Más de Ti](https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv) | 4:26 |
 | 54 | [SOS](https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [SOS](https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH) | 3:02 |
-| 55 | [Gimnasta](https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Gimnasta](https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp) | 2:55 |
-| 56 | [Miko](https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Miko](https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo) | 2:15 |
-| 57 | [Hedonismo](https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 3:10 |
+| 55 | [Miko](https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Miko](https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo) | 2:15 |
+| 56 | [Hedonismo](https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 3:10 |
+| 57 | [Gimnasta](https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Gimnasta](https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp) | 2:55 |
 | 58 | [Solución](https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Solución](https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd) | 3:39 |
 | 59 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 |
 | 60 | [5 Estrellas](https://open.spotify.com/track/3lN1fgtcVeToWt1H6AEVAM) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [5 Estrellas](https://open.spotify.com/album/3hPNd8YlE88jGyQ1jIdNrM) | 4:09 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 77 | [3 y Pico](https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [3 y Pico](https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp) | 3:10 |
 | 78 | [IDGAF](https://open.spotify.com/track/076GBcif3AM1IHfBJs545o) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [IDGAF](https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA) | 2:14 |
 | 79 | [MARTINI](https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MARTINI](https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5) | 3:05 |
-| 80 | [Soy Lebron](https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Soy Lebron](https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi) | 2:29 |
-| 81 | [TAYYA](https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [TAYYA](https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv) | 2:40 |
+| 80 | [TAYYA](https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [TAYYA](https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv) | 2:40 |
+| 81 | [Soy Lebron](https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Soy Lebron](https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi) | 2:29 |
 | 82 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
 | 83 | [Billete](https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib) | [Chen](https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu) | [Billete](https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ) | 2:43 |
 | 84 | [Amiga](https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 97 | [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 |
 | 98 | [Gozo](https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo](https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw) | 3:23 |
 | 99 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
-| 100 | [En Mis Sueños](https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:36 |
+| 100 | [De Vogue](https://open.spotify.com/track/1vFOdcC7HQNm5qj9aqEgbh) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 2:50 |
 
-Snapshot ID: `MCw1MGNiZjIyMjcyMmQzMzBmNGIzMmEzNzA0ZTNmZmQyZDE0MDkxNTRi`
+Snapshot ID: `MCw5OTY0N2FjYTMzZjgzMmU0NjA0YzFiMjg4YmM1MTg2MjM3NmNjYjIy`

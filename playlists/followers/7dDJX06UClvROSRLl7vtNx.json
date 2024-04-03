@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 56582,
+  "2024-04-03": 56623,
   "date_first_scraped": "2023-12-07",
   "description": "Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
   "name": "Beach Lounge 2024 \ud83c\udf34 IBIZA Summer Chillout",
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 183442,
       "name": "Every Minute",
       "url": "https://open.spotify.com/track/5jj1uG2x72AYUzERFamx6U"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 189613,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/76STLPfFzQgvGnLtIlEoLP"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 137478,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/5Yo5PpwKlekpbOd8JucLAP"
@@ -2629,7 +2629,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 155593,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/2mmzQ424jrtTQ3uF8qeogS"
@@ -4248,6 +4248,24 @@
     },
     {
       "album": {
+        "name": "Plaka Dreams",
+        "url": "https://open.spotify.com/album/1fxB9q8elhWLamzKKeXgMZ"
+      },
+      "artists": [
+        {
+          "name": "Harper Quinn",
+          "url": "https://open.spotify.com/artist/2lVKwJVZ4tda1UcfXqIpQN"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Plaka Dreams",
+      "url": "https://open.spotify.com/track/5FbIWRcJX03jwNnDPCZaZi"
+    },
+    {
+      "album": {
         "name": "Pleasure & Pain",
         "url": "https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8"
       },
@@ -5241,7 +5259,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 188869,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6nJFd7o25QSjV14rIFIMND"
@@ -5429,6 +5447,32 @@
       "duration_ms": 159666,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/062qW7RpxcMfsYNLdyXqn6"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/600ZsVXoEf02ybAbfKgMC8"
+      },
+      "artists": [
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Diviners",
+          "url": "https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA"
+        },
+        {
+          "name": "David Emde",
+          "url": "https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157413,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5f0ZV2eHblXCPAaadia3qc"
     },
     {
       "album": {
@@ -5994,6 +6038,28 @@
     },
     {
       "album": {
+        "name": "Wherever You Wanna Go",
+        "url": "https://open.spotify.com/album/3mV6hObQGWB336hBytVH15"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Fijy",
+          "url": "https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Wherever You Wanna Go",
+      "url": "https://open.spotify.com/track/01cmpOXrfuFTsofmQtNZM7"
+    },
+    {
+      "album": {
         "name": "White Flag",
         "url": "https://open.spotify.com/album/4zxa9Gu0z5rIIfbsGb3wfs"
       },
@@ -6079,7 +6145,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 174665,
       "name": "With You",
       "url": "https://open.spotify.com/track/3GgHToWEiAi0fkfi5RqSXD"

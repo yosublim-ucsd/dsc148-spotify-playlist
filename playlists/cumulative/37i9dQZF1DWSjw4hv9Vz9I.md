@@ -4,7 +4,7 @@
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-131 songs - 7 hr 51 min
+132 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Live Learn](https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home, Vol\. 1](https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0) | 4:35 | 2022-12-13 |  |
 | [LivWithoutU](https://open.spotify.com/track/702LH54iFxKCFPVsBNZdvA) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 5:28 | 2022-12-13 | 2024-02-25 |
 | [Long Goodbye](https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 4:23 | 2023-12-13 |  |
-| [Long Way Home](https://open.spotify.com/track/1m6FCJ4TWoqCz2ubKdep0Z) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:21 | 2023-07-11 |  |
+| [Long Way Home](https://open.spotify.com/track/1m6FCJ4TWoqCz2ubKdep0Z) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:21 | 2023-07-11 | 2024-04-03 |
 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 | 2021-07-13 |  |
 | [Lover Boy](https://open.spotify.com/track/0jUr0WvsfRuBO1FruKIo9O) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [La Voz De Oro](https://open.spotify.com/album/1mJlf5Y2RMw7B67MAz4Crw) | 2:55 | 2023-12-13 | 2024-02-24 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2021-07-13 |  |
@@ -103,6 +103,7 @@
 | [Side by Side](https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje) | [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Side by Side](https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF) | 5:34 | 2021-07-13 | 2024-02-01 |
 | [Sleeping Without You Is a Dragg \(feat\. Justin Vernon, Jenny Lewis\)](https://open.spotify.com/track/6wMH6KMlV8PW1iwdxdJ4Hv) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 4:01 | 2021-07-13 |  |
 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 | 2021-07-13 |  |
+| [Smile](https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 3:49 | 2021-07-13 |  |
 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 | 2021-07-13 | 2024-02-18 |
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2021-07-13 |  |
 | [So Long](https://open.spotify.com/track/3wdWnJbBPFExinktlqD4d7) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y) | 2:23 | 2022-12-13 |  |

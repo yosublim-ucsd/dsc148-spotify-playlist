@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 51991,
+  "num_followers": 52029,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWE1OWJmNDA0OTcyNmViMWI1MDM1MWI1ZWU2OGVmZTU3ZjgyMGQ5",
+  "snapshot_id": "MCw3ZjFkZWJhMDM5YWIyZWM3MmI2OTNlOWViMTE2MjhkYzM4NmRhYzkz",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
+        "name": "My Life: The Greatest Hits",
+        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Manuela - Spanish",
+      "url": "https://open.spotify.com/track/2IPv4vBcEN7IPveNv4imeq"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
         "name": "Live At The Cheetah, Vol. 1",
         "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 435640,
       "name": "Anacaona - Live",
       "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "My Life: The Greatest Hits",
-        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Manuela - Spanish",
-      "url": "https://open.spotify.com/track/2IPv4vBcEN7IPveNv4imeq"
     },
     {
       "added_at": "2023-02-17 20:59:31",

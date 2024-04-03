@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Lorde
 
-2,092 songs - 5 day 5 hr 57 min
+2,093 songs - 5 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1506,7 +1506,8 @@
 | [Ride or Die](https://open.spotify.com/track/6Fh7ejE897jqXLVX6wb0jH) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Ride or Die](https://open.spotify.com/album/0A2ey7eMOz0e6RtTrDiMdj) | 3:44 | 2019-05-26\* | 2019-08-13 |
 | [Ride With You](https://open.spotify.com/track/3WGGCYHebfKS0EaUcuqGOW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Ride With You](https://open.spotify.com/album/6Hbq4l5PkyQwLVzLCOhBci) | 4:14 | 2023-09-15 | 2023-10-19 |
 | [Ride With You \- Mindchatter Remix](https://open.spotify.com/track/2lQRpiMcCLjniQbhfEjViY) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH), [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Ride With You \(Mindchatter Remix\)](https://open.spotify.com/album/1u0ykcrGcK2UW8imVJaqwo) | 4:13 | 2024-01-24 | 2024-03-22 |
-| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-09 |  |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-09 | 2024-04-03 |
+| [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-01-09 |  |
 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-25 | 2023-10-07 |
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-25 | 2022-04-08 |
 | [Right Thing](https://open.spotify.com/track/4dSOUIj2mJ7gZuW7dbuSB0) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Right Thing](https://open.spotify.com/album/1WFSgrgfu33KqJfk4CWyPW) | 3:42 | 2023-01-27 | 2023-02-18 |

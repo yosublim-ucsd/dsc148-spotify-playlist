@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-468 songs - 1 day 4 hr 23 min
+469 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [I Just Wanna Know \- Remix](https://open.spotify.com/track/6urgrE1xiLMHrnG19NaCtz) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [I Just Wanna Know \(Remix\)](https://open.spotify.com/album/0k0rGyoaunyLPKf3Jg2x47) | 3:28 | 2024-03-01 |  |
 | [I Keep Callin' You](https://open.spotify.com/track/0Y9j7ZHf5O6nL145orSXLg) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Gasms](https://open.spotify.com/album/14xK4FTz2jDiWE8vL1rZaK) | 4:03 | 2023-04-28 | 2023-05-13 |
 | [I Like Trouble](https://open.spotify.com/track/2G1PImEpUqv0RjRWPbDW4K) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:10 | 2022-10-03 | 2024-02-24 |
+| [I Need To Know](https://open.spotify.com/track/7clw7EeUFHnvA656IIlyX9) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 4:00 | 2023-02-12 |  |
 | [I Need To Know](https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [I Need To Know](https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07) | 4:00 | 2023-02-12 | 2023-11-06 |
 | [I Need To Know](https://open.spotify.com/track/6fu8UH57Ob9MzjZYMoVcra) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [I Need To Know](https://open.spotify.com/album/7cGZjZKLodN7QWlwkBXyFt) | 4:00 | 2023-02-12 | 2024-03-04 |
 | [i remember you my ex](https://open.spotify.com/track/4dGH4YFWf1qq4LcwG37yRH) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [i remember you my ex](https://open.spotify.com/album/2uDubx9Dj7Pp2Y7Exa7qDa) | 3:01 | 2023-03-03 | 2023-04-09 |
@@ -223,7 +224,7 @@
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-10-03 | 2023-04-30 |
 | [Just Like You Used To](https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg) | 3:08 | 2022-10-03 | 2023-09-12 |
 | [Just Like You Used To](https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:09 | 2022-10-03 | 2023-10-07 |
-| [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 |  |
+| [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 | 2024-04-03 |
 | [King](https://open.spotify.com/track/1fExFCGaE1Y5qNhPK7aTUy) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:04 | 2023-05-26 | 2023-09-20 |
 | [Kiss The Sky](https://open.spotify.com/track/5kRwRpU0ah48DmRfxARPHt) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Kiss The Sky](https://open.spotify.com/album/5VHPseQHlNgqVA8L0tjYj1) | 5:48 | 2023-09-29 | 2023-12-25 |
 | [Kiss The Sky](https://open.spotify.com/track/720VE8ztYhPhFVL7RFw6r3) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Kiss The Sky](https://open.spotify.com/album/3LhUzfscRrBlUlOKw7gMSd) | 5:48 | 2023-09-29 |  |

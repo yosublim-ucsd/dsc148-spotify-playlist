@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Betoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,579 likes - 90 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,673 likes - 90 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [BEEFA](https://open.spotify.com/track/2kJURQDtx17wSCNnMDjVxb) | [ESH](https://open.spotify.com/artist/6rXMet89uui55tWrcEz7ma) | [BEEFA](https://open.spotify.com/album/1JfmkqlqQ55PK8HmD4bq1D) | 2:16 |
 | 90 | [Bottlepop](https://open.spotify.com/track/3iysa7RxuIFnYQPbEfE9IG) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Ghungroo](https://open.spotify.com/album/0WfAGokfkZ2t4Z528nJl0g) | 4:30 |
 
-Snapshot ID: `MCxiMDg5Njk1YzcyMzVhMDE2ZDYzYTQ0MGZhZjA1NzYzNjg3Yzc1ZmNi`
+Snapshot ID: `MCw5ZjdlZTZmODJjNDUxODcxNTkwZGNmMGY2N2ZkNWQ1ODRmNDg3NmVl`

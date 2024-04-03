@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 177,
+  "2024-04-03": 177,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo\">Vinicius Poeta</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Vinicius Poeta",
@@ -2629,6 +2629,24 @@
       "duration_ms": 154181,
       "name": "FALA MAL DE MIM",
       "url": "https://open.spotify.com/track/5glMxRMRHGBRj6bydBjoPM"
+    },
+    {
+      "album": {
+        "name": "Brega pra Pared\u00e3o 3.0",
+        "url": "https://open.spotify.com/album/4W4e4xBPMQvad82k8Yc8MX"
+      },
+      "artists": [
+        {
+          "name": "Larissa Costa",
+          "url": "https://open.spotify.com/artist/0tFDWvgm73Y1mz4n75LPwP"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152973,
+      "name": "Falta de Mim",
+      "url": "https://open.spotify.com/track/4xDhnfecbgfX78cLqRXJUl"
     },
     {
       "album": {

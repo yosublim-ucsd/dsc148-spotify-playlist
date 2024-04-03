@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 209549,
+  "num_followers": 209566,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmQ0MWVkZDE0OGI2ZmM0YzNjODBmZDQwMGZmOGJiYmI4MzZkYjlj",
+  "snapshot_id": "MCwwNzc5YjZjMTNmNWY3OGNlZGNmMDA3OTM5ZTZiZjVlNDhhZTgyMWJk",
   "tracks": [
     {
       "added_at": "2024-03-12 14:47:09",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
         "name": "Sky's The Limit",
         "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
         "name": "Jazzy Soul",
         "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 337066,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/4Tr04LzFeZEYgcF7vKN1NN"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
         "name": "Secret Combination",
         "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/4Tr04LzFeZEYgcF7vKN1NN"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+        "name": "Friends In Love",
+        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+      "duration_ms": 298946,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "Friends In Love",
-        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 298946,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -1667,18 +1667,26 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "Unpredictable",
-        "url": "https://open.spotify.com/album/4I4exZUNod9Mj4MOzxDtiS"
+        "name": "The Best Of Fourplay",
+        "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
         }
       ],
-      "duration_ms": 260000,
-      "name": "I've Got Love On My Mind",
-      "url": "https://open.spotify.com/track/5Zclj5e4Jv0Zo9FU9pDmPY"
+      "duration_ms": 235733,
+      "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
+      "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
     }
   ],
   "unique_name": "Soulful Blend",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Dhvani Bhanushali
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,504 likes - 64 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,611 likes - 64 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 5 | [Hania](https://open.spotify.com/track/7yER8tfabF5oi4Kr2wn3q3) | [PRIYANSHU](https://open.spotify.com/artist/7eEvdqIc3p9CqKs7EbmQl9), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Hania](https://open.spotify.com/album/3GilDUB1JJwDaSewWiF5t9) | 2:11 |
 | 6 | [Paaro](https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Paaro](https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD) | 2:33 |
 | 7 | [Sunn Heeriye](https://open.spotify.com/track/1VdExOzmkHPqKBNsqebgzR) | [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Sunn Heeriye](https://open.spotify.com/album/7uGK3DXQnoJN7NBmQtM1im) | 4:25 |
-| 8 | [Tu Hi Wajah](https://open.spotify.com/track/10FQmDMezz77rIqeedLsiw) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Soham Mukherji](https://open.spotify.com/artist/0IwBTR3mDRKVXdUonhC0X6) | [Tu Hi Wajah](https://open.spotify.com/album/07DK8yVmNKVoXBjAvcUaFv) | 2:33 |
+| 8 | [Tu Hi Wajah](https://open.spotify.com/track/10FQmDMezz77rIqeedLsiw) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Soham Mukherji](https://open.spotify.com/artist/0IwBTR3mDRKVXdUonhC0X6), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Tu Hi Wajah](https://open.spotify.com/album/07DK8yVmNKVoXBjAvcUaFv) | 2:33 |
 | 9 | [Aawara](https://open.spotify.com/track/1S1kmutpP2dHIajKRwBqa2) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Aawara](https://open.spotify.com/album/0ToAGCrXd9BNigVoIIoj0s) | 3:49 |
 | 10 | [Soulmate](https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:33 |
 | 11 | [Moh Na Laage \(From "Dukaan"\)](https://open.spotify.com/track/2cqsr7TiQFWzmMahiDE0Mh) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Moh Na Laage \(From "Dukaan"\)](https://open.spotify.com/album/2aYVRUqJOQQUWLlsc1BRDl) | 4:50 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 63 | [Tu Meri Hai](https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tu Meri Hai](https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC) | 3:55 |
 | 64 | [Dil Kya Kare](https://open.spotify.com/track/05cPakbRjt3D3Zsn8HqXDS) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh) | [Dil Kya Kare](https://open.spotify.com/album/23mkzLZ198waE7RzeA14m5) | 3:17 |
 
-Snapshot ID: `MCxhMjYzM2ZjYTA1ZDhkNWY1ZDBjODJkZmNjYzU5ZTJiM2JlNTk3ODEx`
+Snapshot ID: `MCw2NGQ5MzY4NzhlZDliNjMwZTU2NjIyNTZmOGMyOGRjY2VjNGE2MDc2`

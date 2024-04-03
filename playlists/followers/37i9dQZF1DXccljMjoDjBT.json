@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 278910,
+  "2024-04-03": 278984,
   "date_first_scraped": "2022-04-22",
   "description": "The best soft rock from the 1980s. Cover: Tina Turner",
   "name": "80s Soft Rock",
@@ -377,7 +377,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 255826,
       "name": "Bix",
       "url": "https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 280360,
       "name": "Heart (Stop Beating In Time)",
       "url": "https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm"

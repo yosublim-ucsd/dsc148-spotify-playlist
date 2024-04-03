@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Beyonce, Camila Cabello, j\-hope, 野田洋次郎 & kZm and more! cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,358 likes - 83 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,391 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 52 | [青のなかで](https://open.spotify.com/track/596cKhBKiUgTpmdzejVgDL) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [青のなかで](https://open.spotify.com/album/36NBJhGVbtVOiCga4YE4nb) | 3:46 |
 | 53 | [エイプリル](https://open.spotify.com/track/67OBdMqlj5l0uH9ecygVsg) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [エイプリル](https://open.spotify.com/album/4c09u5oh0kaguj5CNkpfpF) | 2:59 |
 | 54 | [Tone](https://open.spotify.com/track/0jPQD43kwJ7sduwzaSIHJB) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [Tone](https://open.spotify.com/album/5QPUA1B890h3P9PFWNFcmE) | 5:19 |
-| 55 | [Living in a Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living in a Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
+| 55 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
 | 56 | [Making The Beast \- Edit](https://open.spotify.com/track/1oCbNTOmA43TArd9PVTfft) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Making The Beast](https://open.spotify.com/album/3DhI1gzM2t6dzfaMbrPsXq) | 2:14 |
 | 57 | [Neptunian Landing](https://open.spotify.com/track/3GPrbsxDmOMhrk6LBYjQ9U) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [Neo Tantric Parts](https://open.spotify.com/album/7gNQRS7yNdUa1bhSXzAlZR) | 4:01 |
 | 58 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 82 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 |
 | 83 | [The Song Of You](https://open.spotify.com/track/6qPPNp1IXn5StfE3SrCbw1) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [The Song Of You](https://open.spotify.com/album/6Ad7G1yO4M0ub2ijUkbszq) | 2:10 |
 
-Snapshot ID: `MCxmNTZhYTBjODQ2NDBiZDNmNDRlZGRiOGVmNzZhMzExY2VhNDJlZjVj`
+Snapshot ID: `MCxhYTNiZGYwMWRmY2Y1NTI3YWU2NGI1Yzk1ZTI0MWU5MGFiZmQ0YWEx`

@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9334,
+  "num_followers": 9336,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2JjM2U5Njk0OGU2YzU2ZWJiZTY3YWIxNTJiY2JkYzMzNjY0OWNm",
+  "snapshot_id": "MCwzYjQzMmZjZWE1YzE0NDEyYjY0YWZmOGJkMjI2NDk2MDNiZDVhNzY4",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "Never give up, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "My dream",
+      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "Show Me the Money 777 Semi Final",
         "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 329487,
       "name": "NoNo (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "Never give up, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "My dream",
-      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -1023,38 +1023,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ"
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
       },
       "artists": [
         {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        }
-      ],
-      "duration_ms": 215054,
-      "name": "Yoo Jae Suk",
-      "url": "https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
-        "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 274493,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
+      "duration_ms": 233013,
+      "name": "Til I Die",
+      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -1079,6 +1063,22 @@
       "duration_ms": 290455,
       "name": "Line No3 maebong station (Feat. Paloalto, Beenzino)",
       "url": "https://open.spotify.com/track/3oDNKxY583pu08FJw8tst5"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ"
+      },
+      "artists": [
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        }
+      ],
+      "duration_ms": 215054,
+      "name": "Yoo Jae Suk",
+      "url": "https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

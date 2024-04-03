@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 23223,
+  "num_followers": 23242,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTQ1OGI3Mjc3OGViYjZhMDU4MjVmMjI4NTA3ODYyNTQ4ZDhiYzUz",
+  "snapshot_id": "MCwzYjc3ODJhYTUyN2U2ZTJjZjE4OWU2ZGRkNmEwN2ViYmRlMWE1NDNm",
   "tracks": [
     {
       "added_at": "2024-03-29 00:01:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 250920,
       "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Quick Question",
-        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Quick Question",
-      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/08uN83YmgRrO8MOAgApw8H"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 188760,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/1V3I7dfERrC8ZdpasMdzfD"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Quick Question",
+        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Quick Question",
+      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Wrist On Freeze",
-        "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
-      },
-      "artists": [
-        {
-          "name": "Stay Flee Get Lizzy",
-          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
-        },
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Wrist On Freeze",
-      "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -1267,6 +1243,46 @@
       "duration_ms": 185619,
       "name": "Confident",
       "url": "https://open.spotify.com/track/2JyILhFSK1yopuDDxWVMFM"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Wrist On Freeze",
+        "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
+      },
+      "artists": [
+        {
+          "name": "Stay Flee Get Lizzy",
+          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
+        },
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Wrist On Freeze",
+      "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Routine Lover",
         "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Mr O\u00falala",
-        "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Mr O\u00falala",
+        "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "SUPARO (Remix)",
-        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
+        "name": "You Trap Me",
+        "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
       },
       "artists": [
         {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+          "name": "General Soundbwoy",
+          "url": "https://open.spotify.com/artist/6gctG6ZKtB0kbGolqccLSS"
         },
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Nikko Mad",
+          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
         }
       ],
-      "duration_ms": 161226,
-      "name": "SUPARO - Remix",
-      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
+      "duration_ms": 102863,
+      "name": "You Trap Me",
+      "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "You Trap Me",
-        "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
+        "name": "SUPARO (Remix)",
+        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
       "artists": [
         {
-          "name": "General Soundbwoy",
-          "url": "https://open.spotify.com/artist/6gctG6ZKtB0kbGolqccLSS"
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
         },
         {
-          "name": "Nikko Mad",
-          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 102863,
-      "name": "You Trap Me",
-      "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"
+      "duration_ms": 161226,
+      "name": "SUPARO - Remix",
+      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
     },
     {
       "added_at": "2024-03-29 00:01:00",

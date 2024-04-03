@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 23050,
+  "2024-04-03": 23052,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 145800,
       "name": "Acid Cry",
       "url": "https://open.spotify.com/track/6cP6IST6zj0sPIDOjmA1JZ"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 178373,
       "name": "Bottega",
       "url": "https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 171428,
       "name": "Dansie Geet Dom",
       "url": "https://open.spotify.com/track/35e9WqhVlY7pVZGX7HtEYQ"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 163383,
       "name": "Kitchen Stove",
       "url": "https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm"
@@ -4445,7 +4445,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
@@ -4485,6 +4485,28 @@
       "duration_ms": 180333,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ"
+    },
+    {
+      "album": {
+        "name": "The West Side Remix",
+        "url": "https://open.spotify.com/album/0zfyaOqakTP2niVaivgzGx"
+      },
+      "artists": [
+        {
+          "name": "LeBron James Playlist",
+          "url": "https://open.spotify.com/artist/7pt52xPt4oJEQ9iZItDIEc"
+        },
+        {
+          "name": "DJ Max Star",
+          "url": "https://open.spotify.com/artist/3oTDO2HdnIHS42f8E6KIFJ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191850,
+      "name": "The West Side Remix",
+      "url": "https://open.spotify.com/track/5I2tVobnVIxCYaF9r8hbzd"
     },
     {
       "album": {
@@ -4893,7 +4915,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 101440,
       "name": "Want U",
       "url": "https://open.spotify.com/track/1312ZAYpw7aeRQ8GMkbJux"
@@ -5275,6 +5297,24 @@
       "duration_ms": 180979,
       "name": "ZARI",
       "url": "https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW"
+    },
+    {
+      "album": {
+        "name": "Noisy Fairytales (Remastered 2018)",
+        "url": "https://open.spotify.com/album/7rRtPifyrlU1S1FXJNTunX"
+      },
+      "artists": [
+        {
+          "name": "Heideroosjes",
+          "url": "https://open.spotify.com/artist/3gmW7lOonf6IfBxEE1VBBJ"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263626,
+      "name": "Ze Smelten De Paashaas",
+      "url": "https://open.spotify.com/track/57sWSYjm5nv35AHyKBSEux"
     },
     {
       "album": {

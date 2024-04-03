@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > she did her hyper\-homework
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,283 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,262 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
 | 2 | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 |
-| 3 | [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 |
+| 3 | [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Petty Plastic](https://open.spotify.com/artist/6DfeTTtUs7u21DL8KruP2N) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 |
 | 4 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 |
 | 5 | [Elk Skin](https://open.spotify.com/track/34gdkFDYWeqyqr8u7KSrWD) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Elk Skin](https://open.spotify.com/album/5twIZTmDYO9d7awAUvVRkV) | 2:52 |
 | 6 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 |
 | 100 | [FUN](https://open.spotify.com/track/5mlVnK8RkGob2oiFPXf0Ky) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [FUN](https://open.spotify.com/album/2ZIsPbcWIz2dhi5YCTvTkv) | 1:49 |
 
-Snapshot ID: `MCwzMjc1MDY5NmZlNmNiMDEzNmEwYWFlYjVlYTE2NThiMWFlNjM1OTJj`
+Snapshot ID: `MCxmYTQ2NTZmYjVlZTBkNjI3ZTNkODA0YTkyODNmOGUzYTNkNmNkZTdk`

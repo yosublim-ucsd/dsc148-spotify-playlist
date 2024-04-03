@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-505 songs - 1 day 6 hr 12 min
+511 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Hope Street](https://open.spotify.com/track/5HGFH6PbfBWcetcRgUHHKK) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Hope Street](https://open.spotify.com/album/5mcyj4rb0b0v54jUK9EOcR) | 2:28 | 2023-11-17 |  |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-05-17 | 2022-12-24 |
 | [How Long Have I Waited?](https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Bittersweet](https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5) | 3:11 | 2023-10-27 |  |
+| [How She Walks](https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [How She Walks](https://open.spotify.com/album/3MJxreK1iSr3LH02oElQkp) | 4:39 | 2024-04-02 |  |
 | [I Can Always Tell](https://open.spotify.com/track/5PWDSQk8KukXxtUoclRCYf) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [I Can Always Tell](https://open.spotify.com/album/4yGXyO00Pq6xd8561J8vg8) | 3:23 | 2024-02-23 |  |
 | [I Can’t Get Started](https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR) | [Elton Willis Trio](https://open.spotify.com/artist/3dnm59R1zLsrNl8wXA9Aui) | [I Can’t Get Started](https://open.spotify.com/album/4biFCrWFx9nlHAauPuKUGv) | 4:24 | 2022-05-17 | 2023-03-25 |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
@@ -357,6 +358,7 @@
 | [September Song](https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [September Song](https://open.spotify.com/album/0zsOMLv9GS8yPelwkfcvE9) | 3:29 | 2022-10-27 | 2023-02-24 |
 | [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-05-17 | 2022-08-17 |
 | [Serendipity Swing](https://open.spotify.com/track/4nb9JJGOdtQ7CW5PsmkYUm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Serendipity Swing](https://open.spotify.com/album/5A0C9HvLAYvLE4PY7PzHaY) | 4:12 | 2023-09-22 |  |
+| [Serenity](https://open.spotify.com/track/3VoVHmxIT8vFcE8PNj0j12) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Serenity](https://open.spotify.com/album/7zqtkLCoo4YXpf0zTtkBQG) | 3:41 | 2024-04-02 |  |
 | [Seven Sisters](https://open.spotify.com/track/4OWvaKUoGcfoONsIMs1NYc) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Seven Sisters](https://open.spotify.com/album/1c8r3yfU1kAbJNl8m1TCaq) | 3:37 | 2024-02-02 |  |
 | [Shadows](https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Shadows](https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ) | 3:36 | 2023-01-19 | 2023-03-10 |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 |  |
@@ -384,10 +386,12 @@
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-08-16 |  |
 | [Sometimes](https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Sometimes](https://open.spotify.com/album/0shZE0rf62F4ei2ioJs9Fs) | 3:44 | 2023-12-22 |  |
 | [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-01-05 |  |
+| [Song For You](https://open.spotify.com/track/7M4FUbBC6zkefpbcukBmfI) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Song For You](https://open.spotify.com/album/5DoZVQQee73F8s5P0PzILC) | 3:20 | 2024-04-02 |  |
 | [Sooner or Later](https://open.spotify.com/track/0ajS6qLPmNV7QEF0Dp6m1z) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Sooner or Later](https://open.spotify.com/album/4ctLemLDyoXpPURF5s5zvs) | 3:25 | 2023-10-06 |  |
 | [Soulful Serenade](https://open.spotify.com/track/01h2N3MrwVDnvKHJV1eHiA) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [Soulful Serenade](https://open.spotify.com/album/3L9yVSvfZjMNBhnKp0L35S) | 3:50 | 2024-01-19 |  |
 | [Speak Low](https://open.spotify.com/track/4qY2rgB6SJM9F1RPaLeGcz) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:41 | 2022-05-17 | 2022-10-28 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 | 2023-08-11 |
+| [Spring Feelings](https://open.spotify.com/track/2ljRjL6yNdeBPVityJweAU) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Spring Feelings](https://open.spotify.com/album/29LIAF8yItrGpGJToDvRI9) | 3:10 | 2024-04-02 |  |
 | [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-04-13 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 | 2022-05-17 |  |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-10 | 2023-06-09 |
@@ -477,6 +481,8 @@
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-06-28 |  |
 | [What's New](https://open.spotify.com/track/7KkuAiPMECCD5FB2sbDyU2) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [What's New](https://open.spotify.com/album/4EGFMBsIGjesECjoVb2uSD) | 2:51 | 2022-05-17 |  |
 | [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 | 2022-05-17 | 2022-06-09 |
+| [When I Look at You](https://open.spotify.com/track/0PAeeh8Oe1mIWySkEjo6Ai) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [When I Look at You](https://open.spotify.com/album/0XGpmYe20OKTcAS787O4XZ) | 3:23 | 2024-04-02 |  |
+| [When I Think Of You](https://open.spotify.com/track/1PyRY7YqoHAjST8SeiwuZQ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [When I Think Of You](https://open.spotify.com/album/2i3H3A01cNc9GQJ860blZw) | 4:09 | 2024-04-02 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2022-05-17 |  |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 |  |
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 |  |

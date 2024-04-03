@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 28478,
+  "2024-04-03": 28495,
   "date_first_scraped": "2022-09-09",
   "description": "La playlist del jazz italiano, passato e presente. Cover: 72-HOUR POST-FIGHT",
   "name": "Jazz Italia",
@@ -259,6 +259,24 @@
       "duration_ms": 323440,
       "name": "African Marketplace",
       "url": "https://open.spotify.com/track/1wSTOXHGRuReLFQUxl7Nnm"
+    },
+    {
+      "album": {
+        "name": "Jeux de couleurs",
+        "url": "https://open.spotify.com/album/4MHtt9xdDi88XL3NackV32"
+      },
+      "artists": [
+        {
+          "name": "Federica Michisanti Horn Trio",
+          "url": "https://open.spotify.com/artist/4R3WwyVR9JrMdeAR3GPNIK"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328333,
+      "name": "Aka",
+      "url": "https://open.spotify.com/track/06rGNcmk7c93K9fIX5nT7O"
     },
     {
       "album": {
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 146618,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 133107,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/10I2bf5nDphrLZOOVBqLSc"
@@ -5880,6 +5898,44 @@
     },
     {
       "album": {
+        "name": "The Human Web",
+        "url": "https://open.spotify.com/album/22SQqmg8tUM1ifNaBgxvlA"
+      },
+      "artists": [
+        {
+          "name": "Francesca Remigi",
+          "url": "https://open.spotify.com/artist/0XBpvcUWlPH7130Am8ivZD"
+        },
+        {
+          "name": "Anais Drago",
+          "url": "https://open.spotify.com/artist/5IRm8wMUyP5gpwh1G4RrSd"
+        },
+        {
+          "name": "Andrew Saragossi",
+          "url": "https://open.spotify.com/artist/76ealTXaCQmgotbPsVERPq"
+        },
+        {
+          "name": "Federico Calcagno",
+          "url": "https://open.spotify.com/artist/6fejDlo0knbJLVEMCDDQzh"
+        },
+        {
+          "name": "Helen Svoboda",
+          "url": "https://open.spotify.com/artist/7MogHieZzJPN8NsZQrB1Hn"
+        },
+        {
+          "name": "Marta Giulioni",
+          "url": "https://open.spotify.com/artist/5Lf2VzL2126jxiXobVqZIu"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322229,
+      "name": "Metamorfosi",
+      "url": "https://open.spotify.com/track/0iZDOZhkNgnJGOdrGL50vP"
+    },
+    {
+      "album": {
         "name": "Metamorphosi",
         "url": "https://open.spotify.com/album/1uBCJiku4unhCQkRzMAc94"
       },
@@ -8407,7 +8463,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 344596,
       "name": "Ten Stops",
       "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
@@ -8433,7 +8489,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 327208,
       "name": "Terra",
       "url": "https://open.spotify.com/track/6XoSBOoPBw2mRlPSGRQyh1"

@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 478755,
+  "2024-04-03": 478789,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
   "name": "Culture Tubes",
@@ -925,7 +925,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 205800,
       "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
       "url": "https://open.spotify.com/track/17LZKLjQxH2w67xMa8mWML"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 363533,
       "name": "Les lacs du Connemara",
       "url": "https://open.spotify.com/track/3vHswuqTNO0hIiW6am0tKB"

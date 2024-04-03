@@ -4,7 +4,7 @@
 
 > The perfect mixtape for an anime fight scene\. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>
 
-316 songs - 13 hr 20 min
+317 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 | 2023-04-25 | 2023-12-08 |
 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 | 2022-05-25 | 2024-03-20 |
 | [3 Stars](https://open.spotify.com/track/3z2TthJcrKYXF9EwVgGTmo) | [Jair Archive](https://open.spotify.com/artist/0ZrZh19MF2a8US5n8mfXKY) | [3 Stars](https://open.spotify.com/album/6FNO4AGIDjRu7gMLNpm3x1) | 2:38 | 2023-09-29 | 2023-12-23 |
+| [5 by 5](https://open.spotify.com/track/0n3xqX2q2ioobUvPHcMpcH) | [lykia](https://open.spotify.com/artist/4ZIERQTvWH2EbE5kyQmQTy) | [5 by 5](https://open.spotify.com/album/61o4baUvcSo98fr0noiyRe) | 1:11 | 2024-02-09 |  |
 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 | 2023-12-08 |  |
 | [5unna](https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [R5 Homixide](https://open.spotify.com/artist/0dhgemnyYGddxaOFhqJ2Kw) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:40 | 2023-09-15 | 2023-09-27 |
 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 | 2023-09-29 |  |
@@ -110,7 +111,7 @@
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2022-07-08 | 2022-09-03 |
 | [GODBREAKER](https://open.spotify.com/track/6IvI7Zs2Ca3QIecWc6YSyP) | [Jamar Rose](https://open.spotify.com/artist/5eRDVS3cobE2WOM8xrjdOw), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PLOT TWIST](https://open.spotify.com/album/4JP8a119U8yQm6ttb0JsAB) | 2:33 | 2022-05-25 | 2022-07-20 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-06-21 | 2023-09-27 |
-| [Good Morning Vietnam](https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Good Morning Vietnam](https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf) | 2:19 | 2024-02-01 |  |
+| [Good Morning Vietnam](https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Good Morning Vietnam](https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf) | 2:19 | 2024-02-01 | 2024-04-03 |
 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 | 2022-05-25 |  |
 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 | 2023-07-13 |  |
 | [Gxth B!tch](https://open.spotify.com/track/47waplZLdcwNwtVUtQI9h8) | [Live Solum](https://open.spotify.com/artist/24wU3BBK0ZKIiSZq3zi9ZV) | [Gxth B!tch](https://open.spotify.com/album/6l54NDbgveDA1Lboi9xoBd) | 1:56 | 2022-06-10 | 2022-11-10 |

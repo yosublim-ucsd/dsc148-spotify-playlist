@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,779 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,923 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 94 | [Gatekeeper](https://open.spotify.com/track/1tFDLeuRNjkpdwiej6gCZH) | [Fauré Quartett](https://open.spotify.com/artist/4RUUet9z5AWXyt9dn6asqN) | [Popsongs](https://open.spotify.com/album/0Od9iGE0VH3ISl3dJwYJ7z) | 2:13 |
 | 95 | [My Heart Will Go On](https://open.spotify.com/track/7g7zKzgHOmRYYyYWr66gTW) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [Piano Cover](https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi) | 3:11 |
 
-Snapshot ID: `MCxhZWZiZmE2YmQ0M2ZiOWRlMjdjYjgwZmM2MmJkMDk0OTIwMzQ3MTQz`
+Snapshot ID: `MCwwYWExNjQ2OTUzY2QwYzY5MWIwMjI4Y2E5Y2U5N2I3OGYzOTE3NjM2`

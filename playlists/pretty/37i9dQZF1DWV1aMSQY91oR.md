@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,740 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,751 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [To the Fullest](https://open.spotify.com/track/5FWl28FQk0TTZTH0JCGXX8) | [JOELZ](https://open.spotify.com/artist/0fPnhLXlekNG7O3xanuvci), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Shrimp](https://open.spotify.com/artist/1FquXtV7ZjW6AnAxD3bWGq) | [To the Fullest](https://open.spotify.com/album/5ovl308eaiQdsH6uY6z6y7) | 2:21 |
 | 50 | [Konbini Wars](https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Konbini Wars](https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg) | 2:53 |
 
-Snapshot ID: `MCwyMDAwZmQ1NzhhNDIyYjI5MDBhYjUxYmI2NWZmNjgwODBkMmM3NzVi`
+Snapshot ID: `MCxmYWZkYmYzODEzYzM4YjA2NmUxMDJkYjZlMDg0YzMwMGJkNmJhOTZh`

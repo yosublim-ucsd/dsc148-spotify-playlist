@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,267 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,273 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Andhami Swapnam](https://open.spotify.com/track/1BtRSvbXdLyZEweikCLqsm) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/5qIsGKX1MhrYRXrMO4eDIo) | 4:26 |
 | 75 | [Vennela](https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Vennela](https://open.spotify.com/album/0wxINclZIEYCp1avSxtB3t) | 5:24 |
 
-Snapshot ID: `MCw3YjlmMzM3ZGE0NzY4Mzg5OGViODE1YjI3MGRiZDQwNzQ3YTA5MTUx`
+Snapshot ID: `MCxlMGYwODA0OWZmNTYxNmIwNzBkNzAwMGI5MDQ1MjZlOGU4ZWY2YWRl`

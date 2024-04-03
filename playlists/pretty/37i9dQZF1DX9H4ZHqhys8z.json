@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDNlZGZhNWM1YWExZTgyMzk0YWQ1ODM4NTg3YjQxNzFhOGFjN2I2",
+  "snapshot_id": "MCxhN2QxZmMwZmM1NTcxYTJkNDY4NGZiOTA2NGI1MzMxN2ZhMTNlMjcz",
   "tracks": [
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Reworks",
         "url": "https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF"
@@ -29,23 +29,395 @@
       "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
-        "name": "California Lullaby",
-        "url": "https://open.spotify.com/album/5dwbdy39vW8GjlSOBoBTqK"
+        "name": "ZARI",
+        "url": "https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz"
       },
       "artists": [
         {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
         }
       ],
-      "duration_ms": 175984,
-      "name": "California Lullaby",
-      "url": "https://open.spotify.com/track/66fWcyQPvaevkb3nRQQ6Cw"
+      "duration_ms": 180979,
+      "name": "ZARI",
+      "url": "https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Siga To Prama",
+        "url": "https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Siga To Prama",
+      "url": "https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Protimo '24",
+        "url": "https://open.spotify.com/album/6QY81z5fgmvlj662dYojOZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "duration_ms": 247507,
+      "name": "Protimo '24",
+      "url": "https://open.spotify.com/track/0KEo9Lb3YhalYfQv7qpKFf"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Panselinos",
+        "url": "https://open.spotify.com/album/2hJa2Xk7VGr3n2kT1FAv32"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        },
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "duration_ms": 171538,
+      "name": "Panselinos",
+      "url": "https://open.spotify.com/track/230Aews21zrVVeaebAndZG"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Josephine & Friends (Stripped-Down)",
+        "url": "https://open.spotify.com/album/4fbwPfFJoRt4RrC0BDCDsu"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "Game",
+      "url": "https://open.spotify.com/track/6vG8Dci5X2KnfPcXLFgI8p"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Baby Steps Freestyle",
+        "url": "https://open.spotify.com/album/42P403OtJF9QbTXUXcQhl5"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Baby Steps Freestyle",
+      "url": "https://open.spotify.com/track/0FdvZXSrN36Dwrz2D029EN"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Hennessy & Love",
+        "url": "https://open.spotify.com/album/4SC437NZdvNP9FxkhTc3LJ"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "duration_ms": 192842,
+      "name": "Hennessy & Love",
+      "url": "https://open.spotify.com/track/2nQLNxKav41SdNmOJlCidI"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Feelings (Unplugged Session 2)",
+        "url": "https://open.spotify.com/album/50kvPNNsd0a1XdScgxkCFy"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "duration_ms": 318807,
+      "name": "Feelings (Unplugged Session 2)",
+      "url": "https://open.spotify.com/track/0AqYpuEwOe0cT3BcGZesuM"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "SPITI",
+        "url": "https://open.spotify.com/album/1F66qQuMUQhMEIWUaOsMjB"
+      },
+      "artists": [
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        },
+        {
+          "name": "Ripen",
+          "url": "https://open.spotify.com/artist/3swt0iznObwokupYHCnzUd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "SPITI",
+      "url": "https://open.spotify.com/track/47c92B5efDZzDS5U6Ghsjp"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Mia Kaseta Gia Ton Dromo",
+        "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
+      },
+      "artists": [
+        {
+          "name": "Marina Spanou",
+          "url": "https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz"
+        }
+      ],
+      "duration_ms": 292478,
+      "name": "Taxidi",
+      "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Edo Tha Meino",
+        "url": "https://open.spotify.com/album/75Ay7RsbRQluOn8NulJVhp"
+      },
+      "artists": [
+        {
+          "name": "Mirela Pachou",
+          "url": "https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M"
+        }
+      ],
+      "duration_ms": 195185,
+      "name": "Marioneta",
+      "url": "https://open.spotify.com/track/4b2lHqGx9LikkGGs4opjaW"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Kardia Mou",
+        "url": "https://open.spotify.com/album/0RlgAc524rBnZ7kICdOzG5"
+      },
+      "artists": [
+        {
+          "name": "Pavlina Voulgaraki",
+          "url": "https://open.spotify.com/artist/1SjVtPeuTENt3NFHwAmgOK"
+        },
+        {
+          "name": "Dimitra Galani",
+          "url": "https://open.spotify.com/artist/3nV0kq59WJOJRLNWpFR1m6"
+        }
+      ],
+      "duration_ms": 221109,
+      "name": "Kardia Mou",
+      "url": "https://open.spotify.com/track/2xqHNIyVujlO44LnREseU0"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Se Pira Sovara",
+        "url": "https://open.spotify.com/album/0fGA5louQ8pB1nnxUS5zyA"
+      },
+      "artists": [
+        {
+          "name": "Eleftheria Eleftheriou",
+          "url": "https://open.spotify.com/artist/1xN3Gghqr2BsjaAG37EVM4"
+        }
+      ],
+      "duration_ms": 202889,
+      "name": "Se Pira Sovara",
+      "url": "https://open.spotify.com/track/728qx78UuEMdvq3UD25Ztc"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Litourgia Ptisis",
+        "url": "https://open.spotify.com/album/4g9mm2XAXTf4rVGFAlsQUY"
+      },
+      "artists": [
+        {
+          "name": "KIANNA",
+          "url": "https://open.spotify.com/artist/4fTmQzW49oi5GGJOpPjuNy"
+        }
+      ],
+      "duration_ms": 183451,
+      "name": "Litourgia Ptisis",
+      "url": "https://open.spotify.com/track/77bGRK5x5uaKKZ4d6UYAL0"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "De Frenaro",
+        "url": "https://open.spotify.com/album/6cAxTw6ojd9ndShoMd43q2"
+      },
+      "artists": [
+        {
+          "name": "Ilianna Zerva",
+          "url": "https://open.spotify.com/artist/6rDS4AGgg14z1cIlXClfik"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "De Frenaro",
+      "url": "https://open.spotify.com/track/4XCFlD6YwPGniLxC7yNVG5"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Triantafillia Mou",
+        "url": "https://open.spotify.com/album/6xvun7v9sinF6ovOaE6hoJ"
+      },
+      "artists": [
+        {
+          "name": "Eleni Tsaligopoulou",
+          "url": "https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4"
+        },
+        {
+          "name": "Manos Pirovolakis",
+          "url": "https://open.spotify.com/artist/4Z3HPlIyBDBR1U8HfK2yfU"
+        }
+      ],
+      "duration_ms": 187677,
+      "name": "Triantafillia Mou",
+      "url": "https://open.spotify.com/track/2EPQ8NBeg3mSfFHEqARwvD"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "POU NA XERES",
+        "url": "https://open.spotify.com/album/2FgClkEfkeygSb8eyh7Tws"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Queen",
+          "url": "https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK"
+        },
+        {
+          "name": "Stolou",
+          "url": "https://open.spotify.com/artist/3dRTRPZYK8Wa3hQuyHMs0A"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "POU NA XERES",
+      "url": "https://open.spotify.com/track/6RvBz6HPdpGC0oHbhOwHTN"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "2 Kisses",
+        "url": "https://open.spotify.com/album/4bUtqimagCEXf1Ed7z5Bwm"
+      },
+      "artists": [
+        {
+          "name": "VASSI\u0141INA",
+          "url": "https://open.spotify.com/artist/5n3Evsf1GxkqPeD78wziZ9"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "2 Kisses",
+      "url": "https://open.spotify.com/track/4VmRhQVPD4zuhnkq76FFl3"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "So Sure",
+        "url": "https://open.spotify.com/album/1DM7EPy4TLWlMNsQA3qTdP"
+      },
+      "artists": [
+        {
+          "name": "Natasha Kay",
+          "url": "https://open.spotify.com/artist/6vmTc3lUmJaPI2CPPghlPk"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "So Sure",
+      "url": "https://open.spotify.com/track/2MEmQT8AZUKd2tV9ZJYsf6"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "AVOLO",
+        "url": "https://open.spotify.com/album/5Y54e2eng2m1fIyRHv3Hrb"
+      },
+      "artists": [
+        {
+          "name": "Chrystelina",
+          "url": "https://open.spotify.com/artist/6QNaYdxuIulAq3M61FWAZ0"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/5FZQ1UyAFUGEPIvd00VUvr"
+        }
+      ],
+      "duration_ms": 258367,
+      "name": "AVOLO",
+      "url": "https://open.spotify.com/track/1E0KTxCJo2L2aWPyKFHYgk"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Aperanti Eftihia",
+        "url": "https://open.spotify.com/album/7hcVgGxepfh3PoR4OQVE7W"
+      },
+      "artists": [
+        {
+          "name": "Georgia Dagaki",
+          "url": "https://open.spotify.com/artist/20E38R1K0Jy20YYyf9Wydr"
+        }
+      ],
+      "duration_ms": 169033,
+      "name": "Aperanti Eftihia",
+      "url": "https://open.spotify.com/track/2NFSB70B7N3yuSGKcKKshr"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
+      "album": {
+        "name": "Xamenos Xronos",
+        "url": "https://open.spotify.com/album/26XVP0WvxOVUkM0vAoiSJp"
+      },
+      "artists": [
+        {
+          "name": "Xenia Gargali",
+          "url": "https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP"
+        },
+        {
+          "name": "Periklis Biskinis",
+          "url": "https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3"
+        }
+      ],
+      "duration_ms": 205249,
+      "name": "Xamenos Xronos",
+      "url": "https://open.spotify.com/track/1JwPvbIGmxPhKw266hYzN7"
+    },
+    {
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Anaisthisia",
         "url": "https://open.spotify.com/album/6XUSsiv6YTUQUvJZbq1ZYQ"
@@ -65,7 +437,7 @@
       "url": "https://open.spotify.com/track/564USoUiUuMOPxsvLWKHQB"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Rolling",
         "url": "https://open.spotify.com/album/4de99KTFyhQ1TGnqpxQeuL"
@@ -81,7 +453,7 @@
       "url": "https://open.spotify.com/track/6pSRMWkirlI9Zo1us2FuCX"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/36uDvk7974TBkYX9xSPJ1O"
@@ -97,7 +469,7 @@
       "url": "https://open.spotify.com/track/2Y1evpwPRqtVlnfBViXISG"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Klavdia",
         "url": "https://open.spotify.com/album/7KnctWI2GTw7eCCEBvNmvC"
@@ -113,7 +485,7 @@
       "url": "https://open.spotify.com/track/5u2OwdIvRinY1CZ3zpfC4P"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Den Eisai Edo",
         "url": "https://open.spotify.com/album/3Ix0OxTpTPYjLQOq1IaW6v"
@@ -129,7 +501,7 @@
       "url": "https://open.spotify.com/track/2XleyJIf8bIg30HDIVDd1O"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Mataia",
         "url": "https://open.spotify.com/album/7gIi14l7AB4FLqiZc87QJS"
@@ -145,23 +517,7 @@
       "url": "https://open.spotify.com/track/6rWHEzc6aX9blRxMpH3qxn"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Petaloudes",
-        "url": "https://open.spotify.com/album/6tZbJ80TPfRS8P0tXzJxne"
-      },
-      "artists": [
-        {
-          "name": "Violeta Ikari",
-          "url": "https://open.spotify.com/artist/0DO5J5jEP71YYDS3MLU0fm"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "Petaloudes",
-      "url": "https://open.spotify.com/track/1ggYensukHlV3z6CJcFZv7"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Fos",
         "url": "https://open.spotify.com/album/7HW3W31AobaQOpzQ6mn0Xk"
@@ -177,23 +533,7 @@
       "url": "https://open.spotify.com/track/6i0NQaowWZQPx10gbi6gpq"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Teliose Sou Leo",
-        "url": "https://open.spotify.com/album/1EsacJQS3EWGw7birQRjkh"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "Teliose Sou Leo",
-      "url": "https://open.spotify.com/track/51aNSVDec1LTmmmNI9fzur"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Rotisan Kapote Ena Asteri",
         "url": "https://open.spotify.com/album/7DqBzWI0Lbbi4LVVBlEVLd"
@@ -213,7 +553,7 @@
       "url": "https://open.spotify.com/track/3nFr6yQk5muA1mOVmXqSbI"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Eisai",
         "url": "https://open.spotify.com/album/4PGmB64QG1wbjfJNvSx865"
@@ -233,55 +573,7 @@
       "url": "https://open.spotify.com/track/1LhsqUuJJpcxIlt0qEpIGX"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Crooked",
-        "url": "https://open.spotify.com/album/40Lf4JGB7olHWpczehWtZs"
-      },
-      "artists": [
-        {
-          "name": "VASSI\u0141INA",
-          "url": "https://open.spotify.com/artist/5n3Evsf1GxkqPeD78wziZ9"
-        }
-      ],
-      "duration_ms": 149946,
-      "name": "Crooked",
-      "url": "https://open.spotify.com/track/7BrCt91g1ns1iRBD2TVDxY"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Pali Kommatia Tha Gino",
-        "url": "https://open.spotify.com/album/49NAFe0AcDqWuSkFLSzpKk"
-      },
-      "artists": [
-        {
-          "name": "Evgenia",
-          "url": "https://open.spotify.com/artist/4shXizxNoGUxSHHUDawAol"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Pali Kommatia Tha Gino",
-      "url": "https://open.spotify.com/track/54xFKh6FManRTwvvLG8NYy"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Troubled Waters",
-        "url": "https://open.spotify.com/album/5ibxI0a4EgHOBYGMkk5P0Y"
-      },
-      "artists": [
-        {
-          "name": "Joanne",
-          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
-        }
-      ],
-      "duration_ms": 246474,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/6TuyWjGT8Gi0kRu0S3MU1o"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "EDO POU M'AFISES",
         "url": "https://open.spotify.com/album/1F4AB6ww2VyzX5OXIpPjCG"
@@ -305,7 +597,7 @@
       "url": "https://open.spotify.com/track/7FeFn3Logx1WPueRdk26Rj"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Misoteliomeni",
         "url": "https://open.spotify.com/album/0IbuK7UIhEgF0a9NaJKb0n"
@@ -321,7 +613,7 @@
       "url": "https://open.spotify.com/track/6PXQuwpjBvF8LNrs5edd4g"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Edo Ine Pou Gelame (Ha Ha Ha)",
         "url": "https://open.spotify.com/album/3peZF56AWhoLGRcw69eXBw"
@@ -337,7 +629,7 @@
       "url": "https://open.spotify.com/track/3ONbiq1hckf523AUT0iWEu"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Ioulia",
         "url": "https://open.spotify.com/album/0gOYYDj0oC8l7MqFpeFdMQ"
@@ -357,7 +649,7 @@
       "url": "https://open.spotify.com/track/4RSH5zfjUynNwVUF8wewD7"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Giati Na Boreso",
         "url": "https://open.spotify.com/album/7s6UbyOTTfQWsOK9NYpz9y"
@@ -373,7 +665,7 @@
       "url": "https://open.spotify.com/track/17tlTy5dYZrGcA8tWz2CML"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "S'Agapo",
         "url": "https://open.spotify.com/album/3lVZxUSNS4DbqMAh2XNwi1"
@@ -389,7 +681,7 @@
       "url": "https://open.spotify.com/track/41OuxvrR6fzGpTi9nRyriO"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Gerania",
         "url": "https://open.spotify.com/album/092h1c6n6cuSVq4ZHz9E8W"
@@ -405,7 +697,7 @@
       "url": "https://open.spotify.com/track/5ws4sxZf9zLPFqQbDMYBzI"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "A10",
         "url": "https://open.spotify.com/album/1hRMKP4fav1bg5O7QEbmMw"
@@ -433,7 +725,7 @@
       "url": "https://open.spotify.com/track/1LJls6q7nAgIOG5ydoQBoY"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Pes Mou",
         "url": "https://open.spotify.com/album/732IvasfkpLJYx41saBVrg"
@@ -449,7 +741,7 @@
       "url": "https://open.spotify.com/track/2KDf834esNz60YkoISdDu2"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Ti Ftes Ki Esi",
         "url": "https://open.spotify.com/album/4IOUu0A1klZLVSR7l87NoF"
@@ -465,7 +757,7 @@
       "url": "https://open.spotify.com/track/3Pzsb4Z2oMnrKIyY89o3tD"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Opios Theli Vriski Hrono",
         "url": "https://open.spotify.com/album/0ioUqJRiYw4n9HvBooP8pt"
@@ -481,115 +773,7 @@
       "url": "https://open.spotify.com/track/77gbj5TmYMnyfH5WstSGYT"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Ta Chronia",
-        "url": "https://open.spotify.com/album/1nfqMSV56nCZpPlxWaj0rz"
-      },
-      "artists": [
-        {
-          "name": "Melina Kana",
-          "url": "https://open.spotify.com/artist/77Guu62HL3rXrjqYJKhyVT"
-        },
-        {
-          "name": "Chrysostomos Karantoniou",
-          "url": "https://open.spotify.com/artist/5mFNEsCzzWpiYjqajrGwiF"
-        },
-        {
-          "name": "Giorgos Kleftogiorgos",
-          "url": "https://open.spotify.com/artist/0lZ1h0CHV31LDsy5ruYbdB"
-        }
-      ],
-      "duration_ms": 249363,
-      "name": "Ta Chronia",
-      "url": "https://open.spotify.com/track/2twdbW11jurfT2zIxxT9cS"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "A Movie I Haven't Seen",
-        "url": "https://open.spotify.com/album/0SgjjmctfMUUXxYWxqdGKD"
-      },
-      "artists": [
-        {
-          "name": "Sarah P.",
-          "url": "https://open.spotify.com/artist/5et5yif2ZImEGYYgBxbQvr"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "A Movie I Haven't Seen",
-      "url": "https://open.spotify.com/track/1hPbzPDJ2ZOtG5yuwjVQTz"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Lost In Blue",
-        "url": "https://open.spotify.com/album/2810CViTR3Bl55zUSD9MoU"
-      },
-      "artists": [
-        {
-          "name": "Irene Skylakaki",
-          "url": "https://open.spotify.com/artist/5KKjADCk7GQKQ68vtFwXM8"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Lost In Blue",
-      "url": "https://open.spotify.com/track/2feRWCIgvVzFO8FfP89G3z"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Do You Know How It Feels",
-        "url": "https://open.spotify.com/album/3ZXE6Owd9r4JjyaIff6rEg"
-      },
-      "artists": [
-        {
-          "name": "Cleoniki",
-          "url": "https://open.spotify.com/artist/7mDYKmiS8dFmoeHIvNg2FL"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "Do You Know How It Feels",
-      "url": "https://open.spotify.com/track/4RBNkpYFgAKdIX1ra2t6Ua"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/3uwp0GZPw3K0WTFJ5gXaxk"
-      },
-      "artists": [
-        {
-          "name": "Melina Aslanidou",
-          "url": "https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ"
-        },
-        {
-          "name": "Dimitris Bakoulis",
-          "url": "https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz"
-        }
-      ],
-      "duration_ms": 186487,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/2c1BgUYsZ9LXtfuL2PZxhg"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Vara Mou To Defi",
-        "url": "https://open.spotify.com/album/0GFlfS2iWOmXuj0YmEAUg9"
-      },
-      "artists": [
-        {
-          "name": "Eleni Vitali",
-          "url": "https://open.spotify.com/artist/3UYmA19wyTX7ebx0WFzhDC"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Pio Dromo Na Paro",
-      "url": "https://open.spotify.com/track/0RMvvHatjF0EXuoeWytS6c"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Ti Sou Kanei",
         "url": "https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG"
@@ -613,23 +797,7 @@
       "url": "https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Ta Kala Koritsia",
-        "url": "https://open.spotify.com/album/5k1Gf4AvdraC33TbU9iBgc"
-      },
-      "artists": [
-        {
-          "name": "Josephine",
-          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
-        }
-      ],
-      "duration_ms": 141551,
-      "name": "Moira",
-      "url": "https://open.spotify.com/track/0RHHTYRMbow3v1XASd8LEi"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Ay Ay (Magissa)",
         "url": "https://open.spotify.com/album/6bp22Qd1KGpDEe2K72HKz8"
@@ -645,7 +813,7 @@
       "url": "https://open.spotify.com/track/3QwDFpWlJ0tuaj1fG1K0Rc"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
         "name": "Belas",
         "url": "https://open.spotify.com/album/4rJDLCv7mmZ10dvgFAKRUH"
@@ -661,244 +829,68 @@
       "url": "https://open.spotify.com/track/4vFSDLJln33mlQOfomW58k"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
-        "name": "ANASAINO KAI ZALIZOMAI",
-        "url": "https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j"
+        "name": "Petaloudes",
+        "url": "https://open.spotify.com/album/6tZbJ80TPfRS8P0tXzJxne"
       },
       "artists": [
         {
-          "name": "LILA",
-          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
-        },
-        {
-          "name": "Sin Laurent",
-          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "Violeta Ikari",
+          "url": "https://open.spotify.com/artist/0DO5J5jEP71YYDS3MLU0fm"
         }
       ],
-      "duration_ms": 158085,
-      "name": "ANASAINO KAI ZALIZOMAI",
-      "url": "https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN"
+      "duration_ms": 211946,
+      "name": "Petaloudes",
+      "url": "https://open.spotify.com/track/1ggYensukHlV3z6CJcFZv7"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
-        "name": "Ta Kalytera",
-        "url": "https://open.spotify.com/album/7b7ppVdCsdND2loHeKun4q"
+        "name": "California Lullaby",
+        "url": "https://open.spotify.com/album/5dwbdy39vW8GjlSOBoBTqK"
       },
       "artists": [
         {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Ta Kalytera",
-      "url": "https://open.spotify.com/track/6P177lVcscT2irH7dM9Ez0"
+      "duration_ms": 175984,
+      "name": "California Lullaby",
+      "url": "https://open.spotify.com/track/66fWcyQPvaevkb3nRQQ6Cw"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
-        "name": "De Thelo Na Se Ksanado",
-        "url": "https://open.spotify.com/album/09aSJ7p1OioBi9RVzZBENE"
+        "name": "Teliose Sou Leo",
+        "url": "https://open.spotify.com/album/1EsacJQS3EWGw7birQRjkh"
       },
       "artists": [
         {
-          "name": "Daphne Lawrence",
-          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
         }
       ],
-      "duration_ms": 157794,
-      "name": "De Thelo Na Se Ksanado",
-      "url": "https://open.spotify.com/track/5cuTtlLxe4GixMj3rigMHm"
+      "duration_ms": 166124,
+      "name": "Teliose Sou Leo",
+      "url": "https://open.spotify.com/track/51aNSVDec1LTmmmNI9fzur"
     },
     {
-      "added_at": "2024-03-05 22:00:00",
+      "added_at": "2024-04-02 21:00:00",
       "album": {
-        "name": "Xilia Prepei",
-        "url": "https://open.spotify.com/album/1tcsOfRTdlsH8STJ94Ji94"
+        "name": "Pali Kommatia Tha Gino",
+        "url": "https://open.spotify.com/album/49NAFe0AcDqWuSkFLSzpKk"
       },
       "artists": [
         {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+          "name": "Evgenia",
+          "url": "https://open.spotify.com/artist/4shXizxNoGUxSHHUDawAol"
         }
       ],
-      "duration_ms": 190428,
-      "name": "Xilia Prepei",
-      "url": "https://open.spotify.com/track/4anbLaiL6b5V4Va6cFGqA3"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Kati Mas Enonei",
-        "url": "https://open.spotify.com/album/07UdaEjAkIrCc3ypwmsEti"
-      },
-      "artists": [
-        {
-          "name": "Kimi",
-          "url": "https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw"
-        },
-        {
-          "name": "Fy",
-          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
-        },
-        {
-          "name": "Skive",
-          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Kati Mas Enonei",
-      "url": "https://open.spotify.com/track/32SYAgFTfOsyXqaMgndZkB"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Krypsou",
-        "url": "https://open.spotify.com/album/5HAzznEHA6Lga7u075Pju3"
-      },
-      "artists": [
-        {
-          "name": "Jenny Georgiadi",
-          "url": "https://open.spotify.com/artist/7CiW0X8FYCQOhskclPFkxo"
-        },
-        {
-          "name": "Onirama",
-          "url": "https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes"
-        }
-      ],
-      "duration_ms": 174963,
-      "name": "Krypsou",
-      "url": "https://open.spotify.com/track/7kvlJ0hzUxHUvy6XdNn2g3"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/5AM5VVvcwmaYig7VcwEMiH"
-      },
-      "artists": [
-        {
-          "name": "Tania Breazou",
-          "url": "https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r"
-        },
-        {
-          "name": "Mc Daddy",
-          "url": "https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT"
-        }
-      ],
-      "duration_ms": 153548,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/1PE0NfrnbIVcFYSq11BQ6a"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Thimasai?",
-        "url": "https://open.spotify.com/album/5gncvfv5A8TuXjR1xfQ98X"
-      },
-      "artists": [
-        {
-          "name": "Dina",
-          "url": "https://open.spotify.com/artist/4R2DcF9JLwKQSfm87963xV"
-        },
-        {
-          "name": "MUNEYLXRD",
-          "url": "https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB"
-        }
-      ],
-      "duration_ms": 211648,
-      "name": "Thimasai?",
-      "url": "https://open.spotify.com/track/0oAKcc23hgUNfyrJOUOEuQ"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Pos Apo' Do",
-        "url": "https://open.spotify.com/album/4KIssPDXi11SxoJgIe9gGR"
-      },
-      "artists": [
-        {
-          "name": "Angela Dimitriou",
-          "url": "https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256"
-        }
-      ],
-      "duration_ms": 204598,
-      "name": "Pos Apo' Do",
-      "url": "https://open.spotify.com/track/05ClXHoywe6Ikpu22dix8b"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Ta Kormia Kai Ta Machairia",
-        "url": "https://open.spotify.com/album/714o4pOZxBD9KUqZVbR1DM"
-      },
-      "artists": [
-        {
-          "name": "Eleftheria Arvanitaki",
-          "url": "https://open.spotify.com/artist/4wfucl2s2farNOAmxZAVTC"
-        },
-        {
-          "name": "Matoula Zamani",
-          "url": "https://open.spotify.com/artist/7nnEkZXiwEpKY4VAoNmc2f"
-        }
-      ],
-      "duration_ms": 236428,
-      "name": "Ta Kormia Kai Ta Machairia",
-      "url": "https://open.spotify.com/track/3tm4TsdGeS9yDOWG2l8rxq"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Poly Poly Poly",
-        "url": "https://open.spotify.com/album/6Vf66AvMmrcwk8CYRl4Vs8"
-      },
-      "artists": [
-        {
-          "name": "Katerina Stikoudi",
-          "url": "https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Poly Poly Poly",
-      "url": "https://open.spotify.com/track/0J6c1l5fVgViAruCJCAhqc"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Sfaira",
-        "url": "https://open.spotify.com/album/3MKXPvdlODbz0HF02TrUQ9"
-      },
-      "artists": [
-        {
-          "name": "Pavlina Voulgaraki",
-          "url": "https://open.spotify.com/artist/1SjVtPeuTENt3NFHwAmgOK"
-        }
-      ],
-      "duration_ms": 182981,
-      "name": "Sfaira",
-      "url": "https://open.spotify.com/track/4qVB4VeVro9fuI59hAONhs"
-    },
-    {
-      "added_at": "2024-03-05 22:00:00",
-      "album": {
-        "name": "Emena Os To Terma",
-        "url": "https://open.spotify.com/album/40MnAGCcvboGOptWHwaeAL"
-      },
-      "artists": [
-        {
-          "name": "Penny Baltatzi",
-          "url": "https://open.spotify.com/artist/0xP7gTMFElcSoYxVSdqFWz"
-        }
-      ],
-      "duration_ms": 173315,
-      "name": "Emena Os To Terma",
-      "url": "https://open.spotify.com/track/1BgqYuwmDbBSGZEPweaJsh"
+      "duration_ms": 221865,
+      "name": "Pali Kommatia Tha Gino",
+      "url": "https://open.spotify.com/track/54xFKh6FManRTwvvLG8NYy"
     }
   ],
   "unique_name": "EQUAL Greece",

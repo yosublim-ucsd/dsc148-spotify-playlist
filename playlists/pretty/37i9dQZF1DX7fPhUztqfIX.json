@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 124041,
+  "num_followers": 124120,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzEzZDlmNDY5ZjRmYjQ3OGExZWJiZDA1MGViOTRlZjJkODhkYzJm",
+  "snapshot_id": "MCw2MTQ0NmY3MzFlOGY0NzY4NmJhODJjYjNlOTBmOGU4MTU3NTIwY2Nh",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 357404,
+      "name": "Just The Cross",
+      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Nothing To Fear (feat. Audrey Assad)",
         "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
       },
       "artists": [
         {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
         }
       ],
-      "duration_ms": 357404,
-      "name": "Just The Cross",
-      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
+      "duration_ms": 320867,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
-      },
-      "artists": [
-        {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
-        }
-      ],
-      "duration_ms": 320867,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 219942,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 230220,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
+      },
+      "artists": [
+        {
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        }
+      ],
+      "duration_ms": 219942,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Exalt (Worship Version)",
-        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
       },
       "artists": [
         {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
         }
       ],
-      "duration_ms": 292840,
-      "name": "Come Holy Spirit - Worship Version",
-      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+        "name": "Exalt (Worship Version)",
+        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
       },
       "artists": [
         {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+      "duration_ms": 292840,
+      "name": "Come Holy Spirit - Worship Version",
+      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "As For Me & My House (Live)",
-        "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
-      },
-      "artists": [
-        {
-          "name": "Austin & Lindsey Adamec",
-          "url": "https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r"
-        }
-      ],
-      "duration_ms": 321683,
-      "name": "As For Me & My House - Live",
-      "url": "https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Your Name (Live)",
         "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 385294,
       "name": "Your Name - Live",
       "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "As For Me & My House (Live)",
+        "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
+      },
+      "artists": [
+        {
+          "name": "Austin & Lindsey Adamec",
+          "url": "https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r"
+        }
+      ],
+      "duration_ms": 321683,
+      "name": "As For Me & My House - Live",
+      "url": "https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK"
     },
     {
       "added_at": "2021-06-12 04:00:40",

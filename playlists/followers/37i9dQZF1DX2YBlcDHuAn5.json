@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 7094,
+  "2024-04-03": 7100,
   "date_first_scraped": "2023-02-25",
   "description": "De mooiste muziek: Americana | Country",
   "name": "Route Americana",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 259374,
       "name": "Big Grey Boxes",
       "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 193503,
       "name": "Too Much Of A Woman",
       "url": "https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW"

@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Adrian Khalif, Juicy Luicy
 
-447 songs - 1 day 2 hr 59 min
+451 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-06-01 | 2023-09-01 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-23 | 2023-06-02 |
 | [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 | 2023-11-09 |  |
+| [Higher](https://open.spotify.com/track/7GblcjjaTMP0tQeVqXKYVf) | [Ava Grace](https://open.spotify.com/artist/3Ymv3J4SDr2OZmbjIQUgJe) | [Pyramid Game \(Original Television Soundtrack\)](https://open.spotify.com/album/3PfS66JozAn7ooOftxF0A9) | 2:24 | 2024-04-02 |  |
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2023-03-23 | 2023-05-12 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-06-01 | 2023-07-28 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-22 | 2024-03-06 |
@@ -178,6 +179,7 @@
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2023-06-15 | 2023-12-02 |
 | [Just Say Hello](https://open.spotify.com/track/1fflhv9kqRw6rm50KaXcYm) | [Melo\-D](https://open.spotify.com/artist/2i1ftWZdQCfRZExJCmumZL) | [Just Say Hello](https://open.spotify.com/album/06k6PpQ15XGk2MVQuKljyH) | 4:48 | 2023-06-30 | 2023-08-19 |
 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 | 2023-12-01 | 2024-02-02 |
+| [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/track/5HjUxcQKhTYpR44Lhv68Gw) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/album/0ckVPtsAvHRAEe03eZU4Ih) | 2:17 | 2024-04-02 |  |
 | [Kamu Cantik Kamu Baik](https://open.spotify.com/track/4lK7zM6W6QHu9GNdR2BX8i) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Dunia Sempurna](https://open.spotify.com/album/2lMFq1ZxiB2JjwUxdNBrRW) | 4:06 | 2023-03-23 | 2023-04-27 |
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2023-11-09 |  |
 | [Kasar](https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kasar](https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9) | 3:49 | 2023-12-28 | 2024-02-08 |
@@ -232,6 +234,7 @@
 | [Marikit Sa Dilim](https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Marikit Sa Dilim](https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l) | 3:52 | 2024-03-05 |  |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-03-13 |  |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-03-23 | 2023-05-05 |
+| [Memories](https://open.spotify.com/track/7gSu65s8qMNHGHp0mUUdFb) | [Jabing](https://open.spotify.com/artist/2Geo9s1xDu15xCQDYvTjQM) | [Memories](https://open.spotify.com/album/15PmUKgjnaaXapP09lZvBO) | 3:20 | 2024-04-02 |  |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-09-15 | 2023-10-13 |
 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 | 2023-11-09 | 2024-02-29 |
 | [Mengapa](https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Mengapa](https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82) | 4:23 | 2023-11-09 |  |
@@ -383,6 +386,7 @@
 | [Tak Mungkin](https://open.spotify.com/track/4HOlRwnMgTjB9SHo6FC0j1) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp) | [Tak Mungkin](https://open.spotify.com/album/6W72whTj0horCle4i9YxwG) | 4:02 | 2023-08-24 | 2023-09-08 |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-03-23 | 2023-12-02 |
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2023-10-05 | 2024-03-27 |
+| [Takkan Berpaling DariMu](https://open.spotify.com/track/6y7zdBxB5u3d8QihkDaAwj) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Takkan Berpaling DariMu](https://open.spotify.com/album/0cYspqq5WIty9bJUsvWHUP) | 3:58 | 2024-04-02 |  |
 | [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2023-03-23 | 2023-07-22 |
 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 | 2023-10-19 | 2024-03-27 |
 | [Tanpa Rasa Bersalah](https://open.spotify.com/track/1FSEm5Uc8TqFy0UZkMuEMZ) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:38 | 2023-09-29 | 2023-12-03 |

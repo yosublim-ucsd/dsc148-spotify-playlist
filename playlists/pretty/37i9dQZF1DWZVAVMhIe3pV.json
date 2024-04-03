@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 354012,
+  "num_followers": 354051,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ5MmQ1NDAxODBiYmE2ZWRhMGZmY2M4OTMyNTczMGE4NWQzMjdk",
+  "snapshot_id": "MCw1NzYzODI0Y2VjMjEyMGNhMzEwMjE3OGE0NDQ3OTA0ODE2NGIwZjZi",
   "tracks": [
     {
       "added_at": "2024-03-22 20:05:58",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Paralyzer",
-      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 235293,
       "name": "Learn to Fly",
       "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Paralyzer",
+      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
     },
     {
       "added_at": "2024-03-22 20:05:58",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Sleep Now In the Fire",
-      "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 197373,
       "name": "Pass The Nirvana",
       "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Sleep Now In the Fire",
+      "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
     },
     {
       "added_at": "2024-03-22 20:05:58",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Shotgun Blues",
-      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
     },
     {
       "added_at": "2024-03-22 20:05:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215530,
-      "name": "We Didn\u2019t Start The Fire (Bonus Track)",
-      "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 245573,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215530,
+      "name": "We Didn\u2019t Start The Fire (Bonus Track)",
+      "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
     },
     {
       "added_at": "2024-03-22 20:05:58",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 161253,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "Outsider",
         "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 198360,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/5adBpeh1CjHAzlM2i8nYFR"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
     },
     {
       "added_at": "2024-03-22 20:05:58",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-22 20:05:58",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
-    },
-    {
-      "added_at": "2024-03-22 20:05:58",
-      "album": {
         "name": "Phobia (Explicit Version)",
         "url": "https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 216689,
       "name": "Kids In The Dark",
       "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
+    },
+    {
+      "added_at": "2024-03-22 20:05:58",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2024-03-22 20:05:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,848 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,898 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 43 | [Handsome Molly](https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:09 |
 | 44 | [Unicorns](https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Music & Ballads from Ireland](https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl) | 3:36 |
 | 45 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:55 |
-| 46 | [The Man for Galway / The Rambling Pitchfork](https://open.spotify.com/track/07WFpOcyzgSCAJ6LUMK2Cv) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:57 |
+| 46 | [Road to Granard / Gallagher's Frolics / Out on the Ocean](https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:18 |
 | 47 | [Roseville Fair](https://open.spotify.com/track/6Tc4EflXu4AyHPkY9iMuHQ) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU) | 4:16 |
 | 48 | [Dublin in the Rare Old Times](https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 4:24 |
-| 49 | [Road to Granard / Gallagher's Frolics / Out on the Ocean](https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:18 |
+| 49 | [The Man for Galway / The Rambling Pitchfork](https://open.spotify.com/track/07WFpOcyzgSCAJ6LUMK2Cv) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:57 |
 | 50 | [The Month of January](https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:42 |
 
-Snapshot ID: `MCxjOTg0ZjdmYTNlMWQ5NTRhZGUyMjZlMDg1YzRjZjQ5MTkxM2FkZjdl`
+Snapshot ID: `MCxkMmVmYTg2MDA3YmVlNmU3ZTJiZmRiMTk3ZWE2OTM4ZWU4ZTQ3MDFm`

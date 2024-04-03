@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 167800,
       "name": "Discord",
       "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
@@ -13394,6 +13394,24 @@
       "duration_ms": 211999,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2MO6sxfNbVBkGvZRPJCPbe"
+    },
+    {
+      "album": {
+        "name": "Renegade - The 1st Single",
+        "url": "https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6"
+      },
+      "artists": [
+        {
+          "name": "LUCAS",
+          "url": "https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193698,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47"
     },
     {
       "album": {

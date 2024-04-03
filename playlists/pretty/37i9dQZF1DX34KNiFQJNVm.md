@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com Thiaguinho, Beyoncé, L7NNON e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,630 likes - 73 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,799 likes - 73 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 28 | [Amor Fdp](https://open.spotify.com/track/2CMpBGUiDz9kZs7JOik1kp) | [Brendynha](https://open.spotify.com/artist/5RumxX9nNBSz2UYazIdAoc), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Amor Fdp](https://open.spotify.com/album/0Utykt2viVJkJF4nCmictE) | 2:34 |
 | 29 | [Mortal pra trás!](https://open.spotify.com/track/3Hk0otwsBfoQ3kIZcOJCfW) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Mortal pra trás!](https://open.spotify.com/album/0MxPITt7zk0AVwf3iXyLQz) | 2:41 |
 | 30 | [Mercê](https://open.spotify.com/track/01QJqfBkROa08hDO3tWH1x) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Kroos](https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Sjay](https://open.spotify.com/artist/1VHhdyu1SWJqUCe5WwhAJ4) | [Mercê](https://open.spotify.com/album/58T3gk1V7TJBuz3zq8nM9T) | 3:23 |
-| 31 | [Vivendo do Sonho](https://open.spotify.com/track/0ANnABMzWHHdRhzm03G7tq) | [Mc Leh](https://open.spotify.com/artist/4JTs3kffe8YHh5sjlJh3jK), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf) | [Vivendo do Sonho](https://open.spotify.com/album/06Xvcd4JdWdMH1agJ8qF1v) | 2:38 |
+| 31 | [Vivendo do Sonho](https://open.spotify.com/track/0ANnABMzWHHdRhzm03G7tq) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Mc Leh](https://open.spotify.com/artist/4JTs3kffe8YHh5sjlJh3jK), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf) | [Vivendo do Sonho](https://open.spotify.com/album/06Xvcd4JdWdMH1agJ8qF1v) | 2:38 |
 | 32 | [Isso Não Se Faz](https://open.spotify.com/track/19sGHdLfLdD321iYVWbjc9) | [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG), [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [FunVIBES](https://open.spotify.com/album/6XoP3nA1eRTz3C6z0PoFwH) | 3:04 |
 | 33 | [Brota na Minha Base](https://open.spotify.com/track/0B34L6fvBF4MhVaWXaydYs) | [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [De Volta Ao Game](https://open.spotify.com/album/6IaOp7KexxCF8uyKtr6VxD) | 2:50 |
 | 34 | [Hoje Ela Me Quer](https://open.spotify.com/track/4p2raiKq49Np8x5uXg1c5B) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI), [Grupo Zero19](https://open.spotify.com/artist/03D2onNaVCVzTulmMMpxDa), [Love Music](https://open.spotify.com/artist/3p3EROVccD6gHe8yvEzLBt) | [Hoje Ela Me Quer](https://open.spotify.com/album/5WxZx15ejwuF6QxG3XCTHq) | 1:58 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 72 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 |
 | 73 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 |
 
-Snapshot ID: `MCw3OTc4NGNmOWFmMDgxYTI4OTk2ZGFkYTI0MDEyOGRkNDJkYmYwYWM3`
+Snapshot ID: `MCwyNjg4ZjBmMzllODJkMWNjNTFiZjkxNWUzOGE1NGE3NzA3YmFjNmUx`

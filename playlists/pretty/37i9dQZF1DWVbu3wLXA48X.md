@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Ride
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,234 likes - 85 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,237 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 |
 | 85 | [Electric Blue](https://open.spotify.com/track/3vqMSB50nUqjw5dlVKuYlF) | [Tash Wolf](https://open.spotify.com/artist/10EGVgMvnFkNlI3BF2LhV3) | [Electric Blue](https://open.spotify.com/album/0gZrh2whTmhOttHSoHe7Cz) | 2:16 |
 
-Snapshot ID: `MCwxYzJlODdlYTgwMDA4YjkwOGQ4YTljZjdjYzFjMjQ5MzZmMjIyYzRm`
+Snapshot ID: `MCw5MzMzMmQ4MzZhYzExNmRiMmUzM2U1NGFiZmYyMmEyMDA3NDNjOTg2`

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-803 songs - 2 day 4 hr 49 min
+805 songs - 2 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [TRANSIT IN SUMMER](https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [TRANSIT IN SUMMER](https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1) | 4:25 | 2023-05-23 | 2023-08-11 |
 | [TRANSIT IN SUMMER](https://open.spotify.com/track/32vDtAPTKgkLDzeRmwnJNQ) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:30 | 2022-08-16 | 2022-08-24 |
 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 | 2022-10-25 | 2023-07-12 |
-| [Tuxedo Connection \- Dimitri from Paris Edit](https://open.spotify.com/track/3deXs7hdPUPLJIpaZpUU43) | [Hitomi Tohyama](https://open.spotify.com/artist/3qccez9ByXrGuPDQaJiy6o) | [Pretty Penny: Hitomi Tohyama the Best & Rare](https://open.spotify.com/album/42rKFXGDHs2PWY2L9kVaEO) | 4:40 | 2024-03-05 |  |
+| [Tuxedo Connection \- Dimitri from Paris Edit](https://open.spotify.com/track/3deXs7hdPUPLJIpaZpUU43) | [Hitomi Tohyama](https://open.spotify.com/artist/3qccez9ByXrGuPDQaJiy6o) | [Pretty Penny: Hitomi Tohyama the Best & Rare](https://open.spotify.com/album/42rKFXGDHs2PWY2L9kVaEO) | 4:40 | 2024-03-05 | 2024-04-03 |
 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2023-05-02 |  |
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 | 2023-05-13 |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
@@ -558,6 +558,7 @@
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-05-16 |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 | 2024-01-19 |
 | [Yume de Aetara](https://open.spotify.com/track/3NWzlQGyXmsVeGkY7OHFDy) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Yume de Aetara](https://open.spotify.com/album/3FMoztMSsW5rYtyWEPq82q) | 3:31 | 2023-05-16 | 2023-05-31 |
+| [YUMENO TSUZUKI](https://open.spotify.com/track/1iLgBip9901XeDLjnm74Xd) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [YUMENO TSUZUKI](https://open.spotify.com/album/1V7pP6ZOx1v3uDYu8e8Bs5) | 4:16 | 2024-04-02 |  |
 | [YUNAGI TSUSHIN \- 2023 Remix](https://open.spotify.com/track/65BCJwQDPJad1ujeB6o8cz) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [YUNAGI TSUSHIN \(2023 Remix\)](https://open.spotify.com/album/4WJNklO9X7jm0vZD8HxtNg) | 4:39 | 2023-09-19 | 2023-09-28 |
 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 | 2022-08-02 |  |
 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 | 2022-07-27 |  |
@@ -634,6 +635,7 @@
 | [スターダスト](https://open.spotify.com/track/0OzrEXUFsOMbQtoIm39nj6) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [スターダスト](https://open.spotify.com/album/5T45dqv3Icqw1wLx3Ah9YV) | 3:30 | 2024-02-29 |  |
 | [スパンコールの女](https://open.spotify.com/track/1LGqKRFZOEXobQcfk5d2Ue) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:30 | 2024-03-26 |  |
 | [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ \- Single](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2023-01-17 | 2024-03-23 |
+| [スーパー・ジェネレイション](https://open.spotify.com/track/7yizzYHoFDvCfAMmvqezUk) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [スーパー・ジェネレイション](https://open.spotify.com/album/3OpqupY7TONXTFevfEa4nZ) | 5:18 | 2024-04-02 |  |
 | [ズラかれ](https://open.spotify.com/track/2ojNegUZsjmLDC4g4TG3tv) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [City Poop](https://open.spotify.com/album/7tOhv2taU7PYphcUWE5kuO) | 3:04 | 2022-05-24 | 2022-07-28 |
 | [ソーダポップ](https://open.spotify.com/track/7JyF36LuFCh0xDyZEVbuY9) | [トナリノサティ](https://open.spotify.com/artist/6hLQxYUIxrMWCkCUVB0P18) | [ソーダポップ](https://open.spotify.com/album/2ogIHpYUWjpnvzMvjxqOJG) | 2:55 | 2022-07-12 | 2022-07-20 |
 | [ターミナル](https://open.spotify.com/track/1FQzvs6ghpgubJjKdpzglH) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [ターミナル](https://open.spotify.com/album/7n4LWrlV65FkAX8rAqfhfn) | 3:59 | 2022-09-27 | 2022-09-29 |
@@ -737,7 +739,7 @@
 | [戸締り](https://open.spotify.com/track/6XqO5DFqYqfnnfL9v3p2C9) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [戸締り](https://open.spotify.com/album/7bscDKI7Wg6R6WVu5GqxRk) | 2:33 | 2022-08-30 | 2022-09-07 |
 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 | 2022-11-08 | 2023-07-05 |
 | [播磨無呼吸症候群](https://open.spotify.com/track/75nV8OPII60tvnNTIV4kxf) | [ちたへんりー](https://open.spotify.com/artist/6xSuKSmaiLEgoRt2tHeL1R) | [播磨無呼吸症候群](https://open.spotify.com/album/5Z1t3D7IGeYtueUlGQpqsO) | 3:07 | 2022-12-13 | 2022-12-15 |
-| [散る散る満ちる](https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [Just Wanna Sing](https://open.spotify.com/album/293T7KIVbF4NP9V2ajY0a5) | 4:12 | 2023-11-10 |  |
+| [散る散る満ちる](https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [Just Wanna Sing](https://open.spotify.com/album/293T7KIVbF4NP9V2ajY0a5) | 4:12 | 2023-11-10 | 2024-04-03 |
 | [新天翔](https://open.spotify.com/track/7IfDZEJJFoNBZK8cEzq0eW) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [ESCAPE](https://open.spotify.com/album/3rTIONGx0luotULInSH6bE) | 3:57 | 2022-12-13 | 2023-01-11 |
 | [日本ロマンチック街道](https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [日本ロマンチック街道](https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P) | 3:45 | 2022-11-30 | 2022-12-07 |
 | [春](https://open.spotify.com/track/0DIWUR6OVSleuWmPO5Dj2U) | [マダラメスルメ](https://open.spotify.com/artist/0Hv3B7rOi2DQN1lWaEH1JP) | [春](https://open.spotify.com/album/73YxeGPir2kRtW2welidV5) | 4:27 | 2022-06-16 | 2022-06-18 |

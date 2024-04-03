@@ -4,7 +4,7 @@
 
 > Lorde has risen / Charli & Addison are screaming / Ryan x Beyoncé!!!!!
 
-2,690 songs - 6 day 0 hr 51 min
+2,692 songs - 6 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1455,6 +1455,7 @@
 | [lust & found <3](https://open.spotify.com/track/1NCkZxAuym6v0YCn9zEl2A) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [lust & found <3](https://open.spotify.com/album/74S3SQHWz5YWqLVkkS1xNU) | 3:48 | 2023-02-17 | 2023-03-18 |
 | [LUV U A LIL BIT](https://open.spotify.com/track/4rEc2f0jkObR0F45hmmgVM) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [LUV U A LIL BIT](https://open.spotify.com/album/1UcugzrGj09mNMxFurq7fc) | 2:25 | 2021-09-11 | 2021-12-02 |
 | [Mad At Me](https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [Mad At Me](https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt) | 3:38 | 2022-11-04 | 2023-02-15 |
+| [Made your bed](https://open.spotify.com/track/3caqqv8ODxoJXlkTHOttqu) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Made your bed](https://open.spotify.com/album/7wdelmJ9L3KHechBmBl0ey) | 2:54 | 2024-04-02 |  |
 | [MadHappySad](https://open.spotify.com/track/6xy2hBEpnojRUBupAhde7T) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [MadHappySad](https://open.spotify.com/album/6F8vrmq85tq11d980P2YBr) | 2:48 | 2020-05-22 | 2020-08-20 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-03 | 2024-02-10 |
 | [make ur way \[Feat\. 80purppp\]](https://open.spotify.com/track/7hHG2sRkxVCul6bYULETL8) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [make ur way](https://open.spotify.com/album/5Nkw0bkUzHQOWC4qNG5ZW9) | 3:21 | 2022-07-15 | 2022-08-06 |
@@ -1732,6 +1733,7 @@
 | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/track/1P48tbboGkgiE6HPwguSOO) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/album/0oS7wSnaV0S4PUss03i6jF) | 3:32 | 2019-07-30\* | 2019-10-10 |
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-09 | 2022-04-21 |
 | [OPEN LETTER \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [OPEN LETTER \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW) | 4:06 | 2022-10-14 | 2022-11-05 |
+| [Open My Door](https://open.spotify.com/track/1A8QcZJKhUmJwdqzoAahvR) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 2:33 | 2024-04-02 |  |
 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 | 2022-04-15 | 2022-05-28 |
 | [Ordinary](https://open.spotify.com/track/5Xhsf1DLA9j2pVyCbqjkLh) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 2:39 | 2019-07-30\* | 2019-10-26 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-10 | 2022-07-16 |

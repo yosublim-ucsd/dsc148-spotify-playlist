@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134347,
+      "name": "00",
+      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
+    },
+    {
+      "album": {
         "name": "00 Fondazione",
         "url": "https://open.spotify.com/album/2JX980aTTIkSj0sKad3Kxy"
       },
@@ -31724,7 +31742,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 179076,
       "name": "Junkie Spiderman",
       "url": "https://open.spotify.com/track/6hrDcZBqxKnhOJYXvdt7r1"

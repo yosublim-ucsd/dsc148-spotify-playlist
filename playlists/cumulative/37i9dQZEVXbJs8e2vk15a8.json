@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 145239,
       "name": "Accidente",
       "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 162666,
       "name": "Bah\u00eda Catalina",
       "url": "https://open.spotify.com/track/6bhIoEUJal61ihiRcdr1Jq"
@@ -4412,6 +4412,24 @@
       "duration_ms": 159583,
       "name": "Bendito (Soundtrack Baby Bandito: La Serie)",
       "url": "https://open.spotify.com/track/0sX1JCSfCemDJe8qK6CGeL"
+    },
+    {
+      "album": {
+        "name": "BENTLEY (Jeremias Klein, Lucky Brown)",
+        "url": "https://open.spotify.com/album/6DU7FVt21zJRDHhr2ykZqs"
+      },
+      "artists": [
+        {
+          "name": "FiltraWRLD",
+          "url": "https://open.spotify.com/artist/6XW3WFYqK5MF0j0hE0f6zv"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136928,
+      "name": "BENTLEY (Jeremias Klein, Lucky Brown)",
+      "url": "https://open.spotify.com/track/1c97O8VOFP6rcXY59jVcYg"
     },
     {
       "album": {
@@ -6659,6 +6677,28 @@
     },
     {
       "album": {
+        "name": "Coa Xorete",
+        "url": "https://open.spotify.com/album/4kvob3aRi9V0922yqUXZ2B"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130384,
+      "name": "Coa Xorete",
+      "url": "https://open.spotify.com/track/1M8WdBbJ5lRS06RBlINv1G"
+    },
+    {
+      "album": {
         "name": "Querian Perreo?",
         "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
       },
@@ -7148,6 +7188,24 @@
       "duration_ms": 249502,
       "name": "Confortas Pero Da\u00f1as",
       "url": "https://open.spotify.com/track/72PMAMYZYL060JML0S3khc"
+    },
+    {
+      "album": {
+        "name": "Deleted Tape",
+        "url": "https://open.spotify.com/album/2oGL0Z7FADEltW3g2V8q0m"
+      },
+      "artists": [
+        {
+          "name": "Baby J & Young Weapon",
+          "url": "https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/2NChmxbTUH01QhspbVOAnu"
     },
     {
       "album": {
@@ -8338,6 +8396,24 @@
       "duration_ms": 193600,
       "name": "Dejame Solo (Pablo Chile)",
       "url": "https://open.spotify.com/track/1kosY1ulR7Xnn2q1AGJQhV"
+    },
+    {
+      "album": {
+        "name": "Deleted Tape",
+        "url": "https://open.spotify.com/album/2oGL0Z7FADEltW3g2V8q0m"
+      },
+      "artists": [
+        {
+          "name": "Baby J & Young Weapon",
+          "url": "https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Deli Very",
+      "url": "https://open.spotify.com/track/3TXwd2Px2UaXzLsXDW927R"
     },
     {
       "album": {
@@ -10405,6 +10481,24 @@
     },
     {
       "album": {
+        "name": "Ella Me Pide",
+        "url": "https://open.spotify.com/album/26smhau7Vr9irF2NydGL13"
+      },
+      "artists": [
+        {
+          "name": "rikimusic",
+          "url": "https://open.spotify.com/artist/7zBJxdV5shRK2lNBH0beQZ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98181,
+      "name": "Ella Me Pide",
+      "url": "https://open.spotify.com/track/6RJ3Xrbvz6yeqkh4OzWgIo"
+    },
+    {
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -10854,7 +10948,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 134524,
       "name": "ESA NENA REMIX",
       "url": "https://open.spotify.com/track/7Eu9DsHBldOztErSo7erCq"
@@ -12469,6 +12563,24 @@
     },
     {
       "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "album": {
         "name": "From the Start",
         "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
       },
@@ -13750,7 +13862,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 141563,
       "name": "Guaya Guaya...",
       "url": "https://open.spotify.com/track/5SIBKku7Xuw5hGu5VKHVw0"
@@ -18304,7 +18416,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -18670,6 +18782,24 @@
       "duration_ms": 169846,
       "name": "Luna llena",
       "url": "https://open.spotify.com/track/6mnfGyPzbzSe8olYGM44pU"
+    },
+    {
+      "album": {
+        "name": "lunes feriadooOoOO",
+        "url": "https://open.spotify.com/album/3xRz4isWgel5QCPsbcwKs2"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173050,
+      "name": "lunes feriadooOoOO",
+      "url": "https://open.spotify.com/track/11aZ1qn6Qw56fqcTrXAaTQ"
     },
     {
       "album": {
@@ -32650,7 +32780,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
@@ -35838,10 +35968,48 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 168178,
       "name": "VVS Switch",
       "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
+    },
+    {
+      "album": {
+        "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
+        "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555071,
+      "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
+      "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
     },
     {
       "album": {

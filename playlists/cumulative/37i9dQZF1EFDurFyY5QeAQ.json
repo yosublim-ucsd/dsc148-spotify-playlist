@@ -1393,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "Bebe",
+        "url": "https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208362,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/72zJrb5M7iv65yms7x6J7b"
+    },
+    {
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/40Jp5bfHyrSJIBmAsINA3X"
       },
@@ -1404,7 +1426,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 207931,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/57Mnm7uuPh5JhOWNjMFc1e"

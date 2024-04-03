@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 124041,
+  "2024-04-03": 124120,
   "date_first_scraped": "2022-03-01",
   "description": "Emerging sounds in worship from everywhere.",
   "name": "New & Bold",
@@ -249,7 +249,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 321533,
       "name": "Both Sides",
       "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 267467,
       "name": "Lord You Have My Heart (feat. Martin Smith)",
       "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"

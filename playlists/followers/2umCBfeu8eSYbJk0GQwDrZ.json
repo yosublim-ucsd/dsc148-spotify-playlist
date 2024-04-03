@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 28145,
+  "2024-04-03": 28144,
   "date_first_scraped": "2023-11-08",
   "description": "Stay current with the latest indie-alt tracks.",
   "name": "Hipster Radar",
@@ -93,7 +93,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 219275,
       "name": "Age Of Celebrity",
       "url": "https://open.spotify.com/track/68z33dXwfIkGzy22ycCKGS"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 294452,
       "name": "Always on the Run",
       "url": "https://open.spotify.com/track/1bwSqLCZQCwRQ66zrnP23Y"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 188640,
       "name": "Burning In Flames",
       "url": "https://open.spotify.com/track/1Dnqeh7kkDd72y8qFAPuUc"
@@ -712,6 +712,24 @@
     },
     {
       "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf"
+    },
+    {
+      "album": {
         "name": "Capricorn / Gen-X Cops",
         "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
       },
@@ -745,6 +763,24 @@
       "duration_ms": 191164,
       "name": "CD Wallet",
       "url": "https://open.spotify.com/track/5QVKCNVqmFoe5fTvvQZmJS"
+    },
+    {
+      "album": {
+        "name": "Cease",
+        "url": "https://open.spotify.com/album/0RtqA3jzNfsjVh56EYHFM1"
+      },
+      "artists": [
+        {
+          "name": "Sarah and the Sundays",
+          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Cease",
+      "url": "https://open.spotify.com/track/3RfPkfgibToYurCOltsUi9"
     },
     {
       "album": {
@@ -954,6 +990,24 @@
     },
     {
       "album": {
+        "name": "GAMMA",
+        "url": "https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114333,
+      "name": "Digital slaves",
+      "url": "https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT"
+    },
+    {
+      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -1044,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Eckhaus Latta",
+        "url": "https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz"
+      },
+      "artists": [
+        {
+          "name": "Maddie Jay",
+          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "Eckhaus Latta",
+      "url": "https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p"
+    },
+    {
+      "album": {
         "name": "Elevator Hum",
         "url": "https://open.spotify.com/album/6fenEkY5qHSMxWKRpObBrb"
       },
@@ -1091,7 +1163,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 223798,
       "name": "Elvis, I Love You",
       "url": "https://open.spotify.com/track/6hHSVn1e1Yqg9RVDMVACnE"
@@ -1127,7 +1199,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 156942,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7"
@@ -1369,7 +1441,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 227506,
       "name": "Gen-X Cops",
       "url": "https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh"
@@ -1762,6 +1834,28 @@
     },
     {
       "album": {
+        "name": "Hold Me (Diamond Remix)",
+        "url": "https://open.spotify.com/album/4V5cjPkk3Rjf70WlaUisiB"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        },
+        {
+          "name": "Kayla Diamond",
+          "url": "https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168941,
+      "name": "Hold Me - Diamond Remix",
+      "url": "https://open.spotify.com/track/2zoWbqL2v4WPmANqZfTecm"
+    },
+    {
+      "album": {
         "name": "Dweller",
         "url": "https://open.spotify.com/album/7tviOf20Ri2MUssHhwTx2l"
       },
@@ -1857,7 +1951,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 150825,
       "name": "honey, i'm home",
       "url": "https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG"
@@ -2012,6 +2106,24 @@
     },
     {
       "album": {
+        "name": "If I Had To Choose",
+        "url": "https://open.spotify.com/album/1PF9qtK3ClFTWBRo4SxEoo"
+      },
+      "artists": [
+        {
+          "name": "Benja",
+          "url": "https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178911,
+      "name": "If I Had To Choose",
+      "url": "https://open.spotify.com/track/7hBmxRWok1152u2mn4uhGo"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0chl6nunyxbRfdMBNUjmNr"
       },
@@ -2085,10 +2197,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 223231,
       "name": "Is This What Love Is?",
       "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
+    },
+    {
+      "album": {
+        "name": "it'll be alright",
+        "url": "https://open.spotify.com/album/39Kg078Fkl3eaw3bcdRA8a"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253018,
+      "name": "it'll be alright",
+      "url": "https://open.spotify.com/track/1ksfm4onmPLgyRmar3P9ev"
     },
     {
       "album": {
@@ -2344,6 +2474,42 @@
     },
     {
       "album": {
+        "name": "Mary Boone",
+        "url": "https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266026,
+      "name": "Mary Boone",
+      "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
+    },
+    {
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
+    },
+    {
+      "album": {
         "name": "Modern Drugs",
         "url": "https://open.spotify.com/album/3fexL0QakIVLSCChoQ4aSK"
       },
@@ -2539,7 +2705,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 156008,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI"
@@ -2813,10 +2979,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 139428,
       "name": "PAMPLEMOUSSE",
       "url": "https://open.spotify.com/track/2dyVjYAL6dpHuctqx7BRNY"
+    },
+    {
+      "album": {
+        "name": "Panoramic View",
+        "url": "https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "Panoramic View",
+      "url": "https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG"
     },
     {
       "album": {
@@ -2839,6 +3023,24 @@
       "duration_ms": 208702,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4Z8Q1ysqqdTYDr7yyP3ONx"
+    },
+    {
+      "album": {
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188991,
+      "name": "Pasadena",
+      "url": "https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A"
     },
     {
       "album": {
@@ -2932,6 +3134,42 @@
     },
     {
       "album": {
+        "name": "Playing With Fire",
+        "url": "https://open.spotify.com/album/0mlc7vcx7exVVa9QzLLQsO"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236799,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/5cd0OieOl50udY8j8gIXl5"
+    },
+    {
+      "album": {
+        "name": "Good Kid 4",
+        "url": "https://open.spotify.com/album/2rJjlH5YlIBOpqEUHvXorq"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212543,
+      "name": "Premier Inn",
+      "url": "https://open.spotify.com/track/0jM8PK7KkKPOj2Nz7t9Bm3"
+    },
+    {
+      "album": {
         "name": "Radiosoul",
         "url": "https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE"
       },
@@ -2943,7 +3181,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 315327,
       "name": "Radiosoul",
       "url": "https://open.spotify.com/track/6A5qBgLBLWgQCpON8rR420"
@@ -3319,7 +3557,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 179536,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6U5jxvMBwlTFZkN1xjaQJg"
@@ -3561,7 +3799,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 174991,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/16deLfkF1FlmiyXZcHNpWD"
@@ -3623,6 +3861,24 @@
       "duration_ms": 179698,
       "name": "Swallow",
       "url": "https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy"
+    },
+    {
+      "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
     },
     {
       "album": {
@@ -3695,7 +3951,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 149333,
       "name": "TEETH (feat. Diggy Graves)",
       "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
@@ -3735,7 +3991,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 211190,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
@@ -4049,7 +4305,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 211666,
       "name": "Wear You Out",
       "url": "https://open.spotify.com/track/0tGi0kOdc5GlsKBg4b0tkQ"

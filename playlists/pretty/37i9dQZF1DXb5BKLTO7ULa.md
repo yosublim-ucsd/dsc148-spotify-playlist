@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,075 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,103 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 67 | [Give up](https://open.spotify.com/track/5GBqhqHxTUk6T4ekCzzMyE) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Give up](https://open.spotify.com/album/27MmHT83jKeu0XYlJdKvpb) | 3:46 |
 | 68 | [Louise \(feat\. Teitur\)](https://open.spotify.com/track/1ZeVc8ZvZsCzVZ532nr14a) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Louise \(feat\. Teitur\)](https://open.spotify.com/album/5JQlz2FPLZqgm4b0AgxRXS) | 3:29 |
 | 69 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
-| 70 | [Living in a Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living in a Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
+| 70 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
 | 71 | [Canopy](https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB) | 2:31 |
 | 72 | [Rewind](https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Rewind](https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P) | 2:21 |
 | 73 | [Morgen schijnt weer de zon](https://open.spotify.com/track/15nmlSKZhy15VA0x5CfrC4) | [Sieneke](https://open.spotify.com/artist/3AbzwHPIn3CHOZ91SstXk0) | [Morgen schijnt weer de zon](https://open.spotify.com/album/6XQFwnrUJWM4juLjtCx7Iy) | 3:26 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 92 | [Too Slow](https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Too Slow](https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7) | 2:04 |
 | 93 | [Femboy](https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Femboy](https://open.spotify.com/album/1qzm7lB5pNO6ZFPiIRQ3Mp) | 2:59 |
 
-Snapshot ID: `MCwxM2JlMjczMDA3OTM1YWIzN2NlOWFkZTk0MGI0OGFjNjBhN2UxYTI0`
+Snapshot ID: `MCxjMWJmZDk0YjQwMmExN2Y4ZDk0ZDc3ODQ1MWNjMmU1ZGUxZDYyMWY0`

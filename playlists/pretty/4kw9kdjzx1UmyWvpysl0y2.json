@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126644,
+  "num_followers": 126647,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYzNSxiNDRjYWI2OWY5NWNkMjU4YWY3OTNlM2Y4Y2RjNjIwYzcxYWQzMmM1",
+  "snapshot_id": "NDYzOSw2YTliYzBhZmViNzcxMWM1NjdjNWNlZGQwZDQ3NjZhODRkY2I0MjUw",
   "tracks": [
+    {
+      "added_at": "2024-04-02 17:14:02",
+      "album": {
+        "name": "still? (BKAYE Remix)",
+        "url": "https://open.spotify.com/album/1VtTUZn5x5iVubXCNZOgeB"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "still? - BKAYE Remix",
+      "url": "https://open.spotify.com/track/4ieyLj9yjnB41DAapVidGc"
+    },
+    {
+      "added_at": "2024-04-02 17:12:03",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1xyjWXsA94Bj6T1WAhnOUV"
+      },
+      "artists": [
+        {
+          "name": "Angara",
+          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
+        },
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        }
+      ],
+      "duration_ms": 255624,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/07S4ihGvHe1jcWfagHL83s"
+    },
     {
       "added_at": "2024-04-01 16:05:40",
       "album": {
@@ -1131,42 +1171,6 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
-    },
-    {
-      "added_at": "2024-01-11 18:01:02",
-      "album": {
-        "name": "ENEMY",
-        "url": "https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        },
-        {
-          "name": "dabl",
-          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
-        }
-      ],
-      "duration_ms": 196645,
-      "name": "ENEMY",
-      "url": "https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig"
-    },
-    {
-      "added_at": "2024-01-10 14:43:12",
-      "album": {
-        "name": "BOUNCE",
-        "url": "https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9"
-      },
-      "artists": [
-        {
-          "name": "THIRST",
-          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

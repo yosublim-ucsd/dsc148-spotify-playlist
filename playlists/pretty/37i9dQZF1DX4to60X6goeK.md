@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Disrupta
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,905 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,933 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Confliction](https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S) | [CrossBreed](https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL), [MTD](https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Confliction](https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E) | 3:20 |
 | 55 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
 
-Snapshot ID: `MCwwZTJmMTFkMjcxMjQ2Y2JjMDc2Nzc1MGM5MGQ2ZGNlMjg3MjQ0OWE2`
+Snapshot ID: `MCw5Nzg0YjU1YTczMzdhOGZlZTJjODU1ODNlMGU2ZDc3MGY2NmIwN2Q5`

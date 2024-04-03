@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 216389,
       "name": "Acto Final",
       "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 130220,
       "name": "Assaji",
       "url": "https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc"
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 240630,
       "name": "BUTCHER'S BIN",
       "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
@@ -5572,6 +5572,28 @@
       "duration_ms": 164138,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv"
+    },
+    {
+      "album": {
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/5dVDa4Ruk93IdiuiDz6D8w"
     },
     {
       "album": {
@@ -8320,6 +8342,24 @@
       "duration_ms": 201213,
       "name": "Hontowane,",
       "url": "https://open.spotify.com/track/1G5cJCr6WwmiKRGlCbq6WS"
+    },
+    {
+      "album": {
+        "name": "Now Leaving West Feldwood",
+        "url": "https://open.spotify.com/album/7m10seswHmxu6oSrXNvths"
+      },
+      "artists": [
+        {
+          "name": "Ellie Bleach",
+          "url": "https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "Hottest Man Alive 1995",
+      "url": "https://open.spotify.com/track/0LodhNOnEi9nnvYvWgq8M6"
     },
     {
       "album": {
@@ -12656,6 +12696,24 @@
       "duration_ms": 133500,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/5tENmXDE0dCYIT4H0K5a8t"
+    },
+    {
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/4NrKAV8WSg7t6EAHP27hdx"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182786,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/1WITR6MPT2E5QkOwNz9aRm"
     },
     {
       "album": {
@@ -18677,6 +18735,24 @@
     },
     {
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/4yvBDAt1TOrdW0gPYgZJ3T"
+      },
+      "artists": [
+        {
+          "name": "Olivia Nelson",
+          "url": "https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Teenage Kinda Love",
+      "url": "https://open.spotify.com/track/4gXjYIj0CNWCrzjUeHS3k3"
+    },
+    {
+      "album": {
         "name": "Tegen De Klippen Op",
         "url": "https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE"
       },
@@ -19784,7 +19860,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 202541,
       "name": "twentyfour",
       "url": "https://open.spotify.com/track/09xiz53qcvPDl1j2TqzS80"

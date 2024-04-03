@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1245456,
+  "num_followers": 1245918,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGJjZGQ1YWQxYzg5MzdjNzNmZGU2NDIwYWQwMjYzNTA0Mjk5Nzhi",
+  "snapshot_id": "MCxhNTViZDZmNmQ5YzBjMGMwMGUwZjVkY2Q0NGM3OGJmZjkxM2M2YTk0",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Somebody Loan Me A Dime (Remastered)",
-        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 176747,
-      "name": "Somebody Loan Me A Dime - Remastered",
-      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Indianola Mississippi Seeds",
@@ -285,20 +269,20 @@
       "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Love Struck Baby",
-      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
+      "duration_ms": 176747,
+      "name": "Somebody Loan Me A Dime - Remastered",
+      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -315,6 +299,22 @@
       "duration_ms": 167360,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 141933,
+      "name": "Love Struck Baby",
+      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -581,20 +581,20 @@
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2024-03-21 16:46:52",
       "album": {
-        "name": "The Cream Of Clapton",
-        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -629,20 +629,20 @@
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Rockin' With Reed",
-        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+        "name": "The Cream Of Clapton",
+        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
       },
       "artists": [
         {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 143331,
-      "name": "Take Out Some Insurance",
-      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+      "duration_ms": 255600,
+      "name": "Crossroads - Live",
+      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Koko Taylor",
@@ -739,6 +723,22 @@
       "duration_ms": 182826,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "Mojo Hand",
+        "url": "https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Mojo Hand",
+      "url": "https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ"
+    },
+    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Nothing But The Truth",
@@ -903,22 +919,6 @@
     {
       "added_at": "2024-03-21 16:46:52",
       "album": {
-        "name": "Mojo Hand",
-        "url": "https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Mojo Hand",
-      "url": "https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ"
-    },
-    {
-      "added_at": "2024-03-21 16:46:52",
-      "album": {
         "name": "The Earthshaker",
         "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
       },
@@ -933,20 +933,20 @@
       "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2024-03-21 16:46:52",
       "album": {
-        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
-        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 181786,
-      "name": "She's A Sweet One",
-      "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -965,20 +965,20 @@
       "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
+        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 235880,
-      "name": "Blues for Mama",
-      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
+      "duration_ms": 181786,
+      "name": "She's A Sweet One",
+      "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
     },
     {
       "added_at": "2018-03-29 19:44:07",

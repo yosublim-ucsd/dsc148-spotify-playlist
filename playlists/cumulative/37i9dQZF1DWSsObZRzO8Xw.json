@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Caballeros Del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/65bgZZDpNzCqEy2809zw1U"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/2BDSeuEMhUIhnGXBFY0h6n"
+    },
+    {
+      "album": {
         "name": "Abajo la tarea",
         "url": "https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc"
       },
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 112616,
       "name": "x Maria Violenza",
       "url": "https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB"

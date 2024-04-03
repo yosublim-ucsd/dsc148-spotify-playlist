@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 463849,
+  "2024-04-03": 464054,
   "date_first_scraped": "2023-03-30",
   "description": "This is how we do it, This is our style.\nCover: Sidhu Moose Wala",
   "name": "Hip Te Hop",
@@ -2481,6 +2481,24 @@
       "duration_ms": 226022,
       "name": "Slap Up",
       "url": "https://open.spotify.com/track/2jkMN5p1mVqfkCbtuQTcZx"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/2F37zRV0Yl5jGlmMSBtAbp"
+      },
+      "artists": [
+        {
+          "name": "Akbar Brar",
+          "url": "https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139014,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/0tN1d8Yc0BpSWI3EbhBlyS"
     },
     {
       "album": {

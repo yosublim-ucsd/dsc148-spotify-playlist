@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Flau'jae Johnson
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Devin Booker
 
 585 songs - 1 day 5 hr 44 min
 

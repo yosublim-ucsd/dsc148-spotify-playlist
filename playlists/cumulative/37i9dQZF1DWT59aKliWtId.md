@@ -4,7 +4,7 @@
 
 > a high\-quality alternative blend ft\. Mt\. Joy
 
-1,011 songs - 2 day 13 hr 53 min
+1,012 songs - 2 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,7 +725,8 @@
 | [Ribbon Around The Bomb](https://open.spotify.com/track/7voz4y45sbxa5GUB2oTxhP) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/4HUGjZQusuhBn7x0XE7TWY) | 2:34 | 2022-01-28 | 2022-05-20 |
 | [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 | 2023-04-28 | 2023-09-12 |
 | [Ride or Die](https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 3:30 | 2022-03-04 | 2022-04-09 |
-| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-03-08 |  |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-03-08 | 2024-04-03 |
+| [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-03-18 |  |
 | [Road to Joy \- Bright\-Side Mix](https://open.spotify.com/track/0tVwk836mZyKkU9aVbkwRu) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Road to Joy \(Bright\-Side Mix\)](https://open.spotify.com/album/1zGjLjXWklRJBofZpGuTTm) | 5:21 | 2023-07-24 | 2023-08-15 |
 | [Road to Joy \- Dark\-Side Mix](https://open.spotify.com/track/4Z1kj9ZVllnLFThFwiC81z) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Road to Joy \(Dark\-Side Mix\)](https://open.spotify.com/album/44tPe18SnjCJP1C8ETlAQo) | 5:24 | 2023-09-22 | 2024-03-09 |
 | [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 | 2022-07-22 | 2023-04-15 |

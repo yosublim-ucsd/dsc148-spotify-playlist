@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [See you soon](https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [See you soon](https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV) | 3:38 |
 | 50 | [Lose](https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:51 |
 
-Snapshot ID: `MCxjY2M2MmFjMzdkMjA3ODEzY2YxN2M2MTZmM2Q5NTA4MWU0OTBkZDFl`
+Snapshot ID: `MCwxNzZjMWJiMTIzNjZjZjQ4YTY2NGZlZjRiMjE1ZmI3YjA2ZTQwNDkx`

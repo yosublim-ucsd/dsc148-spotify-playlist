@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Gen Neo
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,914 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,950 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Feelings For You](https://open.spotify.com/track/6mWiNbLn42n9owATnMSVau) | [EDDI](https://open.spotify.com/artist/1bRHF6zV7n8uymi2ReMRQG) | [Feelings For You](https://open.spotify.com/album/5WVPOwHNsiXEXtQFigEuaR) | 1:59 |
 | 85 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
 
-Snapshot ID: `MCw2Y2JlNDg0MTlkY2QwYjUyY2YwMTMwMjM4MDcwNTUxNzVlYzc0ZjM3`
+Snapshot ID: `MCxmMGQ1NDNlMmJlMDQzMGVkNmE1NmIwZjRlOTllMjZjMjM1Nzk0NDU5`

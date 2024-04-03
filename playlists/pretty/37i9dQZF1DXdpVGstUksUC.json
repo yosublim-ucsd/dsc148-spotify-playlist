@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539731,
+  "num_followers": 539740,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
+  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
-      },
-      "artists": [
-        {
-          "name": "Bongzilla",
-          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Greenthumb",
-      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 435213,
       "name": "Death's Door",
       "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
+      },
+      "artists": [
+        {
+          "name": "Bongzilla",
+          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Greenthumb",
+      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Elephant Tree",
-        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
-      },
-      "artists": [
-        {
-          "name": "Elephant Tree",
-          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
-        }
-      ],
-      "duration_ms": 367879,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Burning Village",
         "url": "https://open.spotify.com/album/5XEU2cfXUc3WUdo4vyS8mh"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/2oeQxYynk2yTM9xeGx1ifl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Elephant Tree",
+        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
+      },
+      "artists": [
+        {
+          "name": "Elephant Tree",
+          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
+        }
+      ],
+      "duration_ms": 367879,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Capricorn",
-        "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
-      },
-      "artists": [
-        {
-          "name": "Orchid",
-          "url": "https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH"
-        }
-      ],
-      "duration_ms": 433706,
-      "name": "Eyes Behind the Wall",
-      "url": "https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "From the Ages",
         "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 848346,
       "name": "Uluru Rock",
       "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Capricorn",
+        "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH"
+        }
+      ],
+      "duration_ms": 433706,
+      "name": "Eyes Behind the Wall",
+      "url": "https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT"
     },
     {
       "added_at": "2024-02-09 05:00:00",

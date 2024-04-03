@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 199471,
+  "num_followers": 199573,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2FlYTZmMTBkMWNlNWI1MWVmOTUwNzI5NzUwMjZiMWVlZDYyYjUz",
+  "snapshot_id": "MCwwMjNiYmE5YTY3MTMxZDZjODA3MjRlNWY4YmU4ZTRlZThlY2VlZTk2",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -347,18 +347,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Presenting Maurice Williams",
+        "url": "https://open.spotify.com/album/742DgTRTmsBGMGxOcTPLIo"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Maurice Williams",
+          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
+        },
+        {
+          "name": "The Zodiacs",
+          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
         }
       ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+      "duration_ms": 97493,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/12BB5t506Of3s3NPBoKScC"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -379,22 +383,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Presenting Maurice Williams",
-        "url": "https://open.spotify.com/album/742DgTRTmsBGMGxOcTPLIo"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Maurice Williams",
-          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
-        },
-        {
-          "name": "The Zodiacs",
-          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 97493,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/12BB5t506Of3s3NPBoKScC"
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2022-05-30 13:02:24",

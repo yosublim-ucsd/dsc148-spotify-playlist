@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 
 > Listen Heroine's music 24 Hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,705 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,708 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 33 | [Full Moon](https://open.spotify.com/track/3klmHDE1vmBq6FYyPz0QE0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Lena](https://open.spotify.com/artist/6W5bl0j5Wk58tJjVCwPefI) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:22 |
 | 34 | [24 Hours](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [24 Hours](https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw) | 3:21 |
 | 35 | [Burn](https://open.spotify.com/track/7tDtfRpDciNstyvwKzCcyO) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:29 |
-| 36 | [YOU \(feat\. SUNMI\)](https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:21 |
+| 36 | [You \(feat.Sunmi\)](https://open.spotify.com/track/7uc31Hihl77qcFRlMnWUQ8) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SOLO DAY](https://open.spotify.com/album/5kw2bbCEsZtQkCxfRLMiyD) | 3:21 |
 | 37 | [Who am I](https://open.spotify.com/track/2LMo8WtAlG7BOGZt9jC1gt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:52 |
 | 38 | [Time Is Up](https://open.spotify.com/track/6ZxavH9mJlUGYOSCdSplJs) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 4:38 |
 | 39 | [If That Was You](https://open.spotify.com/track/2fQP5ZQmyXTcvjn8Jj6gTf) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:47 |
 
-Snapshot ID: `MCwwZWZiNjA3Yjc3MzZlMmFlNjEyM2ZhZjM3MWNjZDk3ZTljNmQ2Zjcw`
+Snapshot ID: `MCxlMmQ3NTIxNTFmZjJhZDA5NGY5NTdlNWViZDU3ZDNkZGE3ODMxNzY4`

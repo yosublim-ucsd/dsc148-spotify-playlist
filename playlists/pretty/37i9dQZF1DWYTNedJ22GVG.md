@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,344 likes - 72 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,327 likes - 72 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 9 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1JJUsWVriEtXr8lHSQXTIy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:36 |
 | 10 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
 | 11 | [My Favorite Things](https://open.spotify.com/track/3DzYn4QDEQcyLMD1DQTbYw) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 2:49 |
-| 12 | [Run Run Rudolph](https://open.spotify.com/track/2L1AOEtYAiNocaeG8xrAce) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/1L4qCanv9PeHCXgRlYQbeN) | 2:14 |
+| 12 | [Run Run Rudolph](https://open.spotify.com/track/2L1AOEtYAiNocaeG8xrAce) | [JoJo Siwa \(Kids\)](https://open.spotify.com/artist/5lFcoVtVovqYXVHIU4b4Um) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/1L4qCanv9PeHCXgRlYQbeN) | 2:14 |
 | 13 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/43Ny7pWynD5nncoDHpbUPh) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Chipmunks Christmas](https://open.spotify.com/album/2Gf2s2XavIPCpOacM0BSXU) | 2:21 |
 | 14 | [All I Want For Christmas Is My Two Front Teeth](https://open.spotify.com/track/2W6PhqzPHHbppHqe3LbGC0) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Christmas Songs for Kids](https://open.spotify.com/album/1qPzTVWMBb13dtBH1LOaO7) | 1:52 |
 | 15 | [Here Comes Santa Claus](https://open.spotify.com/track/3MzKm4pMJ8gbz9251xxLAU) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Christmas Is Here!](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) | 2:36 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 65 | [Holidays \(feat\. Earth, Wind & Fire\)](https://open.spotify.com/track/0Yeh2VJCsxSgbftSGTiUbN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
 | 66 | [Deck The Halls](https://open.spotify.com/track/3gDdxePgl7W8EbLLgaqrxe) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [The Greatest Bits: B\-Sides & Rarities](https://open.spotify.com/album/1zgFMroSTd9f0lr2qRxgqH) | 1:33 |
 | 67 | [A Marshmallow World](https://open.spotify.com/track/37L7EPenK5SI5ydjF8XWNm) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/2RRdk9dTPqgDdeEWRSflbg) | 2:14 |
-| 68 | [It's Christmas Now!](https://open.spotify.com/track/4cdkwYawbVu9TN6C57D8CE) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/1L4qCanv9PeHCXgRlYQbeN) | 2:40 |
+| 68 | [It's Christmas Now!](https://open.spotify.com/track/4cdkwYawbVu9TN6C57D8CE) | [JoJo Siwa \(Kids\)](https://open.spotify.com/artist/5lFcoVtVovqYXVHIU4b4Um) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/1L4qCanv9PeHCXgRlYQbeN) | 2:40 |
 | 69 | [That's Christmas to Me](https://open.spotify.com/track/2U9kDk5mlHYunC7PvbZ8KX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:02 |
 | 70 | [Carol of the Bells](https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:33 |
 | 71 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 | 72 | [Christmas Is Here](https://open.spotify.com/track/4yAEAiud4ZJ9fgBsx5yGzT) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [Elf Pets: A Fox Cub's Christmas Tale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59acbHHOQxoMVo31NZbIju) | 2:03 |
 
-Snapshot ID: `MCw4ZmVhODZkM2Y1YjEzMDkxMjEyYTBmODQ0YjU3ZDU5MjZkMDc4YzRk`
+Snapshot ID: `MCxkMTBkMmJjMzFlOTM1ZmJlMGE0OTg1OWRiZjVhNTkwNzljZTFlOWQy`

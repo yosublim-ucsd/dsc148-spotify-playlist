@@ -1,13 +1,141 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFFNsuSPMFRwX?si=1050728f1f5d4fd2\">INK</a>",
-  "num_followers": 69526,
+  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFRegGOhYpv3j?si=0ea1f81a3471473c\">Alysa Vanderheym</a>",
+  "num_followers": 69542,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTc4YjU4NTA3ZjgxYTE2YTNjYTdkZWYxMjc5ZmI0NGY5ZmM4YzFl",
+  "snapshot_id": "MCw2NjgzYzZmY2UxMzNkNTIwZjU2YzFiZjVjNmU2NmE1OWY5ZTg5Y2Ex",
   "tracks": [
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Blindsided (Yeah, Sure, Okay)",
+      "url": "https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "Blue Dream Baby",
+        "url": "https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 176427,
+      "name": "Blue Dream Baby",
+      "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "butterfly (feat. Karen Fairchild)",
+        "url": "https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y"
+      },
+      "artists": [
+        {
+          "name": "Emily Weisband",
+          "url": "https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n"
+        },
+        {
+          "name": "Karen Fairchild",
+          "url": "https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca"
+        }
+      ],
+      "duration_ms": 169352,
+      "name": "butterfly (feat. Karen Fairchild)",
+      "url": "https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "Popstar (feat. L\u00e5psley)",
+        "url": "https://open.spotify.com/album/7epnGZBPPyHsA8cP6liUOq"
+      },
+      "artists": [
+        {
+          "name": "Alice Ivy",
+          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 178981,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/3lWdYES9kp95unr6wxJQRb"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "The After Taste",
+        "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 195224,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7zjT5UAKMHs4P3HuZgKB5j"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 181904,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/3nztsVZZnVMTIGOEsgX7oo"
+      },
+      "artists": [
+        {
+          "name": "Bishat",
+          "url": "https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr"
+        },
+        {
+          "name": "GLAMHOUSE",
+          "url": "https://open.spotify.com/artist/33lQfkAm6jLcuWDQcrWnRj"
+        }
+      ],
+      "duration_ms": 210616,
+      "name": "SUGAR (GLAMHOUSE REMIX)",
+      "url": "https://open.spotify.com/track/4y1y5SZuWy9yJMhH0q1xC4"
+    },
     {
       "added_at": "2024-03-01 09:10:17",
       "album": {
@@ -23,22 +151,6 @@
       "duration_ms": 157521,
       "name": "Big Yellow Taxi - Live",
       "url": "https://open.spotify.com/track/6bkL6phWAdD9ll9SG47108"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Backstreets",
-        "url": "https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0"
-      },
-      "artists": [
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 209954,
-      "name": "My Theme Song",
-      "url": "https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ"
     },
     {
       "added_at": "2023-12-06 05:00:00",
@@ -59,6 +171,54 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Backstreets",
+        "url": "https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0"
+      },
+      "artists": [
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 209954,
+      "name": "My Theme Song",
+      "url": "https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 139933,
+      "name": "Interlude (Full Length)",
+      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
     },
     {
       "added_at": "2024-03-01 09:10:17",
@@ -393,6 +553,22 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "Give Me Vogue",
+        "url": "https://open.spotify.com/album/0p0DW65rytEjBbP3UqHahD"
+      },
+      "artists": [
+        {
+          "name": "Dionne",
+          "url": "https://open.spotify.com/artist/4XHiRwvgzQ1bIhZtfdhdNk"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Golden Boy",
+      "url": "https://open.spotify.com/track/7puqViht1t1uMzI17A4UaO"
+    },
+    {
       "added_at": "2024-03-01 09:10:17",
       "album": {
         "name": "happy im",
@@ -491,198 +667,6 @@
       "duration_ms": 191063,
       "name": "Figure of 8",
       "url": "https://open.spotify.com/track/5y6BzS7flAK8m8c9sM23LG"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "RECOVER",
-        "url": "https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        }
-      ],
-      "duration_ms": 161540,
-      "name": "RECOVER",
-      "url": "https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "HOW DARE YOU",
-        "url": "https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 182490,
-      "name": "HOW DARE YOU",
-      "url": "https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 247873,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 145275,
-      "name": "late night thoughts",
-      "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "The Things I Can't Take With Me",
-        "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 74303,
-      "name": "you up?",
-      "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
-    },
-    {
-      "added_at": "2023-11-08 05:00:00",
-      "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 121994,
-      "name": "Deserve",
-      "url": "https://open.spotify.com/track/08UOwr56mqHnQOTF2HThmd"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Mucho Peor - Spotify Singles",
-        "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        },
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
-        },
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        },
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 211791,
-      "name": "Mucho Peor - Spotify Singles",
-      "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "All On Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7"
-      },
-      "artists": [
-        {
-          "name": "Baaba J",
-          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "All On Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 189368,
-      "name": "Wide Open",
-      "url": "https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "How Do You Know",
-        "url": "https://open.spotify.com/album/1XoHk41Co8CNEcqO5oKbEu"
-      },
-      "artists": [
-        {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
-        }
-      ],
-      "duration_ms": 166786,
-      "name": "How Do You Know",
-      "url": "https://open.spotify.com/track/0l47o8tEeaEFffNXTzP8SG"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "It Hurts Too Much To Speak",
-        "url": "https://open.spotify.com/album/09a0hu6IvTewtfmlIbUs3m"
-      },
-      "artists": [
-        {
-          "name": "Lina Cooper",
-          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
-        }
-      ],
-      "duration_ms": 105445,
-      "name": "It Hurts Too Much To Speak",
-      "url": "https://open.spotify.com/track/1UlxaIu70eSC0AjpiCUDdw"
     }
   ],
   "unique_name": "Created by Women",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: planta
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,683 likes - 105 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,694 likes - 105 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 104 | [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 |
 | 105 | [PAHPAHPAH](https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PAHPAHPAH](https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt) | 2:11 |
 
-Snapshot ID: `MCwyM2JlZDAxYzgyNzVmMTA2ZjkwMzE1Nzg2ZTkwZWYyZGVlNWViYmEy`
+Snapshot ID: `MCxlZWE2Yjg0OGUxNzM5MDVlMTMyMDVlYjBmYzI5Y2I0YTNhYTVhYjRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,771 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,962 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Motivashun](https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [No Big Deal](https://open.spotify.com/album/3buVlngArH6e0boFoaH58f) | 3:01 |
 | 100 | [2WORLDS](https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [2WORLDS](https://open.spotify.com/album/0RKIC2QUL8WkDMWWQy3szr) | 2:29 |
 
-Snapshot ID: `MCwyZDFiZDA1Mzk5YWU3ZDQ1ZTU4NTVmOWYzNWQwOTM2OGQ2MjczNTc4`
+Snapshot ID: `MCwzNjk2NDFlNzBlMTVmNzE4OGZjM2I2MWNhNTg4YzFlMTBmMDJjZWMz`

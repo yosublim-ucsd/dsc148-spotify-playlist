@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=\_2MLvxbWQuClr\-c3ohOP5g">Franja Du Plessis</a>
 
-855 songs - 2 day 0 hr 18 min
+856 songs - 2 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Gisteraand](https://open.spotify.com/track/5BXyxGP29VxbOIopmOpdBN) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:24 | 2023-12-29 | 2024-01-06 |
 | [Glo](https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ) | [Jacques Leonard](https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262) | [Glo](https://open.spotify.com/album/50ehh8dDKeB8qjwLboZ2ez) | 3:28 | 2022-09-29 | 2022-10-28 |
 | [Goeie Nuus](https://open.spotify.com/track/2KA56LXANI5yv6gHk9VRzK) | [Augusta Zietsman](https://open.spotify.com/artist/3jZWDJXxKcoeidgkf8N6mO) | [Goeie Nuus](https://open.spotify.com/album/35JwpHE4v1G1gRVgUjVtKG) | 2:15 | 2022-11-17 | 2022-12-09 |
+| [Goeie Ou](https://open.spotify.com/track/0sgnE3y48l0Q9aOlEz3baT) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Goeie Ou](https://open.spotify.com/album/3TyQcxh2WkpeOmUKBeKXkn) | 3:13 | 2024-04-02 |  |
 | [Gogga](https://open.spotify.com/track/58byxA9vGXEwHgmYHVkINT) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Gogga](https://open.spotify.com/album/6NVlAxL1Q918yRq7dJ0ad8) | 3:23 | 2023-08-17 | 2023-10-20 |
 | [Gooi Mielies](https://open.spotify.com/track/5Tub26jRC56EaTXb7mCz3C) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Al Die Ysters](https://open.spotify.com/album/69iTs5usYIqkK6VHgBdh0H) | 3:33 | 2022-12-27 | 2023-01-02 |
 | [Groenlig](https://open.spotify.com/track/02LfA4rOmSeVgk9koPe3y9) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Groenlig](https://open.spotify.com/album/7x5N6Oh2It2xKLGjhq6r7h) | 3:23 | 2023-10-26 | 2023-11-17 |
@@ -819,7 +820,7 @@
 | [Vyeboompiekniek \(13 Jaar\)](https://open.spotify.com/track/3VjMomtTP99WZjxl8kGyap) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Vyeboompiekniek \(13 Jaar\)](https://open.spotify.com/album/3dWt4RQ3fYoeI16mcA2lMD) | 3:43 | 2023-03-23 | 2023-04-07 |
 | [Waar Ek Hoort](https://open.spotify.com/track/7bNLjtZNbbSXN7CaJQWDyA) | [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Waar Ek Hoort](https://open.spotify.com/album/4MXRL9Mo9UNKQAAVzQM5EM) | 3:41 | 2023-07-27 | 2023-08-18 |
 | [Waar Ek My Lippe Neerlê](https://open.spotify.com/track/7LxuMfDZjOK8194vrzKWSM) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Waar Ek My Lippe Neerlê](https://open.spotify.com/album/6ZmvaEeeptTonmEKbPBfuP) | 3:29 | 2023-11-02 | 2024-03-01 |
-| [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-11-23 |  |
+| [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-11-23 | 2024-04-03 |
 | [Waar Is My Maniere?](https://open.spotify.com/track/69BKmIJTufzcPZmnqHTLw7) | [Jacques Not Jack](https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw) | [Waar Is My Maniere?](https://open.spotify.com/album/5PlBa6fwSoqG0qfPNE1TD9) | 3:27 | 2023-07-27 | 2024-01-06 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-12-29 | 2024-01-06 |
 | [Wag Vir Jou](https://open.spotify.com/track/7c9imCnBN4kGmsdaEs1FsQ) | [Natasha van der Merwe](https://open.spotify.com/artist/3x64RnzAoEkLz7sMQIFMvy) | [Wag Vir Jou](https://open.spotify.com/album/5arVky3NiTxvgHNk1ADNUj) | 3:28 | 2023-06-01 | 2023-06-17 |

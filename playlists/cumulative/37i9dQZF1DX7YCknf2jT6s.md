@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Hamilton De Holanda
 
-1,296 songs - 4 day 8 hr 43 min
+1,297 songs - 4 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1133,7 +1133,8 @@
 | [The Truth](https://open.spotify.com/track/1SduusBOhgViSC8RmQaMCl) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [The Truth](https://open.spotify.com/album/6kcHtklp3Sz65XHayO9GKl) | 6:28 | 2023-09-22 | 2023-10-21 |
 | [The Wall](https://open.spotify.com/track/5fNrFBVejCZ9xuefjKgLd1) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x), [Priya Darshini](https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV) | [On Becoming](https://open.spotify.com/album/1LyPkWKNtTSxunTX2a5CuY) | 10:37 | 2023-09-08 | 2024-03-30 |
 | [The Warrior Code](https://open.spotify.com/track/1otrWVcbCxemNnn7eiKW1P) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [I Too Am A Stranger](https://open.spotify.com/album/1wF6WneR7NyifTyXhhPQaP) | 4:04 | 2024-03-08 |  |
-| [The Way You Look Tonight](https://open.spotify.com/track/6OFNBJrLcBm3I4P8uxNnC9) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [At The Movies](https://open.spotify.com/album/1HyfK19QrbUMGmzfop1myr) | 7:25 | 2024-03-01 |  |
+| [The Way You Look Tonight](https://open.spotify.com/track/1hw5O9ujDRCCsqxuVfbiJF) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [At The Movies](https://open.spotify.com/album/2buBjbRAHUe3QMiWbRuHM0) | 7:25 | 2024-03-01 |  |
+| [The Way You Look Tonight](https://open.spotify.com/track/6OFNBJrLcBm3I4P8uxNnC9) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [At The Movies](https://open.spotify.com/album/1HyfK19QrbUMGmzfop1myr) | 7:25 | 2024-03-01 | 2024-04-03 |
 | [The Window](https://open.spotify.com/track/2lJzX1Vn1bEuCRrNUotnup) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [The Window](https://open.spotify.com/album/7CCjUNt1yUBYj87AE4Pzzw) | 4:34 | 2022-04-15 | 2022-05-14 |
 | [The Winds of Change](https://open.spotify.com/track/3xMVR4fiIXwNDNOW31mwIr) | [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [The Winds of Change](https://open.spotify.com/album/1tMOFe4tMSR2aNJxTHkRNv) | 10:32 | 2023-03-17 |  |
 | [The World Is A Ghetto](https://open.spotify.com/track/1zYVfTg8hvHABiAlPchCwV) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Virtual Insanity / The World Is A Ghetto](https://open.spotify.com/album/11fRdDplJEMQlLEpuuWYKD) | 3:59 | 2023-08-25 | 2023-11-11 |

@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 79071,
+  "num_followers": 79097,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzRhNTRhMjg1MjljNGY5MGU1NmZmN2IzMmYzYWFlOGQ1MmI4MjJi",
+  "snapshot_id": "MCw2N2M4NDE0ZDQzN2M5ODJiMmE2N2JmMWJiOTk5ZWRkYTI1YmEyMmJi",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Rede Social (Speed)",
-        "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 154818,
-      "name": "Rede Social - Speed",
-      "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Sou Eu (Speed)",
         "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 125270,
       "name": "Sou Eu - Speed",
       "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Rede Social (Speed)",
+        "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 154818,
+      "name": "Rede Social - Speed",
+      "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Me Deixei Levar",
+        "url": "https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc"
+      },
+      "artists": [
+        {
+          "name": "7Seven",
+          "url": "https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1"
+        }
+      ],
+      "duration_ms": 96082,
+      "name": "Me Deixei Levar - Speed",
+      "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Gorilla Dream, Vol. I",
         "url": "https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 134760,
       "name": "Contatos - Speed Plug",
       "url": "https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Me Deixei Levar",
-        "url": "https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc"
-      },
-      "artists": [
-        {
-          "name": "7Seven",
-          "url": "https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1"
-        }
-      ],
-      "duration_ms": 96082,
-      "name": "Me Deixei Levar - Speed",
-      "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
     },
     {
       "added_at": "2023-12-27 14:18:14",

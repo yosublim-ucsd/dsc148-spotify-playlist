@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 35705,
+  "2024-04-03": 35717,
   "date_first_scraped": "2022-03-28",
   "description": "Top English songs from Asia. Cover: Derek & The Cats, Frizzell D'souza",
   "name": "IndiEnglish",
@@ -3674,6 +3674,24 @@
     },
     {
       "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/6wdJu0Z74v0zKWnf2oUh8E"
+      },
+      "artists": [
+        {
+          "name": "Trance Effect",
+          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/5lSUuHikeDyhMJlWHLfDPi"
+    },
+    {
+      "album": {
         "name": "overtime",
         "url": "https://open.spotify.com/album/0VIx5lKDjAyGNcKL7weifN"
       },
@@ -4963,7 +4981,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 184436,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/6Q8JbAUkZZP0sLhlXkNLhu"

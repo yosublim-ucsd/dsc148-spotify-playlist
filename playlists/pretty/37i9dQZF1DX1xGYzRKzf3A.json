@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 124384,
+  "num_followers": 124615,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWQ3YzUzMWM3ZjIwZDIwZjNmYmEzYWRiYzVmYzZjYmFhMmFjODcw",
+  "snapshot_id": "MCw3NDdiNmExZjU4ZmRlMWNiMzhmZmFhNDBhMmI0NGJhOTE0MzBhZDg3",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -763,26 +763,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Combinacion Vallenata Elite Vol. 5",
-        "url": "https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6"
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
       "artists": [
         {
-          "name": "La Combinaci\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
-        },
-        {
-          "name": "Jr. Santiago",
-          "url": "https://open.spotify.com/artist/4VN2AdbQ4MoBdtix3JbA21"
-        },
-        {
-          "name": "Juli\u00e1n Rojas",
-          "url": "https://open.spotify.com/artist/3TXxyYKiTBCD2kpenWIUCu"
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
         }
       ],
-      "duration_ms": 297360,
-      "name": "Quiero Volar",
-      "url": "https://open.spotify.com/track/4WU4Bliu90KAVOXymgmraL"
+      "duration_ms": 342973,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -803,18 +795,26 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "La Combinacion Vallenata Elite Vol. 5",
+        "url": "https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
+          "name": "Jr. Santiago",
+          "url": "https://open.spotify.com/artist/4VN2AdbQ4MoBdtix3JbA21"
+        },
+        {
+          "name": "Juli\u00e1n Rojas",
+          "url": "https://open.spotify.com/artist/3TXxyYKiTBCD2kpenWIUCu"
         }
       ],
-      "duration_ms": 342973,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+      "duration_ms": 297360,
+      "name": "Quiero Volar",
+      "url": "https://open.spotify.com/track/4WU4Bliu90KAVOXymgmraL"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -851,30 +851,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Combinacion Vallenata",
-        "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
-      },
-      "artists": [
-        {
-          "name": "La Combinaci\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
-        },
-        {
-          "name": "Alex Manga",
-          "url": "https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ"
-        },
-        {
-          "name": "Morre Romero",
-          "url": "https://open.spotify.com/artist/0fSDiwBFm3ePcnzxZgx4zX"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "A Pesar De Todo",
-      "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
@@ -903,6 +879,22 @@
       "duration_ms": 194880,
       "name": "Noreste Caliente",
       "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 280173,
+      "name": "Real\u00edzame mis sue\u00f1os",
+      "url": "https://open.spotify.com/track/5uFmiw2BfcTPmjXyLzkmRk"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -939,18 +931,26 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "M\u00e1s Cerca De Ti",
-        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+        "name": "La Combinacion Vallenata",
+        "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
+          "name": "Alex Manga",
+          "url": "https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ"
+        },
+        {
+          "name": "Morre Romero",
+          "url": "https://open.spotify.com/artist/0fSDiwBFm3ePcnzxZgx4zX"
         }
       ],
-      "duration_ms": 280173,
-      "name": "Real\u00edzame mis sue\u00f1os",
-      "url": "https://open.spotify.com/track/5uFmiw2BfcTPmjXyLzkmRk"
+      "duration_ms": 272533,
+      "name": "A Pesar De Todo",
+      "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Cumbia Embajadora",
-        "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 218337,
-      "name": "Cumbia de Nuevo Le\u00f3n",
-      "url": "https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Kinky (Remastered)",
         "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Cumbia Embajadora",
+        "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 218337,
+      "name": "Cumbia de Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
         }
       ],
-      "duration_ms": 321160,
-      "name": "Ay Hombe",
-      "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
+      "duration_ms": 309655,
+      "name": "Despues Del Adios",
+      "url": "https://open.spotify.com/track/31zIqaMytBKRmFbCK2gnRa"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 309655,
-      "name": "Despues Del Adios",
-      "url": "https://open.spotify.com/track/31zIqaMytBKRmFbCK2gnRa"
+      "duration_ms": 321160,
+      "name": "Ay Hombe",
+      "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "FIESTA EN SAN BENITO",
-        "url": "https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM"
-      },
-      "artists": [
-        {
-          "name": "INSPIRACION COLOMBIANA",
-          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
-        }
-      ],
-      "duration_ms": 264516,
-      "name": "FIESTA EN SAN BENITO",
-      "url": "https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 223236,
       "name": "Regresa",
       "url": "https://open.spotify.com/track/2dGTZcG5a1eHSa1jDs1eYp"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "FIESTA EN SAN BENITO",
+        "url": "https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM"
+      },
+      "artists": [
+        {
+          "name": "INSPIRACION COLOMBIANA",
+          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
+        }
+      ],
+      "duration_ms": 264516,
+      "name": "FIESTA EN SAN BENITO",
+      "url": "https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
-      },
-      "artists": [
-        {
-          "name": "El Kombo Kolombia",
-          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
-        }
-      ],
-      "duration_ms": 375757,
-      "name": "Solo T\u00fa Me Haces Feliz",
-      "url": "https://open.spotify.com/track/5GTNnaqanXfnuBT0NZ2rlf"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Rafael Orozco El \u00cddolo de Siempre",
         "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 216400,
       "name": "Muere una Flor",
       "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
+      },
+      "artists": [
+        {
+          "name": "El Kombo Kolombia",
+          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
+        }
+      ],
+      "duration_ms": 375757,
+      "name": "Solo T\u00fa Me Haces Feliz",
+      "url": "https://open.spotify.com/track/5GTNnaqanXfnuBT0NZ2rlf"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2283,26 +2283,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Como Si Fuera M\u00edo",
-        "url": "https://open.spotify.com/album/19ylEpi8corAcwNTDhOvGd"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
       },
       "artists": [
         {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        },
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        },
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+          "name": "El Kombo Kolombia",
+          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
         }
       ],
-      "duration_ms": 229348,
-      "name": "Como Si Fuera M\u00edo",
-      "url": "https://open.spotify.com/track/6wJkC7Jo8mNTb5gxMUZ66Z"
+      "duration_ms": 185333,
+      "name": "Va Que Va",
+      "url": "https://open.spotify.com/track/3o4cvLJP480RwmfQh135iO"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2323,18 +2315,26 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
+        "name": "Como Si Fuera M\u00edo",
+        "url": "https://open.spotify.com/album/19ylEpi8corAcwNTDhOvGd"
       },
       "artists": [
         {
-          "name": "El Kombo Kolombia",
-          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        },
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Va Que Va",
-      "url": "https://open.spotify.com/track/3o4cvLJP480RwmfQh135iO"
+      "duration_ms": 229348,
+      "name": "Como Si Fuera M\u00edo",
+      "url": "https://open.spotify.com/track/6wJkC7Jo8mNTb5gxMUZ66Z"
     },
     {
       "added_at": "2023-11-08 22:38:29",

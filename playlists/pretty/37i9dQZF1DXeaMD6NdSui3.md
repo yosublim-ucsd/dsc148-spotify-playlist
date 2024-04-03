@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,726 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,775 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 24 | [Life by the Drop](https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw) | 3:05 |
 | 25 | [I Gotta Let You Go \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 3:09 |
 | 26 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
-| 27 | [Pay the Band](https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp) | 4:33 |
-| 28 | [Shake](https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:17 |
+| 27 | [Shake](https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:17 |
+| 28 | [Pay the Band](https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp) | 4:33 |
 | 29 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
 | 30 | [Let The Good Times Roll](https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Things I Used To Do](https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA) | 2:53 |
 | 31 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 43 | [Bluesman for Life \- Remastered](https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF) | [Roy Gaines](https://open.spotify.com/artist/3MGM5t6OR7ZxudoWw53LMr) | [Bluesman for Life](https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh) | 5:10 |
 | 44 | [Sunny Day Friends](https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q) | [Diunna Greenleaf](https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb) | [Trying to Hold On](https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s) | 3:40 |
 | 45 | [Crazy Love](https://open.spotify.com/track/4AYRVOyxKM3meGvpY8nQnA) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk) | 5:41 |
-| 46 | [Part Time Love](https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe) | [Texas Bluesmen](https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1), [Robert Ealey](https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd) | [Texas Bluesmen](https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m) | 6:25 |
-| 47 | [I'm About to Lose My Mind](https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E), [Darrell Nulisch](https://open.spotify.com/artist/5xBekcOlP8jLrvMqpC6MtV) | [Electric Blues](https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI) | 4:59 |
+| 46 | [I'm About to Lose My Mind](https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E), [Darrell Nulisch](https://open.spotify.com/artist/5xBekcOlP8jLrvMqpC6MtV) | [Electric Blues](https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI) | 4:59 |
+| 47 | [Part Time Love](https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe) | [Texas Bluesmen](https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1), [Robert Ealey](https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd) | [Texas Bluesmen](https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m) | 6:25 |
 | 48 | [A Blue Song](https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5) | [Joe "Guitar" Hughes](https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r) | [Texas Guitar Slinger](https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l) | 5:14 |
 | 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MCxmMzdiOTg3NzUyN2FjYjAyYjk3Mjg0ODNmZTJhYzkzZDk4OTI0Njkz`
+Snapshot ID: `MCw1MjI5NmRkMDUzMjE0MDdmNjgzN2NlZTUyMjJmNDIyYmJjYzEzNDY1`

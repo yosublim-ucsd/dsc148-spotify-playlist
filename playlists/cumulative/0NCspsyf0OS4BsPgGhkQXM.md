@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,043 songs - 2 day 6 hr 29 min
+1,044 songs - 2 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Diamond](https://open.spotify.com/track/1qErURHcNx7WWrVUiOrKMs) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [Diamond](https://open.spotify.com/album/0UVd1KUra44FpzWYa3ZIg0) | 3:04 | 2022-01-14 | 2022-09-15 |
 | [Diamond Ring](https://open.spotify.com/track/4UadczGuTz5gWOt6nwGskx) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Diamond Ring](https://open.spotify.com/album/14Qa3VaQUTOkTtWjCmbFrB) | 2:44 | 2022-02-18 | 2022-09-15 |
 | [Different Mood](https://open.spotify.com/track/6qdYk0uDeX2fTOD0TNvzyY) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Bassline](https://open.spotify.com/album/7Jaq1HSRWeweq0YQG2TShv) | 2:23 | 2022-01-14 | 2022-02-17 |
+| [Digita](https://open.spotify.com/track/06CaeQTDHlppW9ObQ2to2g) | [Ephex](https://open.spotify.com/artist/137d6SNcjHO2XxtuXcpPKu) | [Digita](https://open.spotify.com/album/3dM078GQ05Droml2dgYeYV) | 2:47 | 2024-04-02 |  |
 | [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 | 2022-03-22 | 2022-04-19 |
 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-14 | 2022-11-24 |
 | [Distancing](https://open.spotify.com/track/2sRROPunrmFrF8g0MZaZc0) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Distancing](https://open.spotify.com/album/0TEPTW3WXx3BJNRcOl1yPm) | 2:43 | 2022-01-14 | 2022-09-15 |

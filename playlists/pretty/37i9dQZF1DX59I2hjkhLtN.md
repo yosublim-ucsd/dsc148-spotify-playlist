@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 87 | [Freddy & Jason](https://open.spotify.com/track/0eMxs8wLesf3wi2gyMq0pO) | [C2](https://open.spotify.com/artist/4Oxl90pG1fwP0Ws3kX0NIu) | [Freddy & Jason](https://open.spotify.com/album/5U2LOevIQZsqn43WEr3oRY) | 2:26 |
 | 88 | [Out Of Here](https://open.spotify.com/track/5uzQk0LgAtctYKMPtpMiOj) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Out Of Here](https://open.spotify.com/album/395Zg8HN6d8kx9HdbWV019) | 2:34 |
 | 89 | [Namora](https://open.spotify.com/track/1uwXGg0mhXqkt2QsoiXuBK) | [Faro G](https://open.spotify.com/artist/4seDADXKokUxbtWnCczwcK), [prodcerqueira](https://open.spotify.com/artist/0mOhVQ5TtY2dmbjo354qBk) | [Namora](https://open.spotify.com/album/6B3IQPXXEHlzXE7NzQ1png) | 3:27 |
-| 90 | [Banzai](https://open.spotify.com/track/1gDVF5NsjxmfuAkrv9sLI4) | [Karma](https://open.spotify.com/artist/1hCGO7VVNrnfdcfGX3aATO), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [A1onee](https://open.spotify.com/artist/63ULtQsrcXmae3KSSr31st), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Banzai](https://open.spotify.com/album/1GvPtB2fOyxkcnWXmkB3Tb) | 3:05 |
+| 90 | [Banzai](https://open.spotify.com/track/1gDVF5NsjxmfuAkrv9sLI4) | [Karma](https://open.spotify.com/artist/0O5Z4pSF4hBNMCyZwhZGlM), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [A1onee](https://open.spotify.com/artist/63ULtQsrcXmae3KSSr31st), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Banzai](https://open.spotify.com/album/1GvPtB2fOyxkcnWXmkB3Tb) | 3:05 |
 | 91 | [RALPH LAUREN BLUE](https://open.spotify.com/track/540lH0hhSc2MQn1FKNS8Jb) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [RALPH LAUREN BLUE](https://open.spotify.com/album/6N4oQk83JTBNT8BGIK2ozn) | 4:28 |
 | 92 | [FLEX](https://open.spotify.com/track/5gQ2ydTW2kQfFH2vbgOK1r) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/7ucFwRGanISNilfByQyILP) | 2:44 |
 | 93 | [Big Poppa](https://open.spotify.com/track/3OvhDBI0Au2TDDsS02YcoN) | [Nicholas](https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB) | [Big Poppa](https://open.spotify.com/album/6z7xEVu8UPNIUge2gSzdUH) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [TERRA DO NUNCA](https://open.spotify.com/track/1zRfFIkeNhH6UpqAT0r0uK) | [pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [OKAY OKAY](https://open.spotify.com/album/6iefuQOEzgoYh3UHbHpkQN) | 2:13 |
 | 100 | [TOP!AN](https://open.spotify.com/track/7HS2rF70uFwJn9fgM5G8hD) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [TOP!AN](https://open.spotify.com/album/31a9nXSPEAtaU1hTMSO6vg) | 3:41 |
 
-Snapshot ID: `MCwxYTk3Y2MyNmNhY2FjODcyMjQyNjY2MDFkMDgwOGEyN2IyOWM2ZWRj`
+Snapshot ID: `MCxmMGY4ZWExNzIyYmVjMjlkNDVlYjM1ZjMwNDViN2Y1OTQyMjNkYmRi`

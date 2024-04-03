@@ -4877,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "Widows of Normandy",
+        "url": "https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1"
+      },
+      "artists": [
+        {
+          "name": "Rye LaChance",
+          "url": "https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190465,
+      "name": "Widows of Normandy",
+      "url": "https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0"
+    },
+    {
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/1ySXth9CvYhao5POMImYYL"
       },

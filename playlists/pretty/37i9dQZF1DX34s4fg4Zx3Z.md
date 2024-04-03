@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Tuấn Võ
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,283 likes - 98 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,315 likes - 98 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 61 | [Ngôi Nhà Không Màu](https://open.spotify.com/track/5PHTLs1B958iEIiNn0g2nJ) | [Bệt Band](https://open.spotify.com/artist/4uqZAHbX45ygzxhxkRwTwR) | [Ngôi Nhà Không Màu](https://open.spotify.com/album/1ZkT5jyfeFpeGpIRIY2ukv) | 4:20 |
 | 62 | [CHO EM](https://open.spotify.com/track/0Q1m7QIL6inEKvbWlq801c) | [GreenV](https://open.spotify.com/artist/33r1Bn4agNlwUlKuXxDQNQ) | [17,9!](https://open.spotify.com/album/6bvCY9N9TVCrf2rzSpWql5) | 3:43 |
 | 63 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 |
-| 64 | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/track/75RLGVAhsCyv957yxcBk8G) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [Lam](https://open.spotify.com/artist/373W4erBSRBkb9Tk4SxZmn), [Chí](https://open.spotify.com/artist/3HOSB0samNqhF5rHkCvFoe) | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/album/0R0jpLNHXRJPa79EzapdJq) | 2:48 |
+| 64 | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/track/75RLGVAhsCyv957yxcBk8G) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [Lam](https://open.spotify.com/artist/373W4erBSRBkb9Tk4SxZmn), [Chí](https://open.spotify.com/artist/3HOSB0samNqhF5rHkCvFoe) | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/album/0R0jpLNHXRJPa79EzapdJq) | 2:57 |
 | 65 | [Will You Stay](https://open.spotify.com/track/77kskPV6NgAOstt8UHiENg) | [Nhân Ar](https://open.spotify.com/artist/3chfbmks91mS8DMAw1RXXc), [Shawn Santo](https://open.spotify.com/artist/7FxMnuHIsEpG6UOK9N1OC3) | [Will You Stay](https://open.spotify.com/album/0qW4rRPi5qFKHczdYry1Hs) | 2:29 |
 | 66 | [Sau Khi Em Đi](https://open.spotify.com/track/27g20gBKmkCR27goZ8QGz0) | [Phan Yến Nhi](https://open.spotify.com/artist/4GFQ39C6ZEaqEsyGJggcVW) | [Sau Khi Em Đi](https://open.spotify.com/album/2LpJOBL9z4M2eVpfwJ2OKh) | 4:59 |
 | 67 | [Trước Hiên Nhà](https://open.spotify.com/track/7cbXysgGp09gHKKdUdnedW) | [NamKun](https://open.spotify.com/artist/4j8ovS4KtDcGGvVq0dd51G) | [Trước Hiên Nhà](https://open.spotify.com/album/0AqMln9QULVgM9oPIotT7W) | 4:09 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 97 | [Mơ say](https://open.spotify.com/track/1b99WX2iIViQk6YWG2bmrx) | [dNam](https://open.spotify.com/artist/6QDiH6RMjZ0OmMJjoDeB7k) | [26](https://open.spotify.com/album/2CeztEgIXGvj89aZeas0wC) | 2:26 |
 | 98 | [Easy Pretty Luv](https://open.spotify.com/track/6d9cplBoSCSNvwRA51gJMv) | [prettyXIX](https://open.spotify.com/artist/28XrDF0G35BpyybcGaQTzU), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [Easy Pretty Luv](https://open.spotify.com/album/7iEwa14guJYpKkUSAP3bLt) | 3:45 |
 
-Snapshot ID: `MCxmM2E1MjhmN2I5MWEzZTQzNmRjYjgzMzg4NmNiMTQ1MzkyNGYwNGE3`
+Snapshot ID: `MCwyOGUzMjM1OGVmMmQxMTZmOTA0MTNjZTcxZGFiOTI2NWMwNzY5NGRm`

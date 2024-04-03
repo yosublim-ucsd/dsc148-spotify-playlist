@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-195 songs - 16 hr 49 min
+196 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Darn That Dream](https://open.spotify.com/track/2vNIbZxM13wdFtWXYeqQ2F) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Darn That Dream](https://open.spotify.com/album/6lLoo60kZHwZozXSWSYymx) | 7:30 | 2021-12-21 | 2022-07-29 |
 | [Dave](https://open.spotify.com/track/0NHnOig4DwclyoFDqPjCkh) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [Dave](https://open.spotify.com/album/36Oiew8ljfc2W0ZUvLogOC) | 3:43 | 2022-02-10 | 2022-07-29 |
 | [Dave](https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [The Magic of Now](https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y) | 3:43 | 2022-06-30 |  |
-| [Days To Come](https://open.spotify.com/track/36FutgZrDCTw1n7FC3MFgJ) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2) | [Watershed](https://open.spotify.com/album/3bV2jW6xQt5iigggI3cjrl) | 5:19 | 2024-03-08 |  |
+| [Days To Come](https://open.spotify.com/track/36FutgZrDCTw1n7FC3MFgJ) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2) | [Watershed](https://open.spotify.com/album/3bV2jW6xQt5iigggI3cjrl) | 5:19 | 2024-03-08 | 2024-04-03 |
 | [Dear Don](https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4) | [Christophe Marguet](https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ) | [Happy Hours](https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r) | 6:37 | 2021-12-21 |  |
 | [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 | 2022-11-17 |  |
 | [Den Grønbenede Rørhøne](https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL) | [Tobias Stavngaard](https://open.spotify.com/artist/0xE90kt9Ep1DwjmFgYCckA), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Aske Drasbæk](https://open.spotify.com/artist/0Hvho6Koqqy0L3x8W1eQpi), [Carl\-Emil Dons Christensen](https://open.spotify.com/artist/27SjjVrhLG67xZPGl5tnfJ), [William Mannerland](https://open.spotify.com/artist/2W3TmmwZ3G8WwbMUQlI3yB), [Nikolaj Bangsgaard](https://open.spotify.com/artist/4uDLtTKpXFUSlKBjGX7B5i) | [Den Grønbenede Rørhøne](https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV) | 5:54 | 2022-02-24 |  |
@@ -147,6 +147,7 @@
 | [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 |  |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 | 2021-12-21 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 8:02 | 2022-02-10 |  |
+| [Solace](https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp) | [New Fossils](https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm) | [II](https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W) | 2:51 | 2024-03-29 |  |
 | [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 | 2022-02-10 |  |
 | [Sometimes I Cry](https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:22 | 2021-12-21 | 2022-09-15 |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw) | [The Velvet Blues](https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l) | 4:36 | 2021-12-21 |  |

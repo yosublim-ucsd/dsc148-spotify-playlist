@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Chita.
 
-688 songs - 1 day 13 hr 17 min
+689 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-20 | 2023-07-22 |
 | [Mercy](https://open.spotify.com/track/0PPPGxrAwxqiwPVV01TquS) | [June Jissle](https://open.spotify.com/artist/6mM6fIONY6SX76YutA1ue7), [Heyssis](https://open.spotify.com/artist/7olZ1BADnsM8bWzMEL1uQ1) | [888](https://open.spotify.com/album/0hCvcso6vh9KuWSRivWxyf) | 2:00 | 2021-12-02 | 2022-01-25 |
 | [Merengue Pa' Cintura](https://open.spotify.com/track/2uKEXlmNA5udK76QrH5tSe) | [Joel Martínez](https://open.spotify.com/artist/2uBYMzBnnY93Re3yRpJKdq) | [Mirando De Lejos](https://open.spotify.com/album/6KrJSUAjmGrrW4IFW1WOfz) | 5:54 | 2023-09-29 | 2023-10-14 |
-| [Metamorphosis \(with Ambar Lucid\)](https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Observation I: Metamorphosis](https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr) | 3:08 | 2024-02-23 |  |
+| [Metamorphosis \(with Ambar Lucid\)](https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Observation I: Metamorphosis](https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr) | 3:08 | 2024-02-23 | 2024-04-03 |
 | [Meu Amore](https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Meu Amore](https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ) | 3:09 | 2023-11-17 |  |
 | [MI AMOR](https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9) | [Call Me Ace](https://open.spotify.com/artist/4FKGHM8GGbuP6XIAUoNShM), [CHANNA](https://open.spotify.com/artist/0eWYvUXSchDSbrUvvNcPvp), [J\-Dot Music](https://open.spotify.com/artist/5zNLBBmJp8f1OWisLEIqXw) | [RETURN TO OFFICE](https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO) | 3:31 | 2023-02-17 | 2023-03-29 |
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-08-25 | 2024-01-27 |
@@ -517,6 +517,7 @@
 | [qué pasó? ya te olvidaste de mi?](https://open.spotify.com/track/1uOr88IDFYAA3HR20LTBwW) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 1:27 | 2023-12-08 | 2024-01-20 |
 | [Quédate](https://open.spotify.com/track/1rIsbHS2pHFa1mOxJ9xG6k) | [MAR](https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu) | [Quédate](https://open.spotify.com/album/6qLQskkfdMUEO93eC10Pnx) | 2:35 | 2022-12-24 | 2023-01-11 |
 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 | 2023-05-05 | 2023-09-30 |
+| [Radiocaset](https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Radiocaset](https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7) | 3:28 | 2024-03-29 |  |
 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 | 2023-06-02 | 2023-08-26 |
 | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 | 2022-10-28 | 2022-12-31 |
 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 | 2023-08-25 | 2023-09-30 |

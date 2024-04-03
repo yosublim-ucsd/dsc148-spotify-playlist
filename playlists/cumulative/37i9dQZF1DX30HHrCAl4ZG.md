@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Wallows
 
-1,426 songs - 3 day 6 hr 28 min
+1,427 songs - 3 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Bones](https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Bones](https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy) | 4:05 | 2022-05-20 | 2022-06-25 |
 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 | 2022-07-01 | 2022-08-06 |
 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-01-13 | 2023-04-01 |
-| [Bored](https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Bored](https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf) | 2:55 | 2024-02-16 |  |
+| [Bored](https://open.spotify.com/track/0gYo87SYqysIJJ5ZIRYnY3) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 2:55 | 2024-02-16 |  |
+| [Bored](https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Bored](https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf) | 2:55 | 2024-02-16 | 2024-04-03 |
 | [BORED](https://open.spotify.com/track/43K5PfPWowtSeMdcFyWUKv) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [BORED](https://open.spotify.com/album/6M7T7XPZd7HdLqFKDbmmLg) | 2:59 | 2023-03-03 | 2023-03-18 |
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-06-25 | 2022-06-10 |
 | [Bottle Rocket \(feat\. Manchester Orchestra\)](https://open.spotify.com/track/7kMzfcoSuwrjc1LpkTpvYb) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bottle Rocket \(feat\. Manchester Orchestra\)](https://open.spotify.com/album/0uK7uTCOtUvCL3wE4shDdi) | 3:14 | 2021-06-25 | 2022-06-10 |

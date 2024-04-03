@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Reggie Becton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,877 likes - 191 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,927 likes - 191 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 190 | [Only One](https://open.spotify.com/track/205vIudEsOhPEozChgIv03) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [Only One](https://open.spotify.com/album/3PJTM9AZNAMKSpSPx0p6Ne) | 2:49 |
 | 191 | [Safe Word](https://open.spotify.com/track/4i3h8s1fqTDYfSfd86T5It) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Safe Word](https://open.spotify.com/album/5JRVoGHRmvZbcajnXfZTHp) | 2:46 |
 
-Snapshot ID: `MCxiZjA1ZjQ5YTRiYmVjODIzZWEzNDgxNGY4MjgwMTllOTczMjY2NjFm`
+Snapshot ID: `MCxhZjQyNzU5NzkxNDU5ZTIyYjZjNjVmZTQ4NDRhZjNiNTIyNTU3N2M5`

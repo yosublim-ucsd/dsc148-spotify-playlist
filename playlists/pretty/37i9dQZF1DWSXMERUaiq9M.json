@@ -1,12 +1,12 @@
 {
   "description": "love peace techno",
-  "num_followers": 232095,
+  "num_followers": 232278,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY2YWFhM2ZjZTU0NjIyNzMxNzlhMDBmMGI5M2M3MzYwYmQ5Nzcz",
+  "snapshot_id": "MCwxMDI0YjhiZGZjMmUxMTg2ODQxOTYxNjI1NDVjYmQ4YjJjMjBmNWU0",
   "tracks": [
     {
       "added_at": "2024-03-29 09:25:54",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-03-29 09:25:54",
       "album": {
-        "name": "All Of It",
-        "url": "https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        },
-        {
-          "name": "Lucy Dye",
-          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
-        }
-      ],
-      "duration_ms": 331609,
-      "name": "All Of It",
-      "url": "https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S"
-    },
-    {
-      "added_at": "2024-03-29 09:25:54",
-      "album": {
         "name": "Ode To The Bouncer (Hard Techno Edit)",
         "url": "https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 197298,
       "name": "Ode To The Bouncer - Hard Techno Edit",
       "url": "https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA"
+    },
+    {
+      "added_at": "2024-03-29 09:25:54",
+      "album": {
+        "name": "All Of It",
+        "url": "https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        },
+        {
+          "name": "Lucy Dye",
+          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
+        }
+      ],
+      "duration_ms": 331609,
+      "name": "All Of It",
+      "url": "https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S"
     },
     {
       "added_at": "2024-03-29 09:25:54",

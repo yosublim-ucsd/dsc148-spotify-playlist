@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:23xFbA9rYgRX8mreqysWPc">Bossman Dlow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,533 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,743 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 74 | [Summer \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/6YjGyMSXvJqvIsdfu2a2cS) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [The Honeymoon Phase](https://open.spotify.com/album/3Exa5RZu5DJQSCNZPV3YgN) | 2:50 |
 | 75 | [It's TS](https://open.spotify.com/track/2bj7ZnOPZZCgj3vRHDIVEM) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 2:44 |
 
-Snapshot ID: `MCw4MjViODBmMTMzNzg1Mjk3NTEzMDBlZmZkNTczMDU5ZDQ3NjcxMTQy`
+Snapshot ID: `MCw1ZmM0ODQwZGI4ODE5YTc4Y2FlZDczZmExZmJjY2QzMWY5NDRlNDc5`

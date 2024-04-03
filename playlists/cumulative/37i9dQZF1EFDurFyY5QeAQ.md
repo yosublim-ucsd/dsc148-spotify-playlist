@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-99 songs - 5 hr 28 min
+100 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Sabotage](https://open.spotify.com/track/1nil655gJpCzrbqiqC0NLX) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:56 | 2023-12-30 |  |
 | [Sacrifice](https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:40 | 2023-12-30 |  |
 | [Sad](https://open.spotify.com/track/6xRwb6TnpsRIDWPbwktEmD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:05 | 2023-12-30 |  |
-| [Satellite](https://open.spotify.com/track/57Mnm7uuPh5JhOWNjMFc1e) | [Donato Cipriano](https://open.spotify.com/artist/4DOxNvOqA6pgNLBfhtk81s) | [Satellite](https://open.spotify.com/album/40Jp5bfHyrSJIBmAsINA3X) | 3:27 | 2024-02-08 |  |
+| [Satellite](https://open.spotify.com/track/72zJrb5M7iv65yms7x6J7b) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 3:28 | 2024-04-02 |  |
+| [Satellite](https://open.spotify.com/track/57Mnm7uuPh5JhOWNjMFc1e) | [Donato Cipriano](https://open.spotify.com/artist/4DOxNvOqA6pgNLBfhtk81s) | [Satellite](https://open.spotify.com/album/40Jp5bfHyrSJIBmAsINA3X) | 3:27 | 2024-02-08 | 2024-04-03 |
 | [Seasons](https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:23 | 2023-12-30 |  |
 | [Self Control](https://open.spotify.com/track/14FmT2vkYihAs64ixAbk6t) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:54 | 2023-12-30 |  |
 | [Shining Star](https://open.spotify.com/track/1B3o1yfiEDSQ0G5L9TDbhp) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:06 | 2023-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg">Henry Ate</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,242 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,255 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 12 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 13 | [Chelsea Blakemore](https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 3:37 |
 | 14 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
-| 15 | [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 |
-| 16 | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 |
+| 15 | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 |
+| 16 | [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 |
 | 17 | [Shortcuts](https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Shortcuts](https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ) | 2:53 |
 | 18 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 19 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 |
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 28 | [Let's Fall in Love Some More](https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv) | [Al Bairre](https://open.spotify.com/artist/3l3OXBVFtuPwDpQTGtXNjj) | [Experience the Al Bairre Show With Al Bairre Experience](https://open.spotify.com/album/3mH4bT4mKi7nydIqqlrWDP) | 3:18 |
 | 29 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 |
 | 30 | [See You Shine](https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [See You Shine](https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN) | 2:44 |
-| 31 | [Your Company](https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Your Company](https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj) | 3:08 |
+| 31 | [honey\~](https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [honey\~](https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL) | 1:58 |
 | 32 | [Safe As House](https://open.spotify.com/track/5zy8dzGWyT64Fp8A2QSGMc) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Dutch Courage](https://open.spotify.com/album/1ZYFqxbE36mIM4wmvJcJXz) | 3:27 |
-| 33 | [Night Bus](https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Night Bus](https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak) | 2:33 |
-| 34 | [honey\~](https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [honey\~](https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL) | 1:58 |
+| 33 | [Your Company](https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Your Company](https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj) | 3:08 |
+| 34 | [Night Bus](https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Night Bus](https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak) | 2:33 |
 | 35 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 |
 | 36 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 37 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
 | 38 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
 | 39 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
 | 40 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
-| 41 | [Everything Slow](https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ) | [Jackal & the Wind](https://open.spotify.com/artist/12iw4uOEV5d8gogRQ3wMkx) | [Everything Slow](https://open.spotify.com/album/0oc6tm1J1vjE649NRXyjzT) | 3:31 |
-| 42 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
+| 41 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
+| 42 | [Everything Slow](https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ) | [Jackal & the Wind](https://open.spotify.com/artist/12iw4uOEV5d8gogRQ3wMkx) | [Everything Slow](https://open.spotify.com/album/0oc6tm1J1vjE649NRXyjzT) | 3:31 |
 | 43 | [Let Go](https://open.spotify.com/track/6qEgpYeOqfauh3lti9cnMz) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Let Go](https://open.spotify.com/album/6IzKi4MFCpKnXbJtka7uy8) | 3:12 |
 | 44 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 |
 | 45 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Sydney's Eyes](https://open.spotify.com/track/1IrcJEIzztLjlnY8QKWUGM) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [Hard to Bleed a Winter](https://open.spotify.com/album/1LEffN4WIGVnFiFgvLkdCv) | 2:47 |
 | 50 | [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 |
 
-Snapshot ID: `MCxlYTMyOWFhMTMyNzdjYjI5YzNkM2VjMWMyOTQyMTYwOGYxMmRjNTQ4`
+Snapshot ID: `MCwwMjJiZmU2OWNlZjI3MzIxNjFlZjg5YWIwNzBjNWM5NjU4ZDkwNDRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: mary in the junkyard
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,452 likes - 101 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,499 likes - 101 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 100 | [Wind Up Merchant](https://open.spotify.com/track/4Op4RqAgY4FE1GotwYLw4x) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Wind Up Merchant](https://open.spotify.com/album/0UHMSyyN0zZVcq7HBbXIsp) | 2:35 |
 | 101 | [High School Boyfriend](https://open.spotify.com/track/0QpkSDt5K2P0clLIrUb09Q) | [Mandy](https://open.spotify.com/artist/1AQ1mXYDvS1dwO5EZjY5LH) | [High School Boyfriend](https://open.spotify.com/album/0p7YcZemCUsH2RkcenvnSw) | 2:08 |
 
-Snapshot ID: `MCw1YzUyM2M5NzYxMmY2NjI1YjZjZjNmZWEzMjkzYzUzNTI3ZTJhOGZh`
+Snapshot ID: `MCw2MDY0NTAyM2Y0MWI5Yjc4NDQyMzllYWVhZmM0MDZjMDNjOGU3Y2Mw`

@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 309893,
       "name": "My Policeman - From the Amazon Original Motion Picture Soundtrack \"My Policeman\"",
       "url": "https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 132013,
       "name": "Nothing To Stop Us",
       "url": "https://open.spotify.com/track/6OBrG19AuVOmrFonog79re"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 82746,
       "name": "Redwoods",
       "url": "https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt"
@@ -1312,10 +1312,32 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 223453,
       "name": "This Is My Home",
       "url": "https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        },
+        {
+          "name": "David Attenborough",
+          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "This Is My Witness Statement",
+      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
     },
     {
       "album": {
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 159106,
       "name": "Wardaddy",
       "url": "https://open.spotify.com/track/14CNBU26Ob6ZtW8YL11alR"

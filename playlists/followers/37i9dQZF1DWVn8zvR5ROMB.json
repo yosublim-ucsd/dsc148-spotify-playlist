@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 255633,
+  "2024-04-03": 255834,
   "date_first_scraped": "2022-01-02",
   "description": "All of the newest country music releases in one playlist! Featuring Dylan Scott, Beyonc\u00e9, Josh Ross and more. ",
   "name": "New Music Friday Country",
@@ -53157,6 +53157,24 @@
       "duration_ms": 201999,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6IaU01HjdIQimBmOdAjdcf"
+    },
+    {
+      "album": {
+        "name": "It's You That Makes Me",
+        "url": "https://open.spotify.com/album/5ZLzfIqsqLmAhH4uCn7awm"
+      },
+      "artists": [
+        {
+          "name": "Bobby Watson",
+          "url": "https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228780,
+      "name": "It's You That Makes Me",
+      "url": "https://open.spotify.com/track/0UAZaFGXWqUq6sDfb9nNtb"
     },
     {
       "album": {

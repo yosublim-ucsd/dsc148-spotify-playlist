@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 262241,
+  "num_followers": 262357,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGY1ODQ0YmI3N2MyMjQyN2YwNzgxZDE0ZTk2ZDY1MDQ3ZTNhMTE4",
+  "snapshot_id": "MCw3OTY3Njc3MmM5NWE0Yzc3MjEzYzNiMGJkMmQwMWYyNzlkYzc5MDc1",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -831,8 +831,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vive Tu D\u00eda",
-        "url": "https://open.spotify.com/album/6fHvKK6aA0ucqGEoK3glz2"
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
         }
       ],
-      "duration_ms": 255626,
-      "name": "Ponle Nombre a Tu Milagro",
-      "url": "https://open.spotify.com/track/6vv7lMrDejc9E3EW5EfA9R"
+      "duration_ms": 228127,
+      "name": "Lo mejor de m\u00ed",
+      "url": "https://open.spotify.com/track/4oFGRSbsUBmnhd4ADomFmc"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -963,8 +963,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Inquebrantable",
-        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
+        "name": "Vive Tu D\u00eda",
+        "url": "https://open.spotify.com/album/6fHvKK6aA0ucqGEoK3glz2"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
         }
       ],
-      "duration_ms": 228127,
-      "name": "Lo mejor de m\u00ed",
-      "url": "https://open.spotify.com/track/4oFGRSbsUBmnhd4ADomFmc"
+      "duration_ms": 255626,
+      "name": "Ponle Nombre a Tu Milagro",
+      "url": "https://open.spotify.com/track/6vv7lMrDejc9E3EW5EfA9R"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "M\u00e1s Que Suficiente",
-        "url": "https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm"
+        "name": "De Vuelta al Jardin",
+        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
       },
       "artists": [
         {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        },
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 352228,
-      "name": "Siempre M\u00e1s",
-      "url": "https://open.spotify.com/track/2x4DbDfgF8WRrbKC1ieyCk"
+      "duration_ms": 299600,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1123,6 +1119,26 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "M\u00e1s Que Suficiente",
+        "url": "https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "duration_ms": 352228,
+      "name": "Siempre M\u00e1s",
+      "url": "https://open.spotify.com/track/2x4DbDfgF8WRrbKC1ieyCk"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Vivir\u00e9",
         "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 325128,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "De Vuelta al Jardin",
-        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 299600,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Amor Favor Gracia",
-        "url": "https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 258813,
-      "name": "Nadie Me Dijo",
-      "url": "https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Eres Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 300460,
-      "name": "El es mi amigo fiel",
-      "url": "https://open.spotify.com/track/1kGHibUdAJTVn0X3RpdC8E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
@@ -1303,6 +1271,22 @@
       "duration_ms": 445906,
       "name": "Que Se Abra el Cielo",
       "url": "https://open.spotify.com/track/795ipT8LPC3Zlbro5Umykx"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Eres Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 300460,
+      "name": "El es mi amigo fiel",
+      "url": "https://open.spotify.com/track/1kGHibUdAJTVn0X3RpdC8E"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1343,34 +1327,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Faltan 5 para las 12 Lleg\u00f3 Jes\u00fas",
-        "url": "https://open.spotify.com/album/5MLX6HrfCE83H3uZQLhnT5"
+        "name": "Amor Favor Gracia",
+        "url": "https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS"
       },
       "artists": [
         {
-          "name": "Samuel Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 305173,
-      "name": "Faltan 5 para las Doce Llego Jes\u00fas",
-      "url": "https://open.spotify.com/track/05gbMX505TQR6U1SGwMYku"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Lo Mejor De Gadiel Espinoza",
-        "url": "https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k"
-      },
-      "artists": [
-        {
-          "name": "Gadiel Espinoza",
-          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
-        }
-      ],
-      "duration_ms": 360826,
-      "name": "Asi Se\u00f1or",
-      "url": "https://open.spotify.com/track/5BfuA0EhIYYg4sjxyVYAOD"
+      "duration_ms": 258813,
+      "name": "Nadie Me Dijo",
+      "url": "https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1391,18 +1359,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Recopilaci\u00f3n",
-        "url": "https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl"
+        "name": "Faltan 5 para las 12 Lleg\u00f3 Jes\u00fas",
+        "url": "https://open.spotify.com/album/5MLX6HrfCE83H3uZQLhnT5"
       },
       "artists": [
         {
-          "name": "Luigi Castro",
-          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
+          "name": "Samuel Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
         }
       ],
-      "duration_ms": 392438,
-      "name": "Atr\u00e1eme a Ti",
-      "url": "https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj"
+      "duration_ms": 305173,
+      "name": "Faltan 5 para las Doce Llego Jes\u00fas",
+      "url": "https://open.spotify.com/track/05gbMX505TQR6U1SGwMYku"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1419,6 +1387,38 @@
       "duration_ms": 260295,
       "name": "El No Pereci\u00f3",
       "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Lo Mejor De Gadiel Espinoza",
+        "url": "https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k"
+      },
+      "artists": [
+        {
+          "name": "Gadiel Espinoza",
+          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
+        }
+      ],
+      "duration_ms": 360826,
+      "name": "Asi Se\u00f1or",
+      "url": "https://open.spotify.com/track/5BfuA0EhIYYg4sjxyVYAOD"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Recopilaci\u00f3n",
+        "url": "https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl"
+      },
+      "artists": [
+        {
+          "name": "Luigi Castro",
+          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
+        }
+      ],
+      "duration_ms": 392438,
+      "name": "Atr\u00e1eme a Ti",
+      "url": "https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Padre Nuestro",
-        "url": "https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 371013,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Se Abren Los Cielos ( Pistas)",
         "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 276706,
       "name": "Haz Llover",
       "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Padre Nuestro",
+        "url": "https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 371013,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Anhelo Conocerte",
-        "url": "https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu"
-      },
-      "artists": [
-        {
-          "name": "Luigi Castro",
-          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
-        }
-      ],
-      "duration_ms": 397760,
-      "name": "Anciano de D\u00edas - Live",
-      "url": "https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Tu Voluntad",
         "url": "https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 387450,
       "name": "Tu Voluntad",
       "url": "https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Anhelo Conocerte",
+        "url": "https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu"
+      },
+      "artists": [
+        {
+          "name": "Luigi Castro",
+          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
+        }
+      ],
+      "duration_ms": 397760,
+      "name": "Anciano de D\u00edas - Live",
+      "url": "https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu"
     },
     {
       "added_at": "2020-11-24 13:23:38",

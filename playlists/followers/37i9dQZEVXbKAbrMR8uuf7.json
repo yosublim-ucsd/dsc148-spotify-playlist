@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 153326,
+  "2024-04-03": 153334,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -18401,7 +18401,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 210000,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4PBdIae0zykvqRJtrTQa8f"
@@ -21817,6 +21817,24 @@
       "duration_ms": 176400,
       "name": "Sauce Boy Freestyle 5",
       "url": "https://open.spotify.com/track/7wNYNg155cUgjiWHsIWdmj"
+    },
+    {
+      "album": {
+        "name": "Ba\u00fa 12 Anos, Ep 1",
+        "url": "https://open.spotify.com/album/4e8UMe01WbpqZTZJkFyKb3"
+      },
+      "artists": [
+        {
+          "name": "Bonde do Brasil",
+          "url": "https://open.spotify.com/artist/2j1yuQ4WNWTbd9bXafU5ix"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167439,
+      "name": "Saudadezinha D\u00f3i",
+      "url": "https://open.spotify.com/track/6jFgQ2KITuVVNCXJLbm213"
     },
     {
       "album": {

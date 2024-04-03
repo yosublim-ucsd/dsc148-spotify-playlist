@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,393 songs - 2 day 23 hr 44 min
+1,394 songs - 2 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-01 |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2022-06-06 | 2022-07-17 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-07-14 | 2023-04-25 |
+| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-02 |  |
 | [Benz](https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:04 | 2023-02-04 | 2023-10-15 |
 | [BeReal](https://open.spotify.com/track/7pk3VbwbWLVcF2ah3FDl9i) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [FLEX SYMBOL](https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I) | 2:10 | 2023-12-26 | 2024-01-01 |
 | [Berlín](https://open.spotify.com/track/1mDgpMsz6fDE7DDZIV9kW3) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:42 | 2023-02-04 | 2023-10-15 |
@@ -1283,7 +1284,7 @@
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-23 |
 | [Vitamin L](https://open.spotify.com/track/6oRpdTm0ja5d9q3EKHuRBt) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Secret Eyes](https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ) | 3:06 | 2023-04-29 | 2023-05-06 |
 | [Vitej](https://open.spotify.com/track/7EaJ7n3cuFmjtq2nLkRVrQ) | [Vadak](https://open.spotify.com/artist/40QCR893a1Qyi8VkmouPU3) | [Vitej](https://open.spotify.com/album/7tJAal486BXKlzJzeUGtIm) | 2:20 | 2023-09-22 | 2024-01-27 |
-| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-03-03 |  |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-03-03 | 2024-04-03 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-10-03 |  |
 | [Volám](https://open.spotify.com/track/2ATUtQqCFCiSStfckkPSpm) | [Mirai](https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle) | [Maneki Neko](https://open.spotify.com/album/14097cT0BJDT8GVihXbQJA) | 3:22 | 2021-11-14 | 2021-11-28 |
 | [Volám](https://open.spotify.com/track/6DllJO8HI4mWLnn152F16d) | [Mirai](https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle) | [Volám](https://open.spotify.com/album/0piFZvQSFX6fI4W7dPdCI8) | 3:22 | 2021-06-13 | 2021-11-12 |

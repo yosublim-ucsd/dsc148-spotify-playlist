@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MzI4OTUsMDAwMDAwMDA5MTVkMzYwNjM5ZDJjOWE1MTY0MGE0NzBkOGUxMzMzMg==",
+  "snapshot_id": "Mjg1MzQzNTAsMDAwMDAwMDAzYzkwNzJiMWI5YThlZTY0MWZkN2FlMTczM2Q0ZGE4NQ==",
   "tracks": [
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Our Own World",
         "url": "https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Out of the Sky",
         "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1W56wikhxCRixXU1g7vww5"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Where Strangers Go",
         "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
@@ -57,135 +57,7 @@
       "url": "https://open.spotify.com/track/3cyYngjvyJZDIDhCWTzKGp"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "Our Own World",
-        "url": "https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 239872,
-      "name": "On Your Road",
-      "url": "https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "Out of the Sky",
-        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 161284,
-      "name": "Euclid",
-      "url": "https://open.spotify.com/track/19l8TA5uRWQKdVbu7HY9lB"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "Where Strangers Go",
-        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 264133,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 234073,
-      "name": "Highway Lights",
-      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "Demo",
-        "url": "https://open.spotify.com/album/3aGJ5ADvwX6exbJhQx5NZq"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/030sfzvPCe6KI66BibpAZo"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "Out of the Sky",
-        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Soul Jar",
-      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "Where Strangers Go",
-        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Window Shade",
-      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "If You Were There",
         "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
@@ -201,10 +73,10 @@
       "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
-        "name": "High Horse",
-        "url": "https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh"
+        "name": "Our Own World",
+        "url": "https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh"
       },
       "artists": [
         {
@@ -212,12 +84,12 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 211812,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/6RMgjx8n8USSkiXjt0Mzfr"
+      "duration_ms": 239872,
+      "name": "On Your Road",
+      "url": "https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Out of the Sky",
         "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
@@ -228,12 +100,12 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 175614,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
+      "duration_ms": 161284,
+      "name": "Euclid",
+      "url": "https://open.spotify.com/track/19l8TA5uRWQKdVbu7HY9lB"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Where Strangers Go",
         "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
@@ -244,12 +116,28 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Taste the Floor",
-      "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
+      "duration_ms": 264133,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
+      "album": {
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 281319,
+      "name": "Swim in Time",
+      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
+    },
+    {
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/3aGJ5ADvwX6exbJhQx5NZq"
@@ -265,7 +153,119 @@
       "url": "https://open.spotify.com/track/49J2SQ55U0KM24UrVh78Ia"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
+      "album": {
+        "name": "Out of the Sky",
+        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Soul Jar",
+      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
+    },
+    {
+      "added_at": "2024-04-02 12:30:55",
+      "album": {
+        "name": "Where Strangers Go",
+        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Window Shade",
+      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
+    },
+    {
+      "added_at": "2024-04-02 12:30:55",
+      "album": {
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 234073,
+      "name": "Highway Lights",
+      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
+    },
+    {
+      "added_at": "2024-04-02 12:30:55",
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/3aGJ5ADvwX6exbJhQx5NZq"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/030sfzvPCe6KI66BibpAZo"
+    },
+    {
+      "added_at": "2024-04-02 12:30:55",
+      "album": {
+        "name": "Out of the Sky",
+        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 175614,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
+    },
+    {
+      "added_at": "2024-04-02 12:30:55",
+      "album": {
+        "name": "Where Strangers Go",
+        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Taste the Floor",
+      "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
+    },
+    {
+      "added_at": "2024-04-02 12:30:55",
+      "album": {
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/6RMgjx8n8USSkiXjt0Mzfr"
+    },
+    {
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "What You Would Hear",
         "url": "https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Out of the Sky",
         "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
@@ -292,12 +292,12 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+      "duration_ms": 190590,
+      "name": "Etna",
+      "url": "https://open.spotify.com/track/0Ig02JjhBj2uVme94fGVDY"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Where Strangers Go",
         "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
     },
     {
-      "added_at": "2024-04-01 12:15:05",
-      "album": {
-        "name": "Occult Box (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 320320,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
-    },
-    {
-      "added_at": "2024-04-01 12:15:05",
+      "added_at": "2024-04-02 12:30:55",
       "album": {
         "name": "Out of the Sky",
         "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
@@ -340,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 190590,
-      "name": "Etna",
-      "url": "https://open.spotify.com/track/0Ig02JjhBj2uVme94fGVDY"
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     }
   ],
   "unique_name": "This Is Salt Creek",

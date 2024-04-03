@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 875700,
+  "2024-04-03": 877337,
   "date_first_scraped": "2022-08-23",
   "description": "no-clip out of reality",
   "name": "liminal",
@@ -3327,6 +3327,24 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+    },
+    {
+      "album": {
+        "name": "Not Songs",
+        "url": "https://open.spotify.com/album/5ucsbLLlsgfWOrCHl8uCiO"
+      },
+      "artists": [
+        {
+          "name": "Other Nothing",
+          "url": "https://open.spotify.com/artist/4DXOz58gkpdeCcsW4Xjxgd"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93000,
+      "name": "Ww",
+      "url": "https://open.spotify.com/track/5PHSyGMwRTpB2iP6pYjoWV"
     },
     {
       "album": {

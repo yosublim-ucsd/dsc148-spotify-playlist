@@ -1,32 +1,32 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: AKDO x Lvbel C5 ",
-  "num_followers": 1340686,
+  "num_followers": 1341079,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YThiZjQxNjZlZDJhNmJkMDExMTYxMGRhMjY0NTIzNTY0NGU5MmVl",
+  "snapshot_id": "MCw4ZWQ0ZDRhODAyMzI2MTczOGZkZTU3MjcxYjY2YmNlMjFiMTJkYjVk",
   "tracks": [
     {
       "added_at": "2024-03-28 21:07:50",
       "album": {
-        "name": "\u00c7evir Tavuklar\u0131",
-        "url": "https://open.spotify.com/album/4tYo3XSPJn7tFCWHMXYYmZ"
+        "name": "SUBMARINER",
+        "url": "https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7"
       },
       "artists": [
         {
-          "name": "Lil Zey",
-          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
         },
         {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
         }
       ],
-      "duration_ms": 204149,
-      "name": "\u00c7evir Tavuklar\u0131",
-      "url": "https://open.spotify.com/track/1AWDAK1mwVI2hJltDDj71m"
+      "duration_ms": 123989,
+      "name": "SUBMARINER",
+      "url": "https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I"
     },
     {
       "added_at": "2024-03-28 21:07:50",
@@ -47,22 +47,18 @@
     {
       "added_at": "2024-03-28 21:07:50",
       "album": {
-        "name": "SUBMARINER",
-        "url": "https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7"
+        "name": "pVg",
+        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
       },
       "artists": [
         {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        },
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
         }
       ],
-      "duration_ms": 123989,
-      "name": "SUBMARINER",
-      "url": "https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I"
+      "duration_ms": 243779,
+      "name": "pVg",
+      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
     },
     {
       "added_at": "2024-03-28 21:07:50",
@@ -91,18 +87,22 @@
     {
       "added_at": "2024-03-28 21:07:50",
       "album": {
-        "name": "pVg",
-        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
+        "name": "\u00c7evir Tavuklar\u0131",
+        "url": "https://open.spotify.com/album/4tYo3XSPJn7tFCWHMXYYmZ"
       },
       "artists": [
         {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 243779,
-      "name": "pVg",
-      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
+      "duration_ms": 204149,
+      "name": "\u00c7evir Tavuklar\u0131",
+      "url": "https://open.spotify.com/track/1AWDAK1mwVI2hJltDDj71m"
     },
     {
       "added_at": "2024-03-28 21:07:50",
@@ -152,12 +152,12 @@
       },
       "artists": [
         {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        },
-        {
           "name": "Decrat",
           "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        },
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
         }
       ],
       "duration_ms": 154105,

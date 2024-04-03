@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Waxahatchee
 
-632 songs - 1 day 15 hr 6 min
+633 songs - 1 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [RHODODENDRON](https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [RHODODENDRON](https://open.spotify.com/album/0jd1zjfrmUwnYgKaHU0WSp) | 3:34 | 2021-12-17 | 2022-07-29 |
 | [Rich Little Girls](https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Rich Little Girls](https://open.spotify.com/album/4TQGtYIgVUC53l3cvyaOeg) | 2:59 | 2022-11-18 | 2023-02-04 |
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-18 |  |
-| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-02-16 |  |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-02-16 | 2024-04-03 |
+| [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-03-29 |  |
 | [River Of Love](https://open.spotify.com/track/4YSeMlKdj2eqsDBjTdzfx1) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [River Of Love](https://open.spotify.com/album/5dXJTxgyxpx45nLvPw9L9G) | 4:22 | 2023-07-28 |  |
 | [Rock and Roll Doctor](https://open.spotify.com/track/1OTjwWjqNM2QFLdGGKit1C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Rock and Roll Doctor](https://open.spotify.com/album/185A6DCKTFGUj6zvUkx930) | 3:02 | 2022-01-07 | 2023-01-21 |
 | [Roll](https://open.spotify.com/track/28qparr2ZgSP8cq45EJc87) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq) | 3:12 | 2022-02-22 | 2023-01-07 |

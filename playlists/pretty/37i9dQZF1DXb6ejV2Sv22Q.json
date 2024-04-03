@@ -1,12 +1,12 @@
 {
   "description": "Raza... si dios me castigo con algo fue con dinero, nom\u00e1s pa que sepan AHHHHH JA JA JAAAAA",
-  "num_followers": 26790,
+  "num_followers": 26815,
   "original_name": "XD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTcxNjBlNTQyOGM0MmFkMWQ3MjQ0YzQzOTI2NjE3NzQ0OTU3Nzll",
+  "snapshot_id": "MCxiYjc3YzZkOGMyMGY0M2U0YjFlNWNkZjFiYzIwNzJiNTU1MmJlOTFm",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -351,30 +351,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Tipo Gatsby",
-      "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 129798,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Tipo Gatsby",
+      "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -479,42 +479,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Los Collares",
-        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Los Collares",
-      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Julietota",
-        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 212151,
-      "name": "Julietota",
-      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "all I want is you",
         "url": "https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V"
       },
@@ -531,6 +495,22 @@
       "duration_ms": 151415,
       "name": "all I want is you",
       "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Julietota",
+        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 212151,
+      "name": "Julietota",
+      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -591,6 +571,26 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "J.",
-      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "UNDERTALE Soundtrack",
         "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 57818,
       "name": "Fallen Down",
       "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Que Se Yo",
+        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 205403,
+      "name": "Que Se Yo",
+      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 189901,
       "name": "Milo J: Bzrp Music Sessions, Vol. 57",
       "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Que Se Yo",
-        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 205403,
-      "name": "Que Se Yo",
-      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 206338,
-      "name": "Que Te Vas",
-      "url": "https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 210816,
       "name": "Tu Si Eres Real",
       "url": "https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 206338,
+      "name": "Que Te Vas",
+      "url": "https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ"
     }
   ],
   "unique_name": "XD",

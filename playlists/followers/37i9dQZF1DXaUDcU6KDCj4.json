@@ -1,5 +1,5 @@
 {
-  "2024-04-02": 794483,
+  "2024-04-03": 794490,
   "date_first_scraped": "2021-12-21",
   "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: The Secret Sisters",
   "name": "Fresh Folk",
@@ -21725,10 +21725,32 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-02",
       "duration_ms": 257290,
       "name": "No Surprises (feat. Gregory Alan Isakov)",
       "url": "https://open.spotify.com/track/0G0f65AP53H6JUGRXrBRln"
+    },
+    {
+      "album": {
+        "name": "Piano Piano 2",
+        "url": "https://open.spotify.com/album/747D0AWcVto0ZQIKFkYtMS"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Fraites",
+          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257290,
+      "name": "No Surprises (feat. Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/4PiggwP9xfFdEzopJNVZaI"
     },
     {
       "album": {

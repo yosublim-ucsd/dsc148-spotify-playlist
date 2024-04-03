@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,293 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,297 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 25 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 |
 | 26 | [Benzine](https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Benzine EP](https://open.spotify.com/album/2DibufkG06qMeScycqEsXE) | 6:46 |
 | 27 | [Charme](https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 5:44 |
-| 28 | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [Laylah Arruda](https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo), [Dudu Marote](https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5), [Fabião Soares](https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf) | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ) | 3:08 |
+| 28 | [Rock The Box \- Original](https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a) | [Vermelho](https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL), [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7) | [Rock The Box](https://open.spotify.com/album/15RTVs764De4RhPcuu03li) | 6:22 |
 | 29 | [Come With Me](https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Cybass](https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p) | [Come With Me](https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7) | 4:17 |
-| 30 | [Rock The Box \- Original](https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a) | [Vermelho](https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL), [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7) | [Rock The Box](https://open.spotify.com/album/15RTVs764De4RhPcuu03li) | 6:22 |
+| 30 | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [Laylah Arruda](https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo), [Dudu Marote](https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5), [Fabião Soares](https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf) | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ) | 3:08 |
 | 31 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 |
 | 32 | [Me Destrói \- Stroka Remix](https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD), [Stroka](https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5) | [Me Destrói \(Stroka Remix\)](https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW) | 5:07 |
 | 33 | [Feel Me \- Original mix](https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5) | [Aninha](https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf) | [Feel Me](https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW) | 5:51 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 46 | [Sem Sono](https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx) | [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Sem Sono](https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t) | 5:37 |
 | 47 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 |
 | 48 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
-| 49 | [Shine \- Dance Version](https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [Shine](https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg) | 7:12 |
-| 50 | [Maytrea](https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb) | [Art in Motion](https://open.spotify.com/artist/4y3VghKwwjmfAUHo3G5rvP) | [Maytrea](https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC) | 7:32 |
+| 49 | [Maytrea](https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb) | [Art in Motion](https://open.spotify.com/artist/4y3VghKwwjmfAUHo3G5rvP) | [Maytrea](https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC) | 7:32 |
+| 50 | [Shine \- Dance Version](https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [Shine](https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg) | 7:12 |
 
-Snapshot ID: `MCw4MTAzZGI3MzhiMTdlYjExYzZjZTZiNzZhYjc0ZmVhOGFkOGZhMTgw`
+Snapshot ID: `MCxjZDc0MTVjMTU2NmJhZDNkNDQ5YWY3MDg4MzJkOGIyZThiZTcwYzIy`

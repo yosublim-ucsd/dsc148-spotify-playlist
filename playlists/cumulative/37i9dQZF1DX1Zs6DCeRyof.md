@@ -4,7 +4,7 @@
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. Young Miko en portada.
 
-148 songs - 8 hr 17 min
+149 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [BBY BOO](https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [BBY BOO](https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi) | 2:28 | 2024-01-04 |  |
 | [Bby Exxxclusive \- Remix](https://open.spotify.com/track/6BIxit6ZR2nSW53CSmd1WW) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG) | [Bby Exxxclusive \(Remix\)](https://open.spotify.com/album/4RTxAK6ttdm2E7M17Lemjg) | 4:00 | 2023-12-08 | 2024-03-23 |
 | [BEACHY](https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BEACHY](https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id) | 2:48 | 2023-06-12 | 2023-10-14 |
-| [BELLAKITA](https://open.spotify.com/track/0rT7rchVaPauZBkxreFcEy) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [BELLAKITA](https://open.spotify.com/album/3W0OEMGP4LGbJ1VlHntIhQ) | 3:02 | 2024-03-22 |  |
+| [BELLAKITA](https://open.spotify.com/track/0rT7rchVaPauZBkxreFcEy) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [BELLAKITA](https://open.spotify.com/album/3W0OEMGP4LGbJ1VlHntIhQ) | 3:02 | 2024-03-22 | 2024-04-03 |
+| [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 | 2024-03-22 |  |
 | [Bellakita](https://open.spotify.com/track/5pdaMvOqvNPxEOgyKnej38) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Bellakita](https://open.spotify.com/album/6TQTbHsOuOqUW5CVlFhvPk) | 3:02 | 2024-03-22 | 2024-03-24 |
 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 | 2024-01-30 | 2024-03-23 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-06-12 | 2023-11-29 |

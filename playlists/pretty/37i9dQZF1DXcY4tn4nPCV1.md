@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,901 likes - 210 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,934 likes - 210 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 6 | [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 |
 | 7 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 |
 | 8 | [A Love Note](https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [A Love Note](https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU) | 2:06 |
-| 9 | [What We Were](https://open.spotify.com/track/2UoHf8TmIoTM5VX7fWI3Ti) | [Derek Mount](https://open.spotify.com/artist/7pY0nn3EwHgt545AgHqwwf), [Shawn Williams](https://open.spotify.com/artist/0JhmNymqmGOpg2NWfrB0Ge), [Jeremy Bruce Mayfield](https://open.spotify.com/artist/6ZEcKgnK06ngHe03Jpa1cM), [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [What We Were](https://open.spotify.com/album/1hsVKcq4USb0S5xgqscn1u) | 2:55 |
+| 9 | [What We Were](https://open.spotify.com/track/2UoHf8TmIoTM5VX7fWI3Ti) | [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [What We Were](https://open.spotify.com/album/1hsVKcq4USb0S5xgqscn1u) | 2:55 |
 | 10 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
 | 11 | [Delight in blossom](https://open.spotify.com/track/2u4wzDADKROvGpggjRKKqm) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [Delight in blossom](https://open.spotify.com/album/5mHH5KjNt7DtiMzxRABVzi) | 2:18 |
 | 12 | [Look Up Into The Sky](https://open.spotify.com/track/2B3IRd11PnWIuoSABoGw1y) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Look Up Into The Sky](https://open.spotify.com/album/77hIdlLy7Fzt7KDpWakVte) | 2:02 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 209 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 |
 | 210 | [Duality](https://open.spotify.com/track/1sdV3pcwnK8twgSyqGtmo7) | [Bethany Howell](https://open.spotify.com/artist/0SDJYZtFgByzaTKZrb21kj) | [Water Lilies](https://open.spotify.com/album/7HUWpZuHBpU73fqW0sLEFA) | 2:13 |
 
-Snapshot ID: `MCw3ZjM1YzQyY2E3YTBmZDE3ZjEwYTUwZTliOTQzMWY0MmY3OThiNGU3`
+Snapshot ID: `MCw1NzY4Y2FjM2JjNzY3YzIxMjU3MDIyOTY3ZTFjNGFiNWQ1YzYwOThh`

@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-710 songs - 2 day 8 hr 4 min
+711 songs - 2 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2022-10-27 |  |
 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 | 2022-10-27 |  |
 | [Exit Music](https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 4:23 | 2023-01-03 |  |
-| [Fair Weather \- Remastered](https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Modern Art](https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6) | 5:44 | 2023-12-14 |  |
+| [Fair Weather \- Remastered](https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Modern Art](https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6) | 5:44 | 2023-12-14 | 2024-04-03 |
 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 | 2024-01-18 |  |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2022-10-27 |  |
 | [Felicidade](https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Double Rainbow](https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH) | 4:44 | 2023-08-30 | 2023-09-21 |
@@ -381,6 +381,7 @@
 | [Love Song From "Apache"](https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:12 | 2022-10-27 |  |
 | [Love Theme From Spartacus \- Remastered 2023](https://open.spotify.com/track/2QHFSR7VUZZfRRwZycKqSa) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds \(Remastered 2023\)](https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf) | 4:15 | 2024-02-21 |  |
 | [Love Theme From Spartacus \- Rudy Van Gelder Remaster / 2006](https://open.spotify.com/track/7yzM0pEseQUpb6BMViOPEA) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:11 | 2022-10-27 | 2024-03-02 |
+| [Love Theme From The Robe \- Remastered 2023](https://open.spotify.com/track/2JMOEBXhwGxrJGowaXMp7L) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds \(Remastered 2023\)](https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf) | 4:02 | 2024-03-20 |  |
 | [Love Theme From The Robe \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3Y6s01hMkOYdFZnWHD60Kf) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 3:57 | 2024-02-01 | 2024-03-02 |
 | [Lover Man \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/5PfcpDnzz8VdUoziFWnhrU) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 7:53 | 2022-10-27 |  |
 | [Lullaby Of Birdland](https://open.spotify.com/track/5zCiw5IsJwPk58qZ037Uop) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Lullaby Of Birdland](https://open.spotify.com/album/3qSeQ3m1oPUDGNQDcYGhut) | 2:40 | 2022-10-27 | 2023-04-30 |

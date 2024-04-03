@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Ximbo en Portada
 
-272 songs - 13 hr 45 min
+274 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 | 2021-12-13 | 2023-10-07 |
 | [Las Hijas Del Rap](https://open.spotify.com/track/0ZqIeOJEc6GGFI0remPX2Z) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Las Hijas Del Rap](https://open.spotify.com/album/2yzvkD2AxrxFQDWDy19by8) | 3:00 | 2021-12-13 |  |
 | [Latina P.I.M.P](https://open.spotify.com/track/08FlJMt7zz3rwJzXTCuKqU) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Latina P.I.M.P](https://open.spotify.com/album/1xibpvj8AmWtCR4JpyH33D) | 3:29 | 2022-09-03 | 2023-01-14 |
-| [Lente Anamórfico](https://open.spotify.com/track/1VcIWcYwKgMZyjAQuVgOvw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Lente Anamórfico](https://open.spotify.com/album/6iqnbkY71BpLZKalGwRQwo) | 2:10 | 2023-09-29 |  |
+| [Lente Anamórfico](https://open.spotify.com/track/1VcIWcYwKgMZyjAQuVgOvw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Lente Anamórfico](https://open.spotify.com/album/6iqnbkY71BpLZKalGwRQwo) | 2:10 | 2023-09-29 | 2024-04-03 |
+| [Lente Anamórfico](https://open.spotify.com/track/6cnQ390yCUFD5kqtyTsrvz) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Lente Anamórfico](https://open.spotify.com/album/1CSEq3P5lsegAnTlZ1nchx) | 2:11 | 2024-03-29 |  |
 | [Libre Como el Viento](https://open.spotify.com/track/0BEjwjdPqzIn3EL8YI4Baj) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [Libre Como el Viento](https://open.spotify.com/album/4gyyk4ythhZgy1Q0LIVtz7) | 2:18 | 2023-09-29 |  |
 | [Lick](https://open.spotify.com/track/1l9gwjr7SRHepNFio6MxLb) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo) | [Lick](https://open.spotify.com/album/3zb6F6ieaqd0qqCbiJVUnH) | 2:16 | 2021-12-13 |  |
 | [Lick \(Remix\)](https://open.spotify.com/track/54kYF5NYsTBs1XDTh0czQ4) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3) | [Lick \(Remix\)](https://open.spotify.com/album/4es9EtTbWRJEyKwJLNGu8N) | 2:19 | 2023-01-07 | 2023-02-21 |
@@ -202,7 +203,8 @@
 | [PULLIN' UP](https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 2:00 | 2023-09-08 |  |
 | [Punto](https://open.spotify.com/track/5Y35DJ1fe2ZKS7CRfvhEdY) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Punto](https://open.spotify.com/album/0Qpzn4xD3HRyi22dQxUSQi) | 2:50 | 2023-06-09 | 2024-01-13 |
 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 | 2023-06-23 |  |
-| [Quasimodo](https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Quasimodo](https://open.spotify.com/album/6qmaa1ZoiZpVHFPhgzYhaX) | 2:05 | 2024-03-15 |  |
+| [Quasimodo](https://open.spotify.com/track/0j8s3aMzNWribuvPjEyjZW) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Quasimodo](https://open.spotify.com/album/3II4zBlqHfG0rZJ3dfK2Zq) | 2:05 | 2024-03-29 |  |
+| [Quasimodo](https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Quasimodo](https://open.spotify.com/album/6qmaa1ZoiZpVHFPhgzYhaX) | 2:05 | 2024-03-15 | 2024-04-03 |
 | [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 | 2021-12-13 | 2024-02-10 |
 | [Que Si Me Ves](https://open.spotify.com/track/5j0RE87fQ7NmMe5jFPsSIZ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Si Me Ves](https://open.spotify.com/album/6jtwPwLF9kyYPczMayydIB) | 3:07 | 2021-12-13 | 2023-03-11 |
 | [Quien Paga](https://open.spotify.com/track/5bRH3E7TaWVAblEUVFI0By) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [Quien Paga](https://open.spotify.com/album/7IBdzjicSaKpYpYrFPirRT) | 1:58 | 2021-12-13 | 2022-09-11 |
